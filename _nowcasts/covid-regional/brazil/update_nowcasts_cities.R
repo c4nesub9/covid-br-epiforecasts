@@ -33,6 +33,7 @@ NCoVUtils::reset_cache()
 cities <- c(
   "AL-Maceió", "AL-Arapiraca",
   "BA-Salvador", "BA-Salvador", "BA-Vitória da Conquista", "BA-Itabuna", "BA-Juazeiro",
+  "CE-Fortaleza", "CE-Juazeiro do Norte", "CE-Sobral",
   "MA-São Luís", "MA-Imperatriz", "MA-Caxias",
   "PB-João Pessoa", "PB-Campina Grande", "PB-Sousa", "PB-Patos",
   "PE-Recife", "PE-Petrolina", "PE-Caruaru",
