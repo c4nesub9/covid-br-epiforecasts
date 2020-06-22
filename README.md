@@ -1,3 +1,3 @@
 # covid-br-model-epiforecasts
 
-[Brazil](posts/national/brazil/brazil.html)
+[Brazil](posts/national/brazil/index.html)
