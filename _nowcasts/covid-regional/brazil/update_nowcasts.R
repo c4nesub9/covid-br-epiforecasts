@@ -14,7 +14,8 @@ require(lubridate)
 
 # Get cases ---------------------------------------------------------------
 
-states_ne <- c("PB", "PE", "AL", "BA", "CE", "MA", "PI", "RN", "SE")
+#filter_states <- c("PB", "PE", "AL", "BA", "CE", "MA", "PI", "RN", "SE")
+filter_states <- NULL
 
 NCoVUtils::reset_cache()
 
@@ -23,13 +24,17 @@ NCoVUtils::reset_cache()
 #  dplyr::rename(region = state_name, region_code = state_code) %>%
 #  dplyr::filter(region_code %in% states_ne)
 
-cases <- read.csv("brazil/covid-br-data/covid-br-ms-states.csv") %>%
+cases <- read.csv("../../../covid-br-data/covid-br-ms-states.csv") %>%
   transmute(region = estado,
          region_code = estado,
          deaths = obitosNovos,
          cases = casosNovos,
-         date = ymd(data)) %>%
-  filter(region_code %in% states_ne)
+         date = ymd(data))
+
+if (!is.null(filter_states)) {
+    cases <- cases %>%
+    filter(region_code %in% filter_states)
+}
 
 region_codes <- cases %>%
   dplyr::select(region, region_code) %>%
@@ -56,7 +61,7 @@ if (!interactive()){
 }
 
 #future::plan("multiprocess", workers = round(future::availableCores() / 3))
-future::plan("multiprocess", master = "localhost", workers = round(future::availableCores() / 3))
+future::plan("multiprocess", master = "localhost", workers = round(future::availableCores()))
 #future::plan("sequential")
 
 
@@ -79,6 +84,6 @@ EpiNow::regional_rt_pipeline(
 # Summarise results -------------------------------------------------------
 
 EpiNow::regional_summary(results_dir = "brazil/states",
-                         summary_dir = "brazil/states/state-summary",
+                         summary_dir = "brazil/states-summary",
                          target_date = "latest",
                          region_scale = "Region")

@@ -31,17 +31,19 @@ NCoVUtils::reset_cache()
 # MA Chapadinha Barra da Corda Zé Doca Timon
 
 cities <- c(
-  "AL-Maceió", "AL-Arapiraca",
-  "BA-Salvador", "BA-Salvador", "BA-Vitória da Conquista", "BA-Itabuna", "BA-Juazeiro",
-  "CE-Fortaleza", "CE-Juazeiro do Norte", "CE-Sobral",
-  "MA-São Luís", "MA-Imperatriz", "MA-Caxias",
-  "PB-João Pessoa", "PB-Campina Grande", "PB-Sousa", "PB-Patos",
-  "PE-Recife", "PE-Petrolina", "PE-Caruaru",
+  "AL-Maceió",# "AL-Arapiraca",
+  "BA-Salvador",# "BA-Vitória da Conquista", "BA-Itabuna", "BA-Juazeiro",
+  "CE-Fortaleza",# "CE-Juazeiro do Norte", "CE-Sobral",
+  "MA-São Luís",# "MA-Imperatriz", "MA-Caxias",
+  "PB-João Pessoa", "PB-Campina Grande",# "PB-Sousa", "PB-Patos", "PB-Guarabira", 
+  "PE-Recife",# "PE-Petrolina", "PE-Caruaru",
   "PI-Teresina",
-  "RN-Natal", "RN-Mossoró",
-  "SE-Aracaju", "SE-Itabaiana")
+  "RN-Natal",# "RN-Mossoró",
+  "SE-Aracaju"#, "SE-Itabaiana"
+)
 
-cases <- read.csv("brazil/covid-br-data/covid-br-ms-cities.csv") %>%
+#cases <- read.csv("brazil/covid-br-data/covid-br-ms-cities.csv") %>%
+cases <- read.csv("../../../covid-br-data/covid-br-ms-cities.csv") %>%
   transmute(
     region = paste(estado, municipio, sep = "-"),
     region_code = region,
