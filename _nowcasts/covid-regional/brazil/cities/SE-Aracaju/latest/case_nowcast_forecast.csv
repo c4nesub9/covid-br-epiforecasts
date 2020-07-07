@@ -1,0 +1,224 @@
+"date","type","bottom","top","lower","upper","median","mean","rt_type"
+2020-02-13,"nowcast",1,1,1,1,1,1,NA
+2020-02-14,"nowcast",0,0,0,0,0,0,NA
+2020-02-15,"nowcast",0,0,0,0,0,0,NA
+2020-02-16,"nowcast",1,1,1,1,1,1,NA
+2020-02-17,"nowcast",0,0,0,0,0,0,NA
+2020-02-18,"nowcast",0,1,0,1,0.5,0.5,NA
+2020-02-19,"nowcast",0,1,0,0,0,0.2,NA
+2020-02-20,"nowcast",0,1,0,0,0,0.375,NA
+2020-02-21,"nowcast",0,1,0,0,0,0.2,NA
+2020-02-22,"nowcast",0,1,0,0,0,0.470588235294118,NA
+2020-02-23,"nowcast",0,1,0,0,0,0.166666666666667,NA
+2020-02-24,"nowcast",0,1,0,0,0,0.434782608695652,NA
+2020-02-25,"nowcast",0,1,0,0,0,0.4,NA
+2020-02-26,"nowcast",0,1,0,0,0,0.288888888888889,NA
+2020-02-27,"nowcast",0,1,0,0,0,0.163265306122449,NA
+2020-02-28,"nowcast",0,1,0,0,0,0.333333333333333,NA
+2020-02-29,"nowcast",0,1,0,0,0,0.259259259259259,NA
+2020-03-01,"nowcast",0,1,0,0,0,0.37962962962963,NA
+2020-03-02,"nowcast",0,1,0,0,0,0.282442748091603,NA
+2020-03-03,"nowcast",0,1,0,0,0,0.411428571428571,NA
+2020-03-04,"nowcast",0,1,0,0,0,0.324074074074074,NA
+2020-03-05,"nowcast",0,1,0,0,0,0.349809885931559,NA
+2020-03-06,"nowcast",0,1,0,0,0,0.365325077399381,NA
+2020-03-07,"nowcast",0,1,0,0,0,0.365789473684211,NA
+2020-03-08,"nowcast",0,1,0,0,0,0.413186813186813,NA
+2020-03-09,"nowcast",0,1,0,0,0,0.417132216014898,NA
+2020-03-10,"nowcast",0,1,0,0,0,0.488562091503268,NA
+2020-03-11,"nowcast",0,1,0,0,0,0.5,NA
+2020-03-12,"nowcast",0,2,0,0,0,0.574049803407602,NA
+2020-03-13,"nowcast",0,2,0,0,0,0.654589371980676,NA
+2020-03-14,"nowcast",0,2,0,1,1,0.740740740740741,NA
+2020-03-15,"nowcast",0,2,0,1,1,0.837579617834395,NA
+2020-03-16,"nowcast",0,2,0,1,1,0.990683229813665,NA
+2020-03-17,"nowcast",0,3,0,1,1,1.15939086294416,NA
+2020-03-18,"nowcast",0,3,0,1,1,1.33065326633166,NA
+2020-03-19,"nowcast",0,3,0,1,1,1.47294589178357,NA
+2020-03-20,"nowcast",0,3,1,2,2,1.709,NA
+2020-03-21,"nowcast",0,4,1,2,2,1.92,NA
+2020-03-22,"nowcast",0,4,1,2,2,2.1,NA
+2020-03-23,"nowcast",0,4,0,2,2,2.175,NA
+2020-03-24,"nowcast",0,4,0,2,2,2.298,NA
+2020-03-25,"nowcast",0,4,1,2,2,2.146,NA
+2020-03-26,"nowcast",0,4,1,2,2,2.082,NA
+2020-03-27,"nowcast",0,4,1,2,2,1.972,NA
+2020-03-28,"nowcast",0,4,1,2,2,1.984,NA
+2020-03-29,"nowcast",0,4,1,2,2,2.019,NA
+2020-03-30,"nowcast",0,4,1,2,2,2.084,NA
+2020-03-31,"nowcast",0,4,0,2,2,2.207,NA
+2020-04-01,"nowcast",0,5,0,2,2,2.398,NA
+2020-04-02,"nowcast",0,5,0,2,2,2.6,NA
+2020-04-03,"nowcast",0,6,1,3,3,2.941,NA
+2020-04-04,"nowcast",0,6,1,3,3,3.297,NA
+2020-04-05,"nowcast",0,7,2,4,4,3.88,NA
+2020-04-06,"nowcast",0,8,1,4,4,4.627,NA
+2020-04-07,"nowcast",1,9,2,5,5,5.287,NA
+2020-04-08,"nowcast",1,11,2,6,6,6.33,NA
+2020-04-09,"nowcast",1,13,4,8,7,7.697,NA
+2020-04-10,"nowcast",3,15,4,9,8.5,9.096,NA
+2020-04-11,"nowcast",4,17,7,12,11,10.988,NA
+2020-04-12,"nowcast",4,19,7,13,12,12.916,NA
+2020-04-13,"nowcast",6,23,10,16,15,15.379,NA
+2020-04-14,"nowcast",8,26,11,18,17,17.797,NA
+2020-04-15,"nowcast",9,30,14,22,21,20.963,NA
+2020-04-16,"nowcast",12,34,16,25,24,24.352,NA
+2020-04-17,"nowcast",15,39,20,30,28,28.337,NA
+2020-04-18,"nowcast",19,45,23,34,32,33.029,NA
+2020-04-19,"nowcast",23,52,30,41,37,37.883,NA
+2020-04-20,"nowcast",27,58,35,46,44,44.102,NA
+2020-04-21,"nowcast",33,65,42,55,50,49.893,NA
+2020-04-22,"nowcast",40,71,46,59,56,56.107,NA
+2020-04-23,"nowcast",45,79,55,68,62,63.069,NA
+2020-04-24,"nowcast",49,85,60,74,70,69.827,NA
+2020-04-25,"nowcast",58,94,67,81,76,76.155,NA
+2020-04-26,"nowcast",64,100,74,88,82,82.226,NA
+2020-04-27,"nowcast",69,108,78,93,88,88.292,NA
+2020-04-28,"nowcast",72,111,87,102,94,94.672,NA
+2020-04-29,"nowcast",81,120,90,106,101,100.978,NA
+2020-04-30,"nowcast",89,128,101,116,108,107.415,NA
+2020-05-01,"nowcast",93,131,107,122,113,113.264,NA
+2020-05-02,"nowcast",97,137,106,123,118,118.142,NA
+2020-05-03,"nowcast",102,140,115,130,122,122.288,NA
+2020-05-04,"nowcast",107,145,112,128,125,124.75,NA
+2020-05-05,"nowcast",106,145,118,134,126,126.569,NA
+2020-05-06,"nowcast",109,148,118,133,128,128.131,NA
+2020-05-07,"nowcast",111,151,123,138,131,131.198,NA
+2020-05-08,"nowcast",114,153,124,139,133,134.004,NA
+2020-05-09,"nowcast",118,157,125,141,137,137.426,NA
+2020-05-10,"nowcast",118,159,128,144,140,139.879,NA
+2020-05-11,"nowcast",120,158,133,148,139,139.722,NA
+2020-05-12,"nowcast",120,161,126,143,140,140.145,NA
+2020-05-13,"nowcast",119,159,131,146,140,139.743,NA
+2020-05-14,"nowcast",118,158,129,146,140,139.706,NA
+2020-05-15,"nowcast",119,160,126,143,140,140.033,NA
+2020-05-16,"nowcast",117,158,131,147,139,139.4,NA
+2020-05-17,"nowcast",113,158,125,142,137,137.691,NA
+2020-05-18,"nowcast",112,161,127,145,136,137.285,NA
+2020-05-19,"nowcast",112,164,126,146,139,139.687,NA
+2020-05-20,"nowcast",112,170,129,150,143,143.935,NA
+2020-05-21,"nowcast",125,182,133,157,151,151.681,NA
+2020-05-22,"nowcast",131,192,142,167,160,160.738,NA
+2020-05-23,"nowcast",136,200,152,178,169.5,170.39,NA
+2020-05-24,"nowcast",148,218,167,194,181,181.444,NA
+2020-05-25,"nowcast",152,227,175,205,192,193.028,NA
+2020-05-26,"nowcast",165,244,184,216,204,206.247,NA
+2020-05-27,"nowcast",174,258,198,231,219,220.74,NA
+2020-05-28,"nowcast",192,282,209,247,235,236.761,NA
+2020-05-29,"nowcast",212,304,232,270,254,255.059,NA
+2020-05-30,"nowcast",220,320,256,295,276,275.856,NA
+2020-05-31,"nowcast",245,348,272,314,297,298.115,NA
+2020-06-01,"nowcast",269,374,304,344,322,322.38,NA
+2020-06-02,"nowcast",289,397,325,371,348.5,348.951,NA
+2020-06-03,"nowcast",327,440,351,394,377,377.004,NA
+2020-06-04,"nowcast",345,456,377,419,407,406.218,NA
+2020-06-05,"nowcast",380,484,410,454,434,434.971,NA
+2020-06-06,"nowcast",409,511,446,487,462,462.755,NA
+2020-06-07,"nowcast",442,533,471,508,486,485.935,NA
+2020-06-08,"nowcast",457,547,477,515,501,500.525,NA
+2020-06-09,"nowcast",459,544,484,517,505,504.103,NA
+2020-06-10,"nowcast",455,539,472,506,496,495.126,NA
+2020-06-11,"nowcast",425,511,453,488,470.5,470.453,NA
+2020-06-12,"nowcast",381,482,414,453,436,435.774,NA
+2020-06-13,"nowcast",353,468,380,427,410,410.996,NA
+2020-03-27,"Observed by report date",NA,NA,NA,NA,0,NA,NA
+2020-03-28,"Observed by report date",NA,NA,NA,NA,13,NA,NA
+2020-03-29,"Observed by report date",NA,NA,NA,NA,0,NA,NA
+2020-03-30,"Observed by report date",NA,NA,NA,NA,0,NA,NA
+2020-03-31,"Observed by report date",NA,NA,NA,NA,3,NA,NA
+2020-04-01,"Observed by report date",NA,NA,NA,NA,1,NA,NA
+2020-04-02,"Observed by report date",NA,NA,NA,NA,3,NA,NA
+2020-04-03,"Observed by report date",NA,NA,NA,NA,1,NA,NA
+2020-04-04,"Observed by report date",NA,NA,NA,NA,2,NA,NA
+2020-04-05,"Observed by report date",NA,NA,NA,NA,4,NA,NA
+2020-04-06,"Observed by report date",NA,NA,NA,NA,0,NA,NA
+2020-04-07,"Observed by report date",NA,NA,NA,NA,3,NA,NA
+2020-04-08,"Observed by report date",NA,NA,NA,NA,0,NA,NA
+2020-04-09,"Observed by report date",NA,NA,NA,NA,2,NA,NA
+2020-04-10,"Observed by report date",NA,NA,NA,NA,1,NA,NA
+2020-04-11,"Observed by report date",NA,NA,NA,NA,0,NA,NA
+2020-04-12,"Observed by report date",NA,NA,NA,NA,2,NA,NA
+2020-04-13,"Observed by report date",NA,NA,NA,NA,0,NA,NA
+2020-04-14,"Observed by report date",NA,NA,NA,NA,1,NA,NA
+2020-04-15,"Observed by report date",NA,NA,NA,NA,1,NA,NA
+2020-04-16,"Observed by report date",NA,NA,NA,NA,0,NA,NA
+2020-04-17,"Observed by report date",NA,NA,NA,NA,3,NA,NA
+2020-04-18,"Observed by report date",NA,NA,NA,NA,12,NA,NA
+2020-04-19,"Observed by report date",NA,NA,NA,NA,4,NA,NA
+2020-04-20,"Observed by report date",NA,NA,NA,NA,3,NA,NA
+2020-04-21,"Observed by report date",NA,NA,NA,NA,1,NA,NA
+2020-04-22,"Observed by report date",NA,NA,NA,NA,14,NA,NA
+2020-04-23,"Observed by report date",NA,NA,NA,NA,2,NA,NA
+2020-04-24,"Observed by report date",NA,NA,NA,NA,18,NA,NA
+2020-04-25,"Observed by report date",NA,NA,NA,NA,4,NA,NA
+2020-04-26,"Observed by report date",NA,NA,NA,NA,2,NA,NA
+2020-04-27,"Observed by report date",NA,NA,NA,NA,28,NA,NA
+2020-04-28,"Observed by report date",NA,NA,NA,NA,61,NA,NA
+2020-04-29,"Observed by report date",NA,NA,NA,NA,31,NA,NA
+2020-04-30,"Observed by report date",NA,NA,NA,NA,77,NA,NA
+2020-05-01,"Observed by report date",NA,NA,NA,NA,42,NA,NA
+2020-05-02,"Observed by report date",NA,NA,NA,NA,47,NA,NA
+2020-05-03,"Observed by report date",NA,NA,NA,NA,81,NA,NA
+2020-05-04,"Observed by report date",NA,NA,NA,NA,36,NA,NA
+2020-05-05,"Observed by report date",NA,NA,NA,NA,96,NA,NA
+2020-05-06,"Observed by report date",NA,NA,NA,NA,71,NA,NA
+2020-05-07,"Observed by report date",NA,NA,NA,NA,162,NA,NA
+2020-05-08,"Observed by report date",NA,NA,NA,NA,178,NA,NA
+2020-05-09,"Observed by report date",NA,NA,NA,NA,102,NA,NA
+2020-05-10,"Observed by report date",NA,NA,NA,NA,125,NA,NA
+2020-05-11,"Observed by report date",NA,NA,NA,NA,15,NA,NA
+2020-05-12,"Observed by report date",NA,NA,NA,NA,161,NA,NA
+2020-05-13,"Observed by report date",NA,NA,NA,NA,151,NA,NA
+2020-05-14,"Observed by report date",NA,NA,NA,NA,154,NA,NA
+2020-05-15,"Observed by report date",NA,NA,NA,NA,144,NA,NA
+2020-05-16,"Observed by report date",NA,NA,NA,NA,170,NA,NA
+2020-05-17,"Observed by report date",NA,NA,NA,NA,76,NA,NA
+2020-05-18,"Observed by report date",NA,NA,NA,NA,137,NA,NA
+2020-05-19,"Observed by report date",NA,NA,NA,NA,228,NA,NA
+2020-05-20,"Observed by report date",NA,NA,NA,NA,189,NA,NA
+2020-05-21,"Observed by report date",NA,NA,NA,NA,181,NA,NA
+2020-05-22,"Observed by report date",NA,NA,NA,NA,97,NA,NA
+2020-05-23,"Observed by report date",NA,NA,NA,NA,126,NA,NA
+2020-05-24,"Observed by report date",NA,NA,NA,NA,100,NA,NA
+2020-05-25,"Observed by report date",NA,NA,NA,NA,73,NA,NA
+2020-05-26,"Observed by report date",NA,NA,NA,NA,167,NA,NA
+2020-05-27,"Observed by report date",NA,NA,NA,NA,86,NA,NA
+2020-05-28,"Observed by report date",NA,NA,NA,NA,131,NA,NA
+2020-05-29,"Observed by report date",NA,NA,NA,NA,161,NA,NA
+2020-05-30,"Observed by report date",NA,NA,NA,NA,160,NA,NA
+2020-05-31,"Observed by report date",NA,NA,NA,NA,117,NA,NA
+2020-06-01,"Observed by report date",NA,NA,NA,NA,129,NA,NA
+2020-06-02,"Observed by report date",NA,NA,NA,NA,210,NA,NA
+2020-06-03,"Observed by report date",NA,NA,NA,NA,182,NA,NA
+2020-06-04,"Observed by report date",NA,NA,NA,NA,109,NA,NA
+2020-06-05,"Observed by report date",NA,NA,NA,NA,249,NA,NA
+2020-06-06,"Observed by report date",NA,NA,NA,NA,183,NA,NA
+2020-06-07,"Observed by report date",NA,NA,NA,NA,173,NA,NA
+2020-06-08,"Observed by report date",NA,NA,NA,NA,276,NA,NA
+2020-06-09,"Observed by report date",NA,NA,NA,NA,243,NA,NA
+2020-06-10,"Observed by report date",NA,NA,NA,NA,264,NA,NA
+2020-06-11,"Observed by report date",NA,NA,NA,NA,243,NA,NA
+2020-06-12,"Observed by report date",NA,NA,NA,NA,371,NA,NA
+2020-06-13,"Observed by report date",NA,NA,NA,NA,788,NA,NA
+2020-06-14,"Observed by report date",NA,NA,NA,NA,712,NA,NA
+2020-06-15,"Observed by report date",NA,NA,NA,NA,1194,NA,NA
+2020-06-16,"Observed by report date",NA,NA,NA,NA,462,NA,NA
+2020-06-17,"Observed by report date",NA,NA,NA,NA,245,NA,NA
+2020-06-18,"Observed by report date",NA,NA,NA,NA,329,NA,NA
+2020-06-19,"Observed by report date",NA,NA,NA,NA,276,NA,NA
+2020-06-20,"Observed by report date",NA,NA,NA,NA,293,NA,NA
+2020-06-21,"Observed by report date",NA,NA,NA,NA,278,NA,NA
+2020-06-14,"nowcast",320,502,376,450,416,416.5386,"forecast"
+2020-06-15,"nowcast",291,517,349,439,404,404.8334,"forecast"
+2020-06-16,"nowcast",257,519,342,446,392,393.7088,"forecast"
+2020-06-17,"nowcast",223,527,319,441,385,385.3374,"forecast"
+2020-06-18,"nowcast",210,539,288,423,374,374.3172,"forecast"
+2020-06-19,"nowcast",175,540,278,427,362,363.9136,"forecast"
+2020-06-20,"nowcast",143,552,270,436,353,354.5474,"forecast"
+2020-06-21,"nowcast",116,556,237,417,340,343.5146,"forecast"
+2020-06-22,"nowcast",97,556,222,420,329,333.479,"forecast"
+2020-06-23,"nowcast",78,574,220,426,318,326.1308,"forecast"
+2020-06-24,"nowcast",39,562,176,403,311,316.7044,"forecast"
+2020-06-25,"nowcast",0,528,178,412,299,307.4398,"forecast"
+2020-06-26,"nowcast",0,531,148,400,289,299.957,"forecast"
+2020-06-27,"nowcast",0,537,104,367,281,292.7126,"forecast"
