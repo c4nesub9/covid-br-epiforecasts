@@ -1,4 +1,3 @@
-
 # Packages -----------------------------------------------------------------
 require(EpiNow, quietly = TRUE)
 require(NCoVUtils, quietly = TRUE)
@@ -9,32 +8,15 @@ require(magrittr, quietly = TRUE)
 require(data.table)
 require(forecastHybrid)
 
-require(lubridate)
-
 
 # Get cases ---------------------------------------------------------------
 
-#filter_states <- c("PB", "PE", "AL", "BA", "CE", "MA", "PI", "RN", "SE")
-filter_states <- NULL
-
 NCoVUtils::reset_cache()
 
-#cases <- NCoVUtils::get_brazil_regional_cases(geography = "states") %>%
-#  dplyr::ungroup() %>%
-#  dplyr::rename(region = state_name, region_code = state_code) %>%
-#  dplyr::filter(region_code %in% states_ne)
+cases <- NCoVUtils::get_brazil_regional_cases(geography = "states") %>%
+  dplyr::ungroup() %>%
+  dplyr::rename(region = state_name, region_code = state_code) 
 
-cases <- read.csv("../../../covid-br-data/covid-br-ms-states.csv") %>%
-  transmute(region = estado,
-         region_code = estado,
-         deaths = obitosNovos,
-         cases = casosNovos,
-         date = ymd(data))
-
-if (!is.null(filter_states)) {
-    cases <- cases %>%
-    filter(region_code %in% filter_states)
-}
 
 region_codes <- cases %>%
   dplyr::select(region, region_code) %>%
@@ -57,12 +39,9 @@ delay_defs <- readRDS("delays.rds")
 # Set up cores -----------------------------------------------------
 if (!interactive()){
   options(future.fork.enable = TRUE)
-  #options(future.fork.enable = FALSE)
 }
 
-#future::plan("multiprocess", workers = round(future::availableCores() / 3))
-future::plan("multiprocess", master = "localhost", workers = round(future::availableCores()))
-#future::plan("sequential")
+future::plan("multiprocess", workers = round(future::availableCores() / 3))
 
 
 # Run pipeline ----------------------------------------------------
@@ -70,8 +49,9 @@ future::plan("multiprocess", master = "localhost", workers = round(future::avail
 EpiNow::regional_rt_pipeline(
   cases = cases,
   delay_defs = delay_defs,
-  target_folder = "brazil/states",
+  target_folder = "brazil/regional",
   horizon = 14,
+  nowcast_lag = 10,
   approx_delay = TRUE,
   report_forecast = TRUE,
   forecast_model = function(y, ...){EpiSoon::forecastHybrid_model(
@@ -83,7 +63,7 @@ EpiNow::regional_rt_pipeline(
 
 # Summarise results -------------------------------------------------------
 
-EpiNow::regional_summary(results_dir = "brazil/states",
-                         summary_dir = "brazil/states-summary",
+EpiNow::regional_summary(results_dir = "brazil/regional",
+                         summary_dir = "brazil/regional-summary",
                          target_date = "latest",
                          region_scale = "Region")
