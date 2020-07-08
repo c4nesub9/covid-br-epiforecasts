@@ -1,3 +1,4 @@
+
 # Packages -----------------------------------------------------------------
 require(EpiNow, quietly = TRUE)
 require(NCoVUtils, quietly = TRUE)
@@ -7,36 +8,42 @@ require(tidyr, quietly = TRUE)
 require(magrittr, quietly = TRUE)
 require(data.table)
 require(forecastHybrid)
-require(stringr)
+
+require(lubridate)
 
 
 # Get cases ---------------------------------------------------------------
 
-min_total_cases <- 5000
-regions_filt <- c("Nordeste")
+#filter_states <- c("PB", "PE", "AL", "BA", "CE", "MA", "PI", "RN", "SE")
+filter_states <- NULL
 
 NCoVUtils::reset_cache()
 
-cases <- NCoVUtils::get_brazil_regional_cases(geography = "municipalities") %>%
-  dplyr::group_by(city_name) %>%
-  dplyr::mutate(total_cases = sum(cases, na.rm = TRUE)) %>%
-  dplyr::ungroup() %>%
-  dplyr::mutate(city_name = sapply(str_split(city_name, pattern = "/"),
-                                   function(x) paste(x[2:1], collapse = "-"))) %>%
-  dplyr::rename(region = city_name, region_code = state_code) %>%
-  dplyr::filter(total_cases >= min_total_cases, region_name %in% regions_filt,
-                !str_detect(region, "CASO SEM LOCALIZAÇÃO DEFINIDA"))
+#cases <- NCoVUtils::get_brazil_regional_cases(geography = "states") %>%
+#  dplyr::ungroup() %>%
+#  dplyr::rename(region = state_name, region_code = state_code) %>%
+#  dplyr::filter(region_code %in% states_ne)
 
-state_codes <- sort(unique(cases$region_code))
+cases <- read.csv("../../../covid-br-data/covid-br-ms-states.csv") %>%
+  transmute(region = estado,
+         region_code = estado,
+         deaths = obitosNovos,
+         cases = casosNovos,
+         date = ymd(data))
+
+if (!is.null(filter_states)) {
+    cases <- cases %>%
+    filter(region_code %in% filter_states)
+}
 
 region_codes <- cases %>%
   dplyr::select(region, region_code) %>%
   unique()
 
-#saveRDS(region_codes, "brazil/data/region_codes.rds")
+saveRDS(region_codes, "brazil/data/region_codes.rds")
 
 cases <- cases %>%
-  dplyr::select(-deaths) %>% 
+  dplyr::select(-deaths, -region_code) %>% 
   dplyr::rename(local = cases) %>%
   dplyr::mutate(imported = 0) %>%
   tidyr::gather(key = "import_status", value = "confirm", local, imported) %>% 
@@ -50,21 +57,21 @@ delay_defs <- readRDS("delays.rds")
 # Set up cores -----------------------------------------------------
 if (!interactive()){
   options(future.fork.enable = TRUE)
+  #options(future.fork.enable = FALSE)
 }
 
-future::plan("multiprocess", workers = round(future::availableCores()))
+#future::plan("multiprocess", workers = round(future::availableCores() / 3))
+future::plan("multiprocess", master = "localhost", workers = round(future::availableCores()))
+#future::plan("sequential")
 
-#for (state_code in state_codes) {
-#  cases_state <- filter(cases, region_code == state_code)
-  
+
 # Run pipeline ----------------------------------------------------
 
 EpiNow::regional_rt_pipeline(
   cases = cases,
   delay_defs = delay_defs,
-  target_folder = "brazil/ne-cities",
+  target_folder = "brazil/states",
   horizon = 14,
-  nowcast_lag = 10,
   approx_delay = TRUE,
   report_forecast = TRUE,
   forecast_model = function(y, ...){EpiSoon::forecastHybrid_model(
@@ -76,8 +83,7 @@ EpiNow::regional_rt_pipeline(
 
 # Summarise results -------------------------------------------------------
 
-EpiNow::regional_summary(results_dir = "brazil/ne-cities",
-                         summary_dir = "brazil/ne-cities-summary",
+EpiNow::regional_summary(results_dir = "brazil/states",
+                         summary_dir = "brazil/states-summary",
                          target_date = "latest",
                          region_scale = "Region")
-#}
