@@ -108,7 +108,7 @@ report_forecast <- TRUE
 * Regions are only included if at least 40 confirmed cases have been reported on a single day.
 
 ```{r}
-region_level <- "cities"
+region_level <- "ne-cities"
 standalone <- FALSE
 region_path <- NULL
 summary_path <- paste0("_nowcasts/covid-regional/brazil/", region_level, "-summary")
