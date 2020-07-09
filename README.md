@@ -8,6 +8,8 @@
 - `libcurl4-openssl-dev`
 - `libv8-dev`
 - `libxml2-dev`
+- `libssl-dev`
+- `libudunits2-dev`
 
 ## Install packages
 
