@@ -10,6 +10,8 @@
 - `libxml2-dev`
 - `libssl-dev`
 - `libudunits2-dev`
+- `libgdal-dev`
+- `libfontconfig1-dev`
 
 ## Install packages
 
