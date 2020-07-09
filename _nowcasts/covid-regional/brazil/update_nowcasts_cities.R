@@ -19,7 +19,8 @@ NCoVUtils::reset_cache()
 
 cases <- NCoVUtils::get_brazil_regional_cases(geography = "municipalities") %>%
   dplyr::group_by(city_name) %>%
-  dplyr::mutate(total_cases = sum(cases, na.rm = TRUE)) %>%
+  dplyr::mutate(total_cases = sum(cases, na.rm = TRUE),
+                cases = ifelse(cases < 0, 0, cases)) %>%
   dplyr::ungroup() %>%
   dplyr::mutate(city_name = sapply(str_split(city_name, pattern = "/"),
                                    function(x) paste(x[2:1], collapse = "-"))) %>%
