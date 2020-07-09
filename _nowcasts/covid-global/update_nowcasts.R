@@ -18,19 +18,11 @@ filter_country <- "Brazil"
 
 NCoVUtils::reset_cache()
 
-#cases <- NCoVUtils::get_ecdc_cases()
+cases <- NCoVUtils::get_ecdc_cases()
 
-#cases <-  NCoVUtils::format_ecdc_data(cases) 
-
-cases <- read.csv("../../../covid-br-data/covid-br-ms-country.csv") %>%
-    transmute(region = "Brazil",
-         region_code = "Brazil",
-         deaths = obitosNovos,
-         cases = as.numeric(casosNovos),
-         date = ymd(data))
-
+cases <-  NCoVUtils::format_ecdc_data(cases) 
 cases <- data.table::setDT(cases)[!is.na(region)][, 
-            `:=`(local = cases, imported = 0)][, cases := NULL]
+                                                  `:=`(local = cases, imported = 0)][, cases := NULL]
 
 cases <- data.table::melt(cases, measure.vars = c("local", "imported"),
                           variable.name = "import_status",
@@ -39,7 +31,7 @@ cases <- data.table::melt(cases, measure.vars = c("local", "imported"),
 ## Remove regions with data issues
 cases <- cases[!region %in% c("Faroe Islands", "Sao Tome and Principe", "Nicaragua")]
 
-#cases <- cases[region %in% filter_country]
+cases <- cases[region %in% filter_country]
 
 # Get linelist ------------------------------------------------------------
 
