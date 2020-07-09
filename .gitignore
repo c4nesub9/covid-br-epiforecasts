@@ -3,3 +3,6 @@
 .RData
 .Ruserdata
 _nowcasts/covid-regional/brazil/*/*/2020-*
+*.swp
+*.out
+.cache
