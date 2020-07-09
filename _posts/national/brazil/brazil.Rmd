@@ -1,7 +1,7 @@
 ---
 title: "National and Subnational estimates for Brazil"
 description: |
-  Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting both nationally and subnationally in Brazil These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively (see Methods for further explanation).
+  Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting both nationally and subnationally in Brazil These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively (see Methods or our [paper](https://wellcomeopenresearch.org/articles/5-112/) for further explanation).
 bibliography: library.bib
 output:
   distill::distill_article:
@@ -44,21 +44,13 @@ library(sf)
 ## Expected daily confirmed cases by region
 
 ```{r}
-region_level <- "states"
-
-summary_table <- readRDS(paste0("../../../_nowcasts/covid-regional/brazil/", region_level, "-summary/summary_table.rds"))
-#region_codes <- readRDS("../../../_nowcasts/covid-regional/brazil/data/region_codes.rds")
-
-rc_url <- url("https://github.com/epiforecasts/covid-regional/raw/master/brazil/data/region_codes.rds")
-region_codes <- readRDS(rc_url)
-close(rc_url)
-
-latest_date <- readRDS(paste0("../../../_nowcasts/covid-regional/brazil/",region_level, "-summary/latest_date.rds"))
+summary_table <- readRDS("../../../_nowcasts/covid-regional/brazil/regional-summary/summary_table.rds")
+region_codes <- readRDS("../../../_nowcasts/covid-regional/brazil/data/region_codes.rds")
+latest_date <- readRDS("../../../_nowcasts/covid-regional/brazil/regional-summary/latest_date.rds")
 summary_table <- summary_table %>%
   dplyr::left_join(region_codes %>%
                      dplyr::mutate(region = region),
-                   #by = c("Region" = "region"))
-                   by = c("Region" = "region_code"))
+                   by = c("Region" = "region"))
 ```
 
 ```{r map, fig.height = 6, layout="l-body-outset", out.width = "70%"}
@@ -66,8 +58,7 @@ regions <- rnaturalearth::ne_states("Brazil", returnclass = "sf") %>%
    dplyr::mutate(region_code = stringr::str_remove_all(iso_3166_2, "BR-"))
 regions_with_data <- regions %>%
    dplyr::left_join(summary_table,
-                  #by = c("region_code" = "region_code"))
-                  by = c("region_code" = "Region"))
+                  by = c("region_code" = "region_code"))
 map <- ggplot2::ggplot(regions_with_data) +
   ggplot2::geom_sf(ggplot2::aes(fill = `Expected change in daily cases`),
                    alpha = 0.8, size = 0.2, col = "white")
@@ -82,7 +73,6 @@ EpiNow::theme_map(
 
 <br>
 `r paste0("*Figure 1: The results of the latest reproduction number estimates (based on estimated cases with a date of infection on the ", latest_date , ") in Brazil, stratified by region, can be summarised by whether cases are likely increasing or decreasing. This represents the strength of the evidence that the reproduction number in each region is greater than or less than 1, respectively (see the [methods](https://epiforecasts.io/covid/methods.html) for details). Regions with fewer than 40 cases reported on a single day are not included in the analysis (light grey).*")`
-
 
 ## National summary
 
@@ -116,10 +106,9 @@ report_forecast <- TRUE
 * Regions are only included if at least 40 confirmed cases have been reported on a single day.
 
 ```{r}
-region_level <- "states"
 standalone <- FALSE
 region_path <- NULL
-summary_path <- paste0("_nowcasts/covid-regional/brazil/", region_level, "-summary")
+summary_path <- "_nowcasts/covid-regional/brazil/regional-summary"
 ```
 
 ```{r,  child = system.file("templates/_regional-summary.Rmd", package = "EpiNow")}
