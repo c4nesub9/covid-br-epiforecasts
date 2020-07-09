@@ -62,7 +62,7 @@ EpiNow::regional_rt_pipeline(
   cases = deaths,
   delay_defs = delay_defs,
   incubation_defs = incubation_defs,
-  target_folder = "brazil/deaths-ne-cities",
+  target_folder = "brazil/deaths-regional",
   case_limit = 10,
   min_forecast_cases = 50,
   horizon = 14,
