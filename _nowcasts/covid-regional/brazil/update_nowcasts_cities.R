@@ -12,7 +12,7 @@ require(stringr)
 
 # Get cases ---------------------------------------------------------------
 
-min_total_cases <- 5000
+min_total_cases <- 2000
 regions_filt <- c("Nordeste")
 
 NCoVUtils::reset_cache()
