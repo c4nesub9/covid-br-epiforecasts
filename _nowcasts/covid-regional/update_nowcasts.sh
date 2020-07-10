@@ -1,19 +1,19 @@
 #!/bin/bash
 
+RESULTS_DIR="brazil/regional"
+
 ## Update shared delay
 #Rscript update_delay.R
 
 ## Load shared delay from github
 Rscript load_delay.R
 
-## Run regions in parallel
-#Rscript germany/update_nowcasts.R & 
-#Rscript italy/update_nowcasts.R &
-#Rscript united-kingdom/update_nowcasts.R &
-#wait
+Rscript brazil/update_nowcasts.R $RESULTS_DIR
 
-#Rscript united-states/update_nowcasts.R &
-Rscript brazil/update_nowcasts.R &
-#Rscript india/update_nowcasts.R &
-wait
+errors=$(sh move_regions_with_errors.sh $RESULTS_DIR)
 
+echo $errors
+
+if [[ $errors ]]; then
+    echo Rscript brazil/update_regional_summary.R $RESULTS_DIR
+fi

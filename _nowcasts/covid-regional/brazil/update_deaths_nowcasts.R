@@ -9,6 +9,10 @@ require(data.table)
 require(forecastHybrid)
 require(stringr)
 
+argv <- commandArgs(TRUE)
+
+results_dir <- ifelse(len(argv) >= 1, argv[1], "brazil/deaths-regional")
+results_dir <- gsub("/$", "", results_dir) # remove trailing slash
 
 # Get deaths ---------------------------------------------------------------
 
@@ -62,7 +66,7 @@ EpiNow::regional_rt_pipeline(
   cases = deaths,
   delay_defs = delay_defs,
   incubation_defs = incubation_defs,
-  target_folder = "brazil/deaths-regional",
+  target_folder = results_dir, 
   case_limit = 10,
   min_forecast_cases = 50,
   horizon = 14,
@@ -79,8 +83,8 @@ future::plan("sequential")
 
 # Summarise results -------------------------------------------------------
 
-EpiNow::regional_summary(results_dir = "brazil/deaths-regional",
-                         summary_dir = "brazil/deaths-regional-summary",
+EpiNow::regional_summary(results_dir = results_dir,
+                         summary_dir = paste0(results_dir, "-summary"),
                          target_date = "latest",
                          region_scale = "Region",
                          csv_region_label = "region",

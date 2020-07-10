@@ -8,6 +8,10 @@ require(magrittr, quietly = TRUE)
 require(data.table)
 require(forecastHybrid)
 
+argv <- commandArgs(TRUE)
+
+results_dir <- ifelse(len(argv) >= 1, argv[1], "brazil/regional")
+results_dir <- gsub("/$", "", results_dir) # remove trailing slash
 
 # Get cases ---------------------------------------------------------------
 
@@ -49,7 +53,7 @@ future::plan("multiprocess", workers = round(future::availableCores()))
 EpiNow::regional_rt_pipeline(
   cases = cases,
   delay_defs = delay_defs,
-  target_folder = "brazil/regional",
+  target_folder = results_dir,
   horizon = 14,
   nowcast_lag = 10,
   approx_delay = TRUE,
@@ -63,7 +67,7 @@ EpiNow::regional_rt_pipeline(
 
 # Summarise results -------------------------------------------------------
 
-EpiNow::regional_summary(results_dir = "brazil/regional",
-                         summary_dir = "brazil/regional-summary",
+EpiNow::regional_summary(results_dir = results_dir,
+                         summary_dir = paste0(results_dir, "-summary"),
                          target_date = "latest",
                          region_scale = "Region")
