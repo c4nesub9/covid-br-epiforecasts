@@ -29,7 +29,8 @@ region_codes <- cases %>%
 saveRDS(region_codes, "brazil/data/region_codes.rds")
 
 cases <- cases %>%
-  dplyr::select(-deaths, -region_code) %>% 
+  dplyr::select(-deaths, -region_code) %>%
+  dplyr::mutate(cases = ifelse(cases < 0, 0, cases)) %>% # fix negative
   dplyr::rename(local = cases) %>%
   dplyr::mutate(imported = 0) %>%
   tidyr::gather(key = "import_status", value = "confirm", local, imported) %>% 
