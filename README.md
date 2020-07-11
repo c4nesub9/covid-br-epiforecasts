@@ -4,7 +4,7 @@ Este repositório contém resultados da execução do modelo do [EpiForecasts](h
 
 Nós apresentados resultados de nowcast e forecast de novos casos, novos óbitos, taxa de reprodução efetiva (Rt) para estados do Brasil e cidades do Nordeste.
 
-# Relatórios
+## Relatórios
 
 - [Casos: estados do Brasil](posts/national/brazil/brazil.html)
 - [Casos: cidades do Nordeste do Brasil](posts/national/ne_cities/ne_cities.html)
