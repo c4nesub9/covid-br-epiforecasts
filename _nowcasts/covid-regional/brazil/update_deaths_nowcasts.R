@@ -11,7 +11,7 @@ require(stringr)
 
 argv <- commandArgs(TRUE)
 
-results_dir <- ifelse(len(argv) >= 1, argv[1], "brazil/deaths-regional")
+results_dir <- ifelse(length(argv) >= 1, argv[1], "brazil/deaths-regional")
 results_dir <- gsub("/$", "", results_dir) # remove trailing slash
 
 # Get deaths ---------------------------------------------------------------

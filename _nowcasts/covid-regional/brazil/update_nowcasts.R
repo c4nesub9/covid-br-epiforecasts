@@ -10,7 +10,7 @@ require(forecastHybrid)
 
 argv <- commandArgs(TRUE)
 
-results_dir <- ifelse(len(argv) >= 1, argv[1], "brazil/regional")
+results_dir <- ifelse(length(argv) >= 1, argv[1], "brazil/regional")
 results_dir <- gsub("/$", "", results_dir) # remove trailing slash
 
 # Get cases ---------------------------------------------------------------

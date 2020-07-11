@@ -15,5 +15,5 @@ errors=$(sh move_regions_with_errors.sh $RESULTS_DIR)
 echo $errors
 
 if [[ $errors ]]; then
-    echo Rscript brazil/update_regional_summary.R $RESULTS_DIR
+    Rscript brazil/update_regional_summary.R $RESULTS_DIR
 fi
