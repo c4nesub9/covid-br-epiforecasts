@@ -6,10 +6,10 @@ Nós apresentados resultados de nowcast e forecast de novos casos, novos óbitos
 
 ## Relatórios
 
-- [Casos: estados do Brasil](http://marcuswac.github.io/posts/national/brazil/brazil.html)
-- [Casos: cidades do Nordeste do Brasil](http://marcuswac.github.io/posts/national/ne_cities/ne_cities.html)
-- [Óbitos: estados do Brasil](http://marcuswac.github.io/posts/national/deaths_brazil/deaths_brazil.html)
-- [Óbitos: cidades do Nordeste do Brasil](http://marcuswac.github.io/posts/national/deaths_ne_cities/deaths_ne_cities.html)
+- [Casos: estados do Brasil](https://marcuswac.github.io/covid-br-model-epiforecasts/posts/national/brazil/brazil.html)
+- [Casos: cidades do Nordeste do Brasil](https://marcuswac.github.io/covid-br-model-epiforecasts/posts/national/ne_cities/ne_cities.html)
+- [Óbitos: estados do Brasil](https://marcuswac.github.io/covid-br-model-epiforecasts/posts/national/deaths_brazil/deaths_brazil.html)
+- [Óbitos: cidades do Nordeste do Brasil](https://marcuswac.github.io/covid-br-model-epiforecasts/posts/national/deaths_ne_cities/deaths_ne_cities.html)
 
 ## Requisitos
 
