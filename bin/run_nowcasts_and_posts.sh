@@ -20,9 +20,8 @@ cd $ROOT_DIR
 bin/update_posts.sh
 
 echo "Pushing updates to github at `date`"
-git add _nowcasts/ _posts/ posts/
-git commit -m "update $DATE"
-git push
+git pull
+git add _nowcasts/ _posts/ posts/ && git commit -m "update $DATE" && git push
 
 cd $ROOT_DIR/_nowcasts/covid-regional
 echo "Starting nowcast for states at `date`"
@@ -37,6 +36,5 @@ cd $ROOT_DIR
 bin/update_posts.sh
 
 echo "Pushing updates to github at `date`"
-git add _nowcasts/ _posts/ posts/
-git commit -m "update deaths $DATE"
-git push
+git pull
+git add _nowcasts/ _posts/ posts/ && git commit -m "update deaths $DATE" && git push
