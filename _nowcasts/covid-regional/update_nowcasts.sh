@@ -10,7 +10,7 @@ Rscript load_delay.R
 
 Rscript brazil/update_nowcasts.R $RESULTS_DIR
 
-errors=$(sh move_regions_with_errors.sh $RESULTS_DIR)
+errors=$(./move_regions_with_errors.sh $RESULTS_DIR)
 
 echo $errors
 

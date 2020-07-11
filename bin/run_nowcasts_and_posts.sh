@@ -1,21 +1,23 @@
+#!/bin/bash
+
 ROOT_DIR=`pwd`
 DATE=`date`
 
 cd $ROOT_DIR/_nowcasts/covid-global
-sh ./update_nowcasts.sh &
+./update_nowcasts.sh &
 
 cd $ROOT_DIR/_nowcasts/covid-regional
 
 echo "Starting nowcast for cities at `date`"
-sh ./update_nowcasts_cities.sh
-sh ./update_regional_summary.sh brazil/ne-cities
+./update_nowcasts_cities.sh
+./update_regional_summary.sh brazil/ne-cities
 
 echo "Starting nowcast for states at `date`"
-sh ./update_nowcasts.sh
+./update_nowcasts.sh
 
 echo "Updating posts at `date`"
 cd $ROOT_DIR
-sh bin/update_posts.sh
+bin/update_posts.sh
 
 echo "Pushing updates to github at `date`"
 git add _nowcasts/ _posts/ posts/
@@ -24,15 +26,15 @@ git push
 
 cd $ROOT_DIR/_nowcasts/covid-regional
 echo "Starting nowcast for states at `date`"
-sh ./update_deaths_nowcasts_cities.sh
+./update_deaths_nowcasts_cities.sh
 
 echo "Starting deaths nowcast for states at `date`"
 cd $ROOT_DIR/_nowcasts/covid-regional
-sh ./update_deaths_nowcasts.sh
+./update_deaths_nowcasts.sh
 
 echo "Updating posts at `date`"
 cd $ROOT_DIR
-sh bin/update_posts.sh
+bin/update_posts.sh
 
 echo "Pushing updates to github at `date`"
 git add _nowcasts/ _posts/ posts/

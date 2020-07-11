@@ -1,3 +1,5 @@
+#!/bin/bash
+
 RESULTS_DIR=${1%/} # remove slash if present
 ERROR_DIR=${RESULTS_DIR}-errors
 
