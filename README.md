@@ -2,7 +2,7 @@
 
 Este repositório contém resultados da execução do modelo do [EpiForecasts](https://epiforecasts.io), que tem o código disponível em https://github.com/epiforecasts/covid.
 
-Nós apresentados resultados de nowcast e forecast de novos casos, novos óbitos, taxa de reprodução efetiva (Rt) para estados do Brasil e cidades do Nordeste.
+São apresentados resultados de _nowcast_ e _forecast_ de novos casos, novos óbitos, taxa de reprodução efetiva (Rt) para estados do Brasil e cidades do Nordeste.
 
 ## Relatórios
 
