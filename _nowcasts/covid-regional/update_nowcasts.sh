@@ -17,3 +17,5 @@ echo $errors
 if [[ $errors ]]; then
     Rscript brazil/update_regional_summary.R $RESULTS_DIR
 fi
+
+Rscript export_csv_cases.R $RESULTS_DIR
