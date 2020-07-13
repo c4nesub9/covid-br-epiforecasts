@@ -21,16 +21,17 @@ for (region in regions) {
   summarised_nowcast <- file.path(res_dir, "summarised_nowcast.rds") %>%
     readRDS() %>%
     filter(type == "nowcast") %>%
-    select(-confidence)
+    select(date:mean)
   
   cases_forecast <- file.path(res_dir, "case_forecast.rds") %>%
     readRDS() %>%
-    select(-std, -range, -type) %>%
+    select(date:mean) %>%
     rename(type = rt_type)
   
   cases <- summarised_nowcast %>%
     bind_rows(cases_forecast) %>%
-    mutate(region)
+    mutate(region) %>%
+    select(region, everything())
 
   write.csv(cases, output_cases_csv, row.names = FALSE)
   
@@ -38,9 +39,9 @@ for (region in regions) {
   
   rt <- file.path(res_dir, "summarised_reff.rds") %>%
     readRDS() %>%
-    select(-type, -(mean_window:R0_range)) %>%
-    rename(type = rt_type) %>%
-    mutate(region)
+    mutate(region) %>%
+    select(region, date:prob_control) %>%
+    rename(type = rt_type)
   
   write.csv(rt, output_rt_csv, row.names = FALSE)
   
