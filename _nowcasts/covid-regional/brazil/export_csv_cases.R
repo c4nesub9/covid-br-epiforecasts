@@ -9,32 +9,46 @@ summary_dir <- paste0(results_dir, "-summary")
   
 regions <- list.files(results_dir)
 
-res_df_all <- tibble()
+cases_all <- tibble()
+rt_all <- tibble()
 
 for (region in regions) {
   res_dir <- file.path(results_dir, region, "latest")
-  output_csv <- file.path(res_dir, "case_nowcast_forecast.csv")
-  print(paste("exporting at", output_csv))
+  output_cases_csv <- file.path(res_dir, "cases_nowcast_forecast.csv")
+  output_rt_csv <- file.path(res_dir, "rt_nowcast_forecast.csv")
+  print(paste("exporting at", output_cases_csv, "and", output_rt_csv))
   
   summarised_nowcast <- file.path(res_dir, "summarised_nowcast.rds") %>%
     readRDS() %>%
     filter(type == "nowcast") %>%
     select(-confidence)
   
-  case_forecast <- file.path(res_dir, "case_forecast.rds") %>%
+  cases_forecast <- file.path(res_dir, "case_forecast.rds") %>%
     readRDS() %>%
     select(-std, -range, -type) %>%
     rename(type = rt_type)
   
-  res_df <- summarised_nowcast %>%
-    bind_rows(case_forecast) %>%
+  cases <- summarised_nowcast %>%
+    bind_rows(cases_forecast) %>%
+    mutate(region)
+
+  write.csv(cases, output_cases_csv, row.names = FALSE)
+  
+  cases_all <- bind_rows(cases_all, cases)
+  
+  rt <- file.path(res_dir, "summarised_reff.rds") %>%
+    readRDS() %>%
+    select(-type, -(mean_window:R0_range)) %>%
+    rename(type = rt_type) %>%
     mutate(region)
   
-  write.csv(res_df, output_csv, row.names = FALSE)
+  write.csv(rt, output_rt_csv, row.names = FALSE)
   
-  res_df_all <- bind_rows(res_df_all, res_df)
+  rt_all <- bind_rows(rt_all, rt)
 }
 
-output_summary_csv <- file.path(summary_dir, "case_nowcast_forecast.csv")
-print(paste("exporting summary at", output_summary_csv))
-write.csv(res_df_all, output_summary_csv, row.names = FALSE)
+output_cases_summary_csv <- file.path(summary_dir, "cases_nowcast_forecast.csv")
+output_rt_summary_csv <- file.path(summary_dir, "rt_nowcast_forecast.csv")
+print(paste("exporting summary at", output_cases_summary_csv, "and", output_rt_summary_csv))
+write.csv(cases_all, output_cases_summary_csv, row.names = FALSE)
+write.csv(rt_all, output_rt_summary_csv, row.names = FALSE)
