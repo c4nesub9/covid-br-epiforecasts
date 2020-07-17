@@ -1,0 +1,2350 @@
+"region","date","type","bottom","top","lower","upper","median","mean"
+"BA-Alagoinhas",2020-02-18,"nowcast",1,1,1,1,1,1
+"BA-Alagoinhas",2020-02-19,"nowcast",0,0,0,0,0,0
+"BA-Alagoinhas",2020-02-20,"nowcast",0,0,0,0,0,0
+"BA-Alagoinhas",2020-02-21,"nowcast",0,0,0,0,0,0
+"BA-Alagoinhas",2020-02-22,"nowcast",0,1,0,1,0.5,0.5
+"BA-Alagoinhas",2020-02-23,"nowcast",0,1,0,0,0,0.333333333333333
+"BA-Alagoinhas",2020-02-24,"nowcast",0,1,0,0,0,0.25
+"BA-Alagoinhas",2020-02-25,"nowcast",0,1,0,0,0,0.2
+"BA-Alagoinhas",2020-02-26,"nowcast",0,1,0,0,0,0.428571428571429
+"BA-Alagoinhas",2020-02-27,"nowcast",0,1,0,0,0,0.142857142857143
+"BA-Alagoinhas",2020-02-28,"nowcast",0,1,0,1,0.5,0.5
+"BA-Alagoinhas",2020-02-29,"nowcast",0,1,0,0,0,0.2
+"BA-Alagoinhas",2020-03-01,"nowcast",0,1,0,0,0,0.416666666666667
+"BA-Alagoinhas",2020-03-02,"nowcast",0,1,0,0,0,0.222222222222222
+"BA-Alagoinhas",2020-03-03,"nowcast",0,1,0,0,0,0.242424242424242
+"BA-Alagoinhas",2020-03-04,"nowcast",0,1,0,0,0,0.275
+"BA-Alagoinhas",2020-03-05,"nowcast",0,1,0,0,0,0.327272727272727
+"BA-Alagoinhas",2020-03-06,"nowcast",0,1,0,0,0,0.342105263157895
+"BA-Alagoinhas",2020-03-07,"nowcast",0,1,0,0,0,0.306122448979592
+"BA-Alagoinhas",2020-03-08,"nowcast",0,1,0,0,0,0.305785123966942
+"BA-Alagoinhas",2020-03-09,"nowcast",0,1,0,0,0,0.341463414634146
+"BA-Alagoinhas",2020-03-10,"nowcast",0,1,0,0,0,0.28042328042328
+"BA-Alagoinhas",2020-03-11,"nowcast",0,1,0,0,0,0.336170212765957
+"BA-Alagoinhas",2020-03-12,"nowcast",0,1,0,0,0,0.279569892473118
+"BA-Alagoinhas",2020-03-13,"nowcast",0,1,0,0,0,0.284431137724551
+"BA-Alagoinhas",2020-03-14,"nowcast",0,1,0,0,0,0.296758104738155
+"BA-Alagoinhas",2020-03-15,"nowcast",0,1,0,0,0,0.29004329004329
+"BA-Alagoinhas",2020-03-16,"nowcast",0,1,0,0,0,0.309124767225326
+"BA-Alagoinhas",2020-03-17,"nowcast",0,1,0,0,0,0.323151125401929
+"BA-Alagoinhas",2020-03-18,"nowcast",0,1,0,0,0,0.359598853868195
+"BA-Alagoinhas",2020-03-19,"nowcast",0,1,0,0,0,0.32470892626132
+"BA-Alagoinhas",2020-03-20,"nowcast",0,1,0,0,0,0.320048309178744
+"BA-Alagoinhas",2020-03-21,"nowcast",0,1,0,0,0,0.367647058823529
+"BA-Alagoinhas",2020-03-22,"nowcast",0,1,0,0,0,0.340262582056893
+"BA-Alagoinhas",2020-03-23,"nowcast",0,1,0,0,0,0.32237539766702
+"BA-Alagoinhas",2020-03-24,"nowcast",0,1,0,0,0,0.31875
+"BA-Alagoinhas",2020-03-25,"nowcast",0,1,0,0,0,0.346074380165289
+"BA-Alagoinhas",2020-03-26,"nowcast",0,1,0,0,0,0.328556806550665
+"BA-Alagoinhas",2020-03-27,"nowcast",0,1,0,0,0,0.313705583756345
+"BA-Alagoinhas",2020-03-28,"nowcast",0,1,0,0,0,0.286437246963563
+"BA-Alagoinhas",2020-03-29,"nowcast",0,1,0,0,0,0.243188698284561
+"BA-Alagoinhas",2020-03-30,"nowcast",0,1,0,0,0,0.207661290322581
+"BA-Alagoinhas",2020-03-31,"nowcast",0,1,0,0,0,0.147738693467337
+"BA-Alagoinhas",2020-04-01,"nowcast",0,1,0,0,0,0.122613065326633
+"BA-Alagoinhas",2020-04-02,"nowcast",0,0,0,0,0,0.104522613065327
+"BA-Alagoinhas",2020-04-03,"nowcast",0,0,0,0,0,0.0613065326633166
+"BA-Alagoinhas",2020-04-04,"nowcast",0,0,0,0,0,0.0552763819095477
+"BA-Alagoinhas",2020-04-05,"nowcast",0,0,0,0,0,0.0753012048192771
+"BA-Alagoinhas",2020-04-06,"nowcast",0,0,0,0,0,0.0642570281124498
+"BA-Alagoinhas",2020-04-07,"nowcast",0,0,0,0,0,0.103413654618474
+"BA-Alagoinhas",2020-04-08,"nowcast",0,1,0,0,0,0.1285140562249
+"BA-Alagoinhas",2020-04-09,"nowcast",0,1,0,0,0,0.155622489959839
+"BA-Alagoinhas",2020-04-10,"nowcast",0,1,0,0,0,0.128256513026052
+"BA-Alagoinhas",2020-04-11,"nowcast",0,1,0,0,0,0.172344689378758
+"BA-Alagoinhas",2020-04-12,"nowcast",0,1,0,0,0,0.218436873747495
+"BA-Alagoinhas",2020-04-13,"nowcast",0,1,0,0,0,0.225450901803607
+"BA-Alagoinhas",2020-04-14,"nowcast",0,1,0,0,0,0.198
+"BA-Alagoinhas",2020-04-15,"nowcast",0,1,0,0,0,0.221
+"BA-Alagoinhas",2020-04-16,"nowcast",0,1,0,0,0,0.243
+"BA-Alagoinhas",2020-04-17,"nowcast",0,1,0,0,0,0.212
+"BA-Alagoinhas",2020-04-18,"nowcast",0,1,0,0,0,0.206
+"BA-Alagoinhas",2020-04-19,"nowcast",0,1,0,0,0,0.205
+"BA-Alagoinhas",2020-04-20,"nowcast",0,1,0,0,0,0.207
+"BA-Alagoinhas",2020-04-21,"nowcast",0,1,0,0,0,0.182
+"BA-Alagoinhas",2020-04-22,"nowcast",0,1,0,0,0,0.234
+"BA-Alagoinhas",2020-04-23,"nowcast",0,1,0,0,0,0.285
+"BA-Alagoinhas",2020-04-24,"nowcast",0,1,0,0,0,0.33
+"BA-Alagoinhas",2020-04-25,"nowcast",0,1,0,0,0,0.368
+"BA-Alagoinhas",2020-04-26,"nowcast",0,1,0,0,0,0.407
+"BA-Alagoinhas",2020-04-27,"nowcast",0,1,0,0,0,0.454
+"BA-Alagoinhas",2020-04-28,"nowcast",0,1,0,0,0,0.521
+"BA-Alagoinhas",2020-04-29,"nowcast",0,2,0,0,0,0.615
+"BA-Alagoinhas",2020-04-30,"nowcast",0,2,0,1,1,0.713
+"BA-Alagoinhas",2020-05-01,"nowcast",0,2,0,1,1,0.804
+"BA-Alagoinhas",2020-05-02,"nowcast",0,2,0,1,1,0.89
+"BA-Alagoinhas",2020-05-03,"nowcast",0,2,0,1,1,1.104
+"BA-Alagoinhas",2020-05-04,"nowcast",0,3,0,1,1,1.301
+"BA-Alagoinhas",2020-05-05,"nowcast",0,3,0,1,1,1.507
+"BA-Alagoinhas",2020-05-06,"nowcast",0,4,1,2,2,1.707
+"BA-Alagoinhas",2020-05-07,"nowcast",0,4,1,2,2,1.945
+"BA-Alagoinhas",2020-05-08,"nowcast",0,4,1,2,2,2.06
+"BA-Alagoinhas",2020-05-09,"nowcast",0,4,0,2,2,2.337
+"BA-Alagoinhas",2020-05-10,"nowcast",0,5,0,2,2,2.627
+"BA-Alagoinhas",2020-05-11,"nowcast",0,5,1,3,3,2.797
+"BA-Alagoinhas",2020-05-12,"nowcast",0,5,1,3,3,3.12
+"BA-Alagoinhas",2020-05-13,"nowcast",0,6,1,3,3,3.404
+"BA-Alagoinhas",2020-05-14,"nowcast",1,7,2,4,4,3.864
+"BA-Alagoinhas",2020-05-15,"nowcast",1,7,2,4,4,4.224
+"BA-Alagoinhas",2020-05-16,"nowcast",1,8,2,5,5,4.784
+"BA-Alagoinhas",2020-05-17,"nowcast",1,8,2,5,5,5.226
+"BA-Alagoinhas",2020-05-18,"nowcast",2,9,3,6,6,5.904
+"BA-Alagoinhas",2020-05-19,"nowcast",2,10,4,7,6,6.387
+"BA-Alagoinhas",2020-05-20,"nowcast",2,10,4,7,7,7.017
+"BA-Alagoinhas",2020-05-21,"nowcast",3,11,5,8,7,7.444
+"BA-Alagoinhas",2020-05-22,"nowcast",3,12,6,9,8,8.094
+"BA-Alagoinhas",2020-05-23,"nowcast",3,12,7,10,9,8.627
+"BA-Alagoinhas",2020-05-24,"nowcast",4,13,7,10,9,9.296
+"BA-Alagoinhas",2020-05-25,"nowcast",5,14,7,10,10,9.802
+"BA-Alagoinhas",2020-05-26,"nowcast",5,15,7,11,10,10.312
+"BA-Alagoinhas",2020-05-27,"nowcast",5,15,7,11,11,10.868
+"BA-Alagoinhas",2020-05-28,"nowcast",6,16,8,12,11,11.178
+"BA-Alagoinhas",2020-05-29,"nowcast",6,16,8,12,11,11.356
+"BA-Alagoinhas",2020-05-30,"nowcast",6,16,8,12,11,11.168
+"BA-Alagoinhas",2020-05-31,"nowcast",6,16,7,11,10,10.669
+"BA-Alagoinhas",2020-06-01,"nowcast",4,14,6,10,10,9.986
+"BA-Alagoinhas",2020-06-02,"nowcast",3,13,6,10,9,9.294
+"BA-Alagoinhas",2020-06-03,"nowcast",5,14,7,10,9,9.115
+"BA-Alagoinhas",2020-06-04,"nowcast",4,13,7,10,9,8.786
+"BA-Alagoinhas",2020-06-05,"nowcast",5,14,7,10,9,9.237
+"BA-Alagoinhas",2020-06-06,"nowcast",5,14,6,10,10,9.87
+"BA-Alagoinhas",2020-06-07,"nowcast",5,15,7,11,10,10.518
+"BA-Alagoinhas",2020-06-08,"nowcast",6,16,7,11,11,11.384
+"BA-Alagoinhas",2020-06-09,"nowcast",7,17,9,13,12,12.154
+"BA-Alagoinhas",2020-06-10,"nowcast",7,18,10,14,13,13.048
+"BA-Alagoinhas",2020-06-11,"nowcast",7,19,11,15,13,13.776
+"BA-Alagoinhas",2020-06-12,"nowcast",8,20,10,15,14,14.535
+"BA-Alagoinhas",2020-06-13,"nowcast",7,20,10,15,15,14.912
+"BA-Alagoinhas",2020-06-14,"nowcast",9,22,12,17,15,15.608
+"BA-Alagoinhas",2020-06-15,"nowcast",10,23,13,18,17,16.924
+"BA-Alagoinhas",2020-06-16,"nowcast",11,25,15,20,18,18.179
+"BA-Alagoinhas",2020-06-17,"nowcast",13,27,18,23,20,20.199
+"BA-Alagoinhas",2020-06-18,"nowcast",14,29,19,24,22,22.097
+"BA-Alagoinhas",2020-06-19,"nowcast",14,30,19,25,23,23.303
+"BA-Alagoinhas",2020-06-20,"nowcast",15,31,20,26,24,24.456
+"BA-Alagoinhas",2020-06-21,"nowcast",17,33,22,28,26,25.673
+"BA-Alagoinhas",2020-06-22,"nowcast",18,34,23,29,26,26.344
+"BA-Alagoinhas",2020-06-23,"nowcast",17,33,22,28,27,26.703
+"BA-Alagoinhas",2020-06-24,"nowcast",17,33,22,28,27,26.995
+"BA-Alagoinhas",2020-06-25,"nowcast",18,35,22,29,27,27.415
+"BA-Alagoinhas",2020-06-26,"nowcast",20,36,26,32,28,28.617
+"BA-Alagoinhas",2020-06-27,"nowcast",20,37,24,31,30,29.765
+"BA-Alagoinhas",2020-06-28,"nowcast",21,39,25,32,30,30.802
+"BA-Alagoinhas",2020-06-29,"nowcast",23,41,27,34,32,31.755
+"BA-Alagoinhas",2020-06-30,"nowcast",22,40,27,34,32,32.123
+"BA-Alagoinhas",2020-07-01,"nowcast",24,43,27,35,33,33.604
+"BA-Alagoinhas",2020-07-02,"nowcast",22,42,27,35,33,33.771
+"BA-Alagoinhas",2020-07-03,"nowcast",23,43,27,35,34,34.363
+"BA-Alagoinhas",2020-07-04,"nowcast",25,45,28,36,34,34.561
+"BA-Alagoinhas",2020-07-05,"nowcast",23,45,28,36,34,34.04
+"BA-Alagoinhas",2020-07-06,"forecast",18,51,27,40,35,36.3464
+"BA-Alagoinhas",2020-07-07,"forecast",18,55,25,40,36,37.1378
+"BA-Alagoinhas",2020-07-08,"forecast",15,57,26,42,37,38.3598
+"BA-Alagoinhas",2020-07-09,"forecast",16,62,23,42,38,39.5264
+"BA-Alagoinhas",2020-07-10,"forecast",12,64,26,46,39,40.4092
+"BA-Alagoinhas",2020-07-11,"forecast",11,68,23,45,39,41.357
+"BA-Alagoinhas",2020-07-12,"forecast",9,71,21,45,40,42.5392
+"BA-Alagoinhas",2020-07-13,"forecast",9,74,22,47,41,43.678
+"BA-Alagoinhas",2020-07-14,"forecast",6,78,21,49,41,44.9676
+"BA-Alagoinhas",2020-07-15,"forecast",4,82,18,48,42,46.8142
+"BA-Alagoinhas",2020-07-16,"forecast",4,86,17,49,43.5,47.997
+"BA-Alagoinhas",2020-07-17,"forecast",0,88,21,54,43,49.304
+"BA-Alagoinhas",2020-07-18,"forecast",0,93,14,50,44,50.92
+"BA-Alagoinhas",2020-07-19,"forecast",0,96,13,51,44,52.463
+"BA-Barreiras",2020-02-16,"nowcast",1,1,1,1,1,1
+"BA-Barreiras",2020-02-17,"nowcast",0,0,0,0,0,0
+"BA-Barreiras",2020-02-18,"nowcast",0,1,0,1,0.5,0.5
+"BA-Barreiras",2020-02-19,"nowcast",0,1,0,1,0.5,0.5
+"BA-Barreiras",2020-02-20,"nowcast",0,1,0,1,0.5,0.5
+"BA-Barreiras",2020-02-21,"nowcast",0,1,0,0,0,0.333333333333333
+"BA-Barreiras",2020-02-22,"nowcast",0,0,0,0,0,0
+"BA-Barreiras",2020-02-23,"nowcast",0,1,0,0,0,0.333333333333333
+"BA-Barreiras",2020-02-24,"nowcast",0,1,0,0,0,0.181818181818182
+"BA-Barreiras",2020-02-25,"nowcast",0,1,0,0,0,0.25
+"BA-Barreiras",2020-02-26,"nowcast",0,1,0,0,0,0.2
+"BA-Barreiras",2020-02-27,"nowcast",0,1,0,0,0,0.454545454545455
+"BA-Barreiras",2020-02-28,"nowcast",0,1,0,0,0,0.344827586206897
+"BA-Barreiras",2020-02-29,"nowcast",0,1,0,0,0,0.171428571428571
+"BA-Barreiras",2020-03-01,"nowcast",0,1,0,0,0,0.272727272727273
+"BA-Barreiras",2020-03-02,"nowcast",0,1,0,0,0,0.203703703703704
+"BA-Barreiras",2020-03-03,"nowcast",0,1,0,0,0,0.279411764705882
+"BA-Barreiras",2020-03-04,"nowcast",0,1,0,0,0,0.20253164556962
+"BA-Barreiras",2020-03-05,"nowcast",0,1,0,0,0,0.193548387096774
+"BA-Barreiras",2020-03-06,"nowcast",0,1,0,0,0,0.207207207207207
+"BA-Barreiras",2020-03-07,"nowcast",0,1,0,0,0,0.25
+"BA-Barreiras",2020-03-08,"nowcast",0,1,0,0,0,0.239520958083832
+"BA-Barreiras",2020-03-09,"nowcast",0,1,0,0,0,0.185567010309278
+"BA-Barreiras",2020-03-10,"nowcast",0,1,0,0,0,0.225531914893617
+"BA-Barreiras",2020-03-11,"nowcast",0,1,0,0,0,0.223776223776224
+"BA-Barreiras",2020-03-12,"nowcast",0,1,0,0,0,0.214705882352941
+"BA-Barreiras",2020-03-13,"nowcast",0,1,0,0,0,0.190721649484536
+"BA-Barreiras",2020-03-14,"nowcast",0,1,0,0,0,0.183673469387755
+"BA-Barreiras",2020-03-15,"nowcast",0,1,0,0,0,0.166666666666667
+"BA-Barreiras",2020-03-16,"nowcast",0,1,0,0,0,0.123388581952118
+"BA-Barreiras",2020-03-17,"nowcast",0,1,0,0,0,0.128378378378378
+"BA-Barreiras",2020-03-18,"nowcast",0,0,0,0,0,0.0832
+"BA-Barreiras",2020-03-19,"nowcast",0,0,0,0,0,0.0469483568075117
+"BA-Barreiras",2020-03-20,"nowcast",0,0,0,0,0,0.0337423312883436
+"BA-Barreiras",2020-03-21,"nowcast",0,0,0,0,0,0.00763358778625954
+"BA-Barreiras",2020-03-22,"nowcast",0,0,0,0,0,0.0030441400304414
+"BA-Barreiras",2020-03-23,"nowcast",0,0,0,0,0,0
+"BA-Barreiras",2020-03-24,"nowcast",0,0,0,0,0,0
+"BA-Barreiras",2020-03-25,"nowcast",0,0,0,0,0,0
+"BA-Barreiras",2020-03-26,"nowcast",0,0,0,0,0,0
+"BA-Barreiras",2020-03-27,"nowcast",0,0,0,0,0,0
+"BA-Barreiras",2020-03-28,"nowcast",0,0,0,0,0,0
+"BA-Barreiras",2020-03-29,"nowcast",0,0,0,0,0,0
+"BA-Barreiras",2020-03-30,"nowcast",0,0,0,0,0,0
+"BA-Barreiras",2020-03-31,"nowcast",0,0,0,0,0,0
+"BA-Barreiras",2020-04-01,"nowcast",0,0,0,0,0,0
+"BA-Barreiras",2020-04-02,"nowcast",0,0,0,0,0,0
+"BA-Barreiras",2020-04-03,"nowcast",0,0,0,0,0,0
+"BA-Barreiras",2020-04-04,"nowcast",0,0,0,0,0,0.0015220700152207
+"BA-Barreiras",2020-04-05,"nowcast",0,0,0,0,0,0.0045662100456621
+"BA-Barreiras",2020-04-06,"nowcast",0,0,0,0,0,0
+"BA-Barreiras",2020-04-07,"nowcast",0,0,0,0,0,0.0076103500761035
+"BA-Barreiras",2020-04-08,"nowcast",0,0,0,0,0,0.0030441400304414
+"BA-Barreiras",2020-04-09,"nowcast",0,0,0,0,0,0.00455235204855842
+"BA-Barreiras",2020-04-10,"nowcast",0,0,0,0,0,0.0121028744326778
+"BA-Barreiras",2020-04-11,"nowcast",0,0,0,0,0,0.00904977375565611
+"BA-Barreiras",2020-04-12,"nowcast",0,0,0,0,0,0.00900900900900901
+"BA-Barreiras",2020-04-13,"nowcast",0,0,0,0,0,0.0164670658682635
+"BA-Barreiras",2020-04-14,"nowcast",0,0,0,0,0,0.0282317979197623
+"BA-Barreiras",2020-04-15,"nowcast",0,0,0,0,0,0.0251479289940828
+"BA-Barreiras",2020-04-16,"nowcast",0,0,0,0,0,0.0452554744525547
+"BA-Barreiras",2020-04-17,"nowcast",0,0,0,0,0,0.0515021459227468
+"BA-Barreiras",2020-04-18,"nowcast",0,0,0,0,0,0.0689170182841069
+"BA-Barreiras",2020-04-19,"nowcast",0,0,0,0,0,0.0922865013774105
+"BA-Barreiras",2020-04-20,"nowcast",0,1,0,0,0,0.112010796221323
+"BA-Barreiras",2020-04-21,"nowcast",0,1,0,0,0,0.124503311258278
+"BA-Barreiras",2020-04-22,"nowcast",0,1,0,0,0,0.153645833333333
+"BA-Barreiras",2020-04-23,"nowcast",0,1,0,0,0,0.181933842239186
+"BA-Barreiras",2020-04-24,"nowcast",0,1,0,0,0,0.222906403940887
+"BA-Barreiras",2020-04-25,"nowcast",0,1,0,0,0,0.254480286738351
+"BA-Barreiras",2020-04-26,"nowcast",0,1,0,0,0,0.331018518518519
+"BA-Barreiras",2020-04-27,"nowcast",0,1,0,0,0,0.349438202247191
+"BA-Barreiras",2020-04-28,"nowcast",0,1,0,0,0,0.394967177242888
+"BA-Barreiras",2020-04-29,"nowcast",0,1,0,0,0,0.507430997876858
+"BA-Barreiras",2020-04-30,"nowcast",0,2,0,0,0,0.641372141372141
+"BA-Barreiras",2020-05-01,"nowcast",0,2,0,1,1,0.715746421267894
+"BA-Barreiras",2020-05-02,"nowcast",0,2,0,1,1,0.847474747474747
+"BA-Barreiras",2020-05-03,"nowcast",0,2,0,1,1,0.978851963746224
+"BA-Barreiras",2020-05-04,"nowcast",0,3,0,1,1,1.12024048096192
+"BA-Barreiras",2020-05-05,"nowcast",0,3,0,1,1,1.329
+"BA-Barreiras",2020-05-06,"nowcast",0,3,0,1,1,1.541
+"BA-Barreiras",2020-05-07,"nowcast",0,3,1,2,2,1.75
+"BA-Barreiras",2020-05-08,"nowcast",0,4,1,2,2,2.104
+"BA-Barreiras",2020-05-09,"nowcast",0,4,0,2,2,2.315
+"BA-Barreiras",2020-05-10,"nowcast",0,5,0,2,2,2.576
+"BA-Barreiras",2020-05-11,"nowcast",0,5,1,3,3,2.939
+"BA-Barreiras",2020-05-12,"nowcast",0,5,1,3,3,3.077
+"BA-Barreiras",2020-05-13,"nowcast",1,6,1,3,3,3.339
+"BA-Barreiras",2020-05-14,"nowcast",1,6,2,4,3,3.581
+"BA-Barreiras",2020-05-15,"nowcast",0,6,2,4,4,3.788
+"BA-Barreiras",2020-05-16,"nowcast",0,6,2,4,4,3.968
+"BA-Barreiras",2020-05-17,"nowcast",1,7,2,4,4,4.146
+"BA-Barreiras",2020-05-18,"nowcast",1,7,2,4,4,4.333
+"BA-Barreiras",2020-05-19,"nowcast",1,7,3,5,4,4.322
+"BA-Barreiras",2020-05-20,"nowcast",0,7,3,5,4,4.502
+"BA-Barreiras",2020-05-21,"nowcast",2,8,3,5,5,4.823
+"BA-Barreiras",2020-05-22,"nowcast",1,8,2,5,5,5.23
+"BA-Barreiras",2020-05-23,"nowcast",2,9,2,5,5,5.636
+"BA-Barreiras",2020-05-24,"nowcast",1,9,3,6,6,6.079
+"BA-Barreiras",2020-05-25,"nowcast",3,10,4,7,6,6.478
+"BA-Barreiras",2020-05-26,"nowcast",3,11,4,7,7,7
+"BA-Barreiras",2020-05-27,"nowcast",3,11,5,8,7,7.296
+"BA-Barreiras",2020-05-28,"nowcast",3,11,5,8,8,7.695
+"BA-Barreiras",2020-05-29,"nowcast",4,12,6,9,8,8.029
+"BA-Barreiras",2020-05-30,"nowcast",4,12,6,9,8,8.142
+"BA-Barreiras",2020-05-31,"nowcast",3,12,6,9,8,8.335
+"BA-Barreiras",2020-06-01,"nowcast",3,12,6,9,8,8.318
+"BA-Barreiras",2020-06-02,"nowcast",3,12,6,9,8,8.206
+"BA-Barreiras",2020-06-03,"nowcast",3,11,5,8,7.5,7.612
+"BA-Barreiras",2020-06-04,"nowcast",2,11,6,9,7,7.606
+"BA-Barreiras",2020-06-05,"nowcast",3,11,5,8,8,7.649
+"BA-Barreiras",2020-06-06,"nowcast",3,12,6,9,8,7.973
+"BA-Barreiras",2020-06-07,"nowcast",3,12,6,9,8,8.34
+"BA-Barreiras",2020-06-08,"nowcast",4,13,7,10,9,8.901
+"BA-Barreiras",2020-06-09,"nowcast",4,14,6,10,9,9.543
+"BA-Barreiras",2020-06-10,"nowcast",5,15,7,11,10,10.331
+"BA-Barreiras",2020-06-11,"nowcast",6,16,8,12,11,11.048
+"BA-Barreiras",2020-06-12,"nowcast",6,17,9,13,12,12.146
+"BA-Barreiras",2020-06-13,"nowcast",7,18,10,14,13,13.096
+"BA-Barreiras",2020-06-14,"nowcast",8,19,12,16,14,14.091
+"BA-Barreiras",2020-06-15,"nowcast",8,20,11,16,15,15.295
+"BA-Barreiras",2020-06-16,"nowcast",9,21,11,16,16,15.854
+"BA-Barreiras",2020-06-17,"nowcast",10,22,12,17,16,16.413
+"BA-Barreiras",2020-06-18,"nowcast",10,23,13,18,17,16.779
+"BA-Barreiras",2020-06-19,"nowcast",10,23,13,18,17,17.014
+"BA-Barreiras",2020-06-20,"nowcast",10,23,13,18,17,17.201
+"BA-Barreiras",2020-06-21,"nowcast",11,24,14,19,18,17.718
+"BA-Barreiras",2020-06-22,"nowcast",11,24,15,20,18,18.05
+"BA-Barreiras",2020-06-23,"nowcast",11,25,15,20,19,18.946
+"BA-Barreiras",2020-06-24,"nowcast",12,26,16,21,19,19.413
+"BA-Barreiras",2020-06-25,"nowcast",12,26,15,21,20,19.976
+"BA-Barreiras",2020-06-26,"nowcast",13,28,16,22,21,21.112
+"BA-Barreiras",2020-06-27,"nowcast",14,29,17,23,22,22.051
+"BA-Barreiras",2020-06-28,"nowcast",14,29,18,24,23,22.922
+"BA-Barreiras",2020-06-29,"nowcast",16,31,18,24,24,24.024
+"BA-Barreiras",2020-06-30,"nowcast",16,32,20,26,25,24.69
+"BA-Barreiras",2020-07-01,"nowcast",17,33,20,27,26,25.711
+"BA-Barreiras",2020-07-02,"nowcast",17,35,21,28,26,26.625
+"BA-Barreiras",2020-07-03,"nowcast",19,36,22,29,27,27.671
+"BA-Barreiras",2020-07-04,"nowcast",18,37,24,31,28,28.873
+"BA-Barreiras",2020-07-05,"nowcast",19,39,23,31,29,29.605
+"BA-Barreiras",2020-07-06,"forecast",15,45,21,33,31,31.5058
+"BA-Barreiras",2020-07-07,"forecast",15,49,23,36,32,32.9206
+"BA-Barreiras",2020-07-08,"forecast",12,51,21,36,33,34.2254
+"BA-Barreiras",2020-07-09,"forecast",13,56,23,39,34,35.7964
+"BA-Barreiras",2020-07-10,"forecast",12,60,21,39,35,37.3174
+"BA-Barreiras",2020-07-11,"forecast",12,65,20,40,36,39.2816
+"BA-Barreiras",2020-07-12,"forecast",9,68,22,44,38,40.8098
+"BA-Barreiras",2020-07-13,"forecast",8,72,21,45,39,43.1556
+"BA-Barreiras",2020-07-14,"forecast",9,79,23,48,40,44.7632
+"BA-Barreiras",2020-07-15,"forecast",7,83,18,47,42,47.1444
+"BA-Barreiras",2020-07-16,"forecast",4,87,18,48,43,49.3056
+"BA-Barreiras",2020-07-17,"forecast",5,93,23,55,45,51.9666
+"BA-Barreiras",2020-07-18,"forecast",5,100,19,53,46,54.4862
+"BA-Barreiras",2020-07-19,"forecast",0,102,20,57,48,57.7264
+"BA-Camaçari",2020-02-12,"nowcast",1,1,1,1,1,1
+"BA-Camaçari",2020-02-13,"nowcast",0,1,0,1,0.5,0.5
+"BA-Camaçari",2020-02-14,"nowcast",0,0,0,0,0,0
+"BA-Camaçari",2020-02-15,"nowcast",0,0,0,0,0,0
+"BA-Camaçari",2020-02-16,"nowcast",0,0,0,0,0,0
+"BA-Camaçari",2020-02-17,"nowcast",0,1,0,0,0,0.333333333333333
+"BA-Camaçari",2020-02-18,"nowcast",0,0,0,0,0,0
+"BA-Camaçari",2020-02-19,"nowcast",0,0,0,0,0,0
+"BA-Camaçari",2020-02-20,"nowcast",0,1,0,0,0,0.4
+"BA-Camaçari",2020-02-21,"nowcast",0,1,0,0,0,0.166666666666667
+"BA-Camaçari",2020-02-22,"nowcast",0,1,0,0,0,0.142857142857143
+"BA-Camaçari",2020-02-23,"nowcast",0,1,0,0,0,0.25
+"BA-Camaçari",2020-02-24,"nowcast",0,1,0,0,0,0.416666666666667
+"BA-Camaçari",2020-02-25,"nowcast",0,1,0,1,0.5,0.5
+"BA-Camaçari",2020-02-26,"nowcast",0,1,0,0,0,0.357142857142857
+"BA-Camaçari",2020-02-27,"nowcast",0,1,0,0,0,0.228571428571429
+"BA-Camaçari",2020-02-28,"nowcast",0,1,0,0,0,0.272727272727273
+"BA-Camaçari",2020-02-29,"nowcast",0,1,0,0,0,0.215686274509804
+"BA-Camaçari",2020-03-01,"nowcast",0,1,0,0,0,0.338235294117647
+"BA-Camaçari",2020-03-02,"nowcast",0,1,0,0,0,0.258426966292135
+"BA-Camaçari",2020-03-03,"nowcast",0,1,0,0,0,0.315789473684211
+"BA-Camaçari",2020-03-04,"nowcast",0,1,0,0,0,0.346153846153846
+"BA-Camaçari",2020-03-05,"nowcast",0,1,0,0,0,0.278350515463918
+"BA-Camaçari",2020-03-06,"nowcast",0,1,0,0,0,0.264705882352941
+"BA-Camaçari",2020-03-07,"nowcast",0,1,0,0,0,0.282685512367491
+"BA-Camaçari",2020-03-08,"nowcast",0,1,0,0,0,0.311764705882353
+"BA-Camaçari",2020-03-09,"nowcast",0,1,0,0,0,0.278048780487805
+"BA-Camaçari",2020-03-10,"nowcast",0,1,0,0,0,0.283018867924528
+"BA-Camaçari",2020-03-11,"nowcast",0,1,0,0,0,0.274223034734918
+"BA-Camaçari",2020-03-12,"nowcast",0,1,0,0,0,0.283171521035599
+"BA-Camaçari",2020-03-13,"nowcast",0,1,0,0,0,0.241935483870968
+"BA-Camaçari",2020-03-14,"nowcast",0,1,0,0,0,0.244233378561737
+"BA-Camaçari",2020-03-15,"nowcast",0,1,0,0,0,0.226751592356688
+"BA-Camaçari",2020-03-16,"nowcast",0,1,0,0,0,0.292831105710814
+"BA-Camaçari",2020-03-17,"nowcast",0,1,0,0,0,0.265895953757225
+"BA-Camaçari",2020-03-18,"nowcast",0,1,0,0,0,0.327796234772979
+"BA-Camaçari",2020-03-19,"nowcast",0,1,0,0,0,0.342047930283224
+"BA-Camaçari",2020-03-20,"nowcast",0,1,0,0,0,0.407922912205567
+"BA-Camaçari",2020-03-21,"nowcast",0,1,0,0,0,0.458551941238195
+"BA-Camaçari",2020-03-22,"nowcast",0,1,0,0,0,0.546955624355005
+"BA-Camaçari",2020-03-23,"nowcast",0,2,0,0,0,0.608163265306122
+"BA-Camaçari",2020-03-24,"nowcast",0,2,0,1,1,0.709219858156028
+"BA-Camaçari",2020-03-25,"nowcast",0,2,0,1,1,0.763052208835341
+"BA-Camaçari",2020-03-26,"nowcast",0,2,0,1,1,0.845845845845846
+"BA-Camaçari",2020-03-27,"nowcast",0,2,0,1,1,0.857
+"BA-Camaçari",2020-03-28,"nowcast",0,2,0,1,1,0.953
+"BA-Camaçari",2020-03-29,"nowcast",0,2,0,1,1,1.015
+"BA-Camaçari",2020-03-30,"nowcast",0,2,0,1,1,1.029
+"BA-Camaçari",2020-03-31,"nowcast",0,2,0,1,1,1.018
+"BA-Camaçari",2020-04-01,"nowcast",0,2,0,1,1,1.02
+"BA-Camaçari",2020-04-02,"nowcast",0,3,0,1,1,1.073
+"BA-Camaçari",2020-04-03,"nowcast",0,2,0,1,1,1.081
+"BA-Camaçari",2020-04-04,"nowcast",0,3,0,1,1,1.159
+"BA-Camaçari",2020-04-05,"nowcast",0,3,0,1,1,1.328
+"BA-Camaçari",2020-04-06,"nowcast",0,3,0,1,1,1.468
+"BA-Camaçari",2020-04-07,"nowcast",0,3,0,1,1,1.478
+"BA-Camaçari",2020-04-08,"nowcast",0,3,1,2,2,1.755
+"BA-Camaçari",2020-04-09,"nowcast",0,4,1,2,2,1.939
+"BA-Camaçari",2020-04-10,"nowcast",0,4,1,2,2,2.074
+"BA-Camaçari",2020-04-11,"nowcast",0,4,1,2,2,2.163
+"BA-Camaçari",2020-04-12,"nowcast",0,4,0,2,2,2.243
+"BA-Camaçari",2020-04-13,"nowcast",0,4,1,2,2,2.174
+"BA-Camaçari",2020-04-14,"nowcast",0,4,1,2,2,2.349
+"BA-Camaçari",2020-04-15,"nowcast",0,4,2,3,2,2.342
+"BA-Camaçari",2020-04-16,"nowcast",0,4,2,3,2,2.383
+"BA-Camaçari",2020-04-17,"nowcast",0,4,0,2,2,2.351
+"BA-Camaçari",2020-04-18,"nowcast",0,4,0,2,2,2.42
+"BA-Camaçari",2020-04-19,"nowcast",0,4,0,2,2,2.461
+"BA-Camaçari",2020-04-20,"nowcast",0,4,0,2,2,2.472
+"BA-Camaçari",2020-04-21,"nowcast",0,4,2,3,2,2.487
+"BA-Camaçari",2020-04-22,"nowcast",0,5,0,2,2,2.545
+"BA-Camaçari",2020-04-23,"nowcast",1,5,1,3,3,2.728
+"BA-Camaçari",2020-04-24,"nowcast",1,5,1,3,3,2.808
+"BA-Camaçari",2020-04-25,"nowcast",0,5,1,3,3,2.935
+"BA-Camaçari",2020-04-26,"nowcast",0,5,1,3,3,3.086
+"BA-Camaçari",2020-04-27,"nowcast",0,5,1,3,3,3.053
+"BA-Camaçari",2020-04-28,"nowcast",1,6,1,3,3,3.173
+"BA-Camaçari",2020-04-29,"nowcast",0,5,1,3,3,3.111
+"BA-Camaçari",2020-04-30,"nowcast",0,5,1,3,3,3.05
+"BA-Camaçari",2020-05-01,"nowcast",0,5,1,3,3,3.08
+"BA-Camaçari",2020-05-02,"nowcast",1,6,1,3,3,3.247
+"BA-Camaçari",2020-05-03,"nowcast",0,6,2,4,3,3.62
+"BA-Camaçari",2020-05-04,"nowcast",1,7,2,4,4,3.941
+"BA-Camaçari",2020-05-05,"nowcast",0,7,3,5,4,4.588
+"BA-Camaçari",2020-05-06,"nowcast",2,9,2,5,5,5.116
+"BA-Camaçari",2020-05-07,"nowcast",2,9,3,6,5,5.626
+"BA-Camaçari",2020-05-08,"nowcast",3,10,3,6,6,6.241
+"BA-Camaçari",2020-05-09,"nowcast",2,10,4,7,7,6.732
+"BA-Camaçari",2020-05-10,"nowcast",2,11,4,7,7,7.109
+"BA-Camaçari",2020-05-11,"nowcast",3,11,5,8,7,7.487
+"BA-Camaçari",2020-05-12,"nowcast",4,12,5,8,8,7.865
+"BA-Camaçari",2020-05-13,"nowcast",3,12,5,8,8,8.189
+"BA-Camaçari",2020-05-14,"nowcast",4,13,6,9,8,8.731
+"BA-Camaçari",2020-05-15,"nowcast",5,14,6,10,9,9.553
+"BA-Camaçari",2020-05-16,"nowcast",4,15,7,11,10,10.655
+"BA-Camaçari",2020-05-17,"nowcast",6,16,9,13,11,11.426
+"BA-Camaçari",2020-05-18,"nowcast",7,18,7,12,12,12.333
+"BA-Camaçari",2020-05-19,"nowcast",8,19,10,14,13,13.108
+"BA-Camaçari",2020-05-20,"nowcast",7,19,12,16,14,14.099
+"BA-Camaçari",2020-05-21,"nowcast",8,21,11,16,15,14.992
+"BA-Camaçari",2020-05-22,"nowcast",10,23,13,18,16,16.525
+"BA-Camaçari",2020-05-23,"nowcast",11,25,14,19,18,17.959
+"BA-Camaçari",2020-05-24,"nowcast",11,25,16,21,19,19.483
+"BA-Camaçari",2020-05-25,"nowcast",14,28,16,22,21,21.293
+"BA-Camaçari",2020-05-26,"nowcast",14,30,19,25,23,23.51
+"BA-Camaçari",2020-05-27,"nowcast",18,33,20,26,25,24.897
+"BA-Camaçari",2020-05-28,"nowcast",19,35,22,28,26,26.333
+"BA-Camaçari",2020-05-29,"nowcast",19,35,22,29,27,27.484
+"BA-Camaçari",2020-05-30,"nowcast",20,36,22,29,28,28.105
+"BA-Camaçari",2020-05-31,"nowcast",19,35,25,31,28,28.146
+"BA-Camaçari",2020-06-01,"nowcast",18,35,22,29,28,27.885
+"BA-Camaçari",2020-06-02,"nowcast",19,36,22,29,28,27.792
+"BA-Camaçari",2020-06-03,"nowcast",18,35,23,29,27,27.407
+"BA-Camaçari",2020-06-04,"nowcast",18,35,22,29,27,27.585
+"BA-Camaçari",2020-06-05,"nowcast",20,37,22,29,28,28.252
+"BA-Camaçari",2020-06-06,"nowcast",18,37,23,30,28,28.759
+"BA-Camaçari",2020-06-07,"nowcast",18,39,24,32,30,30.287
+"BA-Camaçari",2020-06-08,"nowcast",21,42,27,35,32,31.924
+"BA-Camaçari",2020-06-09,"nowcast",21,45,27,37,35,34.902
+"BA-Camaçari",2020-06-10,"nowcast",25,49,30,40,38,38.156
+"BA-Camaçari",2020-06-11,"nowcast",29,54,36,46,42.5,42.514
+"BA-Camaçari",2020-06-12,"nowcast",33,60,39,50,47,47.501
+"BA-Camaçari",2020-06-13,"nowcast",41,67,48,58,53,53.383
+"BA-Camaçari",2020-06-14,"nowcast",42,70,51,62,58,58.117
+"BA-Camaçari",2020-06-15,"nowcast",49,77,58,69,64,64.104
+"BA-Camaçari",2020-06-16,"nowcast",55,81,61,72,69,68.853
+"BA-Camaçari",2020-06-17,"nowcast",58,85,67,77,73,73.043
+"BA-Camaçari",2020-06-18,"nowcast",61,89,69,80,76,76.641
+"BA-Camaçari",2020-06-19,"nowcast",64,91,70,81,78,78.667
+"BA-Camaçari",2020-06-20,"nowcast",63,90,70,81,78,78.175
+"BA-Camaçari",2020-06-21,"nowcast",63,91,70,81,77,77.667
+"BA-Camaçari",2020-06-22,"nowcast",60,87,67,78,75,75.36
+"BA-Camaçari",2020-06-23,"nowcast",60,86,66,77,73,73.191
+"BA-Camaçari",2020-06-24,"nowcast",58,85,64,75,72,71.96
+"BA-Camaçari",2020-06-25,"nowcast",58,85,64,75,73,72.708
+"BA-Camaçari",2020-06-26,"nowcast",59,86,66,77,73,73.478
+"BA-Camaçari",2020-06-27,"nowcast",61,89,67,78,75,75.437
+"BA-Camaçari",2020-06-28,"nowcast",61,90,69,80,77,77.412
+"BA-Camaçari",2020-06-29,"nowcast",63,92,73,84,79,79.69
+"BA-Camaçari",2020-06-30,"nowcast",67,96,77,89,82,81.973
+"BA-Camaçari",2020-07-01,"nowcast",68,101,77,89,84,84.596
+"BA-Camaçari",2020-07-02,"nowcast",71,103,79,91,89,88.762
+"BA-Camaçari",2020-07-03,"nowcast",74,108,82,95,92,92.263
+"BA-Camaçari",2020-07-04,"nowcast",75,109,85,98,95,95.353
+"BA-Camaçari",2020-07-05,"nowcast",77,111,87,100,94,94.241
+"BA-Camaçari",2020-07-06,"forecast",69,125,84,106,98,98.529
+"BA-Camaçari",2020-07-07,"forecast",67,135,84,111,100,101.4958
+"BA-Camaçari",2020-07-08,"forecast",64,143,82,113,102,104.058
+"BA-Camaçari",2020-07-09,"forecast",59,148,82,116,105,107.0846
+"BA-Camaçari",2020-07-10,"forecast",56,156,87,126,107,109.4932
+"BA-Camaçari",2020-07-11,"forecast",56,167,78,122,110,113.0716
+"BA-Camaçari",2020-07-12,"forecast",48,173,75,124,112,115.9492
+"BA-Camaçari",2020-07-13,"forecast",48,183,77,129,113.5,118.6492
+"BA-Camaçari",2020-07-14,"forecast",44,194,73,131,113,121.0112
+"BA-Camaçari",2020-07-15,"forecast",42,205,73,135,117,125.0646
+"BA-Camaçari",2020-07-16,"forecast",41,215,67,133,119,127.8898
+"BA-Camaçari",2020-07-17,"forecast",35,226,75,145,120,130.9578
+"BA-Camaçari",2020-07-18,"forecast",29,235,66,141,121,134.229
+"BA-Camaçari",2020-07-19,"forecast",23,241,63,142,124,139.136
+"BA-Eunápolis",2020-03-03,"nowcast",1,1,1,1,1,1
+"BA-Eunápolis",2020-03-04,"nowcast",0,0,0,0,0,0
+"BA-Eunápolis",2020-03-05,"nowcast",0,0,0,0,0,0
+"BA-Eunápolis",2020-03-06,"nowcast",0,0,0,0,0,0
+"BA-Eunápolis",2020-03-07,"nowcast",0,1,1,1,1,0.75
+"BA-Eunápolis",2020-03-08,"nowcast",0,1,0,0,0,0.2
+"BA-Eunápolis",2020-03-09,"nowcast",0,1,0,0,0,0.166666666666667
+"BA-Eunápolis",2020-03-10,"nowcast",0,1,0,0,0,0.25
+"BA-Eunápolis",2020-03-11,"nowcast",0,1,0,0,0,0.125
+"BA-Eunápolis",2020-03-12,"nowcast",0,1,0,0,0,0.222222222222222
+"BA-Eunápolis",2020-03-13,"nowcast",0,1,0,0,0,0.384615384615385
+"BA-Eunápolis",2020-03-14,"nowcast",0,1,0,0,0,0.3125
+"BA-Eunápolis",2020-03-15,"nowcast",0,1,0,0,0,0.304347826086957
+"BA-Eunápolis",2020-03-16,"nowcast",0,1,0,0,0,0.454545454545455
+"BA-Eunápolis",2020-03-17,"nowcast",0,1,0,0,0,0.333333333333333
+"BA-Eunápolis",2020-03-18,"nowcast",0,1,0,0,0,0.351851851851852
+"BA-Eunápolis",2020-03-19,"nowcast",0,1,0,0,0,0.287878787878788
+"BA-Eunápolis",2020-03-20,"nowcast",0,1,0,0,0,0.297619047619048
+"BA-Eunápolis",2020-03-21,"nowcast",0,1,0,0,0,0.280373831775701
+"BA-Eunápolis",2020-03-22,"nowcast",0,1,0,0,0,0.301470588235294
+"BA-Eunápolis",2020-03-23,"nowcast",0,1,0,0,0,0.267080745341615
+"BA-Eunápolis",2020-03-24,"nowcast",0,1,0,0,0,0.289340101522843
+"BA-Eunápolis",2020-03-25,"nowcast",0,1,0,0,0,0.323886639676113
+"BA-Eunápolis",2020-03-26,"nowcast",0,1,0,0,0,0.313993174061433
+"BA-Eunápolis",2020-03-27,"nowcast",0,1,0,0,0,0.334285714285714
+"BA-Eunápolis",2020-03-28,"nowcast",0,1,0,0,0,0.344418052256532
+"BA-Eunápolis",2020-03-29,"nowcast",0,1,0,0,0,0.342857142857143
+"BA-Eunápolis",2020-03-30,"nowcast",0,1,0,0,0,0.410122164048866
+"BA-Eunápolis",2020-03-31,"nowcast",0,1,0,0,0,0.390168970814132
+"BA-Eunápolis",2020-04-01,"nowcast",0,1,0,0,0,0.502040816326531
+"BA-Eunápolis",2020-04-02,"nowcast",0,1,0,0,0,0.504950495049505
+"BA-Eunápolis",2020-04-03,"nowcast",0,2,0,0,0,0.61345496009122
+"BA-Eunápolis",2020-04-04,"nowcast",0,2,0,1,1,0.678532901833873
+"BA-Eunápolis",2020-04-05,"nowcast",0,2,0,1,1,0.77696335078534
+"BA-Eunápolis",2020-04-06,"nowcast",0,2,0,1,1,0.858452138492872
+"BA-Eunápolis",2020-04-07,"nowcast",0,2,0,1,1,0.973763874873865
+"BA-Eunápolis",2020-04-08,"nowcast",0,2,0,1,1,1.01303911735206
+"BA-Eunápolis",2020-04-09,"nowcast",0,3,0,1,1,1.18937875751503
+"BA-Eunápolis",2020-04-10,"nowcast",0,3,0,1,1,1.273
+"BA-Eunápolis",2020-04-11,"nowcast",0,3,0,1,1,1.228
+"BA-Eunápolis",2020-04-12,"nowcast",0,3,0,1,1,1.338
+"BA-Eunápolis",2020-04-13,"nowcast",0,3,0,1,1,1.312
+"BA-Eunápolis",2020-04-14,"nowcast",0,3,0,1,1,1.204
+"BA-Eunápolis",2020-04-15,"nowcast",0,3,0,1,1,1.184
+"BA-Eunápolis",2020-04-16,"nowcast",0,2,0,1,1,1.058
+"BA-Eunápolis",2020-04-17,"nowcast",0,2,0,1,1,0.976
+"BA-Eunápolis",2020-04-18,"nowcast",0,2,0,1,1,0.896
+"BA-Eunápolis",2020-04-19,"nowcast",0,2,0,1,1,0.877
+"BA-Eunápolis",2020-04-20,"nowcast",0,2,0,1,1,0.88
+"BA-Eunápolis",2020-04-21,"nowcast",0,2,0,1,1,0.935
+"BA-Eunápolis",2020-04-22,"nowcast",0,2,0,1,1,0.948
+"BA-Eunápolis",2020-04-23,"nowcast",0,2,0,1,1,1.084
+"BA-Eunápolis",2020-04-24,"nowcast",0,2,0,1,1,1.162
+"BA-Eunápolis",2020-04-25,"nowcast",0,3,0,1,1,1.219
+"BA-Eunápolis",2020-04-26,"nowcast",0,3,0,1,1,1.377
+"BA-Eunápolis",2020-04-27,"nowcast",0,3,0,1,1,1.43
+"BA-Eunápolis",2020-04-28,"nowcast",0,3,0,1,1,1.621
+"BA-Eunápolis",2020-04-29,"nowcast",0,3,1,2,2,1.749
+"BA-Eunápolis",2020-04-30,"nowcast",0,4,1,2,2,1.923
+"BA-Eunápolis",2020-05-01,"nowcast",0,4,1,2,2,1.852
+"BA-Eunápolis",2020-05-02,"nowcast",0,4,1,2,2,2.023
+"BA-Eunápolis",2020-05-03,"nowcast",0,4,1,2,2,2.095
+"BA-Eunápolis",2020-05-04,"nowcast",0,4,1,2,2,2.28
+"BA-Eunápolis",2020-05-05,"nowcast",0,5,0,2,2,2.464
+"BA-Eunápolis",2020-05-06,"nowcast",0,5,1,3,3,2.788
+"BA-Eunápolis",2020-05-07,"nowcast",0,5,1,3,3,3.128
+"BA-Eunápolis",2020-05-08,"nowcast",1,6,2,4,3,3.463
+"BA-Eunápolis",2020-05-09,"nowcast",0,6,2,4,4,3.926
+"BA-Eunápolis",2020-05-10,"nowcast",1,7,3,5,4,4.236
+"BA-Eunápolis",2020-05-11,"nowcast",1,7,3,5,4,4.443
+"BA-Eunápolis",2020-05-12,"nowcast",1,8,3,5,5,4.883
+"BA-Eunápolis",2020-05-13,"nowcast",1,8,2,5,5,5.175
+"BA-Eunápolis",2020-05-14,"nowcast",2,9,3,6,5,5.641
+"BA-Eunápolis",2020-05-15,"nowcast",2,10,4,7,6,6.35
+"BA-Eunápolis",2020-05-16,"nowcast",3,11,5,8,7,7.139
+"BA-Eunápolis",2020-05-17,"nowcast",3,11,6,9,8,7.71
+"BA-Eunápolis",2020-05-18,"nowcast",3,12,6,9,8,8.462
+"BA-Eunápolis",2020-05-19,"nowcast",4,13,6,9,9,8.817
+"BA-Eunápolis",2020-05-20,"nowcast",5,14,7,10,9,9.258
+"BA-Eunápolis",2020-05-21,"nowcast",4,14,6,10,9,9.613
+"BA-Eunápolis",2020-05-22,"nowcast",4,14,7,11,10,10.181
+"BA-Eunápolis",2020-05-23,"nowcast",6,16,8,12,11,10.98
+"BA-Eunápolis",2020-05-24,"nowcast",6,16,8,12,11,11.434
+"BA-Eunápolis",2020-05-25,"nowcast",5,16,8,12,11,11.591
+"BA-Eunápolis",2020-05-26,"nowcast",7,17,9,13,12,11.869
+"BA-Eunápolis",2020-05-27,"nowcast",7,17,9,13,12,12.026
+"BA-Eunápolis",2020-05-28,"nowcast",7,17,9,13,12,12.433
+"BA-Eunápolis",2020-05-29,"nowcast",7,18,10,14,13,12.843
+"BA-Eunápolis",2020-05-30,"nowcast",7,18,11,15,13,13.352
+"BA-Eunápolis",2020-05-31,"nowcast",8,19,11,15,14,13.799
+"BA-Eunápolis",2020-06-01,"nowcast",9,20,12,16,14,14.437
+"BA-Eunápolis",2020-06-02,"nowcast",8,20,10,15,15,14.777
+"BA-Eunápolis",2020-06-03,"nowcast",8,21,11,16,15,15.437
+"BA-Eunápolis",2020-06-04,"nowcast",11,23,12,17,16,16.258
+"BA-Eunápolis",2020-06-05,"nowcast",10,23,13,18,17,17.008
+"BA-Eunápolis",2020-06-06,"nowcast",11,24,15,20,18,17.938
+"BA-Eunápolis",2020-06-07,"nowcast",12,25,15,20,18,18.51
+"BA-Eunápolis",2020-06-08,"nowcast",11,25,16,21,19,19.155
+"BA-Eunápolis",2020-06-09,"nowcast",12,26,16,21,19,19.725
+"BA-Eunápolis",2020-06-10,"nowcast",13,27,16,22,21,20.536
+"BA-Eunápolis",2020-06-11,"nowcast",14,28,19,24,21,21.303
+"BA-Eunápolis",2020-06-12,"nowcast",14,28,17,23,22,21.958
+"BA-Eunápolis",2020-06-13,"nowcast",14,28,18,23,22,21.993
+"BA-Eunápolis",2020-06-14,"nowcast",15,29,16,22,22,21.95
+"BA-Eunápolis",2020-06-15,"nowcast",13,28,17,23,22,21.793
+"BA-Eunápolis",2020-06-16,"nowcast",14,28,18,23,22,21.742
+"BA-Eunápolis",2020-06-17,"nowcast",14,28,19,24,22,21.677
+"BA-Eunápolis",2020-06-18,"nowcast",13,28,16,22,21,21.626
+"BA-Eunápolis",2020-06-19,"nowcast",14,29,17,23,22,22.128
+"BA-Eunápolis",2020-06-20,"nowcast",15,30,18,24,23,23.018
+"BA-Eunápolis",2020-06-21,"nowcast",15,31,19,25,24,23.85
+"BA-Eunápolis",2020-06-22,"nowcast",17,32,20,26,25,24.771
+"BA-Eunápolis",2020-06-23,"nowcast",17,33,20,27,26,25.716
+"BA-Eunápolis",2020-06-24,"nowcast",17,34,21,28,27,26.818
+"BA-Eunápolis",2020-06-25,"nowcast",20,36,22,29,28,27.952
+"BA-Eunápolis",2020-06-26,"nowcast",18,36,24,30,28,28.339
+"BA-Eunápolis",2020-06-27,"nowcast",20,37,25,31,29,29.264
+"BA-Eunápolis",2020-06-28,"nowcast",21,38,24,31,29,29.679
+"BA-Eunápolis",2020-06-29,"nowcast",20,38,25,32,31,30.574
+"BA-Eunápolis",2020-06-30,"nowcast",21,39,26,33,31,30.963
+"BA-Eunápolis",2020-07-01,"nowcast",22,40,27,34,32,31.775
+"BA-Eunápolis",2020-07-02,"nowcast",24,43,27,35,33,33.473
+"BA-Eunápolis",2020-07-03,"nowcast",23,43,29,37,34,34.437
+"BA-Eunápolis",2020-07-04,"nowcast",24,45,29,37,35,35.3
+"BA-Eunápolis",2020-07-05,"nowcast",25,47,28,37,35,35.663
+"BA-Eunápolis",2020-07-06,"forecast",21,52,29,41,37,37.2884
+"BA-Eunápolis",2020-07-07,"forecast",19,55,27,41,38,38.6106
+"BA-Eunápolis",2020-07-08,"forecast",18,58,30,45,39,39.9288
+"BA-Eunápolis",2020-07-09,"forecast",17,61,25,42,40,41.09
+"BA-Eunápolis",2020-07-10,"forecast",16,65,28,46,41,42.7524
+"BA-Eunápolis",2020-07-11,"forecast",14,68,26,46,42,44.46
+"BA-Eunápolis",2020-07-12,"forecast",14,72,26,48,43,46.098
+"BA-Eunápolis",2020-07-13,"forecast",14,77,23,47,44,47.5806
+"BA-Eunápolis",2020-07-14,"forecast",13,81,25,50,45,49.3014
+"BA-Eunápolis",2020-07-15,"forecast",11,86,30,56,46,51.1812
+"BA-Eunápolis",2020-07-16,"forecast",11,91,25,53,47,53.0862
+"BA-Eunápolis",2020-07-17,"forecast",10,96,25,55,48,54.8334
+"BA-Eunápolis",2020-07-18,"forecast",13,105,25,57,50,57.7064
+"BA-Eunápolis",2020-07-19,"forecast",7,107,25,59,51,59.7164
+"BA-Feira de Santana",2020-01-27,"nowcast",1,1,1,1,1,1
+"BA-Feira de Santana",2020-01-28,"nowcast",0,1,1,1,1,0.666666666666667
+"BA-Feira de Santana",2020-01-29,"nowcast",0,1,0,0,0,0.333333333333333
+"BA-Feira de Santana",2020-01-30,"nowcast",0,1,0,1,0.5,0.5
+"BA-Feira de Santana",2020-01-31,"nowcast",0,0,0,0,0,0
+"BA-Feira de Santana",2020-02-01,"nowcast",0,1,0,0,0,0.428571428571429
+"BA-Feira de Santana",2020-02-02,"nowcast",0,1,0,0,0,0.125
+"BA-Feira de Santana",2020-02-03,"nowcast",0,1,0,0,0,0.125
+"BA-Feira de Santana",2020-02-04,"nowcast",0,1,0,0,0,0.125
+"BA-Feira de Santana",2020-02-05,"nowcast",0,1,0,0,0,0.272727272727273
+"BA-Feira de Santana",2020-02-06,"nowcast",0,1,0,1,0.5,0.5
+"BA-Feira de Santana",2020-02-07,"nowcast",0,1,0,0,0,0.238095238095238
+"BA-Feira de Santana",2020-02-08,"nowcast",0,1,0,0,0,0.25
+"BA-Feira de Santana",2020-02-09,"nowcast",0,1,0,0,0,0.25
+"BA-Feira de Santana",2020-02-10,"nowcast",0,1,0,0,0,0.170731707317073
+"BA-Feira de Santana",2020-02-11,"nowcast",0,1,0,0,0,0.24
+"BA-Feira de Santana",2020-02-12,"nowcast",0,1,0,0,0,0.333333333333333
+"BA-Feira de Santana",2020-02-13,"nowcast",0,1,0,0,0,0.25609756097561
+"BA-Feira de Santana",2020-02-14,"nowcast",0,1,0,0,0,0.242424242424242
+"BA-Feira de Santana",2020-02-15,"nowcast",0,1,0,0,0,0.266666666666667
+"BA-Feira de Santana",2020-02-16,"nowcast",0,1,0,0,0,0.287671232876712
+"BA-Feira de Santana",2020-02-17,"nowcast",0,1,0,0,0,0.273743016759777
+"BA-Feira de Santana",2020-02-18,"nowcast",0,1,0,0,0,0.261682242990654
+"BA-Feira de Santana",2020-02-19,"nowcast",0,1,0,0,0,0.307407407407407
+"BA-Feira de Santana",2020-02-20,"nowcast",0,1,0,0,0,0.263322884012539
+"BA-Feira de Santana",2020-02-21,"nowcast",0,1,0,0,0,0.299465240641711
+"BA-Feira de Santana",2020-02-22,"nowcast",0,1,0,0,0,0.295302013422819
+"BA-Feira de Santana",2020-02-23,"nowcast",0,1,0,0,0,0.288306451612903
+"BA-Feira de Santana",2020-02-24,"nowcast",0,1,0,0,0,0.342059336823735
+"BA-Feira de Santana",2020-02-25,"nowcast",0,1,0,0,0,0.312597200622084
+"BA-Feira de Santana",2020-02-26,"nowcast",0,1,0,0,0,0.385558583106267
+"BA-Feira de Santana",2020-02-27,"nowcast",0,1,0,0,0,0.361355081555834
+"BA-Feira de Santana",2020-02-28,"nowcast",0,1,0,0,0,0.407494145199063
+"BA-Feira de Santana",2020-02-29,"nowcast",0,1,0,0,0,0.398888888888889
+"BA-Feira de Santana",2020-03-01,"nowcast",0,1,0,0,0,0.414529914529915
+"BA-Feira de Santana",2020-03-02,"nowcast",0,1,0,0,0,0.423480083857442
+"BA-Feira de Santana",2020-03-03,"nowcast",0,1,0,0,0,0.388028895768834
+"BA-Feira de Santana",2020-03-04,"nowcast",0,1,0,0,0,0.425357873210634
+"BA-Feira de Santana",2020-03-05,"nowcast",0,1,0,0,0,0.397565922920892
+"BA-Feira de Santana",2020-03-06,"nowcast",0,1,0,0,0,0.418016194331984
+"BA-Feira de Santana",2020-03-07,"nowcast",0,1,0,0,0,0.371717171717172
+"BA-Feira de Santana",2020-03-08,"nowcast",0,1,0,0,0,0.455734406438632
+"BA-Feira de Santana",2020-03-09,"nowcast",0,1,0,0,0,0.477432296890672
+"BA-Feira de Santana",2020-03-10,"nowcast",0,1,0,0,0,0.462387161484453
+"BA-Feira de Santana",2020-03-11,"nowcast",0,1,0,0,0,0.498997995991984
+"BA-Feira de Santana",2020-03-12,"nowcast",0,2,0,0,0,0.584168336673347
+"BA-Feira de Santana",2020-03-13,"nowcast",0,2,0,0,0,0.673673673673674
+"BA-Feira de Santana",2020-03-14,"nowcast",0,2,0,1,1,0.745745745745746
+"BA-Feira de Santana",2020-03-15,"nowcast",0,2,0,1,1,0.831
+"BA-Feira de Santana",2020-03-16,"nowcast",0,2,0,1,1,0.948
+"BA-Feira de Santana",2020-03-17,"nowcast",0,3,0,1,1,1.097
+"BA-Feira de Santana",2020-03-18,"nowcast",0,3,0,1,1,1.246
+"BA-Feira de Santana",2020-03-19,"nowcast",0,3,0,1,1,1.395
+"BA-Feira de Santana",2020-03-20,"nowcast",0,3,0,1,1,1.559
+"BA-Feira de Santana",2020-03-21,"nowcast",0,3,1,2,2,1.764
+"BA-Feira de Santana",2020-03-22,"nowcast",0,4,1,2,2,1.912
+"BA-Feira de Santana",2020-03-23,"nowcast",0,4,1,2,2,2.109
+"BA-Feira de Santana",2020-03-24,"nowcast",0,4,0,2,2,2.295
+"BA-Feira de Santana",2020-03-25,"nowcast",0,4,0,2,2,2.502
+"BA-Feira de Santana",2020-03-26,"nowcast",0,5,0,2,2,2.531
+"BA-Feira de Santana",2020-03-27,"nowcast",0,5,0,2,2,2.641
+"BA-Feira de Santana",2020-03-28,"nowcast",1,5,1,3,3,2.698
+"BA-Feira de Santana",2020-03-29,"nowcast",0,5,1,3,3,2.601
+"BA-Feira de Santana",2020-03-30,"nowcast",0,5,0,2,2,2.623
+"BA-Feira de Santana",2020-03-31,"nowcast",0,5,0,2,2,2.609
+"BA-Feira de Santana",2020-04-01,"nowcast",1,5,2,3,2,2.635
+"BA-Feira de Santana",2020-04-02,"nowcast",0,4,0,2,2,2.467
+"BA-Feira de Santana",2020-04-03,"nowcast",0,4,0,2,2,2.316
+"BA-Feira de Santana",2020-04-04,"nowcast",0,4,1,2,2,2.213
+"BA-Feira de Santana",2020-04-05,"nowcast",0,4,1,2,2,1.992
+"BA-Feira de Santana",2020-04-06,"nowcast",0,4,1,2,2,1.85
+"BA-Feira de Santana",2020-04-07,"nowcast",0,4,1,2,2,1.873
+"BA-Feira de Santana",2020-04-08,"nowcast",0,3,1,2,2,1.809
+"BA-Feira de Santana",2020-04-09,"nowcast",0,4,1,2,2,1.862
+"BA-Feira de Santana",2020-04-10,"nowcast",0,4,1,2,2,1.863
+"BA-Feira de Santana",2020-04-11,"nowcast",0,4,1,2,2,1.978
+"BA-Feira de Santana",2020-04-12,"nowcast",0,4,1,2,2,2.051
+"BA-Feira de Santana",2020-04-13,"nowcast",0,4,1,2,2,2.164
+"BA-Feira de Santana",2020-04-14,"nowcast",0,5,0,2,2,2.459
+"BA-Feira de Santana",2020-04-15,"nowcast",0,5,0,2,2,2.552
+"BA-Feira de Santana",2020-04-16,"nowcast",0,5,0,2,2,2.712
+"BA-Feira de Santana",2020-04-17,"nowcast",0,5,1,3,3,2.812
+"BA-Feira de Santana",2020-04-18,"nowcast",0,5,1,3,3,3.049
+"BA-Feira de Santana",2020-04-19,"nowcast",1,6,1,3,3,3.433
+"BA-Feira de Santana",2020-04-20,"nowcast",0,6,2,4,4,3.755
+"BA-Feira de Santana",2020-04-21,"nowcast",1,7,2,4,4,3.964
+"BA-Feira de Santana",2020-04-22,"nowcast",1,7,3,5,4,4.27
+"BA-Feira de Santana",2020-04-23,"nowcast",1,7,3,5,4,4.615
+"BA-Feira de Santana",2020-04-24,"nowcast",2,8,3,5,5,4.855
+"BA-Feira de Santana",2020-04-25,"nowcast",1,8,2,5,5,5.143
+"BA-Feira de Santana",2020-04-26,"nowcast",2,9,2,5,5,5.268
+"BA-Feira de Santana",2020-04-27,"nowcast",2,9,2,5,5,5.397
+"BA-Feira de Santana",2020-04-28,"nowcast",1,9,3,6,6,5.88
+"BA-Feira de Santana",2020-04-29,"nowcast",2,10,4,7,6,6.422
+"BA-Feira de Santana",2020-04-30,"nowcast",2,11,5,8,7,7.357
+"BA-Feira de Santana",2020-05-01,"nowcast",3,12,6,9,8,7.977
+"BA-Feira de Santana",2020-05-02,"nowcast",4,14,5,9,9,9.135
+"BA-Feira de Santana",2020-05-03,"nowcast",5,15,6,10,10,10.214
+"BA-Feira de Santana",2020-05-04,"nowcast",6,17,8,12,11,11.567
+"BA-Feira de Santana",2020-05-05,"nowcast",6,18,10,14,13,12.993
+"BA-Feira de Santana",2020-05-06,"nowcast",7,20,10,15,14,14.316
+"BA-Feira de Santana",2020-05-07,"nowcast",8,21,11,16,15,15.497
+"BA-Feira de Santana",2020-05-08,"nowcast",10,23,13,18,17,16.891
+"BA-Feira de Santana",2020-05-09,"nowcast",10,24,16,21,18,17.869
+"BA-Feira de Santana",2020-05-10,"nowcast",12,26,16,21,19,19.015
+"BA-Feira de Santana",2020-05-11,"nowcast",12,26,18,23,20,20.046
+"BA-Feira de Santana",2020-05-12,"nowcast",13,27,15,21,21,20.845
+"BA-Feira de Santana",2020-05-13,"nowcast",13,28,17,23,22,21.828
+"BA-Feira de Santana",2020-05-14,"nowcast",15,30,19,25,23,23.106
+"BA-Feira de Santana",2020-05-15,"nowcast",16,32,20,26,25,24.624
+"BA-Feira de Santana",2020-05-16,"nowcast",16,32,21,27,26,25.733
+"BA-Feira de Santana",2020-05-17,"nowcast",18,34,24,30,27,27.002
+"BA-Feira de Santana",2020-05-18,"nowcast",18,35,24,30,27,27.427
+"BA-Feira de Santana",2020-05-19,"nowcast",17,35,24,30,28,28.125
+"BA-Feira de Santana",2020-05-20,"nowcast",20,37,23,30,28,28.482
+"BA-Feira de Santana",2020-05-21,"nowcast",20,37,23,30,28,28.575
+"BA-Feira de Santana",2020-05-22,"nowcast",20,38,26,33,30,30.168
+"BA-Feira de Santana",2020-05-23,"nowcast",22,40,26,33,31,31.908
+"BA-Feira de Santana",2020-05-24,"nowcast",23,43,27,35,34,33.995
+"BA-Feira de Santana",2020-05-25,"nowcast",25,45,34,41,37,36.601
+"BA-Feira de Santana",2020-05-26,"nowcast",29,50,34,42,39,39.38
+"BA-Feira de Santana",2020-05-27,"nowcast",31,52,34,43,42,41.739
+"BA-Feira de Santana",2020-05-28,"nowcast",33,54,39,47,44,43.787
+"BA-Feira de Santana",2020-05-29,"nowcast",34,56,38,47,45,45.191
+"BA-Feira de Santana",2020-05-30,"nowcast",34,56,39,48,46,46.232
+"BA-Feira de Santana",2020-05-31,"nowcast",34,57,42,51,46,46.618
+"BA-Feira de Santana",2020-06-01,"nowcast",35,58,38,48,46,46.321
+"BA-Feira de Santana",2020-06-02,"nowcast",34,59,39,49,47,47.066
+"BA-Feira de Santana",2020-06-03,"nowcast",35,61,41,51,48,48.336
+"BA-Feira de Santana",2020-06-04,"nowcast",34,63,42,54,50,50.509
+"BA-Feira de Santana",2020-06-05,"nowcast",37,69,43,56,54,54.168
+"BA-Feira de Santana",2020-06-06,"nowcast",42,75,49,62,58,58.476
+"BA-Feira de Santana",2020-06-07,"nowcast",43,82,52,67,63,63.366
+"BA-Feira de Santana",2020-06-08,"nowcast",49,91,59,75,69,70.187
+"BA-Feira de Santana",2020-06-09,"nowcast",55,100,62,82,78,77.769
+"BA-Feira de Santana",2020-06-10,"nowcast",64,113,73,93,87,87.048
+"BA-Feira de Santana",2020-06-11,"nowcast",71,121,87,106,97,97.541
+"BA-Feira de Santana",2020-06-12,"nowcast",85,137,96,117,110,110.542
+"BA-Feira de Santana",2020-06-13,"nowcast",95,148,114,135,123,123.551
+"BA-Feira de Santana",2020-06-14,"nowcast",110,164,121,144,137,137.57
+"BA-Feira de Santana",2020-06-15,"nowcast",126,176,142,162,152,152.246
+"BA-Feira de Santana",2020-06-16,"nowcast",142,193,156,176,169,168.097
+"BA-Feira de Santana",2020-06-17,"nowcast",158,206,171,191,184,183.303
+"BA-Feira de Santana",2020-06-18,"nowcast",173,221,183,202,195,195.971
+"BA-Feira de Santana",2020-06-19,"nowcast",180,230,197,217,206,205.999
+"BA-Feira de Santana",2020-06-20,"nowcast",183,236,202,221,212,212.874
+"BA-Feira de Santana",2020-06-21,"nowcast",182,238,205,227,214,213.304
+"BA-Feira de Santana",2020-06-22,"nowcast",173,233,191,214,207,207.894
+"BA-Feira de Santana",2020-06-23,"nowcast",166,223,179,203,194.5,195.803
+"BA-Feira de Santana",2020-06-24,"nowcast",152,205,164,185,179,179.788
+"BA-Feira de Santana",2020-06-25,"nowcast",137,185,152,171,163.5,164.182
+"BA-Feira de Santana",2020-06-26,"nowcast",131,172,148,164,153,153.339
+"BA-Feira de Santana",2020-06-27,"nowcast",127,166,134,151,147,147.964
+"BA-Feira de Santana",2020-06-28,"nowcast",123,163,135,150,144,144.527
+"BA-Feira de Santana",2020-06-29,"nowcast",118,159,131,147,139,139.11
+"BA-Feira de Santana",2020-06-30,"nowcast",110,150,122,137,131,131.29
+"BA-Feira de Santana",2020-07-01,"nowcast",107,144,117,132,124,124.871
+"BA-Feira de Santana",2020-07-02,"nowcast",100,135,110,124,119,119.858
+"BA-Feira de Santana",2020-07-03,"nowcast",99,135,107,122,118,117.732
+"BA-Feira de Santana",2020-07-04,"nowcast",97,133,104,119,115,115.501
+"BA-Feira de Santana",2020-07-05,"nowcast",92,129,103,118,112,112.25
+"BA-Feira de Santana",2020-07-06,"forecast",76,134,89,112,105,106.1564
+"BA-Feira de Santana",2020-07-07,"forecast",67,134,83,110,101,101.7256
+"BA-Feira de Santana",2020-07-08,"forecast",57,133,77,107,95,96.5804
+"BA-Feira de Santana",2020-07-09,"forecast",53,134,68,100,90,92.4536
+"BA-Feira de Santana",2020-07-10,"forecast",43,131,62,96,85,87.6508
+"BA-Feira de Santana",2020-07-11,"forecast",33,127,55,91,81,83.6544
+"BA-Feira de Santana",2020-07-12,"forecast",31,127,49,87,76,79.4978
+"BA-Feira de Santana",2020-07-13,"forecast",22,121,43,82,70,74.1868
+"BA-Feira de Santana",2020-07-14,"forecast",17,119,37,75,65,70.577
+"BA-Feira de Santana",2020-07-15,"forecast",13,116,32,69,61,66.5762
+"BA-Feira de Santana",2020-07-16,"forecast",8,111,26,64,56,62.6028
+"BA-Feira de Santana",2020-07-17,"forecast",6,110,22,59,51,59.1856
+"BA-Feira de Santana",2020-07-18,"forecast",0,101,21,57,48,55.613
+"BA-Feira de Santana",2020-07-19,"forecast",0,98,16,51,44,52.528
+"BA-Ilhéus",2020-02-11,"nowcast",1,1,1,1,1,1
+"BA-Ilhéus",2020-02-12,"nowcast",0,0,0,0,0,0
+"BA-Ilhéus",2020-02-13,"nowcast",0,0,0,0,0,0
+"BA-Ilhéus",2020-02-14,"nowcast",0,0,0,0,0,0
+"BA-Ilhéus",2020-02-15,"nowcast",0,0,0,0,0,0
+"BA-Ilhéus",2020-02-16,"nowcast",1,1,1,1,1,1
+"BA-Ilhéus",2020-02-17,"nowcast",0,0,0,0,0,0
+"BA-Ilhéus",2020-02-18,"nowcast",0,0,0,0,0,0
+"BA-Ilhéus",2020-02-19,"nowcast",1,1,1,1,1,1
+"BA-Ilhéus",2020-02-20,"nowcast",0,0,0,0,0,0
+"BA-Ilhéus",2020-02-21,"nowcast",0,1,0,1,0.5,0.5
+"BA-Ilhéus",2020-02-22,"nowcast",0,1,1,1,1,0.6
+"BA-Ilhéus",2020-02-23,"nowcast",0,1,0,0,0,0.375
+"BA-Ilhéus",2020-02-24,"nowcast",0,1,0,0,0,0.111111111111111
+"BA-Ilhéus",2020-02-25,"nowcast",0,1,0,0,0,0.357142857142857
+"BA-Ilhéus",2020-02-26,"nowcast",0,1,0,0,0,0.315789473684211
+"BA-Ilhéus",2020-02-27,"nowcast",0,1,0,0,0,0.291666666666667
+"BA-Ilhéus",2020-02-28,"nowcast",0,1,0,0,0,0.28125
+"BA-Ilhéus",2020-02-29,"nowcast",0,1,0,0,0,0.348837209302326
+"BA-Ilhéus",2020-03-01,"nowcast",0,1,0,0,0,0.333333333333333
+"BA-Ilhéus",2020-03-02,"nowcast",0,1,0,0,0,0.355263157894737
+"BA-Ilhéus",2020-03-03,"nowcast",0,1,0,0,0,0.363636363636364
+"BA-Ilhéus",2020-03-04,"nowcast",0,1,0,0,0,0.3125
+"BA-Ilhéus",2020-03-05,"nowcast",0,1,0,0,0,0.335294117647059
+"BA-Ilhéus",2020-03-06,"nowcast",0,1,0,0,0,0.288461538461538
+"BA-Ilhéus",2020-03-07,"nowcast",0,1,0,0,0,0.327067669172932
+"BA-Ilhéus",2020-03-08,"nowcast",0,1,0,0,0,0.356707317073171
+"BA-Ilhéus",2020-03-09,"nowcast",0,1,0,0,0,0.371794871794872
+"BA-Ilhéus",2020-03-10,"nowcast",0,1,0,0,0,0.38562091503268
+"BA-Ilhéus",2020-03-11,"nowcast",0,1,0,0,0,0.394881170018282
+"BA-Ilhéus",2020-03-12,"nowcast",0,1,0,0,0,0.452950558213716
+"BA-Ilhéus",2020-03-13,"nowcast",0,1,0,0,0,0.434153400868307
+"BA-Ilhéus",2020-03-14,"nowcast",0,1,0,0,0,0.507894736842105
+"BA-Ilhéus",2020-03-15,"nowcast",0,1,0,0,0,0.563463819691578
+"BA-Ilhéus",2020-03-16,"nowcast",0,2,0,1,1,0.650279329608939
+"BA-Ilhéus",2020-03-17,"nowcast",0,2,0,1,1,0.766415500538213
+"BA-Ilhéus",2020-03-18,"nowcast",0,2,0,1,1,0.86875
+"BA-Ilhéus",2020-03-19,"nowcast",0,2,0,1,1,1.00509683995923
+"BA-Ilhéus",2020-03-20,"nowcast",0,3,0,1,1,1.1030303030303
+"BA-Ilhéus",2020-03-21,"nowcast",0,3,0,1,1,1.28112449799197
+"BA-Ilhéus",2020-03-22,"nowcast",0,3,0,1,1,1.48148148148148
+"BA-Ilhéus",2020-03-23,"nowcast",0,3,1,2,2,1.70970970970971
+"BA-Ilhéus",2020-03-24,"nowcast",0,4,1,2,2,1.92792792792793
+"BA-Ilhéus",2020-03-25,"nowcast",0,4,1,2,2,2.213
+"BA-Ilhéus",2020-03-26,"nowcast",0,4,0,2,2,2.376
+"BA-Ilhéus",2020-03-27,"nowcast",0,5,0,2,2,2.699
+"BA-Ilhéus",2020-03-28,"nowcast",0,5,1,3,3,2.882
+"BA-Ilhéus",2020-03-29,"nowcast",0,5,1,3,3,3.065
+"BA-Ilhéus",2020-03-30,"nowcast",1,6,1,3,3,3.513
+"BA-Ilhéus",2020-03-31,"nowcast",0,6,2,4,4,3.882
+"BA-Ilhéus",2020-04-01,"nowcast",1,7,2,4,4,4.265
+"BA-Ilhéus",2020-04-02,"nowcast",1,8,3,5,4,4.634
+"BA-Ilhéus",2020-04-03,"nowcast",1,8,4,6,5,5.041
+"BA-Ilhéus",2020-04-04,"nowcast",1,8,2,5,5,5.364
+"BA-Ilhéus",2020-04-05,"nowcast",2,9,2,5,5,5.594
+"BA-Ilhéus",2020-04-06,"nowcast",2,10,3,6,6,6.25
+"BA-Ilhéus",2020-04-07,"nowcast",2,10,4,7,7,6.701
+"BA-Ilhéus",2020-04-08,"nowcast",3,11,4,7,7,7.08
+"BA-Ilhéus",2020-04-09,"nowcast",3,11,5,8,7,7.436
+"BA-Ilhéus",2020-04-10,"nowcast",4,12,6,9,8,8.243
+"BA-Ilhéus",2020-04-11,"nowcast",4,13,7,10,9,8.896
+"BA-Ilhéus",2020-04-12,"nowcast",5,14,6,10,9,9.501
+"BA-Ilhéus",2020-04-13,"nowcast",4,14,6,10,10,10.241
+"BA-Ilhéus",2020-04-14,"nowcast",6,16,7,11,11,11
+"BA-Ilhéus",2020-04-15,"nowcast",6,16,8,12,11,11.51
+"BA-Ilhéus",2020-04-16,"nowcast",5,16,9,13,12,12.16
+"BA-Ilhéus",2020-04-17,"nowcast",7,17,10,14,12,12.317
+"BA-Ilhéus",2020-04-18,"nowcast",6,17,9,13,12,12.192
+"BA-Ilhéus",2020-04-19,"nowcast",7,17,8,12,12,11.949
+"BA-Ilhéus",2020-04-20,"nowcast",5,16,8,12,11,11.606
+"BA-Ilhéus",2020-04-21,"nowcast",6,16,7,11,11,11.056
+"BA-Ilhéus",2020-04-22,"nowcast",5,15,9,12,11,10.69
+"BA-Ilhéus",2020-04-23,"nowcast",5,15,7,11,10,10.458
+"BA-Ilhéus",2020-04-24,"nowcast",5,15,7,11,10,10.261
+"BA-Ilhéus",2020-04-25,"nowcast",5,15,7,11,10,10.457
+"BA-Ilhéus",2020-04-26,"nowcast",5,15,7,11,10,10.618
+"BA-Ilhéus",2020-04-27,"nowcast",4,15,7,11,11,10.882
+"BA-Ilhéus",2020-04-28,"nowcast",6,16,8,12,11,11.362
+"BA-Ilhéus",2020-04-29,"nowcast",6,16,8,12,12,11.71
+"BA-Ilhéus",2020-04-30,"nowcast",7,17,9,13,12,12.283
+"BA-Ilhéus",2020-05-01,"nowcast",6,17,9,13,12.5,12.659
+"BA-Ilhéus",2020-05-02,"nowcast",8,19,10,14,13,13.358
+"BA-Ilhéus",2020-05-03,"nowcast",9,20,11,15,14,14.12
+"BA-Ilhéus",2020-05-04,"nowcast",9,21,11,16,15,15.195
+"BA-Ilhéus",2020-05-05,"nowcast",10,22,12,17,16,16.037
+"BA-Ilhéus",2020-05-06,"nowcast",11,23,13,18,17,17.245
+"BA-Ilhéus",2020-05-07,"nowcast",10,23,14,19,18,17.73
+"BA-Ilhéus",2020-05-08,"nowcast",12,25,13,19,18,18.571
+"BA-Ilhéus",2020-05-09,"nowcast",12,25,15,20,19,18.777
+"BA-Ilhéus",2020-05-10,"nowcast",12,25,14,19,18,18.495
+"BA-Ilhéus",2020-05-11,"nowcast",11,24,15,20,18,18.16
+"BA-Ilhéus",2020-05-12,"nowcast",10,23,14,19,17,17.69
+"BA-Ilhéus",2020-05-13,"nowcast",11,23,13,18,17,17.591
+"BA-Ilhéus",2020-05-14,"nowcast",11,24,15,20,18,17.934
+"BA-Ilhéus",2020-05-15,"nowcast",12,25,15,20,19,18.787
+"BA-Ilhéus",2020-05-16,"nowcast",10,25,16,21,19,19.458
+"BA-Ilhéus",2020-05-17,"nowcast",14,27,16,21,20,20.272
+"BA-Ilhéus",2020-05-18,"nowcast",12,26,17,22,21,20.611
+"BA-Ilhéus",2020-05-19,"nowcast",13,27,17,22,20,20.122
+"BA-Ilhéus",2020-05-20,"nowcast",13,27,18,23,20,20.32
+"BA-Ilhéus",2020-05-21,"nowcast",15,28,17,22,20,20.528
+"BA-Ilhéus",2020-05-22,"nowcast",13,28,16,22,21,21.114
+"BA-Ilhéus",2020-05-23,"nowcast",14,28,17,23,22,22.025
+"BA-Ilhéus",2020-05-24,"nowcast",16,30,18,24,23,22.994
+"BA-Ilhéus",2020-05-25,"nowcast",16,31,19,25,24,23.969
+"BA-Ilhéus",2020-05-26,"nowcast",17,32,20,26,25,24.806
+"BA-Ilhéus",2020-05-27,"nowcast",19,33,21,27,25,25.41
+"BA-Ilhéus",2020-05-28,"nowcast",17,33,21,27,25,25.201
+"BA-Ilhéus",2020-05-29,"nowcast",16,32,20,26,25,24.698
+"BA-Ilhéus",2020-05-30,"nowcast",16,31,19,25,24,24.133
+"BA-Ilhéus",2020-05-31,"nowcast",15,29,21,26,23,22.908
+"BA-Ilhéus",2020-06-01,"nowcast",15,29,17,23,22,21.736
+"BA-Ilhéus",2020-06-02,"nowcast",14,28,16,22,21,21.343
+"BA-Ilhéus",2020-06-03,"nowcast",13,28,16,22,21,21.241
+"BA-Ilhéus",2020-06-04,"nowcast",15,29,17,23,22,21.94
+"BA-Ilhéus",2020-06-05,"nowcast",14,30,18,24,23,22.835
+"BA-Ilhéus",2020-06-06,"nowcast",16,31,20,26,24,23.701
+"BA-Ilhéus",2020-06-07,"nowcast",16,32,21,27,25,24.654
+"BA-Ilhéus",2020-06-08,"nowcast",17,32,20,26,24,24.608
+"BA-Ilhéus",2020-06-09,"nowcast",17,33,21,27,25,25.365
+"BA-Ilhéus",2020-06-10,"nowcast",17,32,22,28,26,25.787
+"BA-Ilhéus",2020-06-11,"nowcast",18,35,23,29,26,26.443
+"BA-Ilhéus",2020-06-12,"nowcast",20,36,21,28,27,27.459
+"BA-Ilhéus",2020-06-13,"nowcast",20,37,25,31,29,28.644
+"BA-Ilhéus",2020-06-14,"nowcast",21,37,25,31,29,29.428
+"BA-Ilhéus",2020-06-15,"nowcast",20,38,25,32,30,30.635
+"BA-Ilhéus",2020-06-16,"nowcast",23,40,26,33,31,31.361
+"BA-Ilhéus",2020-06-17,"nowcast",24,41,27,34,33,32.595
+"BA-Ilhéus",2020-06-18,"nowcast",24,42,29,36,33,33.647
+"BA-Ilhéus",2020-06-19,"nowcast",24,43,30,37,34,34.703
+"BA-Ilhéus",2020-06-20,"nowcast",25,45,32,39,36,36.341
+"BA-Ilhéus",2020-06-21,"nowcast",28,47,33,41,38,38.056
+"BA-Ilhéus",2020-06-22,"nowcast",28,49,34,42,40,39.831
+"BA-Ilhéus",2020-06-23,"nowcast",30,49,35,43,40,40.645
+"BA-Ilhéus",2020-06-24,"nowcast",32,52,37,45,42,42.045
+"BA-Ilhéus",2020-06-25,"nowcast",33,54,38,46,43,43.348
+"BA-Ilhéus",2020-06-26,"nowcast",32,53,38,46,44,44.45
+"BA-Ilhéus",2020-06-27,"nowcast",34,55,39,48,46,45.578
+"BA-Ilhéus",2020-06-28,"nowcast",35,57,39,48,46,46.627
+"BA-Ilhéus",2020-06-29,"nowcast",36,58,43,51,47,47.095
+"BA-Ilhéus",2020-06-30,"nowcast",36,58,43,51,47,47.594
+"BA-Ilhéus",2020-07-01,"nowcast",35,59,41,50,48,48.043
+"BA-Ilhéus",2020-07-02,"nowcast",36,58,45,53,49,48.868
+"BA-Ilhéus",2020-07-03,"nowcast",36,60,42,51,48,48.649
+"BA-Ilhéus",2020-07-04,"nowcast",36,60,43,52,48,48.537
+"BA-Ilhéus",2020-07-05,"nowcast",35,60,41,51,48,48.386
+"BA-Ilhéus",2020-07-06,"forecast",32,68,41,55,51,50.9646
+"BA-Ilhéus",2020-07-07,"forecast",30,70,42,58,51,51.3638
+"BA-Ilhéus",2020-07-08,"forecast",26,71,40,57,52,52.3984
+"BA-Ilhéus",2020-07-09,"forecast",27,76,40,59,52,53.1816
+"BA-Ilhéus",2020-07-10,"forecast",25,78,38,59,53,54.198
+"BA-Ilhéus",2020-07-11,"forecast",25,81,39,61,54,55.2156
+"BA-Ilhéus",2020-07-12,"forecast",22,84,40,64,55,56.219
+"BA-Ilhéus",2020-07-13,"forecast",22,88,38,64,55,57.2062
+"BA-Ilhéus",2020-07-14,"forecast",21,92,37,65,56,58.271
+"BA-Ilhéus",2020-07-15,"forecast",21,95,39,68,57,59.2652
+"BA-Ilhéus",2020-07-16,"forecast",17,96,35,67,58,60.4922
+"BA-Ilhéus",2020-07-17,"forecast",16,99,34,67,58,61.3222
+"BA-Ilhéus",2020-07-18,"forecast",19,107,33,68,59,62.5532
+"BA-Ilhéus",2020-07-19,"forecast",15,107,38,74,60,64.049
+"BA-Itabuna",2020-02-09,"nowcast",1,1,1,1,1,1
+"BA-Itabuna",2020-02-10,"nowcast",0,0,0,0,0,0
+"BA-Itabuna",2020-02-11,"nowcast",0,0,0,0,0,0
+"BA-Itabuna",2020-02-12,"nowcast",0,0,0,0,0,0
+"BA-Itabuna",2020-02-13,"nowcast",0,1,0,1,0.5,0.5
+"BA-Itabuna",2020-02-14,"nowcast",0,1,0,0,0,0.333333333333333
+"BA-Itabuna",2020-02-15,"nowcast",0,1,0,0,0,0.25
+"BA-Itabuna",2020-02-16,"nowcast",0,1,0,0,0,0.2
+"BA-Itabuna",2020-02-17,"nowcast",0,1,0,0,0,0.166666666666667
+"BA-Itabuna",2020-02-18,"nowcast",0,1,0,0,0,0.142857142857143
+"BA-Itabuna",2020-02-19,"nowcast",0,1,0,0,0,0.125
+"BA-Itabuna",2020-02-20,"nowcast",0,1,0,0,0,0.363636363636364
+"BA-Itabuna",2020-02-21,"nowcast",0,0,0,0,0,0.0833333333333333
+"BA-Itabuna",2020-02-22,"nowcast",0,1,0,0,0,0.294117647058824
+"BA-Itabuna",2020-02-23,"nowcast",0,1,0,0,0,0.2
+"BA-Itabuna",2020-02-24,"nowcast",0,1,0,0,0,0.451612903225806
+"BA-Itabuna",2020-02-25,"nowcast",0,1,0,0,0,0.161290322580645
+"BA-Itabuna",2020-02-26,"nowcast",0,1,0,0,0,0.194444444444444
+"BA-Itabuna",2020-02-27,"nowcast",0,1,0,0,0,0.266666666666667
+"BA-Itabuna",2020-02-28,"nowcast",0,1,0,0,0,0.280701754385965
+"BA-Itabuna",2020-02-29,"nowcast",0,1,0,0,0,0.283783783783784
+"BA-Itabuna",2020-03-01,"nowcast",0,1,0,0,0,0.258064516129032
+"BA-Itabuna",2020-03-02,"nowcast",0,1,0,0,0,0.327731092436975
+"BA-Itabuna",2020-03-03,"nowcast",0,1,0,0,0,0.30188679245283
+"BA-Itabuna",2020-03-04,"nowcast",0,1,0,0,0,0.244791666666667
+"BA-Itabuna",2020-03-05,"nowcast",0,1,0,0,0,0.309917355371901
+"BA-Itabuna",2020-03-06,"nowcast",0,1,0,0,0,0.333333333333333
+"BA-Itabuna",2020-03-07,"nowcast",0,1,0,0,0,0.295977011494253
+"BA-Itabuna",2020-03-08,"nowcast",0,1,0,0,0,0.293398533007335
+"BA-Itabuna",2020-03-09,"nowcast",0,1,0,0,0,0.309128630705394
+"BA-Itabuna",2020-03-10,"nowcast",0,1,0,0,0,0.278388278388278
+"BA-Itabuna",2020-03-11,"nowcast",0,1,0,0,0,0.334405144694534
+"BA-Itabuna",2020-03-12,"nowcast",0,1,0,0,0,0.365192582025678
+"BA-Itabuna",2020-03-13,"nowcast",0,1,0,0,0,0.329829172141919
+"BA-Itabuna",2020-03-14,"nowcast",0,1,0,0,0,0.354166666666667
+"BA-Itabuna",2020-03-15,"nowcast",0,1,0,0,0,0.375291375291375
+"BA-Itabuna",2020-03-16,"nowcast",0,1,0,0,0,0.358744394618834
+"BA-Itabuna",2020-03-17,"nowcast",0,1,0,0,0,0.479956663055255
+"BA-Itabuna",2020-03-18,"nowcast",0,1,0,0,0,0.494179894179894
+"BA-Itabuna",2020-03-19,"nowcast",0,1,0,0,0,0.547717842323652
+"BA-Itabuna",2020-03-20,"nowcast",0,2,0,0,0,0.677584442169908
+"BA-Itabuna",2020-03-21,"nowcast",0,2,0,1,1,0.8052738336714
+"BA-Itabuna",2020-03-22,"nowcast",0,2,0,1,1,0.891348088531187
+"BA-Itabuna",2020-03-23,"nowcast",0,2,0,1,1,0.992971887550201
+"BA-Itabuna",2020-03-24,"nowcast",0,2,0,1,1,1.08408408408408
+"BA-Itabuna",2020-03-25,"nowcast",0,3,0,1,1,1.309
+"BA-Itabuna",2020-03-26,"nowcast",0,3,0,1,1,1.55
+"BA-Itabuna",2020-03-27,"nowcast",0,3,1,2,2,1.661
+"BA-Itabuna",2020-03-28,"nowcast",0,4,1,2,2,1.867
+"BA-Itabuna",2020-03-29,"nowcast",0,4,1,2,2,2.101
+"BA-Itabuna",2020-03-30,"nowcast",0,4,1,2,2,2.348
+"BA-Itabuna",2020-03-31,"nowcast",0,5,0,2,2,2.658
+"BA-Itabuna",2020-04-01,"nowcast",0,5,1,3,3,3.024
+"BA-Itabuna",2020-04-02,"nowcast",1,6,1,3,3,3.256
+"BA-Itabuna",2020-04-03,"nowcast",1,6,1,3,3,3.461
+"BA-Itabuna",2020-04-04,"nowcast",0,6,2,4,4,3.815
+"BA-Itabuna",2020-04-05,"nowcast",1,7,2,4,4,4.017
+"BA-Itabuna",2020-04-06,"nowcast",0,7,3,5,4,4.45
+"BA-Itabuna",2020-04-07,"nowcast",1,8,2,5,5,5.107
+"BA-Itabuna",2020-04-08,"nowcast",2,9,3,6,6,5.749
+"BA-Itabuna",2020-04-09,"nowcast",1,10,4,7,6,6.68
+"BA-Itabuna",2020-04-10,"nowcast",2,11,5,8,7,7.576
+"BA-Itabuna",2020-04-11,"nowcast",4,13,5,9,8,8.383
+"BA-Itabuna",2020-04-12,"nowcast",4,14,6,10,9,9.559
+"BA-Itabuna",2020-04-13,"nowcast",5,15,7,11,10,10.5
+"BA-Itabuna",2020-04-14,"nowcast",5,15,8,12,11,11.254
+"BA-Itabuna",2020-04-15,"nowcast",6,17,9,13,12,12.482
+"BA-Itabuna",2020-04-16,"nowcast",7,18,10,14,13,12.946
+"BA-Itabuna",2020-04-17,"nowcast",8,19,11,15,13,13.605
+"BA-Itabuna",2020-04-18,"nowcast",7,19,9,14,14,13.921
+"BA-Itabuna",2020-04-19,"nowcast",7,19,10,15,14,14.026
+"BA-Itabuna",2020-04-20,"nowcast",7,19,9,14,14,14.18
+"BA-Itabuna",2020-04-21,"nowcast",8,19,12,16,14,14.294
+"BA-Itabuna",2020-04-22,"nowcast",7,20,11,16,15,14.714
+"BA-Itabuna",2020-04-23,"nowcast",7,20,11,16,15,15.179
+"BA-Itabuna",2020-04-24,"nowcast",8,21,11,16,15,15.599
+"BA-Itabuna",2020-04-25,"nowcast",9,22,12,17,16,16.634
+"BA-Itabuna",2020-04-26,"nowcast",9,23,14,19,17,17.573
+"BA-Itabuna",2020-04-27,"nowcast",10,25,13,19,19,18.68
+"BA-Itabuna",2020-04-28,"nowcast",12,26,15,21,20,19.772
+"BA-Itabuna",2020-04-29,"nowcast",13,28,17,23,21,21.189
+"BA-Itabuna",2020-04-30,"nowcast",15,30,18,24,22,22.603
+"BA-Itabuna",2020-05-01,"nowcast",17,32,22,28,24,24.506
+"BA-Itabuna",2020-05-02,"nowcast",18,33,21,27,26,26.011
+"BA-Itabuna",2020-05-03,"nowcast",19,36,24,30,28,28.027
+"BA-Itabuna",2020-05-04,"nowcast",20,38,24,31,30,30.203
+"BA-Itabuna",2020-05-05,"nowcast",22,40,28,34,32,32
+"BA-Itabuna",2020-05-06,"nowcast",23,42,28,35,33,33.562
+"BA-Itabuna",2020-05-07,"nowcast",24,43,30,37,35,35.003
+"BA-Itabuna",2020-05-08,"nowcast",25,44,33,40,36,36.1
+"BA-Itabuna",2020-05-09,"nowcast",26,44,31,38,35,35.678
+"BA-Itabuna",2020-05-10,"nowcast",26,45,29,36,34,34.726
+"BA-Itabuna",2020-05-11,"nowcast",24,42,27,34,32,32.542
+"BA-Itabuna",2020-05-12,"nowcast",20,37,27,33,30,30.222
+"BA-Itabuna",2020-05-13,"nowcast",20,35,24,30,28,27.715
+"BA-Itabuna",2020-05-14,"nowcast",18,35,21,28,27,27.302
+"BA-Itabuna",2020-05-15,"nowcast",20,36,24,30,28,28.218
+"BA-Itabuna",2020-05-16,"nowcast",20,37,23,30,29,29.371
+"BA-Itabuna",2020-05-17,"nowcast",22,38,27,33,31,30.582
+"BA-Itabuna",2020-05-18,"nowcast",22,39,25,32,31,30.854
+"BA-Itabuna",2020-05-19,"nowcast",21,38,25,32,30,30.173
+"BA-Itabuna",2020-05-20,"nowcast",19,37,24,31,30,29.781
+"BA-Itabuna",2020-05-21,"nowcast",21,38,24,31,30,29.924
+"BA-Itabuna",2020-05-22,"nowcast",22,39,25,32,30,30.377
+"BA-Itabuna",2020-05-23,"nowcast",23,41,27,34,32,32.145
+"BA-Itabuna",2020-05-24,"nowcast",23,42,27,35,33,33.888
+"BA-Itabuna",2020-05-25,"nowcast",26,44,32,39,35,35.12
+"BA-Itabuna",2020-05-26,"nowcast",26,45,33,40,36,36.643
+"BA-Itabuna",2020-05-27,"nowcast",27,46,31,39,38,37.663
+"BA-Itabuna",2020-05-28,"nowcast",27,47,34,41,38,38.672
+"BA-Itabuna",2020-05-29,"nowcast",29,48,34,42,39,39.325
+"BA-Itabuna",2020-05-30,"nowcast",28,48,33,41,39,39.173
+"BA-Itabuna",2020-05-31,"nowcast",29,49,35,43,39,39.756
+"BA-Itabuna",2020-06-01,"nowcast",29,49,35,43,40,40.177
+"BA-Itabuna",2020-06-02,"nowcast",31,52,36,44,41,40.868
+"BA-Itabuna",2020-06-03,"nowcast",31,52,37,45,42,42.351
+"BA-Itabuna",2020-06-04,"nowcast",31,53,36,45,44,43.82
+"BA-Itabuna",2020-06-05,"nowcast",35,57,39,48,46,46.224
+"BA-Itabuna",2020-06-06,"nowcast",37,59,41,50,48,48.457
+"BA-Itabuna",2020-06-07,"nowcast",37,61,43,53,50,50.366
+"BA-Itabuna",2020-06-08,"nowcast",39,63,45,55,52,52.077
+"BA-Itabuna",2020-06-09,"nowcast",42,66,46,56,54,53.936
+"BA-Itabuna",2020-06-10,"nowcast",42,68,51,61,56,56.591
+"BA-Itabuna",2020-06-11,"nowcast",45,72,52,63,60,59.783
+"BA-Itabuna",2020-06-12,"nowcast",46,75,55,67,63,63.126
+"BA-Itabuna",2020-06-13,"nowcast",51,80,61,72,67,67.173
+"BA-Itabuna",2020-06-14,"nowcast",56,86,62,74,72,72.356
+"BA-Itabuna",2020-06-15,"nowcast",60,90,70,81,77,76.947
+"BA-Itabuna",2020-06-16,"nowcast",69,99,73,85,82,82.026
+"BA-Itabuna",2020-06-17,"nowcast",71,100,76,88,86,85.69
+"BA-Itabuna",2020-06-18,"nowcast",72,102,80,92,89,89.255
+"BA-Itabuna",2020-06-19,"nowcast",74,105,82,95,92,91.776
+"BA-Itabuna",2020-06-20,"nowcast",77,107,84,96,93,93.298
+"BA-Itabuna",2020-06-21,"nowcast",76,108,86,98,93,94.244
+"BA-Itabuna",2020-06-22,"nowcast",76,107,87,99,93,93.633
+"BA-Itabuna",2020-06-23,"nowcast",74,106,85,97,93,92.73
+"BA-Itabuna",2020-06-24,"nowcast",75,107,86,98,91,90.719
+"BA-Itabuna",2020-06-25,"nowcast",73,102,78,91,89,88.806
+"BA-Itabuna",2020-06-26,"nowcast",73,103,79,91,87,87.086
+"BA-Itabuna",2020-06-27,"nowcast",70,99,79,91,85,85.008
+"BA-Itabuna",2020-06-28,"nowcast",67,96,74,86,82,82.765
+"BA-Itabuna",2020-06-29,"nowcast",65,95,73,85,81,81.192
+"BA-Itabuna",2020-06-30,"nowcast",64,92,73,84,79,79.067
+"BA-Itabuna",2020-07-01,"nowcast",63,91,72,83,78,77.899
+"BA-Itabuna",2020-07-02,"nowcast",60,89,68,79,76,76.603
+"BA-Itabuna",2020-07-03,"nowcast",59,89,66,78,76,76.001
+"BA-Itabuna",2020-07-04,"nowcast",58,91,70,82,75,75.947
+"BA-Itabuna",2020-07-05,"nowcast",57,92,68,81,76,77.105
+"BA-Itabuna",2020-07-06,"forecast",48,96,59,78,74,74.6876
+"BA-Itabuna",2020-07-07,"forecast",46,99,57,78,72,73.6086
+"BA-Itabuna",2020-07-08,"forecast",40,99,53,76,71,72.7204
+"BA-Itabuna",2020-07-09,"forecast",41,104,50,75,69,71.6966
+"BA-Itabuna",2020-07-10,"forecast",35,103,51,78,69,70.7062
+"BA-Itabuna",2020-07-11,"forecast",33,108,43,72,67,69.9804
+"BA-Itabuna",2020-07-12,"forecast",27,106,43,73,64,68.3056
+"BA-Itabuna",2020-07-13,"forecast",27,109,40,71,63,67.1892
+"BA-Itabuna",2020-07-14,"forecast",21,108,36,69,62,66.6948
+"BA-Itabuna",2020-07-15,"forecast",18,108,34,67,60,65.2566
+"BA-Itabuna",2020-07-16,"forecast",17,112,31,65,58,64.157
+"BA-Itabuna",2020-07-17,"forecast",11,108,27,62,56,62.8036
+"BA-Itabuna",2020-07-18,"forecast",12,111,28,64,55,62.2408
+"BA-Itabuna",2020-07-19,"forecast",9,110,23,60,53,60.6022
+"BA-Jequié",2020-02-10,"nowcast",1,1,1,1,1,1
+"BA-Jequié",2020-02-11,"nowcast",0,0,0,0,0,0
+"BA-Jequié",2020-02-12,"nowcast",0,0,0,0,0,0
+"BA-Jequié",2020-02-13,"nowcast",0,0,0,0,0,0
+"BA-Jequié",2020-02-14,"nowcast",0,0,0,0,0,0
+"BA-Jequié",2020-02-15,"nowcast",0,0,0,0,0,0
+"BA-Jequié",2020-02-16,"nowcast",0,0,0,0,0,0
+"BA-Jequié",2020-02-17,"nowcast",0,1,0,1,0.5,0.5
+"BA-Jequié",2020-02-18,"nowcast",0,1,0,1,0.5,0.5
+"BA-Jequié",2020-02-19,"nowcast",0,0,0,0,0,0
+"BA-Jequié",2020-02-20,"nowcast",0,0,0,0,0,0
+"BA-Jequié",2020-02-21,"nowcast",0,0,0,0,0,0
+"BA-Jequié",2020-02-22,"nowcast",0,1,0,0,0,0.333333333333333
+"BA-Jequié",2020-02-23,"nowcast",0,1,0,0,0,0.25
+"BA-Jequié",2020-02-24,"nowcast",0,1,0,0,0,0.2
+"BA-Jequié",2020-02-25,"nowcast",0,1,0,0,0,0.357142857142857
+"BA-Jequié",2020-02-26,"nowcast",0,1,0,0,0,0.235294117647059
+"BA-Jequié",2020-02-27,"nowcast",0,1,0,0,0,0.3
+"BA-Jequié",2020-02-28,"nowcast",0,1,0,0,0,0.173913043478261
+"BA-Jequié",2020-02-29,"nowcast",0,1,0,0,0,0.12
+"BA-Jequié",2020-03-01,"nowcast",0,1,0,0,0,0.272727272727273
+"BA-Jequié",2020-03-02,"nowcast",0,1,0,0,0,0.255813953488372
+"BA-Jequié",2020-03-03,"nowcast",0,1,0,0,0,0.320754716981132
+"BA-Jequié",2020-03-04,"nowcast",0,1,0,0,0,0.230769230769231
+"BA-Jequié",2020-03-05,"nowcast",0,1,0,0,0,0.243589743589744
+"BA-Jequié",2020-03-06,"nowcast",0,1,0,0,0,0.21875
+"BA-Jequié",2020-03-07,"nowcast",0,1,0,0,0,0.300813008130081
+"BA-Jequié",2020-03-08,"nowcast",0,1,0,0,0,0.219178082191781
+"BA-Jequié",2020-03-09,"nowcast",0,1,0,0,0,0.275280898876405
+"BA-Jequié",2020-03-10,"nowcast",0,1,0,0,0,0.277533039647577
+"BA-Jequié",2020-03-11,"nowcast",0,1,0,0,0,0.166666666666667
+"BA-Jequié",2020-03-12,"nowcast",0,1,0,0,0,0.242718446601942
+"BA-Jequié",2020-03-13,"nowcast",0,1,0,0,0,0.22554347826087
+"BA-Jequié",2020-03-14,"nowcast",0,1,0,0,0,0.218823529411765
+"BA-Jequié",2020-03-15,"nowcast",0,1,0,0,0,0.192622950819672
+"BA-Jequié",2020-03-16,"nowcast",0,1,0,0,0,0.177981651376147
+"BA-Jequié",2020-03-17,"nowcast",0,1,0,0,0,0.171617161716172
+"BA-Jequié",2020-03-18,"nowcast",0,1,0,0,0,0.166414523449319
+"BA-Jequié",2020-03-19,"nowcast",0,1,0,0,0,0.116448326055313
+"BA-Jequié",2020-03-20,"nowcast",0,1,0,0,0,0.103496503496503
+"BA-Jequié",2020-03-21,"nowcast",0,0,0,0,0,0.0827586206896552
+"BA-Jequié",2020-03-22,"nowcast",0,0,0,0,0,0.100536193029491
+"BA-Jequié",2020-03-23,"nowcast",0,0,0,0,0,0.103174603174603
+"BA-Jequié",2020-03-24,"nowcast",0,1,0,0,0,0.122897800776197
+"BA-Jequié",2020-03-25,"nowcast",0,1,0,0,0,0.158490566037736
+"BA-Jequié",2020-03-26,"nowcast",0,1,0,0,0,0.174661746617466
+"BA-Jequié",2020-03-27,"nowcast",0,1,0,0,0,0.235434007134364
+"BA-Jequié",2020-03-28,"nowcast",0,1,0,0,0,0.270207852193995
+"BA-Jequié",2020-03-29,"nowcast",0,1,0,0,0,0.31981981981982
+"BA-Jequié",2020-03-30,"nowcast",0,1,0,0,0,0.346111719605696
+"BA-Jequié",2020-03-31,"nowcast",0,1,0,0,0,0.458468176914779
+"BA-Jequié",2020-04-01,"nowcast",0,1,0,0,0,0.528242677824268
+"BA-Jequié",2020-04-02,"nowcast",0,2,0,0,0,0.656346749226006
+"BA-Jequié",2020-04-03,"nowcast",0,2,0,1,1,0.783893985728848
+"BA-Jequié",2020-04-04,"nowcast",0,2,0,1,1,0.874747474747475
+"BA-Jequié",2020-04-05,"nowcast",0,2,0,1,1,1.02311557788945
+"BA-Jequié",2020-04-06,"nowcast",0,3,0,1,1,1.26152304609218
+"BA-Jequié",2020-04-07,"nowcast",0,3,0,1,1,1.50550550550551
+"BA-Jequié",2020-04-08,"nowcast",0,3,1,2,2,1.7047047047047
+"BA-Jequié",2020-04-09,"nowcast",0,4,1,2,2,1.904
+"BA-Jequié",2020-04-10,"nowcast",0,4,1,2,2,2.022
+"BA-Jequié",2020-04-11,"nowcast",0,4,1,2,2,2.173
+"BA-Jequié",2020-04-12,"nowcast",0,4,1,2,2,2.214
+"BA-Jequié",2020-04-13,"nowcast",0,4,1,2,2,2.069
+"BA-Jequié",2020-04-14,"nowcast",0,4,1,2,2,2.215
+"BA-Jequié",2020-04-15,"nowcast",0,4,1,2,2,2.006
+"BA-Jequié",2020-04-16,"nowcast",0,4,1,2,2,1.982
+"BA-Jequié",2020-04-17,"nowcast",0,4,1,2,2,1.939
+"BA-Jequié",2020-04-18,"nowcast",0,4,1,2,2,1.96
+"BA-Jequié",2020-04-19,"nowcast",0,4,1,2,2,2.208
+"BA-Jequié",2020-04-20,"nowcast",0,5,0,2,2,2.388
+"BA-Jequié",2020-04-21,"nowcast",0,5,0,2,2,2.7
+"BA-Jequié",2020-04-22,"nowcast",1,6,1,3,3,3.073
+"BA-Jequié",2020-04-23,"nowcast",0,6,2,4,3,3.568
+"BA-Jequié",2020-04-24,"nowcast",1,7,2,4,4,4.147
+"BA-Jequié",2020-04-25,"nowcast",1,8,2,5,5,4.838
+"BA-Jequié",2020-04-26,"nowcast",2,9,2,5,5,5.347
+"BA-Jequié",2020-04-27,"nowcast",2,10,3,6,6,6.168
+"BA-Jequié",2020-04-28,"nowcast",3,11,4,7,7,7.077
+"BA-Jequié",2020-04-29,"nowcast",3,12,6,9,8,7.909
+"BA-Jequié",2020-04-30,"nowcast",4,13,5,9,9,8.839
+"BA-Jequié",2020-05-01,"nowcast",5,14,6,10,9.5,9.556
+"BA-Jequié",2020-05-02,"nowcast",5,15,7,11,10,10.301
+"BA-Jequié",2020-05-03,"nowcast",5,16,8,12,11,11.187
+"BA-Jequié",2020-05-04,"nowcast",5,16,8,12,12,11.828
+"BA-Jequié",2020-05-05,"nowcast",6,17,9,13,12,12.32
+"BA-Jequié",2020-05-06,"nowcast",6,17,10,14,12,12.474
+"BA-Jequié",2020-05-07,"nowcast",6,17,9,13,12,12.66
+"BA-Jequié",2020-05-08,"nowcast",7,18,9,13,13,12.735
+"BA-Jequié",2020-05-09,"nowcast",7,18,9,13,13,12.807
+"BA-Jequié",2020-05-10,"nowcast",7,18,10,14,13,13.031
+"BA-Jequié",2020-05-11,"nowcast",8,19,10,14,13.5,13.632
+"BA-Jequié",2020-05-12,"nowcast",8,19,11,15,14,13.969
+"BA-Jequié",2020-05-13,"nowcast",8,20,10,15,15,14.839
+"BA-Jequié",2020-05-14,"nowcast",9,21,11,16,16,15.522
+"BA-Jequié",2020-05-15,"nowcast",8,21,12,17,16,16.052
+"BA-Jequié",2020-05-16,"nowcast",10,22,12,17,16,16.425
+"BA-Jequié",2020-05-17,"nowcast",10,22,12,17,16,16.577
+"BA-Jequié",2020-05-18,"nowcast",10,22,12,17,16,16.425
+"BA-Jequié",2020-05-19,"nowcast",11,23,13,18,17,16.992
+"BA-Jequié",2020-05-20,"nowcast",10,23,13,18,17,17.399
+"BA-Jequié",2020-05-21,"nowcast",10,23,13,18,18,17.768
+"BA-Jequié",2020-05-22,"nowcast",11,24,14,19,18,18.369
+"BA-Jequié",2020-05-23,"nowcast",12,25,15,20,18,18.393
+"BA-Jequié",2020-05-24,"nowcast",12,25,15,20,19,18.623
+"BA-Jequié",2020-05-25,"nowcast",11,24,14,19,18,18.352
+"BA-Jequié",2020-05-26,"nowcast",10,24,14,19,18,17.975
+"BA-Jequié",2020-05-27,"nowcast",10,23,13,18,17,17.431
+"BA-Jequié",2020-05-28,"nowcast",10,23,12,17,17,16.967
+"BA-Jequié",2020-05-29,"nowcast",11,23,13,18,17,16.928
+"BA-Jequié",2020-05-30,"nowcast",10,22,12,17,17,16.653
+"BA-Jequié",2020-05-31,"nowcast",9,22,12,17,16,16.31
+"BA-Jequié",2020-06-01,"nowcast",9,21,11,16,15,15.494
+"BA-Jequié",2020-06-02,"nowcast",8,20,10,15,15,14.866
+"BA-Jequié",2020-06-03,"nowcast",9,20,10,15,14,14.322
+"BA-Jequié",2020-06-04,"nowcast",7,19,10,15,14,14.186
+"BA-Jequié",2020-06-05,"nowcast",7,19,10,15,14,13.965
+"BA-Jequié",2020-06-06,"nowcast",8,20,10,15,14,14.366
+"BA-Jequié",2020-06-07,"nowcast",8,21,11,16,15,15.201
+"BA-Jequié",2020-06-08,"nowcast",10,23,12,17,16,16.201
+"BA-Jequié",2020-06-09,"nowcast",11,25,13,19,18,17.862
+"BA-Jequié",2020-06-10,"nowcast",11,26,14,20,19,18.975
+"BA-Jequié",2020-06-11,"nowcast",13,28,16,22,21,20.979
+"BA-Jequié",2020-06-12,"nowcast",14,29,18,24,22,22.419
+"BA-Jequié",2020-06-13,"nowcast",16,32,20,26,24,24.287
+"BA-Jequié",2020-06-14,"nowcast",18,34,20,27,26,26.009
+"BA-Jequié",2020-06-15,"nowcast",18,35,22,29,27,27.235
+"BA-Jequié",2020-06-16,"nowcast",20,38,24,31,29,29.399
+"BA-Jequié",2020-06-17,"nowcast",21,40,27,34,31,30.827
+"BA-Jequié",2020-06-18,"nowcast",22,42,26,34,32,32.417
+"BA-Jequié",2020-06-19,"nowcast",22,43,28,36,34,34.456
+"BA-Jequié",2020-06-20,"nowcast",25,46,29,38,37,36.662
+"BA-Jequié",2020-06-21,"nowcast",27,49,33,42,39,39.115
+"BA-Jequié",2020-06-22,"nowcast",31,54,36,45,43,42.975
+"BA-Jequié",2020-06-23,"nowcast",32,57,40,49,46,46.497
+"BA-Jequié",2020-06-24,"nowcast",38,61,46,55,50,50.366
+"BA-Jequié",2020-06-25,"nowcast",40,65,49,58,55,54.82
+"BA-Jequié",2020-06-26,"nowcast",46,71,53,63,59,59.386
+"BA-Jequié",2020-06-27,"nowcast",50,76,57,67,63,63.631
+"BA-Jequié",2020-06-28,"nowcast",52,79,60,70,67,66.852
+"BA-Jequié",2020-06-29,"nowcast",54,82,62,73,70,69.873
+"BA-Jequié",2020-06-30,"nowcast",57,85,64,75,72,71.939
+"BA-Jequié",2020-07-01,"nowcast",59,86,66,77,74,74.444
+"BA-Jequié",2020-07-02,"nowcast",59,88,69,80,75,75.447
+"BA-Jequié",2020-07-03,"nowcast",63,91,71,82,76,76.4
+"BA-Jequié",2020-07-04,"nowcast",61,91,69,81,77,76.877
+"BA-Jequié",2020-07-05,"nowcast",60,90,66,78,76,76.226
+"BA-Jequié",2020-07-06,"forecast",57,110,70,91,83,83.7082
+"BA-Jequié",2020-07-07,"forecast",55,116,71,95,86,86.5788
+"BA-Jequié",2020-07-08,"forecast",52,122,70,98,89,89.7746
+"BA-Jequié",2020-07-09,"forecast",54,132,69,101,92,93.5156
+"BA-Jequié",2020-07-10,"forecast",49,140,74,110,96,97.0458
+"BA-Jequié",2020-07-11,"forecast",48,148,73,112,99,100.8942
+"BA-Jequié",2020-07-12,"forecast",49,158,70,113,102,104.6732
+"BA-Jequié",2020-07-13,"forecast",46,166,74,122,106,108.7982
+"BA-Jequié",2020-07-14,"forecast",51,182,82,134,110,113.2342
+"BA-Jequié",2020-07-15,"forecast",40,185,82,140,114,117.3812
+"BA-Jequié",2020-07-16,"forecast",36,191,77,140,118,121.2156
+"BA-Jequié",2020-07-17,"forecast",38,209,73,143,122,126.4924
+"BA-Jequié",2020-07-18,"forecast",38,225,77,150,125,131.378
+"BA-Jequié",2020-07-19,"forecast",32,232,83,162,130,136.6008
+"BA-Juazeiro",2020-02-10,"nowcast",1,1,1,1,1,1
+"BA-Juazeiro",2020-02-11,"nowcast",0,0,0,0,0,0
+"BA-Juazeiro",2020-02-12,"nowcast",0,0,0,0,0,0
+"BA-Juazeiro",2020-02-13,"nowcast",0,0,0,0,0,0
+"BA-Juazeiro",2020-02-14,"nowcast",0,0,0,0,0,0
+"BA-Juazeiro",2020-02-15,"nowcast",0,0,0,0,0,0
+"BA-Juazeiro",2020-02-16,"nowcast",0,1,0,1,0.5,0.5
+"BA-Juazeiro",2020-02-17,"nowcast",0,0,0,0,0,0
+"BA-Juazeiro",2020-02-18,"nowcast",0,1,0,0,0,0.333333333333333
+"BA-Juazeiro",2020-02-19,"nowcast",0,1,0,0,0,0.25
+"BA-Juazeiro",2020-02-20,"nowcast",0,0,0,0,0,0
+"BA-Juazeiro",2020-02-21,"nowcast",0,1,0,0,0,0.2
+"BA-Juazeiro",2020-02-22,"nowcast",0,1,0,0,0,0.375
+"BA-Juazeiro",2020-02-23,"nowcast",0,1,0,0,0,0.222222222222222
+"BA-Juazeiro",2020-02-24,"nowcast",0,1,0,0,0,0.181818181818182
+"BA-Juazeiro",2020-02-25,"nowcast",0,1,0,0,0,0.214285714285714
+"BA-Juazeiro",2020-02-26,"nowcast",0,1,0,0,0,0.458333333333333
+"BA-Juazeiro",2020-02-27,"nowcast",0,1,0,0,0,0.172413793103448
+"BA-Juazeiro",2020-02-28,"nowcast",0,1,0,0,0,0.307692307692308
+"BA-Juazeiro",2020-02-29,"nowcast",0,1,0,0,0,0.191489361702128
+"BA-Juazeiro",2020-03-01,"nowcast",0,1,0,0,0,0.258620689655172
+"BA-Juazeiro",2020-03-02,"nowcast",0,1,0,0,0,0.306666666666667
+"BA-Juazeiro",2020-03-03,"nowcast",0,1,0,0,0,0.28125
+"BA-Juazeiro",2020-03-04,"nowcast",0,1,0,0,0,0.3
+"BA-Juazeiro",2020-03-05,"nowcast",0,1,0,0,0,0.234042553191489
+"BA-Juazeiro",2020-03-06,"nowcast",0,1,0,0,0,0.302702702702703
+"BA-Juazeiro",2020-03-07,"nowcast",0,1,0,0,0,0.216589861751152
+"BA-Juazeiro",2020-03-08,"nowcast",0,1,0,0,0,0.243243243243243
+"BA-Juazeiro",2020-03-09,"nowcast",0,1,0,0,0,0.272727272727273
+"BA-Juazeiro",2020-03-10,"nowcast",0,1,0,0,0,0.267217630853994
+"BA-Juazeiro",2020-03-11,"nowcast",0,1,0,0,0,0.272727272727273
+"BA-Juazeiro",2020-03-12,"nowcast",0,1,0,0,0,0.264887063655031
+"BA-Juazeiro",2020-03-13,"nowcast",0,1,0,0,0,0.26605504587156
+"BA-Juazeiro",2020-03-14,"nowcast",0,1,0,0,0,0.253706754530478
+"BA-Juazeiro",2020-03-15,"nowcast",0,1,0,0,0,0.277941176470588
+"BA-Juazeiro",2020-03-16,"nowcast",0,1,0,0,0,0.251664447403462
+"BA-Juazeiro",2020-03-17,"nowcast",0,1,0,0,0,0.231446540880503
+"BA-Juazeiro",2020-03-18,"nowcast",0,1,0,0,0,0.235571260306243
+"BA-Juazeiro",2020-03-19,"nowcast",0,1,0,0,0,0.196796338672769
+"BA-Juazeiro",2020-03-20,"nowcast",0,1,0,0,0,0.170403587443946
+"BA-Juazeiro",2020-03-21,"nowcast",0,1,0,0,0,0.116150442477876
+"BA-Juazeiro",2020-03-22,"nowcast",0,1,0,0,0,0.114754098360656
+"BA-Juazeiro",2020-03-23,"nowcast",0,0,0,0,0,0.0977198697068404
+"BA-Juazeiro",2020-03-24,"nowcast",0,1,0,0,0,0.107874865156419
+"BA-Juazeiro",2020-03-25,"nowcast",0,1,0,0,0,0.147593582887701
+"BA-Juazeiro",2020-03-26,"nowcast",0,1,0,0,0,0.154989384288747
+"BA-Juazeiro",2020-03-27,"nowcast",0,1,0,0,0,0.173178458289335
+"BA-Juazeiro",2020-03-28,"nowcast",0,1,0,0,0,0.204379562043796
+"BA-Juazeiro",2020-03-29,"nowcast",0,1,0,0,0,0.225672877846791
+"BA-Juazeiro",2020-03-30,"nowcast",0,1,0,0,0,0.231719876416066
+"BA-Juazeiro",2020-03-31,"nowcast",0,1,0,0,0,0.252040816326531
+"BA-Juazeiro",2020-04-01,"nowcast",0,1,0,0,0,0.244399185336049
+"BA-Juazeiro",2020-04-02,"nowcast",0,1,0,0,0,0.253292806484296
+"BA-Juazeiro",2020-04-03,"nowcast",0,1,0,0,0,0.291919191919192
+"BA-Juazeiro",2020-04-04,"nowcast",0,1,0,0,0,0.249243188698285
+"BA-Juazeiro",2020-04-05,"nowcast",0,1,0,0,0,0.257028112449799
+"BA-Juazeiro",2020-04-06,"nowcast",0,1,0,0,0,0.288288288288288
+"BA-Juazeiro",2020-04-07,"nowcast",0,1,0,0,0,0.269269269269269
+"BA-Juazeiro",2020-04-08,"nowcast",0,1,0,0,0,0.252252252252252
+"BA-Juazeiro",2020-04-09,"nowcast",0,1,0,0,0,0.218218218218218
+"BA-Juazeiro",2020-04-10,"nowcast",0,1,0,0,0,0.259259259259259
+"BA-Juazeiro",2020-04-11,"nowcast",0,1,0,0,0,0.264264264264264
+"BA-Juazeiro",2020-04-12,"nowcast",0,1,0,0,0,0.305305305305305
+"BA-Juazeiro",2020-04-13,"nowcast",0,1,0,0,0,0.293
+"BA-Juazeiro",2020-04-14,"nowcast",0,1,0,0,0,0.31
+"BA-Juazeiro",2020-04-15,"nowcast",0,1,0,0,0,0.302
+"BA-Juazeiro",2020-04-16,"nowcast",0,1,0,0,0,0.283
+"BA-Juazeiro",2020-04-17,"nowcast",0,1,0,0,0,0.251
+"BA-Juazeiro",2020-04-18,"nowcast",0,1,0,0,0,0.26
+"BA-Juazeiro",2020-04-19,"nowcast",0,1,0,0,0,0.225
+"BA-Juazeiro",2020-04-20,"nowcast",0,1,0,0,0,0.242
+"BA-Juazeiro",2020-04-21,"nowcast",0,1,0,0,0,0.262
+"BA-Juazeiro",2020-04-22,"nowcast",0,1,0,0,0,0.235
+"BA-Juazeiro",2020-04-23,"nowcast",0,1,0,0,0,0.232
+"BA-Juazeiro",2020-04-24,"nowcast",0,1,0,0,0,0.271
+"BA-Juazeiro",2020-04-25,"nowcast",0,1,0,0,0,0.285
+"BA-Juazeiro",2020-04-26,"nowcast",0,1,0,0,0,0.38
+"BA-Juazeiro",2020-04-27,"nowcast",0,1,0,0,0,0.428
+"BA-Juazeiro",2020-04-28,"nowcast",0,1,0,0,0,0.521
+"BA-Juazeiro",2020-04-29,"nowcast",0,2,0,0,0,0.677
+"BA-Juazeiro",2020-04-30,"nowcast",0,2,0,1,1,0.813
+"BA-Juazeiro",2020-05-01,"nowcast",0,2,0,1,1,0.971
+"BA-Juazeiro",2020-05-02,"nowcast",0,3,0,1,1,1.166
+"BA-Juazeiro",2020-05-03,"nowcast",0,3,0,1,1,1.282
+"BA-Juazeiro",2020-05-04,"nowcast",0,3,0,1,1,1.546
+"BA-Juazeiro",2020-05-05,"nowcast",0,3,1,2,2,1.7
+"BA-Juazeiro",2020-05-06,"nowcast",0,4,1,2,2,1.834
+"BA-Juazeiro",2020-05-07,"nowcast",0,4,1,2,2,1.958
+"BA-Juazeiro",2020-05-08,"nowcast",0,4,1,2,2,2.06
+"BA-Juazeiro",2020-05-09,"nowcast",0,4,1,2,2,2.09
+"BA-Juazeiro",2020-05-10,"nowcast",0,4,0,2,2,2.218
+"BA-Juazeiro",2020-05-11,"nowcast",0,4,1,2,2,2.058
+"BA-Juazeiro",2020-05-12,"nowcast",0,4,1,2,2,1.959
+"BA-Juazeiro",2020-05-13,"nowcast",0,4,1,2,2,1.966
+"BA-Juazeiro",2020-05-14,"nowcast",0,4,1,2,2,2.014
+"BA-Juazeiro",2020-05-15,"nowcast",0,4,0,2,2,2.177
+"BA-Juazeiro",2020-05-16,"nowcast",0,5,0,2,2,2.567
+"BA-Juazeiro",2020-05-17,"nowcast",0,5,1,3,3,2.841
+"BA-Juazeiro",2020-05-18,"nowcast",1,6,1,3,3,3.214
+"BA-Juazeiro",2020-05-19,"nowcast",0,6,2,4,3,3.521
+"BA-Juazeiro",2020-05-20,"nowcast",1,7,2,4,4,4.038
+"BA-Juazeiro",2020-05-21,"nowcast",0,7,2,5,4,4.681
+"BA-Juazeiro",2020-05-22,"nowcast",2,9,2,5,5,5.399
+"BA-Juazeiro",2020-05-23,"nowcast",2,10,3,6,6,6.152
+"BA-Juazeiro",2020-05-24,"nowcast",3,11,4,7,7,7.233
+"BA-Juazeiro",2020-05-25,"nowcast",3,12,6,9,8,8.149
+"BA-Juazeiro",2020-05-26,"nowcast",3,13,7,10,9,9.134
+"BA-Juazeiro",2020-05-27,"nowcast",4,14,6,10,10,9.885
+"BA-Juazeiro",2020-05-28,"nowcast",6,16,9,12,11,10.891
+"BA-Juazeiro",2020-05-29,"nowcast",5,16,8,12,11,11.607
+"BA-Juazeiro",2020-05-30,"nowcast",6,17,8,12,12,11.872
+"BA-Juazeiro",2020-05-31,"nowcast",7,17,8,12,12,12.061
+"BA-Juazeiro",2020-06-01,"nowcast",7,18,10,14,12,12.406
+"BA-Juazeiro",2020-06-02,"nowcast",7,18,10,14,12,12.512
+"BA-Juazeiro",2020-06-03,"nowcast",6,18,10,14,13,12.822
+"BA-Juazeiro",2020-06-04,"nowcast",7,19,11,15,13,13.352
+"BA-Juazeiro",2020-06-05,"nowcast",8,20,9,14,13.5,13.865
+"BA-Juazeiro",2020-06-06,"nowcast",8,21,11,16,15,15.027
+"BA-Juazeiro",2020-06-07,"nowcast",8,23,11,17,16,16.528
+"BA-Juazeiro",2020-06-08,"nowcast",10,25,13,19,18,18.057
+"BA-Juazeiro",2020-06-09,"nowcast",11,28,16,23,21,20.892
+"BA-Juazeiro",2020-06-10,"nowcast",13,31,19,26,23,23.41
+"BA-Juazeiro",2020-06-11,"nowcast",17,35,22,29,26,26.842
+"BA-Juazeiro",2020-06-12,"nowcast",19,38,25,32,30,29.907
+"BA-Juazeiro",2020-06-13,"nowcast",22,42,26,34,33,33.001
+"BA-Juazeiro",2020-06-14,"nowcast",25,45,31,39,36,36.034
+"BA-Juazeiro",2020-06-15,"nowcast",27,48,34,42,38,38.907
+"BA-Juazeiro",2020-06-16,"nowcast",30,52,35,44,41,41.237
+"BA-Juazeiro",2020-06-17,"nowcast",33,55,37,46,44,43.854
+"BA-Juazeiro",2020-06-18,"nowcast",34,56,41,49,46,45.62
+"BA-Juazeiro",2020-06-19,"nowcast",36,58,40,49,48,47.894
+"BA-Juazeiro",2020-06-20,"nowcast",39,61,42,51,49,49.78
+"BA-Juazeiro",2020-06-21,"nowcast",38,62,44,53,51,51.518
+"BA-Juazeiro",2020-06-22,"nowcast",41,64,45,54,53,52.982
+"BA-Juazeiro",2020-06-23,"nowcast",41,65,47,57,54,54.639
+"BA-Juazeiro",2020-06-24,"nowcast",44,67,50,59,56,56.249
+"BA-Juazeiro",2020-06-25,"nowcast",45,68,52,61,58,57.658
+"BA-Juazeiro",2020-06-26,"nowcast",46,70,51,61,59,59.051
+"BA-Juazeiro",2020-06-27,"nowcast",46,71,53,62,59,59.599
+"BA-Juazeiro",2020-06-28,"nowcast",47,71,52,62,60,59.659
+"BA-Juazeiro",2020-06-29,"nowcast",46,71,52,62,59,58.82
+"BA-Juazeiro",2020-06-30,"nowcast",44,68,51,60,57,57.285
+"BA-Juazeiro",2020-07-01,"nowcast",43,68,50,60,57,56.526
+"BA-Juazeiro",2020-07-02,"nowcast",44,68,48,58,56,56.309
+"BA-Juazeiro",2020-07-03,"nowcast",44,70,49,60,57,57.156
+"BA-Juazeiro",2020-07-04,"nowcast",43,70,50,61,57.5,57.974
+"BA-Juazeiro",2020-07-05,"nowcast",42,71,50,61,58,57.715
+"BA-Juazeiro",2020-07-06,"forecast",34,77,44,61,56,57.4154
+"BA-Juazeiro",2020-07-07,"forecast",31,79,44,62,56,57.279
+"BA-Juazeiro",2020-07-08,"forecast",28,81,40,61,55,56.7762
+"BA-Juazeiro",2020-07-09,"forecast",27,84,41,63,55,56.5766
+"BA-Juazeiro",2020-07-10,"forecast",24,86,37,61,54,56.2222
+"BA-Juazeiro",2020-07-11,"forecast",23,89,35,60,53,55.9546
+"BA-Juazeiro",2020-07-12,"forecast",14,88,32,59,52,55.4628
+"BA-Juazeiro",2020-07-13,"forecast",14,91,29,58,51,54.863
+"BA-Juazeiro",2020-07-14,"forecast",11,93,32,61,50,54.9374
+"BA-Juazeiro",2020-07-15,"forecast",10,96,24,55,49,53.9504
+"BA-Juazeiro",2020-07-16,"forecast",7,95,23,55,47,53.1674
+"BA-Juazeiro",2020-07-17,"forecast",4,98,19,52,46,52.9006
+"BA-Juazeiro",2020-07-18,"forecast",7,102,16,49,44.5,52.337
+"BA-Juazeiro",2020-07-19,"forecast",0,97,13,47,43,51.5634
+"BA-Lauro de Freitas",2020-02-06,"nowcast",1,1,1,1,1,1
+"BA-Lauro de Freitas",2020-02-07,"nowcast",0,0,0,0,0,0
+"BA-Lauro de Freitas",2020-02-08,"nowcast",0,0,0,0,0,0
+"BA-Lauro de Freitas",2020-02-09,"nowcast",0,0,0,0,0,0
+"BA-Lauro de Freitas",2020-02-10,"nowcast",0,0,0,0,0,0
+"BA-Lauro de Freitas",2020-02-11,"nowcast",0,0,0,0,0,0
+"BA-Lauro de Freitas",2020-02-12,"nowcast",0,1,0,1,0.5,0.5
+"BA-Lauro de Freitas",2020-02-13,"nowcast",0,1,0,0,0,0.333333333333333
+"BA-Lauro de Freitas",2020-02-14,"nowcast",0,1,1,1,1,0.6
+"BA-Lauro de Freitas",2020-02-15,"nowcast",0,1,0,0,0,0.333333333333333
+"BA-Lauro de Freitas",2020-02-16,"nowcast",0,0,0,0,0,0
+"BA-Lauro de Freitas",2020-02-17,"nowcast",0,1,1,1,1,0.538461538461538
+"BA-Lauro de Freitas",2020-02-18,"nowcast",0,1,0,0,0,0.421052631578947
+"BA-Lauro de Freitas",2020-02-19,"nowcast",0,1,0,0,0,0.173913043478261
+"BA-Lauro de Freitas",2020-02-20,"nowcast",0,1,0,0,0,0.457142857142857
+"BA-Lauro de Freitas",2020-02-21,"nowcast",0,1,0,0,0,0.205128205128205
+"BA-Lauro de Freitas",2020-02-22,"nowcast",0,1,0,0,0,0.260869565217391
+"BA-Lauro de Freitas",2020-02-23,"nowcast",0,1,0,0,0,0.254237288135593
+"BA-Lauro de Freitas",2020-02-24,"nowcast",0,1,0,0,0,0.222222222222222
+"BA-Lauro de Freitas",2020-02-25,"nowcast",0,1,0,0,0,0.241379310344828
+"BA-Lauro de Freitas",2020-02-26,"nowcast",0,1,0,0,0,0.366071428571429
+"BA-Lauro de Freitas",2020-02-27,"nowcast",0,1,0,0,0,0.333333333333333
+"BA-Lauro de Freitas",2020-02-28,"nowcast",0,1,0,0,0,0.265895953757225
+"BA-Lauro de Freitas",2020-02-29,"nowcast",0,1,0,0,0,0.314553990610329
+"BA-Lauro de Freitas",2020-03-01,"nowcast",0,1,0,0,0,0.319391634980989
+"BA-Lauro de Freitas",2020-03-02,"nowcast",0,1,0,0,0,0.363076923076923
+"BA-Lauro de Freitas",2020-03-03,"nowcast",0,1,0,0,0,0.324607329842932
+"BA-Lauro de Freitas",2020-03-04,"nowcast",0,1,0,0,0,0.330396475770925
+"BA-Lauro de Freitas",2020-03-05,"nowcast",0,1,0,0,0,0.368715083798883
+"BA-Lauro de Freitas",2020-03-06,"nowcast",0,1,0,0,0,0.36437908496732
+"BA-Lauro de Freitas",2020-03-07,"nowcast",0,1,0,0,0,0.378962536023055
+"BA-Lauro de Freitas",2020-03-08,"nowcast",0,1,0,0,0,0.4140625
+"BA-Lauro de Freitas",2020-03-09,"nowcast",0,1,0,0,0,0.479318734793187
+"BA-Lauro de Freitas",2020-03-10,"nowcast",0,1,0,0,0,0.507411630558723
+"BA-Lauro de Freitas",2020-03-11,"nowcast",0,1,0,0,0,0.568669527896996
+"BA-Lauro de Freitas",2020-03-12,"nowcast",0,2,0,0,0,0.621875
+"BA-Lauro de Freitas",2020-03-13,"nowcast",0,2,0,0,0,0.672839506172839
+"BA-Lauro de Freitas",2020-03-14,"nowcast",0,2,0,1,1,0.691370558375635
+"BA-Lauro de Freitas",2020-03-15,"nowcast",0,2,0,1,1,0.724798387096774
+"BA-Lauro de Freitas",2020-03-16,"nowcast",0,2,0,1,1,0.711557788944724
+"BA-Lauro de Freitas",2020-03-17,"nowcast",0,2,0,1,1,0.753753753753754
+"BA-Lauro de Freitas",2020-03-18,"nowcast",0,2,0,1,1,0.815815815815816
+"BA-Lauro de Freitas",2020-03-19,"nowcast",0,2,0,1,1,0.944944944944945
+"BA-Lauro de Freitas",2020-03-20,"nowcast",0,2,0,1,1,0.912
+"BA-Lauro de Freitas",2020-03-21,"nowcast",0,2,0,1,1,1.029
+"BA-Lauro de Freitas",2020-03-22,"nowcast",0,2,0,1,1,1.027
+"BA-Lauro de Freitas",2020-03-23,"nowcast",0,2,0,1,1,1.026
+"BA-Lauro de Freitas",2020-03-24,"nowcast",0,2,0,1,1,1.04
+"BA-Lauro de Freitas",2020-03-25,"nowcast",0,2,0,1,1,1.006
+"BA-Lauro de Freitas",2020-03-26,"nowcast",0,2,0,1,1,0.955
+"BA-Lauro de Freitas",2020-03-27,"nowcast",0,2,0,1,1,0.985
+"BA-Lauro de Freitas",2020-03-28,"nowcast",0,2,0,1,1,1.021
+"BA-Lauro de Freitas",2020-03-29,"nowcast",0,2,0,1,1,1.059
+"BA-Lauro de Freitas",2020-03-30,"nowcast",0,3,0,1,1,1.178
+"BA-Lauro de Freitas",2020-03-31,"nowcast",0,3,0,1,1,1.148
+"BA-Lauro de Freitas",2020-04-01,"nowcast",0,3,0,1,1,1.2
+"BA-Lauro de Freitas",2020-04-02,"nowcast",0,3,0,1,1,1.183
+"BA-Lauro de Freitas",2020-04-03,"nowcast",0,3,0,1,1,1.22
+"BA-Lauro de Freitas",2020-04-04,"nowcast",0,3,0,1,1,1.218
+"BA-Lauro de Freitas",2020-04-05,"nowcast",0,3,0,1,1,1.35
+"BA-Lauro de Freitas",2020-04-06,"nowcast",0,3,0,1,1,1.55
+"BA-Lauro de Freitas",2020-04-07,"nowcast",0,3,0,1,1,1.571
+"BA-Lauro de Freitas",2020-04-08,"nowcast",0,3,1,2,2,1.672
+"BA-Lauro de Freitas",2020-04-09,"nowcast",0,4,1,2,2,1.835
+"BA-Lauro de Freitas",2020-04-10,"nowcast",0,4,1,2,2,1.828
+"BA-Lauro de Freitas",2020-04-11,"nowcast",0,4,1,2,2,1.938
+"BA-Lauro de Freitas",2020-04-12,"nowcast",0,4,1,2,2,2.053
+"BA-Lauro de Freitas",2020-04-13,"nowcast",0,4,1,2,2,2.158
+"BA-Lauro de Freitas",2020-04-14,"nowcast",0,4,0,2,2,2.297
+"BA-Lauro de Freitas",2020-04-15,"nowcast",0,4,0,2,2,2.362
+"BA-Lauro de Freitas",2020-04-16,"nowcast",0,5,0,2,2,2.52
+"BA-Lauro de Freitas",2020-04-17,"nowcast",0,5,1,3,3,2.831
+"BA-Lauro de Freitas",2020-04-18,"nowcast",0,5,1,3,3,2.992
+"BA-Lauro de Freitas",2020-04-19,"nowcast",1,6,1,3,3,3.348
+"BA-Lauro de Freitas",2020-04-20,"nowcast",0,6,2,4,3,3.656
+"BA-Lauro de Freitas",2020-04-21,"nowcast",1,7,2,4,4,4.098
+"BA-Lauro de Freitas",2020-04-22,"nowcast",2,8,3,5,4,4.495
+"BA-Lauro de Freitas",2020-04-23,"nowcast",1,8,2,5,5,5.13
+"BA-Lauro de Freitas",2020-04-24,"nowcast",2,9,3,6,5,5.648
+"BA-Lauro de Freitas",2020-04-25,"nowcast",2,10,3,6,6,6.179
+"BA-Lauro de Freitas",2020-04-26,"nowcast",2,10,4,7,6,6.716
+"BA-Lauro de Freitas",2020-04-27,"nowcast",3,11,5,8,7,7.106
+"BA-Lauro de Freitas",2020-04-28,"nowcast",2,11,6,9,8,7.682
+"BA-Lauro de Freitas",2020-04-29,"nowcast",4,13,5,9,8,8.363
+"BA-Lauro de Freitas",2020-04-30,"nowcast",4,13,5,9,9,9.074
+"BA-Lauro de Freitas",2020-05-01,"nowcast",4,14,6,10,9,9.517
+"BA-Lauro de Freitas",2020-05-02,"nowcast",5,15,7,11,10,10.529
+"BA-Lauro de Freitas",2020-05-03,"nowcast",6,17,8,12,11,11.553
+"BA-Lauro de Freitas",2020-05-04,"nowcast",7,18,10,14,12,12.572
+"BA-Lauro de Freitas",2020-05-05,"nowcast",8,19,9,14,14,13.694
+"BA-Lauro de Freitas",2020-05-06,"nowcast",8,20,13,17,15,15.057
+"BA-Lauro de Freitas",2020-05-07,"nowcast",10,22,12,17,16,16.14
+"BA-Lauro de Freitas",2020-05-08,"nowcast",12,24,13,18,17,17.448
+"BA-Lauro de Freitas",2020-05-09,"nowcast",11,24,14,19,18,18.213
+"BA-Lauro de Freitas",2020-05-10,"nowcast",12,25,15,20,19,18.797
+"BA-Lauro de Freitas",2020-05-11,"nowcast",11,25,14,20,19,19.314
+"BA-Lauro de Freitas",2020-05-12,"nowcast",12,26,14,20,19,19.388
+"BA-Lauro de Freitas",2020-05-13,"nowcast",13,27,17,22,20,20.23
+"BA-Lauro de Freitas",2020-05-14,"nowcast",12,27,18,23,20,20.66
+"BA-Lauro de Freitas",2020-05-15,"nowcast",13,27,16,22,21,21.458
+"BA-Lauro de Freitas",2020-05-16,"nowcast",14,29,16,22,22,21.861
+"BA-Lauro de Freitas",2020-05-17,"nowcast",15,29,20,25,23,22.707
+"BA-Lauro de Freitas",2020-05-18,"nowcast",15,29,19,24,22,22.182
+"BA-Lauro de Freitas",2020-05-19,"nowcast",14,29,17,23,22,22.122
+"BA-Lauro de Freitas",2020-05-20,"nowcast",14,28,18,23,22,22.185
+"BA-Lauro de Freitas",2020-05-21,"nowcast",13,28,17,23,22,21.997
+"BA-Lauro de Freitas",2020-05-22,"nowcast",15,30,17,23,22,22.564
+"BA-Lauro de Freitas",2020-05-23,"nowcast",15,30,19,25,24,23.586
+"BA-Lauro de Freitas",2020-05-24,"nowcast",16,31,19,25,24,24.4
+"BA-Lauro de Freitas",2020-05-25,"nowcast",17,32,20,26,25,25.475
+"BA-Lauro de Freitas",2020-05-26,"nowcast",18,33,21,27,26,26.001
+"BA-Lauro de Freitas",2020-05-27,"nowcast",18,34,23,29,26,26.536
+"BA-Lauro de Freitas",2020-05-28,"nowcast",18,34,22,28,27,26.807
+"BA-Lauro de Freitas",2020-05-29,"nowcast",17,34,21,28,27,27.099
+"BA-Lauro de Freitas",2020-05-30,"nowcast",17,34,24,30,27,27.199
+"BA-Lauro de Freitas",2020-05-31,"nowcast",18,35,22,29,27,27.356
+"BA-Lauro de Freitas",2020-06-01,"nowcast",19,37,22,29,27,27.704
+"BA-Lauro de Freitas",2020-06-02,"nowcast",20,38,23,30,28,28.581
+"BA-Lauro de Freitas",2020-06-03,"nowcast",21,41,23,31,29,29.707
+"BA-Lauro de Freitas",2020-06-04,"nowcast",20,41,27,35,32,32.025
+"BA-Lauro de Freitas",2020-06-05,"nowcast",22,44,25,34,33,33.81
+"BA-Lauro de Freitas",2020-06-06,"nowcast",23,46,29,38,36,36.053
+"BA-Lauro de Freitas",2020-06-07,"nowcast",25,50,31,41,38,38.84
+"BA-Lauro de Freitas",2020-06-08,"nowcast",27,57,31,43,41,41.848
+"BA-Lauro de Freitas",2020-06-09,"nowcast",30,61,39,51,46,46.339
+"BA-Lauro de Freitas",2020-06-10,"nowcast",33,68,40,54,51,51.449
+"BA-Lauro de Freitas",2020-06-11,"nowcast",39,76,49,64,58,58.67
+"BA-Lauro de Freitas",2020-06-12,"nowcast",46,85,54,70,65,65.321
+"BA-Lauro de Freitas",2020-06-13,"nowcast",52,92,64,80,73,73.886
+"BA-Lauro de Freitas",2020-06-14,"nowcast",61,103,74,91,83,83.301
+"BA-Lauro de Freitas",2020-06-15,"nowcast",73,113,82,99,95,94.302
+"BA-Lauro de Freitas",2020-06-16,"nowcast",85,126,93,110,104,104.485
+"BA-Lauro de Freitas",2020-06-17,"nowcast",96,136,104,121,116,115.694
+"BA-Lauro de Freitas",2020-06-18,"nowcast",107,145,113,129,125,125.545
+"BA-Lauro de Freitas",2020-06-19,"nowcast",114,153,122,138,134,134.23
+"BA-Lauro de Freitas",2020-06-20,"nowcast",122,162,127,143,140,139.746
+"BA-Lauro de Freitas",2020-06-21,"nowcast",119,164,132,149,142,142.442
+"BA-Lauro de Freitas",2020-06-22,"nowcast",117,161,130,146,140,140.081
+"BA-Lauro de Freitas",2020-06-23,"nowcast",112,156,121,138,132,132.516
+"BA-Lauro de Freitas",2020-06-24,"nowcast",98,141,111,128,121.5,121.928
+"BA-Lauro de Freitas",2020-06-25,"nowcast",91,127,100,115,110,110.112
+"BA-Lauro de Freitas",2020-06-26,"nowcast",84,117,93,105,102,101.919
+"BA-Lauro de Freitas",2020-06-27,"nowcast",80,112,91,104,98,97.885
+"BA-Lauro de Freitas",2020-06-28,"nowcast",78,109,86,99,95,95.358
+"BA-Lauro de Freitas",2020-06-29,"nowcast",78,108,86,98,94,93.857
+"BA-Lauro de Freitas",2020-06-30,"nowcast",74,106,83,96,92,92.126
+"BA-Lauro de Freitas",2020-07-01,"nowcast",73,105,83,95,90,90.506
+"BA-Lauro de Freitas",2020-07-02,"nowcast",72,105,80,93,89,89.782
+"BA-Lauro de Freitas",2020-07-03,"nowcast",69,102,79,92,88,87.619
+"BA-Lauro de Freitas",2020-07-04,"nowcast",67,101,75,89,85,85.102
+"BA-Lauro de Freitas",2020-07-05,"nowcast",62,97,71,85,81,80.917
+"BA-Lauro de Freitas",2020-07-06,"forecast",53,105,65,86,79,79.43
+"BA-Lauro de Freitas",2020-07-07,"forecast",46,106,59,83,76,76.819
+"BA-Lauro de Freitas",2020-07-08,"forecast",37,106,57,83,72,74.0928
+"BA-Lauro de Freitas",2020-07-09,"forecast",33,106,48,77,70,71.8282
+"BA-Lauro de Freitas",2020-07-10,"forecast",29,108,42,73,66,68.8278
+"BA-Lauro de Freitas",2020-07-11,"forecast",21,106,41,73,64,66.4412
+"BA-Lauro de Freitas",2020-07-12,"forecast",19,106,37,71,61,63.6114
+"BA-Lauro de Freitas",2020-07-13,"forecast",14,103,35,69,57,61.0142
+"BA-Lauro de Freitas",2020-07-14,"forecast",9,102,28,64,54,58.5464
+"BA-Lauro de Freitas",2020-07-15,"forecast",6,101,24,59,51,55.5668
+"BA-Lauro de Freitas",2020-07-16,"forecast",0,95,23,59,49,53.9836
+"BA-Lauro de Freitas",2020-07-17,"forecast",0,93,20,55,46,51.2368
+"BA-Lauro de Freitas",2020-07-18,"forecast",0,91,13,48,42,48.771
+"BA-Lauro de Freitas",2020-07-19,"forecast",0,90,14,49,39,46.6118
+"BA-Porto Seguro",2020-02-01,"nowcast",1,1,1,1,1,1
+"BA-Porto Seguro",2020-02-02,"nowcast",0,0,0,0,0,0
+"BA-Porto Seguro",2020-02-03,"nowcast",0,1,0,1,0.5,0.5
+"BA-Porto Seguro",2020-02-04,"nowcast",0,0,0,0,0,0
+"BA-Porto Seguro",2020-02-05,"nowcast",0,1,0,1,0.5,0.5
+"BA-Porto Seguro",2020-02-06,"nowcast",0,0,0,0,0,0
+"BA-Porto Seguro",2020-02-07,"nowcast",0,0,0,0,0,0
+"BA-Porto Seguro",2020-02-08,"nowcast",0,1,0,1,0.5,0.5
+"BA-Porto Seguro",2020-02-09,"nowcast",0,1,0,0,0,0.142857142857143
+"BA-Porto Seguro",2020-02-10,"nowcast",0,1,0,0,0,0.222222222222222
+"BA-Porto Seguro",2020-02-11,"nowcast",0,1,0,0,0,0.181818181818182
+"BA-Porto Seguro",2020-02-12,"nowcast",0,0,0,0,0,0.0833333333333333
+"BA-Porto Seguro",2020-02-13,"nowcast",0,1,0,0,0,0.25
+"BA-Porto Seguro",2020-02-14,"nowcast",0,1,0,0,0,0.294117647058824
+"BA-Porto Seguro",2020-02-15,"nowcast",0,1,0,0,0,0.260869565217391
+"BA-Porto Seguro",2020-02-16,"nowcast",0,1,0,0,0,0.354838709677419
+"BA-Porto Seguro",2020-02-17,"nowcast",0,1,0,0,0,0.176470588235294
+"BA-Porto Seguro",2020-02-18,"nowcast",0,1,0,0,0,0.288888888888889
+"BA-Porto Seguro",2020-02-19,"nowcast",0,1,0,0,0,0.259259259259259
+"BA-Porto Seguro",2020-02-20,"nowcast",0,1,0,0,0,0.341772151898734
+"BA-Porto Seguro",2020-02-21,"nowcast",0,1,0,0,0,0.193548387096774
+"BA-Porto Seguro",2020-02-22,"nowcast",0,1,0,0,0,0.245454545454545
+"BA-Porto Seguro",2020-02-23,"nowcast",0,1,0,0,0,0.293706293706294
+"BA-Porto Seguro",2020-02-24,"nowcast",0,1,0,0,0,0.245614035087719
+"BA-Porto Seguro",2020-02-25,"nowcast",0,1,0,0,0,0.276497695852535
+"BA-Porto Seguro",2020-02-26,"nowcast",0,1,0,0,0,0.250980392156863
+"BA-Porto Seguro",2020-02-27,"nowcast",0,1,0,0,0,0.254180602006689
+"BA-Porto Seguro",2020-02-28,"nowcast",0,1,0,0,0,0.339673913043478
+"BA-Porto Seguro",2020-02-29,"nowcast",0,1,0,0,0,0.324705882352941
+"BA-Porto Seguro",2020-03-01,"nowcast",0,1,0,0,0,0.31006160164271
+"BA-Porto Seguro",2020-03-02,"nowcast",0,1,0,0,0,0.377697841726619
+"BA-Porto Seguro",2020-03-03,"nowcast",0,1,0,0,0,0.395638629283489
+"BA-Porto Seguro",2020-03-04,"nowcast",0,1,0,0,0,0.39251040221914
+"BA-Porto Seguro",2020-03-05,"nowcast",0,1,0,0,0,0.416772554002541
+"BA-Porto Seguro",2020-03-06,"nowcast",0,1,0,0,0,0.447674418604651
+"BA-Porto Seguro",2020-03-07,"nowcast",0,1,0,0,0,0.529477196885428
+"BA-Porto Seguro",2020-03-08,"nowcast",0,2,0,0,0,0.544776119402985
+"BA-Porto Seguro",2020-03-09,"nowcast",0,2,0,0,0,0.568930041152263
+"BA-Porto Seguro",2020-03-10,"nowcast",0,2,0,0,0,0.653102746693795
+"BA-Porto Seguro",2020-03-11,"nowcast",0,2,0,0,0,0.664984863773966
+"BA-Porto Seguro",2020-03-12,"nowcast",0,2,0,0,0,0.664328657314629
+"BA-Porto Seguro",2020-03-13,"nowcast",0,2,0,0,0,0.658316633266533
+"BA-Porto Seguro",2020-03-14,"nowcast",0,2,0,0,0,0.592592592592593
+"BA-Porto Seguro",2020-03-15,"nowcast",0,1,0,0,0,0.537537537537538
+"BA-Porto Seguro",2020-03-16,"nowcast",0,1,0,0,0,0.51
+"BA-Porto Seguro",2020-03-17,"nowcast",0,1,0,0,0,0.487
+"BA-Porto Seguro",2020-03-18,"nowcast",0,1,0,0,0,0.391
+"BA-Porto Seguro",2020-03-19,"nowcast",0,1,0,0,0,0.345
+"BA-Porto Seguro",2020-03-20,"nowcast",0,1,0,0,0,0.255
+"BA-Porto Seguro",2020-03-21,"nowcast",0,1,0,0,0,0.181
+"BA-Porto Seguro",2020-03-22,"nowcast",0,1,0,0,0,0.143
+"BA-Porto Seguro",2020-03-23,"nowcast",0,0,0,0,0,0.1
+"BA-Porto Seguro",2020-03-24,"nowcast",0,0,0,0,0,0.077
+"BA-Porto Seguro",2020-03-25,"nowcast",0,0,0,0,0,0.077
+"BA-Porto Seguro",2020-03-26,"nowcast",0,0,0,0,0,0.076
+"BA-Porto Seguro",2020-03-27,"nowcast",0,0,0,0,0,0.086
+"BA-Porto Seguro",2020-03-28,"nowcast",0,0,0,0,0,0.094
+"BA-Porto Seguro",2020-03-29,"nowcast",0,1,0,0,0,0.121
+"BA-Porto Seguro",2020-03-30,"nowcast",0,1,0,0,0,0.147
+"BA-Porto Seguro",2020-03-31,"nowcast",0,1,0,0,0,0.222
+"BA-Porto Seguro",2020-04-01,"nowcast",0,1,0,0,0,0.222
+"BA-Porto Seguro",2020-04-02,"nowcast",0,1,0,0,0,0.265
+"BA-Porto Seguro",2020-04-03,"nowcast",0,1,0,0,0,0.35
+"BA-Porto Seguro",2020-04-04,"nowcast",0,1,0,0,0,0.355
+"BA-Porto Seguro",2020-04-05,"nowcast",0,1,0,0,0,0.407
+"BA-Porto Seguro",2020-04-06,"nowcast",0,1,0,0,0,0.423
+"BA-Porto Seguro",2020-04-07,"nowcast",0,1,0,0,0,0.515
+"BA-Porto Seguro",2020-04-08,"nowcast",0,2,0,0,0,0.59
+"BA-Porto Seguro",2020-04-09,"nowcast",0,2,0,0,0,0.594
+"BA-Porto Seguro",2020-04-10,"nowcast",0,2,0,0,0,0.644
+"BA-Porto Seguro",2020-04-11,"nowcast",0,2,0,1,0.5,0.661
+"BA-Porto Seguro",2020-04-12,"nowcast",0,2,0,1,1,0.744
+"BA-Porto Seguro",2020-04-13,"nowcast",0,2,0,1,1,0.705
+"BA-Porto Seguro",2020-04-14,"nowcast",0,2,0,1,1,0.709
+"BA-Porto Seguro",2020-04-15,"nowcast",0,2,0,0,0,0.676
+"BA-Porto Seguro",2020-04-16,"nowcast",0,2,0,0,0,0.643
+"BA-Porto Seguro",2020-04-17,"nowcast",0,2,0,0,0,0.654
+"BA-Porto Seguro",2020-04-18,"nowcast",0,2,0,0,0,0.67
+"BA-Porto Seguro",2020-04-19,"nowcast",0,2,0,1,1,0.754
+"BA-Porto Seguro",2020-04-20,"nowcast",0,2,0,1,1,0.796
+"BA-Porto Seguro",2020-04-21,"nowcast",0,2,0,1,1,0.972
+"BA-Porto Seguro",2020-04-22,"nowcast",0,2,0,1,1,0.947
+"BA-Porto Seguro",2020-04-23,"nowcast",0,2,0,1,1,1.042
+"BA-Porto Seguro",2020-04-24,"nowcast",0,2,0,1,1,1.134
+"BA-Porto Seguro",2020-04-25,"nowcast",0,3,0,1,1,1.217
+"BA-Porto Seguro",2020-04-26,"nowcast",0,3,0,1,1,1.312
+"BA-Porto Seguro",2020-04-27,"nowcast",0,3,0,1,1,1.375
+"BA-Porto Seguro",2020-04-28,"nowcast",0,3,0,1,1,1.44
+"BA-Porto Seguro",2020-04-29,"nowcast",0,3,0,1,1,1.419
+"BA-Porto Seguro",2020-04-30,"nowcast",0,3,0,1,1,1.475
+"BA-Porto Seguro",2020-05-01,"nowcast",0,3,0,1,1,1.672
+"BA-Porto Seguro",2020-05-02,"nowcast",0,4,1,2,2,1.814
+"BA-Porto Seguro",2020-05-03,"nowcast",0,4,1,2,2,2.005
+"BA-Porto Seguro",2020-05-04,"nowcast",0,4,1,2,2,2.298
+"BA-Porto Seguro",2020-05-05,"nowcast",0,4,2,3,2,2.469
+"BA-Porto Seguro",2020-05-06,"nowcast",0,5,0,2,2,2.624
+"BA-Porto Seguro",2020-05-07,"nowcast",0,5,1,3,3,2.835
+"BA-Porto Seguro",2020-05-08,"nowcast",0,5,1,3,3,2.955
+"BA-Porto Seguro",2020-05-09,"nowcast",0,5,1,3,3,2.839
+"BA-Porto Seguro",2020-05-10,"nowcast",0,5,1,3,3,2.885
+"BA-Porto Seguro",2020-05-11,"nowcast",0,5,1,3,3,2.909
+"BA-Porto Seguro",2020-05-12,"nowcast",1,6,1,3,3,3.241
+"BA-Porto Seguro",2020-05-13,"nowcast",1,6,2,4,3,3.588
+"BA-Porto Seguro",2020-05-14,"nowcast",1,7,2,4,4,4.184
+"BA-Porto Seguro",2020-05-15,"nowcast",1,8,3,5,4,4.72
+"BA-Porto Seguro",2020-05-16,"nowcast",1,8,2,5,5,5.155
+"BA-Porto Seguro",2020-05-17,"nowcast",2,9,3,6,6,5.767
+"BA-Porto Seguro",2020-05-18,"nowcast",2,10,3,6,6,6.258
+"BA-Porto Seguro",2020-05-19,"nowcast",2,10,4,7,6,6.532
+"BA-Porto Seguro",2020-05-20,"nowcast",2,10,4,7,7,6.955
+"BA-Porto Seguro",2020-05-21,"nowcast",3,11,4,7,7,7.218
+"BA-Porto Seguro",2020-05-22,"nowcast",3,11,5,8,7,7.516
+"BA-Porto Seguro",2020-05-23,"nowcast",4,12,5,8,8,7.809
+"BA-Porto Seguro",2020-05-24,"nowcast",4,12,6,9,8,8.129
+"BA-Porto Seguro",2020-05-25,"nowcast",4,13,6,9,8,8.505
+"BA-Porto Seguro",2020-05-26,"nowcast",4,13,6,9,9,8.898
+"BA-Porto Seguro",2020-05-27,"nowcast",4,13,7,10,9,9.249
+"BA-Porto Seguro",2020-05-28,"nowcast",4,13,7,10,9,9.484
+"BA-Porto Seguro",2020-05-29,"nowcast",5,14,8,11,10,9.745
+"BA-Porto Seguro",2020-05-30,"nowcast",5,14,6,10,9,9.544
+"BA-Porto Seguro",2020-05-31,"nowcast",4,13,7,10,9,9.464
+"BA-Porto Seguro",2020-06-01,"nowcast",4,13,7,10,9,9.054
+"BA-Porto Seguro",2020-06-02,"nowcast",4,13,7,10,9,8.909
+"BA-Porto Seguro",2020-06-03,"nowcast",5,13,6,9,8.5,8.564
+"BA-Porto Seguro",2020-06-04,"nowcast",3,12,6,9,8,8.347
+"BA-Porto Seguro",2020-06-05,"nowcast",4,13,4,8,8,8.344
+"BA-Porto Seguro",2020-06-06,"nowcast",3,12,6,9,8,8.328
+"BA-Porto Seguro",2020-06-07,"nowcast",3,13,5,9,8,8.736
+"BA-Porto Seguro",2020-06-08,"nowcast",3,14,6,10,9,9.074
+"BA-Porto Seguro",2020-06-09,"nowcast",4,15,7,11,10,9.905
+"BA-Porto Seguro",2020-06-10,"nowcast",5,16,8,12,10,10.807
+"BA-Porto Seguro",2020-06-11,"nowcast",5,18,8,13,12,12.484
+"BA-Porto Seguro",2020-06-12,"nowcast",8,21,11,16,14,14.395
+"BA-Porto Seguro",2020-06-13,"nowcast",10,24,11,17,17,16.751
+"BA-Porto Seguro",2020-06-14,"nowcast",11,26,13,19,19,18.772
+"BA-Porto Seguro",2020-06-15,"nowcast",13,29,17,23,21,21.509
+"BA-Porto Seguro",2020-06-16,"nowcast",15,32,18,25,24,24.3
+"BA-Porto Seguro",2020-06-17,"nowcast",19,36,22,29,27,27.28
+"BA-Porto Seguro",2020-06-18,"nowcast",20,38,24,31,30,29.76
+"BA-Porto Seguro",2020-06-19,"nowcast",23,41,27,34,32,32.211
+"BA-Porto Seguro",2020-06-20,"nowcast",24,43,30,37,34,34.029
+"BA-Porto Seguro",2020-06-21,"nowcast",25,43,29,36,34,34.35
+"BA-Porto Seguro",2020-06-22,"nowcast",22,42,27,35,34,33.815
+"BA-Porto Seguro",2020-06-23,"nowcast",22,40,27,34,32,31.792
+"BA-Porto Seguro",2020-06-24,"nowcast",20,37,24,31,29,29.523
+"BA-Porto Seguro",2020-06-25,"nowcast",18,34,21,28,27,26.825
+"BA-Porto Seguro",2020-06-26,"nowcast",19,35,22,28,26,25.695
+"BA-Porto Seguro",2020-06-27,"nowcast",17,34,20,27,26,26.453
+"BA-Porto Seguro",2020-06-28,"nowcast",19,35,24,30,28,27.918
+"BA-Porto Seguro",2020-06-29,"nowcast",21,38,24,31,30,29.81
+"BA-Porto Seguro",2020-06-30,"nowcast",21,39,26,33,32,31.677
+"BA-Porto Seguro",2020-07-01,"nowcast",23,42,26,34,33,33.441
+"BA-Porto Seguro",2020-07-02,"nowcast",26,45,31,38,34,34.135
+"BA-Porto Seguro",2020-07-03,"nowcast",24,44,28,36,35,35.171
+"BA-Porto Seguro",2020-07-04,"nowcast",24,45,31,39,35,35.822
+"BA-Porto Seguro",2020-07-05,"nowcast",26,47,28,37,35,35.961
+"BA-Porto Seguro",2020-07-06,"forecast",19,55,27,41,37,37.885
+"BA-Porto Seguro",2020-07-07,"forecast",18,60,25,42,38,38.9588
+"BA-Porto Seguro",2020-07-08,"forecast",14,64,26,45,39,40.1576
+"BA-Porto Seguro",2020-07-09,"forecast",12,67,23,45,39,41.1572
+"BA-Porto Seguro",2020-07-10,"forecast",10,74,22,46,40,42.6862
+"BA-Porto Seguro",2020-07-11,"forecast",7,78,22,49,41,43.9902
+"BA-Porto Seguro",2020-07-12,"forecast",5,83,20,49,41,45.043
+"BA-Porto Seguro",2020-07-13,"forecast",0,84,14,46,41,46.5036
+"BA-Porto Seguro",2020-07-14,"forecast",0,89,11,46,42,47.8536
+"BA-Porto Seguro",2020-07-15,"forecast",0,94,13,49,42,49.2718
+"BA-Porto Seguro",2020-07-16,"forecast",0,99,11,49,42,51.3446
+"BA-Porto Seguro",2020-07-17,"forecast",0,105,8,48,42,53.6366
+"BA-Porto Seguro",2020-07-18,"forecast",0,111,8,49,43,55.768
+"BA-Porto Seguro",2020-07-19,"forecast",0,118,0,43,43,58.0946
+"BA-Salvador",2020-02-01,"nowcast",1,1,1,1,1,1
+"BA-Salvador",2020-02-02,"nowcast",0,0,0,0,0,0
+"BA-Salvador",2020-02-03,"nowcast",0,0,0,0,0,0
+"BA-Salvador",2020-02-04,"nowcast",0,1,1,1,1,0.666666666666667
+"BA-Salvador",2020-02-05,"nowcast",0,1,0,1,0.5,0.5
+"BA-Salvador",2020-02-06,"nowcast",0,0,0,0,0,0
+"BA-Salvador",2020-02-07,"nowcast",0,1,0,0,0,0.2
+"BA-Salvador",2020-02-08,"nowcast",0,1,0,1,0.5,0.5
+"BA-Salvador",2020-02-09,"nowcast",0,1,0,0,0,0.181818181818182
+"BA-Salvador",2020-02-10,"nowcast",0,1,0,0,0,0.411764705882353
+"BA-Salvador",2020-02-11,"nowcast",0,1,0,0,0,0.346153846153846
+"BA-Salvador",2020-02-12,"nowcast",0,1,0,0,0,0.32258064516129
+"BA-Salvador",2020-02-13,"nowcast",0,1,0,0,0,0.162162162162162
+"BA-Salvador",2020-02-14,"nowcast",0,1,0,0,0,0.37037037037037
+"BA-Salvador",2020-02-15,"nowcast",0,1,0,0,0,0.342857142857143
+"BA-Salvador",2020-02-16,"nowcast",0,1,0,0,0,0.395833333333333
+"BA-Salvador",2020-02-17,"nowcast",0,1,0,0,0,0.316666666666667
+"BA-Salvador",2020-02-18,"nowcast",0,1,0,0,0,0.345911949685535
+"BA-Salvador",2020-02-19,"nowcast",0,1,0,0,0,0.323383084577114
+"BA-Salvador",2020-02-20,"nowcast",0,1,0,0,0,0.358267716535433
+"BA-Salvador",2020-02-21,"nowcast",0,1,0,0,0,0.429032258064516
+"BA-Salvador",2020-02-22,"nowcast",0,1,0,0,0,0.393530997304582
+"BA-Salvador",2020-02-23,"nowcast",0,1,0,0,0,0.418502202643172
+"BA-Salvador",2020-02-24,"nowcast",0,1,0,0,0,0.454901960784314
+"BA-Salvador",2020-02-25,"nowcast",0,1,0,0,0,0.517241379310345
+"BA-Salvador",2020-02-26,"nowcast",0,1,0,0,0,0.564179104477612
+"BA-Salvador",2020-02-27,"nowcast",0,2,0,0,0,0.61436170212766
+"BA-Salvador",2020-02-28,"nowcast",0,2,0,1,1,0.721951219512195
+"BA-Salvador",2020-02-29,"nowcast",0,2,0,1,1,0.8558352402746
+"BA-Salvador",2020-03-01,"nowcast",0,2,0,1,1,0.914036996735582
+"BA-Salvador",2020-03-02,"nowcast",0,3,0,1,1,1.14659685863874
+"BA-Salvador",2020-03-03,"nowcast",0,3,0,1,1,1.45323741007194
+"BA-Salvador",2020-03-04,"nowcast",0,3,0,1,1,1.62715298885512
+"BA-Salvador",2020-03-05,"nowcast",0,4,1,2,2,1.97079556898288
+"BA-Salvador",2020-03-06,"nowcast",0,5,0,2,2,2.36836836836837
+"BA-Salvador",2020-03-07,"nowcast",0,5,1,3,3,2.842
+"BA-Salvador",2020-03-08,"nowcast",0,6,1,3,3,3.437
+"BA-Salvador",2020-03-09,"nowcast",1,7,2,4,4,3.953
+"BA-Salvador",2020-03-10,"nowcast",1,8,2,5,4,4.655
+"BA-Salvador",2020-03-11,"nowcast",2,9,2,5,5,5.23
+"BA-Salvador",2020-03-12,"nowcast",1,9,3,6,6,5.914
+"BA-Salvador",2020-03-13,"nowcast",3,11,4,7,6,6.801
+"BA-Salvador",2020-03-14,"nowcast",3,12,4,8,7,7.642
+"BA-Salvador",2020-03-15,"nowcast",4,13,5,9,8,8.495
+"BA-Salvador",2020-03-16,"nowcast",4,14,6,10,9,9.472
+"BA-Salvador",2020-03-17,"nowcast",4,15,7,11,10,10.191
+"BA-Salvador",2020-03-18,"nowcast",5,16,7,12,11,11.46
+"BA-Salvador",2020-03-19,"nowcast",7,19,8,13,12,12.686
+"BA-Salvador",2020-03-20,"nowcast",7,19,9,14,13,13.635
+"BA-Salvador",2020-03-21,"nowcast",8,21,11,16,15,14.986
+"BA-Salvador",2020-03-22,"nowcast",8,22,12,17,16,16.198
+"BA-Salvador",2020-03-23,"nowcast",10,23,14,19,17,17.4
+"BA-Salvador",2020-03-24,"nowcast",11,25,13,19,19,18.715
+"BA-Salvador",2020-03-25,"nowcast",13,27,14,20,19,19.843
+"BA-Salvador",2020-03-26,"nowcast",13,29,17,23,21,21.378
+"BA-Salvador",2020-03-27,"nowcast",13,30,19,25,22,22.553
+"BA-Salvador",2020-03-28,"nowcast",15,32,17,24,23,23.819
+"BA-Salvador",2020-03-29,"nowcast",16,34,19,26,25,25.224
+"BA-Salvador",2020-03-30,"nowcast",15,35,21,28,26,26.864
+"BA-Salvador",2020-03-31,"nowcast",19,39,22,30,29,28.909
+"BA-Salvador",2020-04-01,"nowcast",19,40,24,32,30,30.634
+"BA-Salvador",2020-04-02,"nowcast",22,43,26,35,33,32.867
+"BA-Salvador",2020-04-03,"nowcast",23,48,27,37,36,36.197
+"BA-Salvador",2020-04-04,"nowcast",25,51,30,41,39,39.199
+"BA-Salvador",2020-04-05,"nowcast",29,57,37,47,43,43.641
+"BA-Salvador",2020-04-06,"nowcast",33,62,38,50,48,48.673
+"BA-Salvador",2020-04-07,"nowcast",37,68,43,55,53,53.569
+"BA-Salvador",2020-04-08,"nowcast",39,73,52,64,59,59.244
+"BA-Salvador",2020-04-09,"nowcast",48,79,55,68,65,65.334
+"BA-Salvador",2020-04-10,"nowcast",55,86,60,73,70,70.619
+"BA-Salvador",2020-04-11,"nowcast",57,91,71,84,75.5,75.877
+"BA-Salvador",2020-04-12,"nowcast",61,96,73,87,80,80.344
+"BA-Salvador",2020-04-13,"nowcast",66,100,75,89,84,84.364
+"BA-Salvador",2020-04-14,"nowcast",68,105,77,92,88,87.78
+"BA-Salvador",2020-04-15,"nowcast",71,110,81,96,91,91.569
+"BA-Salvador",2020-04-16,"nowcast",77,115,86,102,96.5,96.595
+"BA-Salvador",2020-04-17,"nowcast",78,120,90,106,101,101.419
+"BA-Salvador",2020-04-18,"nowcast",87,130,99,115,106,107.375
+"BA-Salvador",2020-04-19,"nowcast",90,133,101,118,111,112.246
+"BA-Salvador",2020-04-20,"nowcast",95,139,105,123,118,118.21
+"BA-Salvador",2020-04-21,"nowcast",98,147,111,130,124,125.035
+"BA-Salvador",2020-04-22,"nowcast",103,154,119,139,132,132.336
+"BA-Salvador",2020-04-23,"nowcast",115,169,128,150,141,141.561
+"BA-Salvador",2020-04-24,"nowcast",120,175,135,156,151,151.14
+"BA-Salvador",2020-04-25,"nowcast",132,188,149,171,161,161.189
+"BA-Salvador",2020-04-26,"nowcast",143,201,154,177,170,170.75
+"BA-Salvador",2020-04-27,"nowcast",145,205,160,185,180,179.625
+"BA-Salvador",2020-04-28,"nowcast",161,221,170,195,188,188.749
+"BA-Salvador",2020-04-29,"nowcast",163,228,186,210,198,198.187
+"BA-Salvador",2020-04-30,"nowcast",175,242,188,214,207,207.683
+"BA-Salvador",2020-05-01,"nowcast",185,249,197,224,217,217.505
+"BA-Salvador",2020-05-02,"nowcast",196,261,210,237,227,228.39
+"BA-Salvador",2020-05-03,"nowcast",203,274,224,252,239,239.142
+"BA-Salvador",2020-05-04,"nowcast",211,283,231,260,249,249.618
+"BA-Salvador",2020-05-05,"nowcast",221,295,240,269,258,259.544
+"BA-Salvador",2020-05-06,"nowcast",228,303,247,278,267,267.216
+"BA-Salvador",2020-05-07,"nowcast",235,319,253,287,277.5,278.13
+"BA-Salvador",2020-05-08,"nowcast",244,334,266,301,287,288.445
+"BA-Salvador",2020-05-09,"nowcast",248,345,277,315,300,299.979
+"BA-Salvador",2020-05-10,"nowcast",270,365,296,334,315,315.89
+"BA-Salvador",2020-05-11,"nowcast",280,384,313,355,333,334.365
+"BA-Salvador",2020-05-12,"nowcast",301,407,339,381,359,356.912
+"BA-Salvador",2020-05-13,"nowcast",328,438,354,398,383.5,382.1
+"BA-Salvador",2020-05-14,"nowcast",358,462,383,424,410,409.923
+"BA-Salvador",2020-05-15,"nowcast",385,488,418,459,440,440.066
+"BA-Salvador",2020-05-16,"nowcast",423,518,454,492,471,469.775
+"BA-Salvador",2020-05-17,"nowcast",445,528,474,507,489,488.456
+"BA-Salvador",2020-05-18,"nowcast",450,530,477,507,494,494.239
+"BA-Salvador",2020-05-19,"nowcast",440,525,466,501,487,487.194
+"BA-Salvador",2020-05-20,"nowcast",428,524,458,496,475,476.987
+"BA-Salvador",2020-05-21,"nowcast",419,527,449,493,475,475.18
+"BA-Salvador",2020-05-22,"nowcast",423,539,468,509,486,485.851
+"BA-Salvador",2020-05-23,"nowcast",450,566,475,524,506,506.009
+"BA-Salvador",2020-05-24,"nowcast",476,588,508,552,533,532.518
+"BA-Salvador",2020-05-25,"nowcast",499,610,534,578,559,558.221
+"BA-Salvador",2020-05-26,"nowcast",530,633,558,599,582,581.96
+"BA-Salvador",2020-05-27,"nowcast",546,643,578,618,600,599.284
+"BA-Salvador",2020-05-28,"nowcast",569,664,588,628,614,612.928
+"BA-Salvador",2020-05-29,"nowcast",570,661,595,630,618,619.445
+"BA-Salvador",2020-05-30,"nowcast",569,658,599,633,616,616.293
+"BA-Salvador",2020-05-31,"nowcast",560,650,577,613,604,603.974
+"BA-Salvador",2020-06-01,"nowcast",546,632,571,606,590,589.882
+"BA-Salvador",2020-06-02,"nowcast",531,622,561,597,578,577.994
+"BA-Salvador",2020-06-03,"nowcast",520,615,549,584,569,569.412
+"BA-Salvador",2020-06-04,"nowcast",510,610,547,587,565,565.39
+"BA-Salvador",2020-06-05,"nowcast",520,621,549,588,568,567.963
+"BA-Salvador",2020-06-06,"nowcast",524,628,541,585,572,573.014
+"BA-Salvador",2020-06-07,"nowcast",507,632,544,591,572,574.134
+"BA-Salvador",2020-06-08,"nowcast",505,635,530,589,570,572.504
+"BA-Salvador",2020-06-09,"nowcast",494,648,539,605,580,580.507
+"BA-Salvador",2020-06-10,"nowcast",523,685,563,632,602,601.634
+"BA-Salvador",2020-06-11,"nowcast",552,730,593,666,631,631.527
+"BA-Salvador",2020-06-12,"nowcast",568,754,621,700,666,666.724
+"BA-Salvador",2020-06-13,"nowcast",609,803,651,731,705,706.456
+"BA-Salvador",2020-06-14,"nowcast",663,861,710,796,756,754.461
+"BA-Salvador",2020-06-15,"nowcast",705,904,771,861,809,806.591
+"BA-Salvador",2020-06-16,"nowcast",777,974,832,913,873,869.331
+"BA-Salvador",2020-06-17,"nowcast",843,1025,894,966,935,933.465
+"BA-Salvador",2020-06-18,"nowcast",900,1067,960,1028,993,992.196
+"BA-Salvador",2020-06-19,"nowcast",958,1115,1013,1073,1038,1037.84
+"BA-Salvador",2020-06-20,"nowcast",1001,1144,1048,1108,1069,1068.585
+"BA-Salvador",2020-06-21,"nowcast",996,1147,1038,1101,1072.5,1072.756
+"BA-Salvador",2020-06-22,"nowcast",974,1134,1017,1079,1047,1047.121
+"BA-Salvador",2020-06-23,"nowcast",926,1084,969,1037,1003,1001.004
+"BA-Salvador",2020-06-24,"nowcast",863,1012,901,962,935,936.832
+"BA-Salvador",2020-06-25,"nowcast",807,941,839,894,869,869.79
+"BA-Salvador",2020-06-26,"nowcast",751,866,786,832,809,808.421
+"BA-Salvador",2020-06-27,"nowcast",712,818,750,794,772,771.442
+"BA-Salvador",2020-06-28,"nowcast",691,799,713,757,742,742.894
+"BA-Salvador",2020-06-29,"nowcast",654,757,684,727,709,708.969
+"BA-Salvador",2020-06-30,"nowcast",613,717,647,688,669,669.723
+"BA-Salvador",2020-07-01,"nowcast",583,675,606,643,632,632.574
+"BA-Salvador",2020-07-02,"nowcast",557,649,578,617,604,604.429
+"BA-Salvador",2020-07-03,"nowcast",526,619,556,593,578,578.866
+"BA-Salvador",2020-07-04,"nowcast",512,603,531,568,555,556.121
+"BA-Salvador",2020-07-05,"nowcast",480,572,514,549,529,529.882
+"BA-Salvador",2020-07-06,"nowcast",448,537,484,521,498,496.565
+"BA-Salvador",2020-07-07,"forecast",404,543,436,493,474,474.4194
+"BA-Salvador",2020-07-08,"forecast",368,533,407,473,447,447.5076
+"BA-Salvador",2020-07-09,"forecast",326,516,375,452,421,422.1466
+"BA-Salvador",2020-07-10,"forecast",295,502,346,427,399,400.2426
+"BA-Salvador",2020-07-11,"forecast",265,491,324,413,374,376.2132
+"BA-Salvador",2020-07-12,"forecast",232,463,300,389,351.5,352.889
+"BA-Salvador",2020-07-13,"forecast",216,455,275,369,329,331.6076
+"BA-Salvador",2020-07-14,"forecast",190,437,249,345,307,310.855
+"BA-Salvador",2020-07-15,"forecast",169,423,223,322,287,291.3088
+"BA-Salvador",2020-07-16,"forecast",151,403,202,300,268,273.7454
+"BA-Salvador",2020-07-17,"forecast",121,376,182,280,249,255.088
+"BA-Salvador",2020-07-18,"forecast",104,362,165,264,230.5,237.3074
+"BA-Salvador",2020-07-19,"forecast",95,347,152,248,213,221.5308
+"BA-Salvador",2020-07-20,"forecast",74,326,136,233,198,206.5748
+"BA-Santo Antônio de Jesus",2020-03-24,"nowcast",1,1,1,1,1,1
+"BA-Santo Antônio de Jesus",2020-03-25,"nowcast",0,0,0,0,0,0
+"BA-Santo Antônio de Jesus",2020-03-26,"nowcast",0,0,0,0,0,0
+"BA-Santo Antônio de Jesus",2020-03-27,"nowcast",0,0,0,0,0,0
+"BA-Santo Antônio de Jesus",2020-03-28,"nowcast",0,0,0,0,0,0
+"BA-Santo Antônio de Jesus",2020-03-29,"nowcast",0,1,0,1,0.5,0.5
+"BA-Santo Antônio de Jesus",2020-03-30,"nowcast",0,1,0,1,0.5,0.5
+"BA-Santo Antônio de Jesus",2020-03-31,"nowcast",0,1,0,0,0,0.25
+"BA-Santo Antônio de Jesus",2020-04-01,"nowcast",0,1,0,0,0,0.333333333333333
+"BA-Santo Antônio de Jesus",2020-04-02,"nowcast",0,1,0,0,0,0.166666666666667
+"BA-Santo Antônio de Jesus",2020-04-03,"nowcast",0,1,0,0,0,0.444444444444444
+"BA-Santo Antônio de Jesus",2020-04-04,"nowcast",0,1,0,0,0,0.307692307692308
+"BA-Santo Antônio de Jesus",2020-04-05,"nowcast",0,1,0,0,0,0.2
+"BA-Santo Antônio de Jesus",2020-04-06,"nowcast",0,1,0,0,0,0.277777777777778
+"BA-Santo Antônio de Jesus",2020-04-07,"nowcast",0,1,0,0,0,0.19047619047619
+"BA-Santo Antônio de Jesus",2020-04-08,"nowcast",0,1,0,0,0,0.321428571428571
+"BA-Santo Antônio de Jesus",2020-04-09,"nowcast",0,1,0,0,0,0.176470588235294
+"BA-Santo Antônio de Jesus",2020-04-10,"nowcast",0,1,0,0,0,0.382978723404255
+"BA-Santo Antônio de Jesus",2020-04-11,"nowcast",0,1,0,0,0,0.245901639344262
+"BA-Santo Antônio de Jesus",2020-04-12,"nowcast",0,1,0,0,0,0.231884057971014
+"BA-Santo Antônio de Jesus",2020-04-13,"nowcast",0,1,0,0,0,0.214285714285714
+"BA-Santo Antônio de Jesus",2020-04-14,"nowcast",0,1,0,0,0,0.233009708737864
+"BA-Santo Antônio de Jesus",2020-04-15,"nowcast",0,1,0,0,0,0.291338582677165
+"BA-Santo Antônio de Jesus",2020-04-16,"nowcast",0,1,0,0,0,0.272727272727273
+"BA-Santo Antônio de Jesus",2020-04-17,"nowcast",0,1,0,0,0,0.290816326530612
+"BA-Santo Antônio de Jesus",2020-04-18,"nowcast",0,1,0,0,0,0.220779220779221
+"BA-Santo Antônio de Jesus",2020-04-19,"nowcast",0,1,0,0,0,0.236749116607774
+"BA-Santo Antônio de Jesus",2020-04-20,"nowcast",0,1,0,0,0,0.233727810650888
+"BA-Santo Antônio de Jesus",2020-04-21,"nowcast",0,1,0,0,0,0.281094527363184
+"BA-Santo Antônio de Jesus",2020-04-22,"nowcast",0,1,0,0,0,0.299163179916318
+"BA-Santo Antônio de Jesus",2020-04-23,"nowcast",0,1,0,0,0,0.284658040665434
+"BA-Santo Antônio de Jesus",2020-04-24,"nowcast",0,1,0,0,0,0.286407766990291
+"BA-Santo Antônio de Jesus",2020-04-25,"nowcast",0,1,0,0,0,0.279239766081871
+"BA-Santo Antônio de Jesus",2020-04-26,"nowcast",0,1,0,0,0,0.293552812071331
+"BA-Santo Antônio de Jesus",2020-04-27,"nowcast",0,1,0,0,0,0.319066147859922
+"BA-Santo Antônio de Jesus",2020-04-28,"nowcast",0,1,0,0,0,0.313967861557478
+"BA-Santo Antônio de Jesus",2020-04-29,"nowcast",0,1,0,0,0,0.360424028268551
+"BA-Santo Antônio de Jesus",2020-04-30,"nowcast",0,1,0,0,0,0.379271070615034
+"BA-Santo Antônio de Jesus",2020-05-01,"nowcast",0,1,0,0,0,0.428729281767956
+"BA-Santo Antônio de Jesus",2020-05-02,"nowcast",0,1,0,0,0,0.511802575107296
+"BA-Santo Antônio de Jesus",2020-05-03,"nowcast",0,1,0,0,0,0.538140020898642
+"BA-Santo Antônio de Jesus",2020-05-04,"nowcast",0,2,0,0,0,0.627954779033916
+"BA-Santo Antônio de Jesus",2020-05-05,"nowcast",0,2,0,1,1,0.746464646464646
+"BA-Santo Antônio de Jesus",2020-05-06,"nowcast",0,2,0,1,1,0.829145728643216
+"BA-Santo Antônio de Jesus",2020-05-07,"nowcast",0,2,0,1,1,0.884653961885657
+"BA-Santo Antônio de Jesus",2020-05-08,"nowcast",0,2,0,1,1,0.971943887775551
+"BA-Santo Antônio de Jesus",2020-05-09,"nowcast",0,3,0,1,1,1.08708708708709
+"BA-Santo Antônio de Jesus",2020-05-10,"nowcast",0,3,0,1,1,1.1971971971972
+"BA-Santo Antônio de Jesus",2020-05-11,"nowcast",0,3,0,1,1,1.35135135135135
+"BA-Santo Antônio de Jesus",2020-05-12,"nowcast",0,3,0,1,1,1.56
+"BA-Santo Antônio de Jesus",2020-05-13,"nowcast",0,4,1,2,2,1.845
+"BA-Santo Antônio de Jesus",2020-05-14,"nowcast",0,4,1,2,2,2.208
+"BA-Santo Antônio de Jesus",2020-05-15,"nowcast",0,5,0,2,2,2.49
+"BA-Santo Antônio de Jesus",2020-05-16,"nowcast",0,5,1,3,3,2.867
+"BA-Santo Antônio de Jesus",2020-05-17,"nowcast",0,5,1,3,3,3.153
+"BA-Santo Antônio de Jesus",2020-05-18,"nowcast",1,6,2,4,4,3.663
+"BA-Santo Antônio de Jesus",2020-05-19,"nowcast",1,7,2,4,4,4.011
+"BA-Santo Antônio de Jesus",2020-05-20,"nowcast",1,7,3,5,4,4.23
+"BA-Santo Antônio de Jesus",2020-05-21,"nowcast",0,7,3,5,5,4.692
+"BA-Santo Antônio de Jesus",2020-05-22,"nowcast",1,8,2,5,5,5.199
+"BA-Santo Antônio de Jesus",2020-05-23,"nowcast",2,9,2,5,5,5.669
+"BA-Santo Antônio de Jesus",2020-05-24,"nowcast",3,10,3,6,6,6.241
+"BA-Santo Antônio de Jesus",2020-05-25,"nowcast",2,10,4,7,6,6.647
+"BA-Santo Antônio de Jesus",2020-05-26,"nowcast",3,11,5,8,7,7.149
+"BA-Santo Antônio de Jesus",2020-05-27,"nowcast",4,12,5,8,8,7.829
+"BA-Santo Antônio de Jesus",2020-05-28,"nowcast",4,12,6,9,8,8.305
+"BA-Santo Antônio de Jesus",2020-05-29,"nowcast",3,12,6,9,8,8.549
+"BA-Santo Antônio de Jesus",2020-05-30,"nowcast",4,13,7,10,9,8.977
+"BA-Santo Antônio de Jesus",2020-05-31,"nowcast",4,13,7,10,9,9.01
+"BA-Santo Antônio de Jesus",2020-06-01,"nowcast",4,13,7,10,9,8.911
+"BA-Santo Antônio de Jesus",2020-06-02,"nowcast",4,13,7,10,9,8.921
+"BA-Santo Antônio de Jesus",2020-06-03,"nowcast",4,13,8,11,9,9.084
+"BA-Santo Antônio de Jesus",2020-06-04,"nowcast",4,14,5,9,9,9.449
+"BA-Santo Antônio de Jesus",2020-06-05,"nowcast",4,14,6,10,10,9.835
+"BA-Santo Antônio de Jesus",2020-06-06,"nowcast",5,15,8,12,11,10.744
+"BA-Santo Antônio de Jesus",2020-06-07,"nowcast",6,17,8,12,11,11.41
+"BA-Santo Antônio de Jesus",2020-06-08,"nowcast",6,18,8,13,12,12.469
+"BA-Santo Antônio de Jesus",2020-06-09,"nowcast",7,19,10,15,14,13.803
+"BA-Santo Antônio de Jesus",2020-06-10,"nowcast",8,21,11,16,15,15.35
+"BA-Santo Antônio de Jesus",2020-06-11,"nowcast",10,23,13,18,17,17.232
+"BA-Santo Antônio de Jesus",2020-06-12,"nowcast",11,25,17,22,19,19.165
+"BA-Santo Antônio de Jesus",2020-06-13,"nowcast",13,27,17,22,20,20.43
+"BA-Santo Antônio de Jesus",2020-06-14,"nowcast",14,28,19,24,22,21.766
+"BA-Santo Antônio de Jesus",2020-06-15,"nowcast",14,29,18,24,23,22.906
+"BA-Santo Antônio de Jesus",2020-06-16,"nowcast",15,30,18,24,23,22.816
+"BA-Santo Antônio de Jesus",2020-06-17,"nowcast",14,29,18,24,23,22.627
+"BA-Santo Antônio de Jesus",2020-06-18,"nowcast",15,29,17,23,22,22.394
+"BA-Santo Antônio de Jesus",2020-06-19,"nowcast",15,29,17,23,22,22.171
+"BA-Santo Antônio de Jesus",2020-06-20,"nowcast",14,29,17,23,22,22.206
+"BA-Santo Antônio de Jesus",2020-06-21,"nowcast",15,30,18,24,22,22.679
+"BA-Santo Antônio de Jesus",2020-06-22,"nowcast",14,29,18,24,23,22.98
+"BA-Santo Antônio de Jesus",2020-06-23,"nowcast",15,30,19,25,23,23.369
+"BA-Santo Antônio de Jesus",2020-06-24,"nowcast",15,31,19,25,24,24.081
+"BA-Santo Antônio de Jesus",2020-06-25,"nowcast",15,31,20,26,25,24.657
+"BA-Santo Antônio de Jesus",2020-06-26,"nowcast",16,32,22,28,25,25.552
+"BA-Santo Antônio de Jesus",2020-06-27,"nowcast",19,34,22,28,26,26.312
+"BA-Santo Antônio de Jesus",2020-06-28,"nowcast",17,34,21,28,27,26.956
+"BA-Santo Antônio de Jesus",2020-06-29,"nowcast",18,35,22,29,27,27.398
+"BA-Santo Antônio de Jesus",2020-06-30,"nowcast",19,36,21,28,28,27.869
+"BA-Santo Antônio de Jesus",2020-07-01,"nowcast",18,36,22,29,28,28.111
+"BA-Santo Antônio de Jesus",2020-07-02,"nowcast",20,37,23,30,28,28.699
+"BA-Santo Antônio de Jesus",2020-07-03,"nowcast",18,37,23,30,29,29.184
+"BA-Santo Antônio de Jesus",2020-07-04,"nowcast",19,39,23,31,30,30.223
+"BA-Santo Antônio de Jesus",2020-07-05,"nowcast",20,40,23,31,30,30.537
+"BA-Santo Antônio de Jesus",2020-07-06,"forecast",15,45,20,32,31,31.5022
+"BA-Santo Antônio de Jesus",2020-07-07,"forecast",14,48,22,35,31,32.3188
+"BA-Santo Antônio de Jesus",2020-07-08,"forecast",13,51,20,35,32,33.5388
+"BA-Santo Antônio de Jesus",2020-07-09,"forecast",10,52,20,36,32,33.8044
+"BA-Santo Antônio de Jesus",2020-07-10,"forecast",11,56,21,38,33,34.9746
+"BA-Santo Antônio de Jesus",2020-07-11,"forecast",10,60,19,38,34,36.0706
+"BA-Santo Antônio de Jesus",2020-07-12,"forecast",8,62,18,38,34,36.7124
+"BA-Santo Antônio de Jesus",2020-07-13,"forecast",7,66,20,42,35,38.0586
+"BA-Santo Antônio de Jesus",2020-07-14,"forecast",4,67,18,41,36,39.1356
+"BA-Santo Antônio de Jesus",2020-07-15,"forecast",5,73,17,42,36,40.5838
+"BA-Santo Antônio de Jesus",2020-07-16,"forecast",2,76,16,42,36,42.149
+"BA-Santo Antônio de Jesus",2020-07-17,"forecast",0,77,13,41,36,42.7078
+"BA-Santo Antônio de Jesus",2020-07-18,"forecast",0,80,14,43,37,44.2264
+"BA-Santo Antônio de Jesus",2020-07-19,"forecast",0,82,15,45,37,45.124
+"BA-Teixeira de Freitas",2020-02-20,"nowcast",1,1,1,1,1,1
+"BA-Teixeira de Freitas",2020-02-21,"nowcast",0,1,0,1,0.5,0.5
+"BA-Teixeira de Freitas",2020-02-22,"nowcast",0,1,0,0,0,0.333333333333333
+"BA-Teixeira de Freitas",2020-02-23,"nowcast",0,1,0,1,0.5,0.5
+"BA-Teixeira de Freitas",2020-02-24,"nowcast",0,1,0,1,0.5,0.5
+"BA-Teixeira de Freitas",2020-02-25,"nowcast",0,1,0,0,0,0.3
+"BA-Teixeira de Freitas",2020-02-26,"nowcast",0,0,0,0,0,0.0909090909090909
+"BA-Teixeira de Freitas",2020-02-27,"nowcast",0,1,0,0,0,0.285714285714286
+"BA-Teixeira de Freitas",2020-02-28,"nowcast",0,1,0,0,0,0.133333333333333
+"BA-Teixeira de Freitas",2020-02-29,"nowcast",0,1,0,0,0,0.391304347826087
+"BA-Teixeira de Freitas",2020-03-01,"nowcast",0,1,0,0,0,0.153846153846154
+"BA-Teixeira de Freitas",2020-03-02,"nowcast",0,1,0,0,0,0.361111111111111
+"BA-Teixeira de Freitas",2020-03-03,"nowcast",0,1,0,0,0,0.239130434782609
+"BA-Teixeira de Freitas",2020-03-04,"nowcast",0,1,0,0,0,0.315789473684211
+"BA-Teixeira de Freitas",2020-03-05,"nowcast",0,1,0,0,0,0.333333333333333
+"BA-Teixeira de Freitas",2020-03-06,"nowcast",0,1,0,0,0,0.346938775510204
+"BA-Teixeira de Freitas",2020-03-07,"nowcast",0,1,0,0,0,0.275862068965517
+"BA-Teixeira de Freitas",2020-03-08,"nowcast",0,1,0,0,0,0.295302013422819
+"BA-Teixeira de Freitas",2020-03-09,"nowcast",0,1,0,0,0,0.268817204301075
+"BA-Teixeira de Freitas",2020-03-10,"nowcast",0,1,0,0,0,0.228971962616822
+"BA-Teixeira de Freitas",2020-03-11,"nowcast",0,1,0,0,0,0.232283464566929
+"BA-Teixeira de Freitas",2020-03-12,"nowcast",0,1,0,0,0,0.302547770700637
+"BA-Teixeira de Freitas",2020-03-13,"nowcast",0,1,0,0,0,0.254691689008043
+"BA-Teixeira de Freitas",2020-03-14,"nowcast",0,1,0,0,0,0.292682926829268
+"BA-Teixeira de Freitas",2020-03-15,"nowcast",0,1,0,0,0,0.265895953757225
+"BA-Teixeira de Freitas",2020-03-16,"nowcast",0,1,0,0,0,0.253859348198971
+"BA-Teixeira de Freitas",2020-03-17,"nowcast",0,1,0,0,0,0.213946117274168
+"BA-Teixeira de Freitas",2020-03-18,"nowcast",0,1,0,0,0,0.219476744186047
+"BA-Teixeira de Freitas",2020-03-19,"nowcast",0,1,0,0,0,0.23055934515689
+"BA-Teixeira de Freitas",2020-03-20,"nowcast",0,1,0,0,0,0.219354838709677
+"BA-Teixeira de Freitas",2020-03-21,"nowcast",0,1,0,0,0,0.21712158808933
+"BA-Teixeira de Freitas",2020-03-22,"nowcast",0,1,0,0,0,0.211976047904192
+"BA-Teixeira de Freitas",2020-03-23,"nowcast",0,1,0,0,0,0.221198156682028
+"BA-Teixeira de Freitas",2020-03-24,"nowcast",0,1,0,0,0,0.273236282194849
+"BA-Teixeira de Freitas",2020-03-25,"nowcast",0,1,0,0,0,0.265438786565547
+"BA-Teixeira de Freitas",2020-03-26,"nowcast",0,1,0,0,0,0.244111349036403
+"BA-Teixeira de Freitas",2020-03-27,"nowcast",0,1,0,0,0,0.276617954070981
+"BA-Teixeira de Freitas",2020-03-28,"nowcast",0,1,0,0,0,0.266528925619835
+"BA-Teixeira de Freitas",2020-03-29,"nowcast",0,1,0,0,0,0.247697031729785
+"BA-Teixeira de Freitas",2020-03-30,"nowcast",0,1,0,0,0,0.227551020408163
+"BA-Teixeira de Freitas",2020-03-31,"nowcast",0,1,0,0,0,0.255081300813008
+"BA-Teixeira de Freitas",2020-04-01,"nowcast",0,1,0,0,0,0.242393509127789
+"BA-Teixeira de Freitas",2020-04-02,"nowcast",0,1,0,0,0,0.26241134751773
+"BA-Teixeira de Freitas",2020-04-03,"nowcast",0,1,0,0,0,0.307150050352467
+"BA-Teixeira de Freitas",2020-04-04,"nowcast",0,1,0,0,0,0.348088531187123
+"BA-Teixeira de Freitas",2020-04-05,"nowcast",0,1,0,0,0,0.390954773869347
+"BA-Teixeira de Freitas",2020-04-06,"nowcast",0,1,0,0,0,0.3785140562249
+"BA-Teixeira de Freitas",2020-04-07,"nowcast",0,1,0,0,0,0.427855711422846
+"BA-Teixeira de Freitas",2020-04-08,"nowcast",0,1,0,0,0,0.429859719438878
+"BA-Teixeira de Freitas",2020-04-09,"nowcast",0,1,0,0,0,0.442
+"BA-Teixeira de Freitas",2020-04-10,"nowcast",0,1,0,0,0,0.448
+"BA-Teixeira de Freitas",2020-04-11,"nowcast",0,1,0,0,0,0.411
+"BA-Teixeira de Freitas",2020-04-12,"nowcast",0,1,0,0,0,0.428
+"BA-Teixeira de Freitas",2020-04-13,"nowcast",0,1,0,0,0,0.407
+"BA-Teixeira de Freitas",2020-04-14,"nowcast",0,1,0,0,0,0.417
+"BA-Teixeira de Freitas",2020-04-15,"nowcast",0,1,0,0,0,0.396
+"BA-Teixeira de Freitas",2020-04-16,"nowcast",0,1,0,0,0,0.431
+"BA-Teixeira de Freitas",2020-04-17,"nowcast",0,1,0,0,0,0.423
+"BA-Teixeira de Freitas",2020-04-18,"nowcast",0,1,0,0,0,0.471
+"BA-Teixeira de Freitas",2020-04-19,"nowcast",0,2,0,0,0,0.593
+"BA-Teixeira de Freitas",2020-04-20,"nowcast",0,2,0,0,0,0.606
+"BA-Teixeira de Freitas",2020-04-21,"nowcast",0,2,0,1,1,0.771
+"BA-Teixeira de Freitas",2020-04-22,"nowcast",0,2,0,1,1,0.829
+"BA-Teixeira de Freitas",2020-04-23,"nowcast",0,2,0,1,1,1.008
+"BA-Teixeira de Freitas",2020-04-24,"nowcast",0,3,0,1,1,1.171
+"BA-Teixeira de Freitas",2020-04-25,"nowcast",0,3,0,1,1,1.303
+"BA-Teixeira de Freitas",2020-04-26,"nowcast",0,3,0,1,1,1.436
+"BA-Teixeira de Freitas",2020-04-27,"nowcast",0,3,0,1,1,1.596
+"BA-Teixeira de Freitas",2020-04-28,"nowcast",0,4,1,2,2,1.821
+"BA-Teixeira de Freitas",2020-04-29,"nowcast",0,4,1,2,2,2.039
+"BA-Teixeira de Freitas",2020-04-30,"nowcast",0,5,0,2,2,2.444
+"BA-Teixeira de Freitas",2020-05-01,"nowcast",0,5,1,3,3,2.807
+"BA-Teixeira de Freitas",2020-05-02,"nowcast",0,5,1,3,3,3.026
+"BA-Teixeira de Freitas",2020-05-03,"nowcast",1,6,1,3,3,3.294
+"BA-Teixeira de Freitas",2020-05-04,"nowcast",0,6,2,4,4,3.59
+"BA-Teixeira de Freitas",2020-05-05,"nowcast",1,6,2,4,4,3.646
+"BA-Teixeira de Freitas",2020-05-06,"nowcast",0,6,2,4,4,3.842
+"BA-Teixeira de Freitas",2020-05-07,"nowcast",0,6,2,4,4,3.77
+"BA-Teixeira de Freitas",2020-05-08,"nowcast",1,7,2,4,4,3.861
+"BA-Teixeira de Freitas",2020-05-09,"nowcast",1,7,2,4,4,3.965
+"BA-Teixeira de Freitas",2020-05-10,"nowcast",1,7,2,4,4,4.041
+"BA-Teixeira de Freitas",2020-05-11,"nowcast",1,7,3,5,4,4.212
+"BA-Teixeira de Freitas",2020-05-12,"nowcast",0,7,2,4,4,4.453
+"BA-Teixeira de Freitas",2020-05-13,"nowcast",1,8,2,5,5,4.766
+"BA-Teixeira de Freitas",2020-05-14,"nowcast",1,9,2,5,5,5.319
+"BA-Teixeira de Freitas",2020-05-15,"nowcast",1,9,3,6,6,5.915
+"BA-Teixeira de Freitas",2020-05-16,"nowcast",3,11,4,7,6,6.671
+"BA-Teixeira de Freitas",2020-05-17,"nowcast",3,12,6,9,7,7.417
+"BA-Teixeira de Freitas",2020-05-18,"nowcast",2,12,4,8,8,8.304
+"BA-Teixeira de Freitas",2020-05-19,"nowcast",4,14,6,10,9,9.464
+"BA-Teixeira de Freitas",2020-05-20,"nowcast",4,15,7,11,10,10.382
+"BA-Teixeira de Freitas",2020-05-21,"nowcast",6,18,8,13,12,12.112
+"BA-Teixeira de Freitas",2020-05-22,"nowcast",7,20,9,14,14,13.653
+"BA-Teixeira de Freitas",2020-05-23,"nowcast",8,22,12,17,15,15.493
+"BA-Teixeira de Freitas",2020-05-24,"nowcast",9,24,13,19,17,17.522
+"BA-Teixeira de Freitas",2020-05-25,"nowcast",11,27,15,21,19,19.777
+"BA-Teixeira de Freitas",2020-05-26,"nowcast",14,30,16,23,22,21.979
+"BA-Teixeira de Freitas",2020-05-27,"nowcast",17,33,19,26,25,24.682
+"BA-Teixeira de Freitas",2020-05-28,"nowcast",17,35,22,29,27,27.286
+"BA-Teixeira de Freitas",2020-05-29,"nowcast",19,38,24,31,30,29.996
+"BA-Teixeira de Freitas",2020-05-30,"nowcast",23,42,30,37,33,32.707
+"BA-Teixeira de Freitas",2020-05-31,"nowcast",24,44,30,37,35,34.929
+"BA-Teixeira de Freitas",2020-06-01,"nowcast",28,47,30,38,37,37.014
+"BA-Teixeira de Freitas",2020-06-02,"nowcast",28,48,34,42,39,39.306
+"BA-Teixeira de Freitas",2020-06-03,"nowcast",31,51,36,44,41,41.17
+"BA-Teixeira de Freitas",2020-06-04,"nowcast",32,52,37,45,43,42.892
+"BA-Teixeira de Freitas",2020-06-05,"nowcast",32,52,37,45,43,43.34
+"BA-Teixeira de Freitas",2020-06-06,"nowcast",32,53,38,46,43,43.157
+"BA-Teixeira de Freitas",2020-06-07,"nowcast",31,52,35,43,42,41.897
+"BA-Teixeira de Freitas",2020-06-08,"nowcast",31,51,37,45,41,41.358
+"BA-Teixeira de Freitas",2020-06-09,"nowcast",32,52,36,44,41,41.687
+"BA-Teixeira de Freitas",2020-06-10,"nowcast",31,52,38,46,43,42.741
+"BA-Teixeira de Freitas",2020-06-11,"nowcast",33,55,39,47,44,44.235
+"BA-Teixeira de Freitas",2020-06-12,"nowcast",37,58,39,48,46,46.347
+"BA-Teixeira de Freitas",2020-06-13,"nowcast",36,58,42,51,48,48.233
+"BA-Teixeira de Freitas",2020-06-14,"nowcast",39,61,42,51,50,50.392
+"BA-Teixeira de Freitas",2020-06-15,"nowcast",40,63,45,54,52,51.716
+"BA-Teixeira de Freitas",2020-06-16,"nowcast",41,63,45,54,52,52.175
+"BA-Teixeira de Freitas",2020-06-17,"nowcast",39,63,46,55,52,52.689
+"BA-Teixeira de Freitas",2020-06-18,"nowcast",40,63,48,57,52,52.715
+"BA-Teixeira de Freitas",2020-06-19,"nowcast",41,63,46,55,52.5,52.624
+"BA-Teixeira de Freitas",2020-06-20,"nowcast",41,63,49,58,53,52.782
+"BA-Teixeira de Freitas",2020-06-21,"nowcast",39,63,46,55,53,52.873
+"BA-Teixeira de Freitas",2020-06-22,"nowcast",40,63,45,54,51,51.297
+"BA-Teixeira de Freitas",2020-06-23,"nowcast",37,59,42,51,49,49.324
+"BA-Teixeira de Freitas",2020-06-24,"nowcast",36,57,42,50,46.5,46.879
+"BA-Teixeira de Freitas",2020-06-25,"nowcast",33,54,38,46,44,44.695
+"BA-Teixeira de Freitas",2020-06-26,"nowcast",34,54,39,46,44,43.776
+"BA-Teixeira de Freitas",2020-06-27,"nowcast",32,53,38,46,44,43.921
+"BA-Teixeira de Freitas",2020-06-28,"nowcast",32,53,39,47,44,44.012
+"BA-Teixeira de Freitas",2020-06-29,"nowcast",31,51,38,46,43,42.726
+"BA-Teixeira de Freitas",2020-06-30,"nowcast",31,52,34,43,42,42.139
+"BA-Teixeira de Freitas",2020-07-01,"nowcast",29,50,35,43,41,41.215
+"BA-Teixeira de Freitas",2020-07-02,"nowcast",29,50,36,44,41,41.024
+"BA-Teixeira de Freitas",2020-07-03,"nowcast",31,53,35,43,41,41.058
+"BA-Teixeira de Freitas",2020-07-04,"nowcast",28,51,36,45,41,41.501
+"BA-Teixeira de Freitas",2020-07-05,"nowcast",27,51,32,42,40,40.017
+"BA-Teixeira de Freitas",2020-07-06,"forecast",24,56,32,44,39,39.9962
+"BA-Teixeira de Freitas",2020-07-07,"forecast",20,56,28,42,39,39.6866
+"BA-Teixeira de Freitas",2020-07-08,"forecast",18,56,26,41,38,39.2238
+"BA-Teixeira de Freitas",2020-07-09,"forecast",17,58,24,40,37,38.7774
+"BA-Teixeira de Freitas",2020-07-10,"forecast",15,60,26,43,37,38.7656
+"BA-Teixeira de Freitas",2020-07-11,"forecast",15,60,23,41,36,38.4924
+"BA-Teixeira de Freitas",2020-07-12,"forecast",12,60,21,40,36,38.0468
+"BA-Teixeira de Freitas",2020-07-13,"forecast",12,63,22,41,35,37.5238
+"BA-Teixeira de Freitas",2020-07-14,"forecast",9,62,20,40,35,37.5892
+"BA-Teixeira de Freitas",2020-07-15,"forecast",7,62,16,37,34,37.2148
+"BA-Teixeira de Freitas",2020-07-16,"forecast",6,62,17,38,33,36.8408
+"BA-Teixeira de Freitas",2020-07-17,"forecast",3,62,16,38,33,36.6308
+"BA-Teixeira de Freitas",2020-07-18,"forecast",5,64,12,35,32,36.248
+"BA-Teixeira de Freitas",2020-07-19,"forecast",5,65,11,34,31,35.9522
+"BA-Vitória da Conquista",2020-02-22,"nowcast",1,1,1,1,1,1
+"BA-Vitória da Conquista",2020-02-23,"nowcast",0,0,0,0,0,0
+"BA-Vitória da Conquista",2020-02-24,"nowcast",0,0,0,0,0,0
+"BA-Vitória da Conquista",2020-02-25,"nowcast",1,1,1,1,1,1
+"BA-Vitória da Conquista",2020-02-26,"nowcast",0,0,0,0,0,0
+"BA-Vitória da Conquista",2020-02-27,"nowcast",0,1,1,1,1,0.666666666666667
+"BA-Vitória da Conquista",2020-02-28,"nowcast",0,1,0,0,0,0.25
+"BA-Vitória da Conquista",2020-02-29,"nowcast",0,1,0,0,0,0.2
+"BA-Vitória da Conquista",2020-03-01,"nowcast",0,1,0,0,0,0.166666666666667
+"BA-Vitória da Conquista",2020-03-02,"nowcast",0,1,0,0,0,0.454545454545455
+"BA-Vitória da Conquista",2020-03-03,"nowcast",0,1,0,0,0,0.285714285714286
+"BA-Vitória da Conquista",2020-03-04,"nowcast",0,1,0,0,0,0.458333333333333
+"BA-Vitória da Conquista",2020-03-05,"nowcast",0,1,0,0,0,0.371428571428571
+"BA-Vitória da Conquista",2020-03-06,"nowcast",0,1,0,0,0,0.255813953488372
+"BA-Vitória da Conquista",2020-03-07,"nowcast",0,1,0,0,0,0.368421052631579
+"BA-Vitória da Conquista",2020-03-08,"nowcast",0,1,0,0,0,0.333333333333333
+"BA-Vitória da Conquista",2020-03-09,"nowcast",0,1,0,0,0,0.293478260869565
+"BA-Vitória da Conquista",2020-03-10,"nowcast",0,1,0,0,0,0.322033898305085
+"BA-Vitória da Conquista",2020-03-11,"nowcast",0,1,0,0,0,0.331168831168831
+"BA-Vitória da Conquista",2020-03-12,"nowcast",0,1,0,0,0,0.34375
+"BA-Vitória da Conquista",2020-03-13,"nowcast",0,1,0,0,0,0.316872427983539
+"BA-Vitória da Conquista",2020-03-14,"nowcast",0,1,0,0,0,0.28135593220339
+"BA-Vitória da Conquista",2020-03-15,"nowcast",0,1,0,0,0,0.297752808988764
+"BA-Vitória da Conquista",2020-03-16,"nowcast",0,1,0,0,0,0.371559633027523
+"BA-Vitória da Conquista",2020-03-17,"nowcast",0,1,0,0,0,0.364
+"BA-Vitória da Conquista",2020-03-18,"nowcast",0,1,0,0,0,0.380281690140845
+"BA-Vitória da Conquista",2020-03-19,"nowcast",0,1,0,0,0,0.411674347158218
+"BA-Vitória da Conquista",2020-03-20,"nowcast",0,1,0,0,0,0.47275204359673
+"BA-Vitória da Conquista",2020-03-21,"nowcast",0,1,0,0,0,0.491885143570537
+"BA-Vitória da Conquista",2020-03-22,"nowcast",0,2,0,0,0,0.57439446366782
+"BA-Vitória da Conquista",2020-03-23,"nowcast",0,2,0,0,0,0.639130434782609
+"BA-Vitória da Conquista",2020-03-24,"nowcast",0,2,0,1,1,0.697698744769874
+"BA-Vitória da Conquista",2020-03-25,"nowcast",0,2,0,1,1,0.817160367722165
+"BA-Vitória da Conquista",2020-03-26,"nowcast",0,2,0,1,1,0.928282828282828
+"BA-Vitória da Conquista",2020-03-27,"nowcast",0,2,0,1,1,1.00100300902708
+"BA-Vitória da Conquista",2020-03-28,"nowcast",0,3,0,1,1,1.153
+"BA-Vitória da Conquista",2020-03-29,"nowcast",0,3,0,1,1,1.235
+"BA-Vitória da Conquista",2020-03-30,"nowcast",0,3,0,1,1,1.331
+"BA-Vitória da Conquista",2020-03-31,"nowcast",0,3,0,1,1,1.424
+"BA-Vitória da Conquista",2020-04-01,"nowcast",0,3,0,1,1,1.454
+"BA-Vitória da Conquista",2020-04-02,"nowcast",0,3,0,1,1,1.39
+"BA-Vitória da Conquista",2020-04-03,"nowcast",0,3,0,1,1,1.36
+"BA-Vitória da Conquista",2020-04-04,"nowcast",0,3,0,1,1,1.319
+"BA-Vitória da Conquista",2020-04-05,"nowcast",0,2,0,1,1,1.093
+"BA-Vitória da Conquista",2020-04-06,"nowcast",0,2,0,1,1,0.908
+"BA-Vitória da Conquista",2020-04-07,"nowcast",0,2,0,1,1,0.786
+"BA-Vitória da Conquista",2020-04-08,"nowcast",0,2,0,1,1,0.717
+"BA-Vitória da Conquista",2020-04-09,"nowcast",0,2,0,0,0,0.649
+"BA-Vitória da Conquista",2020-04-10,"nowcast",0,2,0,0,0,0.586
+"BA-Vitória da Conquista",2020-04-11,"nowcast",0,2,0,0,0,0.678
+"BA-Vitória da Conquista",2020-04-12,"nowcast",0,2,0,1,1,0.732
+"BA-Vitória da Conquista",2020-04-13,"nowcast",0,2,0,1,1,0.873
+"BA-Vitória da Conquista",2020-04-14,"nowcast",0,2,0,1,1,0.916
+"BA-Vitória da Conquista",2020-04-15,"nowcast",0,2,0,1,1,0.862
+"BA-Vitória da Conquista",2020-04-16,"nowcast",0,2,0,1,1,0.965
+"BA-Vitória da Conquista",2020-04-17,"nowcast",0,2,0,1,1,0.944
+"BA-Vitória da Conquista",2020-04-18,"nowcast",0,2,0,1,1,0.957
+"BA-Vitória da Conquista",2020-04-19,"nowcast",0,2,0,1,1,1.043
+"BA-Vitória da Conquista",2020-04-20,"nowcast",0,2,0,1,1,1.116
+"BA-Vitória da Conquista",2020-04-21,"nowcast",0,3,0,1,1,1.192
+"BA-Vitória da Conquista",2020-04-22,"nowcast",0,3,0,1,1,1.289
+"BA-Vitória da Conquista",2020-04-23,"nowcast",0,3,0,1,1,1.399
+"BA-Vitória da Conquista",2020-04-24,"nowcast",0,3,0,1,1,1.51
+"BA-Vitória da Conquista",2020-04-25,"nowcast",0,3,0,1,1,1.627
+"BA-Vitória da Conquista",2020-04-26,"nowcast",0,3,1,2,2,1.659
+"BA-Vitória da Conquista",2020-04-27,"nowcast",0,4,1,2,2,1.787
+"BA-Vitória da Conquista",2020-04-28,"nowcast",0,4,1,2,2,1.95
+"BA-Vitória da Conquista",2020-04-29,"nowcast",0,4,1,2,2,2.177
+"BA-Vitória da Conquista",2020-04-30,"nowcast",0,4,1,2,2,2.305
+"BA-Vitória da Conquista",2020-05-01,"nowcast",0,5,0,2,2,2.628
+"BA-Vitória da Conquista",2020-05-02,"nowcast",0,5,1,3,3,2.885
+"BA-Vitória da Conquista",2020-05-03,"nowcast",0,5,1,3,3,3.087
+"BA-Vitória da Conquista",2020-05-04,"nowcast",1,6,1,3,3,3.256
+"BA-Vitória da Conquista",2020-05-05,"nowcast",1,6,2,4,3,3.565
+"BA-Vitória da Conquista",2020-05-06,"nowcast",0,6,2,4,4,3.718
+"BA-Vitória da Conquista",2020-05-07,"nowcast",1,7,2,4,4,3.959
+"BA-Vitória da Conquista",2020-05-08,"nowcast",1,7,2,4,4,4.173
+"BA-Vitória da Conquista",2020-05-09,"nowcast",1,7,2,4,4,4.351
+"BA-Vitória da Conquista",2020-05-10,"nowcast",2,8,3,5,4,4.598
+"BA-Vitória da Conquista",2020-05-11,"nowcast",2,8,2,5,5,4.853
+"BA-Vitória da Conquista",2020-05-12,"nowcast",2,8,3,5,5,4.906
+"BA-Vitória da Conquista",2020-05-13,"nowcast",1,8,2,5,5,5.08
+"BA-Vitória da Conquista",2020-05-14,"nowcast",1,8,4,6,5,5.305
+"BA-Vitória da Conquista",2020-05-15,"nowcast",2,9,2,5,5,5.533
+"BA-Vitória da Conquista",2020-05-16,"nowcast",2,10,3,6,6,6.079
+"BA-Vitória da Conquista",2020-05-17,"nowcast",2,10,3,6,6,6.258
+"BA-Vitória da Conquista",2020-05-18,"nowcast",3,11,4,7,6,6.737
+"BA-Vitória da Conquista",2020-05-19,"nowcast",2,11,5,8,7,7.103
+"BA-Vitória da Conquista",2020-05-20,"nowcast",3,12,6,9,8,7.798
+"BA-Vitória da Conquista",2020-05-21,"nowcast",3,13,5,9,8,8.661
+"BA-Vitória da Conquista",2020-05-22,"nowcast",4,14,6,10,9,9.724
+"BA-Vitória da Conquista",2020-05-23,"nowcast",5,16,8,12,11,10.981
+"BA-Vitória da Conquista",2020-05-24,"nowcast",6,17,8,12,12,12.048
+"BA-Vitória da Conquista",2020-05-25,"nowcast",7,19,9,14,14,13.748
+"BA-Vitória da Conquista",2020-05-26,"nowcast",9,21,10,15,15,14.972
+"BA-Vitória da Conquista",2020-05-27,"nowcast",10,22,11,16,16,16.115
+"BA-Vitória da Conquista",2020-05-28,"nowcast",11,23,13,18,17,17.054
+"BA-Vitória da Conquista",2020-05-29,"nowcast",10,23,14,19,17,17.597
+"BA-Vitória da Conquista",2020-05-30,"nowcast",12,24,13,18,18,17.673
+"BA-Vitória da Conquista",2020-05-31,"nowcast",11,24,14,19,18,17.941
+"BA-Vitória da Conquista",2020-06-01,"nowcast",11,24,14,19,18,17.988
+"BA-Vitória da Conquista",2020-06-02,"nowcast",12,25,14,19,18,18.134
+"BA-Vitória da Conquista",2020-06-03,"nowcast",12,25,15,20,18,17.949
+"BA-Vitória da Conquista",2020-06-04,"nowcast",11,24,14,19,18,18.081
+"BA-Vitória da Conquista",2020-06-05,"nowcast",11,24,14,19,18,18.399
+"BA-Vitória da Conquista",2020-06-06,"nowcast",11,25,15,20,19,18.968
+"BA-Vitória da Conquista",2020-06-07,"nowcast",11,25,16,21,19,19.383
+"BA-Vitória da Conquista",2020-06-08,"nowcast",12,26,17,22,20,19.974
+"BA-Vitória da Conquista",2020-06-09,"nowcast",13,27,15,21,21,20.71
+"BA-Vitória da Conquista",2020-06-10,"nowcast",13,28,17,23,21,21.423
+"BA-Vitória da Conquista",2020-06-11,"nowcast",14,30,19,25,22,22.906
+"BA-Vitória da Conquista",2020-06-12,"nowcast",15,31,19,25,24,24.255
+"BA-Vitória da Conquista",2020-06-13,"nowcast",16,33,21,27,25,25.624
+"BA-Vitória da Conquista",2020-06-14,"nowcast",18,34,22,28,27,26.883
+"BA-Vitória da Conquista",2020-06-15,"nowcast",19,36,24,30,28,27.711
+"BA-Vitória da Conquista",2020-06-16,"nowcast",20,36,25,31,28,28.58
+"BA-Vitória da Conquista",2020-06-17,"nowcast",20,37,25,31,29,29.235
+"BA-Vitória da Conquista",2020-06-18,"nowcast",21,38,25,32,30,30.365
+"BA-Vitória da Conquista",2020-06-19,"nowcast",22,40,26,33,31,31.454
+"BA-Vitória da Conquista",2020-06-20,"nowcast",23,41,28,35,33,32.729
+"BA-Vitória da Conquista",2020-06-21,"nowcast",22,41,27,35,34,33.718
+"BA-Vitória da Conquista",2020-06-22,"nowcast",25,44,31,38,35,35.217
+"BA-Vitória da Conquista",2020-06-23,"nowcast",26,45,31,38,36,36.298
+"BA-Vitória da Conquista",2020-06-24,"nowcast",27,47,32,40,38,38.202
+"BA-Vitória da Conquista",2020-06-25,"nowcast",31,50,32,40,39,39.144
+"BA-Vitória da Conquista",2020-06-26,"nowcast",29,49,33,41,40,39.992
+"BA-Vitória da Conquista",2020-06-27,"nowcast",30,50,34,42,40,40.266
+"BA-Vitória da Conquista",2020-06-28,"nowcast",28,49,33,41,40,39.815
+"BA-Vitória da Conquista",2020-06-29,"nowcast",31,51,34,42,40,40.13
+"BA-Vitória da Conquista",2020-06-30,"nowcast",29,50,34,42,40,40.539
+"BA-Vitória da Conquista",2020-07-01,"nowcast",30,51,36,44,42,41.32
+"BA-Vitória da Conquista",2020-07-02,"nowcast",32,53,38,46,42,42.34
+"BA-Vitória da Conquista",2020-07-03,"nowcast",32,55,36,45,44,43.863
+"BA-Vitória da Conquista",2020-07-04,"nowcast",32,56,39,48,45,44.921
+"BA-Vitória da Conquista",2020-07-05,"nowcast",34,58,38,47,46,45.973
+"BA-Vitória da Conquista",2020-07-06,"forecast",28,63,36,50,46,46.8016
+"BA-Vitória da Conquista",2020-07-07,"forecast",26,66,37,53,47,48.1198
+"BA-Vitória da Conquista",2020-07-08,"forecast",27,70,38,55,48,49.3366
+"BA-Vitória da Conquista",2020-07-09,"forecast",24,72,36,55,49,50.42
+"BA-Vitória da Conquista",2020-07-10,"forecast",25,77,34,55,50,51.697
+"BA-Vitória da Conquista",2020-07-11,"forecast",23,79,38,60,51,53.1172
+"BA-Vitória da Conquista",2020-07-12,"forecast",23,83,37,61,52,54.0952
+"BA-Vitória da Conquista",2020-07-13,"forecast",19,85,34,60,53,55.406
+"BA-Vitória da Conquista",2020-07-14,"forecast",20,88,36,63,54,56.7844
+"BA-Vitória da Conquista",2020-07-15,"forecast",20,95,36,65,56,58.2252
+"BA-Vitória da Conquista",2020-07-16,"forecast",19,99,34,65,56,59.588
+"BA-Vitória da Conquista",2020-07-17,"forecast",14,101,31,65,58,61.373
+"BA-Vitória da Conquista",2020-07-18,"forecast",14,106,35,71,58.5,62.8734
+"BA-Vitória da Conquista",2020-07-19,"forecast",13,110,32,69,59,64.2516
