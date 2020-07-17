@@ -46,7 +46,8 @@ if (!interactive()){
   options(future.fork.enable = TRUE)
 }
 
-future::plan("multiprocess", workers = round(future::availableCores()))
+#future::plan("multiprocess", workers = round(future::availableCores()))
+future::plan("multiprocess", workers = 27)
 
 
 # Run pipeline ----------------------------------------------------

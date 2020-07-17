@@ -8,7 +8,8 @@ require(purrr)
 posts <- c(list.dirs("_posts/national", recursive = FALSE))
 print(posts)
 
-future::plan("multisession")
+#future::plan("multisession")
+future::plan("sequential")
 
 safe_render <- purrr::safely(rmarkdown::render)
 
