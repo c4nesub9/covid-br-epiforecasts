@@ -17,7 +17,7 @@ results_dir <- gsub("/$", "", results_dir) # remove trailing slash
 
 # Get cases ---------------------------------------------------------------
 
-min_total_cases <- 500
+min_total_cases <- 300
 
 NCoVUtils::reset_cache()
 
@@ -68,6 +68,8 @@ EpiNow::regional_rt_pipeline(
   cases = cases,
   delay_defs = delay_defs,
   target_folder = results_dir,
+  case_limit = 20,
+  min_forecast_cases = 100,
   horizon = 14,
   nowcast_lag = 10,
   approx_delay = TRUE,

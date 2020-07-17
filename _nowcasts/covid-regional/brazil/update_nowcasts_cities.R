@@ -68,6 +68,8 @@ EpiNow::regional_rt_pipeline(
   cases = cases,
   delay_defs = delay_defs,
   target_folder = results_dir,
+  case_limit = 40,
+  min_forecast_cases = 200,
   horizon = 14,
   nowcast_lag = 10,
   approx_delay = TRUE,
