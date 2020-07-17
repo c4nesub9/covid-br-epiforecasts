@@ -6,6 +6,7 @@ require(purrr)
 
 #posts <- c("_posts/global" , list.dirs("_posts/national", recursive = FALSE))
 posts <- c(list.dirs("_posts/national", recursive = FALSE))
+print(posts)
 
 future::plan("multisession")
 
