@@ -10,7 +10,6 @@ cd $ROOT_DIR/_nowcasts/covid-regional
 
 echo "Starting nowcast for cities at `date`"
 ./update_nowcasts_cities.sh
-./update_regional_summary.sh brazil/ne-cities
 
 echo "Starting nowcast for states at `date`"
 ./update_nowcasts.sh
@@ -21,7 +20,7 @@ bin/update_posts.sh
 
 echo "Pushing updates to github at `date`"
 git pull
-git add _nowcasts/ _posts/ posts/ && git commit -m "update $DATE" && git push
+git add _nowcasts/ _posts/ posts/ && git commit -m "update cases $DATE" && git push
 
 cd $ROOT_DIR/_nowcasts/covid-regional
 echo "Starting nowcast for states at `date`"
