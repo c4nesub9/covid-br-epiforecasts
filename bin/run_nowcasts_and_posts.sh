@@ -14,13 +14,12 @@ echo "Starting nowcast for cities at `date`"
 echo "Starting nowcast for states at `date`"
 ./update_nowcasts.sh
 
-echo "Updating posts at `date`"
 cd $ROOT_DIR
+echo "Updating posts at `date`"
 bin/update_posts.sh
 
 echo "Pushing updates to github at `date`"
-git pull
-git add _nowcasts/ _posts/ posts/ && git commit -m "update cases $DATE" && git push
+bin/update_github.sh
 
 cd $ROOT_DIR/_nowcasts/covid-regional
 echo "Starting nowcast for states at `date`"
@@ -30,10 +29,9 @@ echo "Starting deaths nowcast for states at `date`"
 cd $ROOT_DIR/_nowcasts/covid-regional
 ./update_deaths_nowcasts.sh
 
-echo "Updating posts at `date`"
 cd $ROOT_DIR
+echo "Updating posts at `date`"
 bin/update_posts.sh
 
 echo "Pushing updates to github at `date`"
-git pull
-git add _nowcasts/ _posts/ posts/ && git commit -m "update deaths $DATE" && git push
+bin/update_github.sh
