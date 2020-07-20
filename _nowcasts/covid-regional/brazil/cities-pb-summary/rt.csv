@@ -207,403 +207,408 @@ PB-Belém,2020-07-18,forecast,1,0.3,1.6,0.8,1.3,0.53
 PB-Belém,2020-07-19,forecast,1,0.3,1.7,0.8,1.3,0.52
 PB-Belém,2020-07-20,forecast,1,0.2,1.7,0.7,1.3,0.52
 PB-Belém,2020-07-21,forecast,1,0.3,1.7,0.7,1.3,0.52
-PB-Cabedelo,2020-05-02,nowcast,1.4,0.9,2,1.2,1.6,0.06
-PB-Cabedelo,2020-05-03,nowcast,1.4,0.9,1.9,1.2,1.6,0.07
-PB-Cabedelo,2020-05-04,nowcast,1.4,0.9,1.8,1.2,1.5,0.05
-PB-Cabedelo,2020-05-05,nowcast,1.4,0.9,1.8,1.2,1.5,0.06
-PB-Cabedelo,2020-05-06,nowcast,1.4,0.9,1.8,1.2,1.5,0.06
-PB-Cabedelo,2020-05-07,nowcast,1.3,0.9,1.7,1.2,1.5,0.06
-PB-Cabedelo,2020-05-08,nowcast,1.3,1,1.7,1.2,1.5,0.05
-PB-Cabedelo,2020-05-09,nowcast,1.3,1,1.7,1.2,1.4,0.06
-PB-Cabedelo,2020-05-10,nowcast,1.3,0.9,1.7,1.1,1.4,0.07
-PB-Cabedelo,2020-05-11,nowcast,1.3,1,1.7,1.1,1.4,0.06
-PB-Cabedelo,2020-05-12,nowcast,1.3,1,1.6,1.1,1.4,0.06
-PB-Cabedelo,2020-05-13,nowcast,1.3,1,1.6,1.1,1.4,0.05
+PB-Cabedelo,2020-05-02,nowcast,1.4,0.9,1.9,1.2,1.6,0.07
+PB-Cabedelo,2020-05-03,nowcast,1.4,0.9,1.8,1.2,1.5,0.07
+PB-Cabedelo,2020-05-04,nowcast,1.4,0.9,1.9,1.2,1.6,0.08
+PB-Cabedelo,2020-05-05,nowcast,1.4,1,1.8,1.2,1.5,0.06
+PB-Cabedelo,2020-05-06,nowcast,1.4,1,1.8,1.2,1.5,0.06
+PB-Cabedelo,2020-05-07,nowcast,1.3,1,1.7,1.2,1.5,0.06
+PB-Cabedelo,2020-05-08,nowcast,1.3,0.9,1.7,1.2,1.5,0.06
+PB-Cabedelo,2020-05-09,nowcast,1.3,0.9,1.7,1.1,1.4,0.07
+PB-Cabedelo,2020-05-10,nowcast,1.3,1,1.7,1.2,1.4,0.07
+PB-Cabedelo,2020-05-11,nowcast,1.3,1,1.6,1.2,1.4,0.07
+PB-Cabedelo,2020-05-12,nowcast,1.3,0.9,1.6,1.1,1.4,0.07
+PB-Cabedelo,2020-05-13,nowcast,1.3,1,1.6,1.1,1.4,0.06
 PB-Cabedelo,2020-05-14,nowcast,1.3,1,1.6,1.2,1.4,0.05
 PB-Cabedelo,2020-05-15,nowcast,1.3,1,1.6,1.2,1.4,0.03
-PB-Cabedelo,2020-05-16,nowcast,1.3,1.1,1.7,1.2,1.4,0.03
-PB-Cabedelo,2020-05-17,nowcast,1.3,1.1,1.7,1.2,1.4,0.02
+PB-Cabedelo,2020-05-16,nowcast,1.3,1.1,1.7,1.2,1.4,0.02
+PB-Cabedelo,2020-05-17,nowcast,1.3,1.1,1.7,1.2,1.4,0.01
 PB-Cabedelo,2020-05-18,nowcast,1.4,1.1,1.7,1.2,1.5,0.01
-PB-Cabedelo,2020-05-19,nowcast,1.4,1.1,1.7,1.3,1.5,0.01
+PB-Cabedelo,2020-05-19,nowcast,1.4,1.1,1.7,1.2,1.5,0.01
 PB-Cabedelo,2020-05-20,nowcast,1.4,1.1,1.7,1.3,1.5,0.01
-PB-Cabedelo,2020-05-21,nowcast,1.4,1.1,1.6,1.2,1.5,0.02
-PB-Cabedelo,2020-05-22,nowcast,1.3,1.1,1.6,1.2,1.4,0.03
-PB-Cabedelo,2020-05-23,nowcast,1.2,1,1.5,1.1,1.4,0.07
-PB-Cabedelo,2020-05-24,nowcast,1.1,0.9,1.4,1,1.2,0.18
-PB-Cabedelo,2020-05-25,nowcast,1.1,0.8,1.3,1,1.2,0.36
-PB-Cabedelo,2020-05-26,nowcast,1,0.7,1.2,0.9,1.1,0.55
-PB-Cabedelo,2020-05-27,nowcast,1,0.7,1.2,0.9,1.1,0.65
-PB-Cabedelo,2020-05-28,nowcast,0.9,0.7,1.1,0.9,1,0.72
-PB-Cabedelo,2020-05-29,nowcast,0.9,0.8,1.1,0.9,1,0.74
-PB-Cabedelo,2020-05-30,nowcast,0.9,0.8,1.1,0.9,1,0.78
-PB-Cabedelo,2020-05-31,nowcast,0.9,0.8,1.1,0.8,1,0.82
-PB-Cabedelo,2020-06-01,nowcast,0.9,0.7,1.1,0.8,1,0.85
-PB-Cabedelo,2020-06-02,nowcast,0.9,0.7,1,0.8,0.9,0.88
+PB-Cabedelo,2020-05-21,nowcast,1.4,1.1,1.7,1.2,1.5,0.01
+PB-Cabedelo,2020-05-22,nowcast,1.3,1,1.6,1.2,1.4,0.03
+PB-Cabedelo,2020-05-23,nowcast,1.2,1,1.5,1.2,1.4,0.06
+PB-Cabedelo,2020-05-24,nowcast,1.1,0.9,1.4,1.1,1.3,0.18
+PB-Cabedelo,2020-05-25,nowcast,1,0.8,1.3,1,1.2,0.37
+PB-Cabedelo,2020-05-26,nowcast,1,0.7,1.2,0.9,1.1,0.57
+PB-Cabedelo,2020-05-27,nowcast,0.9,0.7,1.1,0.9,1,0.67
+PB-Cabedelo,2020-05-28,nowcast,0.9,0.7,1.1,0.9,1,0.71
+PB-Cabedelo,2020-05-29,nowcast,0.9,0.8,1.1,0.9,1,0.75
+PB-Cabedelo,2020-05-30,nowcast,0.9,0.8,1.1,0.9,1,0.79
+PB-Cabedelo,2020-05-31,nowcast,0.9,0.7,1.1,0.9,1,0.83
+PB-Cabedelo,2020-06-01,nowcast,0.9,0.7,1.1,0.8,1,0.86
+PB-Cabedelo,2020-06-02,nowcast,0.9,0.7,1.1,0.8,0.9,0.89
 PB-Cabedelo,2020-06-03,nowcast,0.9,0.7,1,0.8,0.9,0.92
 PB-Cabedelo,2020-06-04,nowcast,0.8,0.7,1,0.8,0.9,0.94
-PB-Cabedelo,2020-06-05,nowcast,0.8,0.7,1,0.8,0.9,0.95
+PB-Cabedelo,2020-06-05,nowcast,0.8,0.6,1,0.8,0.9,0.95
 PB-Cabedelo,2020-06-06,nowcast,0.8,0.6,1,0.7,0.9,0.97
-PB-Cabedelo,2020-06-07,nowcast,0.8,0.6,1,0.7,0.8,0.98
+PB-Cabedelo,2020-06-07,nowcast,0.8,0.6,1,0.7,0.9,0.98
 PB-Cabedelo,2020-06-08,nowcast,0.8,0.6,0.9,0.7,0.8,0.98
-PB-Cabedelo,2020-06-09,nowcast,0.8,0.6,0.9,0.7,0.8,0.98
-PB-Cabedelo,2020-06-10,nowcast,0.8,0.6,1,0.7,0.8,0.95
-PB-Cabedelo,2020-06-11,nowcast,0.8,0.6,1,0.7,0.9,0.9
-PB-Cabedelo,2020-06-12,nowcast,0.8,0.6,1.1,0.7,0.9,0.81
-PB-Cabedelo,2020-06-13,nowcast,0.9,0.7,1.2,0.8,0.9,0.76
-PB-Cabedelo,2020-06-14,nowcast,0.9,0.7,1.2,0.8,1,0.68
-PB-Cabedelo,2020-06-15,nowcast,1,0.7,1.2,0.8,1,0.59
-PB-Cabedelo,2020-06-16,nowcast,1,0.7,1.3,0.9,1.1,0.54
-PB-Cabedelo,2020-06-17,nowcast,1,0.8,1.3,0.9,1.1,0.48
+PB-Cabedelo,2020-06-09,nowcast,0.8,0.5,0.9,0.7,0.8,0.97
+PB-Cabedelo,2020-06-10,nowcast,0.8,0.5,1,0.7,0.8,0.94
+PB-Cabedelo,2020-06-11,nowcast,0.8,0.6,1,0.7,0.8,0.9
+PB-Cabedelo,2020-06-12,nowcast,0.8,0.6,1.1,0.7,0.9,0.84
+PB-Cabedelo,2020-06-13,nowcast,0.9,0.6,1.2,0.8,1,0.73
+PB-Cabedelo,2020-06-14,nowcast,0.9,0.7,1.2,0.8,1,0.65
+PB-Cabedelo,2020-06-15,nowcast,1,0.7,1.3,0.8,1,0.57
+PB-Cabedelo,2020-06-16,nowcast,1,0.8,1.3,0.9,1.1,0.51
+PB-Cabedelo,2020-06-17,nowcast,1,0.8,1.3,0.9,1.1,0.44
 PB-Cabedelo,2020-06-18,nowcast,1,0.8,1.3,0.9,1.1,0.42
-PB-Cabedelo,2020-06-19,nowcast,1,0.8,1.3,0.9,1.1,0.41
+PB-Cabedelo,2020-06-19,nowcast,1,0.8,1.3,0.9,1.1,0.42
 PB-Cabedelo,2020-06-20,nowcast,1,0.8,1.3,0.9,1.1,0.44
-PB-Cabedelo,2020-06-21,nowcast,1,0.8,1.3,0.9,1.1,0.48
-PB-Cabedelo,2020-06-22,nowcast,1,0.7,1.2,0.9,1.1,0.54
-PB-Cabedelo,2020-06-23,nowcast,1,0.7,1.2,0.9,1.1,0.63
-PB-Cabedelo,2020-06-24,nowcast,0.9,0.7,1.2,0.8,1,0.73
-PB-Cabedelo,2020-06-25,nowcast,0.9,0.7,1.1,0.8,1,0.8
+PB-Cabedelo,2020-06-21,nowcast,1,0.8,1.2,0.9,1.1,0.51
+PB-Cabedelo,2020-06-22,nowcast,1,0.7,1.2,0.9,1.1,0.59
+PB-Cabedelo,2020-06-23,nowcast,1,0.7,1.2,0.9,1,0.65
+PB-Cabedelo,2020-06-24,nowcast,0.9,0.7,1.2,0.8,1,0.72
+PB-Cabedelo,2020-06-25,nowcast,0.9,0.7,1.1,0.8,1,0.79
 PB-Cabedelo,2020-06-26,nowcast,0.9,0.6,1.1,0.8,1,0.84
-PB-Cabedelo,2020-06-27,nowcast,0.8,0.6,1.1,0.8,0.9,0.89
-PB-Cabedelo,2020-06-28,nowcast,0.8,0.6,1,0.8,0.9,0.9
-PB-Cabedelo,2020-06-29,nowcast,0.8,0.6,1,0.7,0.9,0.92
-PB-Cabedelo,2020-06-30,nowcast,0.8,0.6,1.1,0.7,0.9,0.9
-PB-Cabedelo,2020-07-01,nowcast,0.8,0.6,1.1,0.7,0.9,0.88
-PB-Cabedelo,2020-07-02,nowcast,0.8,0.6,1.2,0.7,0.9,0.82
-PB-Cabedelo,2020-07-03,nowcast,0.9,0.6,1.2,0.8,1,0.73
-PB-Cabedelo,2020-07-04,nowcast,0.9,0.6,1.3,0.8,1,0.63
-PB-Cabedelo,2020-07-05,nowcast,1,0.7,1.4,0.8,1.1,0.51
-PB-Cabedelo,2020-07-06,nowcast,1,0.7,1.4,0.9,1.1,0.41
+PB-Cabedelo,2020-06-27,nowcast,0.8,0.6,1.1,0.8,0.9,0.88
+PB-Cabedelo,2020-06-28,nowcast,0.8,0.6,1.1,0.8,0.9,0.9
+PB-Cabedelo,2020-06-29,nowcast,0.8,0.5,1,0.7,0.9,0.91
+PB-Cabedelo,2020-06-30,nowcast,0.8,0.5,1,0.7,0.9,0.9
+PB-Cabedelo,2020-07-01,nowcast,0.8,0.6,1.1,0.7,0.9,0.87
+PB-Cabedelo,2020-07-02,nowcast,0.8,0.6,1.2,0.7,0.9,0.81
+PB-Cabedelo,2020-07-03,nowcast,0.9,0.6,1.2,0.7,1,0.73
+PB-Cabedelo,2020-07-04,nowcast,0.9,0.6,1.3,0.8,1,0.62
+PB-Cabedelo,2020-07-05,nowcast,1,0.7,1.4,0.8,1.1,0.52
+PB-Cabedelo,2020-07-06,nowcast,1,0.7,1.4,0.8,1.1,0.44
 PB-Cabedelo,2020-07-07,nowcast,1.1,0.8,1.5,0.9,1.2,0.31
-PB-Cabedelo,2020-07-08,forecast,1.1,0.7,1.5,0.9,1.2,0.37
-PB-Cabedelo,2020-07-09,forecast,1.1,0.6,1.5,0.9,1.2,0.42
-PB-Cabedelo,2020-07-10,forecast,1.1,0.6,1.6,0.9,1.2,0.41
-PB-Cabedelo,2020-07-11,forecast,1.1,0.6,1.6,0.8,1.2,0.43
-PB-Cabedelo,2020-07-12,forecast,1.1,0.5,1.6,0.8,1.2,0.41
-PB-Cabedelo,2020-07-13,forecast,1,0.5,1.6,0.8,1.2,0.44
-PB-Cabedelo,2020-07-14,forecast,1,0.5,1.6,0.8,1.2,0.44
-PB-Cabedelo,2020-07-15,forecast,1,0.4,1.6,0.8,1.2,0.44
-PB-Cabedelo,2020-07-16,forecast,1.1,0.4,1.7,0.8,1.3,0.44
-PB-Cabedelo,2020-07-17,forecast,1.1,0.5,1.7,0.8,1.3,0.43
-PB-Cabedelo,2020-07-18,forecast,1,0.4,1.7,0.8,1.3,0.45
-PB-Cabedelo,2020-07-19,forecast,1,0.4,1.8,0.7,1.2,0.45
-PB-Cabedelo,2020-07-20,forecast,1,0.4,1.8,0.7,1.2,0.46
-PB-Cabedelo,2020-07-21,forecast,1,0.3,1.7,0.8,1.3,0.45
-PB-Cajazeiras,2020-05-01,nowcast,1.2,0.2,2.2,0.7,1.4,0.39
+PB-Cabedelo,2020-07-08,nowcast,1.1,0.8,1.6,1,1.3,0.23
+PB-Cabedelo,2020-07-09,forecast,1.1,0.7,1.6,0.9,1.2,0.32
+PB-Cabedelo,2020-07-10,forecast,1.1,0.7,1.6,0.9,1.3,0.34
+PB-Cabedelo,2020-07-11,forecast,1.1,0.6,1.6,0.9,1.3,0.36
+PB-Cabedelo,2020-07-12,forecast,1.1,0.6,1.6,0.9,1.2,0.37
+PB-Cabedelo,2020-07-13,forecast,1.1,0.6,1.6,0.9,1.3,0.38
+PB-Cabedelo,2020-07-14,forecast,1.1,0.6,1.7,0.8,1.3,0.38
+PB-Cabedelo,2020-07-15,forecast,1.1,0.5,1.7,0.8,1.3,0.39
+PB-Cabedelo,2020-07-16,forecast,1.1,0.5,1.7,0.8,1.3,0.39
+PB-Cabedelo,2020-07-17,forecast,1.1,0.5,1.8,0.8,1.3,0.39
+PB-Cabedelo,2020-07-18,forecast,1.1,0.5,1.8,0.8,1.3,0.39
+PB-Cabedelo,2020-07-19,forecast,1.1,0.4,1.8,0.8,1.3,0.4
+PB-Cabedelo,2020-07-20,forecast,1.1,0.4,1.8,0.8,1.3,0.4
+PB-Cabedelo,2020-07-21,forecast,1.1,0.4,1.9,0.8,1.3,0.4
+PB-Cabedelo,2020-07-22,forecast,1.1,0.3,1.9,0.8,1.3,0.41
+PB-Cajazeiras,2020-05-01,nowcast,1.1,0.2,2.2,0.7,1.4,0.4
 PB-Cajazeiras,2020-05-02,nowcast,1.1,0.2,2.2,0.7,1.4,0.4
 PB-Cajazeiras,2020-05-03,nowcast,1.1,0.2,2.2,0.6,1.4,0.4
-PB-Cajazeiras,2020-05-04,nowcast,1.2,0.3,2.2,0.7,1.4,0.38
-PB-Cajazeiras,2020-05-05,nowcast,1.2,0.3,2.2,0.7,1.4,0.38
-PB-Cajazeiras,2020-05-06,nowcast,1.2,0.3,2.2,0.8,1.5,0.35
-PB-Cajazeiras,2020-05-07,nowcast,1.2,0.3,2.3,0.9,1.6,0.31
-PB-Cajazeiras,2020-05-08,nowcast,1.3,0.4,2.3,0.9,1.6,0.29
-PB-Cajazeiras,2020-05-09,nowcast,1.2,0.4,2.3,0.9,1.5,0.3
-PB-Cajazeiras,2020-05-10,nowcast,1.3,0.5,2.4,0.9,1.6,0.27
-PB-Cajazeiras,2020-05-11,nowcast,1.3,0.5,2.2,0.9,1.5,0.27
-PB-Cajazeiras,2020-05-12,nowcast,1.3,0.5,2.3,0.9,1.6,0.24
-PB-Cajazeiras,2020-05-13,nowcast,1.3,0.6,2.3,0.9,1.5,0.23
-PB-Cajazeiras,2020-05-14,nowcast,1.3,0.6,2.3,1,1.6,0.22
-PB-Cajazeiras,2020-05-15,nowcast,1.4,0.6,2.2,1,1.6,0.19
-PB-Cajazeiras,2020-05-16,nowcast,1.4,0.6,2.2,1,1.6,0.18
-PB-Cajazeiras,2020-05-17,nowcast,1.4,0.7,2.2,1,1.6,0.15
-PB-Cajazeiras,2020-05-18,nowcast,1.4,0.7,2.2,1,1.6,0.15
-PB-Cajazeiras,2020-05-19,nowcast,1.4,0.7,2.1,1.1,1.6,0.13
-PB-Cajazeiras,2020-05-20,nowcast,1.4,0.7,2.1,1.1,1.6,0.12
-PB-Cajazeiras,2020-05-21,nowcast,1.4,0.8,2.1,1.1,1.6,0.12
-PB-Cajazeiras,2020-05-22,nowcast,1.4,0.8,2,1.1,1.6,0.11
-PB-Cajazeiras,2020-05-23,nowcast,1.4,0.8,2,1.1,1.6,0.11
-PB-Cajazeiras,2020-05-24,nowcast,1.3,0.8,1.9,1.1,1.5,0.13
-PB-Cajazeiras,2020-05-25,nowcast,1.3,0.8,1.8,1,1.4,0.16
-PB-Cajazeiras,2020-05-26,nowcast,1.2,0.7,1.7,1,1.4,0.21
-PB-Cajazeiras,2020-05-27,nowcast,1.2,0.8,1.7,1,1.4,0.2
-PB-Cajazeiras,2020-05-28,nowcast,1.2,0.7,1.7,1,1.4,0.21
-PB-Cajazeiras,2020-05-29,nowcast,1.2,0.7,1.6,1,1.3,0.22
-PB-Cajazeiras,2020-05-30,nowcast,1.2,0.7,1.7,1,1.3,0.2
-PB-Cajazeiras,2020-05-31,nowcast,1.2,0.8,1.6,1,1.3,0.22
-PB-Cajazeiras,2020-06-01,nowcast,1.2,0.8,1.6,1,1.3,0.21
-PB-Cajazeiras,2020-06-02,nowcast,1.2,0.8,1.6,1,1.4,0.19
-PB-Cajazeiras,2020-06-03,nowcast,1.2,0.8,1.6,1,1.3,0.17
-PB-Cajazeiras,2020-06-04,nowcast,1.2,0.8,1.6,1.1,1.4,0.15
-PB-Cajazeiras,2020-06-05,nowcast,1.2,0.8,1.6,1.1,1.3,0.16
-PB-Cajazeiras,2020-06-06,nowcast,1.2,0.8,1.6,1.1,1.3,0.16
-PB-Cajazeiras,2020-06-07,nowcast,1.2,0.8,1.5,1,1.3,0.19
-PB-Cajazeiras,2020-06-08,nowcast,1.2,0.8,1.5,1,1.3,0.21
-PB-Cajazeiras,2020-06-09,nowcast,1.2,0.8,1.5,1,1.3,0.21
+PB-Cajazeiras,2020-05-04,nowcast,1.1,0.2,2.1,0.7,1.4,0.39
+PB-Cajazeiras,2020-05-05,nowcast,1.2,0.3,2.3,0.7,1.4,0.37
+PB-Cajazeiras,2020-05-06,nowcast,1.2,0.3,2.4,0.8,1.5,0.33
+PB-Cajazeiras,2020-05-07,nowcast,1.2,0.3,2.4,0.8,1.5,0.32
+PB-Cajazeiras,2020-05-08,nowcast,1.3,0.3,2.3,0.9,1.6,0.28
+PB-Cajazeiras,2020-05-09,nowcast,1.3,0.4,2.3,0.8,1.4,0.29
+PB-Cajazeiras,2020-05-10,nowcast,1.3,0.4,2.4,0.9,1.6,0.28
+PB-Cajazeiras,2020-05-11,nowcast,1.3,0.4,2.3,0.9,1.6,0.27
+PB-Cajazeiras,2020-05-12,nowcast,1.3,0.4,2.3,0.9,1.5,0.25
+PB-Cajazeiras,2020-05-13,nowcast,1.3,0.5,2.3,0.9,1.6,0.23
+PB-Cajazeiras,2020-05-14,nowcast,1.3,0.5,2.3,1,1.6,0.21
+PB-Cajazeiras,2020-05-15,nowcast,1.4,0.6,2.3,1,1.6,0.2
+PB-Cajazeiras,2020-05-16,nowcast,1.4,0.6,2.3,1,1.6,0.18
+PB-Cajazeiras,2020-05-17,nowcast,1.4,0.6,2.2,1.1,1.6,0.17
+PB-Cajazeiras,2020-05-18,nowcast,1.4,0.7,2.2,1,1.6,0.16
+PB-Cajazeiras,2020-05-19,nowcast,1.4,0.8,2.2,1.1,1.6,0.13
+PB-Cajazeiras,2020-05-20,nowcast,1.4,0.8,2.1,1.1,1.6,0.11
+PB-Cajazeiras,2020-05-21,nowcast,1.4,0.7,2.1,1.1,1.6,0.12
+PB-Cajazeiras,2020-05-22,nowcast,1.4,0.8,2.1,1.1,1.6,0.11
+PB-Cajazeiras,2020-05-23,nowcast,1.4,0.8,2,1.1,1.6,0.13
+PB-Cajazeiras,2020-05-24,nowcast,1.3,0.7,1.9,1.1,1.5,0.15
+PB-Cajazeiras,2020-05-25,nowcast,1.3,0.8,1.8,1.1,1.5,0.17
+PB-Cajazeiras,2020-05-26,nowcast,1.3,0.7,1.8,1,1.4,0.19
+PB-Cajazeiras,2020-05-27,nowcast,1.2,0.7,1.7,1,1.4,0.2
+PB-Cajazeiras,2020-05-28,nowcast,1.2,0.7,1.6,1,1.4,0.22
+PB-Cajazeiras,2020-05-29,nowcast,1.2,0.7,1.6,1,1.3,0.2
+PB-Cajazeiras,2020-05-30,nowcast,1.2,0.7,1.6,1,1.4,0.2
+PB-Cajazeiras,2020-05-31,nowcast,1.2,0.8,1.6,1,1.4,0.2
+PB-Cajazeiras,2020-06-01,nowcast,1.2,0.8,1.6,1,1.3,0.18
+PB-Cajazeiras,2020-06-02,nowcast,1.2,0.8,1.6,1,1.3,0.18
+PB-Cajazeiras,2020-06-03,nowcast,1.2,0.8,1.6,1.1,1.3,0.17
+PB-Cajazeiras,2020-06-04,nowcast,1.2,0.8,1.6,1,1.3,0.17
+PB-Cajazeiras,2020-06-05,nowcast,1.2,0.8,1.6,1.1,1.4,0.17
+PB-Cajazeiras,2020-06-06,nowcast,1.2,0.8,1.5,1,1.3,0.18
+PB-Cajazeiras,2020-06-07,nowcast,1.2,0.8,1.6,1,1.3,0.19
+PB-Cajazeiras,2020-06-08,nowcast,1.2,0.8,1.5,1,1.3,0.2
+PB-Cajazeiras,2020-06-09,nowcast,1.2,0.8,1.5,1,1.3,0.19
 PB-Cajazeiras,2020-06-10,nowcast,1.2,0.8,1.5,1,1.3,0.19
-PB-Cajazeiras,2020-06-11,nowcast,1.2,0.8,1.5,1,1.3,0.19
-PB-Cajazeiras,2020-06-12,nowcast,1.2,0.8,1.5,1,1.3,0.19
-PB-Cajazeiras,2020-06-13,nowcast,1.2,0.9,1.5,1,1.3,0.18
-PB-Cajazeiras,2020-06-14,nowcast,1.2,0.9,1.5,1,1.3,0.19
-PB-Cajazeiras,2020-06-15,nowcast,1.1,0.8,1.5,1,1.3,0.21
+PB-Cajazeiras,2020-06-11,nowcast,1.2,0.8,1.5,1,1.3,0.2
+PB-Cajazeiras,2020-06-12,nowcast,1.2,0.9,1.5,1,1.3,0.18
+PB-Cajazeiras,2020-06-13,nowcast,1.2,0.8,1.5,1,1.3,0.17
+PB-Cajazeiras,2020-06-14,nowcast,1.1,0.8,1.5,1,1.3,0.22
+PB-Cajazeiras,2020-06-15,nowcast,1.1,0.8,1.4,1,1.3,0.22
 PB-Cajazeiras,2020-06-16,nowcast,1.1,0.8,1.4,1,1.2,0.23
-PB-Cajazeiras,2020-06-17,nowcast,1.1,0.8,1.4,1,1.2,0.25
+PB-Cajazeiras,2020-06-17,nowcast,1.1,0.8,1.4,1,1.2,0.24
 PB-Cajazeiras,2020-06-18,nowcast,1.1,0.8,1.4,1,1.2,0.27
-PB-Cajazeiras,2020-06-19,nowcast,1.1,0.8,1.4,1,1.2,0.27
-PB-Cajazeiras,2020-06-20,nowcast,1.1,0.8,1.4,1,1.2,0.3
-PB-Cajazeiras,2020-06-21,nowcast,1.1,0.8,1.4,1,1.2,0.33
-PB-Cajazeiras,2020-06-22,nowcast,1.1,0.8,1.3,1,1.2,0.34
+PB-Cajazeiras,2020-06-19,nowcast,1.1,0.8,1.4,1,1.2,0.28
+PB-Cajazeiras,2020-06-20,nowcast,1.1,0.8,1.4,1,1.2,0.32
+PB-Cajazeiras,2020-06-21,nowcast,1.1,0.8,1.3,1,1.2,0.33
+PB-Cajazeiras,2020-06-22,nowcast,1.1,0.8,1.3,0.9,1.1,0.35
 PB-Cajazeiras,2020-06-23,nowcast,1.1,0.8,1.3,0.9,1.1,0.33
-PB-Cajazeiras,2020-06-24,nowcast,1.1,0.8,1.3,1,1.2,0.33
-PB-Cajazeiras,2020-06-25,nowcast,1.1,0.8,1.4,1,1.2,0.31
-PB-Cajazeiras,2020-06-26,nowcast,1.1,0.8,1.4,1,1.2,0.31
-PB-Cajazeiras,2020-06-27,nowcast,1.1,0.8,1.4,1,1.2,0.3
-PB-Cajazeiras,2020-06-28,nowcast,1.1,0.8,1.3,1,1.2,0.31
-PB-Cajazeiras,2020-06-29,nowcast,1.1,0.8,1.3,0.9,1.1,0.33
-PB-Cajazeiras,2020-06-30,nowcast,1.1,0.8,1.3,0.9,1.1,0.35
-PB-Cajazeiras,2020-07-01,nowcast,1.1,0.8,1.3,0.9,1.1,0.35
-PB-Cajazeiras,2020-07-02,nowcast,1.1,0.8,1.3,1,1.2,0.33
-PB-Cajazeiras,2020-07-03,nowcast,1.1,0.8,1.3,1,1.1,0.31
-PB-Cajazeiras,2020-07-04,nowcast,1.1,0.8,1.3,1,1.2,0.3
-PB-Cajazeiras,2020-07-05,nowcast,1.1,0.8,1.4,1,1.2,0.29
-PB-Cajazeiras,2020-07-06,nowcast,1.1,0.8,1.4,1,1.2,0.29
-PB-Cajazeiras,2020-07-07,nowcast,1.1,0.8,1.4,1,1.2,0.28
-PB-Cajazeiras,2020-07-08,forecast,1.1,0.8,1.4,0.9,1.2,0.32
-PB-Cajazeiras,2020-07-09,forecast,1.1,0.8,1.4,1,1.2,0.34
-PB-Cajazeiras,2020-07-10,forecast,1.1,0.7,1.4,0.9,1.2,0.35
-PB-Cajazeiras,2020-07-11,forecast,1.1,0.7,1.4,0.9,1.2,0.35
-PB-Cajazeiras,2020-07-12,forecast,1.1,0.7,1.5,0.9,1.2,0.35
-PB-Cajazeiras,2020-07-13,forecast,1.1,0.7,1.5,0.9,1.2,0.37
-PB-Cajazeiras,2020-07-14,forecast,1.1,0.7,1.5,0.9,1.3,0.37
-PB-Cajazeiras,2020-07-15,forecast,1.1,0.7,1.5,0.9,1.3,0.36
-PB-Cajazeiras,2020-07-16,forecast,1.1,0.6,1.5,0.9,1.3,0.37
-PB-Cajazeiras,2020-07-17,forecast,1.1,0.6,1.5,0.9,1.3,0.38
-PB-Cajazeiras,2020-07-18,forecast,1.1,0.6,1.6,0.9,1.3,0.37
-PB-Cajazeiras,2020-07-19,forecast,1.1,0.6,1.6,0.9,1.3,0.38
-PB-Cajazeiras,2020-07-20,forecast,1.1,0.6,1.6,0.9,1.2,0.37
-PB-Cajazeiras,2020-07-21,forecast,1.1,0.6,1.6,0.9,1.3,0.39
-PB-Campina Grande,2020-04-21,nowcast,1.2,0.7,2,1,1.5,0.24
-PB-Campina Grande,2020-04-22,nowcast,1.3,0.6,1.9,1,1.5,0.23
-PB-Campina Grande,2020-04-23,nowcast,1.3,0.7,2,1,1.5,0.18
+PB-Cajazeiras,2020-06-24,nowcast,1.1,0.8,1.4,1,1.2,0.32
+PB-Cajazeiras,2020-06-25,nowcast,1.1,0.8,1.3,0.9,1.1,0.32
+PB-Cajazeiras,2020-06-26,nowcast,1.1,0.8,1.4,1,1.2,0.3
+PB-Cajazeiras,2020-06-27,nowcast,1.1,0.8,1.4,1,1.2,0.31
+PB-Cajazeiras,2020-06-28,nowcast,1.1,0.8,1.4,0.9,1.1,0.32
+PB-Cajazeiras,2020-06-29,nowcast,1.1,0.8,1.3,1,1.2,0.32
+PB-Cajazeiras,2020-06-30,nowcast,1.1,0.8,1.3,1,1.1,0.34
+PB-Cajazeiras,2020-07-01,nowcast,1.1,0.8,1.3,0.9,1.1,0.32
+PB-Cajazeiras,2020-07-02,nowcast,1.1,0.8,1.3,1,1.1,0.32
+PB-Cajazeiras,2020-07-03,nowcast,1.1,0.8,1.4,1,1.2,0.29
+PB-Cajazeiras,2020-07-04,nowcast,1.1,0.8,1.3,1,1.2,0.29
+PB-Cajazeiras,2020-07-05,nowcast,1.1,0.8,1.3,1,1.2,0.25
+PB-Cajazeiras,2020-07-06,nowcast,1.1,0.8,1.4,1,1.2,0.25
+PB-Cajazeiras,2020-07-07,nowcast,1.1,0.9,1.4,1,1.2,0.2
+PB-Cajazeiras,2020-07-08,nowcast,1.1,0.9,1.4,1,1.2,0.19
+PB-Cajazeiras,2020-07-09,forecast,1.1,0.8,1.4,1,1.2,0.26
+PB-Cajazeiras,2020-07-10,forecast,1.1,0.8,1.4,1,1.2,0.28
+PB-Cajazeiras,2020-07-11,forecast,1.1,0.8,1.5,0.9,1.2,0.3
+PB-Cajazeiras,2020-07-12,forecast,1.1,0.7,1.5,1,1.2,0.3
+PB-Cajazeiras,2020-07-13,forecast,1.1,0.7,1.5,0.9,1.2,0.32
+PB-Cajazeiras,2020-07-14,forecast,1.1,0.7,1.5,0.9,1.3,0.31
+PB-Cajazeiras,2020-07-15,forecast,1.1,0.7,1.6,1,1.3,0.32
+PB-Cajazeiras,2020-07-16,forecast,1.1,0.7,1.5,0.9,1.3,0.33
+PB-Cajazeiras,2020-07-17,forecast,1.1,0.7,1.6,0.9,1.3,0.33
+PB-Cajazeiras,2020-07-18,forecast,1.1,0.7,1.6,0.9,1.3,0.33
+PB-Cajazeiras,2020-07-19,forecast,1.1,0.6,1.6,0.9,1.3,0.34
+PB-Cajazeiras,2020-07-20,forecast,1.1,0.6,1.6,0.9,1.3,0.34
+PB-Cajazeiras,2020-07-21,forecast,1.1,0.6,1.6,0.9,1.3,0.34
+PB-Cajazeiras,2020-07-22,forecast,1.1,0.6,1.6,0.9,1.3,0.35
+PB-Campina Grande,2020-04-21,nowcast,1.2,0.6,1.9,1,1.5,0.25
+PB-Campina Grande,2020-04-22,nowcast,1.3,0.6,2,1,1.5,0.22
+PB-Campina Grande,2020-04-23,nowcast,1.3,0.7,2,1,1.5,0.19
 PB-Campina Grande,2020-04-24,nowcast,1.3,0.7,2,1,1.5,0.16
-PB-Campina Grande,2020-04-25,nowcast,1.4,0.8,2,1.1,1.6,0.12
-PB-Campina Grande,2020-04-26,nowcast,1.4,0.9,2.1,1.2,1.6,0.08
-PB-Campina Grande,2020-04-27,nowcast,1.5,0.9,2.1,1.2,1.7,0.07
-PB-Campina Grande,2020-04-28,nowcast,1.5,0.9,2.1,1.3,1.7,0.04
+PB-Campina Grande,2020-04-25,nowcast,1.4,0.8,2.1,1.1,1.5,0.12
+PB-Campina Grande,2020-04-26,nowcast,1.4,0.8,2.1,1.1,1.6,0.1
+PB-Campina Grande,2020-04-27,nowcast,1.5,0.9,2.1,1.2,1.6,0.06
+PB-Campina Grande,2020-04-28,nowcast,1.5,0.9,2.1,1.3,1.7,0.05
 PB-Campina Grande,2020-04-29,nowcast,1.5,1,2.1,1.3,1.7,0.03
-PB-Campina Grande,2020-04-30,nowcast,1.6,1,2.1,1.3,1.7,0.02
-PB-Campina Grande,2020-05-01,nowcast,1.6,1.1,2.1,1.3,1.7,0.02
-PB-Campina Grande,2020-05-02,nowcast,1.6,1.1,2.1,1.4,1.7,0.01
-PB-Campina Grande,2020-05-03,nowcast,1.6,1.2,2.1,1.4,1.7,0.01
-PB-Campina Grande,2020-05-04,nowcast,1.6,1.2,2.1,1.4,1.7,0.01
-PB-Campina Grande,2020-05-05,nowcast,1.6,1.2,2,1.4,1.7,0
+PB-Campina Grande,2020-04-30,nowcast,1.6,1.1,2.2,1.3,1.7,0.02
+PB-Campina Grande,2020-05-01,nowcast,1.6,1.1,2.2,1.4,1.8,0.02
+PB-Campina Grande,2020-05-02,nowcast,1.6,1.2,2.1,1.4,1.8,0.01
+PB-Campina Grande,2020-05-03,nowcast,1.6,1.1,2.1,1.4,1.8,0.01
+PB-Campina Grande,2020-05-04,nowcast,1.6,1.2,2.1,1.4,1.8,0.01
+PB-Campina Grande,2020-05-05,nowcast,1.6,1.2,2,1.4,1.8,0
 PB-Campina Grande,2020-05-06,nowcast,1.6,1.2,2,1.4,1.7,0
-PB-Campina Grande,2020-05-07,nowcast,1.6,1.2,1.9,1.4,1.7,0
+PB-Campina Grande,2020-05-07,nowcast,1.6,1.2,2,1.4,1.7,0
 PB-Campina Grande,2020-05-08,nowcast,1.6,1.2,1.9,1.4,1.7,0
 PB-Campina Grande,2020-05-09,nowcast,1.6,1.2,1.9,1.4,1.7,0
-PB-Campina Grande,2020-05-10,nowcast,1.5,1.2,1.8,1.4,1.6,0
+PB-Campina Grande,2020-05-10,nowcast,1.5,1.2,1.9,1.4,1.6,0
 PB-Campina Grande,2020-05-11,nowcast,1.5,1.2,1.8,1.4,1.6,0
-PB-Campina Grande,2020-05-12,nowcast,1.5,1.2,1.8,1.4,1.6,0
-PB-Campina Grande,2020-05-13,nowcast,1.5,1.2,1.7,1.3,1.5,0
+PB-Campina Grande,2020-05-12,nowcast,1.5,1.2,1.8,1.3,1.6,0
+PB-Campina Grande,2020-05-13,nowcast,1.5,1.2,1.7,1.3,1.6,0
 PB-Campina Grande,2020-05-14,nowcast,1.4,1.2,1.7,1.3,1.5,0
 PB-Campina Grande,2020-05-15,nowcast,1.4,1.2,1.7,1.3,1.5,0
-PB-Campina Grande,2020-05-16,nowcast,1.4,1.2,1.6,1.3,1.5,0
+PB-Campina Grande,2020-05-16,nowcast,1.4,1.2,1.7,1.3,1.5,0
 PB-Campina Grande,2020-05-17,nowcast,1.4,1.2,1.6,1.3,1.5,0
-PB-Campina Grande,2020-05-18,nowcast,1.3,1.1,1.5,1.3,1.4,0
+PB-Campina Grande,2020-05-18,nowcast,1.3,1.1,1.6,1.3,1.4,0
 PB-Campina Grande,2020-05-19,nowcast,1.3,1.1,1.5,1.2,1.4,0.01
-PB-Campina Grande,2020-05-20,nowcast,1.2,1.1,1.4,1.2,1.3,0.01
-PB-Campina Grande,2020-05-21,nowcast,1.2,1.1,1.4,1.2,1.3,0.02
+PB-Campina Grande,2020-05-20,nowcast,1.3,1.1,1.5,1.2,1.3,0.02
+PB-Campina Grande,2020-05-21,nowcast,1.2,1.1,1.4,1.1,1.3,0.02
 PB-Campina Grande,2020-05-22,nowcast,1.2,1,1.4,1.2,1.3,0.02
-PB-Campina Grande,2020-05-23,nowcast,1.2,1,1.3,1.1,1.3,0.02
+PB-Campina Grande,2020-05-23,nowcast,1.2,1,1.4,1.1,1.3,0.02
 PB-Campina Grande,2020-05-24,nowcast,1.2,1.1,1.3,1.1,1.2,0.01
-PB-Campina Grande,2020-05-25,nowcast,1.2,1,1.3,1.1,1.2,0.02
+PB-Campina Grande,2020-05-25,nowcast,1.2,1.1,1.3,1.1,1.2,0.01
 PB-Campina Grande,2020-05-26,nowcast,1.2,1.1,1.3,1.1,1.2,0.01
 PB-Campina Grande,2020-05-27,nowcast,1.2,1.1,1.3,1.1,1.2,0.01
 PB-Campina Grande,2020-05-28,nowcast,1.2,1.1,1.3,1.1,1.2,0.01
-PB-Campina Grande,2020-05-29,nowcast,1.2,1.1,1.3,1.2,1.3,0
-PB-Campina Grande,2020-05-30,nowcast,1.2,1.1,1.3,1.2,1.2,0
-PB-Campina Grande,2020-05-31,nowcast,1.2,1.1,1.3,1.2,1.3,0
-PB-Campina Grande,2020-06-01,nowcast,1.2,1.1,1.3,1.1,1.2,0.01
+PB-Campina Grande,2020-05-29,nowcast,1.2,1.1,1.3,1.1,1.2,0
+PB-Campina Grande,2020-05-30,nowcast,1.2,1.1,1.4,1.2,1.3,0
+PB-Campina Grande,2020-05-31,nowcast,1.2,1.1,1.3,1.1,1.2,0
+PB-Campina Grande,2020-06-01,nowcast,1.2,1.1,1.3,1.1,1.2,0
 PB-Campina Grande,2020-06-02,nowcast,1.2,1,1.3,1.1,1.2,0.02
-PB-Campina Grande,2020-06-03,nowcast,1.2,1,1.3,1.1,1.2,0.03
-PB-Campina Grande,2020-06-04,nowcast,1.1,1,1.2,1.1,1.2,0.06
+PB-Campina Grande,2020-06-03,nowcast,1.2,1,1.3,1.1,1.2,0.04
+PB-Campina Grande,2020-06-04,nowcast,1.1,1,1.3,1.1,1.2,0.06
 PB-Campina Grande,2020-06-05,nowcast,1.1,0.9,1.2,1,1.1,0.15
 PB-Campina Grande,2020-06-06,nowcast,1,0.9,1.2,1,1.1,0.31
-PB-Campina Grande,2020-06-07,nowcast,1,0.9,1.1,0.9,1,0.53
-PB-Campina Grande,2020-06-08,nowcast,1,0.8,1.1,0.9,1,0.75
-PB-Campina Grande,2020-06-09,nowcast,0.9,0.8,1,0.9,1,0.9
+PB-Campina Grande,2020-06-07,nowcast,1,0.9,1.1,0.9,1,0.55
+PB-Campina Grande,2020-06-08,nowcast,1,0.8,1.1,0.9,1,0.76
+PB-Campina Grande,2020-06-09,nowcast,0.9,0.8,1,0.9,1,0.89
 PB-Campina Grande,2020-06-10,nowcast,0.9,0.8,1,0.9,0.9,0.96
 PB-Campina Grande,2020-06-11,nowcast,0.9,0.8,1,0.9,0.9,0.98
 PB-Campina Grande,2020-06-12,nowcast,0.9,0.8,1,0.9,0.9,0.98
-PB-Campina Grande,2020-06-13,nowcast,0.9,0.8,1,0.8,0.9,0.98
-PB-Campina Grande,2020-06-14,nowcast,0.9,0.8,1,0.8,0.9,0.99
+PB-Campina Grande,2020-06-13,nowcast,0.9,0.8,1,0.9,0.9,0.99
+PB-Campina Grande,2020-06-14,nowcast,0.9,0.8,1,0.8,0.9,0.98
 PB-Campina Grande,2020-06-15,nowcast,0.9,0.8,0.9,0.8,0.9,0.99
 PB-Campina Grande,2020-06-16,nowcast,0.8,0.7,0.9,0.8,0.9,1
 PB-Campina Grande,2020-06-17,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
-PB-Campina Grande,2020-06-18,nowcast,0.9,0.8,1,0.8,0.9,0.98
+PB-Campina Grande,2020-06-18,nowcast,0.8,0.8,0.9,0.8,0.9,0.98
 PB-Campina Grande,2020-06-19,nowcast,0.9,0.8,1,0.8,0.9,0.95
-PB-Campina Grande,2020-06-20,nowcast,0.9,0.8,1,0.8,0.9,0.91
-PB-Campina Grande,2020-06-21,nowcast,0.9,0.8,1,0.8,0.9,0.88
-PB-Campina Grande,2020-06-22,nowcast,0.9,0.8,1,0.9,0.9,0.89
-PB-Campina Grande,2020-06-23,nowcast,0.9,0.8,1,0.9,1,0.91
-PB-Campina Grande,2020-06-24,nowcast,0.9,0.8,1,0.9,0.9,0.88
-PB-Campina Grande,2020-06-25,nowcast,0.9,0.8,1.1,0.9,1,0.83
-PB-Campina Grande,2020-06-26,nowcast,1,0.8,1.1,0.9,1,0.68
+PB-Campina Grande,2020-06-20,nowcast,0.9,0.8,1,0.8,0.9,0.9
+PB-Campina Grande,2020-06-21,nowcast,0.9,0.8,1,0.8,0.9,0.87
+PB-Campina Grande,2020-06-22,nowcast,0.9,0.8,1,0.8,0.9,0.9
+PB-Campina Grande,2020-06-23,nowcast,0.9,0.8,1,0.9,0.9,0.9
+PB-Campina Grande,2020-06-24,nowcast,0.9,0.8,1,0.9,1,0.89
+PB-Campina Grande,2020-06-25,nowcast,0.9,0.8,1.1,0.9,1,0.8
+PB-Campina Grande,2020-06-26,nowcast,1,0.8,1.1,0.9,1,0.69
 PB-Campina Grande,2020-06-27,nowcast,1,0.9,1.2,0.9,1,0.48
-PB-Campina Grande,2020-06-28,nowcast,1,0.9,1.2,1,1.1,0.3
-PB-Campina Grande,2020-06-29,nowcast,1.1,0.9,1.2,1,1.1,0.2
-PB-Campina Grande,2020-06-30,nowcast,1.1,1,1.2,1,1.1,0.12
-PB-Campina Grande,2020-07-01,nowcast,1.1,1,1.2,1,1.1,0.1
-PB-Campina Grande,2020-07-02,nowcast,1.1,1,1.2,1,1.1,0.11
-PB-Campina Grande,2020-07-03,nowcast,1.1,1,1.2,1,1.1,0.15
-PB-Campina Grande,2020-07-04,nowcast,1.1,0.9,1.2,1,1.1,0.23
-PB-Campina Grande,2020-07-05,nowcast,1,0.9,1.1,1,1.1,0.38
-PB-Campina Grande,2020-07-06,nowcast,1,0.9,1.1,1,1.1,0.52
-PB-Campina Grande,2020-07-07,nowcast,1,0.8,1.1,0.9,1,0.62
-PB-Campina Grande,2020-07-08,forecast,1,0.8,1.1,0.9,1.1,0.56
-PB-Campina Grande,2020-07-09,forecast,1,0.8,1.2,0.9,1.1,0.55
-PB-Campina Grande,2020-07-10,forecast,1,0.8,1.2,0.9,1.1,0.53
-PB-Campina Grande,2020-07-11,forecast,1,0.8,1.2,0.9,1.1,0.52
-PB-Campina Grande,2020-07-12,forecast,1,0.7,1.2,0.9,1.1,0.52
-PB-Campina Grande,2020-07-13,forecast,1,0.7,1.3,0.9,1.1,0.51
-PB-Campina Grande,2020-07-14,forecast,1,0.7,1.3,0.9,1.1,0.52
-PB-Campina Grande,2020-07-15,forecast,1,0.7,1.3,0.9,1.1,0.51
-PB-Campina Grande,2020-07-16,forecast,1,0.7,1.3,0.9,1.1,0.51
-PB-Campina Grande,2020-07-17,forecast,1,0.6,1.3,0.9,1.1,0.5
-PB-Campina Grande,2020-07-18,forecast,1,0.6,1.3,0.9,1.1,0.51
-PB-Campina Grande,2020-07-19,forecast,1,0.6,1.4,0.9,1.2,0.5
-PB-Campina Grande,2020-07-20,forecast,1,0.6,1.4,0.9,1.1,0.49
-PB-Campina Grande,2020-07-21,forecast,1,0.6,1.4,0.9,1.2,0.5
-PB-Guarabira,2020-05-02,nowcast,1.4,1,2,1.2,1.6,0.06
-PB-Guarabira,2020-05-03,nowcast,1.4,1,2,1.2,1.6,0.07
-PB-Guarabira,2020-05-04,nowcast,1.4,1,1.9,1.2,1.6,0.06
-PB-Guarabira,2020-05-05,nowcast,1.4,0.9,1.8,1.2,1.5,0.07
+PB-Campina Grande,2020-06-28,nowcast,1,0.9,1.2,1,1.1,0.29
+PB-Campina Grande,2020-06-29,nowcast,1.1,0.9,1.2,1,1.1,0.17
+PB-Campina Grande,2020-06-30,nowcast,1.1,1,1.2,1,1.1,0.09
+PB-Campina Grande,2020-07-01,nowcast,1.1,1,1.2,1,1.1,0.09
+PB-Campina Grande,2020-07-02,nowcast,1.1,1,1.2,1,1.1,0.09
+PB-Campina Grande,2020-07-03,nowcast,1.1,1,1.2,1,1.1,0.12
+PB-Campina Grande,2020-07-04,nowcast,1.1,0.9,1.2,1,1.1,0.18
+PB-Campina Grande,2020-07-05,nowcast,1,0.9,1.1,1,1.1,0.27
+PB-Campina Grande,2020-07-06,nowcast,1,0.9,1.1,1,1.1,0.38
+PB-Campina Grande,2020-07-07,nowcast,1,0.9,1.1,1,1.1,0.44
+PB-Campina Grande,2020-07-08,nowcast,1,0.9,1.1,1,1.1,0.42
+PB-Campina Grande,2020-07-09,forecast,1,0.9,1.2,1,1.1,0.44
+PB-Campina Grande,2020-07-10,forecast,1,0.8,1.2,0.9,1.1,0.44
+PB-Campina Grande,2020-07-11,forecast,1,0.8,1.2,0.9,1.1,0.44
+PB-Campina Grande,2020-07-12,forecast,1,0.8,1.2,1,1.1,0.43
+PB-Campina Grande,2020-07-13,forecast,1,0.8,1.3,0.9,1.1,0.44
+PB-Campina Grande,2020-07-14,forecast,1,0.7,1.3,0.9,1.1,0.42
+PB-Campina Grande,2020-07-15,forecast,1,0.7,1.3,0.9,1.2,0.43
+PB-Campina Grande,2020-07-16,forecast,1,0.7,1.3,0.9,1.2,0.43
+PB-Campina Grande,2020-07-17,forecast,1,0.7,1.3,0.9,1.1,0.45
+PB-Campina Grande,2020-07-18,forecast,1,0.7,1.4,0.9,1.2,0.45
+PB-Campina Grande,2020-07-19,forecast,1,0.7,1.4,0.9,1.2,0.45
+PB-Campina Grande,2020-07-20,forecast,1,0.7,1.4,0.9,1.2,0.45
+PB-Campina Grande,2020-07-21,forecast,1,0.7,1.4,0.9,1.2,0.44
+PB-Campina Grande,2020-07-22,forecast,1,0.7,1.4,0.9,1.2,0.43
+PB-Guarabira,2020-05-02,nowcast,1.4,0.9,1.9,1.2,1.6,0.07
+PB-Guarabira,2020-05-03,nowcast,1.4,0.9,1.9,1.2,1.6,0.07
+PB-Guarabira,2020-05-04,nowcast,1.4,0.9,1.9,1.2,1.6,0.08
+PB-Guarabira,2020-05-05,nowcast,1.4,0.9,1.9,1.2,1.5,0.07
 PB-Guarabira,2020-05-06,nowcast,1.4,1,1.8,1.2,1.5,0.06
-PB-Guarabira,2020-05-07,nowcast,1.4,0.9,1.8,1.2,1.5,0.06
-PB-Guarabira,2020-05-08,nowcast,1.3,1,1.7,1.2,1.5,0.04
-PB-Guarabira,2020-05-09,nowcast,1.3,1,1.7,1.2,1.5,0.04
+PB-Guarabira,2020-05-07,nowcast,1.4,1,1.8,1.2,1.5,0.05
+PB-Guarabira,2020-05-08,nowcast,1.3,1,1.7,1.2,1.5,0.05
+PB-Guarabira,2020-05-09,nowcast,1.4,1,1.8,1.2,1.5,0.04
 PB-Guarabira,2020-05-10,nowcast,1.4,1,1.7,1.2,1.5,0.04
-PB-Guarabira,2020-05-11,nowcast,1.4,1,1.7,1.2,1.5,0.04
+PB-Guarabira,2020-05-11,nowcast,1.4,1,1.7,1.2,1.5,0.03
 PB-Guarabira,2020-05-12,nowcast,1.4,1,1.7,1.2,1.5,0.03
-PB-Guarabira,2020-05-13,nowcast,1.3,1,1.7,1.2,1.5,0.03
-PB-Guarabira,2020-05-14,nowcast,1.3,1,1.6,1.2,1.4,0.03
-PB-Guarabira,2020-05-15,nowcast,1.3,1,1.6,1.2,1.4,0.04
-PB-Guarabira,2020-05-16,nowcast,1.3,1,1.6,1.1,1.4,0.06
+PB-Guarabira,2020-05-13,nowcast,1.4,1,1.7,1.2,1.5,0.03
+PB-Guarabira,2020-05-14,nowcast,1.3,1,1.7,1.2,1.4,0.03
+PB-Guarabira,2020-05-15,nowcast,1.3,1,1.6,1.2,1.4,0.05
+PB-Guarabira,2020-05-16,nowcast,1.3,1,1.6,1.1,1.4,0.07
 PB-Guarabira,2020-05-17,nowcast,1.2,1,1.5,1.1,1.3,0.08
-PB-Guarabira,2020-05-18,nowcast,1.2,0.9,1.4,1.1,1.3,0.13
-PB-Guarabira,2020-05-19,nowcast,1.1,0.9,1.4,1.1,1.3,0.18
-PB-Guarabira,2020-05-20,nowcast,1.1,0.9,1.3,1,1.2,0.24
-PB-Guarabira,2020-05-21,nowcast,1.1,0.9,1.3,1,1.2,0.26
+PB-Guarabira,2020-05-18,nowcast,1.2,0.9,1.4,1.1,1.3,0.12
+PB-Guarabira,2020-05-19,nowcast,1.1,0.9,1.4,1.1,1.2,0.16
+PB-Guarabira,2020-05-20,nowcast,1.1,0.8,1.3,1,1.2,0.24
+PB-Guarabira,2020-05-21,nowcast,1.1,0.8,1.3,1,1.2,0.26
 PB-Guarabira,2020-05-22,nowcast,1.1,0.8,1.3,1,1.2,0.27
-PB-Guarabira,2020-05-23,nowcast,1.1,0.9,1.3,1,1.1,0.26
-PB-Guarabira,2020-05-24,nowcast,1.1,0.9,1.3,1,1.1,0.24
-PB-Guarabira,2020-05-25,nowcast,1.1,0.9,1.3,1,1.2,0.21
-PB-Guarabira,2020-05-26,nowcast,1.1,0.9,1.3,1,1.2,0.18
-PB-Guarabira,2020-05-27,nowcast,1.1,0.9,1.3,1,1.2,0.14
-PB-Guarabira,2020-05-28,nowcast,1.1,0.9,1.4,1,1.2,0.12
-PB-Guarabira,2020-05-29,nowcast,1.1,0.9,1.4,1.1,1.2,0.11
-PB-Guarabira,2020-05-30,nowcast,1.1,0.9,1.3,1.1,1.2,0.1
-PB-Guarabira,2020-05-31,nowcast,1.1,0.9,1.3,1,1.2,0.13
+PB-Guarabira,2020-05-23,nowcast,1.1,0.9,1.3,1,1.1,0.24
+PB-Guarabira,2020-05-24,nowcast,1.1,0.9,1.3,1,1.2,0.21
+PB-Guarabira,2020-05-25,nowcast,1.1,0.9,1.3,1,1.2,0.2
+PB-Guarabira,2020-05-26,nowcast,1.1,0.9,1.3,1,1.2,0.19
+PB-Guarabira,2020-05-27,nowcast,1.1,0.9,1.3,1,1.2,0.16
+PB-Guarabira,2020-05-28,nowcast,1.1,0.9,1.3,1,1.2,0.12
+PB-Guarabira,2020-05-29,nowcast,1.1,0.9,1.3,1.1,1.2,0.11
+PB-Guarabira,2020-05-30,nowcast,1.1,0.9,1.3,1.1,1.2,0.11
+PB-Guarabira,2020-05-31,nowcast,1.1,0.9,1.3,1.1,1.2,0.13
 PB-Guarabira,2020-06-01,nowcast,1.1,0.9,1.3,1,1.2,0.16
 PB-Guarabira,2020-06-02,nowcast,1.1,0.9,1.3,1,1.2,0.19
-PB-Guarabira,2020-06-03,nowcast,1.1,0.9,1.3,1,1.2,0.19
-PB-Guarabira,2020-06-04,nowcast,1.1,0.9,1.3,1,1.2,0.18
-PB-Guarabira,2020-06-05,nowcast,1.1,0.9,1.3,1,1.2,0.16
-PB-Guarabira,2020-06-06,nowcast,1.1,0.9,1.3,1,1.2,0.15
-PB-Guarabira,2020-06-07,nowcast,1.1,0.9,1.3,1,1.2,0.17
-PB-Guarabira,2020-06-08,nowcast,1.1,0.9,1.3,1,1.1,0.18
-PB-Guarabira,2020-06-09,nowcast,1.1,0.9,1.2,1,1.1,0.22
-PB-Guarabira,2020-06-10,nowcast,1.1,0.9,1.2,1,1.1,0.24
+PB-Guarabira,2020-06-03,nowcast,1.1,0.9,1.3,1,1.2,0.17
+PB-Guarabira,2020-06-04,nowcast,1.1,0.9,1.3,1,1.2,0.16
+PB-Guarabira,2020-06-05,nowcast,1.1,0.9,1.3,1,1.2,0.15
+PB-Guarabira,2020-06-06,nowcast,1.1,0.9,1.3,1,1.2,0.14
+PB-Guarabira,2020-06-07,nowcast,1.1,0.9,1.3,1,1.2,0.16
+PB-Guarabira,2020-06-08,nowcast,1.1,0.9,1.3,1,1.2,0.2
+PB-Guarabira,2020-06-09,nowcast,1.1,0.9,1.2,1,1.1,0.24
+PB-Guarabira,2020-06-10,nowcast,1.1,0.9,1.2,1,1.1,0.26
 PB-Guarabira,2020-06-11,nowcast,1.1,0.9,1.2,1,1.1,0.26
-PB-Guarabira,2020-06-12,nowcast,1.1,0.9,1.2,1,1.1,0.27
-PB-Guarabira,2020-06-13,nowcast,1.1,0.9,1.2,1,1.1,0.29
-PB-Guarabira,2020-06-14,nowcast,1,0.9,1.2,1,1.1,0.34
-PB-Guarabira,2020-06-15,nowcast,1,0.8,1.2,1,1.1,0.43
-PB-Guarabira,2020-06-16,nowcast,1,0.8,1.2,0.9,1.1,0.51
-PB-Guarabira,2020-06-17,nowcast,1,0.8,1.1,0.9,1,0.61
-PB-Guarabira,2020-06-18,nowcast,1,0.8,1.1,0.9,1,0.67
-PB-Guarabira,2020-06-19,nowcast,0.9,0.8,1.1,0.9,1,0.72
-PB-Guarabira,2020-06-20,nowcast,0.9,0.8,1.1,0.9,1,0.76
+PB-Guarabira,2020-06-12,nowcast,1.1,0.9,1.2,1,1.1,0.26
+PB-Guarabira,2020-06-13,nowcast,1.1,0.9,1.2,1,1.1,0.28
+PB-Guarabira,2020-06-14,nowcast,1,0.9,1.2,1,1.1,0.33
+PB-Guarabira,2020-06-15,nowcast,1,0.9,1.2,1,1.1,0.41
+PB-Guarabira,2020-06-16,nowcast,1,0.8,1.1,0.9,1.1,0.52
+PB-Guarabira,2020-06-17,nowcast,1,0.8,1.1,0.9,1,0.59
+PB-Guarabira,2020-06-18,nowcast,1,0.8,1.1,0.9,1,0.66
+PB-Guarabira,2020-06-19,nowcast,1,0.8,1.1,0.9,1,0.71
+PB-Guarabira,2020-06-20,nowcast,0.9,0.8,1.1,0.9,1,0.75
 PB-Guarabira,2020-06-21,nowcast,0.9,0.8,1.1,0.9,1,0.78
 PB-Guarabira,2020-06-22,nowcast,0.9,0.8,1.1,0.9,1,0.79
 PB-Guarabira,2020-06-23,nowcast,0.9,0.8,1.1,0.9,1,0.79
 PB-Guarabira,2020-06-24,nowcast,0.9,0.8,1.1,0.9,1,0.8
-PB-Guarabira,2020-06-25,nowcast,0.9,0.8,1.1,0.9,1,0.82
-PB-Guarabira,2020-06-26,nowcast,0.9,0.7,1.1,0.9,1,0.83
-PB-Guarabira,2020-06-27,nowcast,0.9,0.7,1.1,0.8,1,0.87
-PB-Guarabira,2020-06-28,nowcast,0.9,0.7,1.1,0.8,0.9,0.89
+PB-Guarabira,2020-06-25,nowcast,0.9,0.7,1.1,0.9,1,0.83
+PB-Guarabira,2020-06-26,nowcast,0.9,0.7,1.1,0.8,1,0.85
+PB-Guarabira,2020-06-27,nowcast,0.9,0.7,1.1,0.8,1,0.86
+PB-Guarabira,2020-06-28,nowcast,0.9,0.7,1,0.8,1,0.91
 PB-Guarabira,2020-06-29,nowcast,0.9,0.7,1,0.8,0.9,0.92
-PB-Guarabira,2020-06-30,nowcast,0.9,0.7,1,0.8,0.9,0.92
+PB-Guarabira,2020-06-30,nowcast,0.9,0.7,1,0.8,0.9,0.93
 PB-Guarabira,2020-07-01,nowcast,0.9,0.7,1,0.8,0.9,0.89
-PB-Guarabira,2020-07-02,nowcast,0.9,0.7,1.1,0.8,1,0.83
-PB-Guarabira,2020-07-03,nowcast,0.9,0.7,1.2,0.8,1,0.75
-PB-Guarabira,2020-07-04,nowcast,1,0.8,1.2,0.8,1,0.64
-PB-Guarabira,2020-07-05,nowcast,1,0.8,1.2,0.9,1,0.57
-PB-Guarabira,2020-07-06,nowcast,1,0.8,1.2,0.9,1.1,0.51
-PB-Guarabira,2020-07-07,nowcast,1,0.8,1.3,0.9,1.1,0.46
-PB-Guarabira,2020-07-08,forecast,1,0.7,1.2,0.9,1.1,0.52
-PB-Guarabira,2020-07-09,forecast,1,0.7,1.2,0.9,1.1,0.54
-PB-Guarabira,2020-07-10,forecast,1,0.7,1.3,0.9,1.1,0.54
-PB-Guarabira,2020-07-11,forecast,1,0.7,1.3,0.8,1.1,0.54
-PB-Guarabira,2020-07-12,forecast,1,0.7,1.3,0.9,1.1,0.53
-PB-Guarabira,2020-07-13,forecast,1,0.7,1.3,0.8,1.1,0.54
-PB-Guarabira,2020-07-14,forecast,1,0.7,1.3,0.8,1.1,0.54
-PB-Guarabira,2020-07-15,forecast,1,0.6,1.4,0.8,1.1,0.53
-PB-Guarabira,2020-07-16,forecast,1,0.6,1.3,0.8,1.1,0.53
-PB-Guarabira,2020-07-17,forecast,1,0.6,1.4,0.8,1.1,0.53
-PB-Guarabira,2020-07-18,forecast,1,0.6,1.3,0.8,1.1,0.55
-PB-Guarabira,2020-07-19,forecast,1,0.6,1.4,0.8,1.1,0.54
-PB-Guarabira,2020-07-20,forecast,1,0.6,1.4,0.8,1.1,0.54
-PB-Guarabira,2020-07-21,forecast,1,0.6,1.4,0.8,1.1,0.53
-PB-Ingá,2020-05-22,nowcast,1.3,0.7,2,1,1.5,0.16
-PB-Ingá,2020-05-23,nowcast,1.3,0.7,1.9,1,1.5,0.19
-PB-Ingá,2020-05-24,nowcast,1.3,0.7,1.9,1,1.5,0.2
+PB-Guarabira,2020-07-02,nowcast,0.9,0.7,1.1,0.8,0.9,0.83
+PB-Guarabira,2020-07-03,nowcast,0.9,0.7,1.1,0.8,1,0.78
+PB-Guarabira,2020-07-04,nowcast,0.9,0.7,1.2,0.8,1,0.7
+PB-Guarabira,2020-07-05,nowcast,1,0.7,1.2,0.9,1,0.64
+PB-Guarabira,2020-07-06,nowcast,1,0.8,1.2,0.9,1,0.6
+PB-Guarabira,2020-07-07,nowcast,1,0.8,1.2,0.9,1,0.58
+PB-Guarabira,2020-07-08,nowcast,1,0.7,1.2,0.9,1.1,0.55
+PB-Guarabira,2020-07-09,forecast,1,0.7,1.2,0.9,1.1,0.57
+PB-Guarabira,2020-07-10,forecast,1,0.7,1.2,0.9,1.1,0.57
+PB-Guarabira,2020-07-11,forecast,1,0.7,1.3,0.8,1.1,0.57
+PB-Guarabira,2020-07-12,forecast,1,0.7,1.3,0.8,1.1,0.58
+PB-Guarabira,2020-07-13,forecast,1,0.7,1.3,0.8,1.1,0.58
+PB-Guarabira,2020-07-14,forecast,1,0.7,1.3,0.8,1.1,0.58
+PB-Guarabira,2020-07-15,forecast,1,0.6,1.3,0.8,1.1,0.57
+PB-Guarabira,2020-07-16,forecast,1,0.7,1.3,0.8,1.1,0.56
+PB-Guarabira,2020-07-17,forecast,1,0.6,1.3,0.8,1.1,0.57
+PB-Guarabira,2020-07-18,forecast,1,0.6,1.4,0.8,1.1,0.56
+PB-Guarabira,2020-07-19,forecast,1,0.6,1.3,0.8,1.1,0.57
+PB-Guarabira,2020-07-20,forecast,1,0.6,1.4,0.8,1.1,0.55
+PB-Guarabira,2020-07-21,forecast,1,0.6,1.4,0.8,1.1,0.57
+PB-Guarabira,2020-07-22,forecast,1,0.6,1.4,0.8,1.1,0.56
+PB-Ingá,2020-05-22,nowcast,1.3,0.7,2,1.1,1.5,0.18
+PB-Ingá,2020-05-23,nowcast,1.3,0.7,2,1.1,1.5,0.19
+PB-Ingá,2020-05-24,nowcast,1.3,0.7,1.9,1,1.5,0.19
 PB-Ingá,2020-05-25,nowcast,1.2,0.7,1.8,1,1.4,0.22
-PB-Ingá,2020-05-26,nowcast,1.2,0.7,1.8,1,1.4,0.23
-PB-Ingá,2020-05-27,nowcast,1.2,0.7,1.7,1,1.4,0.27
-PB-Ingá,2020-05-28,nowcast,1.1,0.6,1.6,0.9,1.3,0.31
-PB-Ingá,2020-05-29,nowcast,1.1,0.6,1.6,0.9,1.3,0.34
-PB-Ingá,2020-05-30,nowcast,1.1,0.7,1.6,0.9,1.3,0.34
-PB-Ingá,2020-05-31,nowcast,1.1,0.7,1.6,0.9,1.3,0.34
-PB-Ingá,2020-06-01,nowcast,1.1,0.7,1.6,0.9,1.3,0.32
-PB-Ingá,2020-06-02,nowcast,1.1,0.7,1.6,1,1.3,0.28
-PB-Ingá,2020-06-03,nowcast,1.1,0.7,1.6,1,1.3,0.26
-PB-Ingá,2020-06-04,nowcast,1.2,0.7,1.7,0.9,1.3,0.26
-PB-Ingá,2020-06-05,nowcast,1.2,0.7,1.6,0.9,1.3,0.27
-PB-Ingá,2020-06-06,nowcast,1.1,0.7,1.6,1,1.3,0.28
-PB-Ingá,2020-06-07,nowcast,1.1,0.7,1.6,0.9,1.3,0.34
-PB-Ingá,2020-06-08,nowcast,1.1,0.7,1.5,0.9,1.2,0.37
-PB-Ingá,2020-06-09,nowcast,1.1,0.7,1.5,0.9,1.2,0.4
-PB-Ingá,2020-06-10,nowcast,1.1,0.6,1.5,0.9,1.2,0.41
-PB-Ingá,2020-06-11,nowcast,1.1,0.7,1.5,0.9,1.2,0.37
-PB-Ingá,2020-06-12,nowcast,1.1,0.7,1.5,0.9,1.2,0.36
-PB-Ingá,2020-06-13,nowcast,1.1,0.7,1.5,0.9,1.2,0.33
-PB-Ingá,2020-06-14,nowcast,1.1,0.7,1.6,0.9,1.2,0.31
-PB-Ingá,2020-06-15,nowcast,1.1,0.7,1.5,0.9,1.2,0.32
-PB-Ingá,2020-06-16,nowcast,1.1,0.7,1.5,0.9,1.2,0.32
-PB-Ingá,2020-06-17,nowcast,1.1,0.7,1.5,0.9,1.2,0.32
+PB-Ingá,2020-05-26,nowcast,1.2,0.7,1.8,1,1.4,0.26
+PB-Ingá,2020-05-27,nowcast,1.2,0.7,1.7,0.9,1.3,0.27
+PB-Ingá,2020-05-28,nowcast,1.1,0.7,1.7,0.9,1.3,0.31
+PB-Ingá,2020-05-29,nowcast,1.1,0.6,1.6,0.9,1.3,0.33
+PB-Ingá,2020-05-30,nowcast,1.1,0.6,1.6,0.9,1.3,0.35
+PB-Ingá,2020-05-31,nowcast,1.1,0.6,1.6,0.9,1.3,0.35
+PB-Ingá,2020-06-01,nowcast,1.1,0.6,1.6,0.9,1.3,0.32
+PB-Ingá,2020-06-02,nowcast,1.1,0.7,1.6,0.9,1.3,0.29
+PB-Ingá,2020-06-03,nowcast,1.1,0.7,1.6,0.9,1.3,0.28
+PB-Ingá,2020-06-04,nowcast,1.1,0.7,1.6,0.9,1.3,0.28
+PB-Ingá,2020-06-05,nowcast,1.1,0.7,1.6,1,1.3,0.27
+PB-Ingá,2020-06-06,nowcast,1.1,0.7,1.6,0.9,1.3,0.3
+PB-Ingá,2020-06-07,nowcast,1.1,0.7,1.5,1,1.3,0.33
+PB-Ingá,2020-06-08,nowcast,1.1,0.6,1.5,0.9,1.2,0.37
+PB-Ingá,2020-06-09,nowcast,1.1,0.7,1.5,0.9,1.2,0.37
+PB-Ingá,2020-06-10,nowcast,1.1,0.7,1.5,0.9,1.2,0.38
+PB-Ingá,2020-06-11,nowcast,1.1,0.7,1.5,0.9,1.2,0.36
+PB-Ingá,2020-06-12,nowcast,1.1,0.7,1.5,0.9,1.2,0.35
+PB-Ingá,2020-06-13,nowcast,1.1,0.7,1.6,0.9,1.2,0.32
+PB-Ingá,2020-06-14,nowcast,1.1,0.7,1.5,0.9,1.2,0.31
+PB-Ingá,2020-06-15,nowcast,1.1,0.7,1.5,0.9,1.2,0.31
+PB-Ingá,2020-06-16,nowcast,1.1,0.7,1.5,1,1.2,0.31
+PB-Ingá,2020-06-17,nowcast,1.1,0.7,1.5,0.9,1.2,0.31
 PB-Ingá,2020-06-18,nowcast,1.1,0.7,1.5,0.9,1.2,0.31
-PB-Ingá,2020-06-19,nowcast,1.1,0.7,1.5,1,1.3,0.28
-PB-Ingá,2020-06-20,nowcast,1.1,0.8,1.5,1,1.3,0.25
-PB-Ingá,2020-06-21,nowcast,1.1,0.8,1.5,1,1.2,0.25
-PB-Ingá,2020-06-22,nowcast,1.1,0.7,1.5,1,1.2,0.28
-PB-Ingá,2020-06-23,nowcast,1.1,0.8,1.5,1,1.2,0.29
+PB-Ingá,2020-06-19,nowcast,1.1,0.7,1.5,0.9,1.2,0.3
+PB-Ingá,2020-06-20,nowcast,1.1,0.7,1.5,0.9,1.2,0.26
+PB-Ingá,2020-06-21,nowcast,1.1,0.8,1.5,1,1.3,0.25
+PB-Ingá,2020-06-22,nowcast,1.1,0.8,1.5,1,1.2,0.27
+PB-Ingá,2020-06-23,nowcast,1.1,0.7,1.5,1,1.2,0.32
 PB-Ingá,2020-06-24,nowcast,1.1,0.7,1.4,0.9,1.2,0.38
-PB-Ingá,2020-06-25,nowcast,1,0.7,1.4,0.9,1.2,0.46
-PB-Ingá,2020-06-26,nowcast,1,0.6,1.3,0.8,1.1,0.54
-PB-Ingá,2020-06-27,nowcast,1,0.6,1.3,0.8,1.1,0.59
+PB-Ingá,2020-06-25,nowcast,1,0.7,1.4,0.9,1.2,0.47
+PB-Ingá,2020-06-26,nowcast,1,0.6,1.3,0.9,1.1,0.53
+PB-Ingá,2020-06-27,nowcast,1,0.6,1.3,0.9,1.1,0.57
 PB-Ingá,2020-06-28,nowcast,1,0.6,1.4,0.8,1.1,0.55
-PB-Ingá,2020-06-29,nowcast,1,0.7,1.5,0.9,1.2,0.45
-PB-Ingá,2020-06-30,nowcast,1.1,0.7,1.6,0.9,1.2,0.31
-PB-Ingá,2020-07-01,nowcast,1.2,0.8,1.8,1,1.3,0.17
-PB-Ingá,2020-07-02,nowcast,1.3,0.9,1.9,1.1,1.4,0.08
+PB-Ingá,2020-06-29,nowcast,1,0.6,1.4,0.9,1.2,0.45
+PB-Ingá,2020-06-30,nowcast,1.1,0.7,1.6,0.9,1.2,0.32
+PB-Ingá,2020-07-01,nowcast,1.2,0.8,1.7,1,1.3,0.18
+PB-Ingá,2020-07-02,nowcast,1.3,0.9,1.8,1.1,1.4,0.08
 PB-Ingá,2020-07-03,nowcast,1.4,1,1.9,1.2,1.5,0.04
-PB-Ingá,2020-07-04,nowcast,1.5,1,1.9,1.3,1.6,0.02
-PB-Ingá,2020-07-05,nowcast,1.5,1.1,1.9,1.3,1.6,0.01
-PB-Ingá,2020-07-06,nowcast,1.5,1.1,1.9,1.3,1.6,0.01
-PB-Ingá,2020-07-07,nowcast,1.5,1.1,1.9,1.3,1.6,0.02
-PB-Ingá,2020-07-08,forecast,1.5,1,2,1.2,1.6,0.06
-PB-Ingá,2020-07-09,forecast,1.5,0.9,2.1,1.2,1.7,0.09
-PB-Ingá,2020-07-10,forecast,1.5,0.8,2.1,1.2,1.7,0.1
-PB-Ingá,2020-07-11,forecast,1.4,0.8,2.2,1.1,1.7,0.13
-PB-Ingá,2020-07-12,forecast,1.5,0.7,2.2,1.2,1.7,0.14
-PB-Ingá,2020-07-13,forecast,1.5,0.7,2.3,1.2,1.8,0.15
-PB-Ingá,2020-07-14,forecast,1.5,0.6,2.4,1.2,1.8,0.16
-PB-Ingá,2020-07-15,forecast,1.5,0.7,2.4,1.1,1.8,0.17
-PB-Ingá,2020-07-16,forecast,1.5,0.5,2.4,1.1,1.8,0.19
-PB-Ingá,2020-07-17,forecast,1.5,0.5,2.4,1.1,1.8,0.19
-PB-Ingá,2020-07-18,forecast,1.5,0.5,2.5,1.1,1.9,0.21
-PB-Ingá,2020-07-19,forecast,1.5,0.5,2.5,1,1.8,0.21
-PB-Ingá,2020-07-20,forecast,1.5,0.4,2.6,1,1.8,0.22
-PB-Ingá,2020-07-21,forecast,1.4,0.4,2.7,0.9,1.8,0.23
+PB-Ingá,2020-07-04,nowcast,1.4,1,1.9,1.2,1.5,0.02
+PB-Ingá,2020-07-05,nowcast,1.5,1.1,2,1.3,1.6,0.02
+PB-Ingá,2020-07-06,nowcast,1.5,1.1,1.9,1.3,1.6,0.02
+PB-Ingá,2020-07-07,nowcast,1.4,1,1.8,1.3,1.6,0.02
+PB-Ingá,2020-07-08,nowcast,1.4,1,1.8,1.2,1.5,0.05
+PB-Ingá,2020-07-09,forecast,1.4,0.9,1.9,1.2,1.6,0.09
+PB-Ingá,2020-07-10,forecast,1.4,0.8,2,1.1,1.6,0.12
+PB-Ingá,2020-07-11,forecast,1.4,0.8,2.1,1.1,1.6,0.14
+PB-Ingá,2020-07-12,forecast,1.4,0.7,2.2,1.1,1.6,0.16
+PB-Ingá,2020-07-13,forecast,1.4,0.7,2.2,1,1.6,0.18
+PB-Ingá,2020-07-14,forecast,1.4,0.7,2.2,1.1,1.7,0.19
+PB-Ingá,2020-07-15,forecast,1.4,0.6,2.3,1.1,1.7,0.19
+PB-Ingá,2020-07-16,forecast,1.4,0.5,2.2,1,1.7,0.22
+PB-Ingá,2020-07-17,forecast,1.4,0.6,2.5,1,1.7,0.21
+PB-Ingá,2020-07-18,forecast,1.4,0.5,2.4,1,1.7,0.23
+PB-Ingá,2020-07-19,forecast,1.4,0.4,2.4,1,1.7,0.23
+PB-Ingá,2020-07-20,forecast,1.4,0.3,2.4,1,1.7,0.24
+PB-Ingá,2020-07-21,forecast,1.4,0.3,2.4,1,1.8,0.24
+PB-Ingá,2020-07-22,forecast,1.4,0.3,2.5,0.9,1.8,0.24
 PB-Itabaiana,2020-05-15,nowcast,1.4,0.9,2,1.2,1.6,0.08
 PB-Itabaiana,2020-05-16,nowcast,1.4,0.9,2,1.2,1.6,0.07
 PB-Itabaiana,2020-05-17,nowcast,1.4,0.9,1.9,1.2,1.6,0.07
@@ -674,42 +679,42 @@ PB-Itabaiana,2020-07-20,forecast,1,0.3,1.6,0.8,1.3,0.5
 PB-Itabaiana,2020-07-21,forecast,1,0.3,1.6,0.7,1.2,0.52
 PB-João Pessoa,2020-04-02,nowcast,1.5,0.9,2.2,1.2,1.7,0.06
 PB-João Pessoa,2020-04-03,nowcast,1.5,0.9,2.2,1.2,1.7,0.05
-PB-João Pessoa,2020-04-04,nowcast,1.5,1,2.1,1.3,1.7,0.05
-PB-João Pessoa,2020-04-05,nowcast,1.5,1,2.1,1.2,1.7,0.05
-PB-João Pessoa,2020-04-06,nowcast,1.4,0.9,2,1.2,1.6,0.06
-PB-João Pessoa,2020-04-07,nowcast,1.4,0.9,1.9,1.2,1.6,0.07
-PB-João Pessoa,2020-04-08,nowcast,1.4,0.9,1.8,1.2,1.5,0.07
-PB-João Pessoa,2020-04-09,nowcast,1.3,0.9,1.8,1.2,1.5,0.07
+PB-João Pessoa,2020-04-04,nowcast,1.5,0.9,2.1,1.3,1.7,0.05
+PB-João Pessoa,2020-04-05,nowcast,1.5,1,2.1,1.3,1.7,0.05
+PB-João Pessoa,2020-04-06,nowcast,1.4,0.9,2,1.2,1.6,0.07
+PB-João Pessoa,2020-04-07,nowcast,1.4,0.9,1.9,1.2,1.6,0.08
+PB-João Pessoa,2020-04-08,nowcast,1.4,0.9,1.8,1.2,1.5,0.08
+PB-João Pessoa,2020-04-09,nowcast,1.3,0.9,1.8,1.2,1.5,0.08
 PB-João Pessoa,2020-04-10,nowcast,1.3,0.9,1.7,1.1,1.5,0.08
-PB-João Pessoa,2020-04-11,nowcast,1.3,0.9,1.7,1.1,1.4,0.07
-PB-João Pessoa,2020-04-12,nowcast,1.3,1,1.7,1.2,1.4,0.04
+PB-João Pessoa,2020-04-11,nowcast,1.3,1,1.7,1.2,1.5,0.07
+PB-João Pessoa,2020-04-12,nowcast,1.3,1,1.7,1.2,1.4,0.05
 PB-João Pessoa,2020-04-13,nowcast,1.3,1,1.7,1.2,1.5,0.05
-PB-João Pessoa,2020-04-14,nowcast,1.3,1,1.7,1.2,1.5,0.04
-PB-João Pessoa,2020-04-15,nowcast,1.4,1.1,1.7,1.2,1.5,0.02
-PB-João Pessoa,2020-04-16,nowcast,1.4,1.1,1.7,1.2,1.5,0.01
-PB-João Pessoa,2020-04-17,nowcast,1.4,1.1,1.7,1.3,1.5,0.01
+PB-João Pessoa,2020-04-14,nowcast,1.4,1,1.8,1.2,1.5,0.04
+PB-João Pessoa,2020-04-15,nowcast,1.4,1.1,1.8,1.2,1.5,0.02
+PB-João Pessoa,2020-04-16,nowcast,1.4,1,1.7,1.2,1.5,0.02
+PB-João Pessoa,2020-04-17,nowcast,1.4,1.1,1.7,1.2,1.5,0.01
 PB-João Pessoa,2020-04-18,nowcast,1.4,1.1,1.7,1.3,1.5,0.02
-PB-João Pessoa,2020-04-19,nowcast,1.4,1.1,1.7,1.3,1.5,0.01
+PB-João Pessoa,2020-04-19,nowcast,1.4,1.1,1.7,1.2,1.5,0.01
 PB-João Pessoa,2020-04-20,nowcast,1.4,1.1,1.7,1.3,1.5,0.01
-PB-João Pessoa,2020-04-21,nowcast,1.3,1.1,1.6,1.2,1.4,0.01
+PB-João Pessoa,2020-04-21,nowcast,1.4,1.1,1.6,1.3,1.5,0.02
 PB-João Pessoa,2020-04-22,nowcast,1.3,1.1,1.6,1.2,1.4,0.02
-PB-João Pessoa,2020-04-23,nowcast,1.3,1.1,1.6,1.2,1.4,0.03
-PB-João Pessoa,2020-04-24,nowcast,1.3,1,1.5,1.2,1.3,0.04
-PB-João Pessoa,2020-04-25,nowcast,1.2,1,1.5,1.2,1.3,0.04
-PB-João Pessoa,2020-04-26,nowcast,1.2,1,1.5,1.1,1.3,0.06
-PB-João Pessoa,2020-04-27,nowcast,1.2,1,1.4,1.1,1.3,0.06
-PB-João Pessoa,2020-04-28,nowcast,1.2,1,1.4,1.1,1.2,0.08
-PB-João Pessoa,2020-04-29,nowcast,1.2,1,1.3,1.1,1.2,0.09
+PB-João Pessoa,2020-04-23,nowcast,1.3,1,1.6,1.2,1.4,0.03
+PB-João Pessoa,2020-04-24,nowcast,1.3,1,1.5,1.2,1.4,0.02
+PB-João Pessoa,2020-04-25,nowcast,1.2,1,1.5,1.1,1.3,0.04
+PB-João Pessoa,2020-04-26,nowcast,1.2,1,1.4,1.1,1.3,0.06
+PB-João Pessoa,2020-04-27,nowcast,1.2,1,1.4,1.1,1.3,0.07
+PB-João Pessoa,2020-04-28,nowcast,1.2,1,1.4,1.1,1.3,0.08
+PB-João Pessoa,2020-04-29,nowcast,1.2,0.9,1.3,1.1,1.2,0.1
 PB-João Pessoa,2020-04-30,nowcast,1.1,1,1.3,1.1,1.2,0.09
 PB-João Pessoa,2020-05-01,nowcast,1.1,1,1.3,1.1,1.2,0.09
-PB-João Pessoa,2020-05-02,nowcast,1.1,1,1.3,1.1,1.2,0.09
-PB-João Pessoa,2020-05-03,nowcast,1.1,1,1.3,1.1,1.2,0.07
-PB-João Pessoa,2020-05-04,nowcast,1.1,1,1.3,1.1,1.2,0.07
-PB-João Pessoa,2020-05-05,nowcast,1.1,1,1.3,1.1,1.2,0.05
-PB-João Pessoa,2020-05-06,nowcast,1.2,1,1.3,1.1,1.2,0.03
+PB-João Pessoa,2020-05-02,nowcast,1.1,1,1.3,1.1,1.2,0.08
+PB-João Pessoa,2020-05-03,nowcast,1.1,1,1.3,1.1,1.2,0.08
+PB-João Pessoa,2020-05-04,nowcast,1.1,1,1.3,1.1,1.2,0.06
+PB-João Pessoa,2020-05-05,nowcast,1.2,1,1.3,1.1,1.2,0.05
+PB-João Pessoa,2020-05-06,nowcast,1.2,1,1.3,1.1,1.2,0.04
 PB-João Pessoa,2020-05-07,nowcast,1.2,1,1.4,1.1,1.2,0.03
-PB-João Pessoa,2020-05-08,nowcast,1.2,1,1.4,1.1,1.2,0.01
-PB-João Pessoa,2020-05-09,nowcast,1.2,1.1,1.4,1.1,1.3,0
+PB-João Pessoa,2020-05-08,nowcast,1.2,1,1.4,1.1,1.3,0.02
+PB-João Pessoa,2020-05-09,nowcast,1.2,1.1,1.4,1.1,1.3,0.01
 PB-João Pessoa,2020-05-10,nowcast,1.2,1.1,1.4,1.2,1.3,0
 PB-João Pessoa,2020-05-11,nowcast,1.3,1.1,1.4,1.2,1.3,0
 PB-João Pessoa,2020-05-12,nowcast,1.3,1.1,1.4,1.2,1.3,0
@@ -718,296 +723,299 @@ PB-João Pessoa,2020-05-14,nowcast,1.3,1.1,1.4,1.2,1.3,0
 PB-João Pessoa,2020-05-15,nowcast,1.3,1.1,1.4,1.2,1.3,0
 PB-João Pessoa,2020-05-16,nowcast,1.3,1.1,1.4,1.2,1.3,0
 PB-João Pessoa,2020-05-17,nowcast,1.3,1.1,1.4,1.2,1.3,0
-PB-João Pessoa,2020-05-18,nowcast,1.3,1.1,1.4,1.2,1.3,0
+PB-João Pessoa,2020-05-18,nowcast,1.2,1.1,1.4,1.2,1.3,0
 PB-João Pessoa,2020-05-19,nowcast,1.2,1.1,1.4,1.2,1.3,0
 PB-João Pessoa,2020-05-20,nowcast,1.2,1.1,1.4,1.2,1.3,0
 PB-João Pessoa,2020-05-21,nowcast,1.2,1.1,1.4,1.2,1.3,0
 PB-João Pessoa,2020-05-22,nowcast,1.2,1.1,1.3,1.2,1.3,0
-PB-João Pessoa,2020-05-23,nowcast,1.2,1.1,1.3,1.2,1.3,0
+PB-João Pessoa,2020-05-23,nowcast,1.2,1.1,1.3,1.1,1.2,0.01
 PB-João Pessoa,2020-05-24,nowcast,1.2,1.1,1.3,1.1,1.2,0.01
-PB-João Pessoa,2020-05-25,nowcast,1.2,1,1.3,1.1,1.2,0.02
+PB-João Pessoa,2020-05-25,nowcast,1.2,1.1,1.3,1.1,1.2,0.01
 PB-João Pessoa,2020-05-26,nowcast,1.2,1,1.3,1.1,1.2,0.02
 PB-João Pessoa,2020-05-27,nowcast,1.1,1,1.2,1.1,1.2,0.02
-PB-João Pessoa,2020-05-28,nowcast,1.1,1,1.2,1.1,1.2,0.02
-PB-João Pessoa,2020-05-29,nowcast,1.1,1,1.2,1.1,1.2,0.01
-PB-João Pessoa,2020-05-30,nowcast,1.1,1,1.2,1.1,1.1,0.03
-PB-João Pessoa,2020-05-31,nowcast,1.1,1,1.2,1.1,1.1,0.05
-PB-João Pessoa,2020-06-01,nowcast,1.1,1,1.2,1,1.1,0.13
-PB-João Pessoa,2020-06-02,nowcast,1,0.9,1.1,1,1.1,0.22
-PB-João Pessoa,2020-06-03,nowcast,1,0.9,1.1,1,1.1,0.29
-PB-João Pessoa,2020-06-04,nowcast,1,0.9,1.1,1,1.1,0.25
+PB-João Pessoa,2020-05-28,nowcast,1.1,1,1.2,1.1,1.2,0.01
+PB-João Pessoa,2020-05-29,nowcast,1.1,1,1.2,1.1,1.2,0.02
+PB-João Pessoa,2020-05-30,nowcast,1.1,1,1.2,1.1,1.2,0.03
+PB-João Pessoa,2020-05-31,nowcast,1.1,1,1.2,1.1,1.1,0.06
+PB-João Pessoa,2020-06-01,nowcast,1.1,1,1.2,1,1.1,0.11
+PB-João Pessoa,2020-06-02,nowcast,1.1,0.9,1.1,1,1.1,0.21
+PB-João Pessoa,2020-06-03,nowcast,1,0.9,1.1,1,1.1,0.25
+PB-João Pessoa,2020-06-04,nowcast,1,0.9,1.1,1,1.1,0.26
 PB-João Pessoa,2020-06-05,nowcast,1,1,1.1,1,1.1,0.22
 PB-João Pessoa,2020-06-06,nowcast,1,1,1.1,1,1.1,0.16
-PB-João Pessoa,2020-06-07,nowcast,1,1,1.1,1,1.1,0.12
+PB-João Pessoa,2020-06-07,nowcast,1.1,1,1.1,1,1.1,0.11
 PB-João Pessoa,2020-06-08,nowcast,1.1,1,1.1,1,1.1,0.08
-PB-João Pessoa,2020-06-09,nowcast,1.1,1,1.2,1,1.1,0.06
-PB-João Pessoa,2020-06-10,nowcast,1.1,1,1.2,1,1.1,0.06
+PB-João Pessoa,2020-06-09,nowcast,1.1,1,1.2,1,1.1,0.07
+PB-João Pessoa,2020-06-10,nowcast,1.1,1,1.2,1,1.1,0.05
 PB-João Pessoa,2020-06-11,nowcast,1.1,1,1.2,1,1.1,0.05
 PB-João Pessoa,2020-06-12,nowcast,1.1,1,1.2,1,1.1,0.07
-PB-João Pessoa,2020-06-13,nowcast,1.1,1,1.1,1,1.1,0.12
-PB-João Pessoa,2020-06-14,nowcast,1,0.9,1.1,1,1.1,0.26
-PB-João Pessoa,2020-06-15,nowcast,1,0.9,1.1,1,1,0.54
-PB-João Pessoa,2020-06-16,nowcast,1,0.9,1,0.9,1,0.76
-PB-João Pessoa,2020-06-17,nowcast,0.9,0.9,1,0.9,1,0.87
+PB-João Pessoa,2020-06-13,nowcast,1.1,1,1.1,1,1.1,0.13
+PB-João Pessoa,2020-06-14,nowcast,1,0.9,1.1,1,1.1,0.28
+PB-João Pessoa,2020-06-15,nowcast,1,0.9,1.1,1,1,0.53
+PB-João Pessoa,2020-06-16,nowcast,1,0.9,1,0.9,1,0.74
+PB-João Pessoa,2020-06-17,nowcast,0.9,0.9,1,0.9,1,0.86
 PB-João Pessoa,2020-06-18,nowcast,1,0.9,1,0.9,1,0.88
-PB-João Pessoa,2020-06-19,nowcast,1,0.9,1,0.9,1,0.84
+PB-João Pessoa,2020-06-19,nowcast,1,0.9,1,0.9,1,0.83
 PB-João Pessoa,2020-06-20,nowcast,1,0.9,1.1,0.9,1,0.69
-PB-João Pessoa,2020-06-21,nowcast,1,0.9,1.1,0.9,1,0.57
-PB-João Pessoa,2020-06-22,nowcast,1,0.9,1.1,1,1,0.53
-PB-João Pessoa,2020-06-23,nowcast,1,0.9,1.1,1,1,0.55
-PB-João Pessoa,2020-06-24,nowcast,1,0.9,1.1,1,1,0.63
+PB-João Pessoa,2020-06-21,nowcast,1,0.9,1.1,1,1,0.56
+PB-João Pessoa,2020-06-22,nowcast,1,0.9,1.1,1,1,0.54
+PB-João Pessoa,2020-06-23,nowcast,1,0.9,1.1,1,1,0.57
+PB-João Pessoa,2020-06-24,nowcast,1,0.9,1.1,1,1,0.64
 PB-João Pessoa,2020-06-25,nowcast,1,0.9,1,0.9,1,0.74
 PB-João Pessoa,2020-06-26,nowcast,1,0.9,1,0.9,1,0.82
 PB-João Pessoa,2020-06-27,nowcast,1,0.9,1,0.9,1,0.86
 PB-João Pessoa,2020-06-28,nowcast,0.9,0.9,1,0.9,1,0.92
-PB-João Pessoa,2020-06-29,nowcast,0.9,0.8,1,0.9,1,0.95
-PB-João Pessoa,2020-06-30,nowcast,0.9,0.8,1,0.9,1,0.97
+PB-João Pessoa,2020-06-29,nowcast,0.9,0.8,1,0.9,1,0.96
+PB-João Pessoa,2020-06-30,nowcast,0.9,0.8,1,0.9,0.9,0.98
 PB-João Pessoa,2020-07-01,nowcast,0.9,0.8,1,0.9,0.9,0.98
-PB-João Pessoa,2020-07-02,nowcast,0.9,0.8,1,0.9,0.9,0.97
-PB-João Pessoa,2020-07-03,nowcast,0.9,0.8,1,0.9,0.9,0.97
-PB-João Pessoa,2020-07-04,nowcast,0.9,0.8,1,0.9,0.9,0.96
-PB-João Pessoa,2020-07-05,nowcast,0.9,0.8,1,0.9,0.9,0.97
-PB-João Pessoa,2020-07-06,nowcast,0.9,0.8,1,0.9,0.9,0.98
-PB-João Pessoa,2020-07-07,nowcast,0.9,0.8,1,0.9,0.9,0.99
-PB-João Pessoa,2020-07-08,nowcast,0.9,0.8,0.9,0.8,0.9,1
-PB-João Pessoa,2020-07-09,forecast,0.9,0.8,1,0.8,0.9,0.98
-PB-João Pessoa,2020-07-10,forecast,0.9,0.7,1,0.8,0.9,0.96
-PB-João Pessoa,2020-07-11,forecast,0.9,0.7,1,0.8,0.9,0.95
-PB-João Pessoa,2020-07-12,forecast,0.9,0.7,1,0.8,0.9,0.95
-PB-João Pessoa,2020-07-13,forecast,0.9,0.7,1,0.8,0.9,0.94
-PB-João Pessoa,2020-07-14,forecast,0.9,0.7,1,0.8,0.9,0.92
-PB-João Pessoa,2020-07-15,forecast,0.9,0.7,1,0.8,0.9,0.91
-PB-João Pessoa,2020-07-16,forecast,0.9,0.7,1,0.8,1,0.9
-PB-João Pessoa,2020-07-17,forecast,0.9,0.7,1.1,0.8,1,0.89
-PB-João Pessoa,2020-07-18,forecast,0.9,0.7,1.1,0.8,0.9,0.88
-PB-João Pessoa,2020-07-19,forecast,0.9,0.6,1.1,0.8,1,0.89
-PB-João Pessoa,2020-07-20,forecast,0.9,0.6,1.1,0.8,1,0.87
-PB-João Pessoa,2020-07-21,forecast,0.9,0.6,1.1,0.8,1,0.88
-PB-João Pessoa,2020-07-22,forecast,0.9,0.6,1.1,0.8,1,0.87
-PB-Mamanguape,2020-05-18,nowcast,1.5,1,2.1,1.2,1.7,0.04
+PB-João Pessoa,2020-07-02,nowcast,0.9,0.8,1,0.9,0.9,0.98
+PB-João Pessoa,2020-07-03,nowcast,0.9,0.8,1,0.9,0.9,0.98
+PB-João Pessoa,2020-07-04,nowcast,0.9,0.8,1,0.9,0.9,0.97
+PB-João Pessoa,2020-07-05,nowcast,0.9,0.8,1,0.9,0.9,0.98
+PB-João Pessoa,2020-07-06,nowcast,0.9,0.8,1,0.9,0.9,0.99
+PB-João Pessoa,2020-07-07,nowcast,0.9,0.8,0.9,0.8,0.9,1
+PB-João Pessoa,2020-07-08,nowcast,0.8,0.7,0.9,0.8,0.9,1
+PB-João Pessoa,2020-07-09,nowcast,0.8,0.7,0.9,0.8,0.9,1
+PB-João Pessoa,2020-07-10,forecast,0.8,0.7,0.9,0.8,0.9,0.99
+PB-João Pessoa,2020-07-11,forecast,0.8,0.7,1,0.8,0.9,0.99
+PB-João Pessoa,2020-07-12,forecast,0.8,0.7,1,0.8,0.9,0.98
+PB-João Pessoa,2020-07-13,forecast,0.8,0.6,1,0.8,0.9,0.97
+PB-João Pessoa,2020-07-14,forecast,0.8,0.7,1,0.8,0.9,0.96
+PB-João Pessoa,2020-07-15,forecast,0.8,0.6,1,0.8,0.9,0.95
+PB-João Pessoa,2020-07-16,forecast,0.8,0.6,1,0.7,0.9,0.95
+PB-João Pessoa,2020-07-17,forecast,0.8,0.6,1,0.8,0.9,0.94
+PB-João Pessoa,2020-07-18,forecast,0.8,0.6,1,0.7,0.9,0.93
+PB-João Pessoa,2020-07-19,forecast,0.8,0.6,1,0.7,0.9,0.93
+PB-João Pessoa,2020-07-20,forecast,0.8,0.6,1,0.7,0.9,0.93
+PB-João Pessoa,2020-07-21,forecast,0.8,0.6,1,0.7,0.9,0.92
+PB-João Pessoa,2020-07-22,forecast,0.8,0.6,1,0.7,0.9,0.92
+PB-João Pessoa,2020-07-23,forecast,0.8,0.6,1,0.7,0.9,0.91
+PB-Mamanguape,2020-05-18,nowcast,1.5,1,2.1,1.3,1.7,0.04
 PB-Mamanguape,2020-05-19,nowcast,1.5,1,2.1,1.3,1.7,0.04
-PB-Mamanguape,2020-05-20,nowcast,1.5,1,2,1.2,1.6,0.04
-PB-Mamanguape,2020-05-21,nowcast,1.4,1,1.9,1.3,1.6,0.05
-PB-Mamanguape,2020-05-22,nowcast,1.4,1,1.8,1.2,1.5,0.05
-PB-Mamanguape,2020-05-23,nowcast,1.4,0.9,1.8,1.2,1.5,0.06
+PB-Mamanguape,2020-05-20,nowcast,1.5,0.9,2,1.3,1.6,0.05
+PB-Mamanguape,2020-05-21,nowcast,1.5,1,1.9,1.3,1.7,0.05
+PB-Mamanguape,2020-05-22,nowcast,1.4,1,1.9,1.2,1.6,0.05
+PB-Mamanguape,2020-05-23,nowcast,1.4,0.9,1.7,1.2,1.5,0.06
 PB-Mamanguape,2020-05-24,nowcast,1.3,1,1.7,1.2,1.5,0.07
-PB-Mamanguape,2020-05-25,nowcast,1.3,0.9,1.7,1.2,1.4,0.08
-PB-Mamanguape,2020-05-26,nowcast,1.3,0.9,1.6,1.1,1.4,0.08
-PB-Mamanguape,2020-05-27,nowcast,1.3,1,1.6,1.1,1.4,0.08
-PB-Mamanguape,2020-05-28,nowcast,1.3,1,1.6,1.2,1.4,0.07
-PB-Mamanguape,2020-05-29,nowcast,1.3,1,1.6,1.1,1.4,0.06
+PB-Mamanguape,2020-05-25,nowcast,1.3,0.9,1.7,1.2,1.4,0.09
+PB-Mamanguape,2020-05-26,nowcast,1.3,0.9,1.6,1.2,1.4,0.09
+PB-Mamanguape,2020-05-27,nowcast,1.3,0.9,1.6,1.1,1.4,0.08
+PB-Mamanguape,2020-05-28,nowcast,1.3,1,1.6,1.1,1.4,0.07
+PB-Mamanguape,2020-05-29,nowcast,1.3,1,1.6,1.1,1.4,0.05
 PB-Mamanguape,2020-05-30,nowcast,1.3,1,1.6,1.1,1.4,0.05
-PB-Mamanguape,2020-05-31,nowcast,1.3,1,1.6,1.2,1.4,0.05
+PB-Mamanguape,2020-05-31,nowcast,1.3,1,1.6,1.1,1.4,0.05
 PB-Mamanguape,2020-06-01,nowcast,1.3,1,1.5,1.1,1.4,0.05
 PB-Mamanguape,2020-06-02,nowcast,1.2,1,1.5,1.1,1.3,0.07
-PB-Mamanguape,2020-06-03,nowcast,1.2,0.9,1.5,1.1,1.3,0.09
-PB-Mamanguape,2020-06-04,nowcast,1.2,0.9,1.5,1.1,1.3,0.11
-PB-Mamanguape,2020-06-05,nowcast,1.2,0.9,1.4,1.1,1.3,0.11
-PB-Mamanguape,2020-06-06,nowcast,1.2,0.9,1.4,1.1,1.3,0.12
-PB-Mamanguape,2020-06-07,nowcast,1.1,0.9,1.4,1.1,1.2,0.13
-PB-Mamanguape,2020-06-08,nowcast,1.1,0.9,1.4,1.1,1.2,0.13
-PB-Mamanguape,2020-06-09,nowcast,1.1,0.9,1.4,1.1,1.2,0.12
-PB-Mamanguape,2020-06-10,nowcast,1.1,0.9,1.3,1,1.2,0.15
-PB-Mamanguape,2020-06-11,nowcast,1.1,0.9,1.3,1,1.2,0.19
-PB-Mamanguape,2020-06-12,nowcast,1.1,0.9,1.3,1,1.2,0.23
-PB-Mamanguape,2020-06-13,nowcast,1.1,0.8,1.3,1,1.2,0.29
+PB-Mamanguape,2020-06-03,nowcast,1.2,1,1.5,1.1,1.3,0.08
+PB-Mamanguape,2020-06-04,nowcast,1.2,0.9,1.4,1.1,1.3,0.11
+PB-Mamanguape,2020-06-05,nowcast,1.2,0.9,1.4,1.1,1.3,0.12
+PB-Mamanguape,2020-06-06,nowcast,1.2,0.9,1.4,1.1,1.2,0.12
+PB-Mamanguape,2020-06-07,nowcast,1.2,0.9,1.4,1.1,1.2,0.12
+PB-Mamanguape,2020-06-08,nowcast,1.1,0.9,1.4,1.1,1.2,0.12
+PB-Mamanguape,2020-06-09,nowcast,1.1,0.9,1.3,1,1.2,0.15
+PB-Mamanguape,2020-06-10,nowcast,1.1,0.9,1.4,1,1.2,0.13
+PB-Mamanguape,2020-06-11,nowcast,1.1,0.9,1.3,1,1.2,0.17
+PB-Mamanguape,2020-06-12,nowcast,1.1,0.9,1.3,1,1.2,0.2
+PB-Mamanguape,2020-06-13,nowcast,1.1,0.9,1.3,1,1.1,0.28
 PB-Mamanguape,2020-06-14,nowcast,1,0.8,1.2,1,1.1,0.37
-PB-Mamanguape,2020-06-15,nowcast,1,0.8,1.2,0.9,1.1,0.47
-PB-Mamanguape,2020-06-16,nowcast,1,0.8,1.2,0.9,1.1,0.57
-PB-Mamanguape,2020-06-17,nowcast,1,0.8,1.1,0.9,1,0.67
-PB-Mamanguape,2020-06-18,nowcast,0.9,0.7,1.1,0.9,1,0.72
-PB-Mamanguape,2020-06-19,nowcast,0.9,0.8,1.1,0.9,1,0.73
+PB-Mamanguape,2020-06-15,nowcast,1,0.8,1.2,0.9,1.1,0.49
+PB-Mamanguape,2020-06-16,nowcast,1,0.8,1.1,0.9,1.1,0.6
+PB-Mamanguape,2020-06-17,nowcast,1,0.7,1.1,0.9,1,0.68
+PB-Mamanguape,2020-06-18,nowcast,0.9,0.7,1.1,0.9,1,0.73
+PB-Mamanguape,2020-06-19,nowcast,0.9,0.8,1.1,0.9,1,0.74
 PB-Mamanguape,2020-06-20,nowcast,0.9,0.7,1.1,0.9,1,0.76
-PB-Mamanguape,2020-06-21,nowcast,0.9,0.7,1.1,0.8,1,0.76
-PB-Mamanguape,2020-06-22,nowcast,0.9,0.7,1.1,0.9,1,0.75
-PB-Mamanguape,2020-06-23,nowcast,0.9,0.7,1.1,0.9,1,0.73
-PB-Mamanguape,2020-06-24,nowcast,0.9,0.7,1.1,0.9,1,0.69
-PB-Mamanguape,2020-06-25,nowcast,1,0.8,1.2,0.9,1,0.61
-PB-Mamanguape,2020-06-26,nowcast,1,0.8,1.2,0.9,1,0.56
-PB-Mamanguape,2020-06-27,nowcast,1,0.8,1.2,0.9,1.1,0.55
-PB-Mamanguape,2020-06-28,nowcast,1,0.8,1.2,0.9,1.1,0.54
-PB-Mamanguape,2020-06-29,nowcast,1,0.8,1.2,0.9,1,0.58
-PB-Mamanguape,2020-06-30,nowcast,1,0.7,1.2,0.9,1,0.63
+PB-Mamanguape,2020-06-21,nowcast,0.9,0.7,1.1,0.9,1,0.77
+PB-Mamanguape,2020-06-22,nowcast,0.9,0.7,1.1,0.8,1,0.75
+PB-Mamanguape,2020-06-23,nowcast,0.9,0.7,1.1,0.9,1,0.72
+PB-Mamanguape,2020-06-24,nowcast,0.9,0.8,1.2,0.9,1,0.68
+PB-Mamanguape,2020-06-25,nowcast,1,0.8,1.2,0.9,1,0.64
+PB-Mamanguape,2020-06-26,nowcast,1,0.8,1.2,0.9,1,0.57
+PB-Mamanguape,2020-06-27,nowcast,1,0.8,1.2,0.9,1,0.54
+PB-Mamanguape,2020-06-28,nowcast,1,0.8,1.2,0.9,1,0.55
+PB-Mamanguape,2020-06-29,nowcast,1,0.8,1.2,0.9,1,0.59
+PB-Mamanguape,2020-06-30,nowcast,1,0.8,1.2,0.9,1,0.63
 PB-Mamanguape,2020-07-01,nowcast,1,0.7,1.1,0.9,1,0.67
-PB-Mamanguape,2020-07-02,nowcast,1,0.8,1.1,0.9,1,0.66
-PB-Mamanguape,2020-07-03,nowcast,1,0.7,1.2,0.9,1,0.65
-PB-Mamanguape,2020-07-04,nowcast,1,0.8,1.2,0.9,1,0.65
-PB-Mamanguape,2020-07-05,nowcast,0.9,0.7,1.2,0.9,1,0.7
-PB-Mamanguape,2020-07-06,nowcast,0.9,0.7,1.1,0.8,1,0.73
-PB-Mamanguape,2020-07-07,nowcast,0.9,0.7,1.1,0.8,1,0.78
-PB-Mamanguape,2020-07-08,forecast,0.9,0.7,1.2,0.8,1,0.7
-PB-Mamanguape,2020-07-09,forecast,0.9,0.7,1.2,0.8,1,0.69
-PB-Mamanguape,2020-07-10,forecast,0.9,0.6,1.2,0.8,1,0.68
-PB-Mamanguape,2020-07-11,forecast,0.9,0.6,1.2,0.8,1,0.66
-PB-Mamanguape,2020-07-12,forecast,0.9,0.6,1.2,0.8,1.1,0.65
-PB-Mamanguape,2020-07-13,forecast,0.9,0.6,1.2,0.8,1.1,0.65
-PB-Mamanguape,2020-07-14,forecast,0.9,0.6,1.3,0.8,1.1,0.65
-PB-Mamanguape,2020-07-15,forecast,0.9,0.6,1.3,0.8,1.1,0.64
-PB-Mamanguape,2020-07-16,forecast,0.9,0.6,1.3,0.8,1,0.65
-PB-Mamanguape,2020-07-17,forecast,0.9,0.6,1.3,0.8,1.1,0.64
-PB-Mamanguape,2020-07-18,forecast,0.9,0.6,1.3,0.8,1.1,0.63
-PB-Mamanguape,2020-07-19,forecast,0.9,0.5,1.3,0.8,1.1,0.63
-PB-Mamanguape,2020-07-20,forecast,0.9,0.5,1.3,0.8,1.1,0.63
-PB-Mamanguape,2020-07-21,forecast,0.9,0.5,1.4,0.8,1.1,0.62
-PB-Mari,2020-05-02,nowcast,1.3,0.5,2.5,0.9,1.6,0.25
-PB-Mari,2020-05-03,nowcast,1.3,0.5,2.3,0.9,1.6,0.24
-PB-Mari,2020-05-04,nowcast,1.3,0.5,2.3,0.9,1.5,0.23
-PB-Mari,2020-05-05,nowcast,1.3,0.5,2.2,0.9,1.5,0.26
-PB-Mari,2020-05-06,nowcast,1.3,0.5,2.1,0.9,1.5,0.27
-PB-Mari,2020-05-07,nowcast,1.2,0.5,2,0.9,1.4,0.29
+PB-Mamanguape,2020-07-02,nowcast,1,0.7,1.1,0.9,1,0.66
+PB-Mamanguape,2020-07-03,nowcast,0.9,0.7,1.2,0.9,1,0.67
+PB-Mamanguape,2020-07-04,nowcast,1,0.7,1.2,0.9,1,0.66
+PB-Mamanguape,2020-07-05,nowcast,0.9,0.7,1.1,0.9,1,0.71
+PB-Mamanguape,2020-07-06,nowcast,0.9,0.7,1.1,0.8,1,0.76
+PB-Mamanguape,2020-07-07,nowcast,0.9,0.6,1.1,0.8,1,0.8
+PB-Mamanguape,2020-07-08,nowcast,0.9,0.6,1.1,0.8,1,0.81
+PB-Mamanguape,2020-07-09,forecast,0.9,0.6,1.2,0.8,1,0.74
+PB-Mamanguape,2020-07-10,forecast,0.9,0.6,1.2,0.8,1,0.72
+PB-Mamanguape,2020-07-11,forecast,0.9,0.6,1.2,0.8,1,0.71
+PB-Mamanguape,2020-07-12,forecast,0.9,0.6,1.2,0.8,1,0.7
+PB-Mamanguape,2020-07-13,forecast,0.9,0.6,1.2,0.8,1,0.7
+PB-Mamanguape,2020-07-14,forecast,0.9,0.6,1.2,0.8,1.1,0.69
+PB-Mamanguape,2020-07-15,forecast,0.9,0.5,1.3,0.8,1,0.69
+PB-Mamanguape,2020-07-16,forecast,0.9,0.5,1.3,0.8,1.1,0.67
+PB-Mamanguape,2020-07-17,forecast,0.9,0.5,1.3,0.8,1.1,0.67
+PB-Mamanguape,2020-07-18,forecast,0.9,0.5,1.3,0.8,1.1,0.67
+PB-Mamanguape,2020-07-19,forecast,0.9,0.5,1.3,0.8,1.1,0.66
+PB-Mamanguape,2020-07-20,forecast,0.9,0.5,1.3,0.7,1,0.66
+PB-Mamanguape,2020-07-21,forecast,0.9,0.5,1.4,0.8,1.1,0.66
+PB-Mamanguape,2020-07-22,forecast,0.9,0.5,1.4,0.7,1.1,0.65
+PB-Mari,2020-05-02,nowcast,1.3,0.4,2.3,0.9,1.6,0.25
+PB-Mari,2020-05-03,nowcast,1.3,0.5,2.3,0.9,1.5,0.22
+PB-Mari,2020-05-04,nowcast,1.3,0.5,2.3,0.9,1.6,0.25
+PB-Mari,2020-05-05,nowcast,1.3,0.5,2.2,0.9,1.5,0.23
+PB-Mari,2020-05-06,nowcast,1.3,0.5,2,0.9,1.5,0.27
+PB-Mari,2020-05-07,nowcast,1.2,0.5,2,0.9,1.4,0.31
 PB-Mari,2020-05-08,nowcast,1.2,0.5,1.9,0.9,1.4,0.33
-PB-Mari,2020-05-09,nowcast,1.1,0.5,1.9,0.8,1.4,0.36
-PB-Mari,2020-05-10,nowcast,1.1,0.4,1.8,0.8,1.3,0.39
-PB-Mari,2020-05-11,nowcast,1.1,0.4,1.7,0.8,1.3,0.41
-PB-Mari,2020-05-12,nowcast,1.1,0.4,1.8,0.8,1.3,0.42
-PB-Mari,2020-05-13,nowcast,1.1,0.5,1.8,0.8,1.3,0.39
-PB-Mari,2020-05-14,nowcast,1.1,0.5,1.9,0.8,1.3,0.38
-PB-Mari,2020-05-15,nowcast,1.1,0.5,1.9,0.8,1.3,0.35
-PB-Mari,2020-05-16,nowcast,1.2,0.5,2,0.9,1.4,0.31
-PB-Mari,2020-05-17,nowcast,1.2,0.5,1.9,0.9,1.4,0.28
-PB-Mari,2020-05-18,nowcast,1.2,0.6,1.9,0.9,1.4,0.26
-PB-Mari,2020-05-19,nowcast,1.2,0.6,1.9,1,1.4,0.24
-PB-Mari,2020-05-20,nowcast,1.3,0.6,1.9,1,1.4,0.21
-PB-Mari,2020-05-21,nowcast,1.3,0.7,1.9,1,1.5,0.2
-PB-Mari,2020-05-22,nowcast,1.3,0.6,1.9,1,1.5,0.2
-PB-Mari,2020-05-23,nowcast,1.2,0.7,1.9,1,1.4,0.22
+PB-Mari,2020-05-09,nowcast,1.1,0.4,1.8,0.8,1.3,0.38
+PB-Mari,2020-05-10,nowcast,1.1,0.4,1.7,0.8,1.3,0.39
+PB-Mari,2020-05-11,nowcast,1.1,0.5,1.8,0.8,1.2,0.44
+PB-Mari,2020-05-12,nowcast,1.1,0.4,1.8,0.7,1.2,0.43
+PB-Mari,2020-05-13,nowcast,1.1,0.5,1.8,0.8,1.3,0.42
+PB-Mari,2020-05-14,nowcast,1.1,0.5,1.8,0.8,1.3,0.35
+PB-Mari,2020-05-15,nowcast,1.2,0.5,1.9,0.9,1.4,0.34
+PB-Mari,2020-05-16,nowcast,1.2,0.6,1.9,0.9,1.4,0.31
+PB-Mari,2020-05-17,nowcast,1.2,0.6,2,0.9,1.4,0.28
+PB-Mari,2020-05-18,nowcast,1.2,0.6,2,1,1.4,0.25
+PB-Mari,2020-05-19,nowcast,1.2,0.6,1.9,0.9,1.4,0.24
+PB-Mari,2020-05-20,nowcast,1.2,0.6,1.9,1,1.4,0.22
+PB-Mari,2020-05-21,nowcast,1.3,0.6,1.9,1,1.5,0.19
+PB-Mari,2020-05-22,nowcast,1.3,0.8,1.9,1,1.4,0.18
+PB-Mari,2020-05-23,nowcast,1.3,0.7,1.9,1,1.4,0.21
 PB-Mari,2020-05-24,nowcast,1.2,0.6,1.8,1,1.4,0.24
-PB-Mari,2020-05-25,nowcast,1.2,0.7,1.8,1,1.4,0.28
-PB-Mari,2020-05-26,nowcast,1.1,0.6,1.7,0.9,1.3,0.3
-PB-Mari,2020-05-27,nowcast,1.1,0.6,1.6,0.9,1.3,0.35
+PB-Mari,2020-05-25,nowcast,1.2,0.6,1.7,0.9,1.4,0.29
+PB-Mari,2020-05-26,nowcast,1.1,0.7,1.7,0.9,1.3,0.31
+PB-Mari,2020-05-27,nowcast,1.1,0.6,1.6,0.9,1.3,0.34
 PB-Mari,2020-05-28,nowcast,1.1,0.6,1.6,0.9,1.3,0.36
-PB-Mari,2020-05-29,nowcast,1.1,0.6,1.6,0.9,1.2,0.39
-PB-Mari,2020-05-30,nowcast,1.1,0.7,1.6,0.9,1.2,0.38
-PB-Mari,2020-05-31,nowcast,1.1,0.6,1.6,0.9,1.2,0.4
-PB-Mari,2020-06-01,nowcast,1.1,0.6,1.6,0.9,1.2,0.42
-PB-Mari,2020-06-02,nowcast,1,0.6,1.6,0.9,1.2,0.42
+PB-Mari,2020-05-29,nowcast,1.1,0.6,1.5,0.9,1.3,0.4
+PB-Mari,2020-05-30,nowcast,1.1,0.6,1.6,0.9,1.2,0.4
+PB-Mari,2020-05-31,nowcast,1,0.6,1.5,0.9,1.2,0.43
+PB-Mari,2020-06-01,nowcast,1.1,0.6,1.5,0.8,1.2,0.41
+PB-Mari,2020-06-02,nowcast,1.1,0.6,1.6,0.9,1.2,0.41
 PB-Mari,2020-06-03,nowcast,1.1,0.6,1.5,0.9,1.2,0.39
-PB-Mari,2020-06-04,nowcast,1.1,0.6,1.5,0.9,1.2,0.37
-PB-Mari,2020-06-05,nowcast,1.1,0.7,1.6,0.9,1.2,0.34
-PB-Mari,2020-06-06,nowcast,1.1,0.7,1.6,0.9,1.3,0.3
-PB-Mari,2020-06-07,nowcast,1.1,0.7,1.6,0.9,1.2,0.29
-PB-Mari,2020-06-08,nowcast,1.1,0.7,1.6,0.9,1.2,0.3
-PB-Mari,2020-06-09,nowcast,1.1,0.7,1.6,1,1.3,0.27
-PB-Mari,2020-06-10,nowcast,1.1,0.7,1.6,1,1.3,0.27
-PB-Mari,2020-06-11,nowcast,1.1,0.7,1.6,1,1.3,0.26
-PB-Mari,2020-06-12,nowcast,1.2,0.8,1.6,1,1.3,0.24
-PB-Mari,2020-06-13,nowcast,1.2,0.7,1.6,1,1.3,0.23
-PB-Mari,2020-06-14,nowcast,1.2,0.7,1.6,1,1.3,0.24
-PB-Mari,2020-06-15,nowcast,1.1,0.7,1.6,1,1.3,0.26
+PB-Mari,2020-06-04,nowcast,1.1,0.6,1.6,0.9,1.3,0.35
+PB-Mari,2020-06-05,nowcast,1.1,0.6,1.6,0.9,1.3,0.34
+PB-Mari,2020-06-06,nowcast,1.1,0.7,1.6,0.9,1.3,0.31
+PB-Mari,2020-06-07,nowcast,1.1,0.7,1.6,0.9,1.3,0.28
+PB-Mari,2020-06-08,nowcast,1.1,0.7,1.6,0.9,1.3,0.29
+PB-Mari,2020-06-09,nowcast,1.1,0.7,1.6,0.9,1.3,0.29
+PB-Mari,2020-06-10,nowcast,1.1,0.7,1.6,1,1.3,0.26
+PB-Mari,2020-06-11,nowcast,1.1,0.7,1.6,0.9,1.3,0.26
+PB-Mari,2020-06-12,nowcast,1.2,0.7,1.6,1,1.3,0.26
+PB-Mari,2020-06-13,nowcast,1.2,0.7,1.6,1,1.3,0.24
+PB-Mari,2020-06-14,nowcast,1.1,0.8,1.6,1,1.3,0.26
+PB-Mari,2020-06-15,nowcast,1.1,0.7,1.6,1,1.3,0.25
 PB-Mari,2020-06-16,nowcast,1.1,0.7,1.5,1,1.3,0.29
-PB-Mari,2020-06-17,nowcast,1.1,0.7,1.5,0.9,1.2,0.3
-PB-Mari,2020-06-18,nowcast,1.1,0.7,1.5,1,1.3,0.28
-PB-Mari,2020-06-19,nowcast,1.1,0.7,1.5,1,1.3,0.24
-PB-Mari,2020-06-20,nowcast,1.1,0.8,1.5,1,1.3,0.22
-PB-Mari,2020-06-21,nowcast,1.2,0.8,1.5,1,1.3,0.2
-PB-Mari,2020-06-22,nowcast,1.2,0.8,1.6,1,1.3,0.2
-PB-Mari,2020-06-23,nowcast,1.2,0.8,1.6,1,1.3,0.18
-PB-Mari,2020-06-24,nowcast,1.2,0.8,1.5,1,1.3,0.18
-PB-Mari,2020-06-25,nowcast,1.2,0.9,1.6,1,1.3,0.16
-PB-Mari,2020-06-26,nowcast,1.2,0.9,1.6,1.1,1.3,0.14
+PB-Mari,2020-06-17,nowcast,1.1,0.7,1.5,1,1.3,0.29
+PB-Mari,2020-06-18,nowcast,1.1,0.8,1.5,1,1.3,0.27
+PB-Mari,2020-06-19,nowcast,1.1,0.8,1.6,1,1.3,0.26
+PB-Mari,2020-06-20,nowcast,1.1,0.8,1.5,1,1.3,0.24
+PB-Mari,2020-06-21,nowcast,1.2,0.8,1.6,1,1.3,0.23
+PB-Mari,2020-06-22,nowcast,1.2,0.8,1.6,1,1.3,0.19
+PB-Mari,2020-06-23,nowcast,1.2,0.8,1.5,1,1.3,0.2
+PB-Mari,2020-06-24,nowcast,1.2,0.8,1.6,1,1.3,0.17
+PB-Mari,2020-06-25,nowcast,1.2,0.9,1.6,1.1,1.3,0.14
+PB-Mari,2020-06-26,nowcast,1.2,0.9,1.6,1.1,1.3,0.13
 PB-Mari,2020-06-27,nowcast,1.2,0.9,1.6,1.1,1.3,0.11
-PB-Mari,2020-06-28,nowcast,1.2,0.9,1.6,1.1,1.3,0.12
+PB-Mari,2020-06-28,nowcast,1.2,0.9,1.6,1.1,1.3,0.11
 PB-Mari,2020-06-29,nowcast,1.2,0.9,1.6,1.1,1.3,0.12
 PB-Mari,2020-06-30,nowcast,1.2,0.9,1.5,1.1,1.3,0.12
 PB-Mari,2020-07-01,nowcast,1.2,0.9,1.5,1.1,1.3,0.14
-PB-Mari,2020-07-02,nowcast,1.2,0.9,1.5,1.1,1.3,0.16
-PB-Mari,2020-07-03,nowcast,1.2,0.9,1.5,1,1.3,0.16
+PB-Mari,2020-07-02,nowcast,1.2,0.9,1.5,1,1.3,0.14
+PB-Mari,2020-07-03,nowcast,1.2,0.8,1.5,1.1,1.3,0.17
 PB-Mari,2020-07-04,nowcast,1.1,0.8,1.4,1,1.2,0.2
-PB-Mari,2020-07-05,nowcast,1.1,0.8,1.4,1,1.2,0.25
+PB-Mari,2020-07-05,nowcast,1.1,0.8,1.4,1,1.2,0.24
 PB-Mari,2020-07-06,nowcast,1.1,0.8,1.4,1,1.2,0.27
-PB-Mari,2020-07-07,nowcast,1.1,0.8,1.4,1,1.2,0.25
-PB-Mari,2020-07-08,forecast,1.1,0.8,1.5,1,1.3,0.28
-PB-Mari,2020-07-09,forecast,1.1,0.7,1.5,0.9,1.3,0.29
-PB-Mari,2020-07-10,forecast,1.1,0.7,1.6,1,1.3,0.3
-PB-Mari,2020-07-11,forecast,1.1,0.6,1.6,0.9,1.3,0.3
-PB-Mari,2020-07-12,forecast,1.1,0.6,1.6,1,1.3,0.31
-PB-Mari,2020-07-13,forecast,1.1,0.6,1.6,0.9,1.3,0.32
-PB-Mari,2020-07-14,forecast,1.1,0.6,1.6,1,1.4,0.31
+PB-Mari,2020-07-07,nowcast,1.1,0.8,1.4,1,1.2,0.26
+PB-Mari,2020-07-08,forecast,1.1,0.7,1.5,1,1.2,0.27
+PB-Mari,2020-07-09,forecast,1.1,0.7,1.5,1,1.3,0.28
+PB-Mari,2020-07-10,forecast,1.1,0.7,1.6,0.9,1.2,0.3
+PB-Mari,2020-07-11,forecast,1.1,0.7,1.5,0.9,1.3,0.31
+PB-Mari,2020-07-12,forecast,1.1,0.6,1.6,0.9,1.3,0.33
+PB-Mari,2020-07-13,forecast,1.1,0.6,1.6,0.9,1.3,0.33
+PB-Mari,2020-07-14,forecast,1.1,0.6,1.7,1,1.4,0.33
 PB-Mari,2020-07-15,forecast,1.1,0.6,1.7,0.9,1.3,0.33
-PB-Mari,2020-07-16,forecast,1.1,0.6,1.7,0.9,1.3,0.32
-PB-Mari,2020-07-17,forecast,1.1,0.5,1.7,0.9,1.4,0.33
-PB-Mari,2020-07-18,forecast,1.1,0.5,1.7,0.9,1.4,0.34
-PB-Mari,2020-07-19,forecast,1.1,0.5,1.7,0.9,1.4,0.35
-PB-Mari,2020-07-20,forecast,1.1,0.5,1.7,0.9,1.4,0.36
-PB-Mari,2020-07-21,forecast,1.2,0.4,1.7,0.9,1.4,0.34
-PB-Patos,2020-05-05,nowcast,1.4,1,1.8,1.2,1.6,0.05
-PB-Patos,2020-05-06,nowcast,1.4,0.9,1.8,1.2,1.5,0.07
-PB-Patos,2020-05-07,nowcast,1.3,0.9,1.7,1.1,1.4,0.08
-PB-Patos,2020-05-08,nowcast,1.3,0.9,1.6,1.1,1.4,0.1
-PB-Patos,2020-05-09,nowcast,1.2,0.8,1.5,1.1,1.3,0.15
+PB-Mari,2020-07-16,forecast,1.1,0.6,1.7,0.9,1.3,0.36
+PB-Mari,2020-07-17,forecast,1.1,0.6,1.7,0.9,1.4,0.35
+PB-Mari,2020-07-18,forecast,1.1,0.5,1.7,0.9,1.3,0.35
+PB-Mari,2020-07-19,forecast,1.1,0.5,1.7,0.9,1.3,0.35
+PB-Mari,2020-07-20,forecast,1.1,0.5,1.8,0.9,1.4,0.36
+PB-Mari,2020-07-21,forecast,1.1,0.5,1.8,0.9,1.4,0.35
+PB-Patos,2020-05-05,nowcast,1.4,1,1.8,1.2,1.6,0.06
+PB-Patos,2020-05-06,nowcast,1.3,0.9,1.8,1.2,1.5,0.08
+PB-Patos,2020-05-07,nowcast,1.3,0.9,1.7,1.2,1.4,0.09
+PB-Patos,2020-05-08,nowcast,1.3,0.9,1.6,1.1,1.4,0.11
+PB-Patos,2020-05-09,nowcast,1.2,0.8,1.5,1,1.3,0.15
 PB-Patos,2020-05-10,nowcast,1.2,0.8,1.5,1,1.3,0.2
-PB-Patos,2020-05-11,nowcast,1.1,0.8,1.4,1,1.2,0.26
-PB-Patos,2020-05-12,nowcast,1.1,0.7,1.3,1,1.2,0.37
-PB-Patos,2020-05-13,nowcast,1,0.7,1.3,0.9,1.1,0.44
-PB-Patos,2020-05-14,nowcast,1,0.7,1.2,0.9,1.1,0.54
-PB-Patos,2020-05-15,nowcast,1,0.7,1.2,0.9,1.1,0.59
-PB-Patos,2020-05-16,nowcast,0.9,0.7,1.2,0.9,1.1,0.64
-PB-Patos,2020-05-17,nowcast,0.9,0.7,1.2,0.8,1,0.64
-PB-Patos,2020-05-18,nowcast,1,0.7,1.3,0.9,1.1,0.58
-PB-Patos,2020-05-19,nowcast,1,0.7,1.3,0.9,1.1,0.46
+PB-Patos,2020-05-11,nowcast,1.1,0.8,1.4,1,1.2,0.25
+PB-Patos,2020-05-12,nowcast,1.1,0.8,1.3,0.9,1.2,0.34
+PB-Patos,2020-05-13,nowcast,1,0.8,1.3,0.9,1.1,0.43
+PB-Patos,2020-05-14,nowcast,1,0.7,1.2,0.9,1.1,0.53
+PB-Patos,2020-05-15,nowcast,1,0.7,1.2,0.9,1.1,0.6
+PB-Patos,2020-05-16,nowcast,1,0.7,1.2,0.8,1,0.62
+PB-Patos,2020-05-17,nowcast,1,0.7,1.2,0.8,1,0.63
+PB-Patos,2020-05-18,nowcast,1,0.7,1.3,0.9,1.1,0.54
+PB-Patos,2020-05-19,nowcast,1,0.8,1.4,0.9,1.1,0.45
 PB-Patos,2020-05-20,nowcast,1.1,0.8,1.4,0.9,1.1,0.35
-PB-Patos,2020-05-21,nowcast,1.1,0.8,1.5,1,1.2,0.22
-PB-Patos,2020-05-22,nowcast,1.1,0.9,1.5,1,1.2,0.17
-PB-Patos,2020-05-23,nowcast,1.1,0.9,1.4,1,1.2,0.17
-PB-Patos,2020-05-24,nowcast,1.1,0.9,1.4,1,1.2,0.2
-PB-Patos,2020-05-25,nowcast,1.1,0.8,1.4,1,1.2,0.25
+PB-Patos,2020-05-21,nowcast,1.1,0.8,1.4,1,1.2,0.23
+PB-Patos,2020-05-22,nowcast,1.1,0.8,1.4,1,1.2,0.18
+PB-Patos,2020-05-23,nowcast,1.1,0.9,1.4,1,1.2,0.15
+PB-Patos,2020-05-24,nowcast,1.1,0.9,1.4,1,1.2,0.19
+PB-Patos,2020-05-25,nowcast,1.1,0.8,1.3,1,1.2,0.26
 PB-Patos,2020-05-26,nowcast,1.1,0.8,1.3,1,1.2,0.33
-PB-Patos,2020-05-27,nowcast,1,0.8,1.3,0.9,1.1,0.4
-PB-Patos,2020-05-28,nowcast,1,0.8,1.3,0.9,1.1,0.44
-PB-Patos,2020-05-29,nowcast,1,0.8,1.2,0.9,1.1,0.48
-PB-Patos,2020-05-30,nowcast,1,0.8,1.2,0.9,1.1,0.51
-PB-Patos,2020-05-31,nowcast,1,0.7,1.2,0.9,1.1,0.57
-PB-Patos,2020-06-01,nowcast,1,0.7,1.2,0.9,1,0.6
+PB-Patos,2020-05-27,nowcast,1,0.8,1.3,1,1.1,0.38
+PB-Patos,2020-05-28,nowcast,1,0.7,1.3,0.9,1.1,0.42
+PB-Patos,2020-05-29,nowcast,1,0.8,1.3,0.9,1.1,0.47
+PB-Patos,2020-05-30,nowcast,1,0.8,1.3,0.9,1.1,0.49
+PB-Patos,2020-05-31,nowcast,1,0.7,1.2,0.9,1.1,0.55
+PB-Patos,2020-06-01,nowcast,1,0.7,1.2,0.9,1.1,0.58
 PB-Patos,2020-06-02,nowcast,1,0.7,1.2,0.9,1,0.63
-PB-Patos,2020-06-03,nowcast,0.9,0.7,1.2,0.8,1,0.69
-PB-Patos,2020-06-04,nowcast,0.9,0.7,1.2,0.9,1,0.68
-PB-Patos,2020-06-05,nowcast,0.9,0.7,1.2,0.8,1,0.68
+PB-Patos,2020-06-03,nowcast,0.9,0.7,1.2,0.9,1,0.67
+PB-Patos,2020-06-04,nowcast,0.9,0.7,1.2,0.8,1,0.68
+PB-Patos,2020-06-05,nowcast,0.9,0.7,1.2,0.9,1,0.67
 PB-Patos,2020-06-06,nowcast,0.9,0.7,1.2,0.8,1,0.66
 PB-Patos,2020-06-07,nowcast,1,0.7,1.2,0.9,1,0.59
-PB-Patos,2020-06-08,nowcast,1,0.7,1.3,0.9,1.1,0.52
-PB-Patos,2020-06-09,nowcast,1,0.7,1.3,0.9,1.1,0.45
-PB-Patos,2020-06-10,nowcast,1.1,0.8,1.4,0.9,1.2,0.31
+PB-Patos,2020-06-08,nowcast,1,0.7,1.3,0.9,1.1,0.54
+PB-Patos,2020-06-09,nowcast,1,0.8,1.3,0.9,1.1,0.43
+PB-Patos,2020-06-10,nowcast,1.1,0.8,1.4,0.9,1.1,0.31
 PB-Patos,2020-06-11,nowcast,1.1,0.9,1.4,1,1.2,0.2
 PB-Patos,2020-06-12,nowcast,1.2,0.9,1.5,1,1.2,0.14
-PB-Patos,2020-06-13,nowcast,1.2,0.9,1.5,1.1,1.3,0.11
-PB-Patos,2020-06-14,nowcast,1.2,0.9,1.5,1.1,1.3,0.07
-PB-Patos,2020-06-15,nowcast,1.2,1,1.5,1.1,1.3,0.06
+PB-Patos,2020-06-13,nowcast,1.2,0.9,1.5,1.1,1.3,0.1
+PB-Patos,2020-06-14,nowcast,1.2,0.9,1.5,1.1,1.3,0.08
+PB-Patos,2020-06-15,nowcast,1.2,1,1.5,1.1,1.3,0.07
 PB-Patos,2020-06-16,nowcast,1.2,1,1.5,1.1,1.3,0.06
 PB-Patos,2020-06-17,nowcast,1.2,1,1.5,1.1,1.3,0.06
 PB-Patos,2020-06-18,nowcast,1.2,1,1.5,1.1,1.3,0.06
-PB-Patos,2020-06-19,nowcast,1.2,1,1.5,1.1,1.3,0.06
-PB-Patos,2020-06-20,nowcast,1.2,1,1.5,1.1,1.3,0.07
-PB-Patos,2020-06-21,nowcast,1.2,1,1.4,1.1,1.3,0.08
+PB-Patos,2020-06-19,nowcast,1.2,1,1.5,1.1,1.3,0.05
+PB-Patos,2020-06-20,nowcast,1.2,1,1.4,1.1,1.3,0.06
+PB-Patos,2020-06-21,nowcast,1.2,0.9,1.4,1.1,1.3,0.08
 PB-Patos,2020-06-22,nowcast,1.2,0.9,1.4,1.1,1.2,0.1
-PB-Patos,2020-06-23,nowcast,1.1,0.9,1.4,1.1,1.2,0.14
-PB-Patos,2020-06-24,nowcast,1.1,0.9,1.3,1,1.2,0.17
-PB-Patos,2020-06-25,nowcast,1.1,0.9,1.3,1,1.2,0.18
+PB-Patos,2020-06-23,nowcast,1.1,0.9,1.3,1.1,1.2,0.14
+PB-Patos,2020-06-24,nowcast,1.1,0.9,1.3,1,1.2,0.18
+PB-Patos,2020-06-25,nowcast,1.1,0.9,1.3,1,1.2,0.2
 PB-Patos,2020-06-26,nowcast,1.1,0.9,1.3,1,1.2,0.21
-PB-Patos,2020-06-27,nowcast,1.1,0.9,1.3,1,1.2,0.24
-PB-Patos,2020-06-28,nowcast,1.1,0.9,1.2,1,1.2,0.27
-PB-Patos,2020-06-29,nowcast,1,0.8,1.2,1,1.1,0.35
-PB-Patos,2020-06-30,nowcast,1,0.8,1.2,0.9,1.1,0.46
-PB-Patos,2020-07-01,nowcast,1,0.8,1.2,0.9,1.1,0.6
-PB-Patos,2020-07-02,nowcast,0.9,0.7,1.1,0.9,1,0.77
-PB-Patos,2020-07-03,nowcast,0.9,0.7,1.1,0.8,1,0.89
-PB-Patos,2020-07-04,nowcast,0.8,0.6,1,0.8,0.9,0.94
-PB-Patos,2020-07-05,nowcast,0.8,0.6,1,0.7,0.9,0.95
-PB-Patos,2020-07-06,nowcast,0.8,0.6,1,0.7,0.9,0.95
-PB-Patos,2020-07-07,nowcast,0.8,0.6,1,0.7,0.9,0.91
-PB-Patos,2020-07-08,forecast,0.8,0.5,1.1,0.7,0.9,0.87
+PB-Patos,2020-06-27,nowcast,1.1,0.9,1.3,1,1.1,0.26
+PB-Patos,2020-06-28,nowcast,1.1,0.9,1.3,1,1.1,0.3
+PB-Patos,2020-06-29,nowcast,1,0.8,1.2,1,1.1,0.37
+PB-Patos,2020-06-30,nowcast,1,0.8,1.2,0.9,1.1,0.48
+PB-Patos,2020-07-01,nowcast,1,0.8,1.1,0.9,1.1,0.62
+PB-Patos,2020-07-02,nowcast,0.9,0.7,1.1,0.8,1,0.77
+PB-Patos,2020-07-03,nowcast,0.9,0.7,1.1,0.8,1,0.9
+PB-Patos,2020-07-04,nowcast,0.8,0.6,1,0.7,0.9,0.95
+PB-Patos,2020-07-05,nowcast,0.8,0.6,1,0.7,0.9,0.97
+PB-Patos,2020-07-06,nowcast,0.8,0.6,1,0.7,0.9,0.96
+PB-Patos,2020-07-07,nowcast,0.8,0.6,1,0.7,0.9,0.94
+PB-Patos,2020-07-08,nowcast,0.8,0.6,1.1,0.7,0.9,0.86
 PB-Patos,2020-07-09,forecast,0.8,0.5,1.1,0.7,0.9,0.85
-PB-Patos,2020-07-10,forecast,0.8,0.4,1.1,0.7,0.9,0.85
-PB-Patos,2020-07-11,forecast,0.8,0.4,1.2,0.7,0.9,0.83
-PB-Patos,2020-07-12,forecast,0.8,0.4,1.2,0.6,1,0.81
-PB-Patos,2020-07-13,forecast,0.8,0.3,1.2,0.6,1,0.81
-PB-Patos,2020-07-14,forecast,0.8,0.3,1.2,0.6,0.9,0.8
-PB-Patos,2020-07-15,forecast,0.8,0.3,1.2,0.6,0.9,0.8
-PB-Patos,2020-07-16,forecast,0.8,0.3,1.3,0.6,1,0.79
-PB-Patos,2020-07-17,forecast,0.7,0.2,1.3,0.5,0.9,0.79
-PB-Patos,2020-07-18,forecast,0.8,0.2,1.3,0.5,1,0.78
-PB-Patos,2020-07-19,forecast,0.7,0.2,1.3,0.5,1,0.79
-PB-Patos,2020-07-20,forecast,0.7,0.2,1.3,0.5,0.9,0.78
-PB-Patos,2020-07-21,forecast,0.7,0,1.2,0.5,0.9,0.79
+PB-Patos,2020-07-10,forecast,0.8,0.5,1.1,0.7,0.9,0.84
+PB-Patos,2020-07-11,forecast,0.8,0.4,1.2,0.6,0.9,0.82
+PB-Patos,2020-07-12,forecast,0.8,0.4,1.2,0.6,0.9,0.81
+PB-Patos,2020-07-13,forecast,0.8,0.4,1.2,0.6,0.9,0.81
+PB-Patos,2020-07-14,forecast,0.8,0.3,1.2,0.6,0.9,0.81
+PB-Patos,2020-07-15,forecast,0.8,0.3,1.3,0.5,0.9,0.78
+PB-Patos,2020-07-16,forecast,0.8,0.2,1.2,0.6,1,0.78
+PB-Patos,2020-07-17,forecast,0.8,0.3,1.3,0.6,1,0.78
+PB-Patos,2020-07-18,forecast,0.8,0.2,1.3,0.5,1,0.76
+PB-Patos,2020-07-19,forecast,0.8,0.2,1.4,0.5,1,0.77
+PB-Patos,2020-07-20,forecast,0.7,0.2,1.4,0.5,1,0.77
+PB-Patos,2020-07-21,forecast,0.7,0,1.2,0.5,1,0.77
+PB-Patos,2020-07-22,forecast,0.7,0,1.2,0.5,1,0.77
 PB-Rio Tinto,2020-05-22,nowcast,1.4,0.7,2.1,1.1,1.6,0.15
 PB-Rio Tinto,2020-05-23,nowcast,1.4,0.7,2.2,1.1,1.6,0.15
 PB-Rio Tinto,2020-05-24,nowcast,1.3,0.7,2,1.1,1.5,0.16
@@ -1069,228 +1077,231 @@ PB-Rio Tinto,2020-07-18,forecast,1.1,0.6,1.7,0.9,1.3,0.36
 PB-Rio Tinto,2020-07-19,forecast,1.1,0.6,1.8,0.9,1.3,0.35
 PB-Rio Tinto,2020-07-20,forecast,1.1,0.5,1.7,0.9,1.3,0.37
 PB-Rio Tinto,2020-07-21,forecast,1.1,0.5,1.7,0.9,1.3,0.37
-PB-Santa Rita,2020-04-25,nowcast,1.3,0.8,1.8,1.1,1.5,0.14
-PB-Santa Rita,2020-04-26,nowcast,1.3,0.8,1.7,1.1,1.4,0.16
-PB-Santa Rita,2020-04-27,nowcast,1.2,0.8,1.7,1,1.3,0.18
-PB-Santa Rita,2020-04-28,nowcast,1.2,0.8,1.6,1,1.4,0.19
-PB-Santa Rita,2020-04-29,nowcast,1.2,0.8,1.6,1,1.3,0.2
+PB-Santa Rita,2020-04-25,nowcast,1.3,0.8,1.8,1.1,1.5,0.13
+PB-Santa Rita,2020-04-26,nowcast,1.3,0.8,1.7,1.1,1.5,0.16
+PB-Santa Rita,2020-04-27,nowcast,1.2,0.8,1.6,1,1.4,0.18
+PB-Santa Rita,2020-04-28,nowcast,1.2,0.8,1.6,1.1,1.4,0.19
+PB-Santa Rita,2020-04-29,nowcast,1.2,0.8,1.6,1,1.3,0.19
 PB-Santa Rita,2020-04-30,nowcast,1.2,0.8,1.6,1,1.3,0.2
-PB-Santa Rita,2020-05-01,nowcast,1.2,0.8,1.5,1,1.3,0.21
-PB-Santa Rita,2020-05-02,nowcast,1.2,0.8,1.6,1,1.3,0.21
+PB-Santa Rita,2020-05-01,nowcast,1.2,0.8,1.5,1,1.3,0.2
+PB-Santa Rita,2020-05-02,nowcast,1.2,0.8,1.5,1,1.3,0.2
 PB-Santa Rita,2020-05-03,nowcast,1.2,0.8,1.5,1,1.3,0.22
-PB-Santa Rita,2020-05-04,nowcast,1.1,0.8,1.5,1,1.2,0.25
-PB-Santa Rita,2020-05-05,nowcast,1.1,0.8,1.5,1,1.3,0.24
+PB-Santa Rita,2020-05-04,nowcast,1.1,0.8,1.5,1,1.3,0.24
+PB-Santa Rita,2020-05-05,nowcast,1.1,0.8,1.5,1,1.2,0.23
 PB-Santa Rita,2020-05-06,nowcast,1.1,0.8,1.5,1,1.2,0.24
-PB-Santa Rita,2020-05-07,nowcast,1.1,0.8,1.4,1,1.3,0.26
-PB-Santa Rita,2020-05-08,nowcast,1.1,0.8,1.4,1,1.2,0.26
-PB-Santa Rita,2020-05-09,nowcast,1.1,0.8,1.5,1,1.2,0.27
-PB-Santa Rita,2020-05-10,nowcast,1.1,0.8,1.4,1,1.2,0.29
-PB-Santa Rita,2020-05-11,nowcast,1.1,0.8,1.4,1,1.2,0.27
-PB-Santa Rita,2020-05-12,nowcast,1.1,0.8,1.4,1,1.2,0.27
-PB-Santa Rita,2020-05-13,nowcast,1.1,0.8,1.4,1,1.2,0.24
-PB-Santa Rita,2020-05-14,nowcast,1.1,0.8,1.5,1,1.2,0.22
-PB-Santa Rita,2020-05-15,nowcast,1.1,0.8,1.5,1,1.2,0.19
-PB-Santa Rita,2020-05-16,nowcast,1.1,0.9,1.5,1,1.2,0.19
-PB-Santa Rita,2020-05-17,nowcast,1.1,0.9,1.5,1,1.2,0.19
-PB-Santa Rita,2020-05-18,nowcast,1.1,0.9,1.4,1,1.2,0.19
-PB-Santa Rita,2020-05-19,nowcast,1.1,0.8,1.4,1,1.2,0.2
+PB-Santa Rita,2020-05-07,nowcast,1.1,0.8,1.5,1,1.2,0.24
+PB-Santa Rita,2020-05-08,nowcast,1.1,0.8,1.5,1,1.2,0.25
+PB-Santa Rita,2020-05-09,nowcast,1.1,0.8,1.4,1,1.2,0.28
+PB-Santa Rita,2020-05-10,nowcast,1.1,0.8,1.4,1,1.2,0.28
+PB-Santa Rita,2020-05-11,nowcast,1.1,0.8,1.4,1,1.2,0.29
+PB-Santa Rita,2020-05-12,nowcast,1.1,0.8,1.4,1,1.2,0.29
+PB-Santa Rita,2020-05-13,nowcast,1.1,0.8,1.4,1,1.2,0.25
+PB-Santa Rita,2020-05-14,nowcast,1.1,0.8,1.4,1,1.2,0.23
+PB-Santa Rita,2020-05-15,nowcast,1.1,0.8,1.4,1,1.2,0.22
+PB-Santa Rita,2020-05-16,nowcast,1.1,0.9,1.4,1,1.2,0.2
+PB-Santa Rita,2020-05-17,nowcast,1.1,0.8,1.5,1,1.2,0.19
+PB-Santa Rita,2020-05-18,nowcast,1.1,0.9,1.5,1,1.2,0.19
+PB-Santa Rita,2020-05-19,nowcast,1.1,0.9,1.4,1,1.2,0.2
 PB-Santa Rita,2020-05-20,nowcast,1.1,0.9,1.4,1,1.2,0.21
-PB-Santa Rita,2020-05-21,nowcast,1.1,0.8,1.4,1,1.2,0.24
-PB-Santa Rita,2020-05-22,nowcast,1.1,0.8,1.4,1,1.2,0.27
+PB-Santa Rita,2020-05-21,nowcast,1.1,0.8,1.4,1,1.2,0.23
+PB-Santa Rita,2020-05-22,nowcast,1.1,0.8,1.3,1,1.2,0.28
 PB-Santa Rita,2020-05-23,nowcast,1.1,0.8,1.3,1,1.2,0.32
-PB-Santa Rita,2020-05-24,nowcast,1,0.7,1.3,0.9,1.1,0.42
+PB-Santa Rita,2020-05-24,nowcast,1,0.8,1.3,0.9,1.2,0.42
 PB-Santa Rita,2020-05-25,nowcast,1,0.7,1.2,0.9,1.1,0.49
 PB-Santa Rita,2020-05-26,nowcast,1,0.7,1.2,0.9,1.1,0.53
-PB-Santa Rita,2020-05-27,nowcast,1,0.8,1.2,0.9,1.1,0.54
-PB-Santa Rita,2020-05-28,nowcast,1,0.8,1.2,0.9,1.1,0.53
-PB-Santa Rita,2020-05-29,nowcast,1,0.8,1.3,0.9,1.1,0.51
-PB-Santa Rita,2020-05-30,nowcast,1,0.7,1.2,0.9,1.1,0.51
-PB-Santa Rita,2020-05-31,nowcast,1,0.8,1.3,0.9,1.1,0.51
-PB-Santa Rita,2020-06-01,nowcast,1,0.8,1.3,0.9,1.1,0.49
-PB-Santa Rita,2020-06-02,nowcast,1,0.8,1.3,0.9,1.1,0.45
-PB-Santa Rita,2020-06-03,nowcast,1,0.8,1.3,0.9,1.1,0.43
-PB-Santa Rita,2020-06-04,nowcast,1,0.8,1.3,0.9,1.1,0.43
-PB-Santa Rita,2020-06-05,nowcast,1,0.8,1.3,0.9,1.1,0.4
-PB-Santa Rita,2020-06-06,nowcast,1,0.8,1.3,0.9,1.1,0.4
-PB-Santa Rita,2020-06-07,nowcast,1,0.8,1.3,0.9,1.1,0.44
-PB-Santa Rita,2020-06-08,nowcast,1,0.8,1.3,0.9,1.1,0.48
-PB-Santa Rita,2020-06-09,nowcast,1,0.8,1.2,0.9,1.1,0.51
-PB-Santa Rita,2020-06-10,nowcast,1,0.7,1.2,0.9,1.1,0.53
-PB-Santa Rita,2020-06-11,nowcast,1,0.7,1.2,0.9,1.1,0.57
+PB-Santa Rita,2020-05-27,nowcast,1,0.7,1.2,0.9,1.1,0.52
+PB-Santa Rita,2020-05-28,nowcast,1,0.8,1.3,0.9,1.1,0.5
+PB-Santa Rita,2020-05-29,nowcast,1,0.8,1.3,0.9,1.1,0.49
+PB-Santa Rita,2020-05-30,nowcast,1,0.8,1.3,0.9,1.1,0.49
+PB-Santa Rita,2020-05-31,nowcast,1,0.7,1.3,0.9,1.1,0.48
+PB-Santa Rita,2020-06-01,nowcast,1,0.8,1.3,0.9,1.1,0.46
+PB-Santa Rita,2020-06-02,nowcast,1,0.8,1.3,0.9,1.1,0.47
+PB-Santa Rita,2020-06-03,nowcast,1,0.8,1.3,0.9,1.1,0.46
+PB-Santa Rita,2020-06-04,nowcast,1,0.8,1.3,0.9,1.1,0.42
+PB-Santa Rita,2020-06-05,nowcast,1,0.8,1.3,0.9,1.1,0.41
+PB-Santa Rita,2020-06-06,nowcast,1,0.8,1.3,0.9,1.1,0.42
+PB-Santa Rita,2020-06-07,nowcast,1,0.8,1.3,0.9,1.1,0.45
+PB-Santa Rita,2020-06-08,nowcast,1,0.7,1.2,0.9,1.1,0.49
+PB-Santa Rita,2020-06-09,nowcast,1,0.7,1.2,0.9,1.1,0.52
+PB-Santa Rita,2020-06-10,nowcast,1,0.7,1.2,0.9,1.1,0.54
+PB-Santa Rita,2020-06-11,nowcast,1,0.7,1.2,0.9,1.1,0.58
 PB-Santa Rita,2020-06-12,nowcast,1,0.7,1.2,0.9,1.1,0.59
-PB-Santa Rita,2020-06-13,nowcast,1,0.7,1.2,0.9,1,0.64
-PB-Santa Rita,2020-06-14,nowcast,0.9,0.7,1.2,0.9,1,0.67
-PB-Santa Rita,2020-06-15,nowcast,0.9,0.7,1.2,0.9,1,0.72
-PB-Santa Rita,2020-06-16,nowcast,0.9,0.7,1.2,0.8,1,0.74
-PB-Santa Rita,2020-06-17,nowcast,0.9,0.7,1.2,0.8,1,0.77
-PB-Santa Rita,2020-06-18,nowcast,0.9,0.7,1.1,0.8,1,0.78
-PB-Santa Rita,2020-06-19,nowcast,0.9,0.6,1.1,0.8,1,0.79
+PB-Santa Rita,2020-06-13,nowcast,1,0.7,1.2,0.9,1.1,0.62
+PB-Santa Rita,2020-06-14,nowcast,0.9,0.7,1.2,0.8,1,0.67
+PB-Santa Rita,2020-06-15,nowcast,0.9,0.7,1.2,0.8,1,0.71
+PB-Santa Rita,2020-06-16,nowcast,0.9,0.6,1.1,0.8,1,0.74
+PB-Santa Rita,2020-06-17,nowcast,0.9,0.6,1.1,0.8,1,0.79
+PB-Santa Rita,2020-06-18,nowcast,0.9,0.6,1.1,0.8,1,0.79
+PB-Santa Rita,2020-06-19,nowcast,0.9,0.6,1.1,0.8,1,0.78
 PB-Santa Rita,2020-06-20,nowcast,0.9,0.7,1.2,0.8,1,0.74
-PB-Santa Rita,2020-06-21,nowcast,0.9,0.7,1.2,0.8,1,0.69
-PB-Santa Rita,2020-06-22,nowcast,0.9,0.7,1.2,0.8,1,0.62
-PB-Santa Rita,2020-06-23,nowcast,1,0.7,1.3,0.9,1.1,0.55
-PB-Santa Rita,2020-06-24,nowcast,1,0.7,1.3,0.9,1.1,0.46
-PB-Santa Rita,2020-06-25,nowcast,1,0.8,1.4,0.9,1.1,0.39
-PB-Santa Rita,2020-06-26,nowcast,1.1,0.8,1.4,0.9,1.2,0.35
+PB-Santa Rita,2020-06-21,nowcast,0.9,0.7,1.2,0.8,1,0.7
+PB-Santa Rita,2020-06-22,nowcast,1,0.7,1.3,0.8,1,0.63
+PB-Santa Rita,2020-06-23,nowcast,1,0.7,1.3,0.9,1.1,0.53
+PB-Santa Rita,2020-06-24,nowcast,1,0.7,1.3,0.9,1.1,0.47
+PB-Santa Rita,2020-06-25,nowcast,1.1,0.8,1.4,0.9,1.1,0.37
+PB-Santa Rita,2020-06-26,nowcast,1.1,0.8,1.4,0.9,1.1,0.32
 PB-Santa Rita,2020-06-27,nowcast,1.1,0.8,1.4,1,1.2,0.26
-PB-Santa Rita,2020-06-28,nowcast,1.1,0.9,1.4,1,1.2,0.2
-PB-Santa Rita,2020-06-29,nowcast,1.2,0.9,1.5,1,1.2,0.17
-PB-Santa Rita,2020-06-30,nowcast,1.2,0.9,1.5,1.1,1.3,0.12
-PB-Santa Rita,2020-07-01,nowcast,1.2,0.9,1.5,1.1,1.3,0.1
-PB-Santa Rita,2020-07-02,nowcast,1.2,1,1.5,1.1,1.3,0.07
-PB-Santa Rita,2020-07-03,nowcast,1.2,1,1.5,1.1,1.3,0.07
-PB-Santa Rita,2020-07-04,nowcast,1.2,1,1.5,1.1,1.4,0.06
-PB-Santa Rita,2020-07-05,nowcast,1.3,1,1.5,1.1,1.3,0.06
-PB-Santa Rita,2020-07-06,nowcast,1.3,1,1.5,1.1,1.3,0.05
-PB-Santa Rita,2020-07-07,nowcast,1.3,1,1.6,1.1,1.4,0.04
-PB-Santa Rita,2020-07-08,forecast,1.3,0.9,1.7,1.1,1.4,0.09
-PB-Santa Rita,2020-07-09,forecast,1.3,0.9,1.7,1.1,1.4,0.12
-PB-Santa Rita,2020-07-10,forecast,1.3,0.8,1.7,1.1,1.5,0.14
-PB-Santa Rita,2020-07-11,forecast,1.3,0.8,1.8,1.1,1.5,0.15
+PB-Santa Rita,2020-06-28,nowcast,1.1,0.9,1.5,1,1.2,0.22
+PB-Santa Rita,2020-06-29,nowcast,1.1,0.9,1.5,1,1.2,0.18
+PB-Santa Rita,2020-06-30,nowcast,1.2,0.9,1.5,1,1.3,0.13
+PB-Santa Rita,2020-07-01,nowcast,1.2,0.9,1.5,1,1.3,0.1
+PB-Santa Rita,2020-07-02,nowcast,1.2,0.9,1.5,1.1,1.3,0.09
+PB-Santa Rita,2020-07-03,nowcast,1.2,0.9,1.5,1.1,1.3,0.08
+PB-Santa Rita,2020-07-04,nowcast,1.2,0.9,1.5,1.1,1.3,0.08
+PB-Santa Rita,2020-07-05,nowcast,1.2,0.9,1.5,1.1,1.3,0.07
+PB-Santa Rita,2020-07-06,nowcast,1.2,1,1.5,1.1,1.3,0.06
+PB-Santa Rita,2020-07-07,nowcast,1.2,1,1.5,1.1,1.3,0.05
+PB-Santa Rita,2020-07-08,nowcast,1.3,1,1.6,1.2,1.4,0.05
+PB-Santa Rita,2020-07-09,forecast,1.3,0.9,1.6,1.1,1.4,0.11
+PB-Santa Rita,2020-07-10,forecast,1.3,0.9,1.7,1.2,1.5,0.12
+PB-Santa Rita,2020-07-11,forecast,1.3,0.8,1.8,1.1,1.4,0.15
 PB-Santa Rita,2020-07-12,forecast,1.3,0.8,1.8,1.1,1.5,0.16
-PB-Santa Rita,2020-07-13,forecast,1.3,0.8,1.9,1.1,1.5,0.17
-PB-Santa Rita,2020-07-14,forecast,1.3,0.7,1.9,1.1,1.5,0.18
-PB-Santa Rita,2020-07-15,forecast,1.3,0.7,1.9,1,1.5,0.19
-PB-Santa Rita,2020-07-16,forecast,1.3,0.7,1.9,1.1,1.6,0.2
-PB-Santa Rita,2020-07-17,forecast,1.3,0.7,2,1.1,1.6,0.21
-PB-Santa Rita,2020-07-18,forecast,1.3,0.6,2.1,1.1,1.6,0.21
-PB-Santa Rita,2020-07-19,forecast,1.3,0.6,2,1,1.5,0.22
-PB-Santa Rita,2020-07-20,forecast,1.3,0.6,2.1,1,1.6,0.21
-PB-Santa Rita,2020-07-21,forecast,1.3,0.5,2.1,1.1,1.7,0.22
-PB-São Bento,2020-05-19,nowcast,1.4,0.9,1.9,1.1,1.6,0.09
-PB-São Bento,2020-05-20,nowcast,1.4,0.8,1.9,1.1,1.5,0.1
-PB-São Bento,2020-05-21,nowcast,1.3,0.8,1.8,1.1,1.5,0.11
-PB-São Bento,2020-05-22,nowcast,1.3,0.8,1.7,1.1,1.4,0.11
-PB-São Bento,2020-05-23,nowcast,1.3,0.9,1.7,1.1,1.4,0.12
-PB-São Bento,2020-05-24,nowcast,1.3,0.8,1.7,1.1,1.4,0.13
-PB-São Bento,2020-05-25,nowcast,1.2,0.8,1.7,1.1,1.4,0.14
-PB-São Bento,2020-05-26,nowcast,1.2,0.8,1.6,1.1,1.4,0.12
-PB-São Bento,2020-05-27,nowcast,1.2,0.9,1.6,1.1,1.4,0.12
-PB-São Bento,2020-05-28,nowcast,1.2,0.9,1.6,1.1,1.4,0.11
-PB-São Bento,2020-05-29,nowcast,1.2,0.9,1.6,1.1,1.4,0.13
-PB-São Bento,2020-05-30,nowcast,1.2,0.9,1.5,1,1.3,0.16
-PB-São Bento,2020-05-31,nowcast,1.2,0.9,1.5,1.1,1.3,0.17
-PB-São Bento,2020-06-01,nowcast,1.1,0.8,1.5,1,1.3,0.24
-PB-São Bento,2020-06-02,nowcast,1.1,0.8,1.4,1,1.2,0.3
-PB-São Bento,2020-06-03,nowcast,1,0.7,1.3,0.9,1.2,0.43
+PB-Santa Rita,2020-07-13,forecast,1.3,0.8,1.8,1,1.5,0.18
+PB-Santa Rita,2020-07-14,forecast,1.3,0.7,1.9,1,1.5,0.18
+PB-Santa Rita,2020-07-15,forecast,1.3,0.7,1.9,1.1,1.5,0.19
+PB-Santa Rita,2020-07-16,forecast,1.3,0.7,2,1.1,1.5,0.19
+PB-Santa Rita,2020-07-17,forecast,1.3,0.6,1.9,1.1,1.6,0.2
+PB-Santa Rita,2020-07-18,forecast,1.3,0.6,2,1.1,1.6,0.21
+PB-Santa Rita,2020-07-19,forecast,1.3,0.6,2,1,1.6,0.21
+PB-Santa Rita,2020-07-20,forecast,1.3,0.6,2.1,1,1.6,0.22
+PB-Santa Rita,2020-07-21,forecast,1.3,0.6,2,1,1.5,0.22
+PB-Santa Rita,2020-07-22,forecast,1.3,0.5,2.1,1,1.6,0.23
+PB-São Bento,2020-05-19,nowcast,1.4,0.9,1.9,1.2,1.6,0.09
+PB-São Bento,2020-05-20,nowcast,1.3,0.9,1.9,1.1,1.5,0.1
+PB-São Bento,2020-05-21,nowcast,1.3,0.9,1.8,1.1,1.5,0.11
+PB-São Bento,2020-05-22,nowcast,1.3,0.9,1.8,1.1,1.5,0.11
+PB-São Bento,2020-05-23,nowcast,1.3,0.9,1.7,1.1,1.4,0.11
+PB-São Bento,2020-05-24,nowcast,1.3,0.9,1.7,1.1,1.4,0.11
+PB-São Bento,2020-05-25,nowcast,1.3,0.8,1.6,1.1,1.4,0.12
+PB-São Bento,2020-05-26,nowcast,1.2,0.9,1.6,1.1,1.4,0.12
+PB-São Bento,2020-05-27,nowcast,1.2,0.9,1.6,1.1,1.4,0.13
+PB-São Bento,2020-05-28,nowcast,1.2,0.9,1.6,1.1,1.3,0.12
+PB-São Bento,2020-05-29,nowcast,1.2,0.9,1.6,1.1,1.3,0.13
+PB-São Bento,2020-05-30,nowcast,1.2,0.8,1.5,1,1.3,0.14
+PB-São Bento,2020-05-31,nowcast,1.2,0.9,1.5,1.1,1.3,0.18
+PB-São Bento,2020-06-01,nowcast,1.1,0.8,1.5,1,1.3,0.22
+PB-São Bento,2020-06-02,nowcast,1.1,0.8,1.4,1,1.2,0.31
+PB-São Bento,2020-06-03,nowcast,1,0.7,1.4,0.9,1.2,0.41
 PB-São Bento,2020-06-04,nowcast,1,0.7,1.3,0.9,1.1,0.56
-PB-São Bento,2020-06-05,nowcast,0.9,0.6,1.2,0.8,1.1,0.67
+PB-São Bento,2020-06-05,nowcast,0.9,0.6,1.2,0.8,1.1,0.66
 PB-São Bento,2020-06-06,nowcast,0.9,0.6,1.2,0.8,1,0.77
-PB-São Bento,2020-06-07,nowcast,0.9,0.6,1.1,0.8,1,0.82
-PB-São Bento,2020-06-08,nowcast,0.8,0.5,1.1,0.7,0.9,0.87
+PB-São Bento,2020-06-07,nowcast,0.9,0.6,1.1,0.7,0.9,0.82
+PB-São Bento,2020-06-08,nowcast,0.8,0.5,1.1,0.7,0.9,0.85
 PB-São Bento,2020-06-09,nowcast,0.8,0.6,1.1,0.7,0.9,0.86
-PB-São Bento,2020-06-10,nowcast,0.8,0.6,1.1,0.7,0.9,0.85
-PB-São Bento,2020-06-11,nowcast,0.8,0.6,1.2,0.7,0.9,0.8
-PB-São Bento,2020-06-12,nowcast,0.9,0.6,1.2,0.7,0.9,0.79
+PB-São Bento,2020-06-10,nowcast,0.8,0.6,1.1,0.7,0.9,0.84
+PB-São Bento,2020-06-11,nowcast,0.9,0.6,1.2,0.7,1,0.79
+PB-São Bento,2020-06-12,nowcast,0.9,0.6,1.2,0.7,1,0.76
 PB-São Bento,2020-06-13,nowcast,0.9,0.6,1.2,0.7,1,0.76
-PB-São Bento,2020-06-14,nowcast,0.9,0.6,1.2,0.7,1,0.76
-PB-São Bento,2020-06-15,nowcast,0.9,0.5,1.2,0.7,1,0.77
-PB-São Bento,2020-06-16,nowcast,0.9,0.5,1.2,0.7,1,0.78
-PB-São Bento,2020-06-17,nowcast,0.9,0.5,1.2,0.7,1,0.75
-PB-São Bento,2020-06-18,nowcast,0.9,0.6,1.3,0.8,1,0.69
-PB-São Bento,2020-06-19,nowcast,0.9,0.6,1.3,0.8,1,0.63
-PB-São Bento,2020-06-20,nowcast,1,0.6,1.3,0.8,1.1,0.59
-PB-São Bento,2020-06-21,nowcast,1,0.6,1.3,0.8,1.1,0.55
+PB-São Bento,2020-06-14,nowcast,0.9,0.6,1.2,0.7,1,0.77
+PB-São Bento,2020-06-15,nowcast,0.9,0.5,1.2,0.7,1,0.78
+PB-São Bento,2020-06-16,nowcast,0.9,0.6,1.2,0.7,1,0.76
+PB-São Bento,2020-06-17,nowcast,0.9,0.5,1.2,0.8,1,0.74
+PB-São Bento,2020-06-18,nowcast,0.9,0.6,1.3,0.8,1,0.67
+PB-São Bento,2020-06-19,nowcast,0.9,0.6,1.3,0.8,1,0.64
+PB-São Bento,2020-06-20,nowcast,1,0.6,1.3,0.8,1.1,0.6
+PB-São Bento,2020-06-21,nowcast,1,0.6,1.4,0.8,1.1,0.55
 PB-São Bento,2020-06-22,nowcast,1,0.6,1.4,0.8,1.1,0.51
-PB-São Bento,2020-06-23,nowcast,1,0.6,1.4,0.8,1.1,0.49
-PB-São Bento,2020-06-24,nowcast,1,0.7,1.4,0.9,1.1,0.45
-PB-São Bento,2020-06-25,nowcast,1.1,0.7,1.5,0.9,1.2,0.37
-PB-São Bento,2020-06-26,nowcast,1.1,0.7,1.5,0.9,1.2,0.31
-PB-São Bento,2020-06-27,nowcast,1.1,0.8,1.6,1,1.3,0.25
-PB-São Bento,2020-06-28,nowcast,1.2,0.8,1.7,1,1.3,0.17
-PB-São Bento,2020-06-29,nowcast,1.2,0.9,1.7,1.1,1.4,0.12
-PB-São Bento,2020-06-30,nowcast,1.3,0.9,1.6,1.1,1.4,0.1
-PB-São Bento,2020-07-01,nowcast,1.3,0.9,1.7,1.1,1.4,0.08
+PB-São Bento,2020-06-23,nowcast,1,0.6,1.4,0.9,1.1,0.48
+PB-São Bento,2020-06-24,nowcast,1,0.6,1.4,0.9,1.2,0.43
+PB-São Bento,2020-06-25,nowcast,1.1,0.7,1.5,0.9,1.2,0.39
+PB-São Bento,2020-06-26,nowcast,1.1,0.7,1.5,1,1.2,0.31
+PB-São Bento,2020-06-27,nowcast,1.1,0.8,1.5,1,1.3,0.24
+PB-São Bento,2020-06-28,nowcast,1.2,0.8,1.6,1,1.3,0.19
+PB-São Bento,2020-06-29,nowcast,1.2,0.9,1.7,1,1.3,0.14
+PB-São Bento,2020-06-30,nowcast,1.3,0.9,1.7,1.1,1.4,0.1
+PB-São Bento,2020-07-01,nowcast,1.3,0.9,1.7,1.1,1.4,0.07
 PB-São Bento,2020-07-02,nowcast,1.3,1,1.7,1.1,1.4,0.05
-PB-São Bento,2020-07-03,nowcast,1.3,1,1.7,1.2,1.4,0.05
-PB-São Bento,2020-07-04,nowcast,1.3,1,1.7,1.2,1.4,0.05
-PB-São Bento,2020-07-05,nowcast,1.3,1,1.7,1.2,1.5,0.06
-PB-São Bento,2020-07-06,nowcast,1.3,1,1.7,1.1,1.4,0.05
-PB-São Bento,2020-07-07,nowcast,1.3,1,1.7,1.2,1.4,0.05
-PB-São Bento,2020-07-08,forecast,1.3,0.9,1.8,1.1,1.5,0.11
-PB-São Bento,2020-07-09,forecast,1.3,0.8,1.9,1.2,1.6,0.13
-PB-São Bento,2020-07-10,forecast,1.3,0.8,2,1.1,1.6,0.16
-PB-São Bento,2020-07-11,forecast,1.3,0.7,2,1,1.5,0.18
-PB-São Bento,2020-07-12,forecast,1.4,0.7,2.1,1.1,1.6,0.18
-PB-São Bento,2020-07-13,forecast,1.4,0.6,2.1,1.1,1.6,0.18
-PB-São Bento,2020-07-14,forecast,1.4,0.7,2.2,1.1,1.7,0.2
-PB-São Bento,2020-07-15,forecast,1.4,0.6,2.2,1.1,1.7,0.21
-PB-São Bento,2020-07-16,forecast,1.4,0.6,2.3,1.1,1.7,0.21
-PB-São Bento,2020-07-17,forecast,1.4,0.5,2.3,1,1.7,0.22
-PB-São Bento,2020-07-18,forecast,1.4,0.5,2.3,1.1,1.8,0.23
-PB-São Bento,2020-07-19,forecast,1.4,0.5,2.4,1.1,1.8,0.22
-PB-São Bento,2020-07-20,forecast,1.4,0.5,2.4,1,1.7,0.23
-PB-São Bento,2020-07-21,forecast,1.4,0.5,2.5,1,1.8,0.24
-PB-Sousa,2020-05-10,nowcast,1.2,0.7,1.8,1,1.4,0.24
-PB-Sousa,2020-05-11,nowcast,1.2,0.6,1.7,0.9,1.4,0.29
-PB-Sousa,2020-05-12,nowcast,1.2,0.7,1.8,0.9,1.3,0.27
-PB-Sousa,2020-05-13,nowcast,1.2,0.7,1.7,0.9,1.3,0.28
-PB-Sousa,2020-05-14,nowcast,1.2,0.6,1.7,0.9,1.3,0.3
-PB-Sousa,2020-05-15,nowcast,1.2,0.7,1.7,0.9,1.3,0.29
+PB-São Bento,2020-07-03,nowcast,1.3,1,1.8,1.2,1.5,0.05
+PB-São Bento,2020-07-04,nowcast,1.3,1,1.7,1.2,1.4,0.06
+PB-São Bento,2020-07-05,nowcast,1.3,1,1.7,1.2,1.5,0.05
+PB-São Bento,2020-07-06,nowcast,1.3,1,1.7,1.2,1.4,0.05
+PB-São Bento,2020-07-07,nowcast,1.3,1,1.7,1.2,1.5,0.04
+PB-São Bento,2020-07-08,nowcast,1.3,1,1.7,1.2,1.5,0.04
+PB-São Bento,2020-07-09,forecast,1.3,0.9,1.8,1.2,1.5,0.1
+PB-São Bento,2020-07-10,forecast,1.4,0.8,1.9,1.1,1.6,0.12
+PB-São Bento,2020-07-11,forecast,1.4,0.8,2,1.1,1.6,0.14
+PB-São Bento,2020-07-12,forecast,1.4,0.8,2,1.1,1.6,0.15
+PB-São Bento,2020-07-13,forecast,1.4,0.7,2.1,1.1,1.6,0.17
+PB-São Bento,2020-07-14,forecast,1.4,0.7,2.1,1.1,1.6,0.18
+PB-São Bento,2020-07-15,forecast,1.4,0.6,2.1,1.1,1.7,0.19
+PB-São Bento,2020-07-16,forecast,1.4,0.6,2.2,1.1,1.7,0.2
+PB-São Bento,2020-07-17,forecast,1.4,0.5,2.2,1,1.7,0.19
+PB-São Bento,2020-07-18,forecast,1.4,0.6,2.3,1,1.6,0.21
+PB-São Bento,2020-07-19,forecast,1.4,0.5,2.3,1,1.7,0.22
+PB-São Bento,2020-07-20,forecast,1.4,0.5,2.4,1.1,1.8,0.21
+PB-São Bento,2020-07-21,forecast,1.4,0.5,2.4,1,1.8,0.23
+PB-São Bento,2020-07-22,forecast,1.4,0.4,2.4,1,1.8,0.22
+PB-Sousa,2020-05-10,nowcast,1.2,0.7,1.8,1,1.4,0.23
+PB-Sousa,2020-05-11,nowcast,1.2,0.6,1.8,1,1.4,0.27
+PB-Sousa,2020-05-12,nowcast,1.2,0.7,1.7,1,1.4,0.27
+PB-Sousa,2020-05-13,nowcast,1.1,0.6,1.7,0.9,1.3,0.31
+PB-Sousa,2020-05-14,nowcast,1.2,0.7,1.7,0.9,1.3,0.29
+PB-Sousa,2020-05-15,nowcast,1.2,0.7,1.7,1,1.3,0.28
 PB-Sousa,2020-05-16,nowcast,1.2,0.7,1.7,0.9,1.3,0.26
-PB-Sousa,2020-05-17,nowcast,1.2,0.7,1.7,1,1.3,0.24
-PB-Sousa,2020-05-18,nowcast,1.2,0.8,1.8,1,1.3,0.21
-PB-Sousa,2020-05-19,nowcast,1.3,0.8,1.8,1.1,1.4,0.17
-PB-Sousa,2020-05-20,nowcast,1.3,0.8,1.8,1.1,1.4,0.13
-PB-Sousa,2020-05-21,nowcast,1.3,0.8,1.8,1.1,1.5,0.1
-PB-Sousa,2020-05-22,nowcast,1.3,0.9,1.8,1.1,1.5,0.08
+PB-Sousa,2020-05-17,nowcast,1.2,0.7,1.7,1,1.3,0.23
+PB-Sousa,2020-05-18,nowcast,1.2,0.7,1.7,1,1.4,0.22
+PB-Sousa,2020-05-19,nowcast,1.3,0.8,1.8,1,1.4,0.16
+PB-Sousa,2020-05-20,nowcast,1.3,0.9,1.9,1.1,1.4,0.12
+PB-Sousa,2020-05-21,nowcast,1.3,0.9,1.8,1.1,1.5,0.1
+PB-Sousa,2020-05-22,nowcast,1.3,0.9,1.9,1.1,1.5,0.09
 PB-Sousa,2020-05-23,nowcast,1.3,0.9,1.8,1.1,1.5,0.09
-PB-Sousa,2020-05-24,nowcast,1.3,0.8,1.7,1.1,1.4,0.11
-PB-Sousa,2020-05-25,nowcast,1.2,0.8,1.7,1.1,1.4,0.16
-PB-Sousa,2020-05-26,nowcast,1.2,0.7,1.6,1,1.3,0.23
+PB-Sousa,2020-05-24,nowcast,1.3,0.9,1.8,1.1,1.4,0.11
+PB-Sousa,2020-05-25,nowcast,1.2,0.8,1.7,1,1.4,0.17
+PB-Sousa,2020-05-26,nowcast,1.2,0.8,1.6,1,1.3,0.23
 PB-Sousa,2020-05-27,nowcast,1.1,0.7,1.5,1,1.3,0.3
-PB-Sousa,2020-05-28,nowcast,1.1,0.7,1.4,0.9,1.2,0.35
-PB-Sousa,2020-05-29,nowcast,1.1,0.7,1.4,0.9,1.2,0.39
-PB-Sousa,2020-05-30,nowcast,1,0.6,1.4,0.9,1.2,0.43
-PB-Sousa,2020-05-31,nowcast,1,0.7,1.3,0.9,1.1,0.48
-PB-Sousa,2020-06-01,nowcast,1,0.7,1.3,0.8,1.1,0.56
-PB-Sousa,2020-06-02,nowcast,0.9,0.6,1.3,0.8,1.1,0.64
-PB-Sousa,2020-06-03,nowcast,0.9,0.6,1.2,0.8,1,0.7
-PB-Sousa,2020-06-04,nowcast,0.9,0.6,1.2,0.8,1,0.75
-PB-Sousa,2020-06-05,nowcast,0.9,0.5,1.2,0.8,1,0.78
-PB-Sousa,2020-06-06,nowcast,0.8,0.5,1.2,0.7,1,0.8
-PB-Sousa,2020-06-07,nowcast,0.8,0.5,1.2,0.7,1,0.79
-PB-Sousa,2020-06-08,nowcast,0.9,0.5,1.2,0.7,1,0.76
-PB-Sousa,2020-06-09,nowcast,0.9,0.5,1.2,0.7,1,0.75
-PB-Sousa,2020-06-10,nowcast,0.9,0.6,1.3,0.7,1,0.71
-PB-Sousa,2020-06-11,nowcast,0.9,0.6,1.4,0.8,1,0.63
-PB-Sousa,2020-06-12,nowcast,1,0.6,1.4,0.8,1.1,0.55
-PB-Sousa,2020-06-13,nowcast,1,0.6,1.5,0.8,1.1,0.5
-PB-Sousa,2020-06-14,nowcast,1.1,0.7,1.5,0.9,1.2,0.4
-PB-Sousa,2020-06-15,nowcast,1.1,0.8,1.6,0.9,1.2,0.34
+PB-Sousa,2020-05-28,nowcast,1.1,0.7,1.4,0.9,1.2,0.33
+PB-Sousa,2020-05-29,nowcast,1.1,0.7,1.4,0.9,1.2,0.38
+PB-Sousa,2020-05-30,nowcast,1,0.7,1.3,0.9,1.2,0.46
+PB-Sousa,2020-05-31,nowcast,1,0.7,1.3,0.9,1.1,0.5
+PB-Sousa,2020-06-01,nowcast,1,0.6,1.3,0.9,1.1,0.57
+PB-Sousa,2020-06-02,nowcast,1,0.6,1.3,0.8,1.1,0.61
+PB-Sousa,2020-06-03,nowcast,0.9,0.6,1.2,0.8,1,0.69
+PB-Sousa,2020-06-04,nowcast,0.9,0.6,1.2,0.8,1,0.74
+PB-Sousa,2020-06-05,nowcast,0.9,0.5,1.2,0.8,1,0.77
+PB-Sousa,2020-06-06,nowcast,0.9,0.5,1.2,0.7,1,0.78
+PB-Sousa,2020-06-07,nowcast,0.8,0.5,1.2,0.7,1,0.78
+PB-Sousa,2020-06-08,nowcast,0.8,0.5,1.2,0.7,1,0.8
+PB-Sousa,2020-06-09,nowcast,0.9,0.5,1.2,0.7,1,0.76
+PB-Sousa,2020-06-10,nowcast,0.9,0.5,1.3,0.7,1,0.71
+PB-Sousa,2020-06-11,nowcast,0.9,0.6,1.4,0.7,1,0.64
+PB-Sousa,2020-06-12,nowcast,1,0.6,1.4,0.8,1.1,0.58
+PB-Sousa,2020-06-13,nowcast,1,0.7,1.5,0.8,1.1,0.47
+PB-Sousa,2020-06-14,nowcast,1.1,0.7,1.5,0.9,1.2,0.41
+PB-Sousa,2020-06-15,nowcast,1.1,0.7,1.5,0.9,1.2,0.35
 PB-Sousa,2020-06-16,nowcast,1.1,0.7,1.5,0.9,1.2,0.31
-PB-Sousa,2020-06-17,nowcast,1.1,0.7,1.6,1,1.3,0.29
-PB-Sousa,2020-06-18,nowcast,1.1,0.7,1.6,1,1.3,0.26
-PB-Sousa,2020-06-19,nowcast,1.1,0.8,1.6,1,1.2,0.25
-PB-Sousa,2020-06-20,nowcast,1.2,0.8,1.6,1,1.3,0.21
-PB-Sousa,2020-06-21,nowcast,1.2,0.8,1.6,1,1.3,0.22
-PB-Sousa,2020-06-22,nowcast,1.2,0.8,1.6,1,1.3,0.2
+PB-Sousa,2020-06-17,nowcast,1.1,0.7,1.6,0.9,1.2,0.29
+PB-Sousa,2020-06-18,nowcast,1.1,0.8,1.5,1,1.3,0.29
+PB-Sousa,2020-06-19,nowcast,1.1,0.8,1.5,1,1.3,0.25
+PB-Sousa,2020-06-20,nowcast,1.1,0.8,1.5,1,1.2,0.24
+PB-Sousa,2020-06-21,nowcast,1.2,0.8,1.5,1,1.3,0.22
+PB-Sousa,2020-06-22,nowcast,1.2,0.8,1.5,1,1.3,0.21
 PB-Sousa,2020-06-23,nowcast,1.2,0.8,1.6,1,1.3,0.21
 PB-Sousa,2020-06-24,nowcast,1.2,0.8,1.5,1,1.3,0.19
-PB-Sousa,2020-06-25,nowcast,1.2,0.8,1.5,1,1.3,0.2
-PB-Sousa,2020-06-26,nowcast,1.2,0.8,1.5,1,1.3,0.21
-PB-Sousa,2020-06-27,nowcast,1.1,0.8,1.5,1,1.2,0.24
-PB-Sousa,2020-06-28,nowcast,1.1,0.8,1.5,1,1.2,0.28
-PB-Sousa,2020-06-29,nowcast,1.1,0.8,1.4,1,1.2,0.32
-PB-Sousa,2020-06-30,nowcast,1.1,0.7,1.4,0.9,1.2,0.36
-PB-Sousa,2020-07-01,nowcast,1.1,0.8,1.4,0.9,1.2,0.36
-PB-Sousa,2020-07-02,nowcast,1.1,0.8,1.4,1,1.2,0.29
-PB-Sousa,2020-07-03,nowcast,1.2,0.8,1.6,1,1.3,0.2
-PB-Sousa,2020-07-04,nowcast,1.2,0.8,1.7,1,1.3,0.12
-PB-Sousa,2020-07-05,nowcast,1.3,0.9,1.7,1.1,1.4,0.05
+PB-Sousa,2020-06-25,nowcast,1.2,0.8,1.5,1,1.3,0.18
+PB-Sousa,2020-06-26,nowcast,1.2,0.8,1.5,1,1.3,0.2
+PB-Sousa,2020-06-27,nowcast,1.1,0.8,1.5,1,1.3,0.23
+PB-Sousa,2020-06-28,nowcast,1.1,0.8,1.5,1,1.2,0.26
+PB-Sousa,2020-06-29,nowcast,1.1,0.8,1.4,1,1.2,0.3
+PB-Sousa,2020-06-30,nowcast,1.1,0.7,1.4,0.9,1.2,0.37
+PB-Sousa,2020-07-01,nowcast,1.1,0.7,1.4,0.9,1.2,0.35
+PB-Sousa,2020-07-02,nowcast,1.1,0.8,1.5,1,1.2,0.28
+PB-Sousa,2020-07-03,nowcast,1.2,0.8,1.6,1,1.3,0.19
+PB-Sousa,2020-07-04,nowcast,1.2,0.9,1.7,1,1.3,0.1
+PB-Sousa,2020-07-05,nowcast,1.3,1,1.8,1.1,1.4,0.05
 PB-Sousa,2020-07-06,nowcast,1.4,1,1.8,1.2,1.5,0.03
 PB-Sousa,2020-07-07,nowcast,1.4,1.1,1.8,1.2,1.5,0.01
-PB-Sousa,2020-07-08,forecast,1.4,0.9,1.9,1.2,1.6,0.09
-PB-Sousa,2020-07-09,forecast,1.4,0.9,1.9,1.1,1.6,0.11
-PB-Sousa,2020-07-10,forecast,1.3,0.8,2,1.1,1.5,0.12
-PB-Sousa,2020-07-11,forecast,1.4,0.8,2,1.1,1.5,0.14
-PB-Sousa,2020-07-12,forecast,1.3,0.7,2,1.1,1.6,0.15
-PB-Sousa,2020-07-13,forecast,1.3,0.7,2.1,1,1.6,0.17
-PB-Sousa,2020-07-14,forecast,1.4,0.7,2,1,1.5,0.17
-PB-Sousa,2020-07-15,forecast,1.4,0.6,2.1,1.1,1.6,0.18
-PB-Sousa,2020-07-16,forecast,1.3,0.6,2.1,1,1.6,0.18
-PB-Sousa,2020-07-17,forecast,1.3,0.6,2.2,1,1.6,0.2
-PB-Sousa,2020-07-18,forecast,1.4,0.6,2.3,1,1.6,0.2
-PB-Sousa,2020-07-19,forecast,1.3,0.6,2.2,1,1.6,0.21
-PB-Sousa,2020-07-20,forecast,1.4,0.6,2.3,1,1.7,0.21
-PB-Sousa,2020-07-21,forecast,1.3,0.6,2.3,0.9,1.6,0.22
+PB-Sousa,2020-07-08,nowcast,1.4,1.1,1.8,1.3,1.5,0.01
+PB-Sousa,2020-07-09,forecast,1.4,0.9,1.9,1.2,1.5,0.07
+PB-Sousa,2020-07-10,forecast,1.4,0.9,1.9,1.2,1.6,0.09
+PB-Sousa,2020-07-11,forecast,1.4,0.9,2,1.1,1.5,0.11
+PB-Sousa,2020-07-12,forecast,1.4,0.8,2,1.1,1.6,0.13
+PB-Sousa,2020-07-13,forecast,1.4,0.8,2,1.1,1.6,0.14
+PB-Sousa,2020-07-14,forecast,1.4,0.7,2.1,1.1,1.6,0.16
+PB-Sousa,2020-07-15,forecast,1.4,0.7,2.1,1.1,1.7,0.17
+PB-Sousa,2020-07-16,forecast,1.4,0.6,2.1,1.1,1.6,0.17
+PB-Sousa,2020-07-17,forecast,1.4,0.6,2.1,1.1,1.6,0.18
+PB-Sousa,2020-07-18,forecast,1.4,0.6,2.1,1,1.6,0.19
+PB-Sousa,2020-07-19,forecast,1.4,0.6,2.2,1,1.6,0.2
+PB-Sousa,2020-07-20,forecast,1.4,0.6,2.2,1,1.7,0.19
+PB-Sousa,2020-07-21,forecast,1.4,0.6,2.3,1,1.7,0.2
+PB-Sousa,2020-07-22,forecast,1.4,0.5,2.3,1,1.6,0.19
