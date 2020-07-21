@@ -49,6 +49,7 @@ summary_table <- summary_table %>%
                    by = c("Region" = "region"))
 ```
 
+## State summary
 
 ```{r}
 ## Control parameters for region-report
@@ -56,10 +57,13 @@ summary_tables <- 0
 summary_figures <- 1
 title_depth <- 3
 index <- 1
-region <- "Brazil"
-region_path <- "_nowcasts/covid-global/national"
+region <- "Ceará"
+region_path <- "_nowcasts/covid-regional/brazil/regional"
 show_title <- FALSE
 report_forecast <- TRUE
+```
+
+```{r,  child = system.file("templates/_region-report.Rmd", package = "EpiNow")}
 ```
 
 ### Data availability
