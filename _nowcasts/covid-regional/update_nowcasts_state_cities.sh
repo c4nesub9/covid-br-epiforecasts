@@ -21,8 +21,8 @@ errors=$(./move_regions_with_errors.sh $RESULTS_DIR)
 
 echo $errors
 
-if [[ $errors ]]; then
+#if [[ $errors ]]; then
     Rscript brazil/update_regional_summary.R $RESULTS_DIR
-fi
+#fi
 
 Rscript brazil/export_csv_cases.R $RESULTS_DIR

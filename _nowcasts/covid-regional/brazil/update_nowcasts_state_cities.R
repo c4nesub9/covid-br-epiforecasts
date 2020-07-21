@@ -83,8 +83,8 @@ EpiNow::regional_rt_pipeline(
 
 # Summarise results -------------------------------------------------------
 
-EpiNow::regional_summary(results_dir = results_dir,
-                         summary_dir = paste0(results_dir, "-summary"),
-                         target_date = "latest",
-                         region_scale = "Region")
+#EpiNow::regional_summary(results_dir = results_dir,
+#                         summary_dir = paste0(results_dir, "-summary"),
+#                         target_date = "latest",
+#                         region_scale = "Region")
 #}
