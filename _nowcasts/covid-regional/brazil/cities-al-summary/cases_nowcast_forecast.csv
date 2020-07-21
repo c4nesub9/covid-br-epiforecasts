@@ -1,0 +1,1075 @@
+"region","date","type","bottom","top","lower","upper","median","mean"
+"AL-Arapiraca",2020-03-10,"nowcast",1,1,1,1,1,1
+"AL-Arapiraca",2020-03-11,"nowcast",0,0,0,0,0,0
+"AL-Arapiraca",2020-03-12,"nowcast",0,0,0,0,0,0
+"AL-Arapiraca",2020-03-13,"nowcast",0,1,0,1,0.5,0.5
+"AL-Arapiraca",2020-03-14,"nowcast",0,0,0,0,0,0
+"AL-Arapiraca",2020-03-15,"nowcast",0,1,0,0,0,0.333333333333333
+"AL-Arapiraca",2020-03-16,"nowcast",0,1,0,1,0.5,0.5
+"AL-Arapiraca",2020-03-17,"nowcast",0,1,0,0,0,0.25
+"AL-Arapiraca",2020-03-18,"nowcast",0,1,0,0,0,0.272727272727273
+"AL-Arapiraca",2020-03-19,"nowcast",0,1,0,0,0,0.357142857142857
+"AL-Arapiraca",2020-03-20,"nowcast",0,1,0,0,0,0.315789473684211
+"AL-Arapiraca",2020-03-21,"nowcast",0,1,0,0,0,0.28
+"AL-Arapiraca",2020-03-22,"nowcast",0,1,0,0,0,0.172413793103448
+"AL-Arapiraca",2020-03-23,"nowcast",0,1,0,0,0,0.256410256410256
+"AL-Arapiraca",2020-03-24,"nowcast",0,1,0,0,0,0.217391304347826
+"AL-Arapiraca",2020-03-25,"nowcast",0,1,0,0,0,0.358208955223881
+"AL-Arapiraca",2020-03-26,"nowcast",0,1,0,0,0,0.314606741573034
+"AL-Arapiraca",2020-03-27,"nowcast",0,1,0,0,0,0.261682242990654
+"AL-Arapiraca",2020-03-28,"nowcast",0,1,0,0,0,0.311594202898551
+"AL-Arapiraca",2020-03-29,"nowcast",0,1,0,0,0,0.280701754385965
+"AL-Arapiraca",2020-03-30,"nowcast",0,1,0,0,0,0.306603773584906
+"AL-Arapiraca",2020-03-31,"nowcast",0,1,0,0,0,0.301158301158301
+"AL-Arapiraca",2020-04-01,"nowcast",0,1,0,0,0,0.330128205128205
+"AL-Arapiraca",2020-04-02,"nowcast",0,1,0,0,0,0.358490566037736
+"AL-Arapiraca",2020-04-03,"nowcast",0,1,0,0,0,0.39689578713969
+"AL-Arapiraca",2020-04-04,"nowcast",0,1,0,0,0,0.413001912045889
+"AL-Arapiraca",2020-04-05,"nowcast",0,1,0,0,0,0.396959459459459
+"AL-Arapiraca",2020-04-06,"nowcast",0,1,0,0,0,0.466467958271237
+"AL-Arapiraca",2020-04-07,"nowcast",0,1,0,0,0,0.491204330175913
+"AL-Arapiraca",2020-04-08,"nowcast",0,1,0,0,0,0.548112058465286
+"AL-Arapiraca",2020-04-09,"nowcast",0,2,0,0,0,0.624145785876993
+"AL-Arapiraca",2020-04-10,"nowcast",0,2,0,0,0,0.67529665587918
+"AL-Arapiraca",2020-04-11,"nowcast",0,2,0,1,1,0.813612565445026
+"AL-Arapiraca",2020-04-12,"nowcast",0,2,0,1,1,0.932186234817814
+"AL-Arapiraca",2020-04-13,"nowcast",0,2,0,1,1,1.11947791164659
+"AL-Arapiraca",2020-04-14,"nowcast",0,3,0,1,1,1.22645290581162
+"AL-Arapiraca",2020-04-15,"nowcast",0,3,0,1,1,1.35571142284569
+"AL-Arapiraca",2020-04-16,"nowcast",0,3,0,1,1,1.54854854854855
+"AL-Arapiraca",2020-04-17,"nowcast",0,3,1,2,2,1.724
+"AL-Arapiraca",2020-04-18,"nowcast",0,4,1,2,2,1.967
+"AL-Arapiraca",2020-04-19,"nowcast",0,4,1,2,2,2.24
+"AL-Arapiraca",2020-04-20,"nowcast",0,5,0,2,2,2.562
+"AL-Arapiraca",2020-04-21,"nowcast",0,5,1,3,3,2.643
+"AL-Arapiraca",2020-04-22,"nowcast",0,5,1,3,3,3.04
+"AL-Arapiraca",2020-04-23,"nowcast",0,5,1,3,3,3.111
+"AL-Arapiraca",2020-04-24,"nowcast",1,6,1,3,3,3.2
+"AL-Arapiraca",2020-04-25,"nowcast",0,6,2,4,3,3.486
+"AL-Arapiraca",2020-04-26,"nowcast",1,6,2,4,3,3.534
+"AL-Arapiraca",2020-04-27,"nowcast",1,7,2,4,4,3.87
+"AL-Arapiraca",2020-04-28,"nowcast",1,7,2,4,4,4.051
+"AL-Arapiraca",2020-04-29,"nowcast",0,7,2,4,4,4.538
+"AL-Arapiraca",2020-04-30,"nowcast",1,8,2,5,5,5.077
+"AL-Arapiraca",2020-05-01,"nowcast",1,9,3,6,5,5.704
+"AL-Arapiraca",2020-05-02,"nowcast",1,10,4,7,6,6.435
+"AL-Arapiraca",2020-05-03,"nowcast",2,11,6,9,7,7.415
+"AL-Arapiraca",2020-05-04,"nowcast",3,13,4,8,8,8.322
+"AL-Arapiraca",2020-05-05,"nowcast",5,15,6,10,9,9.5
+"AL-Arapiraca",2020-05-06,"nowcast",5,16,8,12,11,11.036
+"AL-Arapiraca",2020-05-07,"nowcast",6,18,8,13,12,12.555
+"AL-Arapiraca",2020-05-08,"nowcast",7,20,9,14,14,14.132
+"AL-Arapiraca",2020-05-09,"nowcast",10,22,11,16,15.5,15.762
+"AL-Arapiraca",2020-05-10,"nowcast",9,23,14,19,17,17.04
+"AL-Arapiraca",2020-05-11,"nowcast",10,24,14,19,18,18.044
+"AL-Arapiraca",2020-05-12,"nowcast",11,25,14,20,19,19.254
+"AL-Arapiraca",2020-05-13,"nowcast",13,27,15,21,20,20.266
+"AL-Arapiraca",2020-05-14,"nowcast",12,28,16,22,21,21.257
+"AL-Arapiraca",2020-05-15,"nowcast",14,30,19,25,22,22.478
+"AL-Arapiraca",2020-05-16,"nowcast",14,32,19,26,24,24.377
+"AL-Arapiraca",2020-05-17,"nowcast",17,35,21,28,27,27.061
+"AL-Arapiraca",2020-05-18,"nowcast",20,38,25,32,29,29.397
+"AL-Arapiraca",2020-05-19,"nowcast",21,40,27,34,31,31.607
+"AL-Arapiraca",2020-05-20,"nowcast",23,42,28,36,33,33.331
+"AL-Arapiraca",2020-05-21,"nowcast",24,45,28,37,35,35.266
+"AL-Arapiraca",2020-05-22,"nowcast",25,47,30,39,37,37.056
+"AL-Arapiraca",2020-05-23,"nowcast",28,51,32,41,39,39.792
+"AL-Arapiraca",2020-05-24,"nowcast",31,55,36,46,43,43.431
+"AL-Arapiraca",2020-05-25,"nowcast",35,60,40,50,47,47.902
+"AL-Arapiraca",2020-05-26,"nowcast",39,65,44,54,52,52.178
+"AL-Arapiraca",2020-05-27,"nowcast",43,69,49,59,56,56.874
+"AL-Arapiraca",2020-05-28,"nowcast",45,73,55,66,61.5,61.538
+"AL-Arapiraca",2020-05-29,"nowcast",49,78,58,69,66,66.04
+"AL-Arapiraca",2020-05-30,"nowcast",54,83,61,73,70,70.341
+"AL-Arapiraca",2020-05-31,"nowcast",61,90,67,79,75,75.684
+"AL-Arapiraca",2020-06-01,"nowcast",64,93,75,86,80,79.975
+"AL-Arapiraca",2020-06-02,"nowcast",70,99,75,87,84,84.462
+"AL-Arapiraca",2020-06-03,"nowcast",70,100,80,92,87,87.3
+"AL-Arapiraca",2020-06-04,"nowcast",74,103,80,92,89,88.948
+"AL-Arapiraca",2020-06-05,"nowcast",73,103,82,94,90,89.946
+"AL-Arapiraca",2020-06-06,"nowcast",78,107,85,97,92,92.444
+"AL-Arapiraca",2020-06-07,"nowcast",80,112,86,99,95,95.148
+"AL-Arapiraca",2020-06-08,"nowcast",83,114,90,102,98,98.508
+"AL-Arapiraca",2020-06-09,"nowcast",84,116,93,105,100,100.485
+"AL-Arapiraca",2020-06-10,"nowcast",83,114,92,105,101,100.729
+"AL-Arapiraca",2020-06-11,"nowcast",82,113,90,103,98,98.637
+"AL-Arapiraca",2020-06-12,"nowcast",79,110,86,98,94,94.456
+"AL-Arapiraca",2020-06-13,"nowcast",76,106,86,97,92,91.894
+"AL-Arapiraca",2020-06-14,"nowcast",74,106,82,95,91,91.54
+"AL-Arapiraca",2020-06-15,"nowcast",76,107,85,97,92,91.808
+"AL-Arapiraca",2020-06-16,"nowcast",78,109,86,98,93,93.056
+"AL-Arapiraca",2020-06-17,"nowcast",78,109,85,98,94,94.392
+"AL-Arapiraca",2020-06-18,"nowcast",81,111,91,103,96,96.563
+"AL-Arapiraca",2020-06-19,"nowcast",84,114,88,101,98,98.615
+"AL-Arapiraca",2020-06-20,"nowcast",84,115,92,104,100,100.585
+"AL-Arapiraca",2020-06-21,"nowcast",85,118,94,107,103,103.428
+"AL-Arapiraca",2020-06-22,"nowcast",86,119,95,108,104,104.418
+"AL-Arapiraca",2020-06-23,"nowcast",87,121,97,111,105,105.605
+"AL-Arapiraca",2020-06-24,"nowcast",84,120,97,111,104,104.245
+"AL-Arapiraca",2020-06-25,"nowcast",81,117,90,104,100,100.043
+"AL-Arapiraca",2020-06-26,"nowcast",77,111,84,98,94,94.191
+"AL-Arapiraca",2020-06-27,"nowcast",74,104,77,90,87,87.749
+"AL-Arapiraca",2020-06-28,"nowcast",68,97,75,87,83,83.022
+"AL-Arapiraca",2020-06-29,"nowcast",66,93,73,84,80,80.056
+"AL-Arapiraca",2020-06-30,"nowcast",64,93,71,83,80,79.495
+"AL-Arapiraca",2020-07-01,"nowcast",65,95,70,82,79,79.152
+"AL-Arapiraca",2020-07-02,"nowcast",60,90,68,80,76,76.148
+"AL-Arapiraca",2020-07-03,"nowcast",54,85,62,74,70,70.469
+"AL-Arapiraca",2020-07-04,"nowcast",48,78,58,70,64,64.172
+"AL-Arapiraca",2020-07-05,"nowcast",42,69,49,60,56,56.792
+"AL-Arapiraca",2020-07-06,"nowcast",36,61,42,52,49,49.718
+"AL-Arapiraca",2020-07-07,"nowcast",31,54,37,46,44,44.206
+"AL-Arapiraca",2020-07-08,"nowcast",29,51,32,41,39,39.546
+"AL-Arapiraca",2020-07-09,"nowcast",25,49,32,41,37,37.484
+"AL-Arapiraca",2020-07-10,"nowcast",24,48,28,38,36.5,37.037
+"AL-Arapiraca",2020-07-11,"forecast",17,47,23,35,32,33.1284
+"AL-Arapiraca",2020-07-12,"forecast",13,45,21,33,30,30.6822
+"AL-Arapiraca",2020-07-13,"forecast",11,43,16,29,27,28.2864
+"AL-Arapiraca",2020-07-14,"forecast",8,41,14,27,25,26.0246
+"AL-Arapiraca",2020-07-15,"forecast",6,39,14,26,22,23.8812
+"AL-Arapiraca",2020-07-16,"forecast",4,36,11,23,20,21.8524
+"AL-Arapiraca",2020-07-17,"forecast",2,34,9,21,19,20.2314
+"AL-Arapiraca",2020-07-18,"forecast",0,32,6,18,17,18.6962
+"AL-Arapiraca",2020-07-19,"forecast",1,31,6,17,15,17.1488
+"AL-Arapiraca",2020-07-20,"forecast",0,29,4,15,14,15.7028
+"AL-Arapiraca",2020-07-21,"forecast",0,27,3,13,12,14.3846
+"AL-Arapiraca",2020-07-22,"forecast",0,26,4,13,11,13.4734
+"AL-Arapiraca",2020-07-23,"forecast",0,24,1,10,10,12.1984
+"AL-Arapiraca",2020-07-24,"forecast",0,23,1,9,9,11.1942
+"AL-Boca da Mata",2020-03-09,"nowcast",1,1,1,1,1,1
+"AL-Boca da Mata",2020-03-10,"nowcast",1,1,1,1,1,1
+"AL-Boca da Mata",2020-03-11,"nowcast",0,0,0,0,0,0
+"AL-Boca da Mata",2020-03-12,"nowcast",0,0,0,0,0,0
+"AL-Boca da Mata",2020-03-13,"nowcast",0,0,0,0,0,0
+"AL-Boca da Mata",2020-03-14,"nowcast",0,0,0,0,0,0
+"AL-Boca da Mata",2020-03-15,"nowcast",1,1,1,1,1,1
+"AL-Boca da Mata",2020-03-16,"nowcast",0,1,0,0,0,0.333333333333333
+"AL-Boca da Mata",2020-03-17,"nowcast",0,1,0,0,0,0.25
+"AL-Boca da Mata",2020-03-18,"nowcast",0,1,0,0,0,0.2
+"AL-Boca da Mata",2020-03-19,"nowcast",0,1,1,1,1,0.555555555555556
+"AL-Boca da Mata",2020-03-20,"nowcast",0,1,0,0,0,0.4
+"AL-Boca da Mata",2020-03-21,"nowcast",0,1,0,0,0,0.263157894736842
+"AL-Boca da Mata",2020-03-22,"nowcast",0,1,0,0,0,0.272727272727273
+"AL-Boca da Mata",2020-03-23,"nowcast",0,1,0,0,0,0.25
+"AL-Boca da Mata",2020-03-24,"nowcast",0,1,0,0,0,0.25
+"AL-Boca da Mata",2020-03-25,"nowcast",0,1,0,0,0,0.285714285714286
+"AL-Boca da Mata",2020-03-26,"nowcast",0,1,0,0,0,0.233333333333333
+"AL-Boca da Mata",2020-03-27,"nowcast",0,1,0,0,0,0.147058823529412
+"AL-Boca da Mata",2020-03-28,"nowcast",0,1,0,0,0,0.219512195121951
+"AL-Boca da Mata",2020-03-29,"nowcast",0,1,0,0,0,0.24
+"AL-Boca da Mata",2020-03-30,"nowcast",0,1,0,0,0,0.246031746031746
+"AL-Boca da Mata",2020-03-31,"nowcast",0,1,0,0,0,0.246666666666667
+"AL-Boca da Mata",2020-04-01,"nowcast",0,1,0,0,0,0.186440677966102
+"AL-Boca da Mata",2020-04-02,"nowcast",0,1,0,0,0,0.238532110091743
+"AL-Boca da Mata",2020-04-03,"nowcast",0,1,0,0,0,0.196
+"AL-Boca da Mata",2020-04-04,"nowcast",0,1,0,0,0,0.194444444444444
+"AL-Boca da Mata",2020-04-05,"nowcast",0,1,0,0,0,0.228070175438596
+"AL-Boca da Mata",2020-04-06,"nowcast",0,1,0,0,0,0.182278481012658
+"AL-Boca da Mata",2020-04-07,"nowcast",0,1,0,0,0,0.195991091314031
+"AL-Boca da Mata",2020-04-08,"nowcast",0,1,0,0,0,0.182902584493042
+"AL-Boca da Mata",2020-04-09,"nowcast",0,1,0,0,0,0.156079854809437
+"AL-Boca da Mata",2020-04-10,"nowcast",0,1,0,0,0,0.164763458401305
+"AL-Boca da Mata",2020-04-11,"nowcast",0,1,0,0,0,0.145061728395062
+"AL-Boca da Mata",2020-04-12,"nowcast",0,0,0,0,0,0.0962962962962963
+"AL-Boca da Mata",2020-04-13,"nowcast",0,0,0,0,0,0.0920863309352518
+"AL-Boca da Mata",2020-04-14,"nowcast",0,0,0,0,0,0.0834512022630834
+"AL-Boca da Mata",2020-04-15,"nowcast",0,0,0,0,0,0.0973936899862826
+"AL-Boca da Mata",2020-04-16,"nowcast",0,1,0,0,0,0.126174496644295
+"AL-Boca da Mata",2020-04-17,"nowcast",0,1,0,0,0,0.164276401564537
+"AL-Boca da Mata",2020-04-18,"nowcast",0,1,0,0,0,0.16793893129771
+"AL-Boca da Mata",2020-04-19,"nowcast",0,1,0,0,0,0.206854345165239
+"AL-Boca da Mata",2020-04-20,"nowcast",0,1,0,0,0,0.25177304964539
+"AL-Boca da Mata",2020-04-21,"nowcast",0,1,0,0,0,0.262731481481481
+"AL-Boca da Mata",2020-04-22,"nowcast",0,1,0,0,0,0.315022421524664
+"AL-Boca da Mata",2020-04-23,"nowcast",0,1,0,0,0,0.377995642701525
+"AL-Boca da Mata",2020-04-24,"nowcast",0,1,0,0,0,0.413756613756614
+"AL-Boca da Mata",2020-04-25,"nowcast",0,1,0,0,0,0.513989637305699
+"AL-Boca da Mata",2020-04-26,"nowcast",0,2,0,0,0,0.597349643221203
+"AL-Boca da Mata",2020-04-27,"nowcast",0,2,0,0,0,0.622356495468278
+"AL-Boca da Mata",2020-04-28,"nowcast",0,2,0,1,1,0.689759036144578
+"AL-Boca da Mata",2020-04-29,"nowcast",0,2,0,1,1,0.700803212851406
+"AL-Boca da Mata",2020-04-30,"nowcast",0,2,0,1,1,0.749
+"AL-Boca da Mata",2020-05-01,"nowcast",0,2,0,1,1,0.727
+"AL-Boca da Mata",2020-05-02,"nowcast",0,2,0,1,1,0.753
+"AL-Boca da Mata",2020-05-03,"nowcast",0,2,0,1,1,0.782
+"AL-Boca da Mata",2020-05-04,"nowcast",0,2,0,1,1,0.822
+"AL-Boca da Mata",2020-05-05,"nowcast",0,2,0,1,1,0.924
+"AL-Boca da Mata",2020-05-06,"nowcast",0,2,0,1,1,1.078
+"AL-Boca da Mata",2020-05-07,"nowcast",0,3,0,1,1,1.156
+"AL-Boca da Mata",2020-05-08,"nowcast",0,3,0,1,1,1.391
+"AL-Boca da Mata",2020-05-09,"nowcast",0,3,0,1,1,1.592
+"AL-Boca da Mata",2020-05-10,"nowcast",0,4,1,2,2,1.742
+"AL-Boca da Mata",2020-05-11,"nowcast",0,4,1,2,2,1.867
+"AL-Boca da Mata",2020-05-12,"nowcast",0,4,1,2,2,2.126
+"AL-Boca da Mata",2020-05-13,"nowcast",0,4,0,2,2,2.313
+"AL-Boca da Mata",2020-05-14,"nowcast",0,5,0,2,2,2.683
+"AL-Boca da Mata",2020-05-15,"nowcast",0,5,1,3,3,2.974
+"AL-Boca da Mata",2020-05-16,"nowcast",1,6,1,3,3,3.187
+"AL-Boca da Mata",2020-05-17,"nowcast",0,6,2,4,3,3.684
+"AL-Boca da Mata",2020-05-18,"nowcast",1,7,2,4,4,4.158
+"AL-Boca da Mata",2020-05-19,"nowcast",1,8,3,5,5,4.747
+"AL-Boca da Mata",2020-05-20,"nowcast",1,8,2,5,5,5.356
+"AL-Boca da Mata",2020-05-21,"nowcast",2,10,3,6,6,6.033
+"AL-Boca da Mata",2020-05-22,"nowcast",3,11,4,7,7,6.769
+"AL-Boca da Mata",2020-05-23,"nowcast",2,11,5,8,8,7.712
+"AL-Boca da Mata",2020-05-24,"nowcast",3,12,7,10,9,8.6
+"AL-Boca da Mata",2020-05-25,"nowcast",3,13,7,10,9,9.225
+"AL-Boca da Mata",2020-05-26,"nowcast",5,15,7,11,10,10.03
+"AL-Boca da Mata",2020-05-27,"nowcast",5,15,7,11,11,10.904
+"AL-Boca da Mata",2020-05-28,"nowcast",5,16,8,12,12,11.653
+"AL-Boca da Mata",2020-05-29,"nowcast",6,17,9,13,12,12.173
+"AL-Boca da Mata",2020-05-30,"nowcast",6,18,9,13,13,12.852
+"AL-Boca da Mata",2020-05-31,"nowcast",7,18,11,15,13,13.387
+"AL-Boca da Mata",2020-06-01,"nowcast",9,20,9,14,14,13.895
+"AL-Boca da Mata",2020-06-02,"nowcast",8,19,12,16,14,14.229
+"AL-Boca da Mata",2020-06-03,"nowcast",8,20,12,16,14,14.657
+"AL-Boca da Mata",2020-06-04,"nowcast",8,20,10,15,15,15.037
+"AL-Boca da Mata",2020-06-05,"nowcast",9,21,11,16,16,15.786
+"AL-Boca da Mata",2020-06-06,"nowcast",11,23,12,17,16,16.312
+"AL-Boca da Mata",2020-06-07,"nowcast",11,23,12,17,17,16.662
+"AL-Boca da Mata",2020-06-08,"nowcast",11,23,13,18,17,17.209
+"AL-Boca da Mata",2020-06-09,"nowcast",10,23,13,18,17,17.258
+"AL-Boca da Mata",2020-06-10,"nowcast",10,23,15,19,17,17.297
+"AL-Boca da Mata",2020-06-11,"nowcast",10,23,13,18,17,17.145
+"AL-Boca da Mata",2020-06-12,"nowcast",10,22,13,18,17,16.94
+"AL-Boca da Mata",2020-06-13,"nowcast",9,22,13,18,17,16.925
+"AL-Boca da Mata",2020-06-14,"nowcast",10,22,12,17,17,16.608
+"AL-Boca da Mata",2020-06-15,"nowcast",10,22,12,17,16,16.142
+"AL-Boca da Mata",2020-06-16,"nowcast",8,21,11,16,15,15.52
+"AL-Boca da Mata",2020-06-17,"nowcast",8,20,10,15,15,15.208
+"AL-Boca da Mata",2020-06-18,"nowcast",9,21,12,16,15,15.106
+"AL-Boca da Mata",2020-06-19,"nowcast",8,20,10,15,15,14.838
+"AL-Boca da Mata",2020-06-20,"nowcast",9,20,12,16,15,14.922
+"AL-Boca da Mata",2020-06-21,"nowcast",8,20,10,15,14,14.585
+"AL-Boca da Mata",2020-06-22,"nowcast",8,20,12,16,14,14.449
+"AL-Boca da Mata",2020-06-23,"nowcast",9,20,11,15,14,14.073
+"AL-Boca da Mata",2020-06-24,"nowcast",7,19,11,15,14,13.957
+"AL-Boca da Mata",2020-06-25,"nowcast",7,19,11,15,14,14.27
+"AL-Boca da Mata",2020-06-26,"nowcast",9,21,10,15,15,14.874
+"AL-Boca da Mata",2020-06-27,"nowcast",9,21,11,16,15,15.327
+"AL-Boca da Mata",2020-06-28,"nowcast",9,21,11,16,15,15.668
+"AL-Boca da Mata",2020-06-29,"nowcast",10,22,12,17,16,16.044
+"AL-Boca da Mata",2020-06-30,"nowcast",9,22,12,17,16,16.186
+"AL-Boca da Mata",2020-07-01,"nowcast",9,22,13,18,16,16.604
+"AL-Boca da Mata",2020-07-02,"nowcast",10,23,14,19,17,17.406
+"AL-Boca da Mata",2020-07-03,"nowcast",11,23,14,19,17,17.568
+"AL-Boca da Mata",2020-07-04,"nowcast",11,24,13,18,18,17.778
+"AL-Boca da Mata",2020-07-05,"nowcast",9,23,14,19,18,17.739
+"AL-Boca da Mata",2020-07-06,"nowcast",10,24,15,20,18,17.97
+"AL-Boca da Mata",2020-07-07,"nowcast",11,25,14,20,18,18.545
+"AL-Boca da Mata",2020-07-08,"nowcast",11,26,14,20,19,19.148
+"AL-Boca da Mata",2020-07-09,"nowcast",11,27,16,22,20,19.77
+"AL-Boca da Mata",2020-07-10,"forecast",9,31,12,21,19,20.1812
+"AL-Boca da Mata",2020-07-11,"forecast",7,32,11,21,20,20.844
+"AL-Boca da Mata",2020-07-12,"forecast",6,34,11,22,20,21.455
+"AL-Boca da Mata",2020-07-13,"forecast",6,36,12,23,21,22.0604
+"AL-Boca da Mata",2020-07-14,"forecast",4,37,10,23,21,22.7894
+"AL-Boca da Mata",2020-07-15,"forecast",5,40,10,23,21,23.6206
+"AL-Boca da Mata",2020-07-16,"forecast",3,42,9,23,22,24.3744
+"AL-Boca da Mata",2020-07-17,"forecast",3,45,10,25,22,25.269
+"AL-Boca da Mata",2020-07-18,"forecast",2,48,9,25,22,26.3698
+"AL-Boca da Mata",2020-07-19,"forecast",2,51,7,24,23,27.3846
+"AL-Boca da Mata",2020-07-20,"forecast",3,54,7,25,23,28.4744
+"AL-Boca da Mata",2020-07-21,"forecast",2,58,7,26,24,29.7914
+"AL-Boca da Mata",2020-07-22,"forecast",0,59,5,25,24,30.8782
+"AL-Boca da Mata",2020-07-23,"forecast",0,62,7,27,24,32.1674
+"AL-Coruripe",2020-03-14,"nowcast",1,1,1,1,1,1
+"AL-Coruripe",2020-03-15,"nowcast",0,1,0,1,0.5,0.5
+"AL-Coruripe",2020-03-16,"nowcast",0,0,0,0,0,0
+"AL-Coruripe",2020-03-17,"nowcast",0,0,0,0,0,0
+"AL-Coruripe",2020-03-18,"nowcast",0,1,0,1,0.5,0.5
+"AL-Coruripe",2020-03-19,"nowcast",0,0,0,0,0,0
+"AL-Coruripe",2020-03-20,"nowcast",0,1,0,0,0,0.333333333333333
+"AL-Coruripe",2020-03-21,"nowcast",0,0,0,0,0,0
+"AL-Coruripe",2020-03-22,"nowcast",0,0,0,0,0,0
+"AL-Coruripe",2020-03-23,"nowcast",0,0,0,0,0,0
+"AL-Coruripe",2020-03-24,"nowcast",0,1,0,1,0.5,0.5
+"AL-Coruripe",2020-03-25,"nowcast",0,1,0,0,0,0.2
+"AL-Coruripe",2020-03-26,"nowcast",0,1,0,0,0,0.166666666666667
+"AL-Coruripe",2020-03-27,"nowcast",0,1,0,0,0,0.285714285714286
+"AL-Coruripe",2020-03-28,"nowcast",0,1,0,0,0,0.142857142857143
+"AL-Coruripe",2020-03-29,"nowcast",0,1,0,0,0,0.454545454545455
+"AL-Coruripe",2020-03-30,"nowcast",0,1,0,0,0,0.285714285714286
+"AL-Coruripe",2020-03-31,"nowcast",0,1,0,0,0,0.333333333333333
+"AL-Coruripe",2020-04-01,"nowcast",0,1,0,0,0,0.382352941176471
+"AL-Coruripe",2020-04-02,"nowcast",0,1,0,0,0,0.282608695652174
+"AL-Coruripe",2020-04-03,"nowcast",0,1,0,0,0,0.210526315789474
+"AL-Coruripe",2020-04-04,"nowcast",0,1,0,0,0,0.293333333333333
+"AL-Coruripe",2020-04-05,"nowcast",0,1,0,0,0,0.211111111111111
+"AL-Coruripe",2020-04-06,"nowcast",0,1,0,0,0,0.380952380952381
+"AL-Coruripe",2020-04-07,"nowcast",0,1,0,0,0,0.246666666666667
+"AL-Coruripe",2020-04-08,"nowcast",0,1,0,0,0,0.38659793814433
+"AL-Coruripe",2020-04-09,"nowcast",0,1,0,0,0,0.32520325203252
+"AL-Coruripe",2020-04-10,"nowcast",0,1,0,0,0,0.388513513513513
+"AL-Coruripe",2020-04-11,"nowcast",0,1,0,0,0,0.364161849710983
+"AL-Coruripe",2020-04-12,"nowcast",0,1,0,0,0,0.383292383292383
+"AL-Coruripe",2020-04-13,"nowcast",0,1,0,0,0,0.364754098360656
+"AL-Coruripe",2020-04-14,"nowcast",0,1,0,0,0,0.446619217081851
+"AL-Coruripe",2020-04-15,"nowcast",0,1,0,0,0,0.462279293739968
+"AL-Coruripe",2020-04-16,"nowcast",0,1,0,0,0,0.49083215796897
+"AL-Coruripe",2020-04-17,"nowcast",0,1,0,0,0,0.593392630241423
+"AL-Coruripe",2020-04-18,"nowcast",0,2,0,1,1,0.686274509803922
+"AL-Coruripe",2020-04-19,"nowcast",0,2,0,1,1,0.765217391304348
+"AL-Coruripe",2020-04-20,"nowcast",0,2,0,1,1,0.805815160955348
+"AL-Coruripe",2020-04-21,"nowcast",0,2,0,1,1,1.00203458799593
+"AL-Coruripe",2020-04-22,"nowcast",0,3,0,1,1,1.10717896865521
+"AL-Coruripe",2020-04-23,"nowcast",0,3,0,1,1,1.33032128514056
+"AL-Coruripe",2020-04-24,"nowcast",0,3,0,1,1,1.544
+"AL-Coruripe",2020-04-25,"nowcast",0,4,1,2,2,1.838
+"AL-Coruripe",2020-04-26,"nowcast",0,4,1,2,2,2.023
+"AL-Coruripe",2020-04-27,"nowcast",0,4,0,2,2,2.411
+"AL-Coruripe",2020-04-28,"nowcast",0,5,0,2,2,2.643
+"AL-Coruripe",2020-04-29,"nowcast",0,5,1,3,3,2.906
+"AL-Coruripe",2020-04-30,"nowcast",0,5,1,3,3,3.269
+"AL-Coruripe",2020-05-01,"nowcast",1,6,1,3,3,3.547
+"AL-Coruripe",2020-05-02,"nowcast",0,6,2,4,4,3.94
+"AL-Coruripe",2020-05-03,"nowcast",1,7,2,4,4,4.021
+"AL-Coruripe",2020-05-04,"nowcast",1,6,2,4,4,3.877
+"AL-Coruripe",2020-05-05,"nowcast",1,7,2,4,4,4.167
+"AL-Coruripe",2020-05-06,"nowcast",1,7,2,4,4,4.274
+"AL-Coruripe",2020-05-07,"nowcast",1,7,3,5,4,4.52
+"AL-Coruripe",2020-05-08,"nowcast",1,8,2,5,5,4.914
+"AL-Coruripe",2020-05-09,"nowcast",1,8,4,6,5,5.231
+"AL-Coruripe",2020-05-10,"nowcast",2,9,3,6,5,5.727
+"AL-Coruripe",2020-05-11,"nowcast",2,10,4,7,6,6.347
+"AL-Coruripe",2020-05-12,"nowcast",2,10,4,7,7,6.772
+"AL-Coruripe",2020-05-13,"nowcast",3,11,4,7,7,7.338
+"AL-Coruripe",2020-05-14,"nowcast",3,12,5,8,8,8.05
+"AL-Coruripe",2020-05-15,"nowcast",4,13,5,9,8,8.69
+"AL-Coruripe",2020-05-16,"nowcast",4,13,7,10,9,9.018
+"AL-Coruripe",2020-05-17,"nowcast",4,14,6,10,10,9.997
+"AL-Coruripe",2020-05-18,"nowcast",5,14,8,11,10,10.147
+"AL-Coruripe",2020-05-19,"nowcast",5,15,7,11,10,10.52
+"AL-Coruripe",2020-05-20,"nowcast",5,15,7,11,11,10.759
+"AL-Coruripe",2020-05-21,"nowcast",5,15,7,11,11,11.021
+"AL-Coruripe",2020-05-22,"nowcast",5,16,8,12,11,11.528
+"AL-Coruripe",2020-05-23,"nowcast",7,18,10,14,12,12.428
+"AL-Coruripe",2020-05-24,"nowcast",7,19,11,15,14,13.831
+"AL-Coruripe",2020-05-25,"nowcast",8,21,11,16,15,15.401
+"AL-Coruripe",2020-05-26,"nowcast",9,22,12,17,16,16.592
+"AL-Coruripe",2020-05-27,"nowcast",10,23,16,21,18,17.853
+"AL-Coruripe",2020-05-28,"nowcast",11,24,14,19,18,18.507
+"AL-Coruripe",2020-05-29,"nowcast",11,24,14,19,18,18.588
+"AL-Coruripe",2020-05-30,"nowcast",11,24,14,19,18,18.199
+"AL-Coruripe",2020-05-31,"nowcast",11,24,14,19,18,18.316
+"AL-Coruripe",2020-06-01,"nowcast",11,24,15,20,18,18.57
+"AL-Coruripe",2020-06-02,"nowcast",13,26,16,21,19,19.226
+"AL-Coruripe",2020-06-03,"nowcast",12,26,16,21,20,19.764
+"AL-Coruripe",2020-06-04,"nowcast",12,26,16,21,20,20.174
+"AL-Coruripe",2020-06-05,"nowcast",12,26,17,22,20,20.068
+"AL-Coruripe",2020-06-06,"nowcast",13,26,16,21,19,19.488
+"AL-Coruripe",2020-06-07,"nowcast",12,25,15,20,19,19.187
+"AL-Coruripe",2020-06-08,"nowcast",12,25,15,20,18,18.624
+"AL-Coruripe",2020-06-09,"nowcast",12,25,15,20,19,18.665
+"AL-Coruripe",2020-06-10,"nowcast",12,25,15,20,19,18.756
+"AL-Coruripe",2020-06-11,"nowcast",12,26,16,21,19,19.275
+"AL-Coruripe",2020-06-12,"nowcast",14,27,16,21,20,19.763
+"AL-Coruripe",2020-06-13,"nowcast",13,27,16,21,20,19.778
+"AL-Coruripe",2020-06-14,"nowcast",12,26,14,20,19,19.584
+"AL-Coruripe",2020-06-15,"nowcast",12,26,15,20,19,18.819
+"AL-Coruripe",2020-06-16,"nowcast",10,23,13,18,17,17.728
+"AL-Coruripe",2020-06-17,"nowcast",10,22,13,18,17,16.747
+"AL-Coruripe",2020-06-18,"nowcast",10,22,12,17,17,16.61
+"AL-Coruripe",2020-06-19,"nowcast",10,22,13,18,17,16.93
+"AL-Coruripe",2020-06-20,"nowcast",11,23,13,18,17,17.48
+"AL-Coruripe",2020-06-21,"nowcast",11,23,13,18,17,17.564
+"AL-Coruripe",2020-06-22,"nowcast",11,24,14,19,18,17.75
+"AL-Coruripe",2020-06-23,"nowcast",11,23,12,17,17,17.031
+"AL-Coruripe",2020-06-24,"nowcast",9,21,12,17,16,16.001
+"AL-Coruripe",2020-06-25,"nowcast",8,20,12,16,14,14.698
+"AL-Coruripe",2020-06-26,"nowcast",8,19,11,15,14,13.874
+"AL-Coruripe",2020-06-27,"nowcast",7,18,10,14,13,13.017
+"AL-Coruripe",2020-06-28,"nowcast",7,18,9,13,12,12.583
+"AL-Coruripe",2020-06-29,"nowcast",6,17,9,13,12,12.232
+"AL-Coruripe",2020-06-30,"nowcast",5,17,7,12,12,12.052
+"AL-Coruripe",2020-07-01,"nowcast",6,18,7,12,12,12.083
+"AL-Coruripe",2020-07-02,"nowcast",5,19,9,14,13,12.946
+"AL-Coruripe",2020-07-03,"nowcast",7,21,11,16,15,15.044
+"AL-Coruripe",2020-07-04,"nowcast",9,25,12,18,17,17.468
+"AL-Coruripe",2020-07-05,"nowcast",11,28,14,21,19,20.115
+"AL-Coruripe",2020-07-06,"nowcast",13,32,19,26,23,23.274
+"AL-Coruripe",2020-07-07,"nowcast",16,37,18,26,26,26.678
+"AL-Coruripe",2020-07-08,"nowcast",17,42,21,30,28,29.681
+"AL-Coruripe",2020-07-09,"nowcast",17,45,21,32,31,32.881
+"AL-Coruripe",2020-07-10,"nowcast",18,50,22,34,33,34.561
+"AL-Coruripe",2020-07-11,"forecast",14,63,24,42,38,40.382
+"AL-Coruripe",2020-07-12,"forecast",14,74,23,46,42,45.624
+"AL-Coruripe",2020-07-13,"forecast",10,87,23,50,46,50.9786
+"AL-Coruripe",2020-07-14,"forecast",13,106,21,55,50,58.2438
+"AL-Coruripe",2020-07-15,"forecast",10,123,25,65,57,66.6436
+"AL-Coruripe",2020-07-16,"forecast",9,148,24,70,62,75.5332
+"AL-Coruripe",2020-07-17,"forecast",0,166,21,77,69,87.7566
+"AL-Coruripe",2020-07-18,"forecast",0,197,21,85,76,100.0994
+"AL-Coruripe",2020-07-19,"forecast",0,233,17,91,84,115.4268
+"AL-Coruripe",2020-07-20,"forecast",0,278,18,101,92,136.3186
+"AL-Coruripe",2020-07-21,"forecast",0,334,18,112,100,157.6448
+"AL-Coruripe",2020-07-22,"forecast",0,398,15,122,110,187.7646
+"AL-Coruripe",2020-07-23,"forecast",0,465,16,138,123,221.0714
+"AL-Coruripe",2020-07-24,"forecast",0,550,0,137,137,259.9568
+"AL-Girau do Ponciano",2020-04-12,"nowcast",1,1,1,1,1,1
+"AL-Girau do Ponciano",2020-04-13,"nowcast",0,1,1,1,1,0.6
+"AL-Girau do Ponciano",2020-04-14,"nowcast",0,1,1,1,1,0.555555555555556
+"AL-Girau do Ponciano",2020-04-15,"nowcast",0,1,0,0,0,0.333333333333333
+"AL-Girau do Ponciano",2020-04-16,"nowcast",0,1,0,0,0,0.375
+"AL-Girau do Ponciano",2020-04-17,"nowcast",0,1,0,0,0,0.304347826086957
+"AL-Girau do Ponciano",2020-04-18,"nowcast",0,1,0,0,0,0.185185185185185
+"AL-Girau do Ponciano",2020-04-19,"nowcast",0,1,0,0,0,0.447368421052632
+"AL-Girau do Ponciano",2020-04-20,"nowcast",0,1,0,0,0,0.352941176470588
+"AL-Girau do Ponciano",2020-04-21,"nowcast",0,1,0,0,0,0.342857142857143
+"AL-Girau do Ponciano",2020-04-22,"nowcast",0,1,0,0,0,0.382978723404255
+"AL-Girau do Ponciano",2020-04-23,"nowcast",0,1,0,0,0,0.338709677419355
+"AL-Girau do Ponciano",2020-04-24,"nowcast",0,1,0,0,0,0.374233128834356
+"AL-Girau do Ponciano",2020-04-25,"nowcast",0,1,0,0,0,0.33175355450237
+"AL-Girau do Ponciano",2020-04-26,"nowcast",0,1,0,0,0,0.33203125
+"AL-Girau do Ponciano",2020-04-27,"nowcast",0,1,0,0,0,0.306666666666667
+"AL-Girau do Ponciano",2020-04-28,"nowcast",0,1,0,0,0,0.315340909090909
+"AL-Girau do Ponciano",2020-04-29,"nowcast",0,1,0,0,0,0.42093023255814
+"AL-Girau do Ponciano",2020-04-30,"nowcast",0,1,0,0,0,0.369477911646586
+"AL-Girau do Ponciano",2020-05-01,"nowcast",0,1,0,0,0,0.463541666666667
+"AL-Girau do Ponciano",2020-05-02,"nowcast",0,1,0,0,0,0.452160493827161
+"AL-Girau do Ponciano",2020-05-03,"nowcast",0,1,0,0,0,0.506963788300836
+"AL-Girau do Ponciano",2020-05-04,"nowcast",0,2,0,0,0,0.596178343949045
+"AL-Girau do Ponciano",2020-05-05,"nowcast",0,2,0,1,1,0.716106604866744
+"AL-Girau do Ponciano",2020-05-06,"nowcast",0,2,0,1,1,0.736095965103599
+"AL-Girau do Ponciano",2020-05-07,"nowcast",0,2,0,1,1,0.896842105263158
+"AL-Girau do Ponciano",2020-05-08,"nowcast",0,2,0,1,1,1.03179487179487
+"AL-Girau do Ponciano",2020-05-09,"nowcast",0,3,0,1,1,1.19756838905775
+"AL-Girau do Ponciano",2020-05-10,"nowcast",0,3,0,1,1,1.45883534136546
+"AL-Girau do Ponciano",2020-05-11,"nowcast",0,3,0,1,1,1.62324649298597
+"AL-Girau do Ponciano",2020-05-12,"nowcast",0,4,1,2,2,2.001001001001
+"AL-Girau do Ponciano",2020-05-13,"nowcast",0,4,1,2,2,2.22
+"AL-Girau do Ponciano",2020-05-14,"nowcast",0,4,0,2,2,2.51
+"AL-Girau do Ponciano",2020-05-15,"nowcast",0,5,0,2,2,2.615
+"AL-Girau do Ponciano",2020-05-16,"nowcast",0,5,1,3,3,2.792
+"AL-Girau do Ponciano",2020-05-17,"nowcast",0,5,1,3,3,2.964
+"AL-Girau do Ponciano",2020-05-18,"nowcast",0,5,1,3,3,3.012
+"AL-Girau do Ponciano",2020-05-19,"nowcast",1,6,1,3,3,3.131
+"AL-Girau do Ponciano",2020-05-20,"nowcast",1,6,1,3,3,3.238
+"AL-Girau do Ponciano",2020-05-21,"nowcast",1,6,2,4,3,3.569
+"AL-Girau do Ponciano",2020-05-22,"nowcast",1,7,2,4,4,4.017
+"AL-Girau do Ponciano",2020-05-23,"nowcast",1,7,2,4,4,4.302
+"AL-Girau do Ponciano",2020-05-24,"nowcast",2,8,3,5,5,4.72
+"AL-Girau do Ponciano",2020-05-25,"nowcast",1,8,2,5,5,5.195
+"AL-Girau do Ponciano",2020-05-26,"nowcast",1,8,2,5,5,5.266
+"AL-Girau do Ponciano",2020-05-27,"nowcast",1,8,4,6,5,5.345
+"AL-Girau do Ponciano",2020-05-28,"nowcast",2,9,2,5,5,5.458
+"AL-Girau do Ponciano",2020-05-29,"nowcast",2,9,2,5,5,5.481
+"AL-Girau do Ponciano",2020-05-30,"nowcast",1,9,3,6,6,5.886
+"AL-Girau do Ponciano",2020-05-31,"nowcast",1,10,4,7,6,6.658
+"AL-Girau do Ponciano",2020-06-01,"nowcast",2,11,5,8,7,7.431
+"AL-Girau do Ponciano",2020-06-02,"nowcast",4,13,5,9,9,8.714
+"AL-Girau do Ponciano",2020-06-03,"nowcast",4,14,6,10,10,9.89
+"AL-Girau do Ponciano",2020-06-04,"nowcast",5,17,7,12,11,11.641
+"AL-Girau do Ponciano",2020-06-05,"nowcast",6,18,10,14,13,12.803
+"AL-Girau do Ponciano",2020-06-06,"nowcast",8,20,10,15,14,14.472
+"AL-Girau do Ponciano",2020-06-07,"nowcast",8,21,11,16,16,15.879
+"AL-Girau do Ponciano",2020-06-08,"nowcast",10,22,12,17,17,17.175
+"AL-Girau do Ponciano",2020-06-09,"nowcast",11,24,14,19,18,18.066
+"AL-Girau do Ponciano",2020-06-10,"nowcast",10,24,15,20,19,18.691
+"AL-Girau do Ponciano",2020-06-11,"nowcast",12,25,15,20,19,18.759
+"AL-Girau do Ponciano",2020-06-12,"nowcast",11,24,15,20,18.5,18.444
+"AL-Girau do Ponciano",2020-06-13,"nowcast",10,24,15,20,18,18.217
+"AL-Girau do Ponciano",2020-06-14,"nowcast",12,25,15,20,18,18.526
+"AL-Girau do Ponciano",2020-06-15,"nowcast",11,24,15,20,19,18.818
+"AL-Girau do Ponciano",2020-06-16,"nowcast",12,25,16,21,20,19.624
+"AL-Girau do Ponciano",2020-06-17,"nowcast",13,26,16,21,20,19.818
+"AL-Girau do Ponciano",2020-06-18,"nowcast",12,25,16,21,20,19.794
+"AL-Girau do Ponciano",2020-06-19,"nowcast",12,26,17,22,20,19.812
+"AL-Girau do Ponciano",2020-06-20,"nowcast",12,25,15,20,19,19.285
+"AL-Girau do Ponciano",2020-06-21,"nowcast",13,27,15,20,19,19.429
+"AL-Girau do Ponciano",2020-06-22,"nowcast",11,25,16,21,19,19.229
+"AL-Girau do Ponciano",2020-06-23,"nowcast",11,25,15,20,19,19.261
+"AL-Girau do Ponciano",2020-06-24,"nowcast",11,25,15,20,19,19.005
+"AL-Girau do Ponciano",2020-06-25,"nowcast",12,26,15,20,19,18.75
+"AL-Girau do Ponciano",2020-06-26,"nowcast",11,25,15,20,19,18.934
+"AL-Girau do Ponciano",2020-06-27,"nowcast",12,25,15,20,19,18.915
+"AL-Girau do Ponciano",2020-06-28,"nowcast",12,25,14,19,18,18.489
+"AL-Girau do Ponciano",2020-06-29,"nowcast",11,25,13,19,18,18.305
+"AL-Girau do Ponciano",2020-06-30,"nowcast",10,24,12,18,18,18.043
+"AL-Girau do Ponciano",2020-07-01,"nowcast",10,24,13,19,18,18.201
+"AL-Girau do Ponciano",2020-07-02,"nowcast",11,26,14,20,19,19.004
+"AL-Girau do Ponciano",2020-07-03,"nowcast",11,27,17,23,21,20.805
+"AL-Girau do Ponciano",2020-07-04,"nowcast",15,31,18,24,22,22.544
+"AL-Girau do Ponciano",2020-07-05,"nowcast",16,33,19,26,24,24.778
+"AL-Girau do Ponciano",2020-07-06,"nowcast",16,36,21,28,26,26.435
+"AL-Girau do Ponciano",2020-07-07,"nowcast",16,38,20,29,28,28.042
+"AL-Girau do Ponciano",2020-07-08,"nowcast",16,41,21,32,30,29.884
+"AL-Girau do Ponciano",2020-07-09,"nowcast",16,47,22,35,31,31.833
+"AL-Girau do Ponciano",2020-07-10,"forecast",13,53,19,35,32,33.809
+"AL-Girau do Ponciano",2020-07-11,"forecast",11,58,20,38,34,35.8492
+"AL-Girau do Ponciano",2020-07-12,"forecast",8,64,17,38,35,38.5046
+"AL-Girau do Ponciano",2020-07-13,"forecast",10,72,16,40,37,41.3364
+"AL-Girau do Ponciano",2020-07-14,"forecast",8,79,15,41,38,44.4254
+"AL-Girau do Ponciano",2020-07-15,"forecast",7,88,15,44,40,47.5822
+"AL-Girau do Ponciano",2020-07-16,"forecast",4,96,13,45,43,51.4934
+"AL-Girau do Ponciano",2020-07-17,"forecast",4,109,14,49,45,56.1818
+"AL-Girau do Ponciano",2020-07-18,"forecast",7,124,11,48,46,60.9282
+"AL-Girau do Ponciano",2020-07-19,"forecast",0,132,16,55,49,66.4806
+"AL-Girau do Ponciano",2020-07-20,"forecast",0,147,10,54,51,72.111
+"AL-Girau do Ponciano",2020-07-21,"forecast",0,163,10,56,52,79.473
+"AL-Girau do Ponciano",2020-07-22,"forecast",0,181,9,58,55,87.3086
+"AL-Girau do Ponciano",2020-07-23,"forecast",0,198,11,64,58,96.5794
+"AL-Maceió",2020-02-02,"nowcast",1,1,1,1,1,1
+"AL-Maceió",2020-02-03,"nowcast",0,0,0,0,0,0
+"AL-Maceió",2020-02-04,"nowcast",0,0,0,0,0,0
+"AL-Maceió",2020-02-05,"nowcast",0,0,0,0,0,0
+"AL-Maceió",2020-02-06,"nowcast",0,1,0,1,0.5,0.5
+"AL-Maceió",2020-02-07,"nowcast",0,1,0,0,0,0.333333333333333
+"AL-Maceió",2020-02-08,"nowcast",0,1,0,0,0,0.444444444444444
+"AL-Maceió",2020-02-09,"nowcast",0,1,0,0,0,0.1
+"AL-Maceió",2020-02-10,"nowcast",0,1,0,0,0,0.230769230769231
+"AL-Maceió",2020-02-11,"nowcast",0,1,0,0,0,0.3125
+"AL-Maceió",2020-02-12,"nowcast",0,1,0,0,0,0.285714285714286
+"AL-Maceió",2020-02-13,"nowcast",0,1,0,0,0,0.285714285714286
+"AL-Maceió",2020-02-14,"nowcast",0,1,0,0,0,0.285714285714286
+"AL-Maceió",2020-02-15,"nowcast",0,1,0,0,0,0.272727272727273
+"AL-Maceió",2020-02-16,"nowcast",0,1,0,0,0,0.283018867924528
+"AL-Maceió",2020-02-17,"nowcast",0,1,0,0,0,0.21875
+"AL-Maceió",2020-02-18,"nowcast",0,1,0,0,0,0.194444444444444
+"AL-Maceió",2020-02-19,"nowcast",0,1,0,0,0,0.315789473684211
+"AL-Maceió",2020-02-20,"nowcast",0,1,0,0,0,0.259259259259259
+"AL-Maceió",2020-02-21,"nowcast",0,1,0,0,0,0.328671328671329
+"AL-Maceió",2020-02-22,"nowcast",0,1,0,0,0,0.268571428571429
+"AL-Maceió",2020-02-23,"nowcast",0,1,0,0,0,0.32258064516129
+"AL-Maceió",2020-02-24,"nowcast",0,1,0,0,0,0.344569288389513
+"AL-Maceió",2020-02-25,"nowcast",0,1,0,0,0,0.30625
+"AL-Maceió",2020-02-26,"nowcast",0,1,0,0,0,0.264623955431755
+"AL-Maceió",2020-02-27,"nowcast",0,1,0,0,0,0.305288461538462
+"AL-Maceió",2020-02-28,"nowcast",0,1,0,0,0,0.288793103448276
+"AL-Maceió",2020-02-29,"nowcast",0,1,0,0,0,0.330841121495327
+"AL-Maceió",2020-03-01,"nowcast",0,1,0,0,0,0.348837209302326
+"AL-Maceió",2020-03-02,"nowcast",0,1,0,0,0,0.336363636363636
+"AL-Maceió",2020-03-03,"nowcast",0,1,0,0,0,0.368932038834951
+"AL-Maceió",2020-03-04,"nowcast",0,1,0,0,0,0.375812743823147
+"AL-Maceió",2020-03-05,"nowcast",0,1,0,0,0,0.369077306733167
+"AL-Maceió",2020-03-06,"nowcast",0,1,0,0,0,0.4
+"AL-Maceió",2020-03-07,"nowcast",0,1,0,0,0,0.457494407158837
+"AL-Maceió",2020-03-08,"nowcast",0,1,0,0,0,0.509209100758397
+"AL-Maceió",2020-03-09,"nowcast",0,2,0,0,0,0.566455696202532
+"AL-Maceió",2020-03-10,"nowcast",0,2,0,0,0,0.629015544041451
+"AL-Maceió",2020-03-11,"nowcast",0,2,0,1,1,0.732855680655067
+"AL-Maceió",2020-03-12,"nowcast",0,2,0,1,1,0.845528455284553
+"AL-Maceió",2020-03-13,"nowcast",0,2,0,1,1,0.947474747474747
+"AL-Maceió",2020-03-14,"nowcast",0,2,0,1,1,0.985929648241206
+"AL-Maceió",2020-03-15,"nowcast",0,2,0,1,1,1.06813627254509
+"AL-Maceió",2020-03-16,"nowcast",0,3,0,1,1,1.12825651302605
+"AL-Maceió",2020-03-17,"nowcast",0,3,0,1,1,1.07507507507508
+"AL-Maceió",2020-03-18,"nowcast",0,2,0,1,1,1.07707707707708
+"AL-Maceió",2020-03-19,"nowcast",0,3,0,1,1,1.17617617617618
+"AL-Maceió",2020-03-20,"nowcast",0,3,0,1,1,1.294
+"AL-Maceió",2020-03-21,"nowcast",0,3,0,1,1,1.383
+"AL-Maceió",2020-03-22,"nowcast",0,3,0,1,1,1.531
+"AL-Maceió",2020-03-23,"nowcast",0,4,1,2,2,1.794
+"AL-Maceió",2020-03-24,"nowcast",0,4,1,2,2,2.132
+"AL-Maceió",2020-03-25,"nowcast",0,5,0,2,2,2.391
+"AL-Maceió",2020-03-26,"nowcast",0,5,1,3,3,2.904
+"AL-Maceió",2020-03-27,"nowcast",0,6,1,3,3,3.266
+"AL-Maceió",2020-03-28,"nowcast",1,7,2,4,4,3.802
+"AL-Maceió",2020-03-29,"nowcast",0,8,1,4,4,4.63
+"AL-Maceió",2020-03-30,"nowcast",1,9,2,5,5,5.335
+"AL-Maceió",2020-03-31,"nowcast",2,11,4,7,6,6.302
+"AL-Maceió",2020-04-01,"nowcast",2,12,4,8,7,7.455
+"AL-Maceió",2020-04-02,"nowcast",3,14,5,9,8,8.701
+"AL-Maceió",2020-04-03,"nowcast",3,16,5,10,10,10.15
+"AL-Maceió",2020-04-04,"nowcast",5,19,6,12,12,11.975
+"AL-Maceió",2020-04-05,"nowcast",5,21,9,15,14,14.194
+"AL-Maceió",2020-04-06,"nowcast",7,24,12,18,16,16.168
+"AL-Maceió",2020-04-07,"nowcast",10,28,14,21,18,18.886
+"AL-Maceió",2020-04-08,"nowcast",10,31,16,24,22,22.251
+"AL-Maceió",2020-04-09,"nowcast",14,36,18,27,25,25.745
+"AL-Maceió",2020-04-10,"nowcast",15,40,22,32,29,29.399
+"AL-Maceió",2020-04-11,"nowcast",20,46,26,36,33,33.701
+"AL-Maceió",2020-04-12,"nowcast",24,51,29,40,38,38.32
+"AL-Maceió",2020-04-13,"nowcast",28,57,36,47,43,43.357
+"AL-Maceió",2020-04-14,"nowcast",33,62,41,52,48,48.595
+"AL-Maceió",2020-04-15,"nowcast",39,69,43,56,54,54.542
+"AL-Maceió",2020-04-16,"nowcast",44,75,51,64,60,60.306
+"AL-Maceió",2020-04-17,"nowcast",50,81,56,69,66,66.32
+"AL-Maceió",2020-04-18,"nowcast",54,86,62,75,71,71.811
+"AL-Maceió",2020-04-19,"nowcast",61,92,69,81,77,76.69
+"AL-Maceió",2020-04-20,"nowcast",63,95,72,84,80,80.571
+"AL-Maceió",2020-04-21,"nowcast",69,101,76,88,84,83.999
+"AL-Maceió",2020-04-22,"nowcast",70,101,76,89,86,86.778
+"AL-Maceió",2020-04-23,"nowcast",72,105,79,92,89,89.341
+"AL-Maceió",2020-04-24,"nowcast",76,107,83,95,91,90.791
+"AL-Maceió",2020-04-25,"nowcast",76,108,86,98,92,91.789
+"AL-Maceió",2020-04-26,"nowcast",75,107,84,97,92,91.784
+"AL-Maceió",2020-04-27,"nowcast",75,106,84,97,92,91.733
+"AL-Maceió",2020-04-28,"nowcast",72,106,81,95,91,90.775
+"AL-Maceió",2020-04-29,"nowcast",72,108,79,94,91,91.713
+"AL-Maceió",2020-04-30,"nowcast",76,114,85,100,93,93.255
+"AL-Maceió",2020-05-01,"nowcast",73,114,85,101,97,97.362
+"AL-Maceió",2020-05-02,"nowcast",82,125,91,108,101,101.974
+"AL-Maceió",2020-05-03,"nowcast",88,130,100,117,108,107.914
+"AL-Maceió",2020-05-04,"nowcast",91,135,103,121,113,113.656
+"AL-Maceió",2020-05-05,"nowcast",93,140,106,124,118,118.669
+"AL-Maceió",2020-05-06,"nowcast",98,145,111,130,124,124.997
+"AL-Maceió",2020-05-07,"nowcast",103,152,120,139,132,132.207
+"AL-Maceió",2020-05-08,"nowcast",115,165,125,145,139,139.556
+"AL-Maceió",2020-05-09,"nowcast",122,172,134,154,146,146.683
+"AL-Maceió",2020-05-10,"nowcast",127,178,135,157,152.5,153.612
+"AL-Maceió",2020-05-11,"nowcast",130,185,150,172,159,160.094
+"AL-Maceió",2020-05-12,"nowcast",137,199,151,176,166,166.803
+"AL-Maceió",2020-05-13,"nowcast",142,206,159,184,175,175.522
+"AL-Maceió",2020-05-14,"nowcast",151,218,171,198,185,184.601
+"AL-Maceió",2020-05-15,"nowcast",159,231,182,210,196,195.983
+"AL-Maceió",2020-05-16,"nowcast",171,244,191,220,210,209.909
+"AL-Maceió",2020-05-17,"nowcast",190,263,205,234,225,225.149
+"AL-Maceió",2020-05-18,"nowcast",208,281,216,247,239,240.342
+"AL-Maceió",2020-05-19,"nowcast",219,293,240,270,257,256.97
+"AL-Maceió",2020-05-20,"nowcast",240,310,255,284,273,272.476
+"AL-Maceió",2020-05-21,"nowcast",254,326,268,297,286,286.353
+"AL-Maceió",2020-05-22,"nowcast",264,335,281,310,302,301.855
+"AL-Maceió",2020-05-23,"nowcast",273,343,292,320,312,311.345
+"AL-Maceió",2020-05-24,"nowcast",287,350,307,333,322,320.961
+"AL-Maceió",2020-05-25,"nowcast",295,360,311,337,329,328.314
+"AL-Maceió",2020-05-26,"nowcast",301,366,319,345,332,331.652
+"AL-Maceió",2020-05-27,"nowcast",302,366,322,347,333,332.9
+"AL-Maceió",2020-05-28,"nowcast",300,361,313,340,331,331.065
+"AL-Maceió",2020-05-29,"nowcast",295,356,303,330,325,325.517
+"AL-Maceió",2020-05-30,"nowcast",290,351,306,330,320,321.205
+"AL-Maceió",2020-05-31,"nowcast",285,350,307,331,319,319.318
+"AL-Maceió",2020-06-01,"nowcast",288,351,303,329,319,318.988
+"AL-Maceió",2020-06-02,"nowcast",287,350,307,333,317,317.192
+"AL-Maceió",2020-06-03,"nowcast",284,348,302,327,316,315.759
+"AL-Maceió",2020-06-04,"nowcast",283,347,304,330,317,316.838
+"AL-Maceió",2020-06-05,"nowcast",284,346,305,329,319,318.296
+"AL-Maceió",2020-06-06,"nowcast",288,347,303,327,318,318.936
+"AL-Maceió",2020-06-07,"nowcast",290,350,302,327,319,318.207
+"AL-Maceió",2020-06-08,"nowcast",284,344,305,327,316,315.565
+"AL-Maceió",2020-06-09,"nowcast",284,341,295,318,310,310.202
+"AL-Maceió",2020-06-10,"nowcast",274,333,287,311,301,301.456
+"AL-Maceió",2020-06-11,"nowcast",259,318,276,300,292,291.958
+"AL-Maceió",2020-06-12,"nowcast",257,318,274,297,287,286.759
+"AL-Maceió",2020-06-13,"nowcast",252,309,265,288,281,281.723
+"AL-Maceió",2020-06-14,"nowcast",248,307,266,290,279,278.607
+"AL-Maceió",2020-06-15,"nowcast",248,307,265,289,280,279.912
+"AL-Maceió",2020-06-16,"nowcast",252,310,267,290,283,283.102
+"AL-Maceió",2020-06-17,"nowcast",252,310,271,294,282.5,282.575
+"AL-Maceió",2020-06-18,"nowcast",248,303,269,292,278,277.775
+"AL-Maceió",2020-06-19,"nowcast",243,299,260,283,272,272.042
+"AL-Maceió",2020-06-20,"nowcast",235,289,250,271,261,261.293
+"AL-Maceió",2020-06-21,"nowcast",224,278,238,260,252,251.567
+"AL-Maceió",2020-06-22,"nowcast",220,272,229,251,244,244.135
+"AL-Maceió",2020-06-23,"nowcast",209,265,229,249,241,240.661
+"AL-Maceió",2020-06-24,"nowcast",214,266,231,252,240,240.407
+"AL-Maceió",2020-06-25,"nowcast",211,265,225,247,239,239.361
+"AL-Maceió",2020-06-26,"nowcast",213,263,224,245,237,237.825
+"AL-Maceió",2020-06-27,"nowcast",208,259,222,243,235,235.291
+"AL-Maceió",2020-06-28,"nowcast",208,261,220,241,233,233.981
+"AL-Maceió",2020-06-29,"nowcast",208,263,220,243,234,234.726
+"AL-Maceió",2020-06-30,"nowcast",210,261,228,248,237,237.475
+"AL-Maceió",2020-07-01,"nowcast",213,266,226,247,238,239.449
+"AL-Maceió",2020-07-02,"nowcast",214,268,226,247,240,240.426
+"AL-Maceió",2020-07-03,"nowcast",213,265,224,245,238,237.893
+"AL-Maceió",2020-07-04,"nowcast",208,258,220,241,233,233.693
+"AL-Maceió",2020-07-05,"nowcast",204,253,217,237,229,228.689
+"AL-Maceió",2020-07-06,"nowcast",197,250,212,233,227,226.395
+"AL-Maceió",2020-07-07,"nowcast",195,247,210,232,222,222.669
+"AL-Maceió",2020-07-08,"nowcast",191,244,205,226,217,216.937
+"AL-Maceió",2020-07-09,"nowcast",179,232,192,214,207,207.227
+"AL-Maceió",2020-07-10,"nowcast",166,219,176,198,192,192.421
+"AL-Maceió",2020-07-11,"nowcast",150,199,162,181,173,173.537
+"AL-Maceió",2020-07-12,"forecast",136,214,160,191,179.5,179.934
+"AL-Maceió",2020-07-13,"forecast",134,217,152,186,175,175.0592
+"AL-Maceió",2020-07-14,"forecast",125,213,150,186,170,169.7212
+"AL-Maceió",2020-07-15,"forecast",115,210,142,181,165,164.9068
+"AL-Maceió",2020-07-16,"forecast",109,206,136,176,161,160.6112
+"AL-Maceió",2020-07-17,"forecast",101,205,132,174,156,155.7636
+"AL-Maceió",2020-07-18,"forecast",93,201,123,167,152,151.613
+"AL-Maceió",2020-07-19,"forecast",89,200,122,167,148,147.7766
+"AL-Maceió",2020-07-20,"forecast",84,197,115,161,144,143.6802
+"AL-Maceió",2020-07-21,"forecast",79,195,108,157,139,139.3516
+"AL-Maceió",2020-07-22,"forecast",75,193,107,156,135,135.4028
+"AL-Maceió",2020-07-23,"forecast",68,188,101,151,131,131.4912
+"AL-Maceió",2020-07-24,"forecast",61,186,98,149,128,128.4216
+"AL-Maceió",2020-07-25,"forecast",59,184,91,143,124,124.8628
+"AL-Penedo",2020-03-20,"nowcast",1,1,1,1,1,1
+"AL-Penedo",2020-03-21,"nowcast",0,0,0,0,0,0
+"AL-Penedo",2020-03-22,"nowcast",0,1,0,1,0.5,0.5
+"AL-Penedo",2020-03-23,"nowcast",0,0,0,0,0,0
+"AL-Penedo",2020-03-24,"nowcast",0,1,0,0,0,0.333333333333333
+"AL-Penedo",2020-03-25,"nowcast",0,0,0,0,0,0
+"AL-Penedo",2020-03-26,"nowcast",0,1,0,0,0,0.25
+"AL-Penedo",2020-03-27,"nowcast",0,0,0,0,0,0
+"AL-Penedo",2020-03-28,"nowcast",0,1,0,0,0,0.428571428571429
+"AL-Penedo",2020-03-29,"nowcast",0,1,0,0,0,0.25
+"AL-Penedo",2020-03-30,"nowcast",0,1,0,0,0,0.454545454545455
+"AL-Penedo",2020-03-31,"nowcast",0,1,0,0,0,0.333333333333333
+"AL-Penedo",2020-04-01,"nowcast",0,1,0,0,0,0.1875
+"AL-Penedo",2020-04-02,"nowcast",0,1,0,0,0,0.2
+"AL-Penedo",2020-04-03,"nowcast",0,1,0,0,0,0.130434782608696
+"AL-Penedo",2020-04-04,"nowcast",0,1,0,0,0,0.115384615384615
+"AL-Penedo",2020-04-05,"nowcast",0,1,0,0,0,0.305555555555556
+"AL-Penedo",2020-04-06,"nowcast",0,1,0,0,0,0.297872340425532
+"AL-Penedo",2020-04-07,"nowcast",0,1,0,0,0,0.210526315789474
+"AL-Penedo",2020-04-08,"nowcast",0,1,0,0,0,0.28169014084507
+"AL-Penedo",2020-04-09,"nowcast",0,1,0,0,0,0.3
+"AL-Penedo",2020-04-10,"nowcast",0,1,0,0,0,0.288288288288288
+"AL-Penedo",2020-04-11,"nowcast",0,1,0,0,0,0.348993288590604
+"AL-Penedo",2020-04-12,"nowcast",0,1,0,0,0,0.272222222222222
+"AL-Penedo",2020-04-13,"nowcast",0,1,0,0,0,0.273972602739726
+"AL-Penedo",2020-04-14,"nowcast",0,1,0,0,0,0.25
+"AL-Penedo",2020-04-15,"nowcast",0,1,0,0,0,0.293929712460064
+"AL-Penedo",2020-04-16,"nowcast",0,1,0,0,0,0.354755784061697
+"AL-Penedo",2020-04-17,"nowcast",0,1,0,0,0,0.298901098901099
+"AL-Penedo",2020-04-18,"nowcast",0,1,0,0,0,0.375711574952562
+"AL-Penedo",2020-04-19,"nowcast",0,1,0,0,0,0.305460750853242
+"AL-Penedo",2020-04-20,"nowcast",0,1,0,0,0,0.330838323353293
+"AL-Penedo",2020-04-21,"nowcast",0,1,0,0,0,0.396200814111262
+"AL-Penedo",2020-04-22,"nowcast",0,1,0,0,0,0.357409713574097
+"AL-Penedo",2020-04-23,"nowcast",0,1,0,0,0,0.383720930232558
+"AL-Penedo",2020-04-24,"nowcast",0,1,0,0,0,0.419068736141907
+"AL-Penedo",2020-04-25,"nowcast",0,1,0,0,0,0.447761194029851
+"AL-Penedo",2020-04-26,"nowcast",0,1,0,0,0,0.465909090909091
+"AL-Penedo",2020-04-27,"nowcast",0,1,0,0,0,0.495910020449898
+"AL-Penedo",2020-04-28,"nowcast",0,1,0,0,0,0.525354969574036
+"AL-Penedo",2020-04-29,"nowcast",0,2,0,0,0,0.590130916414904
+"AL-Penedo",2020-04-30,"nowcast",0,2,0,0,0,0.609829488465396
+"AL-Penedo",2020-05-01,"nowcast",0,2,0,1,1,0.732732732732733
+"AL-Penedo",2020-05-02,"nowcast",0,2,0,1,1,0.738738738738739
+"AL-Penedo",2020-05-03,"nowcast",0,2,0,1,1,0.74974974974975
+"AL-Penedo",2020-05-04,"nowcast",0,2,0,1,1,0.79
+"AL-Penedo",2020-05-05,"nowcast",0,2,0,1,1,0.884
+"AL-Penedo",2020-05-06,"nowcast",0,2,0,1,1,1.019
+"AL-Penedo",2020-05-07,"nowcast",0,2,0,1,1,1.061
+"AL-Penedo",2020-05-08,"nowcast",0,2,0,1,1,1.127
+"AL-Penedo",2020-05-09,"nowcast",0,3,0,1,1,1.179
+"AL-Penedo",2020-05-10,"nowcast",0,3,0,1,1,1.284
+"AL-Penedo",2020-05-11,"nowcast",0,3,0,1,1,1.363
+"AL-Penedo",2020-05-12,"nowcast",0,3,0,1,1,1.384
+"AL-Penedo",2020-05-13,"nowcast",0,3,0,1,1,1.49
+"AL-Penedo",2020-05-14,"nowcast",0,3,0,1,1,1.577
+"AL-Penedo",2020-05-15,"nowcast",0,4,1,2,2,1.75
+"AL-Penedo",2020-05-16,"nowcast",0,4,1,2,2,1.998
+"AL-Penedo",2020-05-17,"nowcast",0,4,1,2,2,2.186
+"AL-Penedo",2020-05-18,"nowcast",0,4,0,2,2,2.44
+"AL-Penedo",2020-05-19,"nowcast",0,5,1,3,3,2.639
+"AL-Penedo",2020-05-20,"nowcast",0,5,1,3,3,2.72
+"AL-Penedo",2020-05-21,"nowcast",0,5,1,3,3,2.941
+"AL-Penedo",2020-05-22,"nowcast",1,6,1,3,3,3.195
+"AL-Penedo",2020-05-23,"nowcast",1,6,1,3,3,3.456
+"AL-Penedo",2020-05-24,"nowcast",0,6,2,4,3,3.651
+"AL-Penedo",2020-05-25,"nowcast",0,6,2,4,4,3.843
+"AL-Penedo",2020-05-26,"nowcast",1,7,2,4,4,4.09
+"AL-Penedo",2020-05-27,"nowcast",1,7,3,5,4,4.378
+"AL-Penedo",2020-05-28,"nowcast",1,7,3,5,4,4.572
+"AL-Penedo",2020-05-29,"nowcast",2,8,3,5,5,4.723
+"AL-Penedo",2020-05-30,"nowcast",1,8,2,5,5,4.985
+"AL-Penedo",2020-05-31,"nowcast",1,8,2,5,5,5.265
+"AL-Penedo",2020-06-01,"nowcast",2,9,3,6,5,5.606
+"AL-Penedo",2020-06-02,"nowcast",2,9,3,6,6,5.824
+"AL-Penedo",2020-06-03,"nowcast",2,9,3,6,6,6.096
+"AL-Penedo",2020-06-04,"nowcast",3,10,4,7,6,6.416
+"AL-Penedo",2020-06-05,"nowcast",3,10,4,7,6,6.47
+"AL-Penedo",2020-06-06,"nowcast",2,10,4,7,6,6.338
+"AL-Penedo",2020-06-07,"nowcast",2,9,3,6,6,5.954
+"AL-Penedo",2020-06-08,"nowcast",1,8,4,6,5,5.39
+"AL-Penedo",2020-06-09,"nowcast",2,8,3,5,4,4.562
+"AL-Penedo",2020-06-10,"nowcast",0,6,2,4,4,3.842
+"AL-Penedo",2020-06-11,"nowcast",0,5,1,3,3,3.178
+"AL-Penedo",2020-06-12,"nowcast",0,5,1,3,3,2.827
+"AL-Penedo",2020-06-13,"nowcast",0,5,1,3,3,2.732
+"AL-Penedo",2020-06-14,"nowcast",0,5,1,3,3,2.769
+"AL-Penedo",2020-06-15,"nowcast",0,5,1,3,3,2.816
+"AL-Penedo",2020-06-16,"nowcast",0,5,1,3,3,2.91
+"AL-Penedo",2020-06-17,"nowcast",0,5,1,3,3,3.025
+"AL-Penedo",2020-06-18,"nowcast",1,6,1,3,3,3.237
+"AL-Penedo",2020-06-19,"nowcast",1,6,2,4,3,3.47
+"AL-Penedo",2020-06-20,"nowcast",0,6,2,4,4,3.733
+"AL-Penedo",2020-06-21,"nowcast",0,6,2,4,4,3.868
+"AL-Penedo",2020-06-22,"nowcast",1,7,2,4,4,4.097
+"AL-Penedo",2020-06-23,"nowcast",1,8,3,5,4,4.603
+"AL-Penedo",2020-06-24,"nowcast",1,8,2,5,5,5.005
+"AL-Penedo",2020-06-25,"nowcast",1,9,3,6,6,5.899
+"AL-Penedo",2020-06-26,"nowcast",2,11,4,7,6,6.647
+"AL-Penedo",2020-06-27,"nowcast",2,12,4,8,7,7.827
+"AL-Penedo",2020-06-28,"nowcast",3,14,5,9,9,8.949
+"AL-Penedo",2020-06-29,"nowcast",5,16,8,12,10,10.407
+"AL-Penedo",2020-06-30,"nowcast",5,18,7,12,12,12.148
+"AL-Penedo",2020-07-01,"nowcast",7,21,9,15,14,14.292
+"AL-Penedo",2020-07-02,"nowcast",9,25,13,19,17,16.959
+"AL-Penedo",2020-07-03,"nowcast",11,28,13,20,19,19.423
+"AL-Penedo",2020-07-04,"nowcast",13,32,18,25,23,22.983
+"AL-Penedo",2020-07-05,"nowcast",14,37,19,28,26.5,26.968
+"AL-Penedo",2020-07-06,"nowcast",18,43,23,33,31,31.337
+"AL-Penedo",2020-07-07,"nowcast",22,53,25,38,36,36.813
+"AL-Penedo",2020-07-08,"nowcast",24,61,29,45,42,43.35
+"AL-Penedo",2020-07-09,"nowcast",27,72,35,53,49,50.629
+"AL-Penedo",2020-07-10,"forecast",25,96,36,64,57,60.1976
+"AL-Penedo",2020-07-11,"forecast",22,116,44,81,67,71.3588
+"AL-Penedo",2020-07-12,"forecast",21,147,41,90,79,84.989
+"AL-Penedo",2020-07-13,"forecast",19,179,45,106,92,101.1438
+"AL-Penedo",2020-07-14,"forecast",21,233,40,120,108,122.2774
+"AL-Penedo",2020-07-15,"forecast",0,266,48,147,127,145.7006
+"AL-Penedo",2020-07-16,"forecast",0,343,45,165,147,177.4692
+"AL-Penedo",2020-07-17,"forecast",0,423,45,198,171,214.5954
+"AL-Penedo",2020-07-18,"forecast",0,533,49,230,201,261.4652
+"AL-Penedo",2020-07-19,"forecast",0,656,56,278,232.5,318.1168
+"AL-Penedo",2020-07-20,"forecast",0,820,50,314,271,385.2754
+"AL-Penedo",2020-07-21,"forecast",0,1039,0,322,322,482.401
+"AL-Penedo",2020-07-22,"forecast",0,1313,0,378,378,602.139
+"AL-Penedo",2020-07-23,"forecast",0,1655,0,449,449,740.0966
+"AL-Pilar",2020-03-10,"nowcast",1,1,1,1,1,1
+"AL-Pilar",2020-03-11,"nowcast",0,0,0,0,0,0
+"AL-Pilar",2020-03-12,"nowcast",0,0,0,0,0,0
+"AL-Pilar",2020-03-13,"nowcast",0,0,0,0,0,0
+"AL-Pilar",2020-03-14,"nowcast",0,0,0,0,0,0
+"AL-Pilar",2020-03-15,"nowcast",0,1,0,1,0.5,0.5
+"AL-Pilar",2020-03-16,"nowcast",0,0,0,0,0,0
+"AL-Pilar",2020-03-17,"nowcast",0,0,0,0,0,0
+"AL-Pilar",2020-03-18,"nowcast",0,1,0,0,0,0.333333333333333
+"AL-Pilar",2020-03-19,"nowcast",0,1,0,0,0,0.4
+"AL-Pilar",2020-03-20,"nowcast",0,1,0,0,0,0.444444444444444
+"AL-Pilar",2020-03-21,"nowcast",0,0,0,0,0,0
+"AL-Pilar",2020-03-22,"nowcast",0,1,1,1,1,0.538461538461538
+"AL-Pilar",2020-03-23,"nowcast",0,1,0,0,0,0.352941176470588
+"AL-Pilar",2020-03-24,"nowcast",0,1,0,0,0,0.285714285714286
+"AL-Pilar",2020-03-25,"nowcast",0,1,0,0,0,0.230769230769231
+"AL-Pilar",2020-03-26,"nowcast",0,1,0,0,0,0.222222222222222
+"AL-Pilar",2020-03-27,"nowcast",0,1,0,0,0,0.425
+"AL-Pilar",2020-03-28,"nowcast",0,1,0,0,0,0.333333333333333
+"AL-Pilar",2020-03-29,"nowcast",0,1,0,0,0,0.3375
+"AL-Pilar",2020-03-30,"nowcast",0,1,0,0,0,0.323529411764706
+"AL-Pilar",2020-03-31,"nowcast",0,1,0,0,0,0.316176470588235
+"AL-Pilar",2020-04-01,"nowcast",0,1,0,0,0,0.302325581395349
+"AL-Pilar",2020-04-02,"nowcast",0,1,0,0,0,0.282296650717703
+"AL-Pilar",2020-04-03,"nowcast",0,1,0,0,0,0.33201581027668
+"AL-Pilar",2020-04-04,"nowcast",0,1,0,0,0,0.312101910828025
+"AL-Pilar",2020-04-05,"nowcast",0,1,0,0,0,0.313829787234043
+"AL-Pilar",2020-04-06,"nowcast",0,1,0,0,0,0.350917431192661
+"AL-Pilar",2020-04-07,"nowcast",0,1,0,0,0,0.378378378378378
+"AL-Pilar",2020-04-08,"nowcast",0,1,0,0,0,0.327556325823224
+"AL-Pilar",2020-04-09,"nowcast",0,1,0,0,0,0.364615384615385
+"AL-Pilar",2020-04-10,"nowcast",0,1,0,0,0,0.407307171853857
+"AL-Pilar",2020-04-11,"nowcast",0,1,0,0,0,0.389434889434889
+"AL-Pilar",2020-04-12,"nowcast",0,1,0,0,0,0.397899649941657
+"AL-Pilar",2020-04-13,"nowcast",0,1,0,0,0,0.410654827968923
+"AL-Pilar",2020-04-14,"nowcast",0,1,0,0,0,0.46063829787234
+"AL-Pilar",2020-04-15,"nowcast",0,1,0,0,0,0.514553014553014
+"AL-Pilar",2020-04-16,"nowcast",0,1,0,0,0,0.486761710794297
+"AL-Pilar",2020-04-17,"nowcast",0,1,0,0,0,0.492401215805471
+"AL-Pilar",2020-04-18,"nowcast",0,1,0,0,0,0.551411290322581
+"AL-Pilar",2020-04-19,"nowcast",0,2,0,0,0,0.585513078470825
+"AL-Pilar",2020-04-20,"nowcast",0,2,0,0,0,0.647590361445783
+"AL-Pilar",2020-04-21,"nowcast",0,2,0,0,0,0.679037111334002
+"AL-Pilar",2020-04-22,"nowcast",0,2,0,1,1,0.856569709127382
+"AL-Pilar",2020-04-23,"nowcast",0,2,0,1,1,0.899799599198397
+"AL-Pilar",2020-04-24,"nowcast",0,3,0,1,1,1.09009009009009
+"AL-Pilar",2020-04-25,"nowcast",0,3,0,1,1,1.203
+"AL-Pilar",2020-04-26,"nowcast",0,3,0,1,1,1.38
+"AL-Pilar",2020-04-27,"nowcast",0,3,0,1,1,1.601
+"AL-Pilar",2020-04-28,"nowcast",0,3,1,2,2,1.712
+"AL-Pilar",2020-04-29,"nowcast",0,4,1,2,2,1.933
+"AL-Pilar",2020-04-30,"nowcast",0,4,1,2,2,2.079
+"AL-Pilar",2020-05-01,"nowcast",0,4,1,2,2,2.283
+"AL-Pilar",2020-05-02,"nowcast",0,5,0,2,2,2.417
+"AL-Pilar",2020-05-03,"nowcast",0,5,0,2,2,2.634
+"AL-Pilar",2020-05-04,"nowcast",0,5,1,3,3,3.003
+"AL-Pilar",2020-05-05,"nowcast",1,6,1,3,3,3.249
+"AL-Pilar",2020-05-06,"nowcast",0,6,2,4,3,3.626
+"AL-Pilar",2020-05-07,"nowcast",0,6,2,4,4,3.911
+"AL-Pilar",2020-05-08,"nowcast",1,7,2,4,4,4.234
+"AL-Pilar",2020-05-09,"nowcast",2,8,3,5,5,4.748
+"AL-Pilar",2020-05-10,"nowcast",1,8,4,6,5,5.19
+"AL-Pilar",2020-05-11,"nowcast",2,9,2,5,5,5.545
+"AL-Pilar",2020-05-12,"nowcast",2,9,3,6,6,5.718
+"AL-Pilar",2020-05-13,"nowcast",3,10,3,6,6,6.209
+"AL-Pilar",2020-05-14,"nowcast",3,10,3,6,6,6.301
+"AL-Pilar",2020-05-15,"nowcast",2,10,4,7,7,6.629
+"AL-Pilar",2020-05-16,"nowcast",3,11,4,7,7,7.186
+"AL-Pilar",2020-05-17,"nowcast",4,12,5,8,7,7.483
+"AL-Pilar",2020-05-18,"nowcast",2,11,6,9,8,7.752
+"AL-Pilar",2020-05-19,"nowcast",3,12,6,9,8,7.961
+"AL-Pilar",2020-05-20,"nowcast",3,12,6,9,8,8.27
+"AL-Pilar",2020-05-21,"nowcast",3,12,7,10,8.5,8.616
+"AL-Pilar",2020-05-22,"nowcast",4,13,7,10,9,9.013
+"AL-Pilar",2020-05-23,"nowcast",4,14,7,10,9,9.479
+"AL-Pilar",2020-05-24,"nowcast",5,15,6,10,10,9.939
+"AL-Pilar",2020-05-25,"nowcast",5,15,8,12,11,10.651
+"AL-Pilar",2020-05-26,"nowcast",6,16,8,12,11,11.405
+"AL-Pilar",2020-05-27,"nowcast",6,17,9,13,12,12.123
+"AL-Pilar",2020-05-28,"nowcast",7,18,9,13,13,12.688
+"AL-Pilar",2020-05-29,"nowcast",6,18,10,14,13,13.151
+"AL-Pilar",2020-05-30,"nowcast",7,19,9,14,13,13.561
+"AL-Pilar",2020-05-31,"nowcast",8,20,12,16,14,14.166
+"AL-Pilar",2020-06-01,"nowcast",9,20,10,15,14,14.441
+"AL-Pilar",2020-06-02,"nowcast",9,20,12,16,15,14.876
+"AL-Pilar",2020-06-03,"nowcast",10,21,11,16,15,15.448
+"AL-Pilar",2020-06-04,"nowcast",9,22,12,17,16,16.156
+"AL-Pilar",2020-06-05,"nowcast",11,23,12,17,16,16.738
+"AL-Pilar",2020-06-06,"nowcast",11,24,14,19,18,17.806
+"AL-Pilar",2020-06-07,"nowcast",12,25,15,20,18,18.637
+"AL-Pilar",2020-06-08,"nowcast",11,25,15,20,19,18.958
+"AL-Pilar",2020-06-09,"nowcast",12,25,16,21,19,19.14
+"AL-Pilar",2020-06-10,"nowcast",13,26,15,20,19,19.205
+"AL-Pilar",2020-06-11,"nowcast",12,25,15,20,19,19.192
+"AL-Pilar",2020-06-12,"nowcast",13,26,16,21,19,19.367
+"AL-Pilar",2020-06-13,"nowcast",11,25,17,22,19,19.296
+"AL-Pilar",2020-06-14,"nowcast",13,26,15,20,19,19.285
+"AL-Pilar",2020-06-15,"nowcast",12,25,15,20,19,18.776
+"AL-Pilar",2020-06-16,"nowcast",11,24,14,19,18,18.261
+"AL-Pilar",2020-06-17,"nowcast",10,23,13,18,17,17.48
+"AL-Pilar",2020-06-18,"nowcast",9,22,13,18,17,16.885
+"AL-Pilar",2020-06-19,"nowcast",10,23,13,18,17,16.912
+"AL-Pilar",2020-06-20,"nowcast",11,24,13,18,17,17.26
+"AL-Pilar",2020-06-21,"nowcast",10,23,14,19,17,17.657
+"AL-Pilar",2020-06-22,"nowcast",11,24,15,20,18,18.601
+"AL-Pilar",2020-06-23,"nowcast",11,25,16,21,19.5,19.574
+"AL-Pilar",2020-06-24,"nowcast",13,27,17,22,20,20.245
+"AL-Pilar",2020-06-25,"nowcast",12,27,16,22,21,20.9
+"AL-Pilar",2020-06-26,"nowcast",13,27,17,22,21,20.539
+"AL-Pilar",2020-06-27,"nowcast",13,27,17,22,20,20.348
+"AL-Pilar",2020-06-28,"nowcast",11,25,14,20,19,19.335
+"AL-Pilar",2020-06-29,"nowcast",12,25,15,20,18,18.324
+"AL-Pilar",2020-06-30,"nowcast",10,23,13,18,17,17.484
+"AL-Pilar",2020-07-01,"nowcast",10,23,13,18,17,17.382
+"AL-Pilar",2020-07-02,"nowcast",11,24,13,18,17,17.468
+"AL-Pilar",2020-07-03,"nowcast",10,23,13,18,17,17.116
+"AL-Pilar",2020-07-04,"nowcast",9,22,14,19,17,16.779
+"AL-Pilar",2020-07-05,"nowcast",9,22,12,17,16,16.574
+"AL-Pilar",2020-07-06,"nowcast",9,22,12,17,16,16.094
+"AL-Pilar",2020-07-07,"nowcast",9,22,11,16,15,15.642
+"AL-Pilar",2020-07-08,"nowcast",7,21,12,17,15,15.685
+"AL-Pilar",2020-07-09,"nowcast",9,23,14,19,17,16.774
+"AL-Pilar",2020-07-10,"nowcast",9,25,13,19,18,18.514
+"AL-Pilar",2020-07-11,"forecast",6,27,10,18,17,17.3962
+"AL-Pilar",2020-07-12,"forecast",5,27,12,20,17,17.5876
+"AL-Pilar",2020-07-13,"forecast",6,30,10,19,17,17.825
+"AL-Pilar",2020-07-14,"forecast",5,31,8,18,17,18.1218
+"AL-Pilar",2020-07-15,"forecast",4,31,8,18,16,18.1372
+"AL-Pilar",2020-07-16,"forecast",3,33,8,19,17,18.6934
+"AL-Pilar",2020-07-17,"forecast",2,34,8,19,17,18.895
+"AL-Pilar",2020-07-18,"forecast",0,33,6,18,16,18.9632
+"AL-Pilar",2020-07-19,"forecast",0,36,6,18,16,19.4558
+"AL-Pilar",2020-07-20,"forecast",0,37,5,18,16,19.9276
+"AL-Pilar",2020-07-21,"forecast",0,38,4,17,16,20.3826
+"AL-Pilar",2020-07-22,"forecast",0,39,2,16,16,20.6514
+"AL-Pilar",2020-07-23,"forecast",0,41,3,17,16,21.1056
+"AL-Pilar",2020-07-24,"forecast",0,42,3,17,15,21.6806
+"AL-São Miguel dos Campos",2020-03-21,"nowcast",1,1,1,1,1,1
+"AL-São Miguel dos Campos",2020-03-22,"nowcast",0,2,0,2,1,1
+"AL-São Miguel dos Campos",2020-03-23,"nowcast",0,0,0,0,0,0
+"AL-São Miguel dos Campos",2020-03-24,"nowcast",0,1,0,0,0,0.333333333333333
+"AL-São Miguel dos Campos",2020-03-25,"nowcast",0,1,0,1,0.5,0.5
+"AL-São Miguel dos Campos",2020-03-26,"nowcast",0,1,0,0,0,0.333333333333333
+"AL-São Miguel dos Campos",2020-03-27,"nowcast",0,1,1,1,1,0.583333333333333
+"AL-São Miguel dos Campos",2020-03-28,"nowcast",0,1,1,1,1,0.636363636363636
+"AL-São Miguel dos Campos",2020-03-29,"nowcast",0,1,0,0,0,0.275862068965517
+"AL-São Miguel dos Campos",2020-03-30,"nowcast",0,1,0,0,0,0.361111111111111
+"AL-São Miguel dos Campos",2020-03-31,"nowcast",0,1,0,0,0,0.227272727272727
+"AL-São Miguel dos Campos",2020-04-01,"nowcast",0,1,0,0,0,0.357142857142857
+"AL-São Miguel dos Campos",2020-04-02,"nowcast",0,1,0,0,0,0.371794871794872
+"AL-São Miguel dos Campos",2020-04-03,"nowcast",0,1,0,0,0,0.336633663366337
+"AL-São Miguel dos Campos",2020-04-04,"nowcast",0,1,0,0,0,0.323529411764706
+"AL-São Miguel dos Campos",2020-04-05,"nowcast",0,1,0,0,0,0.344444444444444
+"AL-São Miguel dos Campos",2020-04-06,"nowcast",0,1,0,0,0,0.346666666666667
+"AL-São Miguel dos Campos",2020-04-07,"nowcast",0,1,0,0,0,0.285714285714286
+"AL-São Miguel dos Campos",2020-04-08,"nowcast",0,1,0,0,0,0.30625
+"AL-São Miguel dos Campos",2020-04-09,"nowcast",0,1,0,0,0,0.356589147286822
+"AL-São Miguel dos Campos",2020-04-10,"nowcast",0,1,0,0,0,0.346491228070175
+"AL-São Miguel dos Campos",2020-04-11,"nowcast",0,1,0,0,0,0.308429118773946
+"AL-São Miguel dos Campos",2020-04-12,"nowcast",0,1,0,0,0,0.359271523178808
+"AL-São Miguel dos Campos",2020-04-13,"nowcast",0,1,0,0,0,0.379970544918999
+"AL-São Miguel dos Campos",2020-04-14,"nowcast",0,1,0,0,0,0.426877470355731
+"AL-São Miguel dos Campos",2020-04-15,"nowcast",0,1,0,0,0,0.499395405078597
+"AL-São Miguel dos Campos",2020-04-16,"nowcast",0,1,0,0,0,0.486143187066975
+"AL-São Miguel dos Campos",2020-04-17,"nowcast",0,1,0,0,0,0.561325966850829
+"AL-São Miguel dos Campos",2020-04-18,"nowcast",0,2,0,0,0,0.647739221871714
+"AL-São Miguel dos Campos",2020-04-19,"nowcast",0,2,0,1,1,0.724385245901639
+"AL-São Miguel dos Campos",2020-04-20,"nowcast",0,2,0,1,1,0.766430738119312
+"AL-São Miguel dos Campos",2020-04-21,"nowcast",0,2,0,1,1,0.853560682046138
+"AL-São Miguel dos Campos",2020-04-22,"nowcast",0,2,0,1,1,0.912
+"AL-São Miguel dos Campos",2020-04-23,"nowcast",0,2,0,1,1,1.015
+"AL-São Miguel dos Campos",2020-04-24,"nowcast",0,3,0,1,1,1.08
+"AL-São Miguel dos Campos",2020-04-25,"nowcast",0,3,0,1,1,1.189
+"AL-São Miguel dos Campos",2020-04-26,"nowcast",0,3,0,1,1,1.268
+"AL-São Miguel dos Campos",2020-04-27,"nowcast",0,3,0,1,1,1.497
+"AL-São Miguel dos Campos",2020-04-28,"nowcast",0,4,1,2,2,1.758
+"AL-São Miguel dos Campos",2020-04-29,"nowcast",0,4,1,2,2,2.042
+"AL-São Miguel dos Campos",2020-04-30,"nowcast",0,4,0,2,2,2.35
+"AL-São Miguel dos Campos",2020-05-01,"nowcast",0,5,0,2,2,2.698
+"AL-São Miguel dos Campos",2020-05-02,"nowcast",0,5,1,3,3,3.024
+"AL-São Miguel dos Campos",2020-05-03,"nowcast",1,6,1,3,3,3.45
+"AL-São Miguel dos Campos",2020-05-04,"nowcast",1,7,2,4,4,4.008
+"AL-São Miguel dos Campos",2020-05-05,"nowcast",0,7,3,5,4,4.549
+"AL-São Miguel dos Campos",2020-05-06,"nowcast",1,8,2,5,5,5.165
+"AL-São Miguel dos Campos",2020-05-07,"nowcast",1,9,3,6,6,5.866
+"AL-São Miguel dos Campos",2020-05-08,"nowcast",2,10,4,7,7,6.812
+"AL-São Miguel dos Campos",2020-05-09,"nowcast",2,11,5,8,7,7.509
+"AL-São Miguel dos Campos",2020-05-10,"nowcast",4,13,7,10,8,8.559
+"AL-São Miguel dos Campos",2020-05-11,"nowcast",4,14,6,10,10,9.66
+"AL-São Miguel dos Campos",2020-05-12,"nowcast",5,15,7,11,10,10.509
+"AL-São Miguel dos Campos",2020-05-13,"nowcast",6,16,8,12,11,11.491
+"AL-São Miguel dos Campos",2020-05-14,"nowcast",6,17,9,13,12,12.217
+"AL-São Miguel dos Campos",2020-05-15,"nowcast",7,19,10,14,13,13.326
+"AL-São Miguel dos Campos",2020-05-16,"nowcast",8,20,9,14,14,13.972
+"AL-São Miguel dos Campos",2020-05-17,"nowcast",9,20,11,16,15,14.901
+"AL-São Miguel dos Campos",2020-05-18,"nowcast",8,20,11,16,15,15.331
+"AL-São Miguel dos Campos",2020-05-19,"nowcast",9,21,11,16,16,15.711
+"AL-São Miguel dos Campos",2020-05-20,"nowcast",9,21,12,17,16,16.029
+"AL-São Miguel dos Campos",2020-05-21,"nowcast",10,22,12,17,16,16.316
+"AL-São Miguel dos Campos",2020-05-22,"nowcast",9,22,12,17,16,16.663
+"AL-São Miguel dos Campos",2020-05-23,"nowcast",9,22,15,19,17,17.287
+"AL-São Miguel dos Campos",2020-05-24,"nowcast",11,24,14,19,17,17.491
+"AL-São Miguel dos Campos",2020-05-25,"nowcast",11,24,14,19,18,17.768
+"AL-São Miguel dos Campos",2020-05-26,"nowcast",10,24,14,19,18,18.049
+"AL-São Miguel dos Campos",2020-05-27,"nowcast",10,23,13,18,17,17.487
+"AL-São Miguel dos Campos",2020-05-28,"nowcast",11,24,13,18,17,17.39
+"AL-São Miguel dos Campos",2020-05-29,"nowcast",10,22,12,17,17,16.804
+"AL-São Miguel dos Campos",2020-05-30,"nowcast",9,22,12,17,16,16.449
+"AL-São Miguel dos Campos",2020-05-31,"nowcast",10,22,13,18,16,16.581
+"AL-São Miguel dos Campos",2020-06-01,"nowcast",11,23,13,18,17,16.733
+"AL-São Miguel dos Campos",2020-06-02,"nowcast",10,23,13,18,17,17.038
+"AL-São Miguel dos Campos",2020-06-03,"nowcast",12,25,14,19,18,17.709
+"AL-São Miguel dos Campos",2020-06-04,"nowcast",11,24,14,19,18,18.327
+"AL-São Miguel dos Campos",2020-06-05,"nowcast",12,26,17,22,19,19.652
+"AL-São Miguel dos Campos",2020-06-06,"nowcast",13,28,16,22,21,20.868
+"AL-São Miguel dos Campos",2020-06-07,"nowcast",14,29,18,24,22,22.268
+"AL-São Miguel dos Campos",2020-06-08,"nowcast",15,30,18,24,23,23.292
+"AL-São Miguel dos Campos",2020-06-09,"nowcast",15,31,20,26,24,24.361
+"AL-São Miguel dos Campos",2020-06-10,"nowcast",17,32,21,27,25,25.215
+"AL-São Miguel dos Campos",2020-06-11,"nowcast",17,33,22,28,26,26.052
+"AL-São Miguel dos Campos",2020-06-12,"nowcast",18,34,22,28,26,26.848
+"AL-São Miguel dos Campos",2020-06-13,"nowcast",19,34,22,28,27,27.222
+"AL-São Miguel dos Campos",2020-06-14,"nowcast",19,35,21,28,27,27.18
+"AL-São Miguel dos Campos",2020-06-15,"nowcast",19,34,22,28,27,26.791
+"AL-São Miguel dos Campos",2020-06-16,"nowcast",17,33,23,29,26,26.149
+"AL-São Miguel dos Campos",2020-06-17,"nowcast",18,33,21,27,25,25.077
+"AL-São Miguel dos Campos",2020-06-18,"nowcast",17,32,20,26,25,24.507
+"AL-São Miguel dos Campos",2020-06-19,"nowcast",16,32,21,27,25,24.822
+"AL-São Miguel dos Campos",2020-06-20,"nowcast",16,32,21,27,25,25.285
+"AL-São Miguel dos Campos",2020-06-21,"nowcast",17,33,22,28,26,26.237
+"AL-São Miguel dos Campos",2020-06-22,"nowcast",19,35,23,29,27,27.473
+"AL-São Miguel dos Campos",2020-06-23,"nowcast",19,37,23,30,28,28.543
+"AL-São Miguel dos Campos",2020-06-24,"nowcast",21,38,24,31,30,30.259
+"AL-São Miguel dos Campos",2020-06-25,"nowcast",21,39,26,33,31,31.515
+"AL-São Miguel dos Campos",2020-06-26,"nowcast",24,42,28,35,33,33.184
+"AL-São Miguel dos Campos",2020-06-27,"nowcast",25,43,28,35,34,33.847
+"AL-São Miguel dos Campos",2020-06-28,"nowcast",25,43,29,36,34,33.831
+"AL-São Miguel dos Campos",2020-06-29,"nowcast",22,41,28,35,33,32.829
+"AL-São Miguel dos Campos",2020-06-30,"nowcast",21,39,26,33,31,31.149
+"AL-São Miguel dos Campos",2020-07-01,"nowcast",20,37,24,31,29,29.259
+"AL-São Miguel dos Campos",2020-07-02,"nowcast",20,36,23,29,27,27.29
+"AL-São Miguel dos Campos",2020-07-03,"nowcast",18,35,21,28,26,26.634
+"AL-São Miguel dos Campos",2020-07-04,"nowcast",17,35,21,28,27,27.119
+"AL-São Miguel dos Campos",2020-07-05,"nowcast",19,38,21,29,28,28.689
+"AL-São Miguel dos Campos",2020-07-06,"nowcast",22,43,24,32,30,30.93
+"AL-São Miguel dos Campos",2020-07-07,"nowcast",21,43,27,36,34,33.975
+"AL-São Miguel dos Campos",2020-07-08,"nowcast",22,47,31,40,36,36.814
+"AL-São Miguel dos Campos",2020-07-09,"nowcast",26,53,31,42,40,40.33
+"AL-São Miguel dos Campos",2020-07-10,"nowcast",26,57,34,46,42,43.383
+"AL-São Miguel dos Campos",2020-07-11,"forecast",20,64,30,47,42,44.3016
+"AL-São Miguel dos Campos",2020-07-12,"forecast",19,70,30,49,44,46.2058
+"AL-São Miguel dos Campos",2020-07-13,"forecast",19,76,28,50,46,48.9536
+"AL-São Miguel dos Campos",2020-07-14,"forecast",15,80,29,53,48,51.8316
+"AL-São Miguel dos Campos",2020-07-15,"forecast",16,91,26,54,49,54.9694
+"AL-São Miguel dos Campos",2020-07-16,"forecast",14,97,26,56,51,58.3096
+"AL-São Miguel dos Campos",2020-07-17,"forecast",15,108,26,59,53,61.2344
+"AL-São Miguel dos Campos",2020-07-18,"forecast",10,112,26,60,55,64.8408
+"AL-São Miguel dos Campos",2020-07-19,"forecast",9,125,25,63,56,69.435
+"AL-São Miguel dos Campos",2020-07-20,"forecast",9,134,24,65,59,73.656
+"AL-São Miguel dos Campos",2020-07-21,"forecast",9,147,21,66,61.5,79.5432
+"AL-São Miguel dos Campos",2020-07-22,"forecast",7,163,20,68,63,84.8482
+"AL-São Miguel dos Campos",2020-07-23,"forecast",0,173,22,73,66,90.4364
+"AL-São Miguel dos Campos",2020-07-24,"forecast",0,189,22,76,67,97.2954
