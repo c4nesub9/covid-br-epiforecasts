@@ -27,6 +27,7 @@ knitr::opts_chunk$set(echo = FALSE, eval = TRUE,
 ```{r load-packages, include = FALSE}
 library(EpiNow)
 library(dplyr)
+library(geobr)
 library(magrittr)
 library(rmarkdown)
 library(here)
@@ -46,9 +47,36 @@ latest_date <- readRDS("../../../_nowcasts/covid-regional/brazil/cities-al-summa
 summary_table <- summary_table %>%
   dplyr::left_join(region_codes %>%
                      dplyr::mutate(region = region),
-                   by = c("Region" = "region"))
+                   by = c("Region" = "region")) %>%
+  mutate(name_muni = str_split(Region, "-", simplify = TRUE)[,2],
+         state = str_split(Region, "-", simplify = TRUE)[,1])
+
+state_abbr <- summary_table %>%
+  filter(!is.na(state)) %>%
+  ungroup() %>%
+  pull(state) %>%
+  head(1)
 ```
 
+```{r map, fig.height = 6, layout="l-body-outset", out.width = "70%"}
+regions <- read_municipality(code_muni= state_abbr, year = 2018,
+                             showProgress = FALSE)
+regions_with_data <- regions %>%
+  dplyr::left_join(summary_table, by = "name_muni")
+map <- ggplot2::ggplot(regions_with_data) +
+  ggplot2::geom_sf(ggplot2::aes(fill = `Expected change in daily cases`),
+                   alpha = 0.8, size = 0.2, col = "white")
+EpiNow::theme_map(
+  map,
+  continuous = FALSE,
+  variable_label = "Expected change in daily cases",
+  fill_labels = ggplot2::waiver(),
+  breaks = levels(summary_table$`Expected change in daily cases`)
+  )
+```
+
+<br>
+`r paste0("*Figure 1: The results of the latest reproduction number estimates (based on estimated cases with a date of infection on the ", latest_date , ") in Brazil, stratified by region, can be summarised by whether cases are likely increasing or decreasing. This represents the strength of the evidence that the reproduction number in each region is greater than or less than 1, respectively (see the [methods](https://epiforecasts.io/covid/methods.html) for details). Regions with fewer than 40 cases reported on a single day are not included in the analysis (light grey).*")`
 
 ## State summary
 
