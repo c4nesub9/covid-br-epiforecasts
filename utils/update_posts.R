@@ -21,3 +21,4 @@ rendered_output <- furrr::future_map(posts,
               
               safe_render(file.path(post, paste0(post_name, ".Rmd")), quiet = FALSE)
             }, .progress = TRUE)
+print(rendered_output)
