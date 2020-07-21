@@ -40,6 +40,8 @@ library(sf)
 
 *Note that it takes time for infection to cause symptoms, to get tested for SARS-CoV-2 infection, for a positive test to return and ultimately to enter the case data presented here. In other words, today’s case data are only informative of new infections about two weeks ago. This is reflected in the plots below, which are by date of infection.*
 
+## Expected daily confirmed cases by city
+
 ```{r}
 summary_table <- readRDS("../../../_nowcasts/covid-regional/brazil/cities-pb-summary/summary_table.rds")
 region_codes <- readRDS("../../../_nowcasts/covid-regional/brazil/data/region_codes.rds")
