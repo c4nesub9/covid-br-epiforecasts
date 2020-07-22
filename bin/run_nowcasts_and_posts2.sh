@@ -16,18 +16,11 @@ bin/update_github.sh
 cd $ROOT_DIR/_nowcasts/covid-global
 ./update_nowcasts.sh &
 
-###################### Nowcast for SE cities ######################
+###################### Nowcast for SE and PI cities ######################
 cd $ROOT_DIR/_nowcasts/covid-regional
 echo "Starting nowcast for SE cities at `date`"
-./update_nowcasts_state_cities.sh SE
+./update_nowcasts_state_cities.sh SE & 
 
-#cd $ROOT_DIR
-#echo "Updating posts and pushing to github at `date`"
-#bin/update_posts.sh
-#bin/update_github.sh
-
-###################### Nowcast for PI cities ######################
-cd $ROOT_DIR/_nowcasts/covid-regional
 echo "Starting nowcast for PI cities at `date`"
 ./update_nowcasts_state_cities.sh PI
 
@@ -36,18 +29,11 @@ echo "Updating posts and pushing to github at `date`"
 bin/update_posts.sh
 bin/update_github.sh
 
-###################### Nowcast for AL cities ######################
+###################### Nowcast for AL and PB cities ######################
 cd $ROOT_DIR/_nowcasts/covid-regional
 echo "Starting nowcast for AL cities at `date`"
-./update_nowcasts_state_cities.sh AL
+./update_nowcasts_state_cities.sh AL &
 
-cd $ROOT_DIR
-echo "Updating posts and pushing to github at `date`"
-bin/update_posts.sh
-bin/update_github.sh
-
-###################### Nowcast for PB cities ######################
-cd $ROOT_DIR/_nowcasts/covid-regional
 echo "Starting nowcast for PB cities at `date`"
 ./update_nowcasts_state_cities.sh PB 
 
@@ -86,18 +72,11 @@ echo "Updating posts and pushing to github at `date`"
 bin/update_posts.sh
 bin/update_github.sh
 
-###################### Nowcast for MA cities ######################
+###################### Nowcast for MA and RN cities ######################
 cd $ROOT_DIR/_nowcasts/covid-regional
 echo "Starting nowcast for MA cities at `date`"
-./update_nowcasts_state_cities.sh MA
+./update_nowcasts_state_cities.sh MA &
 
-cd $ROOT_DIR
-echo "Updating posts and pushing to github at `date`"
-bin/update_posts.sh
-bin/update_github.sh
-
-###################### Nowcast for RN cities ######################
-cd $ROOT_DIR/_nowcasts/covid-regional
 echo "Starting nowcast for RN cities at `date`"
 ./update_nowcasts_state_cities.sh RN
 
