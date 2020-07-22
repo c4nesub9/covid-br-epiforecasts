@@ -7,11 +7,6 @@ DATE=`date`
 echo "Starting nowcast for states at `date`"
 ./update_nowcasts.sh
 
-cd $ROOT_DIR
-echo "Updating posts and pushing to github at `date`"
-bin/update_posts.sh
-bin/update_github.sh
-
 ###################### Nowcast for Brazil ######################
 cd $ROOT_DIR/_nowcasts/covid-global
 ./update_nowcasts.sh &
@@ -23,6 +18,19 @@ echo "Starting nowcast for SE cities at `date`"
 
 echo "Starting nowcast for PI cities at `date`"
 ./update_nowcasts_state_cities.sh PI
+
+cd $ROOT_DIR
+echo "Updating posts and pushing to github at `date`"
+bin/update_posts.sh
+bin/update_github.sh
+
+###################### Nowcast for MA and RN cities ######################
+cd $ROOT_DIR/_nowcasts/covid-regional
+echo "Starting nowcast for MA cities at `date`"
+./update_nowcasts_state_cities.sh MA &
+
+echo "Starting nowcast for RN cities at `date`"
+./update_nowcasts_state_cities.sh RN
 
 cd $ROOT_DIR
 echo "Updating posts and pushing to github at `date`"
@@ -66,19 +74,6 @@ bin/update_github.sh
 cd $ROOT_DIR/_nowcasts/covid-regional
 echo "Starting nowcast for PE cities at `date`"
 ./update_nowcasts_state_cities.sh PE
-
-cd $ROOT_DIR
-echo "Updating posts and pushing to github at `date`"
-bin/update_posts.sh
-bin/update_github.sh
-
-###################### Nowcast for MA and RN cities ######################
-cd $ROOT_DIR/_nowcasts/covid-regional
-echo "Starting nowcast for MA cities at `date`"
-./update_nowcasts_state_cities.sh MA &
-
-echo "Starting nowcast for RN cities at `date`"
-./update_nowcasts_state_cities.sh RN
 
 cd $ROOT_DIR
 echo "Updating posts and pushing to github at `date`"
