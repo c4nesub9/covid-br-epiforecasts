@@ -6,15 +6,23 @@ São apresentados resultados de _nowcast_ e _forecast_ de novos casos, novos ób
 
 ## Relatórios
 
-Gerais
+Casos para os estados do Brasil
 
 - [Casos: estados do Brasil](https://marcuswac.github.io/covid-br-model-epiforecasts/posts/states/)
-- [Casos: cidades do Nordeste do Brasil](https://marcuswac.github.io/covid-br-model-epiforecasts/posts/ne-cities/)
-- [Óbitos: estados do Brasil](https://marcuswac.github.io/covid-br-model-epiforecasts/posts/deaths-states/)
-- [Óbitos: cidades do Nordeste do Brasil](https://marcuswac.github.io/covid-br-model-epiforecasts/posts/deaths-ne-cities/)
 
-Por estado
+Casos em municípios por estado
 
+- [Casos: Alagoas](https://marcuswac.github.io/covid-br-model-epiforecasts/posts/cities-al)
 - [Casos: Bahia](https://marcuswac.github.io/covid-br-model-epiforecasts/posts/cities-ba)
 - [Casos: Ceará](https://marcuswac.github.io/covid-br-model-epiforecasts/posts/cities-ce)
+- [Casos: Maranhão](https://marcuswac.github.io/covid-br-model-epiforecasts/posts/cities-ma)
 - [Casos: Paraíba](https://marcuswac.github.io/covid-br-model-epiforecasts/posts/cities-pb)
+- [Casos: Pernambuco](https://marcuswac.github.io/covid-br-model-epiforecasts/posts/cities-pe)
+- [Casos: Piauí](https://marcuswac.github.io/covid-br-model-epiforecasts/posts/cities-pi)
+- [Casos: Rio Grande do Norte](https://marcuswac.github.io/covid-br-model-epiforecasts/posts/cities-rn)
+- [Casos: Sergipe](https://marcuswac.github.io/covid-br-model-epiforecasts/posts/cities-se)
+
+Óbitos para estados e cidades do Nordeste
+
+- [Óbitos: estados do Brasil](https://marcuswac.github.io/covid-br-model-epiforecasts/posts/deaths-states/)
+- [Óbitos: cidades do Nordeste do Brasil](https://marcuswac.github.io/covid-br-model-epiforecasts/posts/deaths-ne-cities/)
