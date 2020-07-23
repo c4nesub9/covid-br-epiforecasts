@@ -1,5 +1,6 @@
 #!/bin/bash
 STATE=$1
+N_CORES=$2
 STATE_LOWER=`echo $STATE | tr '[:upper:]' '[:lower:]'`
 RESULTS_DIR="brazil/cities-${STATE_LOWER}"
 
@@ -15,7 +16,7 @@ fi
 ## Load shared delay from github
 Rscript load_delay.R
 
-Rscript brazil/update_nowcasts_state_cities.R $STATE $RESULTS_DIR
+Rscript brazil/update_nowcasts_state_cities.R $STATE $RESULTS_DIR $N_CORES
 
 errors=$(./move_regions_with_errors.sh $RESULTS_DIR)
 

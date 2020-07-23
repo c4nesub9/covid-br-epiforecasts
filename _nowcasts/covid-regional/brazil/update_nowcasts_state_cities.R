@@ -14,6 +14,7 @@ argv <- commandArgs(TRUE)
 state <- ifelse(length(argv) >= 1, toupper(argv[1]), "PB")
 results_dir <- ifelse(length(argv) >= 2, argv[2], paste0("brazil/cities-", tolower(state)))
 results_dir <- gsub("/$", "", results_dir) # remove trailing slash
+ncores <- ifelse(length(argv) >= 3, as.integer(argv[3]), future::availableCores())
 
 # Get cases ---------------------------------------------------------------
 
@@ -57,7 +58,7 @@ if (!interactive()){
   options(future.fork.enable = TRUE)
 }
 
-future::plan("multiprocess", workers = round(future::availableCores()))
+future::plan("multiprocess", workers = ncores)
 
 #for (state_code in state_codes) {
 #  cases_state <- filter(cases, region_code == state_code)

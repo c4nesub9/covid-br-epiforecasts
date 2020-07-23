@@ -4,6 +4,7 @@ ROOT_DIR=`pwd`
 DATE=`date`
 
 ###################### Nowcast for states ######################
+cd $ROOT_DIR/_nowcasts/covid-regional
 echo "Starting nowcast for states at `date`"
 ./update_nowcasts.sh
 
@@ -14,36 +15,19 @@ cd $ROOT_DIR/_nowcasts/covid-global
 ###################### Nowcast for SE and PI cities ######################
 cd $ROOT_DIR/_nowcasts/covid-regional
 echo "Starting nowcast for SE cities at `date`"
-./update_nowcasts_state_cities.sh SE & 
+./update_nowcasts_state_cities.sh SE &
 
 echo "Starting nowcast for PI cities at `date`"
 ./update_nowcasts_state_cities.sh PI
 
-cd $ROOT_DIR
-echo "Updating posts and pushing to github at `date`"
-bin/update_posts.sh
-bin/update_github.sh
-
-###################### Nowcast for MA and RN cities ######################
+###################### Nowcast for PB and AL cities ######################
 cd $ROOT_DIR/_nowcasts/covid-regional
-echo "Starting nowcast for MA cities at `date`"
-./update_nowcasts_state_cities.sh MA &
-
-echo "Starting nowcast for RN cities at `date`"
-./update_nowcasts_state_cities.sh RN
-
-cd $ROOT_DIR
-echo "Updating posts and pushing to github at `date`"
-bin/update_posts.sh
-bin/update_github.sh
-
-###################### Nowcast for AL and PB cities ######################
-cd $ROOT_DIR/_nowcasts/covid-regional
-echo "Starting nowcast for AL cities at `date`"
-./update_nowcasts_state_cities.sh AL &
 
 echo "Starting nowcast for PB cities at `date`"
-./update_nowcasts_state_cities.sh PB 
+./update_nowcasts_state_cities.sh PB &
+
+echo "Starting nowcast for AL cities at `date`"
+./update_nowcasts_state_cities.sh AL
 
 cd $ROOT_DIR
 echo "Updating posts and pushing to github at `date`"
@@ -73,7 +57,20 @@ bin/update_github.sh
 ###################### Nowcast for PE cities ######################
 cd $ROOT_DIR/_nowcasts/covid-regional
 echo "Starting nowcast for PE cities at `date`"
-./update_nowcasts_state_cities.sh PE
+./update_nowcasts_state_cities.sh PE 30
+
+cd $ROOT_DIR
+echo "Updating posts and pushing to github at `date`"
+bin/update_posts.sh
+bin/update_github.sh
+
+###################### Nowcast for MA and RN cities ######################
+cd $ROOT_DIR/_nowcasts/covid-regional
+echo "Starting nowcast for MA cities at `date`"
+./update_nowcasts_state_cities.sh MA &
+
+echo "Starting nowcast for RN cities at `date`"
+./update_nowcasts_state_cities.sh RN
 
 cd $ROOT_DIR
 echo "Updating posts and pushing to github at `date`"
