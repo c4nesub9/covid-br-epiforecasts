@@ -11,7 +11,7 @@ cp -r _posts/national/cities-ma/cities-ma.html posts/cities-ma/index.html
 cp -r _posts/national/cities-pb/cities-pb.html posts/cities-pb/index.html
 cp -r _posts/national/cities-pe/cities-pe.html posts/cities-pe/index.html
 cp -r _posts/national/cities-pi/cities-pi.html posts/cities-pi/index.html
-cp -r _posts/national/cities-rn/cities-pi.html posts/cities-rn/index.html
+cp -r _posts/national/cities-rn/cities-rn.html posts/cities-rn/index.html
 cp -r _posts/national/cities-se/cities-se.html posts/cities-se/index.html
 cp -r _posts/national/deaths-brazil/deaths-brazil.html posts/deaths-states/index.html
 cp -r _posts/national/deaths-ne-cities/deaths-ne-cities.html posts/deaths-ne-cities/index.html
