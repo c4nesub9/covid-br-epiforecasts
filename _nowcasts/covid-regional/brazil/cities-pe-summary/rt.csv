@@ -1,4 +1,84 @@
 region,date,type,median,lower_90,upper_90,lower_50,upper_50,prob_control
+PE-Araripina,2020-05-09,nowcast,1.1,0.1,2.1,0.6,1.3,0.43
+PE-Araripina,2020-05-10,nowcast,1.1,0.2,2.2,0.6,1.3,0.44
+PE-Araripina,2020-05-11,nowcast,1.1,0.2,2.2,0.7,1.4,0.42
+PE-Araripina,2020-05-12,nowcast,1.2,0.3,2.2,0.7,1.4,0.38
+PE-Araripina,2020-05-13,nowcast,1.2,0.3,2.4,0.8,1.5,0.33
+PE-Araripina,2020-05-14,nowcast,1.3,0.4,2.5,0.8,1.5,0.29
+PE-Araripina,2020-05-15,nowcast,1.3,0.4,2.5,0.8,1.6,0.26
+PE-Araripina,2020-05-16,nowcast,1.4,0.5,2.5,0.9,1.6,0.23
+PE-Araripina,2020-05-17,nowcast,1.4,0.5,2.4,0.9,1.6,0.23
+PE-Araripina,2020-05-18,nowcast,1.4,0.5,2.4,1,1.7,0.2
+PE-Araripina,2020-05-19,nowcast,1.4,0.5,2.3,1,1.7,0.22
+PE-Araripina,2020-05-20,nowcast,1.3,0.5,2.1,1,1.6,0.24
+PE-Araripina,2020-05-21,nowcast,1.3,0.5,2,0.9,1.5,0.27
+PE-Araripina,2020-05-22,nowcast,1.2,0.5,2,0.9,1.5,0.29
+PE-Araripina,2020-05-23,nowcast,1.2,0.5,2,0.9,1.4,0.31
+PE-Araripina,2020-05-24,nowcast,1.2,0.5,1.9,0.9,1.4,0.29
+PE-Araripina,2020-05-25,nowcast,1.2,0.5,1.9,0.9,1.4,0.33
+PE-Araripina,2020-05-26,nowcast,1.2,0.5,1.9,0.9,1.4,0.33
+PE-Araripina,2020-05-27,nowcast,1.1,0.5,1.8,0.9,1.3,0.35
+PE-Araripina,2020-05-28,nowcast,1.1,0.5,1.8,0.8,1.3,0.37
+PE-Araripina,2020-05-29,nowcast,1.1,0.5,1.8,0.8,1.3,0.39
+PE-Araripina,2020-05-30,nowcast,1.1,0.5,1.7,0.8,1.3,0.43
+PE-Araripina,2020-05-31,nowcast,1,0.5,1.6,0.8,1.2,0.46
+PE-Araripina,2020-06-01,nowcast,1,0.4,1.7,0.7,1.2,0.45
+PE-Araripina,2020-06-02,nowcast,1.1,0.5,1.7,0.8,1.2,0.43
+PE-Araripina,2020-06-03,nowcast,1.1,0.5,1.8,0.8,1.3,0.4
+PE-Araripina,2020-06-04,nowcast,1.1,0.5,1.8,0.8,1.3,0.39
+PE-Araripina,2020-06-05,nowcast,1.2,0.6,1.8,0.9,1.3,0.32
+PE-Araripina,2020-06-06,nowcast,1.2,0.6,1.9,0.9,1.3,0.28
+PE-Araripina,2020-06-07,nowcast,1.2,0.6,1.9,0.9,1.4,0.24
+PE-Araripina,2020-06-08,nowcast,1.3,0.7,1.9,1,1.4,0.21
+PE-Araripina,2020-06-09,nowcast,1.3,0.7,1.9,1,1.5,0.19
+PE-Araripina,2020-06-10,nowcast,1.3,0.7,1.9,1,1.4,0.17
+PE-Araripina,2020-06-11,nowcast,1.3,0.7,1.9,1,1.5,0.19
+PE-Araripina,2020-06-12,nowcast,1.3,0.7,1.8,1,1.4,0.19
+PE-Araripina,2020-06-13,nowcast,1.2,0.6,1.7,1,1.4,0.23
+PE-Araripina,2020-06-14,nowcast,1.1,0.7,1.7,0.9,1.3,0.3
+PE-Araripina,2020-06-15,nowcast,1.1,0.6,1.6,0.9,1.3,0.38
+PE-Araripina,2020-06-16,nowcast,1,0.6,1.5,0.8,1.2,0.43
+PE-Araripina,2020-06-17,nowcast,1,0.5,1.4,0.8,1.1,0.5
+PE-Araripina,2020-06-18,nowcast,1,0.5,1.4,0.8,1.1,0.56
+PE-Araripina,2020-06-19,nowcast,0.9,0.5,1.4,0.8,1.1,0.59
+PE-Araripina,2020-06-20,nowcast,0.9,0.5,1.4,0.8,1.1,0.61
+PE-Araripina,2020-06-21,nowcast,0.9,0.5,1.4,0.8,1.1,0.6
+PE-Araripina,2020-06-22,nowcast,0.9,0.5,1.4,0.7,1.1,0.62
+PE-Araripina,2020-06-23,nowcast,1,0.5,1.5,0.7,1.1,0.58
+PE-Araripina,2020-06-24,nowcast,1,0.5,1.5,0.8,1.1,0.56
+PE-Araripina,2020-06-25,nowcast,1,0.5,1.6,0.8,1.1,0.5
+PE-Araripina,2020-06-26,nowcast,1,0.6,1.5,0.8,1.2,0.44
+PE-Araripina,2020-06-27,nowcast,1.1,0.6,1.6,0.9,1.2,0.4
+PE-Araripina,2020-06-28,nowcast,1.1,0.6,1.7,0.9,1.2,0.36
+PE-Araripina,2020-06-29,nowcast,1.1,0.6,1.7,0.9,1.3,0.31
+PE-Araripina,2020-06-30,nowcast,1.2,0.7,1.7,0.9,1.3,0.26
+PE-Araripina,2020-07-01,nowcast,1.2,0.7,1.7,1,1.4,0.24
+PE-Araripina,2020-07-02,nowcast,1.2,0.8,1.8,1,1.4,0.19
+PE-Araripina,2020-07-03,nowcast,1.2,0.8,1.7,1,1.4,0.18
+PE-Araripina,2020-07-04,nowcast,1.2,0.8,1.8,1,1.4,0.17
+PE-Araripina,2020-07-05,nowcast,1.3,0.8,1.7,1.1,1.4,0.15
+PE-Araripina,2020-07-06,nowcast,1.3,0.8,1.7,1.1,1.4,0.13
+PE-Araripina,2020-07-07,nowcast,1.3,0.8,1.8,1.1,1.4,0.12
+PE-Araripina,2020-07-08,nowcast,1.3,0.9,1.7,1.1,1.4,0.11
+PE-Araripina,2020-07-09,nowcast,1.3,0.9,1.7,1.1,1.4,0.09
+PE-Araripina,2020-07-10,nowcast,1.3,0.9,1.7,1.1,1.4,0.11
+PE-Araripina,2020-07-11,nowcast,1.3,0.8,1.7,1.1,1.4,0.1
+PE-Araripina,2020-07-12,nowcast,1.3,0.9,1.7,1.1,1.4,0.09
+PE-Araripina,2020-07-13,nowcast,1.3,0.9,1.7,1.1,1.4,0.08
+PE-Araripina,2020-07-14,forecast,1.3,0.8,1.9,1.1,1.5,0.16
+PE-Araripina,2020-07-15,forecast,1.3,0.7,2,1,1.5,0.18
+PE-Araripina,2020-07-16,forecast,1.3,0.7,2,1,1.5,0.2
+PE-Araripina,2020-07-17,forecast,1.3,0.6,2,1,1.5,0.22
+PE-Araripina,2020-07-18,forecast,1.3,0.6,2.1,1,1.6,0.23
+PE-Araripina,2020-07-19,forecast,1.3,0.5,2.1,1,1.6,0.23
+PE-Araripina,2020-07-20,forecast,1.3,0.5,2.1,1,1.6,0.24
+PE-Araripina,2020-07-21,forecast,1.3,0.5,2.2,1,1.6,0.26
+PE-Araripina,2020-07-22,forecast,1.3,0.5,2.3,1,1.7,0.25
+PE-Araripina,2020-07-23,forecast,1.3,0.3,2.2,1,1.7,0.26
+PE-Araripina,2020-07-24,forecast,1.3,0.4,2.3,1,1.7,0.26
+PE-Araripina,2020-07-25,forecast,1.3,0.4,2.4,1,1.7,0.28
+PE-Araripina,2020-07-26,forecast,1.3,0.3,2.4,0.9,1.6,0.28
+PE-Araripina,2020-07-27,forecast,1.3,0.4,2.4,0.9,1.7,0.28
 PE-Bezerros,2020-05-13,nowcast,1.1,0.3,1.9,0.7,1.3,0.43
 PE-Bezerros,2020-05-14,nowcast,1.1,0.4,1.9,0.8,1.4,0.41
 PE-Bezerros,2020-05-15,nowcast,1.1,0.4,2,0.8,1.4,0.4
@@ -171,317 +251,323 @@ PE-Cabo de Santo Agostinho,2020-07-22,forecast,1,0,1.7,0.7,1.4,0.48
 PE-Cabo de Santo Agostinho,2020-07-23,forecast,1,0,1.8,0.7,1.4,0.48
 PE-Cabo de Santo Agostinho,2020-07-24,forecast,1,0,1.8,0.6,1.4,0.48
 PE-Cabo de Santo Agostinho,2020-07-25,forecast,1,0,1.8,0.6,1.4,0.48
-PE-Caruaru,2020-04-26,nowcast,1.4,0.7,2.3,1.1,1.7,0.14
-PE-Caruaru,2020-04-27,nowcast,1.4,0.6,2.2,1.1,1.7,0.14
-PE-Caruaru,2020-04-28,nowcast,1.4,0.7,2.2,1,1.6,0.15
-PE-Caruaru,2020-04-29,nowcast,1.4,0.8,2.2,1.1,1.6,0.13
+PE-Caruaru,2020-04-26,nowcast,1.4,0.7,2.3,1.1,1.7,0.15
+PE-Caruaru,2020-04-27,nowcast,1.4,0.7,2.3,1.1,1.7,0.15
+PE-Caruaru,2020-04-28,nowcast,1.4,0.7,2.2,1.1,1.6,0.14
+PE-Caruaru,2020-04-29,nowcast,1.4,0.7,2.2,1.1,1.6,0.13
 PE-Caruaru,2020-04-30,nowcast,1.4,0.7,2.1,1.1,1.6,0.12
-PE-Caruaru,2020-05-01,nowcast,1.4,0.8,2.1,1.1,1.6,0.11
-PE-Caruaru,2020-05-02,nowcast,1.4,0.8,2,1.1,1.6,0.11
-PE-Caruaru,2020-05-03,nowcast,1.4,0.9,2.1,1.1,1.6,0.08
+PE-Caruaru,2020-05-01,nowcast,1.4,0.7,2.1,1.1,1.6,0.12
+PE-Caruaru,2020-05-02,nowcast,1.4,0.8,2,1.1,1.6,0.1
+PE-Caruaru,2020-05-03,nowcast,1.4,0.9,2.1,1.1,1.6,0.1
 PE-Caruaru,2020-05-04,nowcast,1.4,0.8,2,1.2,1.6,0.09
 PE-Caruaru,2020-05-05,nowcast,1.4,0.9,2,1.2,1.6,0.08
-PE-Caruaru,2020-05-06,nowcast,1.4,0.9,1.9,1.2,1.5,0.08
-PE-Caruaru,2020-05-07,nowcast,1.4,0.9,1.9,1.2,1.6,0.08
-PE-Caruaru,2020-05-08,nowcast,1.4,0.9,1.9,1.2,1.5,0.07
-PE-Caruaru,2020-05-09,nowcast,1.3,0.9,1.8,1.2,1.5,0.09
+PE-Caruaru,2020-05-06,nowcast,1.4,0.9,1.9,1.2,1.6,0.08
+PE-Caruaru,2020-05-07,nowcast,1.4,0.8,1.9,1.2,1.6,0.08
+PE-Caruaru,2020-05-08,nowcast,1.4,0.9,1.9,1.2,1.5,0.08
+PE-Caruaru,2020-05-09,nowcast,1.4,0.9,1.8,1.1,1.5,0.09
 PE-Caruaru,2020-05-10,nowcast,1.3,0.9,1.8,1.1,1.5,0.09
 PE-Caruaru,2020-05-11,nowcast,1.3,0.9,1.7,1.1,1.4,0.1
-PE-Caruaru,2020-05-12,nowcast,1.3,0.9,1.7,1.1,1.4,0.11
+PE-Caruaru,2020-05-12,nowcast,1.3,0.9,1.7,1.1,1.4,0.09
 PE-Caruaru,2020-05-13,nowcast,1.2,0.9,1.7,1.1,1.4,0.12
-PE-Caruaru,2020-05-14,nowcast,1.2,0.8,1.6,1.1,1.4,0.15
-PE-Caruaru,2020-05-15,nowcast,1.2,0.8,1.5,1.1,1.3,0.17
-PE-Caruaru,2020-05-16,nowcast,1.2,0.8,1.5,1.1,1.3,0.19
-PE-Caruaru,2020-05-17,nowcast,1.2,0.8,1.5,1,1.3,0.19
-PE-Caruaru,2020-05-18,nowcast,1.1,0.8,1.5,1,1.3,0.2
-PE-Caruaru,2020-05-19,nowcast,1.1,0.9,1.5,1,1.2,0.19
-PE-Caruaru,2020-05-20,nowcast,1.1,0.8,1.5,1,1.2,0.21
-PE-Caruaru,2020-05-21,nowcast,1.1,0.8,1.4,1,1.2,0.23
-PE-Caruaru,2020-05-22,nowcast,1.1,0.8,1.4,1,1.2,0.21
-PE-Caruaru,2020-05-23,nowcast,1.1,0.8,1.4,1,1.3,0.19
-PE-Caruaru,2020-05-24,nowcast,1.1,0.9,1.5,1,1.2,0.18
-PE-Caruaru,2020-05-25,nowcast,1.2,0.9,1.5,1,1.3,0.13
-PE-Caruaru,2020-05-26,nowcast,1.2,0.9,1.5,1,1.3,0.13
+PE-Caruaru,2020-05-14,nowcast,1.2,0.9,1.6,1.1,1.3,0.14
+PE-Caruaru,2020-05-15,nowcast,1.2,0.9,1.5,1.1,1.3,0.17
+PE-Caruaru,2020-05-16,nowcast,1.2,0.8,1.5,1,1.3,0.2
+PE-Caruaru,2020-05-17,nowcast,1.2,0.8,1.5,1,1.3,0.2
+PE-Caruaru,2020-05-18,nowcast,1.1,0.8,1.4,1,1.3,0.21
+PE-Caruaru,2020-05-19,nowcast,1.1,0.8,1.4,1,1.2,0.21
+PE-Caruaru,2020-05-20,nowcast,1.1,0.8,1.4,1,1.2,0.23
+PE-Caruaru,2020-05-21,nowcast,1.1,0.8,1.4,1,1.2,0.22
+PE-Caruaru,2020-05-22,nowcast,1.1,0.8,1.4,1,1.2,0.22
+PE-Caruaru,2020-05-23,nowcast,1.1,0.9,1.4,1,1.2,0.19
+PE-Caruaru,2020-05-24,nowcast,1.1,0.9,1.4,1,1.2,0.17
+PE-Caruaru,2020-05-25,nowcast,1.2,0.9,1.5,1.1,1.3,0.14
+PE-Caruaru,2020-05-26,nowcast,1.2,0.9,1.5,1.1,1.3,0.12
 PE-Caruaru,2020-05-27,nowcast,1.2,0.9,1.5,1.1,1.3,0.11
 PE-Caruaru,2020-05-28,nowcast,1.2,0.9,1.5,1.1,1.3,0.1
-PE-Caruaru,2020-05-29,nowcast,1.2,0.9,1.5,1.1,1.3,0.1
-PE-Caruaru,2020-05-30,nowcast,1.2,0.9,1.5,1.1,1.3,0.09
-PE-Caruaru,2020-05-31,nowcast,1.2,1,1.5,1.1,1.3,0.08
+PE-Caruaru,2020-05-29,nowcast,1.2,0.9,1.5,1.1,1.3,0.09
+PE-Caruaru,2020-05-30,nowcast,1.2,1,1.5,1.1,1.3,0.09
+PE-Caruaru,2020-05-31,nowcast,1.2,0.9,1.5,1.1,1.3,0.08
 PE-Caruaru,2020-06-01,nowcast,1.2,1,1.5,1.1,1.3,0.07
-PE-Caruaru,2020-06-02,nowcast,1.2,1,1.5,1.1,1.3,0.07
+PE-Caruaru,2020-06-02,nowcast,1.2,1,1.5,1.1,1.3,0.06
 PE-Caruaru,2020-06-03,nowcast,1.2,1,1.5,1.1,1.3,0.05
 PE-Caruaru,2020-06-04,nowcast,1.2,1,1.5,1.1,1.3,0.04
-PE-Caruaru,2020-06-05,nowcast,1.2,1,1.5,1.2,1.3,0.03
-PE-Caruaru,2020-06-06,nowcast,1.3,1,1.5,1.2,1.3,0.03
+PE-Caruaru,2020-06-05,nowcast,1.2,1,1.5,1.1,1.3,0.03
+PE-Caruaru,2020-06-06,nowcast,1.3,1,1.5,1.2,1.3,0.02
 PE-Caruaru,2020-06-07,nowcast,1.3,1,1.5,1.2,1.3,0.02
-PE-Caruaru,2020-06-08,nowcast,1.3,1,1.5,1.2,1.3,0.03
-PE-Caruaru,2020-06-09,nowcast,1.2,1,1.4,1.2,1.3,0.03
-PE-Caruaru,2020-06-10,nowcast,1.2,1,1.4,1.1,1.3,0.05
+PE-Caruaru,2020-06-08,nowcast,1.2,1,1.5,1.2,1.3,0.03
+PE-Caruaru,2020-06-09,nowcast,1.2,1,1.5,1.1,1.3,0.03
+PE-Caruaru,2020-06-10,nowcast,1.2,1,1.4,1.1,1.3,0.06
 PE-Caruaru,2020-06-11,nowcast,1.2,1,1.4,1.1,1.3,0.06
-PE-Caruaru,2020-06-12,nowcast,1.2,1,1.4,1.1,1.3,0.08
-PE-Caruaru,2020-06-13,nowcast,1.1,0.9,1.3,1.1,1.2,0.12
-PE-Caruaru,2020-06-14,nowcast,1.1,0.9,1.3,1.1,1.2,0.16
-PE-Caruaru,2020-06-15,nowcast,1.1,0.9,1.3,1,1.2,0.19
-PE-Caruaru,2020-06-16,nowcast,1.1,0.9,1.2,1,1.1,0.26
-PE-Caruaru,2020-06-17,nowcast,1.1,0.9,1.2,1,1.1,0.29
-PE-Caruaru,2020-06-18,nowcast,1,0.9,1.2,1,1.1,0.3
-PE-Caruaru,2020-06-19,nowcast,1,0.9,1.2,1,1.1,0.29
-PE-Caruaru,2020-06-20,nowcast,1,0.9,1.2,1,1.1,0.28
-PE-Caruaru,2020-06-21,nowcast,1.1,0.9,1.2,1,1.1,0.25
-PE-Caruaru,2020-06-22,nowcast,1.1,0.9,1.3,1,1.1,0.2
-PE-Caruaru,2020-06-23,nowcast,1.1,0.9,1.2,1,1.1,0.19
+PE-Caruaru,2020-06-12,nowcast,1.2,1,1.4,1.1,1.2,0.1
+PE-Caruaru,2020-06-13,nowcast,1.1,0.9,1.3,1.1,1.2,0.13
+PE-Caruaru,2020-06-14,nowcast,1.1,0.9,1.3,1.1,1.2,0.17
+PE-Caruaru,2020-06-15,nowcast,1.1,0.9,1.3,1,1.2,0.21
+PE-Caruaru,2020-06-16,nowcast,1.1,0.9,1.2,1,1.1,0.25
+PE-Caruaru,2020-06-17,nowcast,1.1,0.9,1.2,1,1.1,0.28
+PE-Caruaru,2020-06-18,nowcast,1,0.9,1.2,1,1.1,0.31
+PE-Caruaru,2020-06-19,nowcast,1,0.9,1.2,1,1.1,0.3
+PE-Caruaru,2020-06-20,nowcast,1.1,0.9,1.2,1,1.1,0.28
+PE-Caruaru,2020-06-21,nowcast,1.1,0.9,1.2,1,1.1,0.23
+PE-Caruaru,2020-06-22,nowcast,1.1,0.9,1.2,1,1.1,0.21
+PE-Caruaru,2020-06-23,nowcast,1.1,0.9,1.2,1,1.1,0.2
 PE-Caruaru,2020-06-24,nowcast,1.1,0.9,1.2,1,1.1,0.19
-PE-Caruaru,2020-06-25,nowcast,1.1,0.9,1.3,1,1.1,0.17
+PE-Caruaru,2020-06-25,nowcast,1.1,0.9,1.3,1,1.1,0.18
 PE-Caruaru,2020-06-26,nowcast,1.1,0.9,1.2,1,1.1,0.19
 PE-Caruaru,2020-06-27,nowcast,1.1,0.9,1.2,1,1.1,0.22
 PE-Caruaru,2020-06-28,nowcast,1.1,0.9,1.2,1,1.1,0.26
-PE-Caruaru,2020-06-29,nowcast,1,0.9,1.2,1,1.1,0.36
-PE-Caruaru,2020-06-30,nowcast,1,0.8,1.1,0.9,1.1,0.5
-PE-Caruaru,2020-07-01,nowcast,1,0.8,1.1,0.9,1,0.66
+PE-Caruaru,2020-06-29,nowcast,1,0.9,1.2,1,1.1,0.4
+PE-Caruaru,2020-06-30,nowcast,1,0.8,1.1,0.9,1.1,0.53
+PE-Caruaru,2020-07-01,nowcast,1,0.8,1.1,0.9,1,0.67
 PE-Caruaru,2020-07-02,nowcast,0.9,0.8,1.1,0.9,1,0.76
-PE-Caruaru,2020-07-03,nowcast,0.9,0.8,1.1,0.9,1,0.81
-PE-Caruaru,2020-07-04,nowcast,0.9,0.8,1.1,0.9,1,0.82
-PE-Caruaru,2020-07-05,nowcast,0.9,0.8,1.1,0.9,1,0.76
-PE-Caruaru,2020-07-06,nowcast,1,0.8,1.1,0.9,1,0.71
-PE-Caruaru,2020-07-07,nowcast,1,0.8,1.2,0.9,1,0.63
-PE-Caruaru,2020-07-08,nowcast,1,0.8,1.2,0.9,1,0.56
-PE-Caruaru,2020-07-09,nowcast,1,0.8,1.2,0.9,1.1,0.48
-PE-Caruaru,2020-07-10,nowcast,1,0.8,1.2,0.9,1.1,0.45
-PE-Caruaru,2020-07-11,nowcast,1,0.9,1.2,0.9,1.1,0.44
-PE-Caruaru,2020-07-12,forecast,1,0.8,1.2,0.9,1.1,0.46
-PE-Caruaru,2020-07-13,forecast,1,0.8,1.2,0.9,1.1,0.47
-PE-Caruaru,2020-07-14,forecast,1,0.8,1.3,0.9,1.1,0.47
-PE-Caruaru,2020-07-15,forecast,1,0.7,1.3,0.9,1.1,0.47
-PE-Caruaru,2020-07-16,forecast,1,0.7,1.3,0.9,1.1,0.49
-PE-Caruaru,2020-07-17,forecast,1,0.7,1.3,0.9,1.1,0.48
-PE-Caruaru,2020-07-18,forecast,1,0.7,1.3,0.9,1.1,0.49
-PE-Caruaru,2020-07-19,forecast,1,0.7,1.4,0.9,1.1,0.48
-PE-Caruaru,2020-07-20,forecast,1,0.6,1.3,0.9,1.1,0.5
-PE-Caruaru,2020-07-21,forecast,1,0.7,1.4,0.9,1.1,0.5
-PE-Caruaru,2020-07-22,forecast,1,0.6,1.4,0.9,1.1,0.5
-PE-Caruaru,2020-07-23,forecast,1,0.6,1.4,0.8,1.1,0.49
-PE-Caruaru,2020-07-24,forecast,1,0.6,1.4,0.8,1.1,0.49
-PE-Caruaru,2020-07-25,forecast,1,0.6,1.4,0.9,1.2,0.5
-PE-Jaboatão dos Guararapes,2020-04-07,nowcast,1.5,1,1.9,1.3,1.6,0.04
-PE-Jaboatão dos Guararapes,2020-04-08,nowcast,1.4,1,1.9,1.3,1.6,0.04
-PE-Jaboatão dos Guararapes,2020-04-09,nowcast,1.4,1,1.8,1.2,1.6,0.03
-PE-Jaboatão dos Guararapes,2020-04-10,nowcast,1.4,1,1.8,1.2,1.5,0.04
-PE-Jaboatão dos Guararapes,2020-04-11,nowcast,1.4,1,1.8,1.2,1.5,0.03
+PE-Caruaru,2020-07-03,nowcast,0.9,0.8,1.1,0.9,1,0.82
+PE-Caruaru,2020-07-04,nowcast,0.9,0.8,1.1,0.9,1,0.83
+PE-Caruaru,2020-07-05,nowcast,0.9,0.8,1.1,0.9,1,0.82
+PE-Caruaru,2020-07-06,nowcast,0.9,0.8,1.1,0.9,1,0.76
+PE-Caruaru,2020-07-07,nowcast,0.9,0.8,1.1,0.9,1,0.73
+PE-Caruaru,2020-07-08,nowcast,1,0.8,1.1,0.9,1,0.66
+PE-Caruaru,2020-07-09,nowcast,1,0.8,1.1,0.9,1,0.58
+PE-Caruaru,2020-07-10,nowcast,1,0.8,1.2,0.9,1,0.56
+PE-Caruaru,2020-07-11,nowcast,1,0.8,1.1,0.9,1,0.59
+PE-Caruaru,2020-07-12,nowcast,1,0.8,1.1,0.9,1,0.66
+PE-Caruaru,2020-07-13,nowcast,0.9,0.8,1.1,0.9,1,0.72
+PE-Caruaru,2020-07-14,forecast,1,0.8,1.2,0.9,1,0.65
+PE-Caruaru,2020-07-15,forecast,1,0.7,1.2,0.9,1,0.64
+PE-Caruaru,2020-07-16,forecast,1,0.7,1.2,0.9,1.1,0.63
+PE-Caruaru,2020-07-17,forecast,1,0.7,1.2,0.8,1,0.62
+PE-Caruaru,2020-07-18,forecast,1,0.7,1.2,0.9,1.1,0.62
+PE-Caruaru,2020-07-19,forecast,1,0.7,1.2,0.8,1.1,0.61
+PE-Caruaru,2020-07-20,forecast,1,0.7,1.3,0.8,1.1,0.61
+PE-Caruaru,2020-07-21,forecast,0.9,0.6,1.3,0.8,1.1,0.61
+PE-Caruaru,2020-07-22,forecast,1,0.6,1.3,0.8,1.1,0.6
+PE-Caruaru,2020-07-23,forecast,0.9,0.6,1.3,0.8,1.1,0.61
+PE-Caruaru,2020-07-24,forecast,1,0.6,1.3,0.8,1.1,0.6
+PE-Caruaru,2020-07-25,forecast,0.9,0.6,1.3,0.8,1.1,0.61
+PE-Caruaru,2020-07-26,forecast,0.9,0.6,1.3,0.8,1.1,0.61
+PE-Caruaru,2020-07-27,forecast,1,0.6,1.3,0.8,1.1,0.59
+PE-Jaboatão dos Guararapes,2020-04-07,nowcast,1.5,1.1,1.9,1.3,1.6,0.03
+PE-Jaboatão dos Guararapes,2020-04-08,nowcast,1.4,1,1.9,1.2,1.6,0.04
+PE-Jaboatão dos Guararapes,2020-04-09,nowcast,1.4,1,1.8,1.2,1.5,0.03
+PE-Jaboatão dos Guararapes,2020-04-10,nowcast,1.4,1,1.8,1.2,1.5,0.03
+PE-Jaboatão dos Guararapes,2020-04-11,nowcast,1.4,1,1.8,1.3,1.5,0.04
 PE-Jaboatão dos Guararapes,2020-04-12,nowcast,1.4,1,1.7,1.2,1.5,0.03
 PE-Jaboatão dos Guararapes,2020-04-13,nowcast,1.4,1,1.7,1.2,1.5,0.03
-PE-Jaboatão dos Guararapes,2020-04-14,nowcast,1.3,1,1.7,1.2,1.5,0.03
-PE-Jaboatão dos Guararapes,2020-04-15,nowcast,1.3,1,1.7,1.2,1.4,0.02
+PE-Jaboatão dos Guararapes,2020-04-14,nowcast,1.4,1,1.7,1.2,1.5,0.02
+PE-Jaboatão dos Guararapes,2020-04-15,nowcast,1.3,1.1,1.7,1.2,1.4,0.03
 PE-Jaboatão dos Guararapes,2020-04-16,nowcast,1.3,1,1.6,1.2,1.4,0.02
-PE-Jaboatão dos Guararapes,2020-04-17,nowcast,1.3,1,1.6,1.2,1.4,0.02
-PE-Jaboatão dos Guararapes,2020-04-18,nowcast,1.3,1.1,1.6,1.2,1.4,0.02
-PE-Jaboatão dos Guararapes,2020-04-19,nowcast,1.3,1,1.5,1.2,1.4,0.02
-PE-Jaboatão dos Guararapes,2020-04-20,nowcast,1.3,1.1,1.5,1.2,1.4,0.03
-PE-Jaboatão dos Guararapes,2020-04-21,nowcast,1.3,1,1.5,1.2,1.4,0.03
-PE-Jaboatão dos Guararapes,2020-04-22,nowcast,1.2,1,1.5,1.2,1.3,0.05
-PE-Jaboatão dos Guararapes,2020-04-23,nowcast,1.2,1,1.4,1.1,1.3,0.06
-PE-Jaboatão dos Guararapes,2020-04-24,nowcast,1.2,1,1.4,1.1,1.3,0.08
-PE-Jaboatão dos Guararapes,2020-04-25,nowcast,1.2,0.9,1.4,1.1,1.2,0.1
-PE-Jaboatão dos Guararapes,2020-04-26,nowcast,1.2,0.9,1.3,1.1,1.2,0.09
-PE-Jaboatão dos Guararapes,2020-04-27,nowcast,1.2,1,1.4,1.1,1.2,0.08
+PE-Jaboatão dos Guararapes,2020-04-17,nowcast,1.3,1.1,1.6,1.2,1.4,0.02
+PE-Jaboatão dos Guararapes,2020-04-18,nowcast,1.3,1,1.6,1.2,1.4,0.03
+PE-Jaboatão dos Guararapes,2020-04-19,nowcast,1.3,1.1,1.6,1.2,1.4,0.03
+PE-Jaboatão dos Guararapes,2020-04-20,nowcast,1.3,1,1.5,1.2,1.4,0.02
+PE-Jaboatão dos Guararapes,2020-04-21,nowcast,1.3,1,1.5,1.1,1.3,0.03
+PE-Jaboatão dos Guararapes,2020-04-22,nowcast,1.2,1,1.5,1.1,1.3,0.05
+PE-Jaboatão dos Guararapes,2020-04-23,nowcast,1.2,1,1.4,1.1,1.3,0.07
+PE-Jaboatão dos Guararapes,2020-04-24,nowcast,1.2,1,1.4,1.1,1.3,0.09
+PE-Jaboatão dos Guararapes,2020-04-25,nowcast,1.2,0.9,1.3,1.1,1.2,0.11
+PE-Jaboatão dos Guararapes,2020-04-26,nowcast,1.2,1,1.3,1.1,1.2,0.09
+PE-Jaboatão dos Guararapes,2020-04-27,nowcast,1.2,1,1.3,1.1,1.2,0.07
 PE-Jaboatão dos Guararapes,2020-04-28,nowcast,1.2,1,1.4,1.1,1.2,0.06
 PE-Jaboatão dos Guararapes,2020-04-29,nowcast,1.2,1,1.4,1.1,1.2,0.04
-PE-Jaboatão dos Guararapes,2020-04-30,nowcast,1.2,1,1.4,1.1,1.3,0.02
+PE-Jaboatão dos Guararapes,2020-04-30,nowcast,1.2,1,1.4,1.1,1.2,0.03
 PE-Jaboatão dos Guararapes,2020-05-01,nowcast,1.2,1,1.4,1.1,1.3,0.02
-PE-Jaboatão dos Guararapes,2020-05-02,nowcast,1.2,1,1.4,1.1,1.3,0.01
+PE-Jaboatão dos Guararapes,2020-05-02,nowcast,1.2,1.1,1.4,1.1,1.3,0.01
 PE-Jaboatão dos Guararapes,2020-05-03,nowcast,1.2,1,1.4,1.1,1.3,0.02
 PE-Jaboatão dos Guararapes,2020-05-04,nowcast,1.2,1,1.4,1.1,1.3,0.03
-PE-Jaboatão dos Guararapes,2020-05-05,nowcast,1.2,1,1.4,1.1,1.2,0.06
-PE-Jaboatão dos Guararapes,2020-05-06,nowcast,1.2,1,1.3,1.1,1.2,0.09
-PE-Jaboatão dos Guararapes,2020-05-07,nowcast,1.1,1,1.3,1.1,1.2,0.11
+PE-Jaboatão dos Guararapes,2020-05-05,nowcast,1.2,1,1.3,1.1,1.2,0.05
+PE-Jaboatão dos Guararapes,2020-05-06,nowcast,1.1,1,1.3,1.1,1.2,0.08
+PE-Jaboatão dos Guararapes,2020-05-07,nowcast,1.1,1,1.3,1.1,1.2,0.1
 PE-Jaboatão dos Guararapes,2020-05-08,nowcast,1.1,1,1.3,1.1,1.2,0.1
-PE-Jaboatão dos Guararapes,2020-05-09,nowcast,1.1,0.9,1.2,1.1,1.2,0.12
-PE-Jaboatão dos Guararapes,2020-05-10,nowcast,1.1,1,1.2,1,1.1,0.12
-PE-Jaboatão dos Guararapes,2020-05-11,nowcast,1.1,0.9,1.2,1,1.1,0.14
-PE-Jaboatão dos Guararapes,2020-05-12,nowcast,1.1,0.9,1.2,1,1.1,0.2
-PE-Jaboatão dos Guararapes,2020-05-13,nowcast,1,0.9,1.2,1,1.1,0.3
-PE-Jaboatão dos Guararapes,2020-05-14,nowcast,1,0.9,1.1,1,1.1,0.43
-PE-Jaboatão dos Guararapes,2020-05-15,nowcast,1,0.8,1.1,0.9,1,0.56
+PE-Jaboatão dos Guararapes,2020-05-09,nowcast,1.1,1,1.3,1.1,1.2,0.1
+PE-Jaboatão dos Guararapes,2020-05-10,nowcast,1.1,1,1.2,1.1,1.2,0.11
+PE-Jaboatão dos Guararapes,2020-05-11,nowcast,1.1,1,1.2,1,1.1,0.13
+PE-Jaboatão dos Guararapes,2020-05-12,nowcast,1.1,0.9,1.2,1,1.1,0.21
+PE-Jaboatão dos Guararapes,2020-05-13,nowcast,1,0.9,1.2,1,1.1,0.31
+PE-Jaboatão dos Guararapes,2020-05-14,nowcast,1,0.9,1.1,1,1.1,0.44
+PE-Jaboatão dos Guararapes,2020-05-15,nowcast,1,0.8,1.1,0.9,1,0.57
 PE-Jaboatão dos Guararapes,2020-05-16,nowcast,1,0.8,1.1,0.9,1,0.7
-PE-Jaboatão dos Guararapes,2020-05-17,nowcast,0.9,0.8,1.1,0.9,1,0.8
-PE-Jaboatão dos Guararapes,2020-05-18,nowcast,0.9,0.8,1,0.9,1,0.85
+PE-Jaboatão dos Guararapes,2020-05-17,nowcast,0.9,0.8,1.1,0.9,1,0.77
+PE-Jaboatão dos Guararapes,2020-05-18,nowcast,0.9,0.8,1.1,0.9,1,0.85
 PE-Jaboatão dos Guararapes,2020-05-19,nowcast,0.9,0.8,1,0.9,1,0.9
 PE-Jaboatão dos Guararapes,2020-05-20,nowcast,0.9,0.8,1,0.9,1,0.91
-PE-Jaboatão dos Guararapes,2020-05-21,nowcast,0.9,0.8,1,0.9,1,0.91
-PE-Jaboatão dos Guararapes,2020-05-22,nowcast,0.9,0.8,1,0.9,0.9,0.89
-PE-Jaboatão dos Guararapes,2020-05-23,nowcast,0.9,0.8,1,0.9,0.9,0.86
-PE-Jaboatão dos Guararapes,2020-05-24,nowcast,0.9,0.8,1.1,0.9,1,0.84
-PE-Jaboatão dos Guararapes,2020-05-25,nowcast,0.9,0.8,1.1,0.9,1,0.85
-PE-Jaboatão dos Guararapes,2020-05-26,nowcast,0.9,0.8,1,0.9,1,0.88
-PE-Jaboatão dos Guararapes,2020-05-27,nowcast,0.9,0.8,1,0.9,1,0.89
-PE-Jaboatão dos Guararapes,2020-05-28,nowcast,0.9,0.8,1,0.8,0.9,0.92
-PE-Jaboatão dos Guararapes,2020-05-29,nowcast,0.9,0.7,1,0.9,1,0.93
-PE-Jaboatão dos Guararapes,2020-05-30,nowcast,0.9,0.8,1,0.8,0.9,0.9
-PE-Jaboatão dos Guararapes,2020-05-31,nowcast,0.9,0.8,1,0.8,0.9,0.92
-PE-Jaboatão dos Guararapes,2020-06-01,nowcast,0.9,0.7,1,0.8,0.9,0.91
+PE-Jaboatão dos Guararapes,2020-05-21,nowcast,0.9,0.8,1,0.9,1,0.92
+PE-Jaboatão dos Guararapes,2020-05-22,nowcast,0.9,0.8,1,0.9,1,0.88
+PE-Jaboatão dos Guararapes,2020-05-23,nowcast,0.9,0.8,1.1,0.9,1,0.86
+PE-Jaboatão dos Guararapes,2020-05-24,nowcast,0.9,0.8,1.1,0.9,1,0.86
+PE-Jaboatão dos Guararapes,2020-05-25,nowcast,0.9,0.8,1.1,0.9,1,0.86
+PE-Jaboatão dos Guararapes,2020-05-26,nowcast,0.9,0.8,1,0.9,1,0.87
+PE-Jaboatão dos Guararapes,2020-05-27,nowcast,0.9,0.8,1,0.9,1,0.9
+PE-Jaboatão dos Guararapes,2020-05-28,nowcast,0.9,0.7,1,0.9,1,0.9
+PE-Jaboatão dos Guararapes,2020-05-29,nowcast,0.9,0.7,1,0.8,0.9,0.92
+PE-Jaboatão dos Guararapes,2020-05-30,nowcast,0.9,0.8,1,0.8,0.9,0.92
+PE-Jaboatão dos Guararapes,2020-05-31,nowcast,0.9,0.7,1,0.8,0.9,0.9
+PE-Jaboatão dos Guararapes,2020-06-01,nowcast,0.9,0.7,1,0.8,0.9,0.9
 PE-Jaboatão dos Guararapes,2020-06-02,nowcast,0.9,0.7,1,0.8,0.9,0.91
 PE-Jaboatão dos Guararapes,2020-06-03,nowcast,0.9,0.7,1,0.8,0.9,0.92
-PE-Jaboatão dos Guararapes,2020-06-04,nowcast,0.9,0.7,1,0.8,0.9,0.91
+PE-Jaboatão dos Guararapes,2020-06-04,nowcast,0.9,0.7,1,0.8,0.9,0.9
 PE-Jaboatão dos Guararapes,2020-06-05,nowcast,0.9,0.7,1.1,0.8,0.9,0.87
 PE-Jaboatão dos Guararapes,2020-06-06,nowcast,0.9,0.8,1.1,0.8,1,0.81
-PE-Jaboatão dos Guararapes,2020-06-07,nowcast,0.9,0.8,1.1,0.9,1,0.72
-PE-Jaboatão dos Guararapes,2020-06-08,nowcast,1,0.8,1.1,0.9,1,0.66
+PE-Jaboatão dos Guararapes,2020-06-07,nowcast,0.9,0.8,1.1,0.9,1,0.75
+PE-Jaboatão dos Guararapes,2020-06-08,nowcast,1,0.8,1.2,0.9,1,0.63
 PE-Jaboatão dos Guararapes,2020-06-09,nowcast,1,0.8,1.2,0.9,1,0.57
-PE-Jaboatão dos Guararapes,2020-06-10,nowcast,1,0.8,1.2,0.9,1.1,0.5
+PE-Jaboatão dos Guararapes,2020-06-10,nowcast,1,0.8,1.2,0.9,1,0.51
 PE-Jaboatão dos Guararapes,2020-06-11,nowcast,1,0.9,1.2,0.9,1.1,0.43
-PE-Jaboatão dos Guararapes,2020-06-12,nowcast,1,0.9,1.2,1,1.1,0.37
+PE-Jaboatão dos Guararapes,2020-06-12,nowcast,1,0.9,1.2,1,1.1,0.38
 PE-Jaboatão dos Guararapes,2020-06-13,nowcast,1,0.9,1.2,1,1.1,0.35
-PE-Jaboatão dos Guararapes,2020-06-14,nowcast,1,0.9,1.2,1,1.1,0.38
+PE-Jaboatão dos Guararapes,2020-06-14,nowcast,1,0.8,1.2,1,1.1,0.39
 PE-Jaboatão dos Guararapes,2020-06-15,nowcast,1,0.8,1.2,0.9,1.1,0.48
-PE-Jaboatão dos Guararapes,2020-06-16,nowcast,1,0.8,1.1,0.9,1.1,0.6
+PE-Jaboatão dos Guararapes,2020-06-16,nowcast,1,0.8,1.1,0.9,1,0.59
 PE-Jaboatão dos Guararapes,2020-06-17,nowcast,1,0.8,1.1,0.9,1,0.67
-PE-Jaboatão dos Guararapes,2020-06-18,nowcast,1,0.8,1.1,0.9,1,0.68
-PE-Jaboatão dos Guararapes,2020-06-19,nowcast,1,0.8,1.1,0.9,1,0.68
-PE-Jaboatão dos Guararapes,2020-06-20,nowcast,1,0.8,1.1,0.9,1,0.67
+PE-Jaboatão dos Guararapes,2020-06-18,nowcast,1,0.8,1.1,0.9,1,0.69
+PE-Jaboatão dos Guararapes,2020-06-19,nowcast,1,0.8,1.1,0.9,1,0.7
+PE-Jaboatão dos Guararapes,2020-06-20,nowcast,1,0.8,1.1,0.9,1,0.66
 PE-Jaboatão dos Guararapes,2020-06-21,nowcast,1,0.8,1.1,0.9,1,0.62
-PE-Jaboatão dos Guararapes,2020-06-22,nowcast,1,0.8,1.1,0.9,1,0.62
-PE-Jaboatão dos Guararapes,2020-06-23,nowcast,1,0.8,1.2,0.9,1,0.61
-PE-Jaboatão dos Guararapes,2020-06-24,nowcast,1,0.8,1.2,0.9,1,0.59
-PE-Jaboatão dos Guararapes,2020-06-25,nowcast,1,0.8,1.2,0.9,1,0.57
+PE-Jaboatão dos Guararapes,2020-06-22,nowcast,1,0.8,1.1,0.9,1,0.64
+PE-Jaboatão dos Guararapes,2020-06-23,nowcast,1,0.8,1.1,0.9,1,0.61
+PE-Jaboatão dos Guararapes,2020-06-24,nowcast,1,0.8,1.1,0.9,1,0.6
+PE-Jaboatão dos Guararapes,2020-06-25,nowcast,1,0.8,1.1,0.9,1,0.57
 PE-Jaboatão dos Guararapes,2020-06-26,nowcast,1,0.8,1.2,0.9,1,0.54
 PE-Jaboatão dos Guararapes,2020-06-27,nowcast,1,0.8,1.2,0.9,1.1,0.51
-PE-Jaboatão dos Guararapes,2020-06-28,nowcast,1,0.8,1.2,0.9,1.1,0.49
-PE-Jaboatão dos Guararapes,2020-06-29,nowcast,1,0.8,1.2,0.9,1.1,0.52
-PE-Jaboatão dos Guararapes,2020-06-30,nowcast,1,0.8,1.2,0.9,1.1,0.56
-PE-Jaboatão dos Guararapes,2020-07-01,nowcast,1,0.8,1.1,0.9,1.1,0.6
-PE-Jaboatão dos Guararapes,2020-07-02,nowcast,1,0.8,1.1,0.9,1,0.62
-PE-Jaboatão dos Guararapes,2020-07-03,nowcast,1,0.8,1.1,0.9,1,0.63
-PE-Jaboatão dos Guararapes,2020-07-04,nowcast,1,0.8,1.2,0.9,1.1,0.59
-PE-Jaboatão dos Guararapes,2020-07-05,nowcast,1,0.8,1.2,0.9,1,0.58
-PE-Jaboatão dos Guararapes,2020-07-06,nowcast,1,0.8,1.2,0.9,1,0.53
-PE-Jaboatão dos Guararapes,2020-07-07,nowcast,1,0.8,1.2,0.9,1.1,0.5
-PE-Jaboatão dos Guararapes,2020-07-08,nowcast,1,0.8,1.2,0.9,1.1,0.45
-PE-Jaboatão dos Guararapes,2020-07-09,nowcast,1,0.8,1.2,0.9,1.1,0.39
-PE-Jaboatão dos Guararapes,2020-07-10,nowcast,1,0.9,1.3,1,1.1,0.33
-PE-Jaboatão dos Guararapes,2020-07-11,nowcast,1.1,0.9,1.3,1,1.1,0.27
-PE-Jaboatão dos Guararapes,2020-07-12,forecast,1,0.8,1.3,1,1.1,0.36
-PE-Jaboatão dos Guararapes,2020-07-13,forecast,1,0.8,1.3,0.9,1.1,0.37
-PE-Jaboatão dos Guararapes,2020-07-14,forecast,1,0.8,1.3,0.9,1.1,0.39
-PE-Jaboatão dos Guararapes,2020-07-15,forecast,1,0.8,1.3,0.9,1.1,0.39
-PE-Jaboatão dos Guararapes,2020-07-16,forecast,1,0.8,1.4,0.9,1.1,0.38
-PE-Jaboatão dos Guararapes,2020-07-17,forecast,1.1,0.8,1.4,0.9,1.1,0.38
-PE-Jaboatão dos Guararapes,2020-07-18,forecast,1,0.8,1.4,0.9,1.2,0.39
-PE-Jaboatão dos Guararapes,2020-07-19,forecast,1,0.7,1.4,0.9,1.1,0.41
-PE-Jaboatão dos Guararapes,2020-07-20,forecast,1,0.7,1.4,0.9,1.1,0.39
-PE-Jaboatão dos Guararapes,2020-07-21,forecast,1,0.7,1.4,0.9,1.1,0.41
-PE-Jaboatão dos Guararapes,2020-07-22,forecast,1,0.7,1.4,0.9,1.1,0.4
-PE-Jaboatão dos Guararapes,2020-07-23,forecast,1.1,0.7,1.4,0.9,1.2,0.4
-PE-Jaboatão dos Guararapes,2020-07-24,forecast,1,0.7,1.4,0.9,1.2,0.41
-PE-Jaboatão dos Guararapes,2020-07-25,forecast,1,0.7,1.4,0.9,1.2,0.41
+PE-Jaboatão dos Guararapes,2020-06-28,nowcast,1,0.8,1.2,0.9,1.1,0.52
+PE-Jaboatão dos Guararapes,2020-06-29,nowcast,1,0.8,1.2,0.9,1,0.53
+PE-Jaboatão dos Guararapes,2020-06-30,nowcast,1,0.8,1.1,0.9,1,0.58
+PE-Jaboatão dos Guararapes,2020-07-01,nowcast,1,0.8,1.1,0.9,1,0.61
+PE-Jaboatão dos Guararapes,2020-07-02,nowcast,1,0.8,1.1,0.9,1,0.61
+PE-Jaboatão dos Guararapes,2020-07-03,nowcast,1,0.8,1.1,0.9,1,0.61
+PE-Jaboatão dos Guararapes,2020-07-04,nowcast,1,0.8,1.1,0.9,1,0.61
+PE-Jaboatão dos Guararapes,2020-07-05,nowcast,1,0.8,1.2,0.9,1,0.57
+PE-Jaboatão dos Guararapes,2020-07-06,nowcast,1,0.8,1.2,0.9,1.1,0.51
+PE-Jaboatão dos Guararapes,2020-07-07,nowcast,1,0.8,1.2,0.9,1.1,0.49
+PE-Jaboatão dos Guararapes,2020-07-08,nowcast,1,0.8,1.2,0.9,1.1,0.47
+PE-Jaboatão dos Guararapes,2020-07-09,nowcast,1,0.8,1.2,0.9,1.1,0.43
+PE-Jaboatão dos Guararapes,2020-07-10,nowcast,1,0.9,1.2,1,1.1,0.36
+PE-Jaboatão dos Guararapes,2020-07-11,nowcast,1,0.9,1.2,1,1.1,0.3
+PE-Jaboatão dos Guararapes,2020-07-12,nowcast,1.1,0.9,1.3,1,1.1,0.27
+PE-Jaboatão dos Guararapes,2020-07-13,nowcast,1.1,0.9,1.3,1,1.1,0.24
+PE-Jaboatão dos Guararapes,2020-07-14,forecast,1.1,0.8,1.3,1,1.1,0.32
+PE-Jaboatão dos Guararapes,2020-07-15,forecast,1.1,0.8,1.3,0.9,1.1,0.34
+PE-Jaboatão dos Guararapes,2020-07-16,forecast,1,0.8,1.3,1,1.1,0.36
+PE-Jaboatão dos Guararapes,2020-07-17,forecast,1,0.8,1.3,1,1.1,0.36
+PE-Jaboatão dos Guararapes,2020-07-18,forecast,1,0.8,1.3,1,1.2,0.38
+PE-Jaboatão dos Guararapes,2020-07-19,forecast,1.1,0.8,1.4,0.9,1.1,0.36
+PE-Jaboatão dos Guararapes,2020-07-20,forecast,1,0.8,1.4,0.9,1.2,0.39
+PE-Jaboatão dos Guararapes,2020-07-21,forecast,1.1,0.8,1.4,0.9,1.1,0.39
+PE-Jaboatão dos Guararapes,2020-07-22,forecast,1.1,0.7,1.4,0.9,1.2,0.38
+PE-Jaboatão dos Guararapes,2020-07-23,forecast,1.1,0.7,1.4,0.9,1.2,0.38
+PE-Jaboatão dos Guararapes,2020-07-24,forecast,1.1,0.7,1.4,0.9,1.2,0.39
+PE-Jaboatão dos Guararapes,2020-07-25,forecast,1.1,0.7,1.4,0.9,1.2,0.39
+PE-Jaboatão dos Guararapes,2020-07-26,forecast,1,0.7,1.4,0.9,1.2,0.4
+PE-Jaboatão dos Guararapes,2020-07-27,forecast,1,0.7,1.4,0.9,1.2,0.4
 PE-Olinda,2020-04-07,nowcast,1.5,1,1.9,1.3,1.6,0.03
-PE-Olinda,2020-04-08,nowcast,1.4,1,1.9,1.3,1.6,0.04
+PE-Olinda,2020-04-08,nowcast,1.4,1,1.8,1.3,1.6,0.03
 PE-Olinda,2020-04-09,nowcast,1.4,1,1.8,1.2,1.5,0.04
-PE-Olinda,2020-04-10,nowcast,1.4,1,1.7,1.2,1.5,0.04
-PE-Olinda,2020-04-11,nowcast,1.3,1,1.7,1.2,1.5,0.04
-PE-Olinda,2020-04-12,nowcast,1.3,1,1.6,1.2,1.4,0.05
+PE-Olinda,2020-04-10,nowcast,1.3,1,1.7,1.2,1.5,0.04
+PE-Olinda,2020-04-11,nowcast,1.3,1,1.7,1.2,1.4,0.04
+PE-Olinda,2020-04-12,nowcast,1.3,1,1.6,1.2,1.4,0.04
 PE-Olinda,2020-04-13,nowcast,1.3,1,1.6,1.2,1.4,0.04
-PE-Olinda,2020-04-14,nowcast,1.3,1,1.6,1.2,1.4,0.05
-PE-Olinda,2020-04-15,nowcast,1.3,1,1.6,1.2,1.4,0.05
-PE-Olinda,2020-04-16,nowcast,1.3,1,1.6,1.2,1.4,0.04
-PE-Olinda,2020-04-17,nowcast,1.3,1,1.5,1.2,1.4,0.03
-PE-Olinda,2020-04-18,nowcast,1.3,1,1.5,1.2,1.4,0.02
-PE-Olinda,2020-04-19,nowcast,1.3,1,1.5,1.2,1.4,0.02
-PE-Olinda,2020-04-20,nowcast,1.3,1,1.5,1.2,1.4,0.02
-PE-Olinda,2020-04-21,nowcast,1.2,1,1.5,1.1,1.3,0.03
-PE-Olinda,2020-04-22,nowcast,1.2,1,1.4,1.1,1.3,0.06
-PE-Olinda,2020-04-23,nowcast,1.2,0.9,1.4,1.1,1.3,0.09
-PE-Olinda,2020-04-24,nowcast,1.2,0.9,1.3,1.1,1.2,0.12
-PE-Olinda,2020-04-25,nowcast,1.1,0.9,1.3,1,1.2,0.16
+PE-Olinda,2020-04-14,nowcast,1.3,1,1.6,1.2,1.4,0.04
+PE-Olinda,2020-04-15,nowcast,1.3,1,1.6,1.2,1.4,0.04
+PE-Olinda,2020-04-16,nowcast,1.3,1,1.6,1.2,1.4,0.03
+PE-Olinda,2020-04-17,nowcast,1.3,1,1.6,1.2,1.4,0.03
+PE-Olinda,2020-04-18,nowcast,1.3,1,1.5,1.2,1.4,0.03
+PE-Olinda,2020-04-19,nowcast,1.3,1,1.5,1.2,1.3,0.03
+PE-Olinda,2020-04-20,nowcast,1.3,1,1.5,1.2,1.3,0.03
+PE-Olinda,2020-04-21,nowcast,1.2,1,1.5,1.1,1.3,0.04
+PE-Olinda,2020-04-22,nowcast,1.2,1,1.5,1.1,1.3,0.06
+PE-Olinda,2020-04-23,nowcast,1.2,1,1.4,1.1,1.3,0.08
+PE-Olinda,2020-04-24,nowcast,1.1,0.9,1.4,1.1,1.2,0.12
+PE-Olinda,2020-04-25,nowcast,1.1,0.9,1.3,1.1,1.2,0.15
 PE-Olinda,2020-04-26,nowcast,1.1,0.9,1.3,1,1.2,0.19
-PE-Olinda,2020-04-27,nowcast,1.1,0.9,1.3,1,1.2,0.19
-PE-Olinda,2020-04-28,nowcast,1.1,0.9,1.3,1,1.1,0.19
-PE-Olinda,2020-04-29,nowcast,1.1,0.9,1.3,1,1.1,0.2
-PE-Olinda,2020-04-30,nowcast,1.1,0.9,1.2,1,1.1,0.19
-PE-Olinda,2020-05-01,nowcast,1.1,0.9,1.3,1,1.1,0.16
-PE-Olinda,2020-05-02,nowcast,1.1,0.9,1.3,1,1.2,0.14
-PE-Olinda,2020-05-03,nowcast,1.1,0.9,1.3,1,1.2,0.13
-PE-Olinda,2020-05-04,nowcast,1.1,0.9,1.3,1,1.1,0.15
-PE-Olinda,2020-05-05,nowcast,1.1,0.9,1.2,1,1.1,0.17
-PE-Olinda,2020-05-06,nowcast,1.1,0.9,1.2,1,1.1,0.22
+PE-Olinda,2020-04-27,nowcast,1.1,0.9,1.3,1,1.2,0.18
+PE-Olinda,2020-04-28,nowcast,1.1,0.9,1.3,1,1.2,0.2
+PE-Olinda,2020-04-29,nowcast,1.1,0.9,1.3,1,1.1,0.21
+PE-Olinda,2020-04-30,nowcast,1.1,0.9,1.3,1,1.2,0.18
+PE-Olinda,2020-05-01,nowcast,1.1,0.9,1.3,1,1.2,0.16
+PE-Olinda,2020-05-02,nowcast,1.1,0.9,1.3,1,1.2,0.13
+PE-Olinda,2020-05-03,nowcast,1.1,1,1.3,1,1.2,0.11
+PE-Olinda,2020-05-04,nowcast,1.1,0.9,1.3,1,1.2,0.14
+PE-Olinda,2020-05-05,nowcast,1.1,0.9,1.3,1,1.2,0.18
+PE-Olinda,2020-05-06,nowcast,1.1,0.9,1.2,1,1.1,0.21
 PE-Olinda,2020-05-07,nowcast,1.1,0.9,1.2,1,1.1,0.25
-PE-Olinda,2020-05-08,nowcast,1.1,0.9,1.2,1,1.1,0.22
-PE-Olinda,2020-05-09,nowcast,1.1,0.9,1.2,1,1.1,0.21
-PE-Olinda,2020-05-10,nowcast,1.1,0.9,1.2,1,1.1,0.2
-PE-Olinda,2020-05-11,nowcast,1.1,0.9,1.2,1,1.1,0.19
+PE-Olinda,2020-05-08,nowcast,1.1,0.9,1.2,1,1.1,0.25
+PE-Olinda,2020-05-09,nowcast,1.1,0.9,1.2,1,1.1,0.23
+PE-Olinda,2020-05-10,nowcast,1.1,0.9,1.2,1,1.1,0.21
+PE-Olinda,2020-05-11,nowcast,1.1,0.9,1.3,1,1.1,0.2
 PE-Olinda,2020-05-12,nowcast,1.1,0.9,1.2,1,1.1,0.23
-PE-Olinda,2020-05-13,nowcast,1.1,0.9,1.2,1,1.1,0.28
+PE-Olinda,2020-05-13,nowcast,1,0.9,1.2,1,1.1,0.29
 PE-Olinda,2020-05-14,nowcast,1,0.9,1.2,1,1.1,0.39
-PE-Olinda,2020-05-15,nowcast,1,0.8,1.1,0.9,1.1,0.57
-PE-Olinda,2020-05-16,nowcast,1,0.8,1.1,0.9,1,0.7
+PE-Olinda,2020-05-15,nowcast,1,0.8,1.2,0.9,1.1,0.53
+PE-Olinda,2020-05-16,nowcast,1,0.8,1.1,0.9,1,0.68
 PE-Olinda,2020-05-17,nowcast,0.9,0.8,1.1,0.9,1,0.8
-PE-Olinda,2020-05-18,nowcast,0.9,0.8,1,0.9,1,0.89
+PE-Olinda,2020-05-18,nowcast,0.9,0.7,1,0.8,1,0.89
 PE-Olinda,2020-05-19,nowcast,0.9,0.7,1,0.8,1,0.93
-PE-Olinda,2020-05-20,nowcast,0.9,0.7,1,0.8,0.9,0.94
+PE-Olinda,2020-05-20,nowcast,0.9,0.7,1,0.8,0.9,0.95
 PE-Olinda,2020-05-21,nowcast,0.9,0.7,1,0.8,0.9,0.95
-PE-Olinda,2020-05-22,nowcast,0.9,0.7,1,0.8,0.9,0.94
+PE-Olinda,2020-05-22,nowcast,0.9,0.7,1,0.8,0.9,0.93
 PE-Olinda,2020-05-23,nowcast,0.9,0.7,1,0.8,0.9,0.91
-PE-Olinda,2020-05-24,nowcast,0.9,0.7,1,0.8,0.9,0.89
-PE-Olinda,2020-05-25,nowcast,0.9,0.7,1.1,0.8,0.9,0.89
-PE-Olinda,2020-05-26,nowcast,0.9,0.7,1,0.8,0.9,0.91
-PE-Olinda,2020-05-27,nowcast,0.9,0.7,1,0.8,0.9,0.91
+PE-Olinda,2020-05-24,nowcast,0.9,0.7,1,0.8,0.9,0.88
+PE-Olinda,2020-05-25,nowcast,0.9,0.7,1,0.8,0.9,0.87
+PE-Olinda,2020-05-26,nowcast,0.9,0.7,1,0.8,0.9,0.9
+PE-Olinda,2020-05-27,nowcast,0.9,0.7,1,0.8,0.9,0.92
 PE-Olinda,2020-05-28,nowcast,0.9,0.7,1,0.8,0.9,0.93
-PE-Olinda,2020-05-29,nowcast,0.9,0.7,1,0.8,0.9,0.94
-PE-Olinda,2020-05-30,nowcast,0.9,0.7,1,0.8,0.9,0.94
-PE-Olinda,2020-05-31,nowcast,0.8,0.7,1,0.8,0.9,0.93
-PE-Olinda,2020-06-01,nowcast,0.8,0.7,1,0.8,0.9,0.92
-PE-Olinda,2020-06-02,nowcast,0.8,0.7,1,0.8,0.9,0.92
-PE-Olinda,2020-06-03,nowcast,0.9,0.7,1.1,0.8,0.9,0.88
-PE-Olinda,2020-06-04,nowcast,0.9,0.7,1.1,0.8,0.9,0.83
+PE-Olinda,2020-05-29,nowcast,0.9,0.7,1,0.8,0.9,0.93
+PE-Olinda,2020-05-30,nowcast,0.8,0.7,1,0.8,0.9,0.93
+PE-Olinda,2020-05-31,nowcast,0.8,0.7,1,0.8,0.9,0.94
+PE-Olinda,2020-06-01,nowcast,0.8,0.7,1,0.8,0.9,0.93
+PE-Olinda,2020-06-02,nowcast,0.8,0.7,1,0.8,0.9,0.91
+PE-Olinda,2020-06-03,nowcast,0.9,0.7,1.1,0.8,0.9,0.89
+PE-Olinda,2020-06-04,nowcast,0.9,0.7,1.1,0.8,1,0.82
 PE-Olinda,2020-06-05,nowcast,0.9,0.7,1.1,0.8,1,0.75
-PE-Olinda,2020-06-06,nowcast,0.9,0.8,1.2,0.8,1,0.65
-PE-Olinda,2020-06-07,nowcast,1,0.8,1.2,0.9,1.1,0.53
-PE-Olinda,2020-06-08,nowcast,1,0.8,1.3,0.9,1.1,0.41
-PE-Olinda,2020-06-09,nowcast,1.1,0.8,1.3,1,1.1,0.3
-PE-Olinda,2020-06-10,nowcast,1.1,0.9,1.3,1,1.2,0.23
-PE-Olinda,2020-06-11,nowcast,1.1,0.9,1.3,1,1.2,0.18
+PE-Olinda,2020-06-06,nowcast,1,0.8,1.2,0.8,1,0.62
+PE-Olinda,2020-06-07,nowcast,1,0.8,1.3,0.9,1.1,0.52
+PE-Olinda,2020-06-08,nowcast,1,0.8,1.3,0.9,1.1,0.4
+PE-Olinda,2020-06-09,nowcast,1.1,0.8,1.3,0.9,1.1,0.31
+PE-Olinda,2020-06-10,nowcast,1.1,0.9,1.3,1,1.1,0.24
+PE-Olinda,2020-06-11,nowcast,1.1,0.9,1.3,1,1.2,0.19
 PE-Olinda,2020-06-12,nowcast,1.1,0.9,1.3,1,1.2,0.16
-PE-Olinda,2020-06-13,nowcast,1.1,0.9,1.3,1,1.2,0.17
+PE-Olinda,2020-06-13,nowcast,1.1,0.9,1.3,1,1.2,0.18
 PE-Olinda,2020-06-14,nowcast,1.1,0.9,1.3,1,1.2,0.23
-PE-Olinda,2020-06-15,nowcast,1,0.8,1.3,1,1.1,0.33
-PE-Olinda,2020-06-16,nowcast,1,0.8,1.2,0.9,1.1,0.46
+PE-Olinda,2020-06-15,nowcast,1.1,0.8,1.3,1,1.1,0.33
+PE-Olinda,2020-06-16,nowcast,1,0.8,1.2,1,1.1,0.46
 PE-Olinda,2020-06-17,nowcast,1,0.8,1.2,0.9,1.1,0.6
-PE-Olinda,2020-06-18,nowcast,1,0.7,1.1,0.9,1,0.68
+PE-Olinda,2020-06-18,nowcast,0.9,0.7,1.1,0.9,1,0.68
 PE-Olinda,2020-06-19,nowcast,0.9,0.7,1.1,0.9,1,0.71
-PE-Olinda,2020-06-20,nowcast,0.9,0.7,1.1,0.9,1,0.74
-PE-Olinda,2020-06-21,nowcast,0.9,0.7,1.1,0.9,1,0.74
-PE-Olinda,2020-06-22,nowcast,0.9,0.7,1.1,0.9,1,0.74
-PE-Olinda,2020-06-23,nowcast,0.9,0.7,1.1,0.9,1,0.75
-PE-Olinda,2020-06-24,nowcast,0.9,0.8,1.1,0.9,1,0.72
-PE-Olinda,2020-06-25,nowcast,0.9,0.7,1.1,0.9,1,0.7
-PE-Olinda,2020-06-26,nowcast,1,0.8,1.2,0.9,1,0.64
-PE-Olinda,2020-06-27,nowcast,1,0.8,1.2,0.9,1,0.57
-PE-Olinda,2020-06-28,nowcast,1,0.8,1.2,0.9,1.1,0.5
-PE-Olinda,2020-06-29,nowcast,1,0.8,1.2,0.9,1.1,0.46
-PE-Olinda,2020-06-30,nowcast,1,0.8,1.2,0.9,1.1,0.39
-PE-Olinda,2020-07-01,nowcast,1,0.8,1.3,1,1.1,0.37
-PE-Olinda,2020-07-02,nowcast,1,0.8,1.3,1,1.1,0.33
-PE-Olinda,2020-07-03,nowcast,1.1,0.9,1.3,1,1.1,0.28
-PE-Olinda,2020-07-04,nowcast,1.1,0.9,1.3,1,1.1,0.27
-PE-Olinda,2020-07-05,nowcast,1.1,0.9,1.3,1,1.1,0.24
-PE-Olinda,2020-07-06,nowcast,1.1,0.9,1.3,1,1.1,0.27
-PE-Olinda,2020-07-07,nowcast,1,0.9,1.3,1,1.1,0.33
-PE-Olinda,2020-07-08,nowcast,1,0.8,1.2,1,1.1,0.4
-PE-Olinda,2020-07-09,nowcast,1,0.8,1.2,0.9,1.1,0.46
-PE-Olinda,2020-07-10,nowcast,1,0.8,1.2,0.9,1.1,0.52
-PE-Olinda,2020-07-11,nowcast,1,0.8,1.2,0.9,1.1,0.53
-PE-Olinda,2020-07-12,forecast,1,0.7,1.3,0.9,1.1,0.49
-PE-Olinda,2020-07-13,forecast,1,0.7,1.3,0.9,1.1,0.49
-PE-Olinda,2020-07-14,forecast,1,0.7,1.3,0.9,1.1,0.5
-PE-Olinda,2020-07-15,forecast,1,0.7,1.3,0.9,1.1,0.49
-PE-Olinda,2020-07-16,forecast,1,0.7,1.3,0.9,1.1,0.48
-PE-Olinda,2020-07-17,forecast,1,0.6,1.4,0.9,1.1,0.49
-PE-Olinda,2020-07-18,forecast,1,0.7,1.4,0.9,1.1,0.48
-PE-Olinda,2020-07-19,forecast,1,0.7,1.4,0.9,1.2,0.48
-PE-Olinda,2020-07-20,forecast,1,0.6,1.4,0.9,1.2,0.48
-PE-Olinda,2020-07-21,forecast,1,0.6,1.4,0.9,1.2,0.48
-PE-Olinda,2020-07-22,forecast,1,0.6,1.4,0.8,1.2,0.49
-PE-Olinda,2020-07-23,forecast,1,0.6,1.4,0.8,1.2,0.48
-PE-Olinda,2020-07-24,forecast,1,0.5,1.4,0.9,1.2,0.48
-PE-Olinda,2020-07-25,forecast,1,0.5,1.5,0.8,1.2,0.48
+PE-Olinda,2020-06-20,nowcast,0.9,0.7,1.1,0.9,1,0.75
+PE-Olinda,2020-06-21,nowcast,0.9,0.8,1.1,0.9,1,0.73
+PE-Olinda,2020-06-22,nowcast,0.9,0.8,1.1,0.9,1,0.73
+PE-Olinda,2020-06-23,nowcast,0.9,0.7,1.1,0.9,1,0.72
+PE-Olinda,2020-06-24,nowcast,0.9,0.8,1.1,0.9,1,0.74
+PE-Olinda,2020-06-25,nowcast,0.9,0.8,1.1,0.8,1,0.7
+PE-Olinda,2020-06-26,nowcast,1,0.8,1.1,0.9,1,0.67
+PE-Olinda,2020-06-27,nowcast,1,0.8,1.2,0.9,1,0.6
+PE-Olinda,2020-06-28,nowcast,1,0.8,1.2,0.9,1.1,0.54
+PE-Olinda,2020-06-29,nowcast,1,0.8,1.2,0.9,1.1,0.47
+PE-Olinda,2020-06-30,nowcast,1,0.8,1.2,0.9,1.1,0.43
+PE-Olinda,2020-07-01,nowcast,1,0.8,1.3,0.9,1.1,0.39
+PE-Olinda,2020-07-02,nowcast,1,0.9,1.3,1,1.1,0.34
+PE-Olinda,2020-07-03,nowcast,1.1,0.9,1.3,1,1.1,0.31
+PE-Olinda,2020-07-04,nowcast,1.1,0.9,1.3,1,1.1,0.3
+PE-Olinda,2020-07-05,nowcast,1.1,0.8,1.3,1,1.1,0.32
+PE-Olinda,2020-07-06,nowcast,1,0.8,1.2,1,1.1,0.36
+PE-Olinda,2020-07-07,nowcast,1,0.8,1.2,1,1.1,0.43
+PE-Olinda,2020-07-08,nowcast,1,0.8,1.2,0.9,1.1,0.5
+PE-Olinda,2020-07-09,nowcast,1,0.8,1.2,0.9,1.1,0.58
+PE-Olinda,2020-07-10,nowcast,1,0.7,1.2,0.9,1,0.66
+PE-Olinda,2020-07-11,nowcast,0.9,0.7,1.1,0.9,1,0.71
+PE-Olinda,2020-07-12,nowcast,0.9,0.7,1.1,0.8,1,0.74
+PE-Olinda,2020-07-13,nowcast,0.9,0.7,1.1,0.8,1,0.79
+PE-Olinda,2020-07-14,forecast,0.9,0.7,1.2,0.9,1,0.68
+PE-Olinda,2020-07-15,forecast,0.9,0.7,1.2,0.9,1.1,0.66
+PE-Olinda,2020-07-16,forecast,0.9,0.6,1.2,0.8,1.1,0.65
+PE-Olinda,2020-07-17,forecast,0.9,0.6,1.2,0.8,1.1,0.64
+PE-Olinda,2020-07-18,forecast,0.9,0.6,1.3,0.8,1.1,0.64
+PE-Olinda,2020-07-19,forecast,0.9,0.6,1.3,0.8,1.1,0.62
+PE-Olinda,2020-07-20,forecast,0.9,0.6,1.3,0.8,1.1,0.61
+PE-Olinda,2020-07-21,forecast,0.9,0.6,1.3,0.8,1.1,0.61
+PE-Olinda,2020-07-22,forecast,0.9,0.5,1.3,0.8,1.1,0.61
+PE-Olinda,2020-07-23,forecast,0.9,0.6,1.3,0.8,1.1,0.6
+PE-Olinda,2020-07-24,forecast,0.9,0.5,1.3,0.8,1.1,0.6
+PE-Olinda,2020-07-25,forecast,0.9,0.6,1.4,0.8,1.1,0.59
+PE-Olinda,2020-07-26,forecast,0.9,0.5,1.3,0.8,1.1,0.6
+PE-Olinda,2020-07-27,forecast,0.9,0.5,1.4,0.8,1.1,0.59
 PE-Palmares,2020-05-02,nowcast,1.5,0.6,2.5,1.1,1.7,0.17
 PE-Palmares,2020-05-03,nowcast,1.5,0.6,2.5,1.1,1.8,0.14
 PE-Palmares,2020-05-04,nowcast,1.5,0.7,2.4,1.1,1.7,0.14
@@ -567,329 +653,335 @@ PE-Palmares,2020-07-22,forecast,1.2,0.5,2.1,0.9,1.5,0.31
 PE-Palmares,2020-07-23,forecast,1.2,0.4,2.1,0.9,1.5,0.32
 PE-Palmares,2020-07-24,forecast,1.2,0.4,2.2,0.9,1.6,0.31
 PE-Palmares,2020-07-25,forecast,1.2,0.4,2.2,0.8,1.5,0.31
-PE-Paulista,2020-04-09,nowcast,1.3,0.9,1.8,1.1,1.5,0.08
-PE-Paulista,2020-04-10,nowcast,1.3,1,1.8,1.2,1.5,0.07
-PE-Paulista,2020-04-11,nowcast,1.3,0.9,1.7,1.1,1.4,0.07
-PE-Paulista,2020-04-12,nowcast,1.3,1,1.7,1.2,1.4,0.06
-PE-Paulista,2020-04-13,nowcast,1.3,0.9,1.7,1.2,1.4,0.07
-PE-Paulista,2020-04-14,nowcast,1.3,1,1.7,1.1,1.4,0.06
-PE-Paulista,2020-04-15,nowcast,1.3,1,1.7,1.2,1.4,0.04
-PE-Paulista,2020-04-16,nowcast,1.3,1,1.6,1.1,1.4,0.04
-PE-Paulista,2020-04-17,nowcast,1.3,1,1.7,1.2,1.4,0.04
-PE-Paulista,2020-04-18,nowcast,1.3,1,1.7,1.2,1.4,0.03
-PE-Paulista,2020-04-19,nowcast,1.3,1,1.6,1.2,1.4,0.04
+PE-Paulista,2020-04-09,nowcast,1.4,0.9,1.8,1.2,1.5,0.07
+PE-Paulista,2020-04-10,nowcast,1.3,0.9,1.7,1.2,1.5,0.08
+PE-Paulista,2020-04-11,nowcast,1.3,0.9,1.7,1.2,1.5,0.07
+PE-Paulista,2020-04-12,nowcast,1.3,0.9,1.7,1.2,1.4,0.06
+PE-Paulista,2020-04-13,nowcast,1.3,1,1.7,1.2,1.4,0.06
+PE-Paulista,2020-04-14,nowcast,1.3,1,1.7,1.2,1.4,0.06
+PE-Paulista,2020-04-15,nowcast,1.3,1,1.7,1.2,1.4,0.05
+PE-Paulista,2020-04-16,nowcast,1.3,1,1.6,1.2,1.4,0.04
+PE-Paulista,2020-04-17,nowcast,1.3,1,1.6,1.2,1.4,0.04
+PE-Paulista,2020-04-18,nowcast,1.3,1,1.6,1.2,1.4,0.03
+PE-Paulista,2020-04-19,nowcast,1.3,1,1.6,1.2,1.4,0.03
 PE-Paulista,2020-04-20,nowcast,1.3,1,1.6,1.2,1.4,0.04
-PE-Paulista,2020-04-21,nowcast,1.3,1,1.6,1.2,1.4,0.05
-PE-Paulista,2020-04-22,nowcast,1.2,1,1.5,1.1,1.3,0.08
-PE-Paulista,2020-04-23,nowcast,1.2,0.9,1.4,1.1,1.3,0.13
-PE-Paulista,2020-04-24,nowcast,1.1,0.9,1.4,1.1,1.3,0.16
-PE-Paulista,2020-04-25,nowcast,1.1,0.9,1.3,1,1.2,0.2
-PE-Paulista,2020-04-26,nowcast,1.1,0.8,1.3,1,1.2,0.23
+PE-Paulista,2020-04-21,nowcast,1.3,1,1.5,1.1,1.3,0.04
+PE-Paulista,2020-04-22,nowcast,1.2,0.9,1.5,1.1,1.3,0.08
+PE-Paulista,2020-04-23,nowcast,1.2,0.9,1.4,1.1,1.3,0.1
+PE-Paulista,2020-04-24,nowcast,1.1,0.9,1.4,1.1,1.2,0.15
+PE-Paulista,2020-04-25,nowcast,1.1,0.9,1.3,1,1.2,0.21
+PE-Paulista,2020-04-26,nowcast,1.1,0.9,1.3,1,1.2,0.25
 PE-Paulista,2020-04-27,nowcast,1.1,0.9,1.3,1,1.2,0.25
-PE-Paulista,2020-04-28,nowcast,1.1,0.9,1.3,1,1.2,0.24
-PE-Paulista,2020-04-29,nowcast,1.1,0.9,1.3,1,1.2,0.24
-PE-Paulista,2020-04-30,nowcast,1.1,0.9,1.3,1,1.1,0.22
-PE-Paulista,2020-05-01,nowcast,1.1,0.9,1.3,1,1.2,0.17
-PE-Paulista,2020-05-02,nowcast,1.1,0.9,1.3,1,1.2,0.15
-PE-Paulista,2020-05-03,nowcast,1.1,0.9,1.3,1,1.2,0.14
+PE-Paulista,2020-04-28,nowcast,1.1,0.9,1.3,1,1.2,0.27
+PE-Paulista,2020-04-29,nowcast,1.1,0.9,1.3,1,1.2,0.26
+PE-Paulista,2020-04-30,nowcast,1.1,0.9,1.3,1,1.2,0.22
+PE-Paulista,2020-05-01,nowcast,1.1,0.9,1.3,1,1.2,0.18
+PE-Paulista,2020-05-02,nowcast,1.1,0.9,1.3,1,1.2,0.14
+PE-Paulista,2020-05-03,nowcast,1.1,0.9,1.3,1,1.2,0.13
 PE-Paulista,2020-05-04,nowcast,1.1,0.9,1.3,1,1.2,0.14
 PE-Paulista,2020-05-05,nowcast,1.1,0.9,1.3,1,1.2,0.17
-PE-Paulista,2020-05-06,nowcast,1.1,0.9,1.3,1,1.2,0.21
-PE-Paulista,2020-05-07,nowcast,1.1,0.9,1.3,1,1.2,0.25
-PE-Paulista,2020-05-08,nowcast,1.1,0.9,1.2,1,1.1,0.25
-PE-Paulista,2020-05-09,nowcast,1.1,0.9,1.3,1,1.1,0.21
-PE-Paulista,2020-05-10,nowcast,1.1,0.9,1.3,1,1.1,0.22
-PE-Paulista,2020-05-11,nowcast,1.1,0.9,1.3,1,1.1,0.24
-PE-Paulista,2020-05-12,nowcast,1.1,0.9,1.3,1,1.1,0.26
-PE-Paulista,2020-05-13,nowcast,1,0.9,1.2,1,1.1,0.31
+PE-Paulista,2020-05-06,nowcast,1.1,0.9,1.3,1,1.2,0.22
+PE-Paulista,2020-05-07,nowcast,1.1,0.9,1.3,1,1.2,0.2
+PE-Paulista,2020-05-08,nowcast,1.1,0.9,1.3,1,1.2,0.24
+PE-Paulista,2020-05-09,nowcast,1.1,0.9,1.3,1,1.1,0.22
+PE-Paulista,2020-05-10,nowcast,1.1,0.9,1.3,1,1.1,0.21
+PE-Paulista,2020-05-11,nowcast,1.1,0.9,1.3,1,1.1,0.23
+PE-Paulista,2020-05-12,nowcast,1.1,0.9,1.2,1,1.1,0.24
+PE-Paulista,2020-05-13,nowcast,1.1,0.9,1.2,1,1.1,0.3
 PE-Paulista,2020-05-14,nowcast,1,0.8,1.2,1,1.1,0.4
-PE-Paulista,2020-05-15,nowcast,1,0.8,1.2,0.9,1.1,0.49
-PE-Paulista,2020-05-16,nowcast,1,0.8,1.2,0.9,1.1,0.58
+PE-Paulista,2020-05-15,nowcast,1,0.8,1.2,0.9,1.1,0.5
+PE-Paulista,2020-05-16,nowcast,1,0.8,1.1,0.9,1,0.62
 PE-Paulista,2020-05-17,nowcast,0.9,0.8,1.1,0.9,1,0.71
-PE-Paulista,2020-05-18,nowcast,0.9,0.7,1.1,0.9,1,0.82
-PE-Paulista,2020-05-19,nowcast,0.9,0.7,1.1,0.8,1,0.85
-PE-Paulista,2020-05-20,nowcast,0.9,0.7,1,0.8,1,0.89
-PE-Paulista,2020-05-21,nowcast,0.9,0.7,1,0.8,1,0.9
-PE-Paulista,2020-05-22,nowcast,0.9,0.7,1,0.8,0.9,0.88
-PE-Paulista,2020-05-23,nowcast,0.9,0.7,1,0.8,0.9,0.88
-PE-Paulista,2020-05-24,nowcast,0.9,0.7,1.1,0.8,0.9,0.86
-PE-Paulista,2020-05-25,nowcast,0.9,0.7,1.1,0.8,0.9,0.86
-PE-Paulista,2020-05-26,nowcast,0.9,0.7,1,0.8,0.9,0.89
-PE-Paulista,2020-05-27,nowcast,0.9,0.7,1.1,0.8,0.9,0.89
+PE-Paulista,2020-05-18,nowcast,0.9,0.7,1.1,0.9,1,0.81
+PE-Paulista,2020-05-19,nowcast,0.9,0.7,1.1,0.8,1,0.86
+PE-Paulista,2020-05-20,nowcast,0.9,0.7,1,0.8,1,0.9
+PE-Paulista,2020-05-21,nowcast,0.9,0.7,1,0.8,0.9,0.9
+PE-Paulista,2020-05-22,nowcast,0.9,0.7,1.1,0.8,0.9,0.88
+PE-Paulista,2020-05-23,nowcast,0.9,0.7,1.1,0.8,0.9,0.88
+PE-Paulista,2020-05-24,nowcast,0.9,0.7,1.1,0.8,0.9,0.87
+PE-Paulista,2020-05-25,nowcast,0.9,0.7,1.1,0.8,1,0.86
+PE-Paulista,2020-05-26,nowcast,0.9,0.7,1.1,0.8,0.9,0.87
+PE-Paulista,2020-05-27,nowcast,0.9,0.7,1.1,0.8,0.9,0.88
 PE-Paulista,2020-05-28,nowcast,0.9,0.7,1,0.8,0.9,0.9
-PE-Paulista,2020-05-29,nowcast,0.9,0.7,1.1,0.8,0.9,0.88
+PE-Paulista,2020-05-29,nowcast,0.9,0.7,1.1,0.8,0.9,0.89
 PE-Paulista,2020-05-30,nowcast,0.9,0.7,1.1,0.8,0.9,0.88
-PE-Paulista,2020-05-31,nowcast,0.9,0.7,1.1,0.8,0.9,0.86
-PE-Paulista,2020-06-01,nowcast,0.9,0.7,1.1,0.8,0.9,0.87
+PE-Paulista,2020-05-31,nowcast,0.9,0.6,1,0.8,0.9,0.88
+PE-Paulista,2020-06-01,nowcast,0.9,0.7,1.1,0.8,0.9,0.86
 PE-Paulista,2020-06-02,nowcast,0.9,0.7,1.1,0.8,0.9,0.86
 PE-Paulista,2020-06-03,nowcast,0.9,0.7,1.1,0.8,0.9,0.85
-PE-Paulista,2020-06-04,nowcast,0.9,0.7,1.1,0.8,0.9,0.83
-PE-Paulista,2020-06-05,nowcast,0.9,0.7,1.1,0.8,1,0.78
-PE-Paulista,2020-06-06,nowcast,0.9,0.7,1.1,0.8,1,0.76
-PE-Paulista,2020-06-07,nowcast,0.9,0.7,1.1,0.8,1,0.75
-PE-Paulista,2020-06-08,nowcast,0.9,0.7,1.1,0.8,1,0.75
-PE-Paulista,2020-06-09,nowcast,0.9,0.7,1.1,0.8,1,0.77
-PE-Paulista,2020-06-10,nowcast,0.9,0.6,1.1,0.8,1,0.79
-PE-Paulista,2020-06-11,nowcast,0.9,0.6,1.1,0.8,1,0.81
-PE-Paulista,2020-06-12,nowcast,0.9,0.7,1.1,0.8,1,0.8
-PE-Paulista,2020-06-13,nowcast,0.9,0.7,1.1,0.8,1,0.78
-PE-Paulista,2020-06-14,nowcast,0.9,0.7,1.1,0.8,1,0.76
-PE-Paulista,2020-06-15,nowcast,0.9,0.7,1.2,0.8,1,0.74
-PE-Paulista,2020-06-16,nowcast,0.9,0.7,1.2,0.8,1,0.71
-PE-Paulista,2020-06-17,nowcast,0.9,0.7,1.2,0.8,1,0.71
-PE-Paulista,2020-06-18,nowcast,0.9,0.7,1.2,0.8,1,0.72
-PE-Paulista,2020-06-19,nowcast,0.9,0.7,1.2,0.8,1,0.68
+PE-Paulista,2020-06-04,nowcast,0.9,0.7,1.1,0.8,1,0.82
+PE-Paulista,2020-06-05,nowcast,0.9,0.7,1.1,0.8,1,0.8
+PE-Paulista,2020-06-06,nowcast,0.9,0.7,1.2,0.8,1,0.75
+PE-Paulista,2020-06-07,nowcast,0.9,0.7,1.1,0.8,1,0.76
+PE-Paulista,2020-06-08,nowcast,0.9,0.7,1.1,0.8,1,0.76
+PE-Paulista,2020-06-09,nowcast,0.9,0.7,1.1,0.8,1,0.79
+PE-Paulista,2020-06-10,nowcast,0.9,0.7,1.1,0.8,1,0.79
+PE-Paulista,2020-06-11,nowcast,0.9,0.6,1.1,0.8,1,0.8
+PE-Paulista,2020-06-12,nowcast,0.9,0.7,1.1,0.8,1,0.79
+PE-Paulista,2020-06-13,nowcast,0.9,0.7,1.1,0.8,1,0.79
+PE-Paulista,2020-06-14,nowcast,0.9,0.7,1.2,0.8,1,0.76
+PE-Paulista,2020-06-15,nowcast,0.9,0.7,1.2,0.8,1,0.75
+PE-Paulista,2020-06-16,nowcast,0.9,0.7,1.2,0.8,1,0.72
+PE-Paulista,2020-06-17,nowcast,0.9,0.7,1.2,0.8,1,0.7
+PE-Paulista,2020-06-18,nowcast,0.9,0.7,1.2,0.8,1,0.71
+PE-Paulista,2020-06-19,nowcast,0.9,0.7,1.2,0.8,1,0.69
 PE-Paulista,2020-06-20,nowcast,0.9,0.7,1.2,0.8,1,0.67
 PE-Paulista,2020-06-21,nowcast,0.9,0.7,1.2,0.8,1,0.65
-PE-Paulista,2020-06-22,nowcast,0.9,0.7,1.2,0.8,1,0.65
+PE-Paulista,2020-06-22,nowcast,0.9,0.7,1.2,0.8,1,0.66
 PE-Paulista,2020-06-23,nowcast,0.9,0.7,1.2,0.8,1,0.65
-PE-Paulista,2020-06-24,nowcast,0.9,0.7,1.2,0.9,1,0.64
-PE-Paulista,2020-06-25,nowcast,0.9,0.7,1.2,0.8,1,0.65
-PE-Paulista,2020-06-26,nowcast,0.9,0.7,1.2,0.8,1,0.65
-PE-Paulista,2020-06-27,nowcast,1,0.7,1.2,0.8,1,0.59
-PE-Paulista,2020-06-28,nowcast,1,0.7,1.3,0.9,1.1,0.52
-PE-Paulista,2020-06-29,nowcast,1,0.7,1.3,0.9,1.1,0.49
-PE-Paulista,2020-06-30,nowcast,1,0.7,1.3,0.9,1.1,0.45
-PE-Paulista,2020-07-01,nowcast,1,0.8,1.4,0.9,1.1,0.38
-PE-Paulista,2020-07-02,nowcast,1.1,0.8,1.4,0.9,1.1,0.36
-PE-Paulista,2020-07-03,nowcast,1.1,0.8,1.4,0.9,1.2,0.35
-PE-Paulista,2020-07-04,nowcast,1.1,0.8,1.3,0.9,1.2,0.34
-PE-Paulista,2020-07-05,nowcast,1.1,0.8,1.3,0.9,1.1,0.36
-PE-Paulista,2020-07-06,nowcast,1.1,0.7,1.3,0.9,1.1,0.37
-PE-Paulista,2020-07-07,nowcast,1.1,0.7,1.3,0.9,1.2,0.37
-PE-Paulista,2020-07-08,nowcast,1.1,0.8,1.4,0.9,1.2,0.36
-PE-Paulista,2020-07-09,nowcast,1.1,0.7,1.4,1,1.2,0.35
-PE-Paulista,2020-07-10,nowcast,1.1,0.8,1.4,1,1.2,0.32
-PE-Paulista,2020-07-11,nowcast,1.1,0.8,1.4,1,1.2,0.31
-PE-Paulista,2020-07-12,forecast,1.1,0.7,1.4,0.9,1.2,0.34
-PE-Paulista,2020-07-13,forecast,1.1,0.7,1.5,0.9,1.2,0.35
-PE-Paulista,2020-07-14,forecast,1.1,0.7,1.5,0.9,1.3,0.37
-PE-Paulista,2020-07-15,forecast,1.1,0.7,1.6,0.9,1.2,0.37
-PE-Paulista,2020-07-16,forecast,1.1,0.7,1.6,0.9,1.2,0.37
-PE-Paulista,2020-07-17,forecast,1.1,0.6,1.6,0.9,1.3,0.38
-PE-Paulista,2020-07-18,forecast,1.1,0.6,1.6,0.9,1.2,0.38
-PE-Paulista,2020-07-19,forecast,1.1,0.6,1.6,0.9,1.3,0.39
-PE-Paulista,2020-07-20,forecast,1.1,0.5,1.6,0.9,1.3,0.39
-PE-Paulista,2020-07-21,forecast,1.1,0.5,1.7,0.9,1.3,0.39
-PE-Paulista,2020-07-22,forecast,1.1,0.5,1.7,0.9,1.3,0.39
-PE-Paulista,2020-07-23,forecast,1.1,0.5,1.7,0.9,1.3,0.38
-PE-Paulista,2020-07-24,forecast,1.1,0.4,1.7,0.9,1.3,0.38
-PE-Paulista,2020-07-25,forecast,1.1,0.4,1.7,0.9,1.3,0.39
-PE-Pesqueira,2020-05-23,nowcast,1.2,0.7,1.9,0.9,1.4,0.25
-PE-Pesqueira,2020-05-24,nowcast,1.2,0.6,1.8,0.9,1.4,0.27
-PE-Pesqueira,2020-05-25,nowcast,1.1,0.5,1.7,0.9,1.3,0.33
-PE-Pesqueira,2020-05-26,nowcast,1.1,0.5,1.6,0.9,1.3,0.39
-PE-Pesqueira,2020-05-27,nowcast,1,0.5,1.6,0.8,1.2,0.44
-PE-Pesqueira,2020-05-28,nowcast,1,0.5,1.5,0.8,1.2,0.54
-PE-Pesqueira,2020-05-29,nowcast,1,0.5,1.4,0.8,1.1,0.57
-PE-Pesqueira,2020-05-30,nowcast,0.9,0.4,1.4,0.7,1.1,0.59
-PE-Pesqueira,2020-05-31,nowcast,0.9,0.4,1.4,0.7,1.1,0.61
-PE-Pesqueira,2020-06-01,nowcast,0.9,0.4,1.5,0.7,1.1,0.59
-PE-Pesqueira,2020-06-02,nowcast,0.9,0.4,1.5,0.7,1.1,0.59
-PE-Pesqueira,2020-06-03,nowcast,1,0.4,1.6,0.7,1.1,0.57
-PE-Pesqueira,2020-06-04,nowcast,1,0.4,1.6,0.7,1.1,0.56
-PE-Pesqueira,2020-06-05,nowcast,1,0.4,1.6,0.7,1.1,0.52
-PE-Pesqueira,2020-06-06,nowcast,1,0.5,1.7,0.8,1.2,0.48
-PE-Pesqueira,2020-06-07,nowcast,1.1,0.6,1.8,0.8,1.3,0.39
-PE-Pesqueira,2020-06-08,nowcast,1.1,0.6,1.8,0.9,1.3,0.34
-PE-Pesqueira,2020-06-09,nowcast,1.2,0.6,1.9,0.9,1.3,0.28
-PE-Pesqueira,2020-06-10,nowcast,1.2,0.6,1.8,1,1.4,0.24
-PE-Pesqueira,2020-06-11,nowcast,1.3,0.7,1.9,1,1.5,0.18
-PE-Pesqueira,2020-06-12,nowcast,1.3,0.7,2,1.1,1.5,0.14
-PE-Pesqueira,2020-06-13,nowcast,1.4,0.8,2,1.1,1.5,0.12
-PE-Pesqueira,2020-06-14,nowcast,1.4,0.9,2,1.1,1.5,0.1
-PE-Pesqueira,2020-06-15,nowcast,1.4,0.8,1.9,1.1,1.5,0.1
-PE-Pesqueira,2020-06-16,nowcast,1.3,0.9,1.9,1.1,1.5,0.11
-PE-Pesqueira,2020-06-17,nowcast,1.3,0.8,1.8,1.1,1.5,0.13
-PE-Pesqueira,2020-06-18,nowcast,1.3,0.8,1.8,1.1,1.4,0.13
-PE-Pesqueira,2020-06-19,nowcast,1.2,0.8,1.7,1.1,1.4,0.17
-PE-Pesqueira,2020-06-20,nowcast,1.2,0.7,1.6,1,1.3,0.22
-PE-Pesqueira,2020-06-21,nowcast,1.1,0.7,1.5,0.9,1.3,0.35
-PE-Pesqueira,2020-06-22,nowcast,1,0.6,1.4,0.8,1.2,0.5
-PE-Pesqueira,2020-06-23,nowcast,0.9,0.6,1.3,0.8,1.1,0.62
-PE-Pesqueira,2020-06-24,nowcast,0.9,0.5,1.2,0.7,1,0.73
-PE-Pesqueira,2020-06-25,nowcast,0.9,0.5,1.2,0.7,1,0.76
-PE-Pesqueira,2020-06-26,nowcast,0.9,0.5,1.3,0.7,1,0.73
-PE-Pesqueira,2020-06-27,nowcast,0.9,0.5,1.3,0.7,1,0.67
-PE-Pesqueira,2020-06-28,nowcast,0.9,0.6,1.3,0.8,1.1,0.63
-PE-Pesqueira,2020-06-29,nowcast,0.9,0.6,1.4,0.8,1.1,0.6
-PE-Pesqueira,2020-06-30,nowcast,1,0.6,1.4,0.8,1.1,0.58
-PE-Pesqueira,2020-07-01,nowcast,1,0.6,1.4,0.8,1.1,0.57
-PE-Pesqueira,2020-07-02,nowcast,1,0.6,1.4,0.8,1.1,0.55
-PE-Pesqueira,2020-07-03,nowcast,1,0.6,1.4,0.8,1.1,0.49
-PE-Pesqueira,2020-07-04,nowcast,1,0.6,1.5,0.8,1.2,0.42
-PE-Pesqueira,2020-07-05,nowcast,1.1,0.7,1.7,0.9,1.3,0.3
-PE-Pesqueira,2020-07-06,nowcast,1.2,0.8,1.7,0.9,1.3,0.22
-PE-Pesqueira,2020-07-07,nowcast,1.3,0.8,1.8,1,1.4,0.15
-PE-Pesqueira,2020-07-08,nowcast,1.3,0.9,1.9,1.1,1.4,0.09
-PE-Pesqueira,2020-07-09,nowcast,1.4,0.9,1.9,1.1,1.5,0.07
-PE-Pesqueira,2020-07-10,nowcast,1.4,1,1.9,1.2,1.5,0.05
-PE-Pesqueira,2020-07-11,nowcast,1.4,1,2,1.2,1.6,0.04
-PE-Pesqueira,2020-07-12,forecast,1.4,0.8,2.1,1.1,1.6,0.11
-PE-Pesqueira,2020-07-13,forecast,1.4,0.7,2.1,1.1,1.7,0.14
-PE-Pesqueira,2020-07-14,forecast,1.4,0.6,2.2,1.1,1.6,0.16
-PE-Pesqueira,2020-07-15,forecast,1.4,0.6,2.3,1.1,1.7,0.17
-PE-Pesqueira,2020-07-16,forecast,1.4,0.6,2.4,1,1.7,0.19
-PE-Pesqueira,2020-07-17,forecast,1.4,0.6,2.5,1.1,1.8,0.19
-PE-Pesqueira,2020-07-18,forecast,1.4,0.4,2.4,1,1.8,0.21
-PE-Pesqueira,2020-07-19,forecast,1.4,0.5,2.6,1,1.7,0.22
-PE-Pesqueira,2020-07-20,forecast,1.4,0.4,2.6,0.9,1.7,0.23
-PE-Pesqueira,2020-07-21,forecast,1.4,0.3,2.6,1,1.9,0.23
-PE-Pesqueira,2020-07-22,forecast,1.4,0.3,2.7,0.9,1.8,0.24
-PE-Pesqueira,2020-07-23,forecast,1.4,0.3,2.7,1,1.8,0.24
-PE-Pesqueira,2020-07-24,forecast,1.4,0,2.5,0.9,1.8,0.25
-PE-Pesqueira,2020-07-25,forecast,1.5,0,2.5,1,2,0.26
-PE-Petrolina,2020-04-26,nowcast,1.4,0.5,2.3,0.9,1.6,0.19
-PE-Petrolina,2020-04-27,nowcast,1.4,0.6,2.4,1,1.7,0.17
-PE-Petrolina,2020-04-28,nowcast,1.4,0.7,2.3,1.1,1.7,0.15
-PE-Petrolina,2020-04-29,nowcast,1.4,0.7,2.2,1.1,1.6,0.17
-PE-Petrolina,2020-04-30,nowcast,1.4,0.7,2.1,1,1.6,0.17
-PE-Petrolina,2020-05-01,nowcast,1.3,0.6,2,1,1.5,0.21
+PE-Paulista,2020-06-24,nowcast,0.9,0.7,1.2,0.8,1,0.65
+PE-Paulista,2020-06-25,nowcast,0.9,0.7,1.2,0.8,1,0.64
+PE-Paulista,2020-06-26,nowcast,1,0.7,1.3,0.8,1,0.61
+PE-Paulista,2020-06-27,nowcast,1,0.7,1.3,0.9,1.1,0.58
+PE-Paulista,2020-06-28,nowcast,1,0.7,1.3,0.9,1.1,0.54
+PE-Paulista,2020-06-29,nowcast,1,0.7,1.3,0.9,1.1,0.48
+PE-Paulista,2020-06-30,nowcast,1,0.7,1.3,0.9,1.1,0.44
+PE-Paulista,2020-07-01,nowcast,1,0.8,1.3,0.9,1.1,0.42
+PE-Paulista,2020-07-02,nowcast,1,0.8,1.3,0.9,1.1,0.38
+PE-Paulista,2020-07-03,nowcast,1,0.8,1.3,0.9,1.1,0.38
+PE-Paulista,2020-07-04,nowcast,1,0.8,1.4,0.9,1.1,0.37
+PE-Paulista,2020-07-05,nowcast,1.1,0.8,1.3,0.9,1.1,0.37
+PE-Paulista,2020-07-06,nowcast,1,0.8,1.3,0.9,1.1,0.39
+PE-Paulista,2020-07-07,nowcast,1,0.8,1.3,0.9,1.1,0.39
+PE-Paulista,2020-07-08,nowcast,1,0.7,1.3,0.9,1.1,0.41
+PE-Paulista,2020-07-09,nowcast,1,0.8,1.3,0.9,1.1,0.39
+PE-Paulista,2020-07-10,nowcast,1,0.8,1.4,0.9,1.1,0.39
+PE-Paulista,2020-07-11,nowcast,1.1,0.8,1.3,0.9,1.1,0.35
+PE-Paulista,2020-07-12,nowcast,1.1,0.8,1.4,0.9,1.1,0.36
+PE-Paulista,2020-07-13,nowcast,1.1,0.8,1.4,0.9,1.2,0.36
+PE-Paulista,2020-07-14,forecast,1.1,0.7,1.4,0.9,1.2,0.39
+PE-Paulista,2020-07-15,forecast,1.1,0.7,1.4,0.9,1.2,0.39
+PE-Paulista,2020-07-16,forecast,1.1,0.7,1.5,0.9,1.2,0.4
+PE-Paulista,2020-07-17,forecast,1.1,0.7,1.5,0.9,1.2,0.39
+PE-Paulista,2020-07-18,forecast,1.1,0.6,1.5,0.9,1.2,0.39
+PE-Paulista,2020-07-19,forecast,1.1,0.6,1.5,0.9,1.2,0.41
+PE-Paulista,2020-07-20,forecast,1.1,0.6,1.6,0.9,1.2,0.4
+PE-Paulista,2020-07-21,forecast,1.1,0.6,1.5,0.8,1.2,0.41
+PE-Paulista,2020-07-22,forecast,1.1,0.6,1.6,0.9,1.2,0.41
+PE-Paulista,2020-07-23,forecast,1.1,0.5,1.6,0.9,1.2,0.41
+PE-Paulista,2020-07-24,forecast,1.1,0.5,1.6,0.9,1.3,0.42
+PE-Paulista,2020-07-25,forecast,1.1,0.5,1.6,0.8,1.2,0.42
+PE-Paulista,2020-07-26,forecast,1.1,0.5,1.6,0.9,1.3,0.41
+PE-Paulista,2020-07-27,forecast,1.1,0.5,1.7,0.8,1.3,0.41
+PE-Pesqueira,2020-05-23,nowcast,1.2,0.6,1.8,0.9,1.4,0.28
+PE-Pesqueira,2020-05-24,nowcast,1.2,0.6,1.8,0.9,1.4,0.3
+PE-Pesqueira,2020-05-25,nowcast,1.1,0.6,1.7,0.9,1.3,0.35
+PE-Pesqueira,2020-05-26,nowcast,1.1,0.5,1.6,0.9,1.3,0.38
+PE-Pesqueira,2020-05-27,nowcast,1,0.5,1.6,0.8,1.2,0.46
+PE-Pesqueira,2020-05-28,nowcast,1,0.4,1.5,0.8,1.2,0.52
+PE-Pesqueira,2020-05-29,nowcast,0.9,0.5,1.5,0.7,1.1,0.58
+PE-Pesqueira,2020-05-30,nowcast,0.9,0.4,1.4,0.7,1.1,0.62
+PE-Pesqueira,2020-05-31,nowcast,0.9,0.4,1.5,0.7,1.1,0.63
+PE-Pesqueira,2020-06-01,nowcast,0.9,0.4,1.5,0.7,1.1,0.61
+PE-Pesqueira,2020-06-02,nowcast,0.9,0.4,1.5,0.7,1.1,0.61
+PE-Pesqueira,2020-06-03,nowcast,0.9,0.4,1.5,0.7,1.1,0.58
+PE-Pesqueira,2020-06-04,nowcast,1,0.4,1.6,0.7,1.1,0.57
+PE-Pesqueira,2020-06-05,nowcast,1,0.5,1.6,0.8,1.2,0.48
+PE-Pesqueira,2020-06-06,nowcast,1.1,0.5,1.7,0.8,1.3,0.43
+PE-Pesqueira,2020-06-07,nowcast,1.1,0.5,1.8,0.8,1.3,0.36
+PE-Pesqueira,2020-06-08,nowcast,1.2,0.6,1.8,0.9,1.3,0.32
+PE-Pesqueira,2020-06-09,nowcast,1.2,0.6,1.9,0.9,1.4,0.25
+PE-Pesqueira,2020-06-10,nowcast,1.2,0.7,1.9,1,1.4,0.2
+PE-Pesqueira,2020-06-11,nowcast,1.3,0.7,1.9,1,1.5,0.16
+PE-Pesqueira,2020-06-12,nowcast,1.3,0.8,2,1.1,1.5,0.14
+PE-Pesqueira,2020-06-13,nowcast,1.3,0.8,2,1.1,1.5,0.13
+PE-Pesqueira,2020-06-14,nowcast,1.3,0.8,1.9,1.1,1.5,0.13
+PE-Pesqueira,2020-06-15,nowcast,1.3,0.8,1.8,1.1,1.5,0.12
+PE-Pesqueira,2020-06-16,nowcast,1.3,0.8,1.8,1.1,1.5,0.11
+PE-Pesqueira,2020-06-17,nowcast,1.3,0.8,1.8,1.1,1.5,0.12
+PE-Pesqueira,2020-06-18,nowcast,1.3,0.8,1.8,1.1,1.5,0.14
+PE-Pesqueira,2020-06-19,nowcast,1.2,0.8,1.7,1,1.4,0.17
+PE-Pesqueira,2020-06-20,nowcast,1.2,0.7,1.6,1,1.3,0.23
+PE-Pesqueira,2020-06-21,nowcast,1.1,0.7,1.5,1,1.3,0.33
+PE-Pesqueira,2020-06-22,nowcast,1,0.6,1.4,0.8,1.1,0.49
+PE-Pesqueira,2020-06-23,nowcast,0.9,0.5,1.3,0.8,1.1,0.64
+PE-Pesqueira,2020-06-24,nowcast,0.9,0.5,1.2,0.7,1,0.72
+PE-Pesqueira,2020-06-25,nowcast,0.9,0.5,1.2,0.7,1,0.74
+PE-Pesqueira,2020-06-26,nowcast,0.9,0.5,1.3,0.7,1,0.72
+PE-Pesqueira,2020-06-27,nowcast,0.9,0.5,1.4,0.7,1,0.67
+PE-Pesqueira,2020-06-28,nowcast,0.9,0.6,1.3,0.7,1,0.63
+PE-Pesqueira,2020-06-29,nowcast,0.9,0.6,1.4,0.8,1.1,0.59
+PE-Pesqueira,2020-06-30,nowcast,1,0.6,1.4,0.8,1,0.58
+PE-Pesqueira,2020-07-01,nowcast,1,0.6,1.4,0.8,1.1,0.55
+PE-Pesqueira,2020-07-02,nowcast,1,0.6,1.4,0.8,1.1,0.51
+PE-Pesqueira,2020-07-03,nowcast,1,0.6,1.5,0.9,1.2,0.46
+PE-Pesqueira,2020-07-04,nowcast,1.1,0.7,1.6,0.9,1.2,0.38
+PE-Pesqueira,2020-07-05,nowcast,1.1,0.7,1.7,0.9,1.2,0.27
+PE-Pesqueira,2020-07-06,nowcast,1.2,0.8,1.7,0.9,1.3,0.2
+PE-Pesqueira,2020-07-07,nowcast,1.3,0.8,1.8,1,1.4,0.13
+PE-Pesqueira,2020-07-08,nowcast,1.3,0.9,1.8,1.1,1.4,0.08
+PE-Pesqueira,2020-07-09,nowcast,1.4,1,1.9,1.1,1.4,0.06
+PE-Pesqueira,2020-07-10,nowcast,1.4,0.9,1.8,1.2,1.5,0.05
+PE-Pesqueira,2020-07-11,nowcast,1.4,1,1.8,1.2,1.5,0.04
+PE-Pesqueira,2020-07-12,nowcast,1.4,1,1.9,1.2,1.5,0.04
+PE-Pesqueira,2020-07-13,nowcast,1.4,1,1.8,1.2,1.5,0.04
+PE-Pesqueira,2020-07-14,forecast,1.4,0.9,2,1.2,1.6,0.09
+PE-Pesqueira,2020-07-15,forecast,1.4,0.8,2.1,1.1,1.6,0.12
+PE-Pesqueira,2020-07-16,forecast,1.4,0.7,2.1,1.1,1.7,0.14
+PE-Pesqueira,2020-07-17,forecast,1.4,0.7,2.2,1.1,1.7,0.16
+PE-Pesqueira,2020-07-18,forecast,1.4,0.6,2.2,1.1,1.7,0.16
+PE-Pesqueira,2020-07-19,forecast,1.4,0.6,2.3,1,1.7,0.18
+PE-Pesqueira,2020-07-20,forecast,1.4,0.5,2.4,1.1,1.8,0.2
+PE-Pesqueira,2020-07-21,forecast,1.4,0.5,2.4,1.1,1.8,0.2
+PE-Pesqueira,2020-07-22,forecast,1.4,0.4,2.4,1.1,1.8,0.21
+PE-Pesqueira,2020-07-23,forecast,1.5,0.4,2.5,1.1,1.9,0.21
+PE-Pesqueira,2020-07-24,forecast,1.5,0.4,2.6,1,1.9,0.22
+PE-Pesqueira,2020-07-25,forecast,1.5,0.3,2.5,1,1.9,0.22
+PE-Pesqueira,2020-07-26,forecast,1.5,0.3,2.6,1.1,2,0.23
+PE-Pesqueira,2020-07-27,forecast,1.5,0.3,2.7,1.1,2,0.24
+PE-Petrolina,2020-04-26,nowcast,1.4,0.5,2.4,1,1.6,0.19
+PE-Petrolina,2020-04-27,nowcast,1.4,0.6,2.4,1,1.7,0.18
+PE-Petrolina,2020-04-28,nowcast,1.4,0.6,2.3,1,1.7,0.15
+PE-Petrolina,2020-04-29,nowcast,1.4,0.6,2.2,1.1,1.6,0.17
+PE-Petrolina,2020-04-30,nowcast,1.4,0.6,2.1,1,1.6,0.18
+PE-Petrolina,2020-05-01,nowcast,1.3,0.6,2,1,1.5,0.22
 PE-Petrolina,2020-05-02,nowcast,1.2,0.6,1.9,1,1.5,0.27
 PE-Petrolina,2020-05-03,nowcast,1.1,0.5,1.8,0.9,1.4,0.35
-PE-Petrolina,2020-05-04,nowcast,1,0.4,1.6,0.8,1.2,0.47
-PE-Petrolina,2020-05-05,nowcast,0.9,0.4,1.5,0.7,1.2,0.56
-PE-Petrolina,2020-05-06,nowcast,0.9,0.3,1.4,0.7,1.1,0.64
-PE-Petrolina,2020-05-07,nowcast,0.9,0.4,1.4,0.7,1.1,0.64
-PE-Petrolina,2020-05-08,nowcast,0.9,0.3,1.5,0.7,1.1,0.59
-PE-Petrolina,2020-05-09,nowcast,1,0.4,1.6,0.7,1.1,0.55
-PE-Petrolina,2020-05-10,nowcast,1,0.5,1.8,0.7,1.2,0.46
-PE-Petrolina,2020-05-11,nowcast,1.1,0.5,1.8,0.8,1.2,0.41
-PE-Petrolina,2020-05-12,nowcast,1.1,0.5,1.8,0.8,1.3,0.37
-PE-Petrolina,2020-05-13,nowcast,1.1,0.5,1.8,0.9,1.4,0.35
-PE-Petrolina,2020-05-14,nowcast,1.1,0.6,1.8,0.9,1.3,0.34
-PE-Petrolina,2020-05-15,nowcast,1.1,0.5,1.7,0.8,1.3,0.34
-PE-Petrolina,2020-05-16,nowcast,1.1,0.5,1.7,0.9,1.3,0.35
-PE-Petrolina,2020-05-17,nowcast,1.1,0.5,1.7,0.8,1.3,0.36
-PE-Petrolina,2020-05-18,nowcast,1.1,0.5,1.7,0.9,1.3,0.36
-PE-Petrolina,2020-05-19,nowcast,1.1,0.5,1.6,0.9,1.3,0.36
-PE-Petrolina,2020-05-20,nowcast,1.1,0.5,1.7,0.9,1.3,0.36
-PE-Petrolina,2020-05-21,nowcast,1.1,0.6,1.7,0.9,1.3,0.35
-PE-Petrolina,2020-05-22,nowcast,1.1,0.6,1.7,0.9,1.3,0.33
-PE-Petrolina,2020-05-23,nowcast,1.1,0.6,1.7,0.9,1.3,0.32
-PE-Petrolina,2020-05-24,nowcast,1.2,0.6,1.7,0.9,1.3,0.3
-PE-Petrolina,2020-05-25,nowcast,1.2,0.7,1.7,0.9,1.3,0.27
-PE-Petrolina,2020-05-26,nowcast,1.2,0.7,1.7,1,1.3,0.27
+PE-Petrolina,2020-05-04,nowcast,1,0.4,1.6,0.8,1.3,0.47
+PE-Petrolina,2020-05-05,nowcast,0.9,0.4,1.5,0.7,1.2,0.58
+PE-Petrolina,2020-05-06,nowcast,0.9,0.3,1.4,0.7,1.1,0.63
+PE-Petrolina,2020-05-07,nowcast,0.9,0.3,1.4,0.7,1.1,0.64
+PE-Petrolina,2020-05-08,nowcast,0.9,0.4,1.5,0.7,1.1,0.6
+PE-Petrolina,2020-05-09,nowcast,1,0.4,1.7,0.7,1.1,0.53
+PE-Petrolina,2020-05-10,nowcast,1,0.5,1.7,0.7,1.2,0.46
+PE-Petrolina,2020-05-11,nowcast,1.1,0.4,1.7,0.7,1.2,0.41
+PE-Petrolina,2020-05-12,nowcast,1.1,0.5,1.9,0.8,1.3,0.38
+PE-Petrolina,2020-05-13,nowcast,1.1,0.6,1.8,0.9,1.3,0.34
+PE-Petrolina,2020-05-14,nowcast,1.2,0.6,1.8,0.9,1.4,0.32
+PE-Petrolina,2020-05-15,nowcast,1.1,0.6,1.8,0.8,1.3,0.34
+PE-Petrolina,2020-05-16,nowcast,1.1,0.5,1.7,0.9,1.3,0.32
+PE-Petrolina,2020-05-17,nowcast,1.1,0.6,1.8,0.9,1.3,0.34
+PE-Petrolina,2020-05-18,nowcast,1.1,0.6,1.7,0.9,1.3,0.36
+PE-Petrolina,2020-05-19,nowcast,1.1,0.5,1.7,0.8,1.3,0.36
+PE-Petrolina,2020-05-20,nowcast,1.1,0.5,1.7,0.9,1.3,0.38
+PE-Petrolina,2020-05-21,nowcast,1.1,0.6,1.7,0.9,1.3,0.36
+PE-Petrolina,2020-05-22,nowcast,1.1,0.6,1.8,0.9,1.3,0.31
+PE-Petrolina,2020-05-23,nowcast,1.2,0.6,1.8,0.9,1.3,0.3
+PE-Petrolina,2020-05-24,nowcast,1.2,0.7,1.7,0.9,1.3,0.29
+PE-Petrolina,2020-05-25,nowcast,1.2,0.6,1.7,0.9,1.3,0.28
+PE-Petrolina,2020-05-26,nowcast,1.2,0.7,1.7,0.9,1.3,0.27
 PE-Petrolina,2020-05-27,nowcast,1.2,0.7,1.7,1,1.3,0.26
-PE-Petrolina,2020-05-28,nowcast,1.2,0.7,1.8,0.9,1.3,0.23
-PE-Petrolina,2020-05-29,nowcast,1.2,0.7,1.8,1,1.4,0.23
-PE-Petrolina,2020-05-30,nowcast,1.2,0.7,1.8,1,1.4,0.21
-PE-Petrolina,2020-05-31,nowcast,1.2,0.8,1.7,1,1.4,0.17
-PE-Petrolina,2020-06-01,nowcast,1.2,0.8,1.8,1,1.4,0.18
+PE-Petrolina,2020-05-28,nowcast,1.2,0.6,1.7,1,1.3,0.26
+PE-Petrolina,2020-05-29,nowcast,1.2,0.7,1.8,1,1.4,0.24
+PE-Petrolina,2020-05-30,nowcast,1.2,0.7,1.7,1,1.4,0.22
+PE-Petrolina,2020-05-31,nowcast,1.2,0.8,1.8,1,1.4,0.18
+PE-Petrolina,2020-06-01,nowcast,1.3,0.7,1.8,1,1.4,0.17
 PE-Petrolina,2020-06-02,nowcast,1.3,0.8,1.8,1.1,1.4,0.15
-PE-Petrolina,2020-06-03,nowcast,1.3,0.8,1.8,1.1,1.5,0.13
-PE-Petrolina,2020-06-04,nowcast,1.3,0.9,1.8,1.1,1.4,0.1
-PE-Petrolina,2020-06-05,nowcast,1.3,0.9,1.8,1.1,1.4,0.08
-PE-Petrolina,2020-06-06,nowcast,1.4,1,1.8,1.2,1.5,0.06
-PE-Petrolina,2020-06-07,nowcast,1.4,1,1.9,1.2,1.5,0.05
+PE-Petrolina,2020-06-03,nowcast,1.3,0.8,1.8,1.1,1.4,0.11
+PE-Petrolina,2020-06-04,nowcast,1.3,0.9,1.8,1.1,1.5,0.1
+PE-Petrolina,2020-06-05,nowcast,1.3,0.9,1.8,1.1,1.5,0.08
+PE-Petrolina,2020-06-06,nowcast,1.4,0.9,1.8,1.2,1.5,0.06
+PE-Petrolina,2020-06-07,nowcast,1.4,1,1.9,1.2,1.5,0.04
 PE-Petrolina,2020-06-08,nowcast,1.4,1,1.9,1.2,1.6,0.02
-PE-Petrolina,2020-06-09,nowcast,1.5,1,1.9,1.3,1.6,0.02
+PE-Petrolina,2020-06-09,nowcast,1.5,1.1,1.9,1.3,1.6,0.01
 PE-Petrolina,2020-06-10,nowcast,1.5,1.1,1.9,1.3,1.6,0.01
-PE-Petrolina,2020-06-11,nowcast,1.5,1.1,1.9,1.3,1.6,0.02
+PE-Petrolina,2020-06-11,nowcast,1.5,1.1,1.9,1.3,1.6,0.01
 PE-Petrolina,2020-06-12,nowcast,1.4,1.1,1.8,1.3,1.6,0.02
-PE-Petrolina,2020-06-13,nowcast,1.4,1,1.8,1.2,1.5,0.03
-PE-Petrolina,2020-06-14,nowcast,1.3,1,1.7,1.2,1.5,0.04
-PE-Petrolina,2020-06-15,nowcast,1.3,0.9,1.6,1.1,1.4,0.1
-PE-Petrolina,2020-06-16,nowcast,1.2,0.8,1.5,1,1.3,0.2
-PE-Petrolina,2020-06-17,nowcast,1.1,0.8,1.4,0.9,1.2,0.34
-PE-Petrolina,2020-06-18,nowcast,1,0.7,1.3,0.9,1.1,0.48
-PE-Petrolina,2020-06-19,nowcast,1,0.7,1.2,0.9,1.1,0.56
-PE-Petrolina,2020-06-20,nowcast,1,0.7,1.2,0.9,1.1,0.58
-PE-Petrolina,2020-06-21,nowcast,1,0.8,1.2,0.9,1.1,0.53
-PE-Petrolina,2020-06-22,nowcast,1,0.8,1.2,0.9,1.1,0.53
+PE-Petrolina,2020-06-13,nowcast,1.4,1.1,1.8,1.3,1.5,0.03
+PE-Petrolina,2020-06-14,nowcast,1.3,1,1.7,1.2,1.5,0.05
+PE-Petrolina,2020-06-15,nowcast,1.3,0.9,1.6,1.1,1.4,0.09
+PE-Petrolina,2020-06-16,nowcast,1.2,0.8,1.5,1.1,1.3,0.19
+PE-Petrolina,2020-06-17,nowcast,1.1,0.8,1.4,1,1.2,0.31
+PE-Petrolina,2020-06-18,nowcast,1,0.7,1.3,0.9,1.1,0.49
+PE-Petrolina,2020-06-19,nowcast,1,0.7,1.2,0.9,1.1,0.58
+PE-Petrolina,2020-06-20,nowcast,1,0.7,1.2,0.9,1.1,0.59
+PE-Petrolina,2020-06-21,nowcast,1,0.8,1.2,0.9,1.1,0.55
+PE-Petrolina,2020-06-22,nowcast,1,0.8,1.2,0.9,1.1,0.54
 PE-Petrolina,2020-06-23,nowcast,1,0.8,1.2,0.9,1.1,0.49
 PE-Petrolina,2020-06-24,nowcast,1,0.8,1.3,0.9,1.1,0.44
-PE-Petrolina,2020-06-25,nowcast,1,0.8,1.2,0.9,1.1,0.42
-PE-Petrolina,2020-06-26,nowcast,1,0.8,1.3,0.9,1.1,0.39
+PE-Petrolina,2020-06-25,nowcast,1,0.8,1.3,0.9,1.1,0.42
+PE-Petrolina,2020-06-26,nowcast,1,0.8,1.3,0.9,1.1,0.38
 PE-Petrolina,2020-06-27,nowcast,1,0.8,1.3,0.9,1.1,0.38
-PE-Petrolina,2020-06-28,nowcast,1,0.8,1.3,0.9,1.1,0.39
+PE-Petrolina,2020-06-28,nowcast,1,0.8,1.3,1,1.1,0.38
 PE-Petrolina,2020-06-29,nowcast,1,0.8,1.2,0.9,1.1,0.43
-PE-Petrolina,2020-06-30,nowcast,1,0.8,1.2,0.9,1.1,0.45
-PE-Petrolina,2020-07-01,nowcast,1,0.8,1.2,0.9,1.1,0.51
-PE-Petrolina,2020-07-02,nowcast,1,0.8,1.2,0.9,1.1,0.51
-PE-Petrolina,2020-07-03,nowcast,1,0.8,1.2,0.9,1.1,0.52
-PE-Petrolina,2020-07-04,nowcast,1,0.8,1.2,0.9,1.1,0.5
-PE-Petrolina,2020-07-05,nowcast,1,0.8,1.3,0.9,1.1,0.43
-PE-Petrolina,2020-07-06,nowcast,1,0.8,1.3,0.9,1.1,0.38
-PE-Petrolina,2020-07-07,nowcast,1.1,0.8,1.3,1,1.1,0.33
-PE-Petrolina,2020-07-08,nowcast,1.1,0.8,1.3,1,1.1,0.29
-PE-Petrolina,2020-07-09,nowcast,1.1,0.8,1.3,1,1.2,0.26
-PE-Petrolina,2020-07-10,nowcast,1.1,0.8,1.4,1,1.2,0.21
-PE-Petrolina,2020-07-11,nowcast,1.1,0.8,1.4,1,1.2,0.2
-PE-Petrolina,2020-07-12,forecast,1.1,0.8,1.4,1,1.2,0.28
-PE-Petrolina,2020-07-13,forecast,1.1,0.8,1.4,0.9,1.2,0.29
-PE-Petrolina,2020-07-14,forecast,1.1,0.8,1.4,0.9,1.2,0.31
-PE-Petrolina,2020-07-15,forecast,1.1,0.8,1.5,0.9,1.2,0.33
-PE-Petrolina,2020-07-16,forecast,1.1,0.7,1.5,0.9,1.2,0.32
-PE-Petrolina,2020-07-17,forecast,1.1,0.7,1.5,0.9,1.2,0.33
-PE-Petrolina,2020-07-18,forecast,1.1,0.7,1.5,0.9,1.2,0.33
-PE-Petrolina,2020-07-19,forecast,1.1,0.7,1.5,0.9,1.2,0.34
-PE-Petrolina,2020-07-20,forecast,1.1,0.7,1.6,0.9,1.2,0.34
-PE-Petrolina,2020-07-21,forecast,1.1,0.7,1.5,0.9,1.2,0.35
-PE-Petrolina,2020-07-22,forecast,1.1,0.6,1.6,0.9,1.3,0.34
-PE-Petrolina,2020-07-23,forecast,1.1,0.6,1.6,0.9,1.3,0.34
-PE-Petrolina,2020-07-24,forecast,1.1,0.6,1.6,0.9,1.2,0.35
-PE-Petrolina,2020-07-25,forecast,1.1,0.6,1.6,0.9,1.3,0.36
-PE-Recife,2020-03-17,nowcast,1.5,0.8,2.3,1.2,1.8,0.09
-PE-Recife,2020-03-18,nowcast,1.5,0.8,2.4,1.2,1.8,0.08
-PE-Recife,2020-03-19,nowcast,1.6,0.9,2.4,1.3,1.8,0.05
-PE-Recife,2020-03-20,nowcast,1.6,0.9,2.3,1.3,1.8,0.05
+PE-Petrolina,2020-06-30,nowcast,1,0.8,1.2,0.9,1.1,0.49
+PE-Petrolina,2020-07-01,nowcast,1,0.8,1.2,0.9,1.1,0.53
+PE-Petrolina,2020-07-02,nowcast,1,0.8,1.2,0.9,1.1,0.58
+PE-Petrolina,2020-07-03,nowcast,1,0.8,1.2,0.9,1.1,0.57
+PE-Petrolina,2020-07-04,nowcast,1,0.8,1.2,0.9,1.1,0.56
+PE-Petrolina,2020-07-05,nowcast,1,0.8,1.2,0.9,1.1,0.5
+PE-Petrolina,2020-07-06,nowcast,1,0.8,1.2,0.9,1.1,0.49
+PE-Petrolina,2020-07-07,nowcast,1,0.8,1.3,0.9,1.1,0.46
+PE-Petrolina,2020-07-08,nowcast,1,0.8,1.3,0.9,1.1,0.43
+PE-Petrolina,2020-07-09,nowcast,1,0.8,1.3,0.9,1.1,0.38
+PE-Petrolina,2020-07-10,nowcast,1,0.8,1.3,0.9,1.1,0.36
+PE-Petrolina,2020-07-11,nowcast,1,0.8,1.3,0.9,1.1,0.38
+PE-Petrolina,2020-07-12,nowcast,1,0.8,1.3,0.9,1.1,0.4
+PE-Petrolina,2020-07-13,nowcast,1,0.7,1.2,0.9,1.1,0.51
+PE-Petrolina,2020-07-14,forecast,1,0.7,1.3,0.9,1.1,0.46
+PE-Petrolina,2020-07-15,forecast,1,0.7,1.3,0.9,1.1,0.47
+PE-Petrolina,2020-07-16,forecast,1,0.7,1.3,0.9,1.1,0.47
+PE-Petrolina,2020-07-17,forecast,1,0.7,1.3,0.9,1.2,0.47
+PE-Petrolina,2020-07-18,forecast,1,0.7,1.4,0.9,1.1,0.46
+PE-Petrolina,2020-07-19,forecast,1,0.7,1.4,0.9,1.1,0.48
+PE-Petrolina,2020-07-20,forecast,1,0.7,1.4,0.9,1.2,0.46
+PE-Petrolina,2020-07-21,forecast,1,0.6,1.4,0.9,1.1,0.48
+PE-Petrolina,2020-07-22,forecast,1,0.7,1.4,0.9,1.2,0.47
+PE-Petrolina,2020-07-23,forecast,1,0.6,1.4,0.9,1.2,0.48
+PE-Petrolina,2020-07-24,forecast,1,0.6,1.4,0.9,1.2,0.47
+PE-Petrolina,2020-07-25,forecast,1,0.5,1.4,0.9,1.2,0.48
+PE-Petrolina,2020-07-26,forecast,1,0.6,1.4,0.9,1.2,0.47
+PE-Petrolina,2020-07-27,forecast,1,0.5,1.4,0.9,1.2,0.48
+PE-Recife,2020-03-17,nowcast,1.5,0.8,2.4,1.2,1.8,0.09
+PE-Recife,2020-03-18,nowcast,1.6,0.9,2.4,1.3,1.8,0.07
+PE-Recife,2020-03-19,nowcast,1.6,0.9,2.3,1.2,1.7,0.06
+PE-Recife,2020-03-20,nowcast,1.6,0.9,2.3,1.3,1.8,0.04
 PE-Recife,2020-03-21,nowcast,1.6,1,2.3,1.3,1.8,0.03
-PE-Recife,2020-03-22,nowcast,1.7,1.1,2.4,1.4,1.9,0.02
+PE-Recife,2020-03-22,nowcast,1.7,1.1,2.4,1.4,1.8,0.02
 PE-Recife,2020-03-23,nowcast,1.7,1.2,2.3,1.4,1.9,0.01
-PE-Recife,2020-03-24,nowcast,1.7,1.2,2.4,1.4,1.9,0
-PE-Recife,2020-03-25,nowcast,1.7,1.2,2.3,1.5,1.9,0
-PE-Recife,2020-03-26,nowcast,1.7,1.3,2.3,1.5,1.9,0
+PE-Recife,2020-03-24,nowcast,1.7,1.2,2.3,1.4,1.9,0.01
+PE-Recife,2020-03-25,nowcast,1.7,1.2,2.3,1.5,1.9,0.01
+PE-Recife,2020-03-26,nowcast,1.7,1.2,2.2,1.5,1.9,0
 PE-Recife,2020-03-27,nowcast,1.7,1.3,2.2,1.5,1.8,0
-PE-Recife,2020-03-28,nowcast,1.7,1.3,2.2,1.5,1.9,0
-PE-Recife,2020-03-29,nowcast,1.7,1.3,2.2,1.5,1.8,0
+PE-Recife,2020-03-28,nowcast,1.7,1.3,2.2,1.5,1.8,0
+PE-Recife,2020-03-29,nowcast,1.7,1.3,2.1,1.5,1.8,0
 PE-Recife,2020-03-30,nowcast,1.7,1.3,2.1,1.5,1.8,0
-PE-Recife,2020-03-31,nowcast,1.7,1.3,2,1.5,1.8,0
-PE-Recife,2020-04-01,nowcast,1.6,1.3,2,1.5,1.7,0
-PE-Recife,2020-04-02,nowcast,1.6,1.3,1.9,1.5,1.7,0
+PE-Recife,2020-03-31,nowcast,1.6,1.3,2,1.5,1.7,0
+PE-Recife,2020-04-01,nowcast,1.6,1.3,2,1.4,1.7,0
+PE-Recife,2020-04-02,nowcast,1.6,1.3,1.9,1.4,1.7,0
 PE-Recife,2020-04-03,nowcast,1.6,1.3,1.9,1.4,1.7,0
 PE-Recife,2020-04-04,nowcast,1.5,1.2,1.8,1.4,1.6,0
-PE-Recife,2020-04-05,nowcast,1.5,1.2,1.7,1.4,1.6,0
+PE-Recife,2020-04-05,nowcast,1.5,1.2,1.8,1.4,1.6,0
 PE-Recife,2020-04-06,nowcast,1.4,1.2,1.7,1.3,1.5,0
 PE-Recife,2020-04-07,nowcast,1.4,1.2,1.6,1.3,1.5,0
 PE-Recife,2020-04-08,nowcast,1.4,1.2,1.6,1.3,1.5,0
 PE-Recife,2020-04-09,nowcast,1.4,1.2,1.6,1.3,1.4,0
-PE-Recife,2020-04-10,nowcast,1.3,1.1,1.5,1.3,1.4,0
+PE-Recife,2020-04-10,nowcast,1.3,1.2,1.5,1.3,1.4,0
 PE-Recife,2020-04-11,nowcast,1.3,1.2,1.5,1.3,1.4,0
 PE-Recife,2020-04-12,nowcast,1.3,1.2,1.5,1.2,1.4,0
-PE-Recife,2020-04-13,nowcast,1.3,1.2,1.5,1.3,1.4,0
+PE-Recife,2020-04-13,nowcast,1.3,1.2,1.5,1.2,1.4,0
 PE-Recife,2020-04-14,nowcast,1.3,1.2,1.5,1.2,1.4,0
-PE-Recife,2020-04-15,nowcast,1.3,1.1,1.4,1.2,1.3,0
+PE-Recife,2020-04-15,nowcast,1.3,1.2,1.4,1.2,1.3,0
 PE-Recife,2020-04-16,nowcast,1.3,1.1,1.4,1.2,1.3,0
 PE-Recife,2020-04-17,nowcast,1.3,1.1,1.4,1.2,1.3,0
 PE-Recife,2020-04-18,nowcast,1.3,1.1,1.4,1.2,1.3,0
 PE-Recife,2020-04-19,nowcast,1.3,1.1,1.4,1.2,1.3,0
 PE-Recife,2020-04-20,nowcast,1.2,1.1,1.4,1.2,1.3,0
 PE-Recife,2020-04-21,nowcast,1.2,1.1,1.4,1.2,1.3,0
-PE-Recife,2020-04-22,nowcast,1.2,1.1,1.3,1.2,1.3,0
+PE-Recife,2020-04-22,nowcast,1.2,1.1,1.3,1.1,1.2,0.01
 PE-Recife,2020-04-23,nowcast,1.2,1,1.3,1.1,1.2,0.02
 PE-Recife,2020-04-24,nowcast,1.1,1,1.2,1.1,1.2,0.06
-PE-Recife,2020-04-25,nowcast,1.1,0.9,1.2,1,1.1,0.17
-PE-Recife,2020-04-26,nowcast,1,0.9,1.1,1,1.1,0.23
-PE-Recife,2020-04-27,nowcast,1.1,1,1.1,1,1.1,0.2
-PE-Recife,2020-04-28,nowcast,1.1,1,1.1,1,1.1,0.17
-PE-Recife,2020-04-29,nowcast,1.1,1,1.1,1,1.1,0.1
-PE-Recife,2020-04-30,nowcast,1.1,1,1.2,1,1.1,0.05
+PE-Recife,2020-04-25,nowcast,1.1,1,1.2,1,1.1,0.17
+PE-Recife,2020-04-26,nowcast,1.1,0.9,1.1,1,1.1,0.21
+PE-Recife,2020-04-27,nowcast,1,1,1.1,1,1.1,0.21
+PE-Recife,2020-04-28,nowcast,1.1,1,1.1,1,1.1,0.14
+PE-Recife,2020-04-29,nowcast,1.1,1,1.1,1,1.1,0.09
+PE-Recife,2020-04-30,nowcast,1.1,1,1.2,1,1.1,0.06
 PE-Recife,2020-05-01,nowcast,1.1,1,1.2,1.1,1.1,0.02
 PE-Recife,2020-05-02,nowcast,1.1,1,1.2,1.1,1.2,0
-PE-Recife,2020-05-03,nowcast,1.1,1.1,1.2,1.1,1.2,0
+PE-Recife,2020-05-03,nowcast,1.1,1.1,1.3,1.1,1.2,0
 PE-Recife,2020-05-04,nowcast,1.1,1.1,1.2,1.1,1.2,0
 PE-Recife,2020-05-05,nowcast,1.1,1.1,1.2,1.1,1.2,0
 PE-Recife,2020-05-06,nowcast,1.1,1,1.2,1.1,1.2,0.02
 PE-Recife,2020-05-07,nowcast,1.1,1,1.2,1.1,1.1,0.04
-PE-Recife,2020-05-08,nowcast,1.1,1,1.2,1.1,1.1,0.06
+PE-Recife,2020-05-08,nowcast,1.1,1,1.2,1.1,1.1,0.05
 PE-Recife,2020-05-09,nowcast,1.1,1,1.2,1.1,1.1,0.05
-PE-Recife,2020-05-10,nowcast,1.1,1,1.2,1.1,1.1,0.04
-PE-Recife,2020-05-11,nowcast,1.1,1,1.2,1.1,1.1,0.05
-PE-Recife,2020-05-12,nowcast,1.1,1,1.2,1,1.1,0.06
+PE-Recife,2020-05-10,nowcast,1.1,1,1.2,1.1,1.1,0.03
+PE-Recife,2020-05-11,nowcast,1.1,1,1.2,1.1,1.1,0.04
+PE-Recife,2020-05-12,nowcast,1.1,1,1.2,1,1.1,0.08
 PE-Recife,2020-05-13,nowcast,1.1,1,1.1,1,1.1,0.16
-PE-Recife,2020-05-14,nowcast,1,0.9,1.1,1,1.1,0.31
-PE-Recife,2020-05-15,nowcast,1,0.9,1.1,0.9,1,0.6
+PE-Recife,2020-05-14,nowcast,1,0.9,1.1,1,1.1,0.34
+PE-Recife,2020-05-15,nowcast,1,0.9,1.1,1,1,0.61
 PE-Recife,2020-05-16,nowcast,1,0.9,1,0.9,1,0.8
 PE-Recife,2020-05-17,nowcast,0.9,0.8,1,0.9,1,0.93
 PE-Recife,2020-05-18,nowcast,0.9,0.8,1,0.9,0.9,0.99
@@ -906,182 +998,188 @@ PE-Recife,2020-05-28,nowcast,0.8,0.7,0.9,0.8,0.8,1
 PE-Recife,2020-05-29,nowcast,0.8,0.7,0.9,0.8,0.9,1
 PE-Recife,2020-05-30,nowcast,0.8,0.8,0.9,0.8,0.9,0.99
 PE-Recife,2020-05-31,nowcast,0.9,0.8,1,0.8,0.9,0.98
-PE-Recife,2020-06-01,nowcast,0.9,0.8,1,0.8,0.9,0.96
-PE-Recife,2020-06-02,nowcast,0.9,0.8,1,0.8,0.9,0.95
-PE-Recife,2020-06-03,nowcast,0.9,0.8,1,0.9,0.9,0.94
-PE-Recife,2020-06-04,nowcast,0.9,0.8,1,0.9,0.9,0.94
-PE-Recife,2020-06-05,nowcast,0.9,0.8,1,0.9,1,0.91
-PE-Recife,2020-06-06,nowcast,0.9,0.8,1,0.9,1,0.86
-PE-Recife,2020-06-07,nowcast,0.9,0.9,1,0.9,1,0.84
+PE-Recife,2020-06-01,nowcast,0.9,0.8,1,0.8,0.9,0.97
+PE-Recife,2020-06-02,nowcast,0.9,0.8,1,0.8,0.9,0.96
+PE-Recife,2020-06-03,nowcast,0.9,0.8,1,0.8,0.9,0.94
+PE-Recife,2020-06-04,nowcast,0.9,0.8,1,0.9,0.9,0.93
+PE-Recife,2020-06-05,nowcast,0.9,0.8,1,0.9,0.9,0.89
+PE-Recife,2020-06-06,nowcast,0.9,0.8,1,0.9,1,0.85
+PE-Recife,2020-06-07,nowcast,0.9,0.9,1,0.9,1,0.82
 PE-Recife,2020-06-08,nowcast,0.9,0.9,1,0.9,1,0.82
-PE-Recife,2020-06-09,nowcast,0.9,0.9,1,0.9,1,0.84
+PE-Recife,2020-06-09,nowcast,0.9,0.9,1,0.9,1,0.85
 PE-Recife,2020-06-10,nowcast,0.9,0.9,1,0.9,1,0.86
 PE-Recife,2020-06-11,nowcast,0.9,0.9,1,0.9,1,0.86
-PE-Recife,2020-06-12,nowcast,0.9,0.9,1,0.9,1,0.85
-PE-Recife,2020-06-13,nowcast,0.9,0.9,1,0.9,1,0.85
-PE-Recife,2020-06-14,nowcast,0.9,0.9,1,0.9,1,0.85
-PE-Recife,2020-06-15,nowcast,0.9,0.8,1,0.9,1,0.87
+PE-Recife,2020-06-12,nowcast,0.9,0.9,1,0.9,1,0.86
+PE-Recife,2020-06-13,nowcast,0.9,0.8,1,0.9,1,0.85
+PE-Recife,2020-06-14,nowcast,0.9,0.8,1,0.9,1,0.84
+PE-Recife,2020-06-15,nowcast,0.9,0.8,1,0.9,1,0.88
 PE-Recife,2020-06-16,nowcast,0.9,0.8,1,0.9,1,0.91
-PE-Recife,2020-06-17,nowcast,0.9,0.8,1,0.9,1,0.93
-PE-Recife,2020-06-18,nowcast,0.9,0.8,1,0.9,1,0.94
-PE-Recife,2020-06-19,nowcast,0.9,0.8,1,0.9,1,0.91
-PE-Recife,2020-06-20,nowcast,0.9,0.8,1,0.9,1,0.87
-PE-Recife,2020-06-21,nowcast,0.9,0.8,1.1,0.9,1,0.81
-PE-Recife,2020-06-22,nowcast,1,0.9,1.1,0.9,1,0.74
-PE-Recife,2020-06-23,nowcast,1,0.9,1.1,0.9,1,0.65
-PE-Recife,2020-06-24,nowcast,1,0.9,1.1,0.9,1,0.58
-PE-Recife,2020-06-25,nowcast,1,0.9,1.1,0.9,1,0.48
-PE-Recife,2020-06-26,nowcast,1,0.9,1.2,1,1.1,0.35
+PE-Recife,2020-06-17,nowcast,0.9,0.8,1,0.9,1,0.92
+PE-Recife,2020-06-18,nowcast,0.9,0.8,1,0.9,1,0.93
+PE-Recife,2020-06-19,nowcast,0.9,0.8,1,0.9,1,0.9
+PE-Recife,2020-06-20,nowcast,0.9,0.8,1,0.9,1,0.85
+PE-Recife,2020-06-21,nowcast,0.9,0.8,1.1,0.9,1,0.78
+PE-Recife,2020-06-22,nowcast,1,0.9,1.1,0.9,1,0.71
+PE-Recife,2020-06-23,nowcast,1,0.9,1.1,0.9,1,0.66
+PE-Recife,2020-06-24,nowcast,1,0.9,1.1,0.9,1,0.56
+PE-Recife,2020-06-25,nowcast,1,0.9,1.1,1,1,0.45
+PE-Recife,2020-06-26,nowcast,1,0.9,1.2,1,1.1,0.33
 PE-Recife,2020-06-27,nowcast,1,0.9,1.2,1,1.1,0.23
-PE-Recife,2020-06-28,nowcast,1.1,1,1.2,1,1.1,0.14
-PE-Recife,2020-06-29,nowcast,1.1,1,1.2,1,1.1,0.12
-PE-Recife,2020-06-30,nowcast,1.1,1,1.2,1,1.1,0.1
-PE-Recife,2020-07-01,nowcast,1.1,1,1.2,1,1.1,0.12
-PE-Recife,2020-07-02,nowcast,1.1,1,1.2,1,1.1,0.17
-PE-Recife,2020-07-03,nowcast,1.1,0.9,1.1,1,1.1,0.19
-PE-Recife,2020-07-04,nowcast,1,0.9,1.2,1,1.1,0.24
-PE-Recife,2020-07-05,nowcast,1,0.9,1.1,1,1.1,0.29
-PE-Recife,2020-07-06,nowcast,1,0.9,1.1,1,1.1,0.4
-PE-Recife,2020-07-07,nowcast,1,0.9,1.1,1,1,0.55
-PE-Recife,2020-07-08,nowcast,1,0.8,1.1,0.9,1,0.72
-PE-Recife,2020-07-09,nowcast,0.9,0.8,1,0.9,1,0.84
-PE-Recife,2020-07-10,nowcast,0.9,0.8,1,0.9,1,0.92
-PE-Recife,2020-07-11,nowcast,0.9,0.8,1,0.9,1,0.97
-PE-Recife,2020-07-12,nowcast,0.9,0.8,1,0.8,0.9,0.98
-PE-Recife,2020-07-13,nowcast,0.9,0.7,1,0.8,0.9,0.99
-PE-Recife,2020-07-14,forecast,0.9,0.7,1,0.8,0.9,0.95
-PE-Recife,2020-07-15,forecast,0.9,0.7,1,0.8,0.9,0.91
-PE-Recife,2020-07-16,forecast,0.9,0.7,1,0.8,0.9,0.9
-PE-Recife,2020-07-17,forecast,0.9,0.6,1.1,0.8,1,0.88
-PE-Recife,2020-07-18,forecast,0.9,0.6,1.1,0.8,1,0.87
-PE-Recife,2020-07-19,forecast,0.9,0.6,1.1,0.8,1,0.85
-PE-Recife,2020-07-20,forecast,0.9,0.6,1.1,0.8,1,0.84
-PE-Recife,2020-07-21,forecast,0.9,0.6,1.1,0.8,1,0.83
-PE-Recife,2020-07-22,forecast,0.9,0.6,1.1,0.8,1,0.82
-PE-Recife,2020-07-23,forecast,0.9,0.5,1.1,0.8,1,0.81
-PE-Recife,2020-07-24,forecast,0.9,0.5,1.1,0.8,1,0.8
-PE-Recife,2020-07-25,forecast,0.9,0.5,1.2,0.8,1,0.8
-PE-Recife,2020-07-26,forecast,0.8,0.5,1.2,0.7,1,0.8
-PE-Recife,2020-07-27,forecast,0.9,0.5,1.2,0.7,1,0.79
-PE-Santa Cruz do Capibaribe,2020-06-03,nowcast,1.5,0.8,2.2,1.2,1.7,0.1
+PE-Recife,2020-06-28,nowcast,1.1,1,1.2,1,1.1,0.13
+PE-Recife,2020-06-29,nowcast,1.1,1,1.2,1,1.1,0.1
+PE-Recife,2020-06-30,nowcast,1.1,1,1.2,1,1.1,0.09
+PE-Recife,2020-07-01,nowcast,1.1,1,1.2,1,1.1,0.1
+PE-Recife,2020-07-02,nowcast,1.1,1,1.2,1,1.1,0.13
+PE-Recife,2020-07-03,nowcast,1.1,1,1.2,1,1.1,0.15
+PE-Recife,2020-07-04,nowcast,1.1,1,1.2,1,1.1,0.18
+PE-Recife,2020-07-05,nowcast,1,0.9,1.1,1,1.1,0.2
+PE-Recife,2020-07-06,nowcast,1,0.9,1.1,1,1.1,0.27
+PE-Recife,2020-07-07,nowcast,1,0.9,1.1,1,1.1,0.37
+PE-Recife,2020-07-08,nowcast,1,0.9,1.1,1,1,0.49
+PE-Recife,2020-07-09,nowcast,1,0.9,1.1,1,1,0.58
+PE-Recife,2020-07-10,nowcast,1,0.9,1.1,0.9,1,0.64
+PE-Recife,2020-07-11,nowcast,1,0.9,1.1,0.9,1,0.65
+PE-Recife,2020-07-12,nowcast,1,0.9,1.1,0.9,1,0.65
+PE-Recife,2020-07-13,nowcast,1,0.9,1.1,0.9,1,0.66
+PE-Recife,2020-07-14,nowcast,1,0.9,1.1,0.9,1,0.65
+PE-Recife,2020-07-15,forecast,1,0.9,1.1,0.9,1,0.59
+PE-Recife,2020-07-16,forecast,1,0.9,1.1,0.9,1,0.57
+PE-Recife,2020-07-17,forecast,1,0.8,1.2,0.9,1.1,0.55
+PE-Recife,2020-07-18,forecast,1,0.8,1.2,0.9,1,0.55
+PE-Recife,2020-07-19,forecast,1,0.8,1.2,0.9,1.1,0.54
+PE-Recife,2020-07-20,forecast,1,0.8,1.2,0.9,1.1,0.54
+PE-Recife,2020-07-21,forecast,1,0.8,1.2,0.9,1.1,0.56
+PE-Recife,2020-07-22,forecast,1,0.8,1.2,0.9,1.1,0.55
+PE-Recife,2020-07-23,forecast,1,0.8,1.2,0.9,1.1,0.56
+PE-Recife,2020-07-24,forecast,1,0.8,1.2,0.9,1.1,0.55
+PE-Recife,2020-07-25,forecast,1,0.7,1.2,0.9,1.1,0.54
+PE-Recife,2020-07-26,forecast,1,0.7,1.2,0.9,1.1,0.55
+PE-Recife,2020-07-27,forecast,1,0.7,1.2,0.9,1.1,0.54
+PE-Recife,2020-07-28,forecast,1,0.7,1.2,0.9,1.1,0.54
+PE-Santa Cruz do Capibaribe,2020-06-03,nowcast,1.5,0.7,2.2,1.1,1.7,0.1
 PE-Santa Cruz do Capibaribe,2020-06-04,nowcast,1.5,0.9,2.2,1.2,1.7,0.08
-PE-Santa Cruz do Capibaribe,2020-06-05,nowcast,1.5,0.9,2.1,1.2,1.7,0.08
-PE-Santa Cruz do Capibaribe,2020-06-06,nowcast,1.4,0.9,2.1,1.2,1.6,0.07
-PE-Santa Cruz do Capibaribe,2020-06-07,nowcast,1.5,0.9,2.1,1.2,1.7,0.07
+PE-Santa Cruz do Capibaribe,2020-06-05,nowcast,1.5,0.9,2.1,1.2,1.6,0.08
+PE-Santa Cruz do Capibaribe,2020-06-06,nowcast,1.5,0.9,2.1,1.2,1.7,0.07
+PE-Santa Cruz do Capibaribe,2020-06-07,nowcast,1.5,0.9,2,1.2,1.6,0.06
 PE-Santa Cruz do Capibaribe,2020-06-08,nowcast,1.4,0.9,2,1.2,1.6,0.06
-PE-Santa Cruz do Capibaribe,2020-06-09,nowcast,1.4,0.9,1.9,1.2,1.6,0.06
+PE-Santa Cruz do Capibaribe,2020-06-09,nowcast,1.4,0.9,1.9,1.2,1.6,0.07
 PE-Santa Cruz do Capibaribe,2020-06-10,nowcast,1.4,1,1.9,1.2,1.6,0.05
 PE-Santa Cruz do Capibaribe,2020-06-11,nowcast,1.4,1,1.9,1.2,1.6,0.05
 PE-Santa Cruz do Capibaribe,2020-06-12,nowcast,1.4,1,1.9,1.2,1.6,0.04
-PE-Santa Cruz do Capibaribe,2020-06-13,nowcast,1.4,1,1.9,1.2,1.5,0.03
-PE-Santa Cruz do Capibaribe,2020-06-14,nowcast,1.4,1.1,1.8,1.3,1.6,0.02
-PE-Santa Cruz do Capibaribe,2020-06-15,nowcast,1.4,1.1,1.9,1.3,1.6,0.02
+PE-Santa Cruz do Capibaribe,2020-06-13,nowcast,1.4,1,1.9,1.2,1.6,0.03
+PE-Santa Cruz do Capibaribe,2020-06-14,nowcast,1.4,1,1.9,1.2,1.5,0.03
+PE-Santa Cruz do Capibaribe,2020-06-15,nowcast,1.4,1.1,1.8,1.3,1.6,0.02
 PE-Santa Cruz do Capibaribe,2020-06-16,nowcast,1.4,1.1,1.8,1.3,1.6,0.02
 PE-Santa Cruz do Capibaribe,2020-06-17,nowcast,1.5,1.1,1.8,1.3,1.6,0.01
 PE-Santa Cruz do Capibaribe,2020-06-18,nowcast,1.5,1.1,1.8,1.3,1.6,0.01
-PE-Santa Cruz do Capibaribe,2020-06-19,nowcast,1.4,1.1,1.8,1.3,1.6,0.01
+PE-Santa Cruz do Capibaribe,2020-06-19,nowcast,1.4,1.1,1.8,1.3,1.5,0.01
 PE-Santa Cruz do Capibaribe,2020-06-20,nowcast,1.4,1.1,1.7,1.3,1.5,0.02
-PE-Santa Cruz do Capibaribe,2020-06-21,nowcast,1.4,1,1.7,1.2,1.5,0.02
+PE-Santa Cruz do Capibaribe,2020-06-21,nowcast,1.4,1,1.7,1.2,1.5,0.03
 PE-Santa Cruz do Capibaribe,2020-06-22,nowcast,1.3,1,1.6,1.2,1.4,0.05
-PE-Santa Cruz do Capibaribe,2020-06-23,nowcast,1.2,1,1.5,1.2,1.4,0.08
+PE-Santa Cruz do Capibaribe,2020-06-23,nowcast,1.2,0.9,1.5,1.1,1.4,0.08
 PE-Santa Cruz do Capibaribe,2020-06-24,nowcast,1.2,0.9,1.4,1.1,1.3,0.13
-PE-Santa Cruz do Capibaribe,2020-06-25,nowcast,1.1,0.9,1.4,1.1,1.2,0.15
-PE-Santa Cruz do Capibaribe,2020-06-26,nowcast,1.1,0.9,1.3,1.1,1.2,0.18
+PE-Santa Cruz do Capibaribe,2020-06-25,nowcast,1.2,0.9,1.4,1.1,1.3,0.16
+PE-Santa Cruz do Capibaribe,2020-06-26,nowcast,1.1,0.9,1.4,1,1.2,0.18
 PE-Santa Cruz do Capibaribe,2020-06-27,nowcast,1.1,0.9,1.3,1,1.2,0.18
-PE-Santa Cruz do Capibaribe,2020-06-28,nowcast,1.1,0.9,1.3,1,1.2,0.18
+PE-Santa Cruz do Capibaribe,2020-06-28,nowcast,1.1,0.9,1.3,1,1.2,0.19
 PE-Santa Cruz do Capibaribe,2020-06-29,nowcast,1.1,0.9,1.3,1,1.2,0.2
-PE-Santa Cruz do Capibaribe,2020-06-30,nowcast,1.1,0.9,1.3,1,1.2,0.25
-PE-Santa Cruz do Capibaribe,2020-07-01,nowcast,1,0.8,1.2,1,1.1,0.33
-PE-Santa Cruz do Capibaribe,2020-07-02,nowcast,1,0.8,1.2,1,1.1,0.41
-PE-Santa Cruz do Capibaribe,2020-07-03,nowcast,1,0.8,1.2,0.9,1.1,0.48
-PE-Santa Cruz do Capibaribe,2020-07-04,nowcast,1,0.8,1.2,0.9,1.1,0.52
-PE-Santa Cruz do Capibaribe,2020-07-05,nowcast,1,0.8,1.2,0.9,1.1,0.54
-PE-Santa Cruz do Capibaribe,2020-07-06,nowcast,1,0.8,1.2,0.9,1.1,0.57
-PE-Santa Cruz do Capibaribe,2020-07-07,nowcast,1,0.8,1.2,0.9,1,0.61
-PE-Santa Cruz do Capibaribe,2020-07-08,nowcast,1,0.8,1.2,0.9,1,0.62
-PE-Santa Cruz do Capibaribe,2020-07-09,nowcast,1,0.8,1.2,0.9,1,0.61
-PE-Santa Cruz do Capibaribe,2020-07-10,nowcast,1,0.8,1.2,0.9,1,0.59
-PE-Santa Cruz do Capibaribe,2020-07-11,forecast,1,0.7,1.3,0.9,1.1,0.58
-PE-Santa Cruz do Capibaribe,2020-07-12,forecast,1,0.6,1.3,0.8,1.1,0.58
-PE-Santa Cruz do Capibaribe,2020-07-13,forecast,1,0.6,1.3,0.8,1.1,0.58
-PE-Santa Cruz do Capibaribe,2020-07-14,forecast,1,0.6,1.4,0.8,1.1,0.57
-PE-Santa Cruz do Capibaribe,2020-07-15,forecast,0.9,0.6,1.4,0.8,1.1,0.59
-PE-Santa Cruz do Capibaribe,2020-07-16,forecast,0.9,0.5,1.4,0.8,1.1,0.59
-PE-Santa Cruz do Capibaribe,2020-07-17,forecast,0.9,0.5,1.4,0.7,1.1,0.59
-PE-Santa Cruz do Capibaribe,2020-07-18,forecast,0.9,0.4,1.4,0.7,1.1,0.6
-PE-Santa Cruz do Capibaribe,2020-07-19,forecast,0.9,0.4,1.4,0.7,1.1,0.59
-PE-Santa Cruz do Capibaribe,2020-07-20,forecast,0.9,0.4,1.5,0.7,1.1,0.61
-PE-Santa Cruz do Capibaribe,2020-07-21,forecast,0.9,0.3,1.5,0.7,1.2,0.59
-PE-Santa Cruz do Capibaribe,2020-07-22,forecast,0.9,0.3,1.5,0.6,1.1,0.6
-PE-Santa Cruz do Capibaribe,2020-07-23,forecast,0.9,0.3,1.6,0.6,1.1,0.6
-PE-Santa Cruz do Capibaribe,2020-07-24,forecast,0.9,0.2,1.5,0.6,1.1,0.61
-PE-Serra Talhada,2020-05-17,nowcast,1.2,0.7,1.8,1,1.5,0.21
-PE-Serra Talhada,2020-05-18,nowcast,1.2,0.6,1.7,1,1.4,0.28
-PE-Serra Talhada,2020-05-19,nowcast,1.1,0.7,1.7,0.9,1.3,0.3
+PE-Santa Cruz do Capibaribe,2020-06-30,nowcast,1.1,0.9,1.3,1,1.2,0.28
+PE-Santa Cruz do Capibaribe,2020-07-01,nowcast,1,0.9,1.2,1,1.1,0.35
+PE-Santa Cruz do Capibaribe,2020-07-02,nowcast,1,0.8,1.2,0.9,1.1,0.45
+PE-Santa Cruz do Capibaribe,2020-07-03,nowcast,1,0.8,1.2,0.9,1.1,0.5
+PE-Santa Cruz do Capibaribe,2020-07-04,nowcast,1,0.8,1.1,0.9,1.1,0.58
+PE-Santa Cruz do Capibaribe,2020-07-05,nowcast,1,0.8,1.1,0.9,1,0.62
+PE-Santa Cruz do Capibaribe,2020-07-06,nowcast,1,0.8,1.1,0.9,1,0.65
+PE-Santa Cruz do Capibaribe,2020-07-07,nowcast,1,0.8,1.1,0.9,1,0.68
+PE-Santa Cruz do Capibaribe,2020-07-08,nowcast,0.9,0.7,1.1,0.9,1,0.73
+PE-Santa Cruz do Capibaribe,2020-07-09,nowcast,0.9,0.8,1.1,0.9,1,0.72
+PE-Santa Cruz do Capibaribe,2020-07-10,nowcast,0.9,0.8,1.1,0.9,1,0.7
+PE-Santa Cruz do Capibaribe,2020-07-11,nowcast,1,0.8,1.2,0.9,1,0.67
+PE-Santa Cruz do Capibaribe,2020-07-12,nowcast,1,0.8,1.2,0.9,1,0.65
+PE-Santa Cruz do Capibaribe,2020-07-13,nowcast,1,0.8,1.2,0.9,1,0.62
+PE-Santa Cruz do Capibaribe,2020-07-14,forecast,1,0.7,1.2,0.9,1.1,0.6
+PE-Santa Cruz do Capibaribe,2020-07-15,forecast,1,0.7,1.2,0.8,1.1,0.6
+PE-Santa Cruz do Capibaribe,2020-07-16,forecast,1,0.7,1.3,0.8,1.1,0.6
+PE-Santa Cruz do Capibaribe,2020-07-17,forecast,1,0.6,1.3,0.8,1.1,0.58
+PE-Santa Cruz do Capibaribe,2020-07-18,forecast,1,0.6,1.3,0.8,1.1,0.59
+PE-Santa Cruz do Capibaribe,2020-07-19,forecast,0.9,0.6,1.3,0.8,1.1,0.59
+PE-Santa Cruz do Capibaribe,2020-07-20,forecast,0.9,0.5,1.4,0.8,1.1,0.59
+PE-Santa Cruz do Capibaribe,2020-07-21,forecast,0.9,0.5,1.4,0.8,1.1,0.59
+PE-Santa Cruz do Capibaribe,2020-07-22,forecast,0.9,0.5,1.4,0.8,1.1,0.6
+PE-Santa Cruz do Capibaribe,2020-07-23,forecast,0.9,0.5,1.4,0.8,1.1,0.58
+PE-Santa Cruz do Capibaribe,2020-07-24,forecast,0.9,0.4,1.4,0.8,1.1,0.6
+PE-Santa Cruz do Capibaribe,2020-07-25,forecast,0.9,0.4,1.4,0.7,1.1,0.6
+PE-Santa Cruz do Capibaribe,2020-07-26,forecast,0.9,0.4,1.4,0.7,1.1,0.6
+PE-Santa Cruz do Capibaribe,2020-07-27,forecast,0.9,0.4,1.5,0.7,1.1,0.6
+PE-Serra Talhada,2020-05-17,nowcast,1.2,0.7,1.9,1,1.5,0.23
+PE-Serra Talhada,2020-05-18,nowcast,1.2,0.7,1.8,1,1.4,0.24
+PE-Serra Talhada,2020-05-19,nowcast,1.2,0.7,1.7,1,1.3,0.29
 PE-Serra Talhada,2020-05-20,nowcast,1.1,0.6,1.6,0.9,1.3,0.35
-PE-Serra Talhada,2020-05-21,nowcast,1.1,0.6,1.6,0.9,1.2,0.38
-PE-Serra Talhada,2020-05-22,nowcast,1.1,0.6,1.6,0.9,1.2,0.36
-PE-Serra Talhada,2020-05-23,nowcast,1.1,0.6,1.6,0.9,1.2,0.36
-PE-Serra Talhada,2020-05-24,nowcast,1.1,0.7,1.6,0.9,1.3,0.32
+PE-Serra Talhada,2020-05-21,nowcast,1.1,0.6,1.6,0.9,1.3,0.34
+PE-Serra Talhada,2020-05-22,nowcast,1.1,0.6,1.6,0.9,1.3,0.37
+PE-Serra Talhada,2020-05-23,nowcast,1.1,0.6,1.6,0.9,1.3,0.34
+PE-Serra Talhada,2020-05-24,nowcast,1.1,0.7,1.6,0.9,1.2,0.33
 PE-Serra Talhada,2020-05-25,nowcast,1.1,0.7,1.7,0.9,1.3,0.31
-PE-Serra Talhada,2020-05-26,nowcast,1.1,0.7,1.7,0.9,1.3,0.3
-PE-Serra Talhada,2020-05-27,nowcast,1.1,0.7,1.6,1,1.3,0.28
-PE-Serra Talhada,2020-05-28,nowcast,1.1,0.7,1.6,0.9,1.3,0.29
-PE-Serra Talhada,2020-05-29,nowcast,1.1,0.7,1.6,0.9,1.3,0.29
-PE-Serra Talhada,2020-05-30,nowcast,1.1,0.7,1.7,0.9,1.3,0.28
+PE-Serra Talhada,2020-05-26,nowcast,1.1,0.7,1.6,0.9,1.3,0.31
+PE-Serra Talhada,2020-05-27,nowcast,1.2,0.7,1.6,1,1.3,0.27
+PE-Serra Talhada,2020-05-28,nowcast,1.1,0.7,1.6,0.9,1.3,0.3
+PE-Serra Talhada,2020-05-29,nowcast,1.2,0.7,1.6,0.9,1.3,0.27
+PE-Serra Talhada,2020-05-30,nowcast,1.2,0.7,1.6,1,1.3,0.26
 PE-Serra Talhada,2020-05-31,nowcast,1.1,0.7,1.6,1,1.3,0.28
 PE-Serra Talhada,2020-06-01,nowcast,1.1,0.7,1.6,1,1.3,0.28
-PE-Serra Talhada,2020-06-02,nowcast,1.1,0.7,1.5,1,1.3,0.31
-PE-Serra Talhada,2020-06-03,nowcast,1.1,0.7,1.6,0.9,1.3,0.32
-PE-Serra Talhada,2020-06-04,nowcast,1.1,0.7,1.5,1,1.3,0.31
-PE-Serra Talhada,2020-06-05,nowcast,1.1,0.7,1.6,0.9,1.2,0.29
-PE-Serra Talhada,2020-06-06,nowcast,1.2,0.8,1.6,1,1.3,0.24
+PE-Serra Talhada,2020-06-02,nowcast,1.1,0.7,1.6,1,1.3,0.28
+PE-Serra Talhada,2020-06-03,nowcast,1.1,0.7,1.5,0.9,1.2,0.3
+PE-Serra Talhada,2020-06-04,nowcast,1.1,0.7,1.5,1,1.3,0.29
+PE-Serra Talhada,2020-06-05,nowcast,1.1,0.7,1.6,1,1.3,0.28
+PE-Serra Talhada,2020-06-06,nowcast,1.1,0.8,1.6,1,1.3,0.25
 PE-Serra Talhada,2020-06-07,nowcast,1.2,0.8,1.6,1,1.3,0.21
-PE-Serra Talhada,2020-06-08,nowcast,1.2,0.8,1.7,1,1.3,0.18
-PE-Serra Talhada,2020-06-09,nowcast,1.2,0.8,1.7,1.1,1.3,0.14
-PE-Serra Talhada,2020-06-10,nowcast,1.2,0.9,1.7,1.1,1.4,0.1
-PE-Serra Talhada,2020-06-11,nowcast,1.3,0.9,1.7,1.1,1.4,0.09
-PE-Serra Talhada,2020-06-12,nowcast,1.3,0.9,1.6,1.1,1.4,0.08
-PE-Serra Talhada,2020-06-13,nowcast,1.3,0.9,1.6,1.1,1.4,0.1
-PE-Serra Talhada,2020-06-14,nowcast,1.2,0.8,1.5,1.1,1.3,0.13
+PE-Serra Talhada,2020-06-08,nowcast,1.2,0.8,1.7,1,1.3,0.15
+PE-Serra Talhada,2020-06-09,nowcast,1.2,0.8,1.7,1,1.3,0.13
+PE-Serra Talhada,2020-06-10,nowcast,1.3,0.9,1.7,1.1,1.4,0.1
+PE-Serra Talhada,2020-06-11,nowcast,1.3,0.8,1.7,1.1,1.4,0.11
+PE-Serra Talhada,2020-06-12,nowcast,1.3,0.9,1.6,1.1,1.4,0.1
+PE-Serra Talhada,2020-06-13,nowcast,1.2,0.9,1.6,1.1,1.4,0.12
+PE-Serra Talhada,2020-06-14,nowcast,1.2,0.8,1.5,1.1,1.4,0.14
 PE-Serra Talhada,2020-06-15,nowcast,1.2,0.8,1.5,1.1,1.3,0.18
-PE-Serra Talhada,2020-06-16,nowcast,1.1,0.8,1.4,1,1.3,0.22
-PE-Serra Talhada,2020-06-17,nowcast,1.1,0.8,1.4,1,1.2,0.26
+PE-Serra Talhada,2020-06-16,nowcast,1.1,0.8,1.5,1,1.3,0.22
+PE-Serra Talhada,2020-06-17,nowcast,1.1,0.8,1.4,1,1.2,0.25
 PE-Serra Talhada,2020-06-18,nowcast,1.1,0.8,1.4,1,1.2,0.25
-PE-Serra Talhada,2020-06-19,nowcast,1.1,0.8,1.4,1,1.2,0.22
-PE-Serra Talhada,2020-06-20,nowcast,1.1,0.8,1.5,1,1.2,0.18
-PE-Serra Talhada,2020-06-21,nowcast,1.1,0.9,1.5,1,1.2,0.17
-PE-Serra Talhada,2020-06-22,nowcast,1.2,0.9,1.5,1,1.2,0.16
-PE-Serra Talhada,2020-06-23,nowcast,1.2,0.9,1.4,1,1.2,0.15
-PE-Serra Talhada,2020-06-24,nowcast,1.2,0.9,1.4,1,1.3,0.16
-PE-Serra Talhada,2020-06-25,nowcast,1.1,0.9,1.4,1.1,1.3,0.16
-PE-Serra Talhada,2020-06-26,nowcast,1.1,0.9,1.4,1,1.2,0.19
-PE-Serra Talhada,2020-06-27,nowcast,1.1,0.9,1.4,1,1.2,0.22
-PE-Serra Talhada,2020-06-28,nowcast,1.1,0.8,1.3,1,1.2,0.3
-PE-Serra Talhada,2020-06-29,nowcast,1,0.8,1.3,0.9,1.1,0.37
-PE-Serra Talhada,2020-06-30,nowcast,1,0.7,1.2,0.9,1.1,0.47
-PE-Serra Talhada,2020-07-01,nowcast,1,0.7,1.2,0.9,1.1,0.55
-PE-Serra Talhada,2020-07-02,nowcast,1,0.7,1.2,0.9,1.1,0.62
-PE-Serra Talhada,2020-07-03,nowcast,0.9,0.7,1.2,0.9,1,0.65
-PE-Serra Talhada,2020-07-04,nowcast,0.9,0.7,1.2,0.8,1,0.71
-PE-Serra Talhada,2020-07-05,nowcast,0.9,0.7,1.1,0.8,1,0.76
-PE-Serra Talhada,2020-07-06,nowcast,0.9,0.6,1.1,0.8,1,0.81
-PE-Serra Talhada,2020-07-07,nowcast,0.9,0.6,1.1,0.8,1,0.85
-PE-Serra Talhada,2020-07-08,nowcast,0.8,0.6,1.1,0.8,0.9,0.87
-PE-Serra Talhada,2020-07-09,nowcast,0.9,0.6,1.1,0.8,1,0.84
-PE-Serra Talhada,2020-07-10,nowcast,0.9,0.6,1.2,0.8,1,0.75
-PE-Serra Talhada,2020-07-11,nowcast,0.9,0.6,1.3,0.8,1,0.61
-PE-Serra Talhada,2020-07-12,forecast,0.9,0.6,1.3,0.8,1,0.62
-PE-Serra Talhada,2020-07-13,forecast,0.9,0.5,1.4,0.7,1.1,0.63
-PE-Serra Talhada,2020-07-14,forecast,0.9,0.5,1.4,0.7,1.1,0.62
-PE-Serra Talhada,2020-07-15,forecast,0.9,0.4,1.4,0.7,1.1,0.61
-PE-Serra Talhada,2020-07-16,forecast,0.9,0.4,1.4,0.7,1.1,0.59
-PE-Serra Talhada,2020-07-17,forecast,0.9,0.4,1.5,0.7,1.1,0.6
-PE-Serra Talhada,2020-07-18,forecast,0.9,0.3,1.5,0.7,1.2,0.59
-PE-Serra Talhada,2020-07-19,forecast,0.9,0.3,1.5,0.7,1.1,0.61
-PE-Serra Talhada,2020-07-20,forecast,0.9,0.3,1.5,0.7,1.1,0.6
-PE-Serra Talhada,2020-07-21,forecast,0.9,0.2,1.5,0.7,1.1,0.6
-PE-Serra Talhada,2020-07-22,forecast,0.9,0.2,1.5,0.6,1.1,0.61
-PE-Serra Talhada,2020-07-23,forecast,0.9,0.2,1.5,0.6,1.1,0.59
-PE-Serra Talhada,2020-07-24,forecast,0.9,0.2,1.6,0.6,1.2,0.6
-PE-Serra Talhada,2020-07-25,forecast,0.9,0,1.5,0.7,1.2,0.59
+PE-Serra Talhada,2020-06-19,nowcast,1.1,0.8,1.5,1,1.2,0.23
+PE-Serra Talhada,2020-06-20,nowcast,1.1,0.9,1.5,1,1.2,0.19
+PE-Serra Talhada,2020-06-21,nowcast,1.2,0.8,1.5,1,1.2,0.18
+PE-Serra Talhada,2020-06-22,nowcast,1.2,0.9,1.5,1,1.3,0.16
+PE-Serra Talhada,2020-06-23,nowcast,1.2,0.9,1.4,1,1.2,0.16
+PE-Serra Talhada,2020-06-24,nowcast,1.2,0.9,1.5,1.1,1.3,0.14
+PE-Serra Talhada,2020-06-25,nowcast,1.2,0.9,1.5,1,1.2,0.15
+PE-Serra Talhada,2020-06-26,nowcast,1.1,0.9,1.4,1,1.2,0.18
+PE-Serra Talhada,2020-06-27,nowcast,1.1,0.9,1.4,1,1.2,0.21
+PE-Serra Talhada,2020-06-28,nowcast,1.1,0.8,1.3,1,1.2,0.27
+PE-Serra Talhada,2020-06-29,nowcast,1,0.8,1.3,1,1.2,0.4
+PE-Serra Talhada,2020-06-30,nowcast,1,0.7,1.3,0.9,1.1,0.5
+PE-Serra Talhada,2020-07-01,nowcast,1,0.7,1.2,0.9,1.1,0.57
+PE-Serra Talhada,2020-07-02,nowcast,1,0.7,1.2,0.9,1.1,0.63
+PE-Serra Talhada,2020-07-03,nowcast,0.9,0.7,1.2,0.9,1,0.67
+PE-Serra Talhada,2020-07-04,nowcast,0.9,0.7,1.2,0.8,1,0.72
+PE-Serra Talhada,2020-07-05,nowcast,0.9,0.7,1.1,0.8,1,0.77
+PE-Serra Talhada,2020-07-06,nowcast,0.9,0.7,1.1,0.8,1,0.82
+PE-Serra Talhada,2020-07-07,nowcast,0.8,0.6,1.1,0.8,0.9,0.86
+PE-Serra Talhada,2020-07-08,nowcast,0.8,0.6,1.1,0.7,0.9,0.88
+PE-Serra Talhada,2020-07-09,nowcast,0.8,0.6,1.1,0.8,0.9,0.87
+PE-Serra Talhada,2020-07-10,nowcast,0.9,0.6,1.1,0.8,1,0.79
+PE-Serra Talhada,2020-07-11,nowcast,0.9,0.6,1.3,0.8,1,0.69
+PE-Serra Talhada,2020-07-12,nowcast,1,0.7,1.3,0.8,1,0.55
+PE-Serra Talhada,2020-07-13,nowcast,1,0.7,1.4,0.9,1.1,0.46
+PE-Serra Talhada,2020-07-14,forecast,1,0.7,1.4,0.8,1.1,0.48
+PE-Serra Talhada,2020-07-15,forecast,1,0.6,1.4,0.8,1.2,0.49
+PE-Serra Talhada,2020-07-16,forecast,1,0.6,1.5,0.8,1.1,0.5
+PE-Serra Talhada,2020-07-17,forecast,1,0.6,1.5,0.8,1.2,0.5
+PE-Serra Talhada,2020-07-18,forecast,1,0.5,1.5,0.8,1.2,0.51
+PE-Serra Talhada,2020-07-19,forecast,1,0.5,1.6,0.8,1.2,0.51
+PE-Serra Talhada,2020-07-20,forecast,1,0.5,1.6,0.7,1.1,0.51
+PE-Serra Talhada,2020-07-21,forecast,1,0.4,1.6,0.7,1.2,0.51
+PE-Serra Talhada,2020-07-22,forecast,1,0.4,1.7,0.7,1.2,0.51
+PE-Serra Talhada,2020-07-23,forecast,1,0.4,1.7,0.7,1.2,0.51
+PE-Serra Talhada,2020-07-24,forecast,1,0.3,1.6,0.7,1.2,0.52
+PE-Serra Talhada,2020-07-25,forecast,1,0.3,1.7,0.7,1.2,0.52
+PE-Serra Talhada,2020-07-26,forecast,1,0.2,1.7,0.7,1.2,0.52
+PE-Serra Talhada,2020-07-27,forecast,1,0.3,1.7,0.7,1.3,0.52
