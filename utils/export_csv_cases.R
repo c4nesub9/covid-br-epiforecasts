@@ -20,7 +20,9 @@ for (region in regions) {
   
   summarised_nowcast <- file.path(res_dir, "summarised_nowcast.rds") %>%
     readRDS() %>%
-    filter(type == "nowcast") %>%
+    #filter(type == "nowcast") %>%
+    mutate(type = ifelse(type == "Observed by report date", "observed",
+                         type)) %>%
     select(date:mean)
   
   cases_forecast <- file.path(res_dir, "case_forecast.rds") %>%
