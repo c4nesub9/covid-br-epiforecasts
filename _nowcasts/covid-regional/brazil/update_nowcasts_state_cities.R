@@ -19,18 +19,27 @@ ncores <- ifelse(length(argv) >= 3, as.integer(argv[3]), future::availableCores(
 # Get cases ---------------------------------------------------------------
 
 min_total_cases <- 300
+min_forecast_cases <- 50
+case_limit <- 10
 
 NCoVUtils::reset_cache()
-
 cases <- NCoVUtils::get_brazil_regional_cases(geography = "municipalities") %>%
   dplyr::group_by(city_name) %>%
-  dplyr::mutate(total_cases = sum(cases, na.rm = TRUE),
-                cases = ifelse(cases < 0, 0, cases)) %>%
+  dplyr::mutate(
+    cases = ifelse(cases < 0, 0, cases),
+    total_cases = sum(cases, na.rm = TRUE),
+    cases_last_week = sum(cases[date >= max(date) - lubridate::days(7)],
+                          na.rm = TRUE),
+    max_daily_cases = max(cases, na.rm = TRUE)
+  ) %>%
   dplyr::ungroup() %>%
   dplyr::mutate(city_name = sapply(str_split(city_name, pattern = "/"),
                                    function(x) paste(x[2:1], collapse = "-"))) %>%
   dplyr::rename(region = city_name, region_code = state_code) %>%
-  dplyr::filter(total_cases >= min_total_cases, region_code %in% state,
+  dplyr::filter(total_cases >= min_total_cases,
+                cases_last_week >= min_forecast_cases,
+                max_daily_cases >= case_limit,
+                region_code %in% state,
                 !str_detect(region, "CASO SEM LOCALIZAÇÃO DEFINIDA"))
 
 state_codes <- sort(unique(cases$region_code))
@@ -69,8 +78,8 @@ EpiNow::regional_rt_pipeline(
   cases = cases,
   delay_defs = delay_defs,
   target_folder = results_dir,
-  case_limit = 20,
-  min_forecast_cases = 100,
+  case_limit = case_limit,
+  min_forecast_cases = min_forecast_cases,
   horizon = 14,
   nowcast_lag = 10,
   approx_delay = TRUE,
