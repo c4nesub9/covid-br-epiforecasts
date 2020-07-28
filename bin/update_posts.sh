@@ -1,7 +1,7 @@
 #!/bin/bash
 
-Rscript --version
 Rscript utils/update_posts.R
+
 cp -r _posts/national/ne-cities/ne-cities.html posts/ne-cities/index.html
 cp -r _posts/national/brazil/brazil.html posts/states/index.html
 cp -r _posts/national/cities-al/cities-al.html posts/cities-al/index.html
@@ -15,3 +15,5 @@ cp -r _posts/national/cities-rn/cities-rn.html posts/cities-rn/index.html
 cp -r _posts/national/cities-se/cities-se.html posts/cities-se/index.html
 cp -r _posts/national/deaths-brazil/deaths-brazil.html posts/deaths-states/index.html
 cp -r _posts/national/deaths-ne-cities/deaths-ne-cities.html posts/deaths-ne-cities/index.html
+
+bin/update_github.sh
