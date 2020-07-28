@@ -1,1477 +1,1495 @@
 region,date,type,median,lower_90,upper_90,lower_50,upper_50,prob_control
 PI-Água Branca,2020-05-10,nowcast,1.2,0.5,2.1,0.9,1.5,0.28
-PI-Água Branca,2020-05-11,nowcast,1.2,0.5,2,0.9,1.5,0.27
-PI-Água Branca,2020-05-12,nowcast,1.3,0.6,2.1,0.9,1.5,0.25
-PI-Água Branca,2020-05-13,nowcast,1.3,0.6,2.1,1,1.5,0.23
-PI-Água Branca,2020-05-14,nowcast,1.3,0.6,2.1,0.9,1.5,0.22
-PI-Água Branca,2020-05-15,nowcast,1.3,0.6,2,1,1.5,0.22
-PI-Água Branca,2020-05-16,nowcast,1.2,0.6,1.9,0.9,1.4,0.26
-PI-Água Branca,2020-05-17,nowcast,1.2,0.6,1.9,0.9,1.4,0.32
-PI-Água Branca,2020-05-18,nowcast,1.1,0.6,1.7,0.9,1.3,0.35
-PI-Água Branca,2020-05-19,nowcast,1.1,0.5,1.6,0.8,1.2,0.44
+PI-Água Branca,2020-05-11,nowcast,1.3,0.5,2.1,0.9,1.5,0.27
+PI-Água Branca,2020-05-12,nowcast,1.3,0.6,2.1,0.9,1.5,0.23
+PI-Água Branca,2020-05-13,nowcast,1.3,0.6,2.1,0.9,1.5,0.22
+PI-Água Branca,2020-05-14,nowcast,1.3,0.6,2.1,1,1.5,0.21
+PI-Água Branca,2020-05-15,nowcast,1.3,0.6,2,1,1.5,0.23
+PI-Água Branca,2020-05-16,nowcast,1.2,0.6,2,1,1.5,0.25
+PI-Água Branca,2020-05-17,nowcast,1.2,0.5,1.8,0.9,1.4,0.32
+PI-Água Branca,2020-05-18,nowcast,1.1,0.5,1.8,0.9,1.3,0.36
+PI-Água Branca,2020-05-19,nowcast,1.1,0.5,1.7,0.8,1.2,0.42
 PI-Água Branca,2020-05-20,nowcast,1,0.4,1.6,0.8,1.2,0.48
-PI-Água Branca,2020-05-21,nowcast,1,0.5,1.5,0.7,1.2,0.54
-PI-Água Branca,2020-05-22,nowcast,0.9,0.4,1.4,0.7,1.1,0.62
-PI-Água Branca,2020-05-23,nowcast,0.9,0.4,1.4,0.7,1.1,0.67
-PI-Água Branca,2020-05-24,nowcast,0.8,0.3,1.3,0.6,1,0.72
-PI-Água Branca,2020-05-25,nowcast,0.8,0.3,1.4,0.6,1,0.73
+PI-Água Branca,2020-05-21,nowcast,1,0.4,1.5,0.7,1.2,0.55
+PI-Água Branca,2020-05-22,nowcast,0.9,0.4,1.5,0.7,1.1,0.61
+PI-Água Branca,2020-05-23,nowcast,0.9,0.4,1.4,0.7,1.1,0.68
+PI-Água Branca,2020-05-24,nowcast,0.8,0.4,1.4,0.6,1,0.71
+PI-Água Branca,2020-05-25,nowcast,0.8,0.3,1.4,0.6,1,0.72
 PI-Água Branca,2020-05-26,nowcast,0.8,0.3,1.4,0.6,1,0.72
-PI-Água Branca,2020-05-27,nowcast,0.8,0.3,1.5,0.6,1,0.69
-PI-Água Branca,2020-05-28,nowcast,0.8,0.3,1.4,0.6,1,0.68
-PI-Água Branca,2020-05-29,nowcast,0.9,0.3,1.5,0.6,1,0.64
-PI-Água Branca,2020-05-30,nowcast,0.9,0.3,1.6,0.6,1.1,0.59
-PI-Água Branca,2020-05-31,nowcast,0.9,0.4,1.6,0.6,1.1,0.58
-PI-Água Branca,2020-06-01,nowcast,1,0.3,1.7,0.7,1.1,0.54
-PI-Água Branca,2020-06-02,nowcast,1,0.4,1.8,0.7,1.2,0.5
-PI-Água Branca,2020-06-03,nowcast,1,0.4,1.8,0.7,1.3,0.45
-PI-Água Branca,2020-06-04,nowcast,1.1,0.4,1.9,0.8,1.3,0.39
-PI-Água Branca,2020-06-05,nowcast,1.1,0.5,1.9,0.8,1.3,0.36
-PI-Água Branca,2020-06-06,nowcast,1.2,0.5,2,0.8,1.4,0.32
-PI-Água Branca,2020-06-07,nowcast,1.2,0.5,2.1,0.9,1.5,0.27
-PI-Água Branca,2020-06-08,nowcast,1.3,0.6,2.1,0.9,1.5,0.23
-PI-Água Branca,2020-06-09,nowcast,1.3,0.6,2.2,1,1.6,0.19
-PI-Água Branca,2020-06-10,nowcast,1.4,0.8,2.2,1,1.5,0.16
-PI-Água Branca,2020-06-11,nowcast,1.4,0.7,2.2,1.1,1.6,0.15
-PI-Água Branca,2020-06-12,nowcast,1.4,0.7,2.1,1.1,1.6,0.14
-PI-Água Branca,2020-06-13,nowcast,1.4,0.8,2,1.1,1.6,0.14
-PI-Água Branca,2020-06-14,nowcast,1.3,0.7,1.9,1.1,1.5,0.17
-PI-Água Branca,2020-06-15,nowcast,1.3,0.7,1.9,1,1.5,0.18
-PI-Água Branca,2020-06-16,nowcast,1.2,0.6,1.8,1,1.5,0.24
-PI-Água Branca,2020-06-17,nowcast,1.2,0.7,1.7,1,1.4,0.24
-PI-Água Branca,2020-06-18,nowcast,1.2,0.6,1.7,1,1.4,0.29
-PI-Água Branca,2020-06-19,nowcast,1.1,0.6,1.6,0.9,1.3,0.32
-PI-Água Branca,2020-06-20,nowcast,1.1,0.6,1.6,0.9,1.3,0.35
-PI-Água Branca,2020-06-21,nowcast,1.1,0.6,1.6,0.9,1.2,0.39
-PI-Água Branca,2020-06-22,nowcast,1.1,0.7,1.6,0.9,1.2,0.37
-PI-Água Branca,2020-06-23,nowcast,1.1,0.6,1.6,0.9,1.2,0.37
+PI-Água Branca,2020-05-27,nowcast,0.8,0.3,1.4,0.6,1,0.68
+PI-Água Branca,2020-05-28,nowcast,0.9,0.3,1.4,0.6,1,0.66
+PI-Água Branca,2020-05-29,nowcast,0.9,0.4,1.5,0.6,1,0.65
+PI-Água Branca,2020-05-30,nowcast,0.9,0.3,1.6,0.6,1.1,0.6
+PI-Água Branca,2020-05-31,nowcast,0.9,0.3,1.7,0.6,1,0.58
+PI-Água Branca,2020-06-01,nowcast,1,0.4,1.7,0.6,1.1,0.54
+PI-Água Branca,2020-06-02,nowcast,1,0.3,1.8,0.7,1.2,0.5
+PI-Água Branca,2020-06-03,nowcast,1,0.3,1.7,0.7,1.2,0.47
+PI-Água Branca,2020-06-04,nowcast,1.1,0.4,1.9,0.7,1.3,0.4
+PI-Água Branca,2020-06-05,nowcast,1.1,0.5,2,0.8,1.3,0.35
+PI-Água Branca,2020-06-06,nowcast,1.2,0.5,2.1,0.9,1.4,0.3
+PI-Água Branca,2020-06-07,nowcast,1.3,0.6,2.1,0.9,1.5,0.24
+PI-Água Branca,2020-06-08,nowcast,1.3,0.6,2.1,1,1.5,0.21
+PI-Água Branca,2020-06-09,nowcast,1.3,0.6,2.1,1,1.6,0.18
+PI-Água Branca,2020-06-10,nowcast,1.4,0.7,2.2,1.1,1.6,0.15
+PI-Água Branca,2020-06-11,nowcast,1.4,0.8,2.1,1.1,1.6,0.14
+PI-Água Branca,2020-06-12,nowcast,1.4,0.7,2.1,1.1,1.6,0.15
+PI-Água Branca,2020-06-13,nowcast,1.3,0.7,2,1.1,1.5,0.15
+PI-Água Branca,2020-06-14,nowcast,1.3,0.7,1.9,1.1,1.5,0.16
+PI-Água Branca,2020-06-15,nowcast,1.3,0.7,1.8,1,1.4,0.18
+PI-Água Branca,2020-06-16,nowcast,1.2,0.7,1.8,1,1.4,0.21
+PI-Água Branca,2020-06-17,nowcast,1.2,0.7,1.7,1,1.3,0.24
+PI-Água Branca,2020-06-18,nowcast,1.2,0.6,1.6,1,1.3,0.29
+PI-Água Branca,2020-06-19,nowcast,1.1,0.6,1.6,1,1.3,0.31
+PI-Água Branca,2020-06-20,nowcast,1.1,0.6,1.6,0.9,1.2,0.36
+PI-Água Branca,2020-06-21,nowcast,1.1,0.6,1.6,0.9,1.2,0.4
+PI-Água Branca,2020-06-22,nowcast,1.1,0.6,1.5,0.9,1.2,0.4
+PI-Água Branca,2020-06-23,nowcast,1.1,0.7,1.6,0.9,1.2,0.37
 PI-Água Branca,2020-06-24,nowcast,1.1,0.7,1.6,0.9,1.2,0.33
-PI-Água Branca,2020-06-25,nowcast,1.1,0.7,1.6,0.9,1.3,0.29
-PI-Água Branca,2020-06-26,nowcast,1.1,0.7,1.6,0.9,1.3,0.26
-PI-Água Branca,2020-06-27,nowcast,1.2,0.7,1.6,1,1.3,0.25
+PI-Água Branca,2020-06-25,nowcast,1.1,0.7,1.6,0.9,1.3,0.28
+PI-Água Branca,2020-06-26,nowcast,1.1,0.7,1.6,0.9,1.3,0.27
+PI-Água Branca,2020-06-27,nowcast,1.1,0.7,1.6,0.9,1.3,0.27
 PI-Água Branca,2020-06-28,nowcast,1.1,0.7,1.6,1,1.3,0.27
-PI-Água Branca,2020-06-29,nowcast,1.1,0.7,1.6,1,1.3,0.26
-PI-Água Branca,2020-06-30,nowcast,1.1,0.7,1.5,1,1.3,0.26
-PI-Água Branca,2020-07-01,nowcast,1.1,0.7,1.5,1,1.3,0.28
-PI-Água Branca,2020-07-02,nowcast,1.1,0.8,1.6,0.9,1.2,0.29
-PI-Água Branca,2020-07-03,nowcast,1.1,0.7,1.5,1,1.3,0.29
-PI-Água Branca,2020-07-04,nowcast,1.1,0.7,1.5,0.9,1.2,0.31
-PI-Água Branca,2020-07-05,nowcast,1.1,0.7,1.5,1,1.2,0.31
+PI-Água Branca,2020-06-29,nowcast,1.1,0.7,1.6,1,1.3,0.27
+PI-Água Branca,2020-06-30,nowcast,1.1,0.7,1.6,1,1.3,0.28
+PI-Água Branca,2020-07-01,nowcast,1.1,0.7,1.5,0.9,1.2,0.29
+PI-Água Branca,2020-07-02,nowcast,1.1,0.7,1.6,1,1.3,0.28
+PI-Água Branca,2020-07-03,nowcast,1.1,0.7,1.5,0.9,1.2,0.3
+PI-Água Branca,2020-07-04,nowcast,1.1,0.7,1.5,1,1.3,0.3
+PI-Água Branca,2020-07-05,nowcast,1.1,0.7,1.5,0.9,1.2,0.32
 PI-Água Branca,2020-07-06,nowcast,1.1,0.7,1.5,0.9,1.2,0.32
 PI-Água Branca,2020-07-07,nowcast,1.1,0.7,1.5,0.9,1.2,0.34
-PI-Água Branca,2020-07-08,nowcast,1.1,0.7,1.4,0.9,1.2,0.37
+PI-Água Branca,2020-07-08,nowcast,1.1,0.7,1.5,0.9,1.2,0.36
 PI-Água Branca,2020-07-09,nowcast,1.1,0.7,1.4,0.9,1.2,0.4
-PI-Água Branca,2020-07-10,nowcast,1.1,0.7,1.4,0.9,1.2,0.38
-PI-Água Branca,2020-07-11,nowcast,1.1,0.7,1.5,0.9,1.2,0.39
-PI-Água Branca,2020-07-12,nowcast,1.1,0.7,1.5,0.9,1.2,0.34
-PI-Água Branca,2020-07-13,nowcast,1.1,0.8,1.6,0.9,1.2,0.28
-PI-Água Branca,2020-07-14,nowcast,1.2,0.8,1.6,1,1.3,0.22
-PI-Água Branca,2020-07-15,nowcast,1.2,0.8,1.7,1,1.4,0.16
-PI-Água Branca,2020-07-16,forecast,1.2,0.7,1.7,0.9,1.3,0.25
-PI-Água Branca,2020-07-17,forecast,1.2,0.7,1.8,0.9,1.3,0.27
-PI-Água Branca,2020-07-18,forecast,1.2,0.6,1.8,0.9,1.4,0.28
-PI-Água Branca,2020-07-19,forecast,1.2,0.6,1.8,1,1.4,0.29
-PI-Água Branca,2020-07-20,forecast,1.2,0.6,1.8,0.9,1.4,0.31
-PI-Água Branca,2020-07-21,forecast,1.2,0.5,1.9,0.9,1.4,0.31
-PI-Água Branca,2020-07-22,forecast,1.2,0.5,1.8,0.9,1.4,0.32
-PI-Água Branca,2020-07-23,forecast,1.2,0.5,1.9,0.9,1.4,0.32
-PI-Água Branca,2020-07-24,forecast,1.2,0.5,1.9,0.9,1.4,0.33
-PI-Água Branca,2020-07-25,forecast,1.2,0.5,2,0.9,1.5,0.33
-PI-Água Branca,2020-07-26,forecast,1.2,0.4,2,0.9,1.4,0.33
-PI-Água Branca,2020-07-27,forecast,1.2,0.4,2,0.8,1.4,0.35
-PI-Água Branca,2020-07-28,forecast,1.2,0.4,2,0.8,1.4,0.35
-PI-Água Branca,2020-07-29,forecast,1.2,0.4,2,0.8,1.5,0.35
-PI-Altos,2020-05-26,nowcast,1.3,0.7,1.9,1,1.4,0.19
+PI-Água Branca,2020-07-10,nowcast,1,0.7,1.4,0.9,1.2,0.41
+PI-Água Branca,2020-07-11,nowcast,1.1,0.7,1.4,0.9,1.2,0.39
+PI-Água Branca,2020-07-12,nowcast,1.1,0.7,1.5,0.9,1.2,0.38
+PI-Água Branca,2020-07-13,nowcast,1.1,0.7,1.5,0.9,1.2,0.33
+PI-Água Branca,2020-07-14,nowcast,1.1,0.7,1.6,1,1.3,0.25
+PI-Água Branca,2020-07-15,nowcast,1.2,0.8,1.7,1,1.3,0.19
+PI-Água Branca,2020-07-16,nowcast,1.2,0.8,1.7,1,1.4,0.14
+PI-Água Branca,2020-07-17,forecast,1.2,0.7,1.7,1,1.4,0.24
+PI-Água Branca,2020-07-18,forecast,1.2,0.6,1.8,1,1.4,0.24
+PI-Água Branca,2020-07-19,forecast,1.2,0.6,1.8,0.9,1.4,0.26
+PI-Água Branca,2020-07-20,forecast,1.2,0.6,1.9,0.9,1.4,0.28
+PI-Água Branca,2020-07-21,forecast,1.2,0.6,1.9,0.9,1.4,0.3
+PI-Água Branca,2020-07-22,forecast,1.2,0.6,1.9,0.9,1.4,0.3
+PI-Água Branca,2020-07-23,forecast,1.2,0.5,1.9,0.9,1.4,0.3
+PI-Água Branca,2020-07-24,forecast,1.2,0.5,2,0.9,1.4,0.3
+PI-Água Branca,2020-07-25,forecast,1.2,0.5,2,0.9,1.5,0.3
+PI-Água Branca,2020-07-26,forecast,1.2,0.5,2,0.8,1.4,0.33
+PI-Água Branca,2020-07-27,forecast,1.2,0.4,2,0.9,1.4,0.32
+PI-Água Branca,2020-07-28,forecast,1.2,0.4,2,0.8,1.5,0.35
+PI-Água Branca,2020-07-29,forecast,1.2,0.4,2.1,0.9,1.5,0.32
+PI-Água Branca,2020-07-30,forecast,1.2,0.4,2.2,0.8,1.5,0.33
+PI-Altos,2020-05-26,nowcast,1.3,0.7,1.9,1,1.5,0.2
 PI-Altos,2020-05-27,nowcast,1.3,0.7,1.9,1,1.5,0.19
-PI-Altos,2020-05-28,nowcast,1.3,0.7,1.9,1,1.5,0.2
-PI-Altos,2020-05-29,nowcast,1.3,0.7,1.8,1.1,1.5,0.18
-PI-Altos,2020-05-30,nowcast,1.3,0.8,1.8,1,1.4,0.18
-PI-Altos,2020-05-31,nowcast,1.2,0.8,1.8,1,1.4,0.19
-PI-Altos,2020-06-01,nowcast,1.2,0.8,1.7,1,1.4,0.2
-PI-Altos,2020-06-02,nowcast,1.2,0.7,1.7,1,1.4,0.21
-PI-Altos,2020-06-03,nowcast,1.2,0.8,1.7,1,1.4,0.19
+PI-Altos,2020-05-28,nowcast,1.3,0.7,1.8,1,1.4,0.18
+PI-Altos,2020-05-29,nowcast,1.3,0.7,1.8,1,1.4,0.18
+PI-Altos,2020-05-30,nowcast,1.3,0.7,1.8,1.1,1.5,0.18
+PI-Altos,2020-05-31,nowcast,1.2,0.7,1.7,1,1.4,0.19
+PI-Altos,2020-06-01,nowcast,1.2,0.7,1.7,1,1.4,0.19
+PI-Altos,2020-06-02,nowcast,1.2,0.7,1.7,1,1.4,0.19
+PI-Altos,2020-06-03,nowcast,1.2,0.8,1.7,1,1.4,0.18
 PI-Altos,2020-06-04,nowcast,1.2,0.8,1.7,1,1.4,0.18
-PI-Altos,2020-06-05,nowcast,1.2,0.8,1.7,1.1,1.4,0.17
-PI-Altos,2020-06-06,nowcast,1.2,0.8,1.7,1.1,1.4,0.16
-PI-Altos,2020-06-07,nowcast,1.2,0.8,1.7,1.1,1.4,0.17
-PI-Altos,2020-06-08,nowcast,1.2,0.8,1.6,1.1,1.4,0.17
-PI-Altos,2020-06-09,nowcast,1.2,0.8,1.6,1,1.3,0.19
-PI-Altos,2020-06-10,nowcast,1.2,0.8,1.6,1,1.3,0.19
-PI-Altos,2020-06-11,nowcast,1.2,0.8,1.6,1,1.3,0.19
-PI-Altos,2020-06-12,nowcast,1.1,0.8,1.5,1,1.3,0.23
-PI-Altos,2020-06-13,nowcast,1.1,0.8,1.5,1,1.2,0.29
-PI-Altos,2020-06-14,nowcast,1.1,0.7,1.4,1,1.2,0.34
-PI-Altos,2020-06-15,nowcast,1,0.7,1.4,0.9,1.2,0.43
-PI-Altos,2020-06-16,nowcast,1,0.7,1.3,0.9,1.2,0.48
-PI-Altos,2020-06-17,nowcast,1,0.7,1.3,0.9,1.1,0.52
-PI-Altos,2020-06-18,nowcast,1,0.7,1.3,0.9,1.1,0.52
-PI-Altos,2020-06-19,nowcast,1,0.7,1.3,0.9,1.1,0.51
-PI-Altos,2020-06-20,nowcast,1,0.7,1.4,0.9,1.1,0.49
+PI-Altos,2020-06-05,nowcast,1.2,0.8,1.7,1,1.4,0.18
+PI-Altos,2020-06-06,nowcast,1.2,0.8,1.7,1,1.4,0.17
+PI-Altos,2020-06-07,nowcast,1.2,0.8,1.6,1,1.3,0.16
+PI-Altos,2020-06-08,nowcast,1.2,0.8,1.7,1.1,1.4,0.16
+PI-Altos,2020-06-09,nowcast,1.2,0.8,1.6,1,1.3,0.16
+PI-Altos,2020-06-10,nowcast,1.2,0.8,1.6,1,1.3,0.18
+PI-Altos,2020-06-11,nowcast,1.2,0.8,1.6,1,1.3,0.2
+PI-Altos,2020-06-12,nowcast,1.1,0.8,1.5,1,1.3,0.24
+PI-Altos,2020-06-13,nowcast,1.1,0.7,1.5,1,1.2,0.31
+PI-Altos,2020-06-14,nowcast,1.1,0.7,1.4,0.9,1.2,0.37
+PI-Altos,2020-06-15,nowcast,1,0.7,1.4,0.9,1.2,0.42
+PI-Altos,2020-06-16,nowcast,1,0.7,1.4,0.9,1.1,0.48
+PI-Altos,2020-06-17,nowcast,1,0.7,1.3,0.9,1.1,0.51
+PI-Altos,2020-06-18,nowcast,1,0.7,1.4,0.9,1.1,0.49
+PI-Altos,2020-06-19,nowcast,1,0.7,1.3,0.9,1.1,0.5
+PI-Altos,2020-06-20,nowcast,1,0.7,1.4,0.9,1.1,0.47
 PI-Altos,2020-06-21,nowcast,1,0.7,1.4,0.9,1.1,0.43
 PI-Altos,2020-06-22,nowcast,1,0.7,1.4,0.9,1.1,0.41
 PI-Altos,2020-06-23,nowcast,1.1,0.7,1.4,0.9,1.2,0.36
-PI-Altos,2020-06-24,nowcast,1.1,0.8,1.5,0.9,1.2,0.33
+PI-Altos,2020-06-24,nowcast,1.1,0.8,1.4,0.9,1.2,0.32
 PI-Altos,2020-06-25,nowcast,1.1,0.8,1.5,0.9,1.2,0.29
-PI-Altos,2020-06-26,nowcast,1.1,0.8,1.5,1,1.2,0.28
-PI-Altos,2020-06-27,nowcast,1.1,0.8,1.4,1,1.2,0.29
-PI-Altos,2020-06-28,nowcast,1.1,0.8,1.4,1,1.2,0.31
-PI-Altos,2020-06-29,nowcast,1.1,0.7,1.4,0.9,1.2,0.38
-PI-Altos,2020-06-30,nowcast,1.1,0.7,1.3,0.9,1.2,0.39
-PI-Altos,2020-07-01,nowcast,1,0.7,1.4,0.9,1.1,0.39
-PI-Altos,2020-07-02,nowcast,1,0.7,1.3,0.9,1.2,0.42
-PI-Altos,2020-07-03,nowcast,1,0.7,1.3,0.9,1.1,0.42
-PI-Altos,2020-07-04,nowcast,1,0.8,1.3,0.9,1.1,0.43
-PI-Altos,2020-07-05,nowcast,1,0.7,1.3,0.9,1.1,0.46
+PI-Altos,2020-06-26,nowcast,1.1,0.8,1.4,0.9,1.2,0.29
+PI-Altos,2020-06-27,nowcast,1.1,0.8,1.5,1,1.2,0.3
+PI-Altos,2020-06-28,nowcast,1.1,0.8,1.4,1,1.2,0.32
+PI-Altos,2020-06-29,nowcast,1.1,0.8,1.4,0.9,1.2,0.36
+PI-Altos,2020-06-30,nowcast,1.1,0.8,1.4,0.9,1.2,0.39
+PI-Altos,2020-07-01,nowcast,1,0.7,1.3,0.9,1.2,0.42
+PI-Altos,2020-07-02,nowcast,1,0.7,1.3,0.9,1.1,0.41
+PI-Altos,2020-07-03,nowcast,1,0.7,1.3,0.9,1.1,0.44
+PI-Altos,2020-07-04,nowcast,1,0.7,1.3,0.9,1.1,0.45
+PI-Altos,2020-07-05,nowcast,1,0.7,1.3,0.9,1.1,0.48
 PI-Altos,2020-07-06,nowcast,1,0.7,1.3,0.9,1.1,0.48
 PI-Altos,2020-07-07,nowcast,1,0.7,1.3,0.9,1.1,0.49
-PI-Altos,2020-07-08,nowcast,1,0.7,1.3,0.9,1.1,0.48
-PI-Altos,2020-07-09,nowcast,1,0.7,1.4,0.9,1.1,0.42
-PI-Altos,2020-07-10,nowcast,1,0.7,1.4,0.9,1.1,0.39
+PI-Altos,2020-07-08,nowcast,1,0.7,1.3,0.9,1.1,0.47
+PI-Altos,2020-07-09,nowcast,1,0.8,1.4,0.9,1.1,0.44
+PI-Altos,2020-07-10,nowcast,1,0.8,1.4,0.9,1.1,0.4
 PI-Altos,2020-07-11,nowcast,1.1,0.8,1.4,0.9,1.2,0.35
-PI-Altos,2020-07-12,nowcast,1.1,0.8,1.4,0.9,1.2,0.32
-PI-Altos,2020-07-13,nowcast,1.1,0.8,1.4,0.9,1.2,0.3
-PI-Altos,2020-07-14,nowcast,1.1,0.8,1.5,1,1.2,0.26
-PI-Altos,2020-07-15,nowcast,1.1,0.8,1.5,1,1.2,0.22
-PI-Altos,2020-07-16,forecast,1.1,0.7,1.5,0.9,1.2,0.3
-PI-Altos,2020-07-17,forecast,1.1,0.7,1.6,1,1.3,0.32
-PI-Altos,2020-07-18,forecast,1.1,0.7,1.6,0.9,1.3,0.32
-PI-Altos,2020-07-19,forecast,1.1,0.7,1.6,0.9,1.3,0.34
+PI-Altos,2020-07-12,nowcast,1.1,0.8,1.4,0.9,1.1,0.36
+PI-Altos,2020-07-13,nowcast,1.1,0.8,1.4,0.9,1.2,0.32
+PI-Altos,2020-07-14,nowcast,1.1,0.8,1.5,0.9,1.2,0.3
+PI-Altos,2020-07-15,nowcast,1.1,0.8,1.5,1,1.2,0.27
+PI-Altos,2020-07-16,nowcast,1.1,0.8,1.5,1,1.3,0.26
+PI-Altos,2020-07-17,forecast,1.1,0.7,1.5,0.9,1.2,0.32
+PI-Altos,2020-07-18,forecast,1.1,0.7,1.5,1,1.3,0.32
+PI-Altos,2020-07-19,forecast,1.1,0.7,1.6,0.9,1.3,0.33
 PI-Altos,2020-07-20,forecast,1.1,0.6,1.6,0.9,1.3,0.34
-PI-Altos,2020-07-21,forecast,1.1,0.6,1.6,0.9,1.3,0.35
+PI-Altos,2020-07-21,forecast,1.1,0.6,1.6,0.9,1.3,0.36
 PI-Altos,2020-07-22,forecast,1.1,0.6,1.6,0.9,1.3,0.36
-PI-Altos,2020-07-23,forecast,1.1,0.6,1.6,0.9,1.3,0.35
-PI-Altos,2020-07-24,forecast,1.1,0.6,1.7,0.9,1.3,0.35
-PI-Altos,2020-07-25,forecast,1.1,0.6,1.8,0.9,1.3,0.36
-PI-Altos,2020-07-26,forecast,1.1,0.5,1.7,0.9,1.3,0.36
-PI-Altos,2020-07-27,forecast,1.1,0.5,1.7,0.8,1.3,0.37
-PI-Altos,2020-07-28,forecast,1.1,0.4,1.7,0.9,1.4,0.37
-PI-Altos,2020-07-29,forecast,1.1,0.5,1.8,0.9,1.3,0.38
-PI-Barras,2020-05-12,nowcast,1.5,0.8,2.3,1.1,1.7,0.1
+PI-Altos,2020-07-23,forecast,1.1,0.6,1.7,0.9,1.3,0.37
+PI-Altos,2020-07-24,forecast,1.1,0.5,1.7,0.9,1.3,0.36
+PI-Altos,2020-07-25,forecast,1.1,0.5,1.7,0.9,1.3,0.36
+PI-Altos,2020-07-26,forecast,1.1,0.5,1.7,0.9,1.3,0.37
+PI-Altos,2020-07-27,forecast,1.1,0.4,1.7,0.9,1.3,0.37
+PI-Altos,2020-07-28,forecast,1.1,0.5,1.8,0.9,1.3,0.37
+PI-Altos,2020-07-29,forecast,1.1,0.5,1.7,0.8,1.3,0.38
+PI-Altos,2020-07-30,forecast,1.1,0.5,1.8,0.8,1.3,0.38
+PI-Barras,2020-05-12,nowcast,1.5,0.7,2.2,1.1,1.7,0.11
 PI-Barras,2020-05-13,nowcast,1.5,0.8,2.2,1.2,1.7,0.1
-PI-Barras,2020-05-14,nowcast,1.4,0.8,2.1,1.2,1.6,0.1
-PI-Barras,2020-05-15,nowcast,1.4,0.8,2,1.1,1.6,0.11
-PI-Barras,2020-05-16,nowcast,1.4,0.8,2,1.2,1.6,0.1
-PI-Barras,2020-05-17,nowcast,1.4,0.9,1.9,1.1,1.5,0.09
+PI-Barras,2020-05-14,nowcast,1.5,0.9,2.1,1.2,1.7,0.09
+PI-Barras,2020-05-15,nowcast,1.4,0.8,2.1,1.2,1.7,0.09
+PI-Barras,2020-05-16,nowcast,1.4,0.8,2,1.1,1.6,0.08
+PI-Barras,2020-05-17,nowcast,1.4,0.9,2,1.2,1.6,0.09
 PI-Barras,2020-05-18,nowcast,1.4,0.9,1.9,1.1,1.5,0.09
-PI-Barras,2020-05-19,nowcast,1.3,0.8,1.8,1.1,1.5,0.1
-PI-Barras,2020-05-20,nowcast,1.3,0.9,1.8,1.1,1.4,0.11
-PI-Barras,2020-05-21,nowcast,1.3,0.8,1.7,1.1,1.5,0.15
-PI-Barras,2020-05-22,nowcast,1.2,0.8,1.7,1.1,1.4,0.15
-PI-Barras,2020-05-23,nowcast,1.2,0.8,1.6,1,1.3,0.19
-PI-Barras,2020-05-24,nowcast,1.2,0.7,1.5,1,1.3,0.24
-PI-Barras,2020-05-25,nowcast,1.1,0.7,1.5,1,1.3,0.29
-PI-Barras,2020-05-26,nowcast,1.1,0.7,1.4,0.9,1.2,0.34
-PI-Barras,2020-05-27,nowcast,1,0.7,1.4,0.9,1.2,0.4
-PI-Barras,2020-05-28,nowcast,1,0.7,1.4,0.9,1.2,0.43
-PI-Barras,2020-05-29,nowcast,1,0.7,1.3,0.9,1.1,0.49
-PI-Barras,2020-05-30,nowcast,1,0.7,1.3,0.9,1.1,0.51
-PI-Barras,2020-05-31,nowcast,1,0.6,1.3,0.8,1.1,0.55
-PI-Barras,2020-06-01,nowcast,1,0.7,1.3,0.9,1.1,0.54
-PI-Barras,2020-06-02,nowcast,1,0.7,1.4,0.9,1.1,0.52
-PI-Barras,2020-06-03,nowcast,1,0.7,1.3,0.8,1.1,0.56
-PI-Barras,2020-06-04,nowcast,1,0.6,1.3,0.8,1.1,0.56
-PI-Barras,2020-06-05,nowcast,1,0.7,1.4,0.8,1.1,0.52
-PI-Barras,2020-06-06,nowcast,1,0.7,1.4,0.9,1.1,0.48
-PI-Barras,2020-06-07,nowcast,1,0.7,1.4,0.9,1.2,0.4
-PI-Barras,2020-06-08,nowcast,1.1,0.7,1.5,0.9,1.2,0.37
-PI-Barras,2020-06-09,nowcast,1.1,0.7,1.5,0.9,1.2,0.33
-PI-Barras,2020-06-10,nowcast,1.1,0.8,1.5,1,1.2,0.27
-PI-Barras,2020-06-11,nowcast,1.1,0.8,1.6,1,1.3,0.22
-PI-Barras,2020-06-12,nowcast,1.1,0.8,1.5,1,1.3,0.22
-PI-Barras,2020-06-13,nowcast,1.2,0.8,1.5,1,1.2,0.2
-PI-Barras,2020-06-14,nowcast,1.2,0.8,1.5,1,1.3,0.19
-PI-Barras,2020-06-15,nowcast,1.1,0.8,1.5,1,1.3,0.21
-PI-Barras,2020-06-16,nowcast,1.1,0.8,1.5,1,1.3,0.23
-PI-Barras,2020-06-17,nowcast,1.1,0.8,1.4,1,1.2,0.27
+PI-Barras,2020-05-19,nowcast,1.4,0.9,1.9,1.2,1.5,0.1
+PI-Barras,2020-05-20,nowcast,1.3,0.9,1.8,1.2,1.5,0.1
+PI-Barras,2020-05-21,nowcast,1.3,0.9,1.8,1.1,1.5,0.13
+PI-Barras,2020-05-22,nowcast,1.2,0.8,1.7,1,1.4,0.16
+PI-Barras,2020-05-23,nowcast,1.2,0.8,1.6,1,1.4,0.2
+PI-Barras,2020-05-24,nowcast,1.2,0.8,1.5,1,1.3,0.24
+PI-Barras,2020-05-25,nowcast,1.1,0.7,1.5,1,1.3,0.28
+PI-Barras,2020-05-26,nowcast,1.1,0.7,1.5,1,1.2,0.34
+PI-Barras,2020-05-27,nowcast,1.1,0.7,1.4,0.9,1.2,0.39
+PI-Barras,2020-05-28,nowcast,1,0.7,1.4,0.9,1.2,0.42
+PI-Barras,2020-05-29,nowcast,1,0.7,1.3,0.9,1.1,0.48
+PI-Barras,2020-05-30,nowcast,1,0.6,1.4,0.9,1.1,0.52
+PI-Barras,2020-05-31,nowcast,1,0.7,1.3,0.8,1.1,0.54
+PI-Barras,2020-06-01,nowcast,1,0.7,1.3,0.9,1.1,0.57
+PI-Barras,2020-06-02,nowcast,1,0.7,1.3,0.8,1.1,0.56
+PI-Barras,2020-06-03,nowcast,1,0.6,1.3,0.8,1.1,0.56
+PI-Barras,2020-06-04,nowcast,1,0.7,1.3,0.8,1.1,0.53
+PI-Barras,2020-06-05,nowcast,1,0.7,1.4,0.8,1.1,0.49
+PI-Barras,2020-06-06,nowcast,1,0.7,1.4,0.9,1.1,0.47
+PI-Barras,2020-06-07,nowcast,1,0.7,1.4,0.9,1.1,0.42
+PI-Barras,2020-06-08,nowcast,1.1,0.7,1.4,0.9,1.2,0.37
+PI-Barras,2020-06-09,nowcast,1.1,0.7,1.4,0.9,1.2,0.33
+PI-Barras,2020-06-10,nowcast,1.1,0.8,1.5,1,1.2,0.28
+PI-Barras,2020-06-11,nowcast,1.1,0.8,1.5,1,1.2,0.23
+PI-Barras,2020-06-12,nowcast,1.1,0.8,1.5,1,1.2,0.21
+PI-Barras,2020-06-13,nowcast,1.1,0.8,1.5,1,1.2,0.21
+PI-Barras,2020-06-14,nowcast,1.2,0.8,1.5,1,1.3,0.2
+PI-Barras,2020-06-15,nowcast,1.2,0.8,1.5,1,1.3,0.19
+PI-Barras,2020-06-16,nowcast,1.1,0.8,1.5,1,1.3,0.22
+PI-Barras,2020-06-17,nowcast,1.1,0.8,1.5,1,1.2,0.23
 PI-Barras,2020-06-18,nowcast,1.1,0.8,1.4,1,1.2,0.28
-PI-Barras,2020-06-19,nowcast,1.1,0.8,1.4,1,1.2,0.31
-PI-Barras,2020-06-20,nowcast,1.1,0.8,1.4,1,1.2,0.3
-PI-Barras,2020-06-21,nowcast,1.1,0.8,1.4,0.9,1.2,0.32
-PI-Barras,2020-06-22,nowcast,1.1,0.8,1.4,1,1.2,0.3
-PI-Barras,2020-06-23,nowcast,1.1,0.8,1.4,1,1.2,0.25
-PI-Barras,2020-06-24,nowcast,1.1,0.8,1.4,1,1.2,0.23
-PI-Barras,2020-06-25,nowcast,1.1,0.9,1.4,1,1.2,0.2
-PI-Barras,2020-06-26,nowcast,1.1,0.9,1.4,1,1.2,0.19
-PI-Barras,2020-06-27,nowcast,1.1,0.8,1.4,1,1.2,0.19
-PI-Barras,2020-06-28,nowcast,1.1,0.9,1.4,1,1.2,0.2
+PI-Barras,2020-06-19,nowcast,1.1,0.8,1.4,1,1.2,0.3
+PI-Barras,2020-06-20,nowcast,1.1,0.8,1.4,1,1.2,0.32
+PI-Barras,2020-06-21,nowcast,1.1,0.8,1.4,1,1.2,0.32
+PI-Barras,2020-06-22,nowcast,1.1,0.8,1.4,1,1.2,0.29
+PI-Barras,2020-06-23,nowcast,1.1,0.8,1.4,1,1.2,0.27
+PI-Barras,2020-06-24,nowcast,1.1,0.8,1.4,1,1.2,0.22
+PI-Barras,2020-06-25,nowcast,1.1,0.9,1.5,1,1.2,0.22
+PI-Barras,2020-06-26,nowcast,1.1,0.8,1.4,1,1.2,0.2
+PI-Barras,2020-06-27,nowcast,1.1,0.9,1.4,1,1.2,0.2
+PI-Barras,2020-06-28,nowcast,1.1,0.9,1.4,1,1.2,0.19
 PI-Barras,2020-06-29,nowcast,1.1,0.9,1.4,1,1.2,0.19
-PI-Barras,2020-06-30,nowcast,1.1,0.9,1.4,1,1.2,0.2
-PI-Barras,2020-07-01,nowcast,1.1,0.8,1.4,1,1.2,0.22
-PI-Barras,2020-07-02,nowcast,1.1,0.8,1.4,1,1.2,0.22
-PI-Barras,2020-07-03,nowcast,1.1,0.8,1.3,1,1.2,0.23
-PI-Barras,2020-07-04,nowcast,1.1,0.8,1.3,1,1.2,0.25
-PI-Barras,2020-07-05,nowcast,1.1,0.8,1.3,1,1.2,0.26
-PI-Barras,2020-07-06,nowcast,1.1,0.8,1.3,1,1.2,0.27
-PI-Barras,2020-07-07,nowcast,1.1,0.8,1.3,1,1.1,0.3
-PI-Barras,2020-07-08,nowcast,1.1,0.8,1.3,1,1.1,0.32
-PI-Barras,2020-07-09,nowcast,1.1,0.8,1.3,1,1.1,0.32
-PI-Barras,2020-07-10,nowcast,1.1,0.8,1.3,1,1.2,0.31
-PI-Barras,2020-07-11,nowcast,1.1,0.8,1.3,1,1.1,0.27
-PI-Barras,2020-07-12,nowcast,1.1,0.9,1.4,1,1.2,0.19
-PI-Barras,2020-07-13,nowcast,1.1,0.9,1.4,1,1.2,0.15
-PI-Barras,2020-07-14,nowcast,1.1,0.9,1.4,1,1.2,0.13
-PI-Barras,2020-07-15,nowcast,1.2,0.9,1.4,1,1.2,0.12
-PI-Barras,2020-07-16,forecast,1.1,0.8,1.4,1,1.2,0.19
-PI-Barras,2020-07-17,forecast,1.1,0.8,1.5,1,1.2,0.22
-PI-Barras,2020-07-18,forecast,1.1,0.8,1.5,1,1.3,0.23
-PI-Barras,2020-07-19,forecast,1.1,0.8,1.5,1,1.3,0.24
-PI-Barras,2020-07-20,forecast,1.1,0.7,1.5,1,1.3,0.26
-PI-Barras,2020-07-21,forecast,1.1,0.8,1.5,1,1.3,0.27
-PI-Barras,2020-07-22,forecast,1.1,0.7,1.6,1,1.3,0.27
+PI-Barras,2020-06-30,nowcast,1.1,0.9,1.4,1,1.2,0.19
+PI-Barras,2020-07-01,nowcast,1.1,0.9,1.4,1,1.2,0.21
+PI-Barras,2020-07-02,nowcast,1.1,0.9,1.4,1,1.2,0.21
+PI-Barras,2020-07-03,nowcast,1.1,0.9,1.4,1,1.2,0.22
+PI-Barras,2020-07-04,nowcast,1.1,0.8,1.3,1,1.2,0.23
+PI-Barras,2020-07-05,nowcast,1.1,0.8,1.3,1,1.2,0.25
+PI-Barras,2020-07-06,nowcast,1.1,0.8,1.3,1,1.2,0.28
+PI-Barras,2020-07-07,nowcast,1.1,0.8,1.3,1,1.2,0.31
+PI-Barras,2020-07-08,nowcast,1.1,0.8,1.3,1,1.1,0.34
+PI-Barras,2020-07-09,nowcast,1.1,0.8,1.3,1,1.1,0.33
+PI-Barras,2020-07-10,nowcast,1.1,0.8,1.3,1,1.1,0.3
+PI-Barras,2020-07-11,nowcast,1.1,0.8,1.3,1,1.2,0.27
+PI-Barras,2020-07-12,nowcast,1.1,0.9,1.4,1,1.2,0.21
+PI-Barras,2020-07-13,nowcast,1.1,0.9,1.4,1,1.2,0.17
+PI-Barras,2020-07-14,nowcast,1.1,0.9,1.4,1,1.2,0.15
+PI-Barras,2020-07-15,nowcast,1.2,0.9,1.4,1.1,1.2,0.12
+PI-Barras,2020-07-16,nowcast,1.2,0.9,1.4,1.1,1.2,0.12
+PI-Barras,2020-07-17,forecast,1.1,0.9,1.5,1,1.3,0.19
+PI-Barras,2020-07-18,forecast,1.1,0.8,1.5,1,1.2,0.22
+PI-Barras,2020-07-19,forecast,1.1,0.8,1.5,1,1.3,0.23
+PI-Barras,2020-07-20,forecast,1.1,0.8,1.5,1,1.3,0.25
+PI-Barras,2020-07-21,forecast,1.1,0.8,1.5,1,1.3,0.25
+PI-Barras,2020-07-22,forecast,1.1,0.8,1.6,1,1.3,0.26
 PI-Barras,2020-07-23,forecast,1.1,0.7,1.6,1,1.3,0.27
-PI-Barras,2020-07-24,forecast,1.1,0.7,1.6,1,1.3,0.28
+PI-Barras,2020-07-24,forecast,1.1,0.7,1.5,1,1.3,0.27
 PI-Barras,2020-07-25,forecast,1.1,0.7,1.6,1,1.3,0.29
-PI-Barras,2020-07-26,forecast,1.1,0.6,1.6,0.9,1.3,0.3
-PI-Barras,2020-07-27,forecast,1.1,0.7,1.6,1,1.3,0.3
-PI-Barras,2020-07-28,forecast,1.1,0.7,1.7,0.9,1.3,0.3
-PI-Barras,2020-07-29,forecast,1.1,0.7,1.7,0.9,1.3,0.3
-PI-Bom Jesus,2020-05-19,nowcast,1.1,0.4,1.9,0.8,1.3,0.39
-PI-Bom Jesus,2020-05-20,nowcast,1.1,0.4,1.9,0.8,1.3,0.37
-PI-Bom Jesus,2020-05-21,nowcast,1.1,0.4,2,0.8,1.4,0.38
-PI-Bom Jesus,2020-05-22,nowcast,1.2,0.4,2,0.8,1.4,0.35
-PI-Bom Jesus,2020-05-23,nowcast,1.2,0.4,1.9,0.8,1.4,0.33
-PI-Bom Jesus,2020-05-24,nowcast,1.2,0.5,2,0.8,1.4,0.33
-PI-Bom Jesus,2020-05-25,nowcast,1.1,0.4,1.9,0.8,1.4,0.35
-PI-Bom Jesus,2020-05-26,nowcast,1.1,0.5,1.9,0.8,1.3,0.37
-PI-Bom Jesus,2020-05-27,nowcast,1.1,0.4,1.8,0.9,1.4,0.38
-PI-Bom Jesus,2020-05-28,nowcast,1.1,0.5,1.8,0.8,1.3,0.39
-PI-Bom Jesus,2020-05-29,nowcast,1.1,0.5,1.8,0.8,1.3,0.38
-PI-Bom Jesus,2020-05-30,nowcast,1.1,0.5,1.8,0.8,1.3,0.38
-PI-Bom Jesus,2020-05-31,nowcast,1.1,0.5,1.8,0.8,1.3,0.36
-PI-Bom Jesus,2020-06-01,nowcast,1.1,0.5,1.8,0.8,1.3,0.36
-PI-Bom Jesus,2020-06-02,nowcast,1.2,0.5,1.9,0.9,1.4,0.32
-PI-Bom Jesus,2020-06-03,nowcast,1.2,0.6,1.9,0.9,1.4,0.28
-PI-Bom Jesus,2020-06-04,nowcast,1.3,0.6,2,0.9,1.4,0.23
-PI-Bom Jesus,2020-06-05,nowcast,1.3,0.7,2,1,1.5,0.2
-PI-Bom Jesus,2020-06-06,nowcast,1.3,0.7,2,1,1.5,0.17
-PI-Bom Jesus,2020-06-07,nowcast,1.3,0.7,2.1,1,1.5,0.14
-PI-Bom Jesus,2020-06-08,nowcast,1.4,0.8,2.1,1,1.5,0.13
+PI-Barras,2020-07-26,forecast,1.1,0.7,1.6,1,1.3,0.29
+PI-Barras,2020-07-27,forecast,1.1,0.7,1.6,1,1.3,0.29
+PI-Barras,2020-07-28,forecast,1.1,0.7,1.6,1,1.3,0.3
+PI-Barras,2020-07-29,forecast,1.1,0.7,1.7,1,1.4,0.3
+PI-Barras,2020-07-30,forecast,1.1,0.6,1.7,1,1.3,0.3
+PI-Bom Jesus,2020-05-19,nowcast,1.1,0.4,1.9,0.8,1.4,0.36
+PI-Bom Jesus,2020-05-20,nowcast,1.1,0.5,2,0.8,1.4,0.36
+PI-Bom Jesus,2020-05-21,nowcast,1.1,0.4,1.9,0.8,1.3,0.36
+PI-Bom Jesus,2020-05-22,nowcast,1.2,0.4,2,0.8,1.4,0.33
+PI-Bom Jesus,2020-05-23,nowcast,1.2,0.4,1.9,0.9,1.4,0.34
+PI-Bom Jesus,2020-05-24,nowcast,1.2,0.5,2,0.8,1.4,0.34
+PI-Bom Jesus,2020-05-25,nowcast,1.2,0.4,1.9,0.8,1.4,0.34
+PI-Bom Jesus,2020-05-26,nowcast,1.1,0.5,1.9,0.8,1.3,0.36
+PI-Bom Jesus,2020-05-27,nowcast,1.1,0.5,1.9,0.8,1.3,0.37
+PI-Bom Jesus,2020-05-28,nowcast,1.1,0.4,1.8,0.8,1.3,0.39
+PI-Bom Jesus,2020-05-29,nowcast,1.1,0.4,1.8,0.8,1.3,0.38
+PI-Bom Jesus,2020-05-30,nowcast,1.1,0.5,1.8,0.9,1.3,0.37
+PI-Bom Jesus,2020-05-31,nowcast,1.1,0.5,1.8,0.9,1.3,0.38
+PI-Bom Jesus,2020-06-01,nowcast,1.1,0.5,1.8,0.8,1.3,0.35
+PI-Bom Jesus,2020-06-02,nowcast,1.1,0.5,1.8,0.8,1.3,0.33
+PI-Bom Jesus,2020-06-03,nowcast,1.2,0.6,2,0.9,1.4,0.29
+PI-Bom Jesus,2020-06-04,nowcast,1.2,0.6,2,0.9,1.4,0.24
+PI-Bom Jesus,2020-06-05,nowcast,1.3,0.6,2,1,1.5,0.2
+PI-Bom Jesus,2020-06-06,nowcast,1.3,0.7,2.1,1.1,1.5,0.16
+PI-Bom Jesus,2020-06-07,nowcast,1.4,0.7,2.1,1.1,1.6,0.15
+PI-Bom Jesus,2020-06-08,nowcast,1.4,0.8,2.1,1.1,1.5,0.13
 PI-Bom Jesus,2020-06-09,nowcast,1.4,0.8,2,1.1,1.6,0.11
-PI-Bom Jesus,2020-06-10,nowcast,1.4,0.8,2,1.1,1.6,0.1
-PI-Bom Jesus,2020-06-11,nowcast,1.4,0.8,2,1.1,1.5,0.09
-PI-Bom Jesus,2020-06-12,nowcast,1.4,0.9,1.9,1.1,1.5,0.1
+PI-Bom Jesus,2020-06-10,nowcast,1.4,0.8,2,1.1,1.5,0.1
+PI-Bom Jesus,2020-06-11,nowcast,1.4,0.9,2,1.1,1.6,0.1
+PI-Bom Jesus,2020-06-12,nowcast,1.4,0.8,1.9,1.1,1.5,0.09
 PI-Bom Jesus,2020-06-13,nowcast,1.4,0.8,1.9,1.2,1.5,0.09
-PI-Bom Jesus,2020-06-14,nowcast,1.3,0.8,1.8,1.1,1.5,0.12
-PI-Bom Jesus,2020-06-15,nowcast,1.3,0.8,1.7,1.1,1.5,0.15
-PI-Bom Jesus,2020-06-16,nowcast,1.2,0.8,1.7,1.1,1.4,0.19
-PI-Bom Jesus,2020-06-17,nowcast,1.2,0.8,1.6,1,1.3,0.22
-PI-Bom Jesus,2020-06-18,nowcast,1.1,0.7,1.5,1,1.3,0.27
-PI-Bom Jesus,2020-06-19,nowcast,1.1,0.7,1.5,1,1.3,0.33
-PI-Bom Jesus,2020-06-20,nowcast,1.1,0.7,1.4,0.9,1.2,0.38
-PI-Bom Jesus,2020-06-21,nowcast,1,0.7,1.4,0.9,1.2,0.42
-PI-Bom Jesus,2020-06-22,nowcast,1,0.7,1.4,0.9,1.1,0.45
-PI-Bom Jesus,2020-06-23,nowcast,1,0.7,1.3,0.9,1.1,0.51
-PI-Bom Jesus,2020-06-24,nowcast,1,0.6,1.4,0.8,1.1,0.52
-PI-Bom Jesus,2020-06-25,nowcast,1,0.6,1.3,0.8,1.1,0.55
+PI-Bom Jesus,2020-06-14,nowcast,1.3,0.9,1.8,1.1,1.5,0.1
+PI-Bom Jesus,2020-06-15,nowcast,1.3,0.8,1.8,1.1,1.5,0.16
+PI-Bom Jesus,2020-06-16,nowcast,1.2,0.8,1.7,1.1,1.4,0.18
+PI-Bom Jesus,2020-06-17,nowcast,1.2,0.7,1.6,1,1.3,0.23
+PI-Bom Jesus,2020-06-18,nowcast,1.1,0.7,1.5,1,1.3,0.28
+PI-Bom Jesus,2020-06-19,nowcast,1.1,0.7,1.5,0.9,1.2,0.32
+PI-Bom Jesus,2020-06-20,nowcast,1.1,0.7,1.4,0.9,1.2,0.4
+PI-Bom Jesus,2020-06-21,nowcast,1,0.7,1.4,0.9,1.2,0.43
+PI-Bom Jesus,2020-06-22,nowcast,1,0.6,1.3,0.9,1.1,0.49
+PI-Bom Jesus,2020-06-23,nowcast,1,0.7,1.3,0.9,1.1,0.53
+PI-Bom Jesus,2020-06-24,nowcast,1,0.7,1.4,0.9,1.1,0.52
+PI-Bom Jesus,2020-06-25,nowcast,1,0.6,1.3,0.8,1.1,0.53
 PI-Bom Jesus,2020-06-26,nowcast,1,0.6,1.3,0.8,1.1,0.55
 PI-Bom Jesus,2020-06-27,nowcast,1,0.6,1.3,0.8,1.1,0.56
 PI-Bom Jesus,2020-06-28,nowcast,1,0.6,1.3,0.8,1.1,0.57
-PI-Bom Jesus,2020-06-29,nowcast,1,0.6,1.3,0.8,1.1,0.6
-PI-Bom Jesus,2020-06-30,nowcast,1,0.6,1.3,0.8,1.1,0.58
+PI-Bom Jesus,2020-06-29,nowcast,1,0.6,1.3,0.8,1.1,0.58
+PI-Bom Jesus,2020-06-30,nowcast,1,0.6,1.3,0.8,1.1,0.6
 PI-Bom Jesus,2020-07-01,nowcast,1,0.6,1.3,0.8,1.1,0.58
-PI-Bom Jesus,2020-07-02,nowcast,1,0.6,1.3,0.8,1.1,0.58
-PI-Bom Jesus,2020-07-03,nowcast,1,0.6,1.3,0.8,1.1,0.58
-PI-Bom Jesus,2020-07-04,nowcast,1,0.6,1.3,0.8,1.1,0.58
-PI-Bom Jesus,2020-07-05,nowcast,1,0.6,1.4,0.8,1,0.58
+PI-Bom Jesus,2020-07-02,nowcast,1,0.6,1.3,0.8,1.1,0.56
+PI-Bom Jesus,2020-07-03,nowcast,1,0.6,1.3,0.8,1.1,0.57
+PI-Bom Jesus,2020-07-04,nowcast,1,0.6,1.3,0.8,1.1,0.57
+PI-Bom Jesus,2020-07-05,nowcast,1,0.6,1.4,0.8,1.1,0.56
 PI-Bom Jesus,2020-07-06,nowcast,1,0.6,1.4,0.8,1.1,0.54
-PI-Bom Jesus,2020-07-07,nowcast,1,0.6,1.4,0.8,1.1,0.5
-PI-Bom Jesus,2020-07-08,nowcast,1,0.7,1.4,0.9,1.2,0.43
-PI-Bom Jesus,2020-07-09,nowcast,1.1,0.7,1.5,0.9,1.2,0.38
-PI-Bom Jesus,2020-07-10,nowcast,1.1,0.7,1.6,0.9,1.2,0.32
-PI-Bom Jesus,2020-07-11,nowcast,1.1,0.7,1.6,0.9,1.2,0.29
-PI-Bom Jesus,2020-07-12,nowcast,1.1,0.8,1.6,1,1.3,0.26
-PI-Bom Jesus,2020-07-13,nowcast,1.1,0.8,1.6,1,1.3,0.26
-PI-Bom Jesus,2020-07-14,nowcast,1.1,0.7,1.5,1,1.2,0.25
-PI-Bom Jesus,2020-07-15,nowcast,1.2,0.8,1.6,1,1.3,0.21
-PI-Bom Jesus,2020-07-16,forecast,1.2,0.7,1.7,1,1.3,0.28
-PI-Bom Jesus,2020-07-17,forecast,1.2,0.7,1.7,1,1.4,0.29
-PI-Bom Jesus,2020-07-18,forecast,1.1,0.5,1.7,0.9,1.4,0.33
-PI-Bom Jesus,2020-07-19,forecast,1.2,0.6,1.8,0.9,1.3,0.32
-PI-Bom Jesus,2020-07-20,forecast,1.2,0.6,1.8,0.9,1.4,0.32
-PI-Bom Jesus,2020-07-21,forecast,1.2,0.5,1.8,0.9,1.4,0.33
-PI-Bom Jesus,2020-07-22,forecast,1.2,0.5,1.8,0.9,1.4,0.33
-PI-Bom Jesus,2020-07-23,forecast,1.2,0.5,2,0.9,1.4,0.34
-PI-Bom Jesus,2020-07-24,forecast,1.2,0.4,1.9,0.9,1.4,0.34
-PI-Bom Jesus,2020-07-25,forecast,1.2,0.4,1.9,0.9,1.4,0.35
-PI-Bom Jesus,2020-07-26,forecast,1.2,0.4,1.9,0.9,1.4,0.34
-PI-Bom Jesus,2020-07-27,forecast,1.2,0.4,2,0.9,1.5,0.35
-PI-Bom Jesus,2020-07-28,forecast,1.2,0.4,2,0.8,1.4,0.36
-PI-Bom Jesus,2020-07-29,forecast,1.2,0.4,2,0.8,1.4,0.36
-PI-Buriti dos Lopes,2020-05-29,nowcast,1.3,0.7,2,1,1.5,0.16
-PI-Buriti dos Lopes,2020-05-30,nowcast,1.3,0.7,2,1,1.5,0.17
-PI-Buriti dos Lopes,2020-05-31,nowcast,1.3,0.6,1.9,1,1.5,0.2
-PI-Buriti dos Lopes,2020-06-01,nowcast,1.3,0.6,1.9,1,1.5,0.21
-PI-Buriti dos Lopes,2020-06-02,nowcast,1.3,0.7,1.9,1,1.5,0.21
-PI-Buriti dos Lopes,2020-06-03,nowcast,1.2,0.7,1.8,1,1.4,0.2
-PI-Buriti dos Lopes,2020-06-04,nowcast,1.2,0.7,1.8,1,1.4,0.2
-PI-Buriti dos Lopes,2020-06-05,nowcast,1.2,0.8,1.8,1,1.4,0.21
-PI-Buriti dos Lopes,2020-06-06,nowcast,1.2,0.8,1.7,1,1.4,0.2
-PI-Buriti dos Lopes,2020-06-07,nowcast,1.2,0.7,1.8,1,1.4,0.21
+PI-Bom Jesus,2020-07-07,nowcast,1,0.6,1.4,0.9,1.1,0.5
+PI-Bom Jesus,2020-07-08,nowcast,1,0.6,1.4,0.8,1.1,0.43
+PI-Bom Jesus,2020-07-09,nowcast,1.1,0.7,1.5,0.9,1.2,0.4
+PI-Bom Jesus,2020-07-10,nowcast,1.1,0.7,1.5,0.9,1.2,0.35
+PI-Bom Jesus,2020-07-11,nowcast,1.1,0.7,1.5,0.9,1.2,0.31
+PI-Bom Jesus,2020-07-12,nowcast,1.1,0.7,1.5,1,1.2,0.29
+PI-Bom Jesus,2020-07-13,nowcast,1.1,0.7,1.5,1,1.2,0.28
+PI-Bom Jesus,2020-07-14,nowcast,1.1,0.7,1.6,1,1.3,0.26
+PI-Bom Jesus,2020-07-15,nowcast,1.2,0.8,1.6,1,1.3,0.23
+PI-Bom Jesus,2020-07-16,nowcast,1.2,0.8,1.7,1,1.3,0.2
+PI-Bom Jesus,2020-07-17,forecast,1.2,0.7,1.7,0.9,1.3,0.26
+PI-Bom Jesus,2020-07-18,forecast,1.2,0.7,1.7,0.9,1.4,0.29
+PI-Bom Jesus,2020-07-19,forecast,1.2,0.6,1.8,0.9,1.3,0.3
+PI-Bom Jesus,2020-07-20,forecast,1.2,0.5,1.8,0.9,1.4,0.31
+PI-Bom Jesus,2020-07-21,forecast,1.2,0.6,1.9,0.9,1.4,0.31
+PI-Bom Jesus,2020-07-22,forecast,1.2,0.5,1.8,0.9,1.3,0.34
+PI-Bom Jesus,2020-07-23,forecast,1.2,0.5,1.9,0.9,1.4,0.33
+PI-Bom Jesus,2020-07-24,forecast,1.2,0.5,1.9,0.9,1.4,0.33
+PI-Bom Jesus,2020-07-25,forecast,1.2,0.5,2,0.9,1.4,0.34
+PI-Bom Jesus,2020-07-26,forecast,1.2,0.4,2,0.8,1.4,0.35
+PI-Bom Jesus,2020-07-27,forecast,1.2,0.4,2,0.8,1.4,0.35
+PI-Bom Jesus,2020-07-28,forecast,1.2,0.4,2,0.8,1.4,0.35
+PI-Bom Jesus,2020-07-29,forecast,1.2,0.4,2,0.8,1.4,0.34
+PI-Bom Jesus,2020-07-30,forecast,1.2,0.3,2,0.8,1.4,0.35
+PI-Buriti dos Lopes,2020-05-29,nowcast,1.3,0.6,2.1,1,1.6,0.18
+PI-Buriti dos Lopes,2020-05-30,nowcast,1.3,0.7,2,1,1.5,0.19
+PI-Buriti dos Lopes,2020-05-31,nowcast,1.3,0.7,2,1,1.5,0.19
+PI-Buriti dos Lopes,2020-06-01,nowcast,1.3,0.7,1.9,1.1,1.5,0.19
+PI-Buriti dos Lopes,2020-06-02,nowcast,1.2,0.7,1.8,1,1.4,0.22
+PI-Buriti dos Lopes,2020-06-03,nowcast,1.2,0.7,1.8,1,1.4,0.22
+PI-Buriti dos Lopes,2020-06-04,nowcast,1.2,0.7,1.8,1,1.4,0.21
+PI-Buriti dos Lopes,2020-06-05,nowcast,1.2,0.7,1.8,1,1.4,0.18
+PI-Buriti dos Lopes,2020-06-06,nowcast,1.2,0.7,1.8,1,1.4,0.19
+PI-Buriti dos Lopes,2020-06-07,nowcast,1.2,0.7,1.7,1,1.4,0.21
 PI-Buriti dos Lopes,2020-06-08,nowcast,1.2,0.7,1.7,1,1.4,0.22
-PI-Buriti dos Lopes,2020-06-09,nowcast,1.2,0.7,1.7,1,1.4,0.26
-PI-Buriti dos Lopes,2020-06-10,nowcast,1.2,0.7,1.6,1,1.3,0.27
-PI-Buriti dos Lopes,2020-06-11,nowcast,1.1,0.7,1.6,1,1.3,0.26
-PI-Buriti dos Lopes,2020-06-12,nowcast,1.1,0.7,1.6,0.9,1.3,0.27
+PI-Buriti dos Lopes,2020-06-09,nowcast,1.2,0.7,1.6,1,1.4,0.24
+PI-Buriti dos Lopes,2020-06-10,nowcast,1.2,0.7,1.6,1,1.3,0.26
+PI-Buriti dos Lopes,2020-06-11,nowcast,1.1,0.7,1.6,1,1.3,0.27
+PI-Buriti dos Lopes,2020-06-12,nowcast,1.1,0.7,1.6,1,1.3,0.28
 PI-Buriti dos Lopes,2020-06-13,nowcast,1.1,0.7,1.6,1,1.3,0.27
-PI-Buriti dos Lopes,2020-06-14,nowcast,1.1,0.7,1.5,0.9,1.2,0.28
-PI-Buriti dos Lopes,2020-06-15,nowcast,1.1,0.7,1.5,1,1.3,0.29
-PI-Buriti dos Lopes,2020-06-16,nowcast,1.1,0.7,1.5,0.9,1.2,0.34
-PI-Buriti dos Lopes,2020-06-17,nowcast,1.1,0.7,1.5,0.9,1.2,0.37
-PI-Buriti dos Lopes,2020-06-18,nowcast,1.1,0.7,1.4,0.9,1.2,0.4
-PI-Buriti dos Lopes,2020-06-19,nowcast,1,0.6,1.4,0.9,1.2,0.43
+PI-Buriti dos Lopes,2020-06-14,nowcast,1.1,0.7,1.5,1,1.3,0.28
+PI-Buriti dos Lopes,2020-06-15,nowcast,1.1,0.7,1.5,0.9,1.2,0.3
+PI-Buriti dos Lopes,2020-06-16,nowcast,1.1,0.7,1.5,1,1.3,0.33
+PI-Buriti dos Lopes,2020-06-17,nowcast,1.1,0.7,1.5,0.9,1.2,0.35
+PI-Buriti dos Lopes,2020-06-18,nowcast,1.1,0.7,1.4,0.9,1.2,0.39
+PI-Buriti dos Lopes,2020-06-19,nowcast,1,0.7,1.4,0.9,1.2,0.43
 PI-Buriti dos Lopes,2020-06-20,nowcast,1,0.6,1.4,0.9,1.2,0.46
-PI-Buriti dos Lopes,2020-06-21,nowcast,1,0.6,1.3,0.8,1.1,0.53
+PI-Buriti dos Lopes,2020-06-21,nowcast,1,0.6,1.3,0.8,1.1,0.54
 PI-Buriti dos Lopes,2020-06-22,nowcast,1,0.6,1.3,0.8,1.1,0.57
-PI-Buriti dos Lopes,2020-06-23,nowcast,1,0.6,1.3,0.8,1.1,0.59
-PI-Buriti dos Lopes,2020-06-24,nowcast,1,0.6,1.3,0.8,1.1,0.57
-PI-Buriti dos Lopes,2020-06-25,nowcast,1,0.6,1.4,0.8,1.1,0.51
+PI-Buriti dos Lopes,2020-06-23,nowcast,1,0.6,1.3,0.8,1.1,0.57
+PI-Buriti dos Lopes,2020-06-24,nowcast,1,0.6,1.4,0.8,1.1,0.56
+PI-Buriti dos Lopes,2020-06-25,nowcast,1,0.6,1.4,0.8,1.1,0.52
 PI-Buriti dos Lopes,2020-06-26,nowcast,1,0.6,1.4,0.8,1.1,0.47
-PI-Buriti dos Lopes,2020-06-27,nowcast,1,0.7,1.5,0.9,1.2,0.42
-PI-Buriti dos Lopes,2020-06-28,nowcast,1.1,0.7,1.5,0.9,1.2,0.36
-PI-Buriti dos Lopes,2020-06-29,nowcast,1.1,0.7,1.5,0.9,1.2,0.36
-PI-Buriti dos Lopes,2020-06-30,nowcast,1.1,0.7,1.5,0.9,1.2,0.35
-PI-Buriti dos Lopes,2020-07-01,nowcast,1.1,0.7,1.4,0.9,1.2,0.35
+PI-Buriti dos Lopes,2020-06-27,nowcast,1.1,0.7,1.5,0.9,1.2,0.4
+PI-Buriti dos Lopes,2020-06-28,nowcast,1.1,0.7,1.5,0.9,1.2,0.37
+PI-Buriti dos Lopes,2020-06-29,nowcast,1.1,0.7,1.5,0.9,1.2,0.35
+PI-Buriti dos Lopes,2020-06-30,nowcast,1.1,0.7,1.5,0.9,1.2,0.37
+PI-Buriti dos Lopes,2020-07-01,nowcast,1.1,0.7,1.4,0.9,1.2,0.37
 PI-Buriti dos Lopes,2020-07-02,nowcast,1.1,0.7,1.5,0.9,1.2,0.35
 PI-Buriti dos Lopes,2020-07-03,nowcast,1.1,0.7,1.5,0.9,1.2,0.33
-PI-Buriti dos Lopes,2020-07-04,nowcast,1.1,0.7,1.4,0.9,1.2,0.35
-PI-Buriti dos Lopes,2020-07-05,nowcast,1,0.7,1.4,0.9,1.2,0.41
-PI-Buriti dos Lopes,2020-07-06,nowcast,1,0.7,1.4,0.9,1.1,0.45
-PI-Buriti dos Lopes,2020-07-07,nowcast,1,0.7,1.4,0.9,1.1,0.49
-PI-Buriti dos Lopes,2020-07-08,nowcast,1,0.7,1.4,0.9,1.1,0.47
-PI-Buriti dos Lopes,2020-07-09,nowcast,1,0.7,1.4,0.9,1.1,0.43
-PI-Buriti dos Lopes,2020-07-10,nowcast,1.1,0.7,1.5,0.9,1.2,0.38
-PI-Buriti dos Lopes,2020-07-11,nowcast,1.1,0.8,1.6,0.9,1.2,0.3
-PI-Buriti dos Lopes,2020-07-12,nowcast,1.1,0.8,1.6,1,1.3,0.25
-PI-Buriti dos Lopes,2020-07-13,nowcast,1.2,0.8,1.6,1,1.3,0.23
-PI-Buriti dos Lopes,2020-07-14,nowcast,1.2,0.8,1.5,1,1.2,0.23
-PI-Buriti dos Lopes,2020-07-15,forecast,1.1,0.7,1.6,0.9,1.3,0.29
-PI-Buriti dos Lopes,2020-07-16,forecast,1.1,0.6,1.6,0.9,1.3,0.32
+PI-Buriti dos Lopes,2020-07-04,nowcast,1.1,0.7,1.5,0.9,1.2,0.33
+PI-Buriti dos Lopes,2020-07-05,nowcast,1.1,0.7,1.4,0.9,1.2,0.37
+PI-Buriti dos Lopes,2020-07-06,nowcast,1,0.7,1.4,0.9,1.2,0.45
+PI-Buriti dos Lopes,2020-07-07,nowcast,1,0.7,1.3,0.9,1.1,0.49
+PI-Buriti dos Lopes,2020-07-08,nowcast,1,0.7,1.4,0.9,1.1,0.46
+PI-Buriti dos Lopes,2020-07-09,nowcast,1,0.7,1.4,0.9,1.2,0.42
+PI-Buriti dos Lopes,2020-07-10,nowcast,1.1,0.7,1.5,0.9,1.2,0.35
+PI-Buriti dos Lopes,2020-07-11,nowcast,1.1,0.7,1.5,0.9,1.2,0.31
+PI-Buriti dos Lopes,2020-07-12,nowcast,1.1,0.8,1.5,0.9,1.2,0.29
+PI-Buriti dos Lopes,2020-07-13,nowcast,1.1,0.8,1.6,1,1.2,0.25
+PI-Buriti dos Lopes,2020-07-14,nowcast,1.1,0.8,1.5,1,1.3,0.24
+PI-Buriti dos Lopes,2020-07-15,forecast,1.1,0.7,1.6,1,1.3,0.29
+PI-Buriti dos Lopes,2020-07-16,forecast,1.1,0.7,1.6,0.9,1.3,0.33
 PI-Buriti dos Lopes,2020-07-17,forecast,1.1,0.6,1.7,0.9,1.3,0.32
-PI-Buriti dos Lopes,2020-07-18,forecast,1.1,0.6,1.7,0.9,1.3,0.32
-PI-Buriti dos Lopes,2020-07-19,forecast,1.1,0.5,1.7,0.9,1.3,0.34
-PI-Buriti dos Lopes,2020-07-20,forecast,1.1,0.5,1.8,0.9,1.3,0.33
-PI-Buriti dos Lopes,2020-07-21,forecast,1.1,0.5,1.8,0.9,1.4,0.34
-PI-Buriti dos Lopes,2020-07-22,forecast,1.1,0.5,1.8,0.9,1.4,0.35
-PI-Buriti dos Lopes,2020-07-23,forecast,1.1,0.5,1.9,0.9,1.4,0.35
-PI-Buriti dos Lopes,2020-07-24,forecast,1.1,0.4,1.9,0.9,1.5,0.35
-PI-Buriti dos Lopes,2020-07-25,forecast,1.1,0.4,1.9,0.9,1.4,0.36
+PI-Buriti dos Lopes,2020-07-18,forecast,1.1,0.6,1.7,0.9,1.3,0.33
+PI-Buriti dos Lopes,2020-07-19,forecast,1.1,0.6,1.7,0.9,1.3,0.35
+PI-Buriti dos Lopes,2020-07-20,forecast,1.1,0.5,1.7,0.9,1.3,0.35
+PI-Buriti dos Lopes,2020-07-21,forecast,1.1,0.5,1.8,0.9,1.4,0.36
+PI-Buriti dos Lopes,2020-07-22,forecast,1.1,0.5,1.8,0.8,1.3,0.36
+PI-Buriti dos Lopes,2020-07-23,forecast,1.1,0.5,1.8,0.9,1.4,0.36
+PI-Buriti dos Lopes,2020-07-24,forecast,1.1,0.4,1.8,0.8,1.4,0.36
+PI-Buriti dos Lopes,2020-07-25,forecast,1.1,0.5,1.9,0.8,1.4,0.36
 PI-Buriti dos Lopes,2020-07-26,forecast,1.1,0.4,1.9,0.9,1.4,0.37
-PI-Buriti dos Lopes,2020-07-27,forecast,1.2,0.4,1.9,0.8,1.4,0.36
-PI-Buriti dos Lopes,2020-07-28,forecast,1.1,0.3,2,0.8,1.4,0.36
-PI-Campo Maior,2020-05-11,nowcast,1.1,0.6,1.7,0.9,1.3,0.35
-PI-Campo Maior,2020-05-12,nowcast,1.1,0.6,1.6,0.9,1.2,0.4
-PI-Campo Maior,2020-05-13,nowcast,1,0.5,1.6,0.8,1.2,0.46
-PI-Campo Maior,2020-05-14,nowcast,1,0.5,1.5,0.8,1.2,0.46
-PI-Campo Maior,2020-05-15,nowcast,1,0.5,1.6,0.8,1.2,0.44
-PI-Campo Maior,2020-05-16,nowcast,1.1,0.6,1.6,0.8,1.2,0.41
-PI-Campo Maior,2020-05-17,nowcast,1.1,0.6,1.7,0.9,1.3,0.37
+PI-Buriti dos Lopes,2020-07-27,forecast,1.1,0.4,1.9,0.8,1.4,0.38
+PI-Buriti dos Lopes,2020-07-28,forecast,1.1,0.4,2,0.8,1.4,0.38
+PI-Campo Maior,2020-05-11,nowcast,1.1,0.6,1.7,0.9,1.3,0.32
+PI-Campo Maior,2020-05-12,nowcast,1.1,0.6,1.6,0.9,1.3,0.39
+PI-Campo Maior,2020-05-13,nowcast,1,0.5,1.5,0.8,1.2,0.45
+PI-Campo Maior,2020-05-14,nowcast,1,0.5,1.5,0.8,1.2,0.48
+PI-Campo Maior,2020-05-15,nowcast,1,0.5,1.5,0.8,1.2,0.45
+PI-Campo Maior,2020-05-16,nowcast,1.1,0.5,1.6,0.8,1.2,0.41
+PI-Campo Maior,2020-05-17,nowcast,1.1,0.6,1.6,0.9,1.2,0.36
 PI-Campo Maior,2020-05-18,nowcast,1.1,0.6,1.7,0.9,1.3,0.33
-PI-Campo Maior,2020-05-19,nowcast,1.2,0.7,1.7,0.9,1.3,0.3
-PI-Campo Maior,2020-05-20,nowcast,1.2,0.7,1.7,0.9,1.3,0.26
-PI-Campo Maior,2020-05-21,nowcast,1.2,0.7,1.7,1,1.4,0.23
-PI-Campo Maior,2020-05-22,nowcast,1.2,0.7,1.7,1,1.4,0.2
-PI-Campo Maior,2020-05-23,nowcast,1.2,0.8,1.8,1,1.4,0.18
-PI-Campo Maior,2020-05-24,nowcast,1.3,0.8,1.8,1,1.4,0.15
-PI-Campo Maior,2020-05-25,nowcast,1.3,0.8,1.7,1.1,1.4,0.15
-PI-Campo Maior,2020-05-26,nowcast,1.3,0.8,1.7,1.1,1.4,0.15
-PI-Campo Maior,2020-05-27,nowcast,1.3,0.8,1.7,1,1.4,0.15
-PI-Campo Maior,2020-05-28,nowcast,1.2,0.8,1.7,1,1.4,0.16
-PI-Campo Maior,2020-05-29,nowcast,1.2,0.8,1.7,1.1,1.4,0.17
-PI-Campo Maior,2020-05-30,nowcast,1.2,0.8,1.6,1.1,1.4,0.17
+PI-Campo Maior,2020-05-19,nowcast,1.2,0.6,1.7,0.9,1.3,0.29
+PI-Campo Maior,2020-05-20,nowcast,1.2,0.7,1.7,1,1.4,0.26
+PI-Campo Maior,2020-05-21,nowcast,1.2,0.7,1.8,1,1.4,0.22
+PI-Campo Maior,2020-05-22,nowcast,1.2,0.8,1.8,1,1.4,0.2
+PI-Campo Maior,2020-05-23,nowcast,1.2,0.7,1.8,1,1.4,0.17
+PI-Campo Maior,2020-05-24,nowcast,1.3,0.8,1.8,1.1,1.4,0.16
+PI-Campo Maior,2020-05-25,nowcast,1.3,0.8,1.8,1.1,1.4,0.14
+PI-Campo Maior,2020-05-26,nowcast,1.3,0.8,1.8,1.1,1.4,0.14
+PI-Campo Maior,2020-05-27,nowcast,1.3,0.8,1.8,1.1,1.4,0.15
+PI-Campo Maior,2020-05-28,nowcast,1.2,0.8,1.6,1,1.4,0.15
+PI-Campo Maior,2020-05-29,nowcast,1.2,0.8,1.6,1.1,1.4,0.17
+PI-Campo Maior,2020-05-30,nowcast,1.2,0.8,1.6,1.1,1.4,0.19
 PI-Campo Maior,2020-05-31,nowcast,1.2,0.8,1.6,1,1.3,0.19
-PI-Campo Maior,2020-06-01,nowcast,1.2,0.8,1.6,1,1.3,0.19
-PI-Campo Maior,2020-06-02,nowcast,1.2,0.8,1.6,1.1,1.3,0.16
-PI-Campo Maior,2020-06-03,nowcast,1.2,0.9,1.6,1.1,1.4,0.13
-PI-Campo Maior,2020-06-04,nowcast,1.2,0.9,1.7,1.1,1.4,0.11
+PI-Campo Maior,2020-06-01,nowcast,1.2,0.8,1.6,1,1.3,0.18
+PI-Campo Maior,2020-06-02,nowcast,1.2,0.8,1.6,1,1.3,0.15
+PI-Campo Maior,2020-06-03,nowcast,1.2,0.9,1.7,1.1,1.3,0.13
+PI-Campo Maior,2020-06-04,nowcast,1.2,0.9,1.6,1.1,1.4,0.11
 PI-Campo Maior,2020-06-05,nowcast,1.3,0.9,1.7,1.1,1.4,0.08
-PI-Campo Maior,2020-06-06,nowcast,1.3,0.9,1.6,1.1,1.4,0.07
-PI-Campo Maior,2020-06-07,nowcast,1.3,1,1.6,1.1,1.4,0.07
+PI-Campo Maior,2020-06-06,nowcast,1.3,0.9,1.7,1.1,1.4,0.08
+PI-Campo Maior,2020-06-07,nowcast,1.3,0.9,1.6,1.1,1.4,0.08
 PI-Campo Maior,2020-06-08,nowcast,1.3,0.9,1.6,1.1,1.4,0.07
-PI-Campo Maior,2020-06-09,nowcast,1.3,0.9,1.6,1.1,1.4,0.07
-PI-Campo Maior,2020-06-10,nowcast,1.3,1,1.6,1.1,1.4,0.07
-PI-Campo Maior,2020-06-11,nowcast,1.2,0.9,1.5,1.1,1.3,0.09
-PI-Campo Maior,2020-06-12,nowcast,1.2,0.9,1.5,1.1,1.3,0.09
-PI-Campo Maior,2020-06-13,nowcast,1.2,0.9,1.5,1.1,1.3,0.13
-PI-Campo Maior,2020-06-14,nowcast,1.2,0.9,1.4,1.1,1.3,0.15
-PI-Campo Maior,2020-06-15,nowcast,1.1,0.9,1.4,1,1.2,0.21
+PI-Campo Maior,2020-06-09,nowcast,1.2,0.9,1.6,1.1,1.4,0.09
+PI-Campo Maior,2020-06-10,nowcast,1.2,0.9,1.6,1.1,1.4,0.09
+PI-Campo Maior,2020-06-11,nowcast,1.2,0.9,1.6,1.1,1.3,0.09
+PI-Campo Maior,2020-06-12,nowcast,1.2,0.9,1.5,1.1,1.3,0.1
+PI-Campo Maior,2020-06-13,nowcast,1.2,0.9,1.5,1.1,1.3,0.12
+PI-Campo Maior,2020-06-14,nowcast,1.2,0.9,1.4,1.1,1.3,0.16
+PI-Campo Maior,2020-06-15,nowcast,1.1,0.9,1.4,1,1.2,0.19
 PI-Campo Maior,2020-06-16,nowcast,1.1,0.9,1.4,1,1.2,0.21
 PI-Campo Maior,2020-06-17,nowcast,1.1,0.8,1.3,1,1.2,0.25
 PI-Campo Maior,2020-06-18,nowcast,1.1,0.8,1.3,1,1.2,0.26
-PI-Campo Maior,2020-06-19,nowcast,1.1,0.8,1.3,1,1.2,0.29
-PI-Campo Maior,2020-06-20,nowcast,1.1,0.8,1.3,1,1.1,0.31
-PI-Campo Maior,2020-06-21,nowcast,1,0.8,1.3,0.9,1.1,0.37
-PI-Campo Maior,2020-06-22,nowcast,1,0.8,1.2,0.9,1.1,0.43
-PI-Campo Maior,2020-06-23,nowcast,1,0.8,1.3,0.9,1.1,0.44
-PI-Campo Maior,2020-06-24,nowcast,1,0.8,1.2,0.9,1.1,0.48
-PI-Campo Maior,2020-06-25,nowcast,1,0.8,1.2,0.9,1.1,0.49
+PI-Campo Maior,2020-06-19,nowcast,1.1,0.8,1.3,1,1.2,0.28
+PI-Campo Maior,2020-06-20,nowcast,1.1,0.8,1.3,1,1.1,0.32
+PI-Campo Maior,2020-06-21,nowcast,1,0.8,1.3,1,1.1,0.36
+PI-Campo Maior,2020-06-22,nowcast,1,0.8,1.3,0.9,1.1,0.4
+PI-Campo Maior,2020-06-23,nowcast,1,0.8,1.2,0.9,1.1,0.45
+PI-Campo Maior,2020-06-24,nowcast,1,0.8,1.2,0.9,1.1,0.45
+PI-Campo Maior,2020-06-25,nowcast,1,0.8,1.2,0.9,1.1,0.47
 PI-Campo Maior,2020-06-26,nowcast,1,0.8,1.2,0.9,1.1,0.51
-PI-Campo Maior,2020-06-27,nowcast,1,0.8,1.2,0.9,1.1,0.53
-PI-Campo Maior,2020-06-28,nowcast,1,0.8,1.2,0.9,1.1,0.56
-PI-Campo Maior,2020-06-29,nowcast,1,0.7,1.2,0.9,1.1,0.61
-PI-Campo Maior,2020-06-30,nowcast,1,0.7,1.2,0.9,1,0.63
-PI-Campo Maior,2020-07-01,nowcast,1,0.7,1.2,0.9,1,0.6
-PI-Campo Maior,2020-07-02,nowcast,1,0.8,1.2,0.9,1.1,0.57
+PI-Campo Maior,2020-06-27,nowcast,1,0.8,1.2,0.9,1.1,0.52
+PI-Campo Maior,2020-06-28,nowcast,1,0.8,1.2,0.9,1,0.58
+PI-Campo Maior,2020-06-29,nowcast,1,0.8,1.2,0.9,1,0.6
+PI-Campo Maior,2020-06-30,nowcast,1,0.7,1.2,0.9,1.1,0.63
+PI-Campo Maior,2020-07-01,nowcast,1,0.8,1.2,0.9,1.1,0.6
+PI-Campo Maior,2020-07-02,nowcast,1,0.7,1.2,0.9,1.1,0.56
 PI-Campo Maior,2020-07-03,nowcast,1,0.8,1.2,0.9,1.1,0.51
-PI-Campo Maior,2020-07-04,nowcast,1,0.8,1.3,0.9,1.1,0.47
-PI-Campo Maior,2020-07-05,nowcast,1,0.8,1.3,0.9,1.1,0.43
-PI-Campo Maior,2020-07-06,nowcast,1,0.8,1.3,0.9,1.1,0.39
-PI-Campo Maior,2020-07-07,nowcast,1,0.8,1.3,0.9,1.1,0.36
-PI-Campo Maior,2020-07-08,nowcast,1.1,0.8,1.3,1,1.1,0.32
+PI-Campo Maior,2020-07-04,nowcast,1,0.8,1.2,0.9,1.1,0.47
+PI-Campo Maior,2020-07-05,nowcast,1,0.8,1.3,0.9,1.1,0.44
+PI-Campo Maior,2020-07-06,nowcast,1,0.8,1.3,0.9,1.1,0.41
+PI-Campo Maior,2020-07-07,nowcast,1,0.8,1.3,0.9,1.1,0.38
+PI-Campo Maior,2020-07-08,nowcast,1.1,0.8,1.3,0.9,1.1,0.34
 PI-Campo Maior,2020-07-09,nowcast,1.1,0.8,1.3,1,1.1,0.32
-PI-Campo Maior,2020-07-10,nowcast,1.1,0.8,1.3,1,1.1,0.33
-PI-Campo Maior,2020-07-11,nowcast,1,0.8,1.3,0.9,1.1,0.38
-PI-Campo Maior,2020-07-12,nowcast,1,0.8,1.2,0.9,1.1,0.44
-PI-Campo Maior,2020-07-13,nowcast,1,0.8,1.2,0.9,1.1,0.49
-PI-Campo Maior,2020-07-14,nowcast,1,0.8,1.3,0.9,1.1,0.49
-PI-Campo Maior,2020-07-15,nowcast,1,0.8,1.3,0.9,1.1,0.43
-PI-Campo Maior,2020-07-16,forecast,1,0.7,1.3,0.9,1.1,0.45
-PI-Campo Maior,2020-07-17,forecast,1,0.7,1.3,0.9,1.1,0.45
-PI-Campo Maior,2020-07-18,forecast,1,0.7,1.4,0.9,1.2,0.45
-PI-Campo Maior,2020-07-19,forecast,1,0.7,1.4,0.9,1.2,0.44
-PI-Campo Maior,2020-07-20,forecast,1,0.7,1.4,0.9,1.2,0.44
-PI-Campo Maior,2020-07-21,forecast,1,0.7,1.4,0.9,1.2,0.44
-PI-Campo Maior,2020-07-22,forecast,1,0.6,1.4,0.9,1.2,0.45
-PI-Campo Maior,2020-07-23,forecast,1,0.7,1.4,0.9,1.2,0.45
-PI-Campo Maior,2020-07-24,forecast,1,0.6,1.4,0.9,1.2,0.45
-PI-Campo Maior,2020-07-25,forecast,1,0.6,1.4,0.9,1.2,0.45
-PI-Campo Maior,2020-07-26,forecast,1,0.6,1.4,0.8,1.2,0.47
-PI-Campo Maior,2020-07-27,forecast,1,0.6,1.5,0.9,1.2,0.45
-PI-Campo Maior,2020-07-28,forecast,1,0.6,1.4,0.9,1.2,0.45
-PI-Campo Maior,2020-07-29,forecast,1,0.6,1.5,0.9,1.2,0.45
-PI-Cocal,2020-06-13,nowcast,1.4,0.7,2.1,1,1.5,0.14
-PI-Cocal,2020-06-14,nowcast,1.4,0.8,2.1,1.1,1.6,0.13
-PI-Cocal,2020-06-15,nowcast,1.4,0.8,2.1,1.1,1.6,0.13
-PI-Cocal,2020-06-16,nowcast,1.4,0.8,2,1.1,1.5,0.13
-PI-Cocal,2020-06-17,nowcast,1.3,0.8,1.9,1.1,1.5,0.12
-PI-Cocal,2020-06-18,nowcast,1.4,0.8,1.9,1.1,1.6,0.13
-PI-Cocal,2020-06-19,nowcast,1.3,0.8,1.9,1.1,1.5,0.11
+PI-Campo Maior,2020-07-10,nowcast,1.1,0.8,1.3,1,1.1,0.3
+PI-Campo Maior,2020-07-11,nowcast,1,0.8,1.3,1,1.1,0.34
+PI-Campo Maior,2020-07-12,nowcast,1,0.8,1.3,1,1.1,0.4
+PI-Campo Maior,2020-07-13,nowcast,1,0.8,1.2,0.9,1.1,0.45
+PI-Campo Maior,2020-07-14,nowcast,1,0.8,1.2,0.9,1.1,0.46
+PI-Campo Maior,2020-07-15,nowcast,1,0.8,1.3,0.9,1.1,0.4
+PI-Campo Maior,2020-07-16,nowcast,1.1,0.8,1.4,1,1.2,0.3
+PI-Campo Maior,2020-07-17,forecast,1.1,0.8,1.4,0.9,1.2,0.37
+PI-Campo Maior,2020-07-18,forecast,1.1,0.8,1.4,0.9,1.2,0.38
+PI-Campo Maior,2020-07-19,forecast,1.1,0.7,1.4,0.9,1.2,0.38
+PI-Campo Maior,2020-07-20,forecast,1.1,0.7,1.4,0.9,1.2,0.39
+PI-Campo Maior,2020-07-21,forecast,1,0.7,1.4,0.9,1.2,0.4
+PI-Campo Maior,2020-07-22,forecast,1.1,0.7,1.5,0.9,1.2,0.39
+PI-Campo Maior,2020-07-23,forecast,1.1,0.6,1.4,0.9,1.2,0.4
+PI-Campo Maior,2020-07-24,forecast,1.1,0.7,1.5,0.9,1.2,0.39
+PI-Campo Maior,2020-07-25,forecast,1.1,0.7,1.5,0.9,1.2,0.39
+PI-Campo Maior,2020-07-26,forecast,1.1,0.7,1.5,0.9,1.2,0.4
+PI-Campo Maior,2020-07-27,forecast,1.1,0.6,1.6,0.9,1.2,0.41
+PI-Campo Maior,2020-07-28,forecast,1.1,0.6,1.6,0.9,1.2,0.4
+PI-Campo Maior,2020-07-29,forecast,1.1,0.6,1.6,0.9,1.2,0.4
+PI-Campo Maior,2020-07-30,forecast,1.1,0.6,1.6,0.8,1.2,0.41
+PI-Cocal,2020-06-13,nowcast,1.4,0.7,2.1,1.1,1.6,0.14
+PI-Cocal,2020-06-14,nowcast,1.4,0.8,2.1,1.1,1.6,0.14
+PI-Cocal,2020-06-15,nowcast,1.4,0.8,2,1.1,1.6,0.12
+PI-Cocal,2020-06-16,nowcast,1.4,0.8,2,1.1,1.6,0.12
+PI-Cocal,2020-06-17,nowcast,1.3,0.8,2,1.1,1.5,0.12
+PI-Cocal,2020-06-18,nowcast,1.3,0.8,1.9,1.1,1.5,0.11
+PI-Cocal,2020-06-19,nowcast,1.4,0.8,1.9,1.2,1.6,0.1
 PI-Cocal,2020-06-20,nowcast,1.3,0.8,1.9,1.1,1.5,0.11
-PI-Cocal,2020-06-21,nowcast,1.3,0.8,1.8,1.2,1.5,0.1
-PI-Cocal,2020-06-22,nowcast,1.3,0.9,1.9,1.1,1.5,0.09
+PI-Cocal,2020-06-21,nowcast,1.3,0.9,1.9,1.1,1.5,0.09
+PI-Cocal,2020-06-22,nowcast,1.3,0.9,1.8,1.2,1.5,0.09
 PI-Cocal,2020-06-23,nowcast,1.3,0.9,1.8,1.1,1.5,0.09
-PI-Cocal,2020-06-24,nowcast,1.3,0.9,1.7,1.1,1.5,0.1
+PI-Cocal,2020-06-24,nowcast,1.3,0.9,1.7,1.1,1.4,0.1
 PI-Cocal,2020-06-25,nowcast,1.3,0.9,1.7,1.1,1.4,0.1
-PI-Cocal,2020-06-26,nowcast,1.3,0.9,1.6,1.1,1.4,0.11
-PI-Cocal,2020-06-27,nowcast,1.2,0.9,1.6,1.1,1.3,0.13
+PI-Cocal,2020-06-26,nowcast,1.3,0.9,1.7,1.1,1.4,0.11
+PI-Cocal,2020-06-27,nowcast,1.2,0.8,1.6,1.1,1.4,0.14
 PI-Cocal,2020-06-28,nowcast,1.2,0.8,1.6,1,1.3,0.18
-PI-Cocal,2020-06-29,nowcast,1.1,0.8,1.5,1,1.3,0.23
-PI-Cocal,2020-06-30,nowcast,1.1,0.8,1.4,1,1.2,0.29
-PI-Cocal,2020-07-01,nowcast,1.1,0.7,1.4,0.9,1.2,0.33
+PI-Cocal,2020-06-29,nowcast,1.2,0.8,1.5,1,1.3,0.23
+PI-Cocal,2020-06-30,nowcast,1.1,0.8,1.5,1,1.2,0.28
+PI-Cocal,2020-07-01,nowcast,1.1,0.7,1.4,0.9,1.2,0.34
 PI-Cocal,2020-07-02,nowcast,1.1,0.7,1.4,0.9,1.2,0.36
 PI-Cocal,2020-07-03,nowcast,1,0.7,1.4,0.9,1.2,0.4
-PI-Cocal,2020-07-04,nowcast,1,0.7,1.3,0.9,1.1,0.46
+PI-Cocal,2020-07-04,nowcast,1,0.7,1.3,0.9,1.1,0.44
 PI-Cocal,2020-07-05,nowcast,1,0.7,1.3,0.9,1.1,0.48
-PI-Cocal,2020-07-06,nowcast,1,0.7,1.3,0.9,1.1,0.51
-PI-Cocal,2020-07-07,nowcast,1,0.7,1.3,0.9,1.1,0.51
+PI-Cocal,2020-07-06,nowcast,1,0.7,1.3,0.9,1.1,0.48
+PI-Cocal,2020-07-07,nowcast,1,0.7,1.3,0.9,1.1,0.5
 PI-Cocal,2020-07-08,nowcast,1,0.7,1.3,0.9,1.1,0.47
-PI-Cocal,2020-07-09,nowcast,1,0.7,1.4,0.9,1.1,0.44
-PI-Cocal,2020-07-10,nowcast,1,0.7,1.4,0.9,1.1,0.43
-PI-Cocal,2020-07-11,nowcast,1,0.7,1.4,0.9,1.1,0.44
-PI-Cocal,2020-07-12,nowcast,1,0.7,1.4,0.9,1.1,0.44
-PI-Cocal,2020-07-13,nowcast,1,0.7,1.3,0.9,1.1,0.44
-PI-Cocal,2020-07-14,nowcast,1,0.7,1.4,0.9,1.1,0.46
-PI-Cocal,2020-07-15,nowcast,1,0.7,1.4,0.9,1.2,0.43
-PI-Cocal,2020-07-16,forecast,1,0.6,1.5,0.9,1.2,0.43
-PI-Cocal,2020-07-17,forecast,1,0.6,1.5,0.9,1.2,0.44
-PI-Cocal,2020-07-18,forecast,1,0.6,1.6,0.8,1.2,0.45
-PI-Cocal,2020-07-19,forecast,1,0.5,1.6,0.8,1.2,0.46
-PI-Cocal,2020-07-20,forecast,1,0.5,1.6,0.8,1.3,0.46
-PI-Cocal,2020-07-21,forecast,1,0.4,1.6,0.8,1.2,0.46
-PI-Cocal,2020-07-22,forecast,1,0.4,1.6,0.8,1.3,0.47
-PI-Cocal,2020-07-23,forecast,1,0.4,1.7,0.8,1.3,0.46
-PI-Cocal,2020-07-24,forecast,1,0.4,1.7,0.8,1.2,0.46
-PI-Cocal,2020-07-25,forecast,1,0.3,1.7,0.8,1.3,0.47
-PI-Cocal,2020-07-26,forecast,1,0.3,1.7,0.8,1.3,0.47
-PI-Cocal,2020-07-27,forecast,1,0.3,1.8,0.8,1.3,0.48
-PI-Cocal,2020-07-28,forecast,1,0.3,1.7,0.7,1.3,0.48
-PI-Cocal,2020-07-29,forecast,1,0.3,1.8,0.8,1.3,0.48
-PI-Demerval Lobão,2020-05-27,nowcast,1.3,0.7,1.8,1,1.5,0.2
-PI-Demerval Lobão,2020-05-28,nowcast,1.2,0.7,1.8,0.9,1.4,0.24
-PI-Demerval Lobão,2020-05-29,nowcast,1.2,0.6,1.6,0.9,1.3,0.3
-PI-Demerval Lobão,2020-05-30,nowcast,1.1,0.6,1.6,0.9,1.3,0.36
-PI-Demerval Lobão,2020-05-31,nowcast,1.1,0.6,1.5,0.9,1.3,0.41
-PI-Demerval Lobão,2020-06-01,nowcast,1,0.6,1.5,0.9,1.2,0.44
-PI-Demerval Lobão,2020-06-02,nowcast,1,0.6,1.5,0.9,1.2,0.46
-PI-Demerval Lobão,2020-06-03,nowcast,1,0.6,1.5,0.9,1.2,0.41
-PI-Demerval Lobão,2020-06-04,nowcast,1.1,0.6,1.5,0.9,1.2,0.4
+PI-Cocal,2020-07-09,nowcast,1,0.8,1.3,0.9,1.1,0.47
+PI-Cocal,2020-07-10,nowcast,1,0.7,1.3,0.9,1.1,0.44
+PI-Cocal,2020-07-11,nowcast,1,0.7,1.3,0.9,1.1,0.45
+PI-Cocal,2020-07-12,nowcast,1,0.7,1.3,0.9,1.1,0.45
+PI-Cocal,2020-07-13,nowcast,1,0.7,1.4,0.9,1.1,0.48
+PI-Cocal,2020-07-14,nowcast,1,0.7,1.3,0.9,1.1,0.48
+PI-Cocal,2020-07-15,nowcast,1,0.7,1.4,0.9,1.1,0.47
+PI-Cocal,2020-07-16,nowcast,1,0.7,1.4,0.9,1.1,0.45
+PI-Cocal,2020-07-17,forecast,1,0.6,1.4,0.9,1.2,0.46
+PI-Cocal,2020-07-18,forecast,1,0.6,1.5,0.8,1.2,0.46
+PI-Cocal,2020-07-19,forecast,1,0.5,1.5,0.8,1.2,0.47
+PI-Cocal,2020-07-20,forecast,1,0.5,1.5,0.8,1.2,0.46
+PI-Cocal,2020-07-21,forecast,1,0.5,1.6,0.8,1.3,0.47
+PI-Cocal,2020-07-22,forecast,1,0.4,1.6,0.8,1.2,0.46
+PI-Cocal,2020-07-23,forecast,1,0.4,1.6,0.8,1.2,0.47
+PI-Cocal,2020-07-24,forecast,1,0.4,1.6,0.8,1.2,0.48
+PI-Cocal,2020-07-25,forecast,1,0.4,1.6,0.8,1.2,0.48
+PI-Cocal,2020-07-26,forecast,1,0.4,1.7,0.8,1.3,0.48
+PI-Cocal,2020-07-27,forecast,1,0.3,1.7,0.8,1.3,0.48
+PI-Cocal,2020-07-28,forecast,1,0.4,1.8,0.7,1.3,0.49
+PI-Cocal,2020-07-29,forecast,1,0.3,1.7,0.8,1.3,0.49
+PI-Cocal,2020-07-30,forecast,1,0.3,1.8,0.7,1.3,0.48
+PI-Demerval Lobão,2020-05-27,nowcast,1.3,0.7,1.8,1,1.4,0.2
+PI-Demerval Lobão,2020-05-28,nowcast,1.2,0.7,1.8,1,1.4,0.24
+PI-Demerval Lobão,2020-05-29,nowcast,1.1,0.6,1.6,1,1.3,0.3
+PI-Demerval Lobão,2020-05-30,nowcast,1.1,0.6,1.6,0.9,1.3,0.34
+PI-Demerval Lobão,2020-05-31,nowcast,1.1,0.6,1.5,0.9,1.2,0.39
+PI-Demerval Lobão,2020-06-01,nowcast,1,0.6,1.5,0.8,1.2,0.44
+PI-Demerval Lobão,2020-06-02,nowcast,1,0.6,1.5,0.9,1.2,0.44
+PI-Demerval Lobão,2020-06-03,nowcast,1,0.6,1.5,0.9,1.2,0.45
+PI-Demerval Lobão,2020-06-04,nowcast,1.1,0.6,1.5,0.9,1.2,0.41
 PI-Demerval Lobão,2020-06-05,nowcast,1.1,0.7,1.6,0.9,1.2,0.37
-PI-Demerval Lobão,2020-06-06,nowcast,1.1,0.7,1.6,0.9,1.3,0.32
-PI-Demerval Lobão,2020-06-07,nowcast,1.1,0.7,1.6,0.9,1.2,0.31
-PI-Demerval Lobão,2020-06-08,nowcast,1.1,0.7,1.6,0.9,1.2,0.28
-PI-Demerval Lobão,2020-06-09,nowcast,1.1,0.7,1.6,1,1.3,0.28
-PI-Demerval Lobão,2020-06-10,nowcast,1.1,0.7,1.6,0.9,1.3,0.3
-PI-Demerval Lobão,2020-06-11,nowcast,1.1,0.7,1.6,0.9,1.2,0.32
-PI-Demerval Lobão,2020-06-12,nowcast,1.1,0.7,1.5,0.9,1.2,0.31
-PI-Demerval Lobão,2020-06-13,nowcast,1.1,0.7,1.5,0.9,1.2,0.33
+PI-Demerval Lobão,2020-06-06,nowcast,1.1,0.7,1.6,0.9,1.2,0.31
+PI-Demerval Lobão,2020-06-07,nowcast,1.1,0.7,1.6,0.9,1.3,0.29
+PI-Demerval Lobão,2020-06-08,nowcast,1.1,0.7,1.6,0.9,1.3,0.28
+PI-Demerval Lobão,2020-06-09,nowcast,1.1,0.7,1.6,0.9,1.2,0.3
+PI-Demerval Lobão,2020-06-10,nowcast,1.1,0.7,1.5,1,1.3,0.3
+PI-Demerval Lobão,2020-06-11,nowcast,1.1,0.7,1.6,0.9,1.2,0.33
+PI-Demerval Lobão,2020-06-12,nowcast,1.1,0.7,1.6,1,1.3,0.3
+PI-Demerval Lobão,2020-06-13,nowcast,1.1,0.7,1.5,0.9,1.2,0.32
 PI-Demerval Lobão,2020-06-14,nowcast,1.1,0.7,1.5,0.9,1.2,0.33
-PI-Demerval Lobão,2020-06-15,nowcast,1.1,0.7,1.5,0.9,1.2,0.34
-PI-Demerval Lobão,2020-06-16,nowcast,1.1,0.7,1.5,0.9,1.2,0.34
-PI-Demerval Lobão,2020-06-17,nowcast,1.1,0.7,1.5,0.9,1.2,0.34
+PI-Demerval Lobão,2020-06-15,nowcast,1.1,0.7,1.5,0.9,1.2,0.35
+PI-Demerval Lobão,2020-06-16,nowcast,1.1,0.7,1.5,0.9,1.2,0.37
+PI-Demerval Lobão,2020-06-17,nowcast,1.1,0.7,1.5,0.9,1.2,0.36
 PI-Demerval Lobão,2020-06-18,nowcast,1.1,0.7,1.5,0.9,1.2,0.33
-PI-Demerval Lobão,2020-06-19,nowcast,1.1,0.7,1.5,0.9,1.2,0.31
-PI-Demerval Lobão,2020-06-20,nowcast,1.1,0.7,1.5,1,1.3,0.27
-PI-Demerval Lobão,2020-06-21,nowcast,1.1,0.8,1.6,1,1.3,0.24
-PI-Demerval Lobão,2020-06-22,nowcast,1.2,0.8,1.6,1,1.3,0.2
+PI-Demerval Lobão,2020-06-19,nowcast,1.1,0.8,1.5,1,1.3,0.3
+PI-Demerval Lobão,2020-06-20,nowcast,1.1,0.7,1.6,1,1.2,0.27
+PI-Demerval Lobão,2020-06-21,nowcast,1.1,0.8,1.5,1,1.3,0.23
+PI-Demerval Lobão,2020-06-22,nowcast,1.2,0.8,1.6,1,1.3,0.21
 PI-Demerval Lobão,2020-06-23,nowcast,1.2,0.8,1.6,1,1.3,0.19
-PI-Demerval Lobão,2020-06-24,nowcast,1.2,0.8,1.6,1,1.3,0.18
+PI-Demerval Lobão,2020-06-24,nowcast,1.2,0.8,1.6,1,1.3,0.19
 PI-Demerval Lobão,2020-06-25,nowcast,1.2,0.8,1.5,1,1.3,0.18
-PI-Demerval Lobão,2020-06-26,nowcast,1.2,0.8,1.5,1,1.3,0.19
-PI-Demerval Lobão,2020-06-27,nowcast,1.2,0.8,1.5,1,1.3,0.21
-PI-Demerval Lobão,2020-06-28,nowcast,1.1,0.8,1.5,1,1.3,0.22
-PI-Demerval Lobão,2020-06-29,nowcast,1.1,0.8,1.5,1,1.2,0.25
-PI-Demerval Lobão,2020-06-30,nowcast,1.1,0.8,1.4,1,1.2,0.27
-PI-Demerval Lobão,2020-07-01,nowcast,1.1,0.8,1.4,1,1.2,0.3
+PI-Demerval Lobão,2020-06-26,nowcast,1.2,0.8,1.6,1,1.3,0.2
+PI-Demerval Lobão,2020-06-27,nowcast,1.1,0.8,1.5,1,1.3,0.23
+PI-Demerval Lobão,2020-06-28,nowcast,1.1,0.8,1.5,1,1.2,0.24
+PI-Demerval Lobão,2020-06-29,nowcast,1.1,0.8,1.4,1,1.3,0.28
+PI-Demerval Lobão,2020-06-30,nowcast,1.1,0.8,1.4,1,1.2,0.31
+PI-Demerval Lobão,2020-07-01,nowcast,1.1,0.8,1.4,1,1.2,0.31
 PI-Demerval Lobão,2020-07-02,nowcast,1.1,0.8,1.4,1,1.2,0.33
-PI-Demerval Lobão,2020-07-03,nowcast,1.1,0.7,1.4,1,1.2,0.35
-PI-Demerval Lobão,2020-07-04,nowcast,1,0.8,1.3,0.9,1.1,0.41
-PI-Demerval Lobão,2020-07-05,nowcast,1,0.7,1.3,0.9,1.1,0.5
-PI-Demerval Lobão,2020-07-06,nowcast,1,0.7,1.3,0.9,1.1,0.55
+PI-Demerval Lobão,2020-07-03,nowcast,1.1,0.8,1.4,0.9,1.2,0.34
+PI-Demerval Lobão,2020-07-04,nowcast,1,0.7,1.3,0.9,1.1,0.41
+PI-Demerval Lobão,2020-07-05,nowcast,1,0.7,1.3,0.9,1.1,0.49
+PI-Demerval Lobão,2020-07-06,nowcast,1,0.7,1.3,0.8,1.1,0.57
 PI-Demerval Lobão,2020-07-07,nowcast,0.9,0.6,1.2,0.8,1.1,0.66
-PI-Demerval Lobão,2020-07-08,nowcast,0.9,0.6,1.2,0.8,1,0.73
-PI-Demerval Lobão,2020-07-09,nowcast,0.9,0.6,1.2,0.8,1,0.75
-PI-Demerval Lobão,2020-07-10,nowcast,0.9,0.6,1.2,0.8,1,0.76
-PI-Demerval Lobão,2020-07-11,nowcast,0.9,0.6,1.2,0.8,1,0.75
-PI-Demerval Lobão,2020-07-12,nowcast,0.9,0.6,1.2,0.7,1,0.73
-PI-Demerval Lobão,2020-07-13,nowcast,0.9,0.6,1.2,0.7,1,0.74
-PI-Demerval Lobão,2020-07-14,nowcast,0.9,0.5,1.3,0.7,1,0.73
-PI-Demerval Lobão,2020-07-15,forecast,0.9,0.5,1.3,0.7,1,0.68
-PI-Demerval Lobão,2020-07-16,forecast,0.9,0.5,1.3,0.7,1.1,0.66
-PI-Demerval Lobão,2020-07-17,forecast,0.9,0.4,1.4,0.7,1.1,0.65
-PI-Demerval Lobão,2020-07-18,forecast,0.9,0.4,1.4,0.7,1.1,0.65
-PI-Demerval Lobão,2020-07-19,forecast,0.9,0.3,1.4,0.6,1.1,0.65
-PI-Demerval Lobão,2020-07-20,forecast,0.9,0.3,1.5,0.6,1.1,0.64
-PI-Demerval Lobão,2020-07-21,forecast,0.9,0.3,1.5,0.7,1.1,0.64
-PI-Demerval Lobão,2020-07-22,forecast,0.9,0.3,1.5,0.6,1.1,0.63
-PI-Demerval Lobão,2020-07-23,forecast,0.9,0.2,1.5,0.7,1.2,0.63
-PI-Demerval Lobão,2020-07-24,forecast,0.9,0.1,1.5,0.6,1.2,0.62
-PI-Demerval Lobão,2020-07-25,forecast,0.9,0,1.4,0.6,1.1,0.63
-PI-Demerval Lobão,2020-07-26,forecast,0.9,0,1.4,0.6,1.2,0.63
-PI-Demerval Lobão,2020-07-27,forecast,0.9,0,1.4,0.6,1.2,0.63
-PI-Demerval Lobão,2020-07-28,forecast,0.9,0,1.5,0.6,1.2,0.62
-PI-Esperantina,2020-04-30,nowcast,1.2,0.3,2.1,0.8,1.5,0.32
-PI-Esperantina,2020-05-01,nowcast,1.2,0.4,2,0.8,1.4,0.32
-PI-Esperantina,2020-05-02,nowcast,1.2,0.4,2.1,0.8,1.4,0.32
-PI-Esperantina,2020-05-03,nowcast,1.2,0.4,2,0.8,1.4,0.33
-PI-Esperantina,2020-05-04,nowcast,1.2,0.4,2,0.8,1.4,0.34
-PI-Esperantina,2020-05-05,nowcast,1.2,0.4,2,0.8,1.4,0.32
-PI-Esperantina,2020-05-06,nowcast,1.2,0.5,2,0.9,1.4,0.3
-PI-Esperantina,2020-05-07,nowcast,1.3,0.5,2.1,0.9,1.5,0.26
-PI-Esperantina,2020-05-08,nowcast,1.3,0.6,2.2,0.9,1.5,0.21
-PI-Esperantina,2020-05-09,nowcast,1.4,0.6,2.2,1,1.5,0.17
-PI-Esperantina,2020-05-10,nowcast,1.4,0.7,2.1,1,1.5,0.16
-PI-Esperantina,2020-05-11,nowcast,1.4,0.7,2.2,1,1.6,0.14
+PI-Demerval Lobão,2020-07-08,nowcast,0.9,0.6,1.2,0.8,1,0.75
+PI-Demerval Lobão,2020-07-09,nowcast,0.9,0.6,1.2,0.8,1,0.79
+PI-Demerval Lobão,2020-07-10,nowcast,0.9,0.6,1.1,0.8,1,0.82
+PI-Demerval Lobão,2020-07-11,nowcast,0.9,0.6,1.1,0.7,1,0.81
+PI-Demerval Lobão,2020-07-12,nowcast,0.8,0.6,1.2,0.7,0.9,0.81
+PI-Demerval Lobão,2020-07-13,nowcast,0.8,0.5,1.2,0.7,0.9,0.8
+PI-Demerval Lobão,2020-07-14,nowcast,0.8,0.5,1.2,0.7,0.9,0.79
+PI-Demerval Lobão,2020-07-15,nowcast,0.9,0.5,1.2,0.7,1,0.75
+PI-Demerval Lobão,2020-07-16,nowcast,0.9,0.5,1.3,0.7,1,0.7
+PI-Demerval Lobão,2020-07-17,forecast,0.9,0.5,1.3,0.7,1,0.67
+PI-Demerval Lobão,2020-07-18,forecast,0.9,0.4,1.3,0.7,1,0.67
+PI-Demerval Lobão,2020-07-19,forecast,0.9,0.4,1.4,0.7,1.1,0.67
+PI-Demerval Lobão,2020-07-20,forecast,0.9,0.3,1.4,0.7,1.1,0.66
+PI-Demerval Lobão,2020-07-21,forecast,0.9,0.3,1.5,0.6,1.1,0.64
+PI-Demerval Lobão,2020-07-22,forecast,0.9,0.3,1.5,0.6,1.1,0.64
+PI-Demerval Lobão,2020-07-23,forecast,0.9,0.2,1.5,0.6,1.1,0.65
+PI-Demerval Lobão,2020-07-24,forecast,0.9,0.2,1.5,0.6,1.1,0.64
+PI-Demerval Lobão,2020-07-25,forecast,0.9,0.2,1.5,0.5,1.1,0.64
+PI-Demerval Lobão,2020-07-26,forecast,0.9,0,1.4,0.6,1.1,0.64
+PI-Demerval Lobão,2020-07-27,forecast,0.8,0,1.4,0.6,1.1,0.64
+PI-Demerval Lobão,2020-07-28,forecast,0.8,0,1.4,0.5,1.1,0.64
+PI-Demerval Lobão,2020-07-29,forecast,0.8,0,1.4,0.5,1.1,0.64
+PI-Demerval Lobão,2020-07-30,forecast,0.8,0,1.4,0.5,1.1,0.64
+PI-Esperantina,2020-04-30,nowcast,1.2,0.3,2,0.8,1.5,0.34
+PI-Esperantina,2020-05-01,nowcast,1.2,0.4,2.1,0.8,1.5,0.35
+PI-Esperantina,2020-05-02,nowcast,1.2,0.4,2,0.8,1.4,0.34
+PI-Esperantina,2020-05-03,nowcast,1.2,0.4,2,0.8,1.4,0.34
+PI-Esperantina,2020-05-04,nowcast,1.2,0.4,2,0.8,1.4,0.32
+PI-Esperantina,2020-05-05,nowcast,1.2,0.5,2.1,0.9,1.5,0.29
+PI-Esperantina,2020-05-06,nowcast,1.2,0.5,2,0.9,1.5,0.27
+PI-Esperantina,2020-05-07,nowcast,1.3,0.5,2.1,0.9,1.5,0.25
+PI-Esperantina,2020-05-08,nowcast,1.3,0.5,2.1,1,1.5,0.21
+PI-Esperantina,2020-05-09,nowcast,1.3,0.6,2.1,1,1.5,0.19
+PI-Esperantina,2020-05-10,nowcast,1.4,0.7,2.1,1.1,1.6,0.16
+PI-Esperantina,2020-05-11,nowcast,1.4,0.7,2.1,1,1.6,0.15
 PI-Esperantina,2020-05-12,nowcast,1.4,0.8,2.1,1.1,1.6,0.13
-PI-Esperantina,2020-05-13,nowcast,1.4,0.8,2.1,1.1,1.6,0.13
-PI-Esperantina,2020-05-14,nowcast,1.3,0.7,2,1.1,1.6,0.15
-PI-Esperantina,2020-05-15,nowcast,1.3,0.7,1.9,1,1.5,0.2
-PI-Esperantina,2020-05-16,nowcast,1.2,0.6,1.8,1,1.4,0.27
-PI-Esperantina,2020-05-17,nowcast,1.2,0.6,1.7,0.9,1.3,0.32
-PI-Esperantina,2020-05-18,nowcast,1.1,0.6,1.6,0.9,1.3,0.37
-PI-Esperantina,2020-05-19,nowcast,1.1,0.6,1.6,0.9,1.2,0.42
-PI-Esperantina,2020-05-20,nowcast,1,0.6,1.5,0.9,1.2,0.43
-PI-Esperantina,2020-05-21,nowcast,1,0.6,1.5,0.8,1.2,0.45
-PI-Esperantina,2020-05-22,nowcast,1,0.6,1.5,0.8,1.2,0.45
-PI-Esperantina,2020-05-23,nowcast,1,0.6,1.5,0.8,1.1,0.46
-PI-Esperantina,2020-05-24,nowcast,1,0.5,1.5,0.8,1.1,0.48
+PI-Esperantina,2020-05-13,nowcast,1.4,0.8,2.1,1.1,1.5,0.13
+PI-Esperantina,2020-05-14,nowcast,1.3,0.7,2,1.1,1.6,0.16
+PI-Esperantina,2020-05-15,nowcast,1.3,0.7,1.8,1.1,1.5,0.18
+PI-Esperantina,2020-05-16,nowcast,1.2,0.7,1.8,1,1.4,0.26
+PI-Esperantina,2020-05-17,nowcast,1.1,0.6,1.7,0.9,1.3,0.33
+PI-Esperantina,2020-05-18,nowcast,1.1,0.6,1.6,0.9,1.3,0.38
+PI-Esperantina,2020-05-19,nowcast,1.1,0.6,1.5,0.9,1.2,0.4
+PI-Esperantina,2020-05-20,nowcast,1,0.6,1.5,0.8,1.2,0.45
+PI-Esperantina,2020-05-21,nowcast,1,0.6,1.5,0.9,1.2,0.46
+PI-Esperantina,2020-05-22,nowcast,1,0.6,1.5,0.8,1.2,0.48
+PI-Esperantina,2020-05-23,nowcast,1,0.6,1.5,0.8,1.2,0.45
+PI-Esperantina,2020-05-24,nowcast,1,0.6,1.5,0.8,1.1,0.46
 PI-Esperantina,2020-05-25,nowcast,1,0.5,1.5,0.8,1.1,0.5
-PI-Esperantina,2020-05-26,nowcast,1,0.5,1.5,0.8,1.2,0.5
-PI-Esperantina,2020-05-27,nowcast,1,0.5,1.5,0.8,1.1,0.49
-PI-Esperantina,2020-05-28,nowcast,1,0.6,1.5,0.8,1.2,0.44
-PI-Esperantina,2020-05-29,nowcast,1,0.6,1.5,0.8,1.2,0.44
-PI-Esperantina,2020-05-30,nowcast,1,0.6,1.6,0.8,1.2,0.43
+PI-Esperantina,2020-05-26,nowcast,1,0.6,1.5,0.8,1.1,0.5
+PI-Esperantina,2020-05-27,nowcast,1,0.5,1.5,0.8,1.1,0.48
+PI-Esperantina,2020-05-28,nowcast,1,0.6,1.5,0.8,1.1,0.47
+PI-Esperantina,2020-05-29,nowcast,1,0.6,1.6,0.9,1.2,0.43
+PI-Esperantina,2020-05-30,nowcast,1.1,0.6,1.6,0.8,1.2,0.42
 PI-Esperantina,2020-05-31,nowcast,1.1,0.6,1.5,0.9,1.2,0.42
-PI-Esperantina,2020-06-01,nowcast,1.1,0.6,1.5,0.9,1.2,0.41
-PI-Esperantina,2020-06-02,nowcast,1.1,0.6,1.6,0.9,1.2,0.38
-PI-Esperantina,2020-06-03,nowcast,1.1,0.6,1.6,0.9,1.2,0.36
-PI-Esperantina,2020-06-04,nowcast,1.1,0.7,1.6,0.9,1.2,0.34
-PI-Esperantina,2020-06-05,nowcast,1.1,0.7,1.6,0.9,1.2,0.35
-PI-Esperantina,2020-06-06,nowcast,1.1,0.6,1.6,0.9,1.2,0.38
-PI-Esperantina,2020-06-07,nowcast,1.1,0.6,1.5,0.9,1.2,0.38
-PI-Esperantina,2020-06-08,nowcast,1,0.6,1.4,0.9,1.2,0.42
-PI-Esperantina,2020-06-09,nowcast,1,0.6,1.5,0.9,1.2,0.42
-PI-Esperantina,2020-06-10,nowcast,1,0.6,1.5,0.9,1.2,0.45
-PI-Esperantina,2020-06-11,nowcast,1,0.6,1.4,0.8,1.1,0.48
-PI-Esperantina,2020-06-12,nowcast,1,0.6,1.5,0.9,1.2,0.46
-PI-Esperantina,2020-06-13,nowcast,1,0.6,1.5,0.9,1.2,0.42
-PI-Esperantina,2020-06-14,nowcast,1,0.6,1.5,0.9,1.2,0.42
-PI-Esperantina,2020-06-15,nowcast,1.1,0.7,1.5,0.9,1.2,0.37
-PI-Esperantina,2020-06-16,nowcast,1.1,0.7,1.6,0.9,1.2,0.34
-PI-Esperantina,2020-06-17,nowcast,1.1,0.7,1.6,0.9,1.2,0.32
-PI-Esperantina,2020-06-18,nowcast,1.1,0.7,1.6,0.9,1.2,0.29
-PI-Esperantina,2020-06-19,nowcast,1.1,0.7,1.5,0.9,1.3,0.31
-PI-Esperantina,2020-06-20,nowcast,1.1,0.7,1.5,0.9,1.2,0.32
-PI-Esperantina,2020-06-21,nowcast,1.1,0.7,1.5,1,1.2,0.33
+PI-Esperantina,2020-06-01,nowcast,1.1,0.6,1.6,0.9,1.2,0.4
+PI-Esperantina,2020-06-02,nowcast,1.1,0.6,1.5,0.9,1.2,0.39
+PI-Esperantina,2020-06-03,nowcast,1.1,0.6,1.6,0.9,1.2,0.37
+PI-Esperantina,2020-06-04,nowcast,1.1,0.6,1.6,0.9,1.3,0.35
+PI-Esperantina,2020-06-05,nowcast,1.1,0.6,1.6,0.9,1.2,0.36
+PI-Esperantina,2020-06-06,nowcast,1.1,0.7,1.5,0.9,1.2,0.36
+PI-Esperantina,2020-06-07,nowcast,1.1,0.6,1.5,0.9,1.2,0.41
+PI-Esperantina,2020-06-08,nowcast,1.1,0.6,1.5,0.9,1.2,0.4
+PI-Esperantina,2020-06-09,nowcast,1,0.6,1.4,0.9,1.2,0.44
+PI-Esperantina,2020-06-10,nowcast,1,0.6,1.4,0.9,1.2,0.45
+PI-Esperantina,2020-06-11,nowcast,1,0.6,1.5,0.8,1.2,0.47
+PI-Esperantina,2020-06-12,nowcast,1,0.6,1.5,0.8,1.2,0.44
+PI-Esperantina,2020-06-13,nowcast,1,0.6,1.5,0.9,1.2,0.43
+PI-Esperantina,2020-06-14,nowcast,1,0.6,1.5,0.9,1.2,0.41
+PI-Esperantina,2020-06-15,nowcast,1.1,0.7,1.6,0.9,1.2,0.37
+PI-Esperantina,2020-06-16,nowcast,1.1,0.7,1.5,0.9,1.2,0.35
+PI-Esperantina,2020-06-17,nowcast,1.1,0.7,1.6,0.9,1.2,0.3
+PI-Esperantina,2020-06-18,nowcast,1.1,0.7,1.6,0.9,1.3,0.3
+PI-Esperantina,2020-06-19,nowcast,1.1,0.7,1.5,0.9,1.2,0.31
+PI-Esperantina,2020-06-20,nowcast,1.1,0.7,1.5,1,1.3,0.33
+PI-Esperantina,2020-06-21,nowcast,1.1,0.7,1.5,0.9,1.2,0.32
 PI-Esperantina,2020-06-22,nowcast,1.1,0.7,1.5,0.9,1.2,0.32
 PI-Esperantina,2020-06-23,nowcast,1.1,0.7,1.5,0.9,1.2,0.32
-PI-Esperantina,2020-06-24,nowcast,1.1,0.7,1.5,0.9,1.2,0.29
-PI-Esperantina,2020-06-25,nowcast,1.1,0.7,1.5,1,1.2,0.28
-PI-Esperantina,2020-06-26,nowcast,1.1,0.7,1.5,0.9,1.2,0.27
-PI-Esperantina,2020-06-27,nowcast,1.1,0.8,1.5,1,1.2,0.28
-PI-Esperantina,2020-06-28,nowcast,1.1,0.8,1.5,0.9,1.2,0.32
-PI-Esperantina,2020-06-29,nowcast,1.1,0.7,1.4,0.9,1.2,0.35
-PI-Esperantina,2020-06-30,nowcast,1.1,0.7,1.4,0.9,1.2,0.36
-PI-Esperantina,2020-07-01,nowcast,1.1,0.7,1.4,0.9,1.2,0.36
+PI-Esperantina,2020-06-24,nowcast,1.1,0.8,1.6,0.9,1.2,0.28
+PI-Esperantina,2020-06-25,nowcast,1.1,0.8,1.5,0.9,1.2,0.28
+PI-Esperantina,2020-06-26,nowcast,1.1,0.8,1.5,1,1.3,0.27
+PI-Esperantina,2020-06-27,nowcast,1.1,0.7,1.5,1,1.2,0.28
+PI-Esperantina,2020-06-28,nowcast,1.1,0.7,1.5,0.9,1.2,0.3
+PI-Esperantina,2020-06-29,nowcast,1.1,0.7,1.4,1,1.2,0.33
+PI-Esperantina,2020-06-30,nowcast,1.1,0.7,1.4,0.9,1.2,0.37
+PI-Esperantina,2020-07-01,nowcast,1.1,0.7,1.4,0.9,1.2,0.37
 PI-Esperantina,2020-07-02,nowcast,1.1,0.7,1.4,0.9,1.2,0.37
-PI-Esperantina,2020-07-03,nowcast,1.1,0.7,1.4,0.9,1.2,0.39
-PI-Esperantina,2020-07-04,nowcast,1.1,0.7,1.4,0.9,1.2,0.39
-PI-Esperantina,2020-07-05,nowcast,1,0.7,1.4,0.9,1.1,0.42
-PI-Esperantina,2020-07-06,nowcast,1,0.7,1.4,0.9,1.2,0.44
-PI-Esperantina,2020-07-07,nowcast,1,0.7,1.4,0.9,1.1,0.45
-PI-Esperantina,2020-07-08,nowcast,1,0.7,1.4,0.9,1.2,0.43
-PI-Esperantina,2020-07-09,nowcast,1,0.7,1.4,0.9,1.2,0.46
-PI-Esperantina,2020-07-10,nowcast,1,0.7,1.4,0.8,1.1,0.5
-PI-Esperantina,2020-07-11,nowcast,1,0.7,1.3,0.8,1.1,0.52
-PI-Esperantina,2020-07-12,nowcast,1,0.6,1.3,0.8,1.1,0.59
-PI-Esperantina,2020-07-13,nowcast,0.9,0.6,1.3,0.8,1.1,0.63
-PI-Esperantina,2020-07-14,nowcast,0.9,0.5,1.3,0.8,1.1,0.64
-PI-Esperantina,2020-07-15,nowcast,0.9,0.6,1.4,0.7,1,0.63
-PI-Esperantina,2020-07-16,forecast,0.9,0.5,1.4,0.8,1.1,0.58
-PI-Esperantina,2020-07-17,forecast,1,0.5,1.5,0.7,1.1,0.57
-PI-Esperantina,2020-07-18,forecast,0.9,0.4,1.4,0.8,1.2,0.57
-PI-Esperantina,2020-07-19,forecast,1,0.4,1.5,0.7,1.1,0.55
-PI-Esperantina,2020-07-20,forecast,1,0.4,1.5,0.7,1.1,0.56
-PI-Esperantina,2020-07-21,forecast,0.9,0.3,1.5,0.7,1.1,0.57
-PI-Esperantina,2020-07-22,forecast,1,0.3,1.6,0.7,1.2,0.55
-PI-Esperantina,2020-07-23,forecast,1,0.3,1.6,0.7,1.2,0.55
+PI-Esperantina,2020-07-03,nowcast,1,0.7,1.4,0.9,1.2,0.4
+PI-Esperantina,2020-07-04,nowcast,1,0.7,1.4,0.9,1.2,0.42
+PI-Esperantina,2020-07-05,nowcast,1,0.7,1.4,0.9,1.1,0.44
+PI-Esperantina,2020-07-06,nowcast,1,0.7,1.4,0.9,1.1,0.45
+PI-Esperantina,2020-07-07,nowcast,1,0.7,1.4,0.9,1.1,0.44
+PI-Esperantina,2020-07-08,nowcast,1,0.7,1.4,0.9,1.1,0.45
+PI-Esperantina,2020-07-09,nowcast,1,0.7,1.4,0.9,1.1,0.48
+PI-Esperantina,2020-07-10,nowcast,1,0.7,1.3,0.9,1.1,0.52
+PI-Esperantina,2020-07-11,nowcast,1,0.6,1.3,0.8,1.1,0.57
+PI-Esperantina,2020-07-12,nowcast,0.9,0.6,1.3,0.8,1.1,0.62
+PI-Esperantina,2020-07-13,nowcast,0.9,0.6,1.3,0.8,1,0.68
+PI-Esperantina,2020-07-14,nowcast,0.9,0.5,1.2,0.8,1,0.7
+PI-Esperantina,2020-07-15,nowcast,0.9,0.5,1.3,0.7,1,0.67
+PI-Esperantina,2020-07-16,nowcast,0.9,0.5,1.4,0.7,1,0.63
+PI-Esperantina,2020-07-17,forecast,0.9,0.5,1.4,0.8,1.1,0.59
+PI-Esperantina,2020-07-18,forecast,0.9,0.5,1.4,0.7,1.1,0.58
+PI-Esperantina,2020-07-19,forecast,0.9,0.4,1.5,0.7,1.1,0.58
+PI-Esperantina,2020-07-20,forecast,0.9,0.4,1.4,0.7,1.2,0.57
+PI-Esperantina,2020-07-21,forecast,0.9,0.4,1.5,0.7,1.1,0.57
+PI-Esperantina,2020-07-22,forecast,0.9,0.3,1.5,0.7,1.2,0.57
+PI-Esperantina,2020-07-23,forecast,1,0.3,1.6,0.7,1.2,0.56
 PI-Esperantina,2020-07-24,forecast,0.9,0.3,1.6,0.7,1.2,0.56
-PI-Esperantina,2020-07-25,forecast,0.9,0.3,1.7,0.7,1.2,0.56
-PI-Esperantina,2020-07-26,forecast,1,0.2,1.6,0.7,1.2,0.55
-PI-Esperantina,2020-07-27,forecast,0.9,0.2,1.7,0.6,1.2,0.55
-PI-Esperantina,2020-07-28,forecast,0.9,0,1.5,0.6,1.2,0.57
-PI-Esperantina,2020-07-29,forecast,0.9,0,1.5,0.6,1.2,0.56
-PI-Floriano,2020-05-13,nowcast,1.1,0.4,1.8,0.7,1.3,0.41
-PI-Floriano,2020-05-14,nowcast,1,0.4,1.8,0.8,1.3,0.46
-PI-Floriano,2020-05-15,nowcast,1,0.4,1.7,0.7,1.2,0.48
-PI-Floriano,2020-05-16,nowcast,1,0.4,1.7,0.7,1.2,0.5
-PI-Floriano,2020-05-17,nowcast,1,0.3,1.6,0.7,1.2,0.49
-PI-Floriano,2020-05-18,nowcast,1,0.3,1.7,0.7,1.2,0.5
-PI-Floriano,2020-05-19,nowcast,1,0.4,1.7,0.7,1.2,0.5
-PI-Floriano,2020-05-20,nowcast,1,0.4,1.6,0.7,1.1,0.53
-PI-Floriano,2020-05-21,nowcast,0.9,0.4,1.6,0.7,1.1,0.58
-PI-Floriano,2020-05-22,nowcast,0.9,0.3,1.6,0.6,1.1,0.57
+PI-Esperantina,2020-07-25,forecast,0.9,0.3,1.6,0.7,1.2,0.57
+PI-Esperantina,2020-07-26,forecast,0.9,0.3,1.6,0.7,1.2,0.56
+PI-Esperantina,2020-07-27,forecast,0.9,0.2,1.6,0.7,1.2,0.56
+PI-Esperantina,2020-07-28,forecast,0.9,0.2,1.6,0.6,1.2,0.56
+PI-Esperantina,2020-07-29,forecast,0.9,0,1.5,0.7,1.2,0.57
+PI-Esperantina,2020-07-30,forecast,0.9,0,1.5,0.7,1.2,0.57
+PI-Floriano,2020-05-13,nowcast,1.1,0.4,1.8,0.8,1.3,0.42
+PI-Floriano,2020-05-14,nowcast,1.1,0.4,1.7,0.8,1.3,0.44
+PI-Floriano,2020-05-15,nowcast,1,0.4,1.7,0.7,1.2,0.47
+PI-Floriano,2020-05-16,nowcast,1,0.4,1.7,0.7,1.2,0.49
+PI-Floriano,2020-05-17,nowcast,1,0.3,1.7,0.7,1.1,0.51
+PI-Floriano,2020-05-18,nowcast,1,0.4,1.7,0.7,1.2,0.5
+PI-Floriano,2020-05-19,nowcast,1,0.3,1.7,0.7,1.2,0.53
+PI-Floriano,2020-05-20,nowcast,1,0.3,1.6,0.7,1.2,0.54
+PI-Floriano,2020-05-21,nowcast,0.9,0.4,1.6,0.7,1.2,0.56
+PI-Floriano,2020-05-22,nowcast,0.9,0.2,1.5,0.7,1.1,0.6
 PI-Floriano,2020-05-23,nowcast,0.9,0.3,1.5,0.6,1.1,0.62
-PI-Floriano,2020-05-24,nowcast,0.9,0.2,1.6,0.5,1,0.65
-PI-Floriano,2020-05-25,nowcast,0.8,0.3,1.5,0.6,1.1,0.66
-PI-Floriano,2020-05-26,nowcast,0.9,0.2,1.6,0.5,1,0.64
-PI-Floriano,2020-05-27,nowcast,0.9,0.2,1.6,0.5,1,0.63
-PI-Floriano,2020-05-28,nowcast,0.9,0.2,1.7,0.6,1.1,0.6
-PI-Floriano,2020-05-29,nowcast,0.9,0.3,1.8,0.6,1.1,0.55
-PI-Floriano,2020-05-30,nowcast,1,0.3,2,0.6,1.2,0.5
-PI-Floriano,2020-05-31,nowcast,1.1,0.3,2,0.7,1.3,0.45
-PI-Floriano,2020-06-01,nowcast,1.1,0.4,2.1,0.7,1.4,0.39
-PI-Floriano,2020-06-02,nowcast,1.2,0.3,2.2,0.7,1.4,0.33
-PI-Floriano,2020-06-03,nowcast,1.2,0.4,2.2,0.8,1.5,0.3
-PI-Floriano,2020-06-04,nowcast,1.3,0.4,2.2,0.9,1.5,0.28
-PI-Floriano,2020-06-05,nowcast,1.3,0.5,2.2,0.9,1.5,0.27
-PI-Floriano,2020-06-06,nowcast,1.2,0.5,2.1,0.8,1.4,0.29
-PI-Floriano,2020-06-07,nowcast,1.3,0.5,2.1,0.9,1.5,0.27
-PI-Floriano,2020-06-08,nowcast,1.3,0.5,2.1,0.9,1.5,0.26
-PI-Floriano,2020-06-09,nowcast,1.3,0.6,2.1,0.9,1.5,0.25
-PI-Floriano,2020-06-10,nowcast,1.3,0.6,2.1,0.9,1.5,0.24
-PI-Floriano,2020-06-11,nowcast,1.3,0.6,2,0.9,1.5,0.24
-PI-Floriano,2020-06-12,nowcast,1.2,0.6,2,0.9,1.4,0.25
-PI-Floriano,2020-06-13,nowcast,1.2,0.5,1.8,0.9,1.4,0.3
-PI-Floriano,2020-06-14,nowcast,1.2,0.5,1.8,0.8,1.3,0.32
-PI-Floriano,2020-06-15,nowcast,1.1,0.5,1.7,0.9,1.4,0.36
-PI-Floriano,2020-06-16,nowcast,1.1,0.5,1.7,0.9,1.3,0.41
-PI-Floriano,2020-06-17,nowcast,1,0.4,1.6,0.8,1.2,0.48
-PI-Floriano,2020-06-18,nowcast,1,0.4,1.6,0.8,1.2,0.51
-PI-Floriano,2020-06-19,nowcast,1,0.5,1.6,0.7,1.1,0.53
-PI-Floriano,2020-06-20,nowcast,1,0.4,1.5,0.8,1.2,0.53
-PI-Floriano,2020-06-21,nowcast,1,0.4,1.5,0.7,1.2,0.51
-PI-Floriano,2020-06-22,nowcast,1,0.4,1.6,0.8,1.2,0.51
-PI-Floriano,2020-06-23,nowcast,1,0.4,1.6,0.7,1.2,0.47
-PI-Floriano,2020-06-24,nowcast,1,0.5,1.7,0.8,1.2,0.46
-PI-Floriano,2020-06-25,nowcast,1,0.5,1.7,0.8,1.2,0.43
-PI-Floriano,2020-06-26,nowcast,1.1,0.5,1.7,0.8,1.2,0.43
-PI-Floriano,2020-06-27,nowcast,1.1,0.5,1.7,0.8,1.2,0.41
-PI-Floriano,2020-06-28,nowcast,1.1,0.5,1.7,0.8,1.3,0.41
-PI-Floriano,2020-06-29,nowcast,1.1,0.5,1.7,0.8,1.3,0.38
-PI-Floriano,2020-06-30,nowcast,1.1,0.5,1.7,0.9,1.3,0.35
-PI-Floriano,2020-07-01,nowcast,1.1,0.6,1.8,0.9,1.3,0.31
-PI-Floriano,2020-07-02,nowcast,1.2,0.6,1.9,0.9,1.4,0.27
-PI-Floriano,2020-07-03,nowcast,1.2,0.7,1.9,1,1.4,0.22
-PI-Floriano,2020-07-04,nowcast,1.3,0.7,2,1,1.4,0.2
-PI-Floriano,2020-07-05,nowcast,1.3,0.7,1.9,1,1.5,0.17
-PI-Floriano,2020-07-06,nowcast,1.3,0.7,1.9,1,1.4,0.16
-PI-Floriano,2020-07-07,nowcast,1.3,0.8,1.9,1.1,1.5,0.13
+PI-Floriano,2020-05-24,nowcast,0.9,0.2,1.5,0.6,1.1,0.65
+PI-Floriano,2020-05-25,nowcast,0.9,0.2,1.6,0.6,1.1,0.64
+PI-Floriano,2020-05-26,nowcast,0.9,0.2,1.6,0.5,1.1,0.64
+PI-Floriano,2020-05-27,nowcast,0.9,0.2,1.6,0.5,1.1,0.62
+PI-Floriano,2020-05-28,nowcast,0.9,0.2,1.7,0.6,1.1,0.58
+PI-Floriano,2020-05-29,nowcast,1,0.2,1.8,0.6,1.1,0.54
+PI-Floriano,2020-05-30,nowcast,1,0.3,1.9,0.6,1.2,0.49
+PI-Floriano,2020-05-31,nowcast,1.1,0.3,2,0.7,1.3,0.44
+PI-Floriano,2020-06-01,nowcast,1.1,0.3,2.1,0.7,1.4,0.38
+PI-Floriano,2020-06-02,nowcast,1.2,0.4,2.1,0.8,1.4,0.36
+PI-Floriano,2020-06-03,nowcast,1.2,0.4,2.2,0.8,1.4,0.32
+PI-Floriano,2020-06-04,nowcast,1.3,0.5,2.2,0.9,1.5,0.28
+PI-Floriano,2020-06-05,nowcast,1.3,0.5,2.1,0.9,1.5,0.27
+PI-Floriano,2020-06-06,nowcast,1.3,0.5,2.2,0.9,1.5,0.25
+PI-Floriano,2020-06-07,nowcast,1.3,0.5,2.1,0.9,1.5,0.25
+PI-Floriano,2020-06-08,nowcast,1.3,0.5,2.1,0.9,1.5,0.25
+PI-Floriano,2020-06-09,nowcast,1.3,0.5,2.1,1,1.5,0.24
+PI-Floriano,2020-06-10,nowcast,1.3,0.6,2,1,1.5,0.24
+PI-Floriano,2020-06-11,nowcast,1.3,0.6,2,0.9,1.4,0.24
+PI-Floriano,2020-06-12,nowcast,1.2,0.6,1.9,0.9,1.4,0.26
+PI-Floriano,2020-06-13,nowcast,1.2,0.5,1.9,0.9,1.4,0.28
+PI-Floriano,2020-06-14,nowcast,1.2,0.5,1.8,0.9,1.4,0.33
+PI-Floriano,2020-06-15,nowcast,1.1,0.5,1.7,0.9,1.3,0.39
+PI-Floriano,2020-06-16,nowcast,1,0.4,1.6,0.8,1.2,0.44
+PI-Floriano,2020-06-17,nowcast,1,0.5,1.6,0.8,1.2,0.48
+PI-Floriano,2020-06-18,nowcast,1,0.4,1.6,0.8,1.2,0.5
+PI-Floriano,2020-06-19,nowcast,1,0.4,1.5,0.8,1.2,0.51
+PI-Floriano,2020-06-20,nowcast,1,0.4,1.5,0.8,1.2,0.52
+PI-Floriano,2020-06-21,nowcast,1,0.4,1.6,0.8,1.2,0.5
+PI-Floriano,2020-06-22,nowcast,1,0.5,1.6,0.8,1.2,0.48
+PI-Floriano,2020-06-23,nowcast,1,0.5,1.7,0.8,1.2,0.45
+PI-Floriano,2020-06-24,nowcast,1,0.5,1.7,0.8,1.2,0.45
+PI-Floriano,2020-06-25,nowcast,1.1,0.5,1.6,0.8,1.2,0.42
+PI-Floriano,2020-06-26,nowcast,1.1,0.5,1.6,0.8,1.2,0.42
+PI-Floriano,2020-06-27,nowcast,1.1,0.5,1.7,0.8,1.2,0.42
+PI-Floriano,2020-06-28,nowcast,1.1,0.5,1.7,0.8,1.3,0.39
+PI-Floriano,2020-06-29,nowcast,1.1,0.6,1.7,0.8,1.3,0.37
+PI-Floriano,2020-06-30,nowcast,1.1,0.6,1.8,0.9,1.3,0.35
+PI-Floriano,2020-07-01,nowcast,1.2,0.6,1.8,0.9,1.3,0.31
+PI-Floriano,2020-07-02,nowcast,1.2,0.6,1.9,0.9,1.4,0.26
+PI-Floriano,2020-07-03,nowcast,1.2,0.6,1.9,0.9,1.4,0.24
+PI-Floriano,2020-07-04,nowcast,1.2,0.7,1.9,1,1.4,0.21
+PI-Floriano,2020-07-05,nowcast,1.3,0.8,2,1,1.4,0.19
+PI-Floriano,2020-07-06,nowcast,1.3,0.8,1.9,1,1.5,0.17
+PI-Floriano,2020-07-07,nowcast,1.3,0.8,1.9,1.1,1.5,0.15
 PI-Floriano,2020-07-08,nowcast,1.3,0.8,1.9,1.1,1.5,0.12
-PI-Floriano,2020-07-09,nowcast,1.4,0.8,1.9,1.1,1.5,0.1
-PI-Floriano,2020-07-10,nowcast,1.3,0.8,1.9,1.1,1.5,0.11
-PI-Floriano,2020-07-11,nowcast,1.3,0.9,1.9,1.1,1.5,0.1
-PI-Floriano,2020-07-12,nowcast,1.3,0.8,1.8,1.1,1.5,0.09
-PI-Floriano,2020-07-13,nowcast,1.3,0.9,1.8,1.1,1.5,0.09
-PI-Floriano,2020-07-14,nowcast,1.3,0.9,1.8,1.1,1.5,0.09
-PI-Floriano,2020-07-15,forecast,1.3,0.7,2,1.1,1.6,0.16
-PI-Floriano,2020-07-16,forecast,1.3,0.6,2,1,1.6,0.2
-PI-Floriano,2020-07-17,forecast,1.3,0.6,2.2,1,1.6,0.22
-PI-Floriano,2020-07-18,forecast,1.3,0.5,2.2,1.1,1.7,0.23
-PI-Floriano,2020-07-19,forecast,1.3,0.5,2.3,1,1.7,0.24
-PI-Floriano,2020-07-20,forecast,1.3,0.4,2.3,1,1.6,0.24
-PI-Floriano,2020-07-21,forecast,1.3,0.4,2.4,0.9,1.6,0.26
-PI-Floriano,2020-07-22,forecast,1.4,0.4,2.4,1,1.7,0.26
-PI-Floriano,2020-07-23,forecast,1.3,0.3,2.4,0.8,1.6,0.27
-PI-Floriano,2020-07-24,forecast,1.4,0.3,2.5,0.9,1.7,0.27
-PI-Floriano,2020-07-25,forecast,1.4,0,2.2,1,1.8,0.27
-PI-Floriano,2020-07-26,forecast,1.4,0,2.3,0.9,1.7,0.28
-PI-Floriano,2020-07-27,forecast,1.4,0,2.3,0.9,1.8,0.28
-PI-Floriano,2020-07-28,forecast,1.4,0,2.3,0.9,1.8,0.29
-PI-José de Freitas,2020-05-16,nowcast,1.1,0.2,2.2,0.6,1.4,0.4
-PI-José de Freitas,2020-05-17,nowcast,1.2,0.2,2.3,0.7,1.4,0.4
-PI-José de Freitas,2020-05-18,nowcast,1.2,0.2,2.3,0.7,1.4,0.39
-PI-José de Freitas,2020-05-19,nowcast,1.2,0.2,2.3,0.7,1.5,0.38
-PI-José de Freitas,2020-05-20,nowcast,1.2,0.2,2.3,0.7,1.5,0.36
-PI-José de Freitas,2020-05-21,nowcast,1.2,0.3,2.3,0.7,1.5,0.35
-PI-José de Freitas,2020-05-22,nowcast,1.2,0.3,2.3,0.8,1.5,0.34
-PI-José de Freitas,2020-05-23,nowcast,1.2,0.3,2.3,0.8,1.5,0.33
-PI-José de Freitas,2020-05-24,nowcast,1.2,0.2,2.2,0.7,1.5,0.33
-PI-José de Freitas,2020-05-25,nowcast,1.2,0.3,2.2,0.7,1.4,0.37
-PI-José de Freitas,2020-05-26,nowcast,1.2,0.4,2.2,0.7,1.4,0.36
-PI-José de Freitas,2020-05-27,nowcast,1.2,0.3,2.1,0.8,1.4,0.33
-PI-José de Freitas,2020-05-28,nowcast,1.2,0.3,2.1,0.8,1.4,0.34
-PI-José de Freitas,2020-05-29,nowcast,1.2,0.4,2.1,0.8,1.4,0.33
-PI-José de Freitas,2020-05-30,nowcast,1.2,0.5,2.1,0.8,1.5,0.32
-PI-José de Freitas,2020-05-31,nowcast,1.2,0.4,2.1,0.8,1.5,0.33
-PI-José de Freitas,2020-06-01,nowcast,1.2,0.4,2.1,0.8,1.5,0.33
-PI-José de Freitas,2020-06-02,nowcast,1.2,0.5,2.1,0.8,1.4,0.3
-PI-José de Freitas,2020-06-03,nowcast,1.3,0.5,2.2,0.9,1.5,0.26
-PI-José de Freitas,2020-06-04,nowcast,1.3,0.5,2.2,0.9,1.5,0.23
-PI-José de Freitas,2020-06-05,nowcast,1.3,0.6,2.3,0.9,1.6,0.21
-PI-José de Freitas,2020-06-06,nowcast,1.4,0.6,2.2,1,1.6,0.16
-PI-José de Freitas,2020-06-07,nowcast,1.4,0.6,2.2,1.1,1.7,0.16
-PI-José de Freitas,2020-06-08,nowcast,1.4,0.7,2.2,1.1,1.7,0.13
+PI-Floriano,2020-07-09,nowcast,1.3,0.8,1.9,1.1,1.5,0.12
+PI-Floriano,2020-07-10,nowcast,1.3,0.9,1.9,1.1,1.5,0.12
+PI-Floriano,2020-07-11,nowcast,1.3,0.8,1.8,1.1,1.5,0.12
+PI-Floriano,2020-07-12,nowcast,1.3,0.8,1.8,1.1,1.5,0.12
+PI-Floriano,2020-07-13,nowcast,1.3,0.8,1.7,1.1,1.4,0.13
+PI-Floriano,2020-07-14,nowcast,1.3,0.8,1.8,1.1,1.4,0.14
+PI-Floriano,2020-07-15,nowcast,1.2,0.8,1.7,1.1,1.5,0.17
+PI-Floriano,2020-07-16,nowcast,1.2,0.8,1.7,1,1.4,0.19
+PI-Floriano,2020-07-17,forecast,1.3,0.7,1.9,1,1.5,0.22
+PI-Floriano,2020-07-18,forecast,1.3,0.5,1.9,1,1.5,0.24
+PI-Floriano,2020-07-19,forecast,1.2,0.5,1.9,1,1.5,0.28
+PI-Floriano,2020-07-20,forecast,1.3,0.5,2.1,0.9,1.5,0.27
+PI-Floriano,2020-07-21,forecast,1.3,0.5,2.1,1,1.6,0.28
+PI-Floriano,2020-07-22,forecast,1.2,0.3,2.1,0.9,1.5,0.3
+PI-Floriano,2020-07-23,forecast,1.3,0.3,2.1,0.9,1.6,0.29
+PI-Floriano,2020-07-24,forecast,1.3,0.4,2.2,0.9,1.6,0.29
+PI-Floriano,2020-07-25,forecast,1.3,0.3,2.2,0.9,1.6,0.31
+PI-Floriano,2020-07-26,forecast,1.3,0.3,2.4,0.9,1.7,0.31
+PI-Floriano,2020-07-27,forecast,1.3,0.3,2.3,0.9,1.6,0.31
+PI-Floriano,2020-07-28,forecast,1.3,0,2.1,0.9,1.7,0.31
+PI-Floriano,2020-07-29,forecast,1.3,0,2.1,0.8,1.7,0.33
+PI-Floriano,2020-07-30,forecast,1.3,0,2.1,0.8,1.6,0.33
+PI-José de Freitas,2020-05-16,nowcast,1.1,0.2,2.2,0.7,1.4,0.42
+PI-José de Freitas,2020-05-17,nowcast,1.2,0.2,2.3,0.6,1.4,0.4
+PI-José de Freitas,2020-05-18,nowcast,1.2,0.2,2.3,0.7,1.4,0.38
+PI-José de Freitas,2020-05-19,nowcast,1.2,0.2,2.3,0.6,1.4,0.38
+PI-José de Freitas,2020-05-20,nowcast,1.2,0.2,2.3,0.7,1.4,0.38
+PI-José de Freitas,2020-05-21,nowcast,1.2,0.3,2.4,0.7,1.5,0.35
+PI-José de Freitas,2020-05-22,nowcast,1.2,0.3,2.3,0.7,1.5,0.33
+PI-José de Freitas,2020-05-23,nowcast,1.2,0.3,2.3,0.7,1.5,0.34
+PI-José de Freitas,2020-05-24,nowcast,1.2,0.3,2.2,0.8,1.5,0.34
+PI-José de Freitas,2020-05-25,nowcast,1.2,0.3,2.2,0.7,1.4,0.35
+PI-José de Freitas,2020-05-26,nowcast,1.2,0.3,2.2,0.7,1.4,0.35
+PI-José de Freitas,2020-05-27,nowcast,1.2,0.4,2.2,0.8,1.4,0.34
+PI-José de Freitas,2020-05-28,nowcast,1.2,0.4,2.1,0.8,1.4,0.34
+PI-José de Freitas,2020-05-29,nowcast,1.2,0.4,2.2,0.7,1.4,0.35
+PI-José de Freitas,2020-05-30,nowcast,1.2,0.3,2.1,0.8,1.4,0.34
+PI-José de Freitas,2020-05-31,nowcast,1.2,0.4,2.1,0.8,1.4,0.34
+PI-José de Freitas,2020-06-01,nowcast,1.2,0.4,2.1,0.8,1.4,0.33
+PI-José de Freitas,2020-06-02,nowcast,1.2,0.4,2.2,0.8,1.5,0.29
+PI-José de Freitas,2020-06-03,nowcast,1.3,0.5,2.2,0.9,1.5,0.24
+PI-José de Freitas,2020-06-04,nowcast,1.3,0.5,2.3,0.9,1.5,0.21
+PI-José de Freitas,2020-06-05,nowcast,1.4,0.6,2.2,1,1.6,0.18
+PI-José de Freitas,2020-06-06,nowcast,1.4,0.6,2.3,1,1.6,0.17
+PI-José de Freitas,2020-06-07,nowcast,1.4,0.7,2.3,1.1,1.7,0.14
+PI-José de Freitas,2020-06-08,nowcast,1.4,0.7,2.3,1.1,1.6,0.14
 PI-José de Freitas,2020-06-09,nowcast,1.4,0.7,2.2,1.1,1.6,0.13
 PI-José de Freitas,2020-06-10,nowcast,1.4,0.7,2.1,1.1,1.6,0.13
-PI-José de Freitas,2020-06-11,nowcast,1.4,0.7,2,1,1.5,0.14
-PI-José de Freitas,2020-06-12,nowcast,1.4,0.7,2,1.1,1.6,0.14
-PI-José de Freitas,2020-06-13,nowcast,1.3,0.8,2,1.1,1.6,0.14
-PI-José de Freitas,2020-06-14,nowcast,1.3,0.8,1.9,1.1,1.5,0.14
-PI-José de Freitas,2020-06-15,nowcast,1.3,0.8,1.9,1.1,1.5,0.15
-PI-José de Freitas,2020-06-16,nowcast,1.3,0.8,1.8,1.1,1.5,0.15
-PI-José de Freitas,2020-06-17,nowcast,1.3,0.8,1.8,1.1,1.5,0.14
-PI-José de Freitas,2020-06-18,nowcast,1.3,0.8,1.8,1.1,1.5,0.12
-PI-José de Freitas,2020-06-19,nowcast,1.3,0.8,1.8,1.1,1.5,0.12
+PI-José de Freitas,2020-06-11,nowcast,1.4,0.7,2,1.1,1.6,0.13
+PI-José de Freitas,2020-06-12,nowcast,1.3,0.7,2,1.1,1.5,0.14
+PI-José de Freitas,2020-06-13,nowcast,1.3,0.8,1.9,1.1,1.5,0.14
+PI-José de Freitas,2020-06-14,nowcast,1.3,0.8,1.9,1.1,1.5,0.16
+PI-José de Freitas,2020-06-15,nowcast,1.3,0.8,1.8,1.1,1.5,0.16
+PI-José de Freitas,2020-06-16,nowcast,1.3,0.8,1.8,1.1,1.5,0.14
+PI-José de Freitas,2020-06-17,nowcast,1.3,0.8,1.8,1.1,1.4,0.13
+PI-José de Freitas,2020-06-18,nowcast,1.3,0.8,1.8,1.1,1.4,0.12
+PI-José de Freitas,2020-06-19,nowcast,1.3,0.9,1.8,1.1,1.5,0.1
 PI-José de Freitas,2020-06-20,nowcast,1.3,0.9,1.8,1.1,1.4,0.12
-PI-José de Freitas,2020-06-21,nowcast,1.3,0.9,1.8,1.1,1.4,0.11
+PI-José de Freitas,2020-06-21,nowcast,1.3,0.9,1.7,1.1,1.5,0.12
 PI-José de Freitas,2020-06-22,nowcast,1.3,0.9,1.7,1.1,1.4,0.11
 PI-José de Freitas,2020-06-23,nowcast,1.3,0.9,1.7,1.1,1.4,0.12
-PI-José de Freitas,2020-06-24,nowcast,1.2,0.9,1.6,1.1,1.4,0.14
-PI-José de Freitas,2020-06-25,nowcast,1.2,0.8,1.6,1,1.3,0.16
-PI-José de Freitas,2020-06-26,nowcast,1.2,0.8,1.6,1,1.3,0.22
+PI-José de Freitas,2020-06-24,nowcast,1.2,0.9,1.7,1.1,1.4,0.13
+PI-José de Freitas,2020-06-25,nowcast,1.2,0.8,1.6,1.1,1.4,0.16
+PI-José de Freitas,2020-06-26,nowcast,1.2,0.8,1.5,1,1.3,0.21
 PI-José de Freitas,2020-06-27,nowcast,1.1,0.8,1.5,1,1.3,0.26
-PI-José de Freitas,2020-06-28,nowcast,1.1,0.7,1.4,1,1.2,0.35
-PI-José de Freitas,2020-06-29,nowcast,1,0.7,1.4,0.9,1.2,0.4
-PI-José de Freitas,2020-06-30,nowcast,1,0.7,1.3,0.9,1.1,0.45
-PI-José de Freitas,2020-07-01,nowcast,1,0.7,1.4,0.9,1.2,0.43
-PI-José de Freitas,2020-07-02,nowcast,1,0.7,1.4,0.9,1.1,0.44
-PI-José de Freitas,2020-07-03,nowcast,1,0.7,1.3,0.9,1.1,0.45
-PI-José de Freitas,2020-07-04,nowcast,1,0.7,1.3,0.9,1.1,0.47
-PI-José de Freitas,2020-07-05,nowcast,1,0.7,1.3,0.9,1.1,0.49
-PI-José de Freitas,2020-07-06,nowcast,1,0.7,1.3,0.9,1.1,0.54
-PI-José de Freitas,2020-07-07,nowcast,1,0.7,1.3,0.9,1.1,0.58
-PI-José de Freitas,2020-07-08,nowcast,1,0.7,1.3,0.8,1.1,0.56
-PI-José de Freitas,2020-07-09,nowcast,1,0.7,1.4,0.9,1.1,0.53
-PI-José de Freitas,2020-07-10,nowcast,1,0.7,1.4,0.9,1.1,0.49
-PI-José de Freitas,2020-07-11,nowcast,1,0.7,1.5,0.9,1.1,0.4
-PI-José de Freitas,2020-07-12,nowcast,1.1,0.7,1.4,0.9,1.2,0.34
-PI-José de Freitas,2020-07-13,nowcast,1.1,0.8,1.5,0.9,1.2,0.29
-PI-José de Freitas,2020-07-14,nowcast,1.2,0.8,1.6,1,1.3,0.2
-PI-José de Freitas,2020-07-15,nowcast,1.2,0.9,1.7,1,1.3,0.15
-PI-José de Freitas,2020-07-16,forecast,1.2,0.8,1.7,1,1.3,0.25
-PI-José de Freitas,2020-07-17,forecast,1.2,0.7,1.7,0.9,1.3,0.26
-PI-José de Freitas,2020-07-18,forecast,1.2,0.7,1.7,0.9,1.3,0.29
-PI-José de Freitas,2020-07-19,forecast,1.2,0.6,1.7,0.9,1.4,0.3
-PI-José de Freitas,2020-07-20,forecast,1.2,0.6,1.8,0.9,1.3,0.31
-PI-José de Freitas,2020-07-21,forecast,1.2,0.6,1.8,0.9,1.3,0.32
-PI-José de Freitas,2020-07-22,forecast,1.2,0.5,1.8,0.9,1.3,0.33
-PI-José de Freitas,2020-07-23,forecast,1.2,0.6,1.9,0.9,1.4,0.32
-PI-José de Freitas,2020-07-24,forecast,1.2,0.5,1.9,0.8,1.3,0.33
-PI-José de Freitas,2020-07-25,forecast,1.2,0.5,1.9,0.9,1.4,0.34
-PI-José de Freitas,2020-07-26,forecast,1.2,0.5,1.9,0.9,1.4,0.35
-PI-José de Freitas,2020-07-27,forecast,1.1,0.4,1.9,0.9,1.4,0.35
-PI-José de Freitas,2020-07-28,forecast,1.2,0.4,2,0.8,1.4,0.35
-PI-José de Freitas,2020-07-29,forecast,1.2,0.4,2,0.8,1.4,0.36
-PI-Luzilândia,2020-05-30,nowcast,1.4,0.8,2.2,1.1,1.6,0.1
+PI-José de Freitas,2020-06-28,nowcast,1.1,0.7,1.4,0.9,1.2,0.34
+PI-José de Freitas,2020-06-29,nowcast,1,0.7,1.4,0.9,1.2,0.42
+PI-José de Freitas,2020-06-30,nowcast,1,0.7,1.3,0.9,1.1,0.44
+PI-José de Freitas,2020-07-01,nowcast,1,0.7,1.4,0.9,1.1,0.43
+PI-José de Freitas,2020-07-02,nowcast,1,0.7,1.3,0.9,1.1,0.44
+PI-José de Freitas,2020-07-03,nowcast,1,0.7,1.4,0.9,1.1,0.45
+PI-José de Freitas,2020-07-04,nowcast,1,0.7,1.3,0.9,1.1,0.46
+PI-José de Freitas,2020-07-05,nowcast,1,0.7,1.3,0.9,1.1,0.51
+PI-José de Freitas,2020-07-06,nowcast,1,0.7,1.3,0.9,1.1,0.56
+PI-José de Freitas,2020-07-07,nowcast,1,0.6,1.3,0.8,1.1,0.57
+PI-José de Freitas,2020-07-08,nowcast,1,0.6,1.3,0.8,1.1,0.6
+PI-José de Freitas,2020-07-09,nowcast,1,0.6,1.3,0.8,1.1,0.55
+PI-José de Freitas,2020-07-10,nowcast,1,0.7,1.4,0.9,1.1,0.51
+PI-José de Freitas,2020-07-11,nowcast,1,0.7,1.4,0.9,1.1,0.44
+PI-José de Freitas,2020-07-12,nowcast,1,0.7,1.4,0.9,1.1,0.39
+PI-José de Freitas,2020-07-13,nowcast,1.1,0.8,1.5,0.9,1.2,0.34
+PI-José de Freitas,2020-07-14,nowcast,1.1,0.8,1.5,1,1.3,0.27
+PI-José de Freitas,2020-07-15,nowcast,1.1,0.8,1.5,1,1.3,0.22
+PI-José de Freitas,2020-07-16,nowcast,1.2,0.8,1.6,1,1.3,0.17
+PI-José de Freitas,2020-07-17,forecast,1.1,0.7,1.6,1,1.3,0.26
+PI-José de Freitas,2020-07-18,forecast,1.1,0.7,1.6,0.9,1.3,0.29
+PI-José de Freitas,2020-07-19,forecast,1.1,0.7,1.7,0.9,1.3,0.3
+PI-José de Freitas,2020-07-20,forecast,1.1,0.7,1.7,0.9,1.3,0.31
+PI-José de Freitas,2020-07-21,forecast,1.1,0.6,1.7,0.9,1.3,0.32
+PI-José de Freitas,2020-07-22,forecast,1.1,0.6,1.7,0.9,1.4,0.33
+PI-José de Freitas,2020-07-23,forecast,1.1,0.5,1.8,0.9,1.4,0.34
+PI-José de Freitas,2020-07-24,forecast,1.1,0.5,1.8,0.8,1.3,0.36
+PI-José de Freitas,2020-07-25,forecast,1.1,0.5,1.8,0.8,1.3,0.36
+PI-José de Freitas,2020-07-26,forecast,1.1,0.5,1.8,0.9,1.4,0.35
+PI-José de Freitas,2020-07-27,forecast,1.1,0.5,1.9,0.9,1.4,0.36
+PI-José de Freitas,2020-07-28,forecast,1.1,0.4,1.8,0.8,1.4,0.36
+PI-José de Freitas,2020-07-29,forecast,1.1,0.4,1.9,0.8,1.4,0.36
+PI-José de Freitas,2020-07-30,forecast,1.1,0.4,1.9,0.8,1.4,0.36
+PI-Luzilândia,2020-05-30,nowcast,1.4,0.8,2.1,1.1,1.6,0.12
 PI-Luzilândia,2020-05-31,nowcast,1.4,0.8,2.1,1.1,1.6,0.09
-PI-Luzilândia,2020-06-01,nowcast,1.5,0.9,2.2,1.2,1.7,0.07
-PI-Luzilândia,2020-06-02,nowcast,1.5,0.9,2.1,1.2,1.6,0.05
-PI-Luzilândia,2020-06-03,nowcast,1.5,0.9,2.2,1.3,1.7,0.05
+PI-Luzilândia,2020-06-01,nowcast,1.5,0.9,2.1,1.2,1.7,0.07
+PI-Luzilândia,2020-06-02,nowcast,1.5,0.9,2.2,1.2,1.7,0.06
+PI-Luzilândia,2020-06-03,nowcast,1.5,1,2.1,1.2,1.7,0.05
 PI-Luzilândia,2020-06-04,nowcast,1.5,1,2.1,1.3,1.7,0.03
-PI-Luzilândia,2020-06-05,nowcast,1.5,1,2,1.3,1.7,0.03
-PI-Luzilândia,2020-06-06,nowcast,1.5,1,2,1.3,1.7,0.03
+PI-Luzilândia,2020-06-05,nowcast,1.5,1,2,1.3,1.6,0.03
+PI-Luzilândia,2020-06-06,nowcast,1.5,1,2,1.3,1.7,0.04
 PI-Luzilândia,2020-06-07,nowcast,1.4,1,1.9,1.2,1.6,0.04
-PI-Luzilândia,2020-06-08,nowcast,1.4,1,1.9,1.2,1.5,0.05
-PI-Luzilândia,2020-06-09,nowcast,1.4,1,1.8,1.2,1.5,0.06
-PI-Luzilândia,2020-06-10,nowcast,1.3,1,1.7,1.2,1.5,0.07
-PI-Luzilândia,2020-06-11,nowcast,1.3,0.9,1.6,1.1,1.4,0.1
-PI-Luzilândia,2020-06-12,nowcast,1.2,0.9,1.6,1.1,1.4,0.12
-PI-Luzilândia,2020-06-13,nowcast,1.2,0.9,1.6,1.1,1.4,0.12
-PI-Luzilândia,2020-06-14,nowcast,1.2,0.9,1.5,1.1,1.3,0.13
+PI-Luzilândia,2020-06-08,nowcast,1.4,1,1.9,1.2,1.6,0.06
+PI-Luzilândia,2020-06-09,nowcast,1.4,0.9,1.8,1.2,1.5,0.07
+PI-Luzilândia,2020-06-10,nowcast,1.3,0.9,1.7,1.2,1.5,0.07
+PI-Luzilândia,2020-06-11,nowcast,1.3,0.9,1.6,1.2,1.4,0.09
+PI-Luzilândia,2020-06-12,nowcast,1.2,0.9,1.6,1.1,1.4,0.11
+PI-Luzilândia,2020-06-13,nowcast,1.2,0.9,1.6,1.1,1.3,0.11
+PI-Luzilândia,2020-06-14,nowcast,1.2,0.9,1.5,1.1,1.3,0.12
 PI-Luzilândia,2020-06-15,nowcast,1.2,0.9,1.5,1.1,1.3,0.13
-PI-Luzilândia,2020-06-16,nowcast,1.2,0.9,1.5,1.1,1.3,0.14
-PI-Luzilândia,2020-06-17,nowcast,1.2,0.9,1.4,1.1,1.3,0.13
-PI-Luzilândia,2020-06-18,nowcast,1.2,0.9,1.5,1,1.3,0.13
-PI-Luzilândia,2020-06-19,nowcast,1.2,0.9,1.5,1.1,1.3,0.13
+PI-Luzilândia,2020-06-16,nowcast,1.2,0.9,1.5,1.1,1.3,0.13
+PI-Luzilândia,2020-06-17,nowcast,1.2,0.9,1.4,1.1,1.3,0.14
+PI-Luzilândia,2020-06-18,nowcast,1.2,0.9,1.4,1.1,1.3,0.14
+PI-Luzilândia,2020-06-19,nowcast,1.2,0.9,1.4,1,1.2,0.13
 PI-Luzilândia,2020-06-20,nowcast,1.2,0.9,1.4,1.1,1.3,0.11
-PI-Luzilândia,2020-06-21,nowcast,1.2,0.9,1.4,1.1,1.3,0.1
+PI-Luzilândia,2020-06-21,nowcast,1.2,0.9,1.4,1.1,1.3,0.12
 PI-Luzilândia,2020-06-22,nowcast,1.2,0.9,1.4,1.1,1.3,0.11
-PI-Luzilândia,2020-06-23,nowcast,1.2,0.9,1.4,1.1,1.3,0.11
-PI-Luzilândia,2020-06-24,nowcast,1.2,0.9,1.4,1.1,1.3,0.12
-PI-Luzilândia,2020-06-25,nowcast,1.2,0.9,1.4,1.1,1.2,0.13
-PI-Luzilândia,2020-06-26,nowcast,1.1,0.9,1.4,1.1,1.2,0.15
-PI-Luzilândia,2020-06-27,nowcast,1.1,0.9,1.4,1,1.2,0.17
-PI-Luzilândia,2020-06-28,nowcast,1.1,0.9,1.3,1,1.2,0.22
-PI-Luzilândia,2020-06-29,nowcast,1.1,0.8,1.3,1,1.2,0.29
+PI-Luzilândia,2020-06-23,nowcast,1.2,0.9,1.4,1.1,1.3,0.12
+PI-Luzilândia,2020-06-24,nowcast,1.2,0.9,1.4,1.1,1.2,0.12
+PI-Luzilândia,2020-06-25,nowcast,1.2,0.9,1.4,1.1,1.2,0.12
+PI-Luzilândia,2020-06-26,nowcast,1.1,0.9,1.4,1,1.2,0.15
+PI-Luzilândia,2020-06-27,nowcast,1.1,0.9,1.4,1,1.2,0.18
+PI-Luzilândia,2020-06-28,nowcast,1.1,0.9,1.3,1,1.2,0.21
+PI-Luzilândia,2020-06-29,nowcast,1.1,0.9,1.3,1,1.2,0.26
 PI-Luzilândia,2020-06-30,nowcast,1.1,0.8,1.3,1,1.1,0.33
-PI-Luzilândia,2020-07-01,nowcast,1,0.8,1.2,1,1.1,0.41
+PI-Luzilândia,2020-07-01,nowcast,1,0.8,1.2,1,1.1,0.4
 PI-Luzilândia,2020-07-02,nowcast,1,0.8,1.2,0.9,1.1,0.46
-PI-Luzilândia,2020-07-03,nowcast,1,0.8,1.2,0.9,1.1,0.53
-PI-Luzilândia,2020-07-04,nowcast,1,0.8,1.2,0.9,1.1,0.58
-PI-Luzilândia,2020-07-05,nowcast,0.9,0.7,1.2,0.9,1,0.68
-PI-Luzilândia,2020-07-06,nowcast,0.9,0.7,1.1,0.9,1,0.75
-PI-Luzilândia,2020-07-07,nowcast,0.9,0.7,1.1,0.8,1,0.78
+PI-Luzilândia,2020-07-03,nowcast,1,0.8,1.2,0.9,1.1,0.52
+PI-Luzilândia,2020-07-04,nowcast,1,0.7,1.2,0.9,1.1,0.59
+PI-Luzilândia,2020-07-05,nowcast,0.9,0.7,1.1,0.9,1,0.68
+PI-Luzilândia,2020-07-06,nowcast,0.9,0.7,1.1,0.9,1,0.74
+PI-Luzilândia,2020-07-07,nowcast,0.9,0.7,1.1,0.8,1,0.81
 PI-Luzilândia,2020-07-08,nowcast,0.9,0.7,1.1,0.8,1,0.81
-PI-Luzilândia,2020-07-09,nowcast,0.9,0.7,1.1,0.8,1,0.8
-PI-Luzilândia,2020-07-10,nowcast,0.9,0.7,1.1,0.8,1,0.78
-PI-Luzilândia,2020-07-11,nowcast,0.9,0.7,1.1,0.8,1,0.79
-PI-Luzilândia,2020-07-12,nowcast,0.9,0.7,1.1,0.8,1,0.78
-PI-Luzilândia,2020-07-13,nowcast,0.9,0.7,1.1,0.8,1,0.78
-PI-Luzilândia,2020-07-14,nowcast,0.9,0.6,1.1,0.8,1,0.78
-PI-Luzilândia,2020-07-15,nowcast,0.9,0.7,1.1,0.8,1,0.77
-PI-Luzilândia,2020-07-16,forecast,0.9,0.6,1.2,0.8,1,0.73
-PI-Luzilândia,2020-07-17,forecast,0.9,0.6,1.2,0.8,1,0.72
-PI-Luzilândia,2020-07-18,forecast,0.9,0.6,1.2,0.8,1,0.71
-PI-Luzilândia,2020-07-19,forecast,0.9,0.5,1.3,0.7,1,0.69
-PI-Luzilândia,2020-07-20,forecast,0.9,0.5,1.3,0.7,1,0.7
-PI-Luzilândia,2020-07-21,forecast,0.9,0.5,1.3,0.7,1,0.69
-PI-Luzilândia,2020-07-22,forecast,0.9,0.4,1.3,0.7,1,0.68
-PI-Luzilândia,2020-07-23,forecast,0.9,0.4,1.4,0.7,1,0.67
-PI-Luzilândia,2020-07-24,forecast,0.9,0.4,1.4,0.7,1,0.67
-PI-Luzilândia,2020-07-25,forecast,0.9,0.4,1.4,0.7,1.1,0.68
-PI-Luzilândia,2020-07-26,forecast,0.9,0.4,1.4,0.7,1.1,0.68
-PI-Luzilândia,2020-07-27,forecast,0.9,0.4,1.4,0.7,1.1,0.67
-PI-Luzilândia,2020-07-28,forecast,0.9,0.4,1.4,0.7,1.1,0.67
-PI-Luzilândia,2020-07-29,forecast,0.9,0.3,1.4,0.6,1.1,0.67
-PI-Miguel Alves,2020-04-30,nowcast,0.8,0.1,1.5,0.5,1.1,0.67
-PI-Miguel Alves,2020-05-01,nowcast,0.7,0.1,1.4,0.4,1,0.73
+PI-Luzilândia,2020-07-09,nowcast,0.9,0.7,1.1,0.8,1,0.83
+PI-Luzilândia,2020-07-10,nowcast,0.9,0.7,1.1,0.8,1,0.83
+PI-Luzilândia,2020-07-11,nowcast,0.9,0.7,1.1,0.8,1,0.83
+PI-Luzilândia,2020-07-12,nowcast,0.9,0.7,1.1,0.8,1,0.84
+PI-Luzilândia,2020-07-13,nowcast,0.9,0.7,1.1,0.8,0.9,0.85
+PI-Luzilândia,2020-07-14,nowcast,0.9,0.6,1.1,0.8,1,0.85
+PI-Luzilândia,2020-07-15,nowcast,0.9,0.6,1.1,0.8,1,0.83
+PI-Luzilândia,2020-07-16,nowcast,0.9,0.6,1.1,0.8,1,0.81
+PI-Luzilândia,2020-07-17,forecast,0.9,0.6,1.2,0.7,1,0.78
+PI-Luzilândia,2020-07-18,forecast,0.9,0.5,1.2,0.7,1,0.77
+PI-Luzilândia,2020-07-19,forecast,0.9,0.5,1.2,0.7,1,0.75
+PI-Luzilândia,2020-07-20,forecast,0.9,0.5,1.2,0.7,1,0.75
+PI-Luzilândia,2020-07-21,forecast,0.9,0.4,1.2,0.7,1,0.74
+PI-Luzilândia,2020-07-22,forecast,0.9,0.5,1.3,0.7,1,0.72
+PI-Luzilândia,2020-07-23,forecast,0.8,0.4,1.3,0.7,1,0.73
+PI-Luzilândia,2020-07-24,forecast,0.8,0.4,1.3,0.7,1,0.71
+PI-Luzilândia,2020-07-25,forecast,0.8,0.3,1.3,0.6,1,0.71
+PI-Luzilândia,2020-07-26,forecast,0.8,0.3,1.3,0.7,1,0.71
+PI-Luzilândia,2020-07-27,forecast,0.8,0.3,1.3,0.6,1,0.72
+PI-Luzilândia,2020-07-28,forecast,0.8,0.3,1.3,0.7,1.1,0.71
+PI-Luzilândia,2020-07-29,forecast,0.8,0.3,1.4,0.6,1,0.7
+PI-Luzilândia,2020-07-30,forecast,0.8,0.3,1.4,0.6,1.1,0.7
+PI-Miguel Alves,2020-04-30,nowcast,0.8,0.1,1.5,0.5,1,0.66
+PI-Miguel Alves,2020-05-01,nowcast,0.8,0.1,1.4,0.4,0.9,0.72
 PI-Miguel Alves,2020-05-02,nowcast,0.7,0.1,1.4,0.4,0.9,0.75
-PI-Miguel Alves,2020-05-03,nowcast,0.7,0,1.4,0.3,0.8,0.76
-PI-Miguel Alves,2020-05-04,nowcast,0.7,0,1.5,0.3,0.9,0.73
-PI-Miguel Alves,2020-05-05,nowcast,0.7,0.1,1.7,0.3,0.9,0.69
-PI-Miguel Alves,2020-05-06,nowcast,0.8,0,1.8,0.3,0.9,0.63
-PI-Miguel Alves,2020-05-07,nowcast,0.9,0.1,2.1,0.4,1.1,0.55
+PI-Miguel Alves,2020-05-03,nowcast,0.7,0.1,1.5,0.3,0.8,0.74
+PI-Miguel Alves,2020-05-04,nowcast,0.7,0,1.5,0.3,0.9,0.74
+PI-Miguel Alves,2020-05-05,nowcast,0.7,0,1.6,0.3,0.9,0.7
+PI-Miguel Alves,2020-05-06,nowcast,0.8,0,1.9,0.3,0.9,0.63
+PI-Miguel Alves,2020-05-07,nowcast,0.9,0.1,2,0.4,1.1,0.57
 PI-Miguel Alves,2020-05-08,nowcast,1,0.1,2.2,0.4,1.2,0.49
-PI-Miguel Alves,2020-05-09,nowcast,1.1,0.1,2.4,0.6,1.4,0.42
-PI-Miguel Alves,2020-05-10,nowcast,1.2,0.2,2.5,0.6,1.4,0.38
-PI-Miguel Alves,2020-05-11,nowcast,1.2,0.2,2.5,0.7,1.5,0.35
-PI-Miguel Alves,2020-05-12,nowcast,1.3,0.2,2.5,0.7,1.5,0.34
-PI-Miguel Alves,2020-05-13,nowcast,1.3,0.2,2.5,0.7,1.5,0.33
-PI-Miguel Alves,2020-05-14,nowcast,1.2,0.3,2.4,0.7,1.5,0.34
-PI-Miguel Alves,2020-05-15,nowcast,1.2,0.3,2.4,0.8,1.5,0.34
-PI-Miguel Alves,2020-05-16,nowcast,1.2,0.3,2.3,0.7,1.5,0.34
+PI-Miguel Alves,2020-05-09,nowcast,1.1,0.2,2.4,0.5,1.3,0.45
+PI-Miguel Alves,2020-05-10,nowcast,1.2,0.2,2.4,0.6,1.4,0.4
+PI-Miguel Alves,2020-05-11,nowcast,1.2,0.2,2.5,0.6,1.5,0.34
+PI-Miguel Alves,2020-05-12,nowcast,1.2,0.2,2.4,0.7,1.5,0.34
+PI-Miguel Alves,2020-05-13,nowcast,1.3,0.2,2.4,0.7,1.5,0.32
+PI-Miguel Alves,2020-05-14,nowcast,1.2,0.2,2.3,0.7,1.5,0.34
+PI-Miguel Alves,2020-05-15,nowcast,1.2,0.3,2.4,0.8,1.5,0.33
+PI-Miguel Alves,2020-05-16,nowcast,1.2,0.2,2.2,0.8,1.5,0.35
 PI-Miguel Alves,2020-05-17,nowcast,1.2,0.3,2.2,0.7,1.4,0.36
-PI-Miguel Alves,2020-05-18,nowcast,1.2,0.3,2.2,0.8,1.5,0.35
-PI-Miguel Alves,2020-05-19,nowcast,1.2,0.3,2.2,0.7,1.4,0.36
-PI-Miguel Alves,2020-05-20,nowcast,1.2,0.3,2.3,0.7,1.5,0.34
-PI-Miguel Alves,2020-05-21,nowcast,1.3,0.4,2.4,0.8,1.5,0.31
-PI-Miguel Alves,2020-05-22,nowcast,1.3,0.4,2.3,0.9,1.6,0.26
-PI-Miguel Alves,2020-05-23,nowcast,1.3,0.5,2.3,0.9,1.6,0.24
-PI-Miguel Alves,2020-05-24,nowcast,1.4,0.6,2.5,0.9,1.6,0.19
+PI-Miguel Alves,2020-05-18,nowcast,1.2,0.3,2.3,0.7,1.4,0.37
+PI-Miguel Alves,2020-05-19,nowcast,1.2,0.3,2.3,0.7,1.4,0.36
+PI-Miguel Alves,2020-05-20,nowcast,1.2,0.3,2.2,0.7,1.4,0.34
+PI-Miguel Alves,2020-05-21,nowcast,1.3,0.4,2.3,0.8,1.5,0.29
+PI-Miguel Alves,2020-05-22,nowcast,1.3,0.5,2.4,0.8,1.5,0.27
+PI-Miguel Alves,2020-05-23,nowcast,1.4,0.4,2.4,0.9,1.6,0.22
+PI-Miguel Alves,2020-05-24,nowcast,1.4,0.5,2.4,1,1.7,0.2
 PI-Miguel Alves,2020-05-25,nowcast,1.4,0.5,2.4,1,1.7,0.18
-PI-Miguel Alves,2020-05-26,nowcast,1.4,0.6,2.4,1.1,1.7,0.16
-PI-Miguel Alves,2020-05-27,nowcast,1.5,0.7,2.3,1,1.7,0.15
-PI-Miguel Alves,2020-05-28,nowcast,1.4,0.7,2.3,1.1,1.7,0.16
+PI-Miguel Alves,2020-05-26,nowcast,1.4,0.7,2.5,1,1.7,0.17
+PI-Miguel Alves,2020-05-27,nowcast,1.5,0.6,2.4,1,1.7,0.14
+PI-Miguel Alves,2020-05-28,nowcast,1.4,0.6,2.2,1,1.6,0.14
 PI-Miguel Alves,2020-05-29,nowcast,1.4,0.7,2.2,1.1,1.7,0.15
-PI-Miguel Alves,2020-05-30,nowcast,1.4,0.7,2.1,1.1,1.6,0.16
+PI-Miguel Alves,2020-05-30,nowcast,1.4,0.7,2.2,1.1,1.6,0.15
 PI-Miguel Alves,2020-05-31,nowcast,1.4,0.7,2.1,1,1.5,0.17
 PI-Miguel Alves,2020-06-01,nowcast,1.3,0.7,2,1,1.5,0.19
-PI-Miguel Alves,2020-06-02,nowcast,1.3,0.6,1.9,1,1.5,0.21
-PI-Miguel Alves,2020-06-03,nowcast,1.2,0.6,1.7,1,1.4,0.26
-PI-Miguel Alves,2020-06-04,nowcast,1.2,0.6,1.7,0.9,1.3,0.28
-PI-Miguel Alves,2020-06-05,nowcast,1.2,0.7,1.7,0.9,1.3,0.3
-PI-Miguel Alves,2020-06-06,nowcast,1.1,0.6,1.7,0.9,1.3,0.33
-PI-Miguel Alves,2020-06-07,nowcast,1.1,0.6,1.6,0.9,1.3,0.34
-PI-Miguel Alves,2020-06-08,nowcast,1.1,0.6,1.6,0.9,1.2,0.36
-PI-Miguel Alves,2020-06-09,nowcast,1.1,0.6,1.6,0.9,1.2,0.39
-PI-Miguel Alves,2020-06-10,nowcast,1.1,0.6,1.5,0.9,1.2,0.41
-PI-Miguel Alves,2020-06-11,nowcast,1,0.6,1.5,0.9,1.2,0.44
-PI-Miguel Alves,2020-06-12,nowcast,1.1,0.6,1.6,0.8,1.2,0.41
-PI-Miguel Alves,2020-06-13,nowcast,1.1,0.6,1.5,0.9,1.2,0.41
-PI-Miguel Alves,2020-06-14,nowcast,1.1,0.6,1.6,0.9,1.2,0.4
+PI-Miguel Alves,2020-06-02,nowcast,1.3,0.7,1.8,1,1.5,0.21
+PI-Miguel Alves,2020-06-03,nowcast,1.2,0.6,1.8,1,1.5,0.25
+PI-Miguel Alves,2020-06-04,nowcast,1.2,0.7,1.8,1,1.4,0.26
+PI-Miguel Alves,2020-06-05,nowcast,1.1,0.6,1.7,0.9,1.3,0.31
+PI-Miguel Alves,2020-06-06,nowcast,1.1,0.6,1.6,0.9,1.3,0.33
+PI-Miguel Alves,2020-06-07,nowcast,1.1,0.6,1.6,0.8,1.2,0.36
+PI-Miguel Alves,2020-06-08,nowcast,1.1,0.6,1.6,0.9,1.2,0.39
+PI-Miguel Alves,2020-06-09,nowcast,1.1,0.6,1.5,0.9,1.3,0.42
+PI-Miguel Alves,2020-06-10,nowcast,1,0.6,1.5,0.9,1.2,0.43
+PI-Miguel Alves,2020-06-11,nowcast,1.1,0.6,1.5,0.8,1.2,0.42
+PI-Miguel Alves,2020-06-12,nowcast,1.1,0.6,1.6,0.8,1.2,0.42
+PI-Miguel Alves,2020-06-13,nowcast,1.1,0.6,1.6,0.9,1.2,0.41
+PI-Miguel Alves,2020-06-14,nowcast,1.1,0.6,1.6,0.9,1.2,0.39
 PI-Miguel Alves,2020-06-15,nowcast,1.1,0.6,1.6,0.9,1.2,0.37
-PI-Miguel Alves,2020-06-16,nowcast,1.1,0.6,1.5,0.9,1.2,0.35
-PI-Miguel Alves,2020-06-17,nowcast,1.1,0.6,1.6,0.9,1.2,0.35
-PI-Miguel Alves,2020-06-18,nowcast,1.1,0.7,1.7,0.9,1.3,0.29
-PI-Miguel Alves,2020-06-19,nowcast,1.2,0.7,1.7,1,1.3,0.24
-PI-Miguel Alves,2020-06-20,nowcast,1.2,0.8,1.8,1,1.3,0.19
-PI-Miguel Alves,2020-06-21,nowcast,1.2,0.8,1.7,1,1.4,0.16
-PI-Miguel Alves,2020-06-22,nowcast,1.2,0.8,1.7,1,1.4,0.16
-PI-Miguel Alves,2020-06-23,nowcast,1.2,0.8,1.7,1,1.4,0.15
-PI-Miguel Alves,2020-06-24,nowcast,1.2,0.8,1.6,1,1.3,0.18
-PI-Miguel Alves,2020-06-25,nowcast,1.2,0.8,1.6,1,1.3,0.19
+PI-Miguel Alves,2020-06-16,nowcast,1.1,0.7,1.6,0.9,1.2,0.37
+PI-Miguel Alves,2020-06-17,nowcast,1.1,0.6,1.6,0.9,1.2,0.33
+PI-Miguel Alves,2020-06-18,nowcast,1.1,0.7,1.7,1,1.3,0.27
+PI-Miguel Alves,2020-06-19,nowcast,1.2,0.7,1.7,1,1.3,0.23
+PI-Miguel Alves,2020-06-20,nowcast,1.2,0.8,1.7,1,1.3,0.19
+PI-Miguel Alves,2020-06-21,nowcast,1.2,0.8,1.8,1,1.4,0.16
+PI-Miguel Alves,2020-06-22,nowcast,1.2,0.8,1.7,1.1,1.4,0.16
+PI-Miguel Alves,2020-06-23,nowcast,1.2,0.8,1.7,1.1,1.4,0.15
+PI-Miguel Alves,2020-06-24,nowcast,1.2,0.8,1.6,1.1,1.4,0.17
+PI-Miguel Alves,2020-06-25,nowcast,1.2,0.8,1.6,1,1.3,0.21
 PI-Miguel Alves,2020-06-26,nowcast,1.2,0.8,1.6,1,1.3,0.23
-PI-Miguel Alves,2020-06-27,nowcast,1.1,0.7,1.5,1,1.3,0.28
-PI-Miguel Alves,2020-06-28,nowcast,1.1,0.8,1.5,1,1.2,0.29
-PI-Miguel Alves,2020-06-29,nowcast,1.1,0.7,1.5,1,1.2,0.31
-PI-Miguel Alves,2020-06-30,nowcast,1.1,0.7,1.5,1,1.2,0.34
-PI-Miguel Alves,2020-07-01,nowcast,1.1,0.7,1.4,0.9,1.2,0.33
-PI-Miguel Alves,2020-07-02,nowcast,1.1,0.7,1.4,0.9,1.2,0.34
-PI-Miguel Alves,2020-07-03,nowcast,1.1,0.8,1.5,1,1.2,0.32
-PI-Miguel Alves,2020-07-04,nowcast,1.1,0.8,1.5,1,1.2,0.3
-PI-Miguel Alves,2020-07-05,nowcast,1.1,0.8,1.5,1,1.2,0.28
-PI-Miguel Alves,2020-07-06,nowcast,1.1,0.8,1.5,0.9,1.2,0.29
-PI-Miguel Alves,2020-07-07,nowcast,1.1,0.8,1.5,1,1.2,0.27
-PI-Miguel Alves,2020-07-08,nowcast,1.1,0.8,1.5,0.9,1.2,0.3
-PI-Miguel Alves,2020-07-09,nowcast,1.1,0.8,1.4,1,1.2,0.33
-PI-Miguel Alves,2020-07-10,nowcast,1.1,0.8,1.4,0.9,1.2,0.34
-PI-Miguel Alves,2020-07-11,nowcast,1.1,0.7,1.4,0.9,1.2,0.35
-PI-Miguel Alves,2020-07-12,nowcast,1,0.7,1.4,0.9,1.2,0.41
-PI-Miguel Alves,2020-07-13,nowcast,1,0.7,1.4,0.9,1.1,0.45
-PI-Miguel Alves,2020-07-14,nowcast,1,0.7,1.4,0.9,1.1,0.45
-PI-Miguel Alves,2020-07-15,nowcast,1,0.7,1.4,0.9,1.2,0.44
-PI-Miguel Alves,2020-07-16,forecast,1,0.6,1.5,0.9,1.2,0.43
-PI-Miguel Alves,2020-07-17,forecast,1,0.6,1.5,0.9,1.2,0.42
-PI-Miguel Alves,2020-07-18,forecast,1,0.6,1.5,0.8,1.2,0.43
-PI-Miguel Alves,2020-07-19,forecast,1,0.6,1.6,0.8,1.2,0.44
-PI-Miguel Alves,2020-07-20,forecast,1,0.5,1.6,0.8,1.3,0.44
-PI-Miguel Alves,2020-07-21,forecast,1,0.5,1.6,0.8,1.3,0.45
-PI-Miguel Alves,2020-07-22,forecast,1,0.5,1.6,0.9,1.3,0.44
-PI-Miguel Alves,2020-07-23,forecast,1,0.4,1.6,0.8,1.3,0.46
-PI-Miguel Alves,2020-07-24,forecast,1,0.4,1.7,0.8,1.3,0.46
-PI-Miguel Alves,2020-07-25,forecast,1.1,0.5,1.7,0.9,1.3,0.44
-PI-Miguel Alves,2020-07-26,forecast,1,0.4,1.7,0.8,1.3,0.45
-PI-Miguel Alves,2020-07-27,forecast,1,0.4,1.7,0.9,1.4,0.45
-PI-Miguel Alves,2020-07-28,forecast,1,0.3,1.7,0.8,1.3,0.46
-PI-Miguel Alves,2020-07-29,forecast,1,0.3,1.8,0.8,1.3,0.47
-PI-Oeiras,2020-05-10,nowcast,1.1,0.4,1.9,0.7,1.3,0.42
-PI-Oeiras,2020-05-11,nowcast,1.1,0.4,1.8,0.7,1.3,0.42
-PI-Oeiras,2020-05-12,nowcast,1.1,0.3,1.8,0.8,1.3,0.44
-PI-Oeiras,2020-05-13,nowcast,1,0.3,1.8,0.7,1.3,0.46
-PI-Oeiras,2020-05-14,nowcast,1,0.4,1.8,0.7,1.2,0.48
-PI-Oeiras,2020-05-15,nowcast,1,0.3,1.8,0.7,1.2,0.49
-PI-Oeiras,2020-05-16,nowcast,1,0.4,1.7,0.7,1.2,0.51
-PI-Oeiras,2020-05-17,nowcast,1,0.4,1.7,0.7,1.2,0.53
-PI-Oeiras,2020-05-18,nowcast,1,0.3,1.7,0.7,1.2,0.54
-PI-Oeiras,2020-05-19,nowcast,0.9,0.3,1.6,0.6,1.1,0.58
-PI-Oeiras,2020-05-20,nowcast,0.9,0.2,1.7,0.6,1.2,0.55
+PI-Miguel Alves,2020-06-27,nowcast,1.1,0.8,1.5,1,1.3,0.26
+PI-Miguel Alves,2020-06-28,nowcast,1.1,0.7,1.5,1,1.3,0.31
+PI-Miguel Alves,2020-06-29,nowcast,1.1,0.7,1.5,1,1.2,0.32
+PI-Miguel Alves,2020-06-30,nowcast,1.1,0.7,1.4,0.9,1.2,0.34
+PI-Miguel Alves,2020-07-01,nowcast,1.1,0.7,1.4,0.9,1.2,0.35
+PI-Miguel Alves,2020-07-02,nowcast,1.1,0.8,1.4,0.9,1.2,0.33
+PI-Miguel Alves,2020-07-03,nowcast,1.1,0.7,1.5,0.9,1.2,0.32
+PI-Miguel Alves,2020-07-04,nowcast,1.1,0.8,1.5,0.9,1.2,0.29
+PI-Miguel Alves,2020-07-05,nowcast,1.1,0.8,1.5,1,1.2,0.29
+PI-Miguel Alves,2020-07-06,nowcast,1.1,0.8,1.5,1,1.2,0.29
+PI-Miguel Alves,2020-07-07,nowcast,1.1,0.8,1.5,1,1.2,0.29
+PI-Miguel Alves,2020-07-08,nowcast,1.1,0.8,1.4,1,1.2,0.29
+PI-Miguel Alves,2020-07-09,nowcast,1.1,0.7,1.4,0.9,1.2,0.34
+PI-Miguel Alves,2020-07-10,nowcast,1.1,0.7,1.4,1,1.2,0.35
+PI-Miguel Alves,2020-07-11,nowcast,1,0.7,1.3,0.9,1.2,0.4
+PI-Miguel Alves,2020-07-12,nowcast,1,0.7,1.3,0.9,1.1,0.45
+PI-Miguel Alves,2020-07-13,nowcast,1,0.7,1.3,0.9,1.1,0.49
+PI-Miguel Alves,2020-07-14,nowcast,1,0.7,1.3,0.9,1.1,0.53
+PI-Miguel Alves,2020-07-15,nowcast,1,0.6,1.3,0.9,1.1,0.5
+PI-Miguel Alves,2020-07-16,nowcast,1,0.7,1.4,0.9,1.1,0.46
+PI-Miguel Alves,2020-07-17,forecast,1,0.6,1.4,0.8,1.2,0.47
+PI-Miguel Alves,2020-07-18,forecast,1,0.6,1.5,0.9,1.2,0.45
+PI-Miguel Alves,2020-07-19,forecast,1,0.6,1.5,0.8,1.2,0.46
+PI-Miguel Alves,2020-07-20,forecast,1,0.6,1.5,0.8,1.2,0.45
+PI-Miguel Alves,2020-07-21,forecast,1,0.5,1.5,0.8,1.2,0.46
+PI-Miguel Alves,2020-07-22,forecast,1,0.5,1.6,0.9,1.3,0.47
+PI-Miguel Alves,2020-07-23,forecast,1,0.5,1.6,0.8,1.3,0.46
+PI-Miguel Alves,2020-07-24,forecast,1,0.4,1.6,0.8,1.2,0.46
+PI-Miguel Alves,2020-07-25,forecast,1,0.4,1.6,0.8,1.3,0.46
+PI-Miguel Alves,2020-07-26,forecast,1,0.3,1.6,0.8,1.3,0.47
+PI-Miguel Alves,2020-07-27,forecast,1,0.4,1.7,0.8,1.3,0.48
+PI-Miguel Alves,2020-07-28,forecast,1,0.4,1.7,0.8,1.3,0.46
+PI-Miguel Alves,2020-07-29,forecast,1,0.3,1.7,0.8,1.3,0.47
+PI-Miguel Alves,2020-07-30,forecast,1,0.4,1.8,0.8,1.3,0.47
+PI-Oeiras,2020-05-10,nowcast,1.1,0.3,1.9,0.8,1.4,0.42
+PI-Oeiras,2020-05-11,nowcast,1.1,0.4,1.9,0.7,1.3,0.43
+PI-Oeiras,2020-05-12,nowcast,1,0.4,1.8,0.7,1.3,0.47
+PI-Oeiras,2020-05-13,nowcast,1,0.3,1.8,0.6,1.2,0.49
+PI-Oeiras,2020-05-14,nowcast,1,0.3,1.8,0.7,1.3,0.48
+PI-Oeiras,2020-05-15,nowcast,1,0.3,1.7,0.7,1.2,0.51
+PI-Oeiras,2020-05-16,nowcast,1,0.3,1.7,0.6,1.2,0.5
+PI-Oeiras,2020-05-17,nowcast,1,0.3,1.7,0.7,1.2,0.54
+PI-Oeiras,2020-05-18,nowcast,1,0.3,1.7,0.7,1.2,0.55
+PI-Oeiras,2020-05-19,nowcast,0.9,0.2,1.7,0.6,1.1,0.55
+PI-Oeiras,2020-05-20,nowcast,0.9,0.3,1.7,0.6,1.1,0.57
 PI-Oeiras,2020-05-21,nowcast,0.9,0.3,1.7,0.6,1.1,0.56
-PI-Oeiras,2020-05-22,nowcast,0.9,0.2,1.7,0.6,1.2,0.56
-PI-Oeiras,2020-05-23,nowcast,1,0.3,1.8,0.6,1.2,0.51
-PI-Oeiras,2020-05-24,nowcast,1,0.3,1.9,0.6,1.2,0.46
-PI-Oeiras,2020-05-25,nowcast,1.1,0.3,2,0.7,1.3,0.42
-PI-Oeiras,2020-05-26,nowcast,1.2,0.3,2.1,0.7,1.4,0.34
-PI-Oeiras,2020-05-27,nowcast,1.2,0.5,2.3,0.8,1.4,0.29
-PI-Oeiras,2020-05-28,nowcast,1.3,0.5,2.2,0.9,1.5,0.24
+PI-Oeiras,2020-05-22,nowcast,1,0.2,1.8,0.6,1.1,0.54
+PI-Oeiras,2020-05-23,nowcast,1,0.3,1.8,0.6,1.1,0.51
+PI-Oeiras,2020-05-24,nowcast,1,0.3,1.9,0.6,1.2,0.47
+PI-Oeiras,2020-05-25,nowcast,1.1,0.4,2.1,0.7,1.3,0.38
+PI-Oeiras,2020-05-26,nowcast,1.2,0.4,2.1,0.8,1.4,0.34
+PI-Oeiras,2020-05-27,nowcast,1.2,0.5,2.2,0.8,1.4,0.29
+PI-Oeiras,2020-05-28,nowcast,1.3,0.5,2.2,0.9,1.5,0.25
 PI-Oeiras,2020-05-29,nowcast,1.3,0.5,2.2,0.9,1.5,0.23
-PI-Oeiras,2020-05-30,nowcast,1.3,0.6,2.2,0.9,1.5,0.22
-PI-Oeiras,2020-05-31,nowcast,1.3,0.6,2.2,1,1.5,0.24
-PI-Oeiras,2020-06-01,nowcast,1.3,0.6,2,0.9,1.5,0.25
-PI-Oeiras,2020-06-02,nowcast,1.2,0.5,1.9,1,1.5,0.28
-PI-Oeiras,2020-06-03,nowcast,1.2,0.5,1.8,0.9,1.4,0.33
-PI-Oeiras,2020-06-04,nowcast,1.1,0.5,1.8,0.9,1.4,0.35
-PI-Oeiras,2020-06-05,nowcast,1.1,0.5,1.8,0.9,1.3,0.37
+PI-Oeiras,2020-05-30,nowcast,1.3,0.5,2.2,1,1.5,0.22
+PI-Oeiras,2020-05-31,nowcast,1.3,0.5,2,0.9,1.5,0.24
+PI-Oeiras,2020-06-01,nowcast,1.2,0.5,2,0.9,1.5,0.28
+PI-Oeiras,2020-06-02,nowcast,1.2,0.5,2,0.9,1.4,0.28
+PI-Oeiras,2020-06-03,nowcast,1.2,0.5,1.9,0.9,1.4,0.31
+PI-Oeiras,2020-06-04,nowcast,1.2,0.5,1.8,0.9,1.4,0.32
+PI-Oeiras,2020-06-05,nowcast,1.1,0.5,1.8,0.9,1.4,0.34
 PI-Oeiras,2020-06-06,nowcast,1.1,0.5,1.8,0.9,1.3,0.35
-PI-Oeiras,2020-06-07,nowcast,1.1,0.5,1.8,0.8,1.3,0.36
-PI-Oeiras,2020-06-08,nowcast,1.1,0.5,1.8,0.9,1.3,0.35
-PI-Oeiras,2020-06-09,nowcast,1.1,0.5,1.8,0.9,1.3,0.32
-PI-Oeiras,2020-06-10,nowcast,1.2,0.6,1.9,0.9,1.4,0.28
-PI-Oeiras,2020-06-11,nowcast,1.2,0.7,2,0.9,1.4,0.24
-PI-Oeiras,2020-06-12,nowcast,1.3,0.7,2,0.9,1.4,0.2
-PI-Oeiras,2020-06-13,nowcast,1.3,0.7,2.1,1,1.5,0.15
-PI-Oeiras,2020-06-14,nowcast,1.4,0.8,2,1.1,1.5,0.11
-PI-Oeiras,2020-06-15,nowcast,1.4,0.9,2.1,1.1,1.6,0.08
+PI-Oeiras,2020-06-07,nowcast,1.1,0.5,1.8,0.8,1.3,0.35
+PI-Oeiras,2020-06-08,nowcast,1.1,0.6,1.8,0.9,1.3,0.33
+PI-Oeiras,2020-06-09,nowcast,1.2,0.5,1.8,0.9,1.4,0.32
+PI-Oeiras,2020-06-10,nowcast,1.2,0.6,1.9,0.9,1.3,0.29
+PI-Oeiras,2020-06-11,nowcast,1.2,0.6,1.9,0.9,1.4,0.23
+PI-Oeiras,2020-06-12,nowcast,1.3,0.7,2,1,1.4,0.19
+PI-Oeiras,2020-06-13,nowcast,1.3,0.7,2,1,1.5,0.15
+PI-Oeiras,2020-06-14,nowcast,1.4,0.8,2,1.1,1.6,0.11
+PI-Oeiras,2020-06-15,nowcast,1.4,0.8,2.1,1.2,1.6,0.09
 PI-Oeiras,2020-06-16,nowcast,1.4,0.9,2.1,1.2,1.6,0.07
-PI-Oeiras,2020-06-17,nowcast,1.4,0.9,2,1.2,1.6,0.06
-PI-Oeiras,2020-06-18,nowcast,1.4,0.9,2,1.2,1.6,0.07
-PI-Oeiras,2020-06-19,nowcast,1.4,1,2,1.2,1.6,0.06
-PI-Oeiras,2020-06-20,nowcast,1.4,1,1.9,1.2,1.6,0.05
-PI-Oeiras,2020-06-21,nowcast,1.4,0.9,1.8,1.2,1.5,0.07
-PI-Oeiras,2020-06-22,nowcast,1.4,1,1.8,1.2,1.5,0.07
-PI-Oeiras,2020-06-23,nowcast,1.3,0.9,1.8,1.1,1.5,0.07
-PI-Oeiras,2020-06-24,nowcast,1.3,0.9,1.7,1.1,1.4,0.09
-PI-Oeiras,2020-06-25,nowcast,1.3,0.9,1.7,1.1,1.4,0.1
-PI-Oeiras,2020-06-26,nowcast,1.2,0.9,1.6,1.1,1.4,0.12
-PI-Oeiras,2020-06-27,nowcast,1.2,0.8,1.5,1.1,1.3,0.19
-PI-Oeiras,2020-06-28,nowcast,1.1,0.8,1.4,1,1.3,0.27
-PI-Oeiras,2020-06-29,nowcast,1.1,0.7,1.4,0.9,1.2,0.37
-PI-Oeiras,2020-06-30,nowcast,1,0.7,1.3,0.9,1.1,0.46
-PI-Oeiras,2020-07-01,nowcast,1,0.7,1.3,0.9,1.1,0.49
+PI-Oeiras,2020-06-17,nowcast,1.4,0.9,2.1,1.2,1.6,0.07
+PI-Oeiras,2020-06-18,nowcast,1.4,0.9,2,1.2,1.6,0.06
+PI-Oeiras,2020-06-19,nowcast,1.4,1,1.9,1.2,1.6,0.06
+PI-Oeiras,2020-06-20,nowcast,1.4,0.9,1.9,1.2,1.6,0.06
+PI-Oeiras,2020-06-21,nowcast,1.4,0.9,1.8,1.2,1.5,0.06
+PI-Oeiras,2020-06-22,nowcast,1.3,0.9,1.8,1.2,1.5,0.07
+PI-Oeiras,2020-06-23,nowcast,1.3,1,1.8,1.2,1.5,0.06
+PI-Oeiras,2020-06-24,nowcast,1.3,0.9,1.7,1.1,1.4,0.08
+PI-Oeiras,2020-06-25,nowcast,1.3,0.9,1.7,1.1,1.4,0.09
+PI-Oeiras,2020-06-26,nowcast,1.2,0.9,1.6,1.1,1.4,0.13
+PI-Oeiras,2020-06-27,nowcast,1.2,0.8,1.5,1,1.3,0.18
+PI-Oeiras,2020-06-28,nowcast,1.1,0.8,1.4,1,1.3,0.28
+PI-Oeiras,2020-06-29,nowcast,1.1,0.8,1.4,1,1.2,0.36
+PI-Oeiras,2020-06-30,nowcast,1,0.7,1.3,0.9,1.2,0.44
+PI-Oeiras,2020-07-01,nowcast,1,0.7,1.3,0.9,1.1,0.47
 PI-Oeiras,2020-07-02,nowcast,1,0.7,1.3,0.9,1.1,0.49
-PI-Oeiras,2020-07-03,nowcast,1,0.7,1.3,0.9,1.1,0.5
+PI-Oeiras,2020-07-03,nowcast,1,0.7,1.3,0.9,1.1,0.49
 PI-Oeiras,2020-07-04,nowcast,1,0.7,1.3,0.9,1.1,0.47
-PI-Oeiras,2020-07-05,nowcast,1,0.8,1.3,0.9,1.1,0.44
-PI-Oeiras,2020-07-06,nowcast,1,0.8,1.3,0.9,1.1,0.43
+PI-Oeiras,2020-07-05,nowcast,1,0.8,1.3,0.9,1.1,0.45
+PI-Oeiras,2020-07-06,nowcast,1,0.8,1.3,0.9,1.1,0.41
 PI-Oeiras,2020-07-07,nowcast,1,0.8,1.3,0.9,1.1,0.4
-PI-Oeiras,2020-07-08,nowcast,1,0.8,1.3,0.9,1.1,0.37
-PI-Oeiras,2020-07-09,nowcast,1.1,0.8,1.3,0.9,1.1,0.35
-PI-Oeiras,2020-07-10,nowcast,1.1,0.8,1.4,0.9,1.1,0.35
-PI-Oeiras,2020-07-11,nowcast,1.1,0.8,1.4,0.9,1.2,0.35
-PI-Oeiras,2020-07-12,nowcast,1.1,0.8,1.4,1,1.2,0.35
-PI-Oeiras,2020-07-13,nowcast,1.1,0.8,1.3,0.9,1.2,0.34
-PI-Oeiras,2020-07-14,nowcast,1.1,0.8,1.4,1,1.2,0.32
-PI-Oeiras,2020-07-15,nowcast,1.1,0.8,1.4,0.9,1.2,0.3
-PI-Oeiras,2020-07-16,forecast,1.1,0.7,1.5,0.9,1.2,0.34
-PI-Oeiras,2020-07-17,forecast,1.1,0.7,1.5,0.9,1.2,0.36
-PI-Oeiras,2020-07-18,forecast,1.1,0.6,1.5,0.9,1.2,0.37
-PI-Oeiras,2020-07-19,forecast,1.1,0.6,1.6,0.9,1.2,0.38
-PI-Oeiras,2020-07-20,forecast,1.1,0.6,1.6,0.8,1.2,0.39
+PI-Oeiras,2020-07-08,nowcast,1,0.8,1.3,0.9,1.1,0.39
+PI-Oeiras,2020-07-09,nowcast,1.1,0.8,1.4,0.9,1.2,0.36
+PI-Oeiras,2020-07-10,nowcast,1.1,0.8,1.3,0.9,1.2,0.36
+PI-Oeiras,2020-07-11,nowcast,1,0.8,1.4,0.9,1.1,0.38
+PI-Oeiras,2020-07-12,nowcast,1,0.8,1.3,0.9,1.1,0.4
+PI-Oeiras,2020-07-13,nowcast,1,0.7,1.3,0.9,1.1,0.4
+PI-Oeiras,2020-07-14,nowcast,1,0.8,1.4,0.9,1.2,0.39
+PI-Oeiras,2020-07-15,nowcast,1.1,0.8,1.4,0.9,1.2,0.37
+PI-Oeiras,2020-07-16,nowcast,1.1,0.7,1.4,0.9,1.1,0.34
+PI-Oeiras,2020-07-17,forecast,1.1,0.7,1.4,0.9,1.2,0.38
+PI-Oeiras,2020-07-18,forecast,1.1,0.7,1.5,0.9,1.2,0.38
+PI-Oeiras,2020-07-19,forecast,1.1,0.6,1.5,0.9,1.2,0.38
+PI-Oeiras,2020-07-20,forecast,1.1,0.6,1.5,0.9,1.3,0.39
 PI-Oeiras,2020-07-21,forecast,1.1,0.6,1.6,0.9,1.3,0.39
-PI-Oeiras,2020-07-22,forecast,1.1,0.6,1.7,0.8,1.3,0.39
-PI-Oeiras,2020-07-23,forecast,1.1,0.5,1.6,0.9,1.3,0.39
-PI-Oeiras,2020-07-24,forecast,1.1,0.5,1.7,0.8,1.3,0.42
-PI-Oeiras,2020-07-25,forecast,1.1,0.5,1.7,0.9,1.3,0.41
-PI-Oeiras,2020-07-26,forecast,1.1,0.4,1.7,0.8,1.3,0.41
-PI-Oeiras,2020-07-27,forecast,1.1,0.5,1.8,0.8,1.3,0.4
-PI-Oeiras,2020-07-28,forecast,1.1,0.3,1.7,0.8,1.3,0.42
-PI-Oeiras,2020-07-29,forecast,1.1,0.4,1.8,0.8,1.3,0.42
-PI-Parnaíba,2020-04-17,nowcast,1.4,0.4,2.6,0.9,1.7,0.22
-PI-Parnaíba,2020-04-18,nowcast,1.4,0.4,2.6,0.9,1.7,0.21
-PI-Parnaíba,2020-04-19,nowcast,1.4,0.5,2.6,0.9,1.7,0.2
-PI-Parnaíba,2020-04-20,nowcast,1.4,0.5,2.4,0.9,1.6,0.21
-PI-Parnaíba,2020-04-21,nowcast,1.4,0.5,2.4,1,1.7,0.19
-PI-Parnaíba,2020-04-22,nowcast,1.4,0.6,2.3,1,1.6,0.19
-PI-Parnaíba,2020-04-23,nowcast,1.4,0.6,2.3,1,1.6,0.19
+PI-Oeiras,2020-07-22,forecast,1.1,0.5,1.6,0.9,1.3,0.39
+PI-Oeiras,2020-07-23,forecast,1.1,0.5,1.6,0.9,1.3,0.41
+PI-Oeiras,2020-07-24,forecast,1.1,0.5,1.6,0.8,1.2,0.42
+PI-Oeiras,2020-07-25,forecast,1.1,0.5,1.6,0.8,1.3,0.43
+PI-Oeiras,2020-07-26,forecast,1.1,0.5,1.6,0.8,1.3,0.43
+PI-Oeiras,2020-07-27,forecast,1.1,0.5,1.7,0.8,1.3,0.43
+PI-Oeiras,2020-07-28,forecast,1.1,0.4,1.7,0.8,1.3,0.42
+PI-Oeiras,2020-07-29,forecast,1.1,0.4,1.7,0.8,1.3,0.42
+PI-Oeiras,2020-07-30,forecast,1.1,0.4,1.6,0.8,1.3,0.43
+PI-Parnaíba,2020-04-17,nowcast,1.5,0.4,2.7,0.9,1.7,0.21
+PI-Parnaíba,2020-04-18,nowcast,1.4,0.5,2.5,0.9,1.7,0.2
+PI-Parnaíba,2020-04-19,nowcast,1.4,0.5,2.5,1,1.7,0.19
+PI-Parnaíba,2020-04-20,nowcast,1.4,0.5,2.3,0.9,1.6,0.21
+PI-Parnaíba,2020-04-21,nowcast,1.4,0.5,2.3,1,1.7,0.19
+PI-Parnaíba,2020-04-22,nowcast,1.4,0.6,2.4,1,1.7,0.18
+PI-Parnaíba,2020-04-23,nowcast,1.4,0.6,2.2,1,1.6,0.18
 PI-Parnaíba,2020-04-24,nowcast,1.4,0.6,2.2,1,1.6,0.18
-PI-Parnaíba,2020-04-25,nowcast,1.4,0.6,2.2,1,1.6,0.17
-PI-Parnaíba,2020-04-26,nowcast,1.4,0.7,2.2,1,1.6,0.16
-PI-Parnaíba,2020-04-27,nowcast,1.4,0.7,2.2,1.1,1.6,0.15
-PI-Parnaíba,2020-04-28,nowcast,1.4,0.7,2.1,1.1,1.6,0.15
-PI-Parnaíba,2020-04-29,nowcast,1.4,0.8,2.1,1.1,1.6,0.13
-PI-Parnaíba,2020-04-30,nowcast,1.3,0.7,2,1.1,1.5,0.15
-PI-Parnaíba,2020-05-01,nowcast,1.3,0.8,1.9,1.1,1.5,0.14
-PI-Parnaíba,2020-05-02,nowcast,1.3,0.7,1.9,1.1,1.5,0.15
+PI-Parnaíba,2020-04-25,nowcast,1.4,0.7,2.2,1,1.6,0.17
+PI-Parnaíba,2020-04-26,nowcast,1.4,0.7,2.2,1.1,1.6,0.15
+PI-Parnaíba,2020-04-27,nowcast,1.4,0.8,2.2,1.1,1.6,0.12
+PI-Parnaíba,2020-04-28,nowcast,1.4,0.8,2.1,1.1,1.6,0.13
+PI-Parnaíba,2020-04-29,nowcast,1.4,0.8,2.1,1.1,1.6,0.14
+PI-Parnaíba,2020-04-30,nowcast,1.3,0.8,2,1.1,1.6,0.14
+PI-Parnaíba,2020-05-01,nowcast,1.3,0.7,1.9,1.1,1.5,0.14
+PI-Parnaíba,2020-05-02,nowcast,1.3,0.8,1.9,1.1,1.5,0.15
 PI-Parnaíba,2020-05-03,nowcast,1.3,0.8,1.9,1.1,1.5,0.15
 PI-Parnaíba,2020-05-04,nowcast,1.3,0.8,1.8,1.1,1.5,0.15
-PI-Parnaíba,2020-05-05,nowcast,1.3,0.8,1.9,1.1,1.5,0.13
-PI-Parnaíba,2020-05-06,nowcast,1.3,0.8,1.8,1.1,1.5,0.1
-PI-Parnaíba,2020-05-07,nowcast,1.3,0.9,1.9,1.1,1.5,0.09
-PI-Parnaíba,2020-05-08,nowcast,1.4,0.9,1.9,1.1,1.5,0.07
-PI-Parnaíba,2020-05-09,nowcast,1.4,0.9,1.9,1.2,1.6,0.05
-PI-Parnaíba,2020-05-10,nowcast,1.4,1,1.9,1.2,1.6,0.04
+PI-Parnaíba,2020-05-05,nowcast,1.3,0.8,1.8,1.1,1.5,0.13
+PI-Parnaíba,2020-05-06,nowcast,1.3,0.8,1.8,1.1,1.5,0.11
+PI-Parnaíba,2020-05-07,nowcast,1.3,0.8,1.8,1.1,1.5,0.1
+PI-Parnaíba,2020-05-08,nowcast,1.4,0.9,1.9,1.1,1.5,0.06
+PI-Parnaíba,2020-05-09,nowcast,1.4,1,1.9,1.2,1.5,0.05
+PI-Parnaíba,2020-05-10,nowcast,1.4,1,1.9,1.2,1.6,0.05
 PI-Parnaíba,2020-05-11,nowcast,1.4,1,1.9,1.3,1.6,0.02
-PI-Parnaíba,2020-05-12,nowcast,1.4,1,1.9,1.3,1.6,0.02
-PI-Parnaíba,2020-05-13,nowcast,1.4,1.1,1.9,1.3,1.6,0.02
-PI-Parnaíba,2020-05-14,nowcast,1.4,1.1,1.8,1.3,1.6,0.02
-PI-Parnaíba,2020-05-15,nowcast,1.4,1.1,1.8,1.3,1.5,0.02
+PI-Parnaíba,2020-05-12,nowcast,1.4,1.1,1.9,1.3,1.6,0.02
+PI-Parnaíba,2020-05-13,nowcast,1.5,1.1,1.9,1.3,1.6,0.02
+PI-Parnaíba,2020-05-14,nowcast,1.5,1.1,1.9,1.3,1.6,0.02
+PI-Parnaíba,2020-05-15,nowcast,1.4,1.1,1.8,1.3,1.5,0.01
 PI-Parnaíba,2020-05-16,nowcast,1.4,1.1,1.8,1.3,1.5,0.02
 PI-Parnaíba,2020-05-17,nowcast,1.4,1.1,1.7,1.3,1.5,0.03
-PI-Parnaíba,2020-05-18,nowcast,1.4,1,1.7,1.2,1.5,0.03
-PI-Parnaíba,2020-05-19,nowcast,1.4,1.1,1.7,1.2,1.5,0.02
-PI-Parnaíba,2020-05-20,nowcast,1.3,1.1,1.6,1.2,1.4,0.02
-PI-Parnaíba,2020-05-21,nowcast,1.3,1,1.6,1.2,1.4,0.03
-PI-Parnaíba,2020-05-22,nowcast,1.3,1,1.6,1.2,1.4,0.04
+PI-Parnaíba,2020-05-18,nowcast,1.4,1,1.7,1.3,1.5,0.03
+PI-Parnaíba,2020-05-19,nowcast,1.3,1,1.6,1.2,1.5,0.03
+PI-Parnaíba,2020-05-20,nowcast,1.3,1,1.6,1.2,1.4,0.03
+PI-Parnaíba,2020-05-21,nowcast,1.3,1,1.6,1.2,1.4,0.02
+PI-Parnaíba,2020-05-22,nowcast,1.3,1,1.6,1.2,1.4,0.03
 PI-Parnaíba,2020-05-23,nowcast,1.3,1,1.5,1.2,1.4,0.04
 PI-Parnaíba,2020-05-24,nowcast,1.2,1,1.5,1.2,1.3,0.05
-PI-Parnaíba,2020-05-25,nowcast,1.2,1,1.4,1.1,1.3,0.06
-PI-Parnaíba,2020-05-26,nowcast,1.2,1,1.4,1.1,1.3,0.07
-PI-Parnaíba,2020-05-27,nowcast,1.2,1,1.4,1.1,1.3,0.06
-PI-Parnaíba,2020-05-28,nowcast,1.2,1,1.4,1.1,1.2,0.08
-PI-Parnaíba,2020-05-29,nowcast,1.2,1,1.3,1.1,1.2,0.07
-PI-Parnaíba,2020-05-30,nowcast,1.1,1,1.3,1.1,1.2,0.09
-PI-Parnaíba,2020-05-31,nowcast,1.1,1,1.3,1.1,1.2,0.1
-PI-Parnaíba,2020-06-01,nowcast,1.1,0.9,1.3,1,1.2,0.12
-PI-Parnaíba,2020-06-02,nowcast,1.1,0.9,1.3,1.1,1.2,0.12
-PI-Parnaíba,2020-06-03,nowcast,1.1,0.9,1.3,1.1,1.2,0.14
-PI-Parnaíba,2020-06-04,nowcast,1.1,0.9,1.3,1,1.2,0.13
-PI-Parnaíba,2020-06-05,nowcast,1.1,0.9,1.3,1,1.2,0.12
-PI-Parnaíba,2020-06-06,nowcast,1.1,0.9,1.3,1,1.2,0.11
-PI-Parnaíba,2020-06-07,nowcast,1.1,1,1.3,1.1,1.2,0.07
-PI-Parnaíba,2020-06-08,nowcast,1.1,1,1.3,1.1,1.2,0.06
-PI-Parnaíba,2020-06-09,nowcast,1.2,1,1.3,1.1,1.2,0.04
+PI-Parnaíba,2020-05-25,nowcast,1.2,1,1.4,1.1,1.3,0.05
+PI-Parnaíba,2020-05-26,nowcast,1.2,1,1.4,1.1,1.3,0.06
+PI-Parnaíba,2020-05-27,nowcast,1.2,1,1.4,1.1,1.3,0.07
+PI-Parnaíba,2020-05-28,nowcast,1.2,1,1.4,1.1,1.3,0.07
+PI-Parnaíba,2020-05-29,nowcast,1.2,1,1.4,1.1,1.3,0.06
+PI-Parnaíba,2020-05-30,nowcast,1.2,1,1.3,1.1,1.2,0.07
+PI-Parnaíba,2020-05-31,nowcast,1.1,0.9,1.3,1.1,1.2,0.1
+PI-Parnaíba,2020-06-01,nowcast,1.1,0.9,1.3,1.1,1.2,0.12
+PI-Parnaíba,2020-06-02,nowcast,1.1,0.9,1.3,1,1.2,0.15
+PI-Parnaíba,2020-06-03,nowcast,1.1,0.9,1.3,1,1.2,0.14
+PI-Parnaíba,2020-06-04,nowcast,1.1,0.9,1.3,1,1.2,0.14
+PI-Parnaíba,2020-06-05,nowcast,1.1,1,1.3,1,1.2,0.12
+PI-Parnaíba,2020-06-06,nowcast,1.1,0.9,1.3,1,1.2,0.1
+PI-Parnaíba,2020-06-07,nowcast,1.1,1,1.3,1.1,1.2,0.08
+PI-Parnaíba,2020-06-08,nowcast,1.1,1,1.3,1.1,1.2,0.05
+PI-Parnaíba,2020-06-09,nowcast,1.2,1,1.3,1.1,1.2,0.03
 PI-Parnaíba,2020-06-10,nowcast,1.2,1,1.3,1.1,1.2,0.03
 PI-Parnaíba,2020-06-11,nowcast,1.2,1,1.3,1.1,1.2,0.02
-PI-Parnaíba,2020-06-12,nowcast,1.2,1,1.3,1.1,1.2,0.03
+PI-Parnaíba,2020-06-12,nowcast,1.2,1,1.3,1.1,1.2,0.02
 PI-Parnaíba,2020-06-13,nowcast,1.2,1,1.3,1.1,1.2,0.03
 PI-Parnaíba,2020-06-14,nowcast,1.2,1,1.3,1.1,1.2,0.04
-PI-Parnaíba,2020-06-15,nowcast,1.1,1,1.3,1.1,1.2,0.06
+PI-Parnaíba,2020-06-15,nowcast,1.2,1,1.3,1.1,1.2,0.06
 PI-Parnaíba,2020-06-16,nowcast,1.1,1,1.3,1.1,1.2,0.07
 PI-Parnaíba,2020-06-17,nowcast,1.1,1,1.3,1.1,1.2,0.09
-PI-Parnaíba,2020-06-18,nowcast,1.1,1,1.2,1.1,1.2,0.1
-PI-Parnaíba,2020-06-19,nowcast,1.1,1,1.2,1,1.1,0.14
-PI-Parnaíba,2020-06-20,nowcast,1.1,0.9,1.2,1,1.1,0.22
-PI-Parnaíba,2020-06-21,nowcast,1,0.9,1.2,1,1.1,0.32
-PI-Parnaíba,2020-06-22,nowcast,1,0.9,1.1,1,1.1,0.44
-PI-Parnaíba,2020-06-23,nowcast,1,0.9,1.1,1,1,0.53
-PI-Parnaíba,2020-06-24,nowcast,1,0.9,1.1,0.9,1,0.58
-PI-Parnaíba,2020-06-25,nowcast,1,0.8,1.1,0.9,1,0.62
-PI-Parnaíba,2020-06-26,nowcast,1,0.8,1.1,0.9,1,0.66
-PI-Parnaíba,2020-06-27,nowcast,1,0.8,1.1,0.9,1,0.75
-PI-Parnaíba,2020-06-28,nowcast,0.9,0.8,1.1,0.9,1,0.83
-PI-Parnaíba,2020-06-29,nowcast,0.9,0.8,1,0.9,1,0.9
+PI-Parnaíba,2020-06-18,nowcast,1.1,1,1.3,1,1.2,0.11
+PI-Parnaíba,2020-06-19,nowcast,1.1,0.9,1.2,1,1.1,0.16
+PI-Parnaíba,2020-06-20,nowcast,1.1,0.9,1.2,1,1.1,0.24
+PI-Parnaíba,2020-06-21,nowcast,1,0.9,1.2,1,1.1,0.33
+PI-Parnaíba,2020-06-22,nowcast,1,0.9,1.1,1,1.1,0.45
+PI-Parnaíba,2020-06-23,nowcast,1,0.9,1.1,1,1.1,0.53
+PI-Parnaíba,2020-06-24,nowcast,1,0.9,1.1,0.9,1,0.57
+PI-Parnaíba,2020-06-25,nowcast,1,0.9,1.1,0.9,1,0.58
+PI-Parnaíba,2020-06-26,nowcast,1,0.9,1.1,0.9,1,0.64
+PI-Parnaíba,2020-06-27,nowcast,1,0.8,1.1,0.9,1,0.72
+PI-Parnaíba,2020-06-28,nowcast,0.9,0.8,1.1,0.9,1,0.81
+PI-Parnaíba,2020-06-29,nowcast,0.9,0.8,1,0.9,1,0.91
 PI-Parnaíba,2020-06-30,nowcast,0.9,0.8,1,0.9,1,0.94
 PI-Parnaíba,2020-07-01,nowcast,0.9,0.7,1,0.8,0.9,0.97
 PI-Parnaíba,2020-07-02,nowcast,0.9,0.7,1,0.8,0.9,0.97
-PI-Parnaíba,2020-07-03,nowcast,0.9,0.7,1,0.8,0.9,0.98
+PI-Parnaíba,2020-07-03,nowcast,0.9,0.7,1,0.8,0.9,0.97
 PI-Parnaíba,2020-07-04,nowcast,0.9,0.7,1,0.8,0.9,0.97
-PI-Parnaíba,2020-07-05,nowcast,0.8,0.7,1,0.8,0.9,0.97
-PI-Parnaíba,2020-07-06,nowcast,0.8,0.7,1,0.8,0.9,0.97
-PI-Parnaíba,2020-07-07,nowcast,0.8,0.7,1,0.8,0.9,0.97
-PI-Parnaíba,2020-07-08,nowcast,0.8,0.7,1,0.8,0.9,0.95
+PI-Parnaíba,2020-07-05,nowcast,0.8,0.7,1,0.8,0.9,0.98
+PI-Parnaíba,2020-07-06,nowcast,0.8,0.7,1,0.8,0.9,0.98
+PI-Parnaíba,2020-07-07,nowcast,0.8,0.7,1,0.8,0.9,0.96
+PI-Parnaíba,2020-07-08,nowcast,0.8,0.7,1,0.8,0.9,0.96
 PI-Parnaíba,2020-07-09,nowcast,0.9,0.7,1,0.8,0.9,0.93
-PI-Parnaíba,2020-07-10,nowcast,0.9,0.7,1,0.8,0.9,0.91
+PI-Parnaíba,2020-07-10,nowcast,0.9,0.7,1,0.8,0.9,0.9
 PI-Parnaíba,2020-07-11,nowcast,0.9,0.7,1,0.8,0.9,0.88
-PI-Parnaíba,2020-07-12,nowcast,0.9,0.7,1.1,0.8,0.9,0.85
-PI-Parnaíba,2020-07-13,nowcast,0.9,0.8,1.1,0.8,0.9,0.79
-PI-Parnaíba,2020-07-14,nowcast,1,0.8,1.2,0.9,1,0.67
-PI-Parnaíba,2020-07-15,nowcast,1,0.8,1.2,0.9,1,0.54
-PI-Parnaíba,2020-07-16,forecast,1,0.8,1.2,0.9,1,0.58
-PI-Parnaíba,2020-07-17,forecast,1,0.7,1.2,0.9,1.1,0.58
-PI-Parnaíba,2020-07-18,forecast,1,0.7,1.2,0.8,1,0.59
-PI-Parnaíba,2020-07-19,forecast,1,0.7,1.2,0.9,1.1,0.59
-PI-Parnaíba,2020-07-20,forecast,1,0.7,1.3,0.9,1.1,0.58
-PI-Parnaíba,2020-07-21,forecast,1,0.7,1.3,0.8,1,0.59
-PI-Parnaíba,2020-07-22,forecast,1,0.7,1.3,0.8,1.1,0.58
-PI-Parnaíba,2020-07-23,forecast,1,0.7,1.3,0.8,1.1,0.58
-PI-Parnaíba,2020-07-24,forecast,1,0.7,1.3,0.8,1.1,0.57
-PI-Parnaíba,2020-07-25,forecast,1,0.6,1.3,0.8,1.1,0.58
-PI-Parnaíba,2020-07-26,forecast,1,0.6,1.3,0.8,1.1,0.58
-PI-Parnaíba,2020-07-27,forecast,1,0.6,1.3,0.8,1.1,0.57
-PI-Parnaíba,2020-07-28,forecast,1,0.6,1.4,0.8,1.1,0.56
-PI-Parnaíba,2020-07-29,forecast,1,0.6,1.4,0.8,1.1,0.56
-PI-Picos,2020-04-28,nowcast,1.2,0.5,2,0.9,1.4,0.28
-PI-Picos,2020-04-29,nowcast,1.3,0.6,2,0.9,1.4,0.24
-PI-Picos,2020-04-30,nowcast,1.3,0.6,2,0.9,1.5,0.22
-PI-Picos,2020-05-01,nowcast,1.3,0.7,2.1,1,1.5,0.18
-PI-Picos,2020-05-02,nowcast,1.3,0.7,2.1,1.1,1.5,0.18
+PI-Parnaíba,2020-07-12,nowcast,0.9,0.8,1.1,0.8,1,0.83
+PI-Parnaíba,2020-07-13,nowcast,0.9,0.8,1.1,0.8,1,0.78
+PI-Parnaíba,2020-07-14,nowcast,1,0.8,1.2,0.9,1,0.66
+PI-Parnaíba,2020-07-15,nowcast,1,0.8,1.2,0.9,1,0.53
+PI-Parnaíba,2020-07-16,nowcast,1,0.9,1.3,0.9,1.1,0.39
+PI-Parnaíba,2020-07-17,forecast,1,0.8,1.3,0.9,1.1,0.47
+PI-Parnaíba,2020-07-18,forecast,1,0.8,1.2,0.9,1.1,0.47
+PI-Parnaíba,2020-07-19,forecast,1,0.8,1.3,0.9,1.1,0.48
+PI-Parnaíba,2020-07-20,forecast,1,0.7,1.3,0.9,1.1,0.49
+PI-Parnaíba,2020-07-21,forecast,1,0.7,1.3,0.9,1.1,0.51
+PI-Parnaíba,2020-07-22,forecast,1,0.7,1.3,0.9,1.1,0.5
+PI-Parnaíba,2020-07-23,forecast,1,0.7,1.3,0.9,1.1,0.48
+PI-Parnaíba,2020-07-24,forecast,1,0.7,1.3,0.9,1.1,0.5
+PI-Parnaíba,2020-07-25,forecast,1,0.7,1.4,0.9,1.1,0.49
+PI-Parnaíba,2020-07-26,forecast,1,0.6,1.4,0.8,1.1,0.5
+PI-Parnaíba,2020-07-27,forecast,1,0.6,1.4,0.8,1.1,0.51
+PI-Parnaíba,2020-07-28,forecast,1,0.6,1.4,0.8,1.1,0.49
+PI-Parnaíba,2020-07-29,forecast,1,0.6,1.4,0.8,1.1,0.5
+PI-Parnaíba,2020-07-30,forecast,1,0.6,1.4,0.8,1.1,0.5
+PI-Picos,2020-04-28,nowcast,1.2,0.6,2,0.9,1.4,0.29
+PI-Picos,2020-04-29,nowcast,1.2,0.6,2,0.9,1.4,0.24
+PI-Picos,2020-04-30,nowcast,1.3,0.6,2.1,1,1.5,0.21
+PI-Picos,2020-05-01,nowcast,1.3,0.6,2.1,1,1.5,0.21
+PI-Picos,2020-05-02,nowcast,1.3,0.7,2,1,1.6,0.19
 PI-Picos,2020-05-03,nowcast,1.3,0.7,2,1,1.5,0.18
-PI-Picos,2020-05-04,nowcast,1.3,0.7,1.9,1.1,1.5,0.19
-PI-Picos,2020-05-05,nowcast,1.3,0.7,1.9,1,1.5,0.21
-PI-Picos,2020-05-06,nowcast,1.2,0.7,1.7,1,1.4,0.27
-PI-Picos,2020-05-07,nowcast,1.2,0.6,1.7,0.9,1.3,0.28
-PI-Picos,2020-05-08,nowcast,1.1,0.6,1.6,0.9,1.3,0.31
-PI-Picos,2020-05-09,nowcast,1.1,0.6,1.6,0.9,1.2,0.35
-PI-Picos,2020-05-10,nowcast,1.1,0.6,1.5,0.9,1.2,0.4
-PI-Picos,2020-05-11,nowcast,1,0.6,1.5,0.9,1.2,0.44
-PI-Picos,2020-05-12,nowcast,1,0.5,1.5,0.8,1.2,0.49
-PI-Picos,2020-05-13,nowcast,1,0.6,1.5,0.9,1.2,0.49
-PI-Picos,2020-05-14,nowcast,1,0.5,1.4,0.8,1.1,0.51
-PI-Picos,2020-05-15,nowcast,1,0.5,1.5,0.8,1.1,0.5
-PI-Picos,2020-05-16,nowcast,1,0.6,1.5,0.8,1.1,0.51
-PI-Picos,2020-05-17,nowcast,1,0.5,1.5,0.8,1.1,0.5
-PI-Picos,2020-05-18,nowcast,1,0.5,1.4,0.8,1.1,0.53
-PI-Picos,2020-05-19,nowcast,1,0.5,1.4,0.8,1.1,0.55
-PI-Picos,2020-05-20,nowcast,1,0.5,1.4,0.8,1.1,0.56
-PI-Picos,2020-05-21,nowcast,1,0.5,1.4,0.8,1.1,0.57
-PI-Picos,2020-05-22,nowcast,0.9,0.5,1.4,0.8,1.1,0.59
-PI-Picos,2020-05-23,nowcast,0.9,0.5,1.5,0.7,1.1,0.58
-PI-Picos,2020-05-24,nowcast,1,0.5,1.5,0.8,1.1,0.54
-PI-Picos,2020-05-25,nowcast,1,0.5,1.5,0.8,1.2,0.5
+PI-Picos,2020-05-04,nowcast,1.3,0.7,1.9,1,1.5,0.2
+PI-Picos,2020-05-05,nowcast,1.3,0.7,1.8,1,1.5,0.22
+PI-Picos,2020-05-06,nowcast,1.2,0.7,1.8,1,1.4,0.26
+PI-Picos,2020-05-07,nowcast,1.2,0.6,1.7,0.9,1.3,0.3
+PI-Picos,2020-05-08,nowcast,1.1,0.6,1.7,0.9,1.3,0.32
+PI-Picos,2020-05-09,nowcast,1.1,0.6,1.6,0.9,1.2,0.37
+PI-Picos,2020-05-10,nowcast,1.1,0.5,1.5,0.9,1.2,0.42
+PI-Picos,2020-05-11,nowcast,1,0.6,1.5,0.8,1.2,0.44
+PI-Picos,2020-05-12,nowcast,1,0.5,1.4,0.8,1.2,0.48
+PI-Picos,2020-05-13,nowcast,1,0.5,1.4,0.8,1.1,0.51
+PI-Picos,2020-05-14,nowcast,1,0.5,1.5,0.8,1.1,0.51
+PI-Picos,2020-05-15,nowcast,1,0.6,1.5,0.8,1.1,0.5
+PI-Picos,2020-05-16,nowcast,1,0.6,1.5,0.8,1.1,0.5
+PI-Picos,2020-05-17,nowcast,1,0.6,1.5,0.8,1.2,0.5
+PI-Picos,2020-05-18,nowcast,1,0.5,1.5,0.8,1.1,0.5
+PI-Picos,2020-05-19,nowcast,1,0.5,1.5,0.8,1.1,0.52
+PI-Picos,2020-05-20,nowcast,1,0.5,1.4,0.8,1.1,0.54
+PI-Picos,2020-05-21,nowcast,1,0.5,1.4,0.8,1.1,0.56
+PI-Picos,2020-05-22,nowcast,1,0.5,1.4,0.7,1.1,0.57
+PI-Picos,2020-05-23,nowcast,1,0.5,1.4,0.7,1.1,0.55
+PI-Picos,2020-05-24,nowcast,1,0.5,1.4,0.8,1.1,0.54
+PI-Picos,2020-05-25,nowcast,1,0.5,1.5,0.8,1.1,0.51
 PI-Picos,2020-05-26,nowcast,1,0.5,1.6,0.8,1.2,0.47
-PI-Picos,2020-05-27,nowcast,1.1,0.6,1.7,0.9,1.2,0.4
-PI-Picos,2020-05-28,nowcast,1.1,0.6,1.7,0.9,1.3,0.36
-PI-Picos,2020-05-29,nowcast,1.1,0.7,1.7,0.9,1.3,0.3
-PI-Picos,2020-05-30,nowcast,1.2,0.7,1.8,0.9,1.3,0.26
-PI-Picos,2020-05-31,nowcast,1.2,0.7,1.8,1,1.4,0.2
-PI-Picos,2020-06-01,nowcast,1.3,0.8,1.8,1,1.4,0.16
-PI-Picos,2020-06-02,nowcast,1.3,0.8,1.9,1,1.4,0.14
-PI-Picos,2020-06-03,nowcast,1.3,0.8,1.9,1.1,1.5,0.11
-PI-Picos,2020-06-04,nowcast,1.3,0.9,1.8,1.1,1.5,0.1
-PI-Picos,2020-06-05,nowcast,1.3,0.9,1.8,1.1,1.5,0.09
-PI-Picos,2020-06-06,nowcast,1.3,0.8,1.8,1.2,1.5,0.09
+PI-Picos,2020-05-27,nowcast,1.1,0.6,1.6,0.8,1.2,0.41
+PI-Picos,2020-05-28,nowcast,1.1,0.6,1.7,0.8,1.2,0.38
+PI-Picos,2020-05-29,nowcast,1.1,0.6,1.7,0.9,1.3,0.32
+PI-Picos,2020-05-30,nowcast,1.2,0.6,1.7,0.9,1.3,0.26
+PI-Picos,2020-05-31,nowcast,1.2,0.7,1.8,0.9,1.3,0.21
+PI-Picos,2020-06-01,nowcast,1.3,0.7,1.8,1,1.4,0.18
+PI-Picos,2020-06-02,nowcast,1.3,0.8,1.8,1,1.4,0.14
+PI-Picos,2020-06-03,nowcast,1.3,0.8,1.8,1.1,1.5,0.12
+PI-Picos,2020-06-04,nowcast,1.3,0.9,1.9,1.1,1.5,0.09
+PI-Picos,2020-06-05,nowcast,1.3,0.9,1.8,1.2,1.5,0.09
+PI-Picos,2020-06-06,nowcast,1.3,0.9,1.8,1.1,1.5,0.08
 PI-Picos,2020-06-07,nowcast,1.3,0.9,1.8,1.1,1.5,0.09
-PI-Picos,2020-06-08,nowcast,1.3,0.9,1.7,1.2,1.5,0.09
-PI-Picos,2020-06-09,nowcast,1.3,0.9,1.7,1.1,1.4,0.09
-PI-Picos,2020-06-10,nowcast,1.3,0.9,1.7,1.1,1.4,0.08
-PI-Picos,2020-06-11,nowcast,1.3,1,1.7,1.1,1.4,0.08
-PI-Picos,2020-06-12,nowcast,1.3,0.9,1.7,1.1,1.4,0.08
+PI-Picos,2020-06-08,nowcast,1.3,0.9,1.8,1.1,1.4,0.08
+PI-Picos,2020-06-09,nowcast,1.3,0.9,1.7,1.1,1.4,0.08
+PI-Picos,2020-06-10,nowcast,1.3,0.9,1.7,1.2,1.5,0.08
+PI-Picos,2020-06-11,nowcast,1.3,0.9,1.7,1.2,1.5,0.08
+PI-Picos,2020-06-12,nowcast,1.3,0.9,1.6,1.2,1.4,0.08
 PI-Picos,2020-06-13,nowcast,1.3,1,1.6,1.1,1.4,0.07
-PI-Picos,2020-06-14,nowcast,1.3,0.9,1.6,1.1,1.4,0.07
+PI-Picos,2020-06-14,nowcast,1.3,1,1.6,1.1,1.4,0.08
 PI-Picos,2020-06-15,nowcast,1.3,0.9,1.6,1.1,1.4,0.09
-PI-Picos,2020-06-16,nowcast,1.2,0.9,1.6,1.1,1.3,0.09
+PI-Picos,2020-06-16,nowcast,1.2,0.9,1.5,1.1,1.3,0.08
 PI-Picos,2020-06-17,nowcast,1.2,0.9,1.5,1.1,1.3,0.1
 PI-Picos,2020-06-18,nowcast,1.2,0.9,1.5,1.1,1.3,0.11
-PI-Picos,2020-06-19,nowcast,1.2,0.9,1.5,1.1,1.3,0.11
-PI-Picos,2020-06-20,nowcast,1.2,0.9,1.5,1.1,1.3,0.12
-PI-Picos,2020-06-21,nowcast,1.2,0.9,1.4,1.1,1.3,0.14
-PI-Picos,2020-06-22,nowcast,1.1,0.9,1.4,1,1.3,0.17
-PI-Picos,2020-06-23,nowcast,1.1,0.9,1.4,1,1.2,0.19
-PI-Picos,2020-06-24,nowcast,1.1,0.8,1.4,1,1.2,0.23
-PI-Picos,2020-06-25,nowcast,1.1,0.8,1.3,1,1.2,0.3
+PI-Picos,2020-06-19,nowcast,1.2,0.9,1.5,1.1,1.3,0.12
+PI-Picos,2020-06-20,nowcast,1.2,0.9,1.5,1.1,1.3,0.13
+PI-Picos,2020-06-21,nowcast,1.2,0.9,1.4,1,1.2,0.15
+PI-Picos,2020-06-22,nowcast,1.1,0.9,1.4,1,1.2,0.17
+PI-Picos,2020-06-23,nowcast,1.1,0.9,1.4,1,1.2,0.2
+PI-Picos,2020-06-24,nowcast,1.1,0.9,1.4,1,1.2,0.25
+PI-Picos,2020-06-25,nowcast,1.1,0.8,1.3,1,1.2,0.33
 PI-Picos,2020-06-26,nowcast,1,0.8,1.3,1,1.1,0.39
-PI-Picos,2020-06-27,nowcast,1,0.7,1.2,0.9,1.1,0.49
-PI-Picos,2020-06-28,nowcast,1,0.7,1.2,0.9,1.1,0.58
-PI-Picos,2020-06-29,nowcast,1,0.7,1.2,0.9,1.1,0.6
-PI-Picos,2020-06-30,nowcast,1,0.7,1.2,0.9,1,0.6
-PI-Picos,2020-07-01,nowcast,1,0.8,1.2,0.9,1.1,0.54
+PI-Picos,2020-06-27,nowcast,1,0.8,1.2,0.9,1.1,0.48
+PI-Picos,2020-06-28,nowcast,1,0.7,1.2,0.9,1.1,0.57
+PI-Picos,2020-06-29,nowcast,1,0.7,1.2,0.9,1,0.62
+PI-Picos,2020-06-30,nowcast,1,0.7,1.2,0.9,1,0.61
+PI-Picos,2020-07-01,nowcast,1,0.8,1.2,0.9,1.1,0.55
 PI-Picos,2020-07-02,nowcast,1,0.8,1.3,0.9,1.1,0.45
-PI-Picos,2020-07-03,nowcast,1.1,0.8,1.3,0.9,1.1,0.35
+PI-Picos,2020-07-03,nowcast,1.1,0.8,1.4,0.9,1.1,0.35
 PI-Picos,2020-07-04,nowcast,1.1,0.9,1.4,1,1.2,0.24
 PI-Picos,2020-07-05,nowcast,1.1,0.9,1.4,1,1.2,0.15
-PI-Picos,2020-07-06,nowcast,1.2,0.9,1.5,1.1,1.3,0.08
+PI-Picos,2020-07-06,nowcast,1.2,1,1.5,1.1,1.3,0.09
 PI-Picos,2020-07-07,nowcast,1.2,1,1.5,1.1,1.3,0.04
-PI-Picos,2020-07-08,nowcast,1.3,1,1.6,1.1,1.3,0.02
-PI-Picos,2020-07-09,nowcast,1.3,1,1.5,1.2,1.3,0.02
-PI-Picos,2020-07-10,nowcast,1.3,1,1.5,1.2,1.3,0.02
-PI-Picos,2020-07-11,nowcast,1.3,1,1.5,1.2,1.4,0.02
-PI-Picos,2020-07-12,nowcast,1.2,1,1.5,1.2,1.3,0.05
-PI-Picos,2020-07-13,nowcast,1.2,1,1.4,1.1,1.3,0.08
-PI-Picos,2020-07-14,nowcast,1.2,0.9,1.4,1.1,1.3,0.13
-PI-Picos,2020-07-15,nowcast,1.1,0.9,1.3,1,1.2,0.23
-PI-Picos,2020-07-16,forecast,1.1,0.8,1.4,1,1.3,0.25
-PI-Picos,2020-07-17,forecast,1.1,0.8,1.5,1,1.3,0.27
-PI-Picos,2020-07-18,forecast,1.1,0.7,1.5,1,1.3,0.29
-PI-Picos,2020-07-19,forecast,1.1,0.7,1.5,0.9,1.3,0.3
-PI-Picos,2020-07-20,forecast,1.1,0.6,1.6,1,1.3,0.31
-PI-Picos,2020-07-21,forecast,1.1,0.7,1.6,1,1.4,0.32
-PI-Picos,2020-07-22,forecast,1.1,0.6,1.7,0.9,1.3,0.33
-PI-Picos,2020-07-23,forecast,1.1,0.6,1.7,0.9,1.4,0.33
-PI-Picos,2020-07-24,forecast,1.1,0.5,1.7,0.9,1.4,0.34
-PI-Picos,2020-07-25,forecast,1.1,0.6,1.7,0.9,1.3,0.34
-PI-Picos,2020-07-26,forecast,1.1,0.5,1.7,0.9,1.4,0.34
-PI-Picos,2020-07-27,forecast,1.1,0.5,1.8,0.9,1.3,0.36
-PI-Picos,2020-07-28,forecast,1.1,0.5,1.8,0.9,1.4,0.35
-PI-Picos,2020-07-29,forecast,1.2,0.4,1.9,0.9,1.4,0.36
+PI-Picos,2020-07-08,nowcast,1.3,1,1.5,1.1,1.3,0.02
+PI-Picos,2020-07-09,nowcast,1.3,1.1,1.6,1.2,1.3,0.02
+PI-Picos,2020-07-10,nowcast,1.3,1.1,1.5,1.2,1.4,0.02
+PI-Picos,2020-07-11,nowcast,1.3,1,1.5,1.1,1.3,0.04
+PI-Picos,2020-07-12,nowcast,1.2,1,1.5,1.1,1.3,0.06
+PI-Picos,2020-07-13,nowcast,1.2,0.9,1.4,1.1,1.3,0.12
+PI-Picos,2020-07-14,nowcast,1.1,0.9,1.3,1,1.2,0.2
+PI-Picos,2020-07-15,nowcast,1.1,0.8,1.3,1,1.2,0.31
+PI-Picos,2020-07-16,nowcast,1,0.8,1.2,0.9,1.1,0.45
+PI-Picos,2020-07-17,forecast,1,0.7,1.4,0.9,1.2,0.42
+PI-Picos,2020-07-18,forecast,1,0.7,1.4,0.9,1.2,0.41
+PI-Picos,2020-07-19,forecast,1.1,0.7,1.4,0.9,1.2,0.39
+PI-Picos,2020-07-20,forecast,1.1,0.6,1.4,0.9,1.2,0.41
+PI-Picos,2020-07-21,forecast,1.1,0.6,1.5,0.9,1.3,0.41
+PI-Picos,2020-07-22,forecast,1.1,0.5,1.5,0.8,1.2,0.42
+PI-Picos,2020-07-23,forecast,1.1,0.6,1.6,0.9,1.3,0.42
+PI-Picos,2020-07-24,forecast,1.1,0.5,1.5,0.9,1.3,0.41
+PI-Picos,2020-07-25,forecast,1.1,0.5,1.6,0.9,1.3,0.42
+PI-Picos,2020-07-26,forecast,1.1,0.5,1.6,0.9,1.3,0.42
+PI-Picos,2020-07-27,forecast,1.1,0.5,1.6,0.9,1.3,0.42
+PI-Picos,2020-07-28,forecast,1.1,0.5,1.7,0.9,1.3,0.42
+PI-Picos,2020-07-29,forecast,1.1,0.5,1.7,0.8,1.3,0.42
+PI-Picos,2020-07-30,forecast,1.1,0.3,1.7,0.8,1.3,0.44
 PI-Piripiri,2020-05-08,nowcast,1.1,0.4,1.9,0.8,1.3,0.41
-PI-Piripiri,2020-05-09,nowcast,1.1,0.4,1.9,0.7,1.3,0.4
+PI-Piripiri,2020-05-09,nowcast,1.1,0.4,1.9,0.8,1.3,0.39
 PI-Piripiri,2020-05-10,nowcast,1.1,0.5,1.9,0.8,1.3,0.4
 PI-Piripiri,2020-05-11,nowcast,1.1,0.4,1.8,0.8,1.3,0.41
-PI-Piripiri,2020-05-12,nowcast,1.1,0.4,1.8,0.8,1.3,0.43
-PI-Piripiri,2020-05-13,nowcast,1,0.3,1.7,0.7,1.3,0.46
-PI-Piripiri,2020-05-14,nowcast,1,0.4,1.7,0.7,1.2,0.45
-PI-Piripiri,2020-05-15,nowcast,1.1,0.4,1.8,0.7,1.3,0.43
-PI-Piripiri,2020-05-16,nowcast,1.1,0.4,1.8,0.8,1.3,0.4
-PI-Piripiri,2020-05-17,nowcast,1.1,0.4,1.9,0.8,1.3,0.39
-PI-Piripiri,2020-05-18,nowcast,1.1,0.5,1.9,0.8,1.3,0.38
-PI-Piripiri,2020-05-19,nowcast,1.1,0.5,1.8,0.8,1.3,0.36
-PI-Piripiri,2020-05-20,nowcast,1.1,0.5,1.9,0.8,1.3,0.35
-PI-Piripiri,2020-05-21,nowcast,1.2,0.5,1.9,0.9,1.4,0.33
-PI-Piripiri,2020-05-22,nowcast,1.2,0.5,1.8,0.9,1.4,0.34
-PI-Piripiri,2020-05-23,nowcast,1.2,0.5,1.9,0.9,1.4,0.32
-PI-Piripiri,2020-05-24,nowcast,1.2,0.5,1.9,0.9,1.3,0.32
-PI-Piripiri,2020-05-25,nowcast,1.2,0.6,1.8,0.9,1.3,0.31
-PI-Piripiri,2020-05-26,nowcast,1.2,0.6,1.9,0.9,1.4,0.28
-PI-Piripiri,2020-05-27,nowcast,1.2,0.6,1.9,0.9,1.4,0.27
-PI-Piripiri,2020-05-28,nowcast,1.2,0.6,1.9,0.9,1.4,0.26
-PI-Piripiri,2020-05-29,nowcast,1.2,0.7,1.9,0.9,1.4,0.24
-PI-Piripiri,2020-05-30,nowcast,1.2,0.7,1.8,0.9,1.4,0.26
-PI-Piripiri,2020-05-31,nowcast,1.2,0.7,1.8,0.9,1.4,0.27
-PI-Piripiri,2020-06-01,nowcast,1.2,0.6,1.7,0.9,1.3,0.29
-PI-Piripiri,2020-06-02,nowcast,1.2,0.6,1.7,1,1.4,0.26
-PI-Piripiri,2020-06-03,nowcast,1.2,0.7,1.8,0.9,1.3,0.26
-PI-Piripiri,2020-06-04,nowcast,1.2,0.6,1.7,1,1.4,0.24
-PI-Piripiri,2020-06-05,nowcast,1.2,0.7,1.9,1,1.4,0.21
+PI-Piripiri,2020-05-12,nowcast,1.1,0.4,1.8,0.7,1.2,0.43
+PI-Piripiri,2020-05-13,nowcast,1.1,0.4,1.8,0.7,1.2,0.44
+PI-Piripiri,2020-05-14,nowcast,1.1,0.4,1.8,0.7,1.3,0.44
+PI-Piripiri,2020-05-15,nowcast,1.1,0.4,1.8,0.8,1.3,0.42
+PI-Piripiri,2020-05-16,nowcast,1.1,0.5,1.9,0.8,1.3,0.37
+PI-Piripiri,2020-05-17,nowcast,1.1,0.4,1.9,0.8,1.3,0.38
+PI-Piripiri,2020-05-18,nowcast,1.1,0.5,1.9,0.8,1.3,0.37
+PI-Piripiri,2020-05-19,nowcast,1.1,0.5,1.9,0.8,1.4,0.35
+PI-Piripiri,2020-05-20,nowcast,1.1,0.5,1.9,0.9,1.4,0.34
+PI-Piripiri,2020-05-21,nowcast,1.2,0.5,1.9,0.9,1.4,0.32
+PI-Piripiri,2020-05-22,nowcast,1.2,0.5,1.9,0.9,1.4,0.31
+PI-Piripiri,2020-05-23,nowcast,1.2,0.6,1.9,0.9,1.4,0.31
+PI-Piripiri,2020-05-24,nowcast,1.2,0.6,1.9,0.9,1.4,0.31
+PI-Piripiri,2020-05-25,nowcast,1.2,0.6,1.8,0.9,1.4,0.31
+PI-Piripiri,2020-05-26,nowcast,1.2,0.6,1.8,0.9,1.4,0.29
+PI-Piripiri,2020-05-27,nowcast,1.2,0.6,1.9,0.9,1.4,0.28
+PI-Piripiri,2020-05-28,nowcast,1.2,0.6,1.8,0.9,1.4,0.28
+PI-Piripiri,2020-05-29,nowcast,1.2,0.6,1.9,0.9,1.4,0.26
+PI-Piripiri,2020-05-30,nowcast,1.2,0.6,1.8,0.9,1.4,0.28
+PI-Piripiri,2020-05-31,nowcast,1.2,0.6,1.8,0.9,1.3,0.28
+PI-Piripiri,2020-06-01,nowcast,1.2,0.6,1.8,0.9,1.3,0.29
+PI-Piripiri,2020-06-02,nowcast,1.2,0.6,1.8,0.9,1.3,0.29
+PI-Piripiri,2020-06-03,nowcast,1.2,0.6,1.8,1,1.4,0.25
+PI-Piripiri,2020-06-04,nowcast,1.2,0.6,1.8,0.9,1.4,0.25
+PI-Piripiri,2020-06-05,nowcast,1.2,0.7,1.8,1,1.4,0.22
 PI-Piripiri,2020-06-06,nowcast,1.2,0.7,1.8,1,1.4,0.2
-PI-Piripiri,2020-06-07,nowcast,1.2,0.7,1.8,1,1.4,0.19
-PI-Piripiri,2020-06-08,nowcast,1.2,0.8,1.8,1,1.4,0.19
-PI-Piripiri,2020-06-09,nowcast,1.2,0.7,1.7,1,1.4,0.19
-PI-Piripiri,2020-06-10,nowcast,1.2,0.8,1.7,1,1.4,0.19
-PI-Piripiri,2020-06-11,nowcast,1.2,0.8,1.7,1,1.3,0.19
+PI-Piripiri,2020-06-07,nowcast,1.2,0.7,1.8,1,1.4,0.21
+PI-Piripiri,2020-06-08,nowcast,1.2,0.7,1.8,1,1.4,0.19
+PI-Piripiri,2020-06-09,nowcast,1.2,0.7,1.7,1,1.3,0.2
+PI-Piripiri,2020-06-10,nowcast,1.2,0.7,1.7,1,1.4,0.19
+PI-Piripiri,2020-06-11,nowcast,1.2,0.8,1.7,1,1.4,0.17
 PI-Piripiri,2020-06-12,nowcast,1.2,0.8,1.7,1,1.4,0.18
-PI-Piripiri,2020-06-13,nowcast,1.2,0.8,1.7,1,1.3,0.18
-PI-Piripiri,2020-06-14,nowcast,1.2,0.8,1.6,1,1.3,0.19
-PI-Piripiri,2020-06-15,nowcast,1.2,0.7,1.6,1,1.3,0.23
-PI-Piripiri,2020-06-16,nowcast,1.1,0.7,1.5,1,1.3,0.26
-PI-Piripiri,2020-06-17,nowcast,1.1,0.7,1.5,1,1.3,0.28
+PI-Piripiri,2020-06-13,nowcast,1.2,0.8,1.7,1,1.4,0.19
+PI-Piripiri,2020-06-14,nowcast,1.2,0.8,1.6,1,1.4,0.21
+PI-Piripiri,2020-06-15,nowcast,1.2,0.8,1.6,1,1.3,0.22
+PI-Piripiri,2020-06-16,nowcast,1.1,0.7,1.5,1,1.3,0.25
+PI-Piripiri,2020-06-17,nowcast,1.1,0.7,1.5,1,1.3,0.27
 PI-Piripiri,2020-06-18,nowcast,1.1,0.7,1.5,1,1.2,0.29
-PI-Piripiri,2020-06-19,nowcast,1.1,0.8,1.5,0.9,1.2,0.3
-PI-Piripiri,2020-06-20,nowcast,1.1,0.7,1.5,1,1.2,0.31
-PI-Piripiri,2020-06-21,nowcast,1.1,0.7,1.5,1,1.2,0.3
-PI-Piripiri,2020-06-22,nowcast,1.1,0.7,1.5,0.9,1.2,0.32
-PI-Piripiri,2020-06-23,nowcast,1.1,0.8,1.5,1,1.2,0.31
-PI-Piripiri,2020-06-24,nowcast,1.1,0.7,1.5,1,1.2,0.33
-PI-Piripiri,2020-06-25,nowcast,1.1,0.7,1.4,0.9,1.2,0.35
+PI-Piripiri,2020-06-19,nowcast,1.1,0.8,1.5,1,1.3,0.3
+PI-Piripiri,2020-06-20,nowcast,1.1,0.8,1.5,1,1.2,0.31
+PI-Piripiri,2020-06-21,nowcast,1.1,0.7,1.5,0.9,1.2,0.32
+PI-Piripiri,2020-06-22,nowcast,1.1,0.7,1.4,1,1.2,0.33
+PI-Piripiri,2020-06-23,nowcast,1.1,0.7,1.4,1,1.2,0.33
+PI-Piripiri,2020-06-24,nowcast,1.1,0.7,1.4,0.9,1.2,0.33
+PI-Piripiri,2020-06-25,nowcast,1.1,0.7,1.4,0.9,1.2,0.34
 PI-Piripiri,2020-06-26,nowcast,1.1,0.7,1.4,0.9,1.2,0.35
-PI-Piripiri,2020-06-27,nowcast,1.1,0.8,1.4,0.9,1.2,0.35
+PI-Piripiri,2020-06-27,nowcast,1.1,0.7,1.4,0.9,1.2,0.38
 PI-Piripiri,2020-06-28,nowcast,1.1,0.7,1.4,0.9,1.2,0.38
-PI-Piripiri,2020-06-29,nowcast,1.1,0.7,1.4,0.9,1.2,0.36
-PI-Piripiri,2020-06-30,nowcast,1.1,0.7,1.4,1,1.2,0.3
-PI-Piripiri,2020-07-01,nowcast,1.1,0.8,1.5,1,1.2,0.24
+PI-Piripiri,2020-06-29,nowcast,1.1,0.7,1.4,0.9,1.2,0.34
+PI-Piripiri,2020-06-30,nowcast,1.1,0.8,1.4,1,1.2,0.31
+PI-Piripiri,2020-07-01,nowcast,1.1,0.8,1.5,1,1.2,0.26
 PI-Piripiri,2020-07-02,nowcast,1.1,0.8,1.5,1,1.2,0.21
-PI-Piripiri,2020-07-03,nowcast,1.2,0.9,1.5,1,1.3,0.16
-PI-Piripiri,2020-07-04,nowcast,1.2,0.9,1.5,1,1.3,0.14
-PI-Piripiri,2020-07-05,nowcast,1.2,0.9,1.6,1,1.3,0.13
+PI-Piripiri,2020-07-03,nowcast,1.2,0.8,1.5,1,1.3,0.17
+PI-Piripiri,2020-07-04,nowcast,1.2,0.8,1.5,1,1.3,0.15
+PI-Piripiri,2020-07-05,nowcast,1.2,0.9,1.5,1,1.3,0.12
 PI-Piripiri,2020-07-06,nowcast,1.2,0.9,1.5,1.1,1.3,0.12
-PI-Piripiri,2020-07-07,nowcast,1.2,0.9,1.5,1.1,1.3,0.12
-PI-Piripiri,2020-07-08,nowcast,1.2,0.9,1.5,1.1,1.3,0.11
-PI-Piripiri,2020-07-09,nowcast,1.2,0.9,1.5,1.1,1.3,0.09
-PI-Piripiri,2020-07-10,nowcast,1.2,0.9,1.6,1.1,1.3,0.08
-PI-Piripiri,2020-07-11,nowcast,1.2,0.9,1.5,1.1,1.3,0.1
-PI-Piripiri,2020-07-12,nowcast,1.2,0.9,1.5,1.1,1.3,0.15
-PI-Piripiri,2020-07-13,nowcast,1.1,0.9,1.4,1.1,1.3,0.19
-PI-Piripiri,2020-07-14,nowcast,1.1,0.8,1.4,1,1.2,0.28
-PI-Piripiri,2020-07-15,nowcast,1.1,0.8,1.4,0.9,1.2,0.38
-PI-Piripiri,2020-07-16,forecast,1.1,0.7,1.5,1,1.2,0.32
-PI-Piripiri,2020-07-17,forecast,1.1,0.7,1.5,0.9,1.2,0.33
-PI-Piripiri,2020-07-18,forecast,1.1,0.7,1.5,0.9,1.3,0.34
-PI-Piripiri,2020-07-19,forecast,1.1,0.7,1.6,0.9,1.3,0.33
-PI-Piripiri,2020-07-20,forecast,1.1,0.6,1.5,0.9,1.3,0.36
-PI-Piripiri,2020-07-21,forecast,1.1,0.6,1.6,0.9,1.3,0.35
-PI-Piripiri,2020-07-22,forecast,1.1,0.6,1.7,0.9,1.3,0.36
-PI-Piripiri,2020-07-23,forecast,1.1,0.6,1.7,0.9,1.3,0.37
-PI-Piripiri,2020-07-24,forecast,1.1,0.5,1.6,0.9,1.3,0.37
-PI-Piripiri,2020-07-25,forecast,1.1,0.5,1.7,0.9,1.3,0.37
-PI-Piripiri,2020-07-26,forecast,1.1,0.5,1.7,0.9,1.3,0.38
-PI-Piripiri,2020-07-27,forecast,1.1,0.5,1.8,0.9,1.4,0.37
-PI-Piripiri,2020-07-28,forecast,1.1,0.5,1.8,0.9,1.4,0.37
-PI-Piripiri,2020-07-29,forecast,1.1,0.4,1.7,0.9,1.4,0.38
-PI-São Raimundo Nonato,2020-04-23,nowcast,0.9,0.1,1.6,0.5,1.1,0.61
-PI-São Raimundo Nonato,2020-04-24,nowcast,0.8,0.1,1.6,0.4,1,0.65
-PI-São Raimundo Nonato,2020-04-25,nowcast,0.8,0.1,1.5,0.4,0.9,0.7
-PI-São Raimundo Nonato,2020-04-26,nowcast,0.7,0,1.4,0.3,0.9,0.75
-PI-São Raimundo Nonato,2020-04-27,nowcast,0.6,0,1.4,0.3,0.8,0.78
-PI-São Raimundo Nonato,2020-04-28,nowcast,0.6,0,1.3,0.3,0.8,0.78
-PI-São Raimundo Nonato,2020-04-29,nowcast,0.6,0,1.4,0.2,0.7,0.79
-PI-São Raimundo Nonato,2020-04-30,nowcast,0.6,0,1.5,0.2,0.7,0.78
-PI-São Raimundo Nonato,2020-05-01,nowcast,0.6,0,1.6,0.2,0.7,0.74
-PI-São Raimundo Nonato,2020-05-02,nowcast,0.7,0,1.9,0.1,0.8,0.67
-PI-São Raimundo Nonato,2020-05-03,nowcast,0.8,0,2.1,0.2,0.9,0.63
-PI-São Raimundo Nonato,2020-05-04,nowcast,0.9,0,2.5,0.2,1,0.57
-PI-São Raimundo Nonato,2020-05-05,nowcast,1,0,2.6,0.3,1.2,0.5
-PI-São Raimundo Nonato,2020-05-06,nowcast,1.1,0,2.9,0.3,1.2,0.44
-PI-São Raimundo Nonato,2020-05-07,nowcast,1.2,0.1,3,0.3,1.4,0.38
-PI-São Raimundo Nonato,2020-05-08,nowcast,1.4,0.1,3.1,0.4,1.6,0.32
-PI-São Raimundo Nonato,2020-05-09,nowcast,1.4,0.1,3.2,0.7,1.8,0.29
-PI-São Raimundo Nonato,2020-05-10,nowcast,1.5,0.1,3.3,0.7,1.9,0.25
-PI-São Raimundo Nonato,2020-05-11,nowcast,1.5,0.2,3.1,0.8,1.8,0.25
-PI-São Raimundo Nonato,2020-05-12,nowcast,1.4,0.2,2.8,0.9,1.8,0.25
-PI-São Raimundo Nonato,2020-05-13,nowcast,1.4,0.3,2.8,0.8,1.7,0.27
-PI-São Raimundo Nonato,2020-05-14,nowcast,1.3,0.3,2.7,0.8,1.6,0.28
-PI-São Raimundo Nonato,2020-05-15,nowcast,1.3,0.2,2.5,0.8,1.6,0.3
-PI-São Raimundo Nonato,2020-05-16,nowcast,1.3,0.3,2.5,0.8,1.6,0.3
-PI-São Raimundo Nonato,2020-05-17,nowcast,1.3,0.3,2.4,0.8,1.6,0.32
-PI-São Raimundo Nonato,2020-05-18,nowcast,1.3,0.3,2.4,0.8,1.6,0.29
-PI-São Raimundo Nonato,2020-05-19,nowcast,1.3,0.3,2.4,0.8,1.5,0.28
-PI-São Raimundo Nonato,2020-05-20,nowcast,1.3,0.4,2.4,0.8,1.6,0.28
-PI-São Raimundo Nonato,2020-05-21,nowcast,1.3,0.4,2.2,0.8,1.5,0.29
-PI-São Raimundo Nonato,2020-05-22,nowcast,1.2,0.4,2.2,0.8,1.5,0.33
-PI-São Raimundo Nonato,2020-05-23,nowcast,1.2,0.3,2.1,0.7,1.4,0.36
-PI-São Raimundo Nonato,2020-05-24,nowcast,1.1,0.3,2,0.8,1.4,0.39
-PI-São Raimundo Nonato,2020-05-25,nowcast,1.1,0.3,2,0.8,1.4,0.4
-PI-São Raimundo Nonato,2020-05-26,nowcast,1.1,0.4,2,0.8,1.4,0.38
-PI-São Raimundo Nonato,2020-05-27,nowcast,1.1,0.4,2,0.8,1.4,0.37
-PI-São Raimundo Nonato,2020-05-28,nowcast,1.1,0.4,2.1,0.8,1.4,0.36
-PI-São Raimundo Nonato,2020-05-29,nowcast,1.2,0.4,2.1,0.8,1.4,0.34
-PI-São Raimundo Nonato,2020-05-30,nowcast,1.3,0.5,2.2,0.9,1.6,0.27
-PI-São Raimundo Nonato,2020-05-31,nowcast,1.3,0.5,2.3,0.9,1.6,0.24
-PI-São Raimundo Nonato,2020-06-01,nowcast,1.4,0.6,2.3,1,1.6,0.17
-PI-São Raimundo Nonato,2020-06-02,nowcast,1.5,0.7,2.4,1.1,1.7,0.11
-PI-São Raimundo Nonato,2020-06-03,nowcast,1.6,0.7,2.5,1.2,1.8,0.09
-PI-São Raimundo Nonato,2020-06-04,nowcast,1.6,0.9,2.5,1.3,1.8,0.06
-PI-São Raimundo Nonato,2020-06-05,nowcast,1.6,1,2.5,1.3,1.9,0.05
-PI-São Raimundo Nonato,2020-06-06,nowcast,1.6,1,2.4,1.3,1.9,0.04
-PI-São Raimundo Nonato,2020-06-07,nowcast,1.7,1,2.4,1.3,1.8,0.03
-PI-São Raimundo Nonato,2020-06-08,nowcast,1.6,1.1,2.3,1.4,1.9,0.02
-PI-São Raimundo Nonato,2020-06-09,nowcast,1.6,1,2.3,1.3,1.8,0.02
-PI-São Raimundo Nonato,2020-06-10,nowcast,1.6,1.1,2.2,1.3,1.7,0.02
-PI-São Raimundo Nonato,2020-06-11,nowcast,1.6,1.1,2.1,1.3,1.7,0.03
+PI-Piripiri,2020-07-07,nowcast,1.2,0.9,1.6,1.1,1.3,0.1
+PI-Piripiri,2020-07-08,nowcast,1.2,0.9,1.5,1.1,1.3,0.09
+PI-Piripiri,2020-07-09,nowcast,1.2,0.9,1.6,1.1,1.3,0.09
+PI-Piripiri,2020-07-10,nowcast,1.2,0.9,1.5,1.1,1.3,0.1
+PI-Piripiri,2020-07-11,nowcast,1.2,0.9,1.5,1.1,1.3,0.11
+PI-Piripiri,2020-07-12,nowcast,1.2,0.9,1.5,1.1,1.3,0.14
+PI-Piripiri,2020-07-13,nowcast,1.1,0.8,1.4,1,1.2,0.2
+PI-Piripiri,2020-07-14,nowcast,1.1,0.8,1.4,1,1.2,0.29
+PI-Piripiri,2020-07-15,nowcast,1.1,0.8,1.3,1,1.2,0.37
+PI-Piripiri,2020-07-16,nowcast,1,0.8,1.3,0.9,1.2,0.4
+PI-Piripiri,2020-07-17,forecast,1.1,0.7,1.4,0.9,1.2,0.36
+PI-Piripiri,2020-07-18,forecast,1.1,0.7,1.5,0.9,1.2,0.35
+PI-Piripiri,2020-07-19,forecast,1.1,0.6,1.5,0.9,1.3,0.36
+PI-Piripiri,2020-07-20,forecast,1.1,0.6,1.5,0.9,1.3,0.37
+PI-Piripiri,2020-07-21,forecast,1.1,0.6,1.6,0.9,1.3,0.38
+PI-Piripiri,2020-07-22,forecast,1.1,0.6,1.6,0.9,1.3,0.37
+PI-Piripiri,2020-07-23,forecast,1.1,0.5,1.6,0.9,1.3,0.38
+PI-Piripiri,2020-07-24,forecast,1.1,0.5,1.6,0.9,1.3,0.39
+PI-Piripiri,2020-07-25,forecast,1.1,0.5,1.7,0.9,1.3,0.38
+PI-Piripiri,2020-07-26,forecast,1.1,0.5,1.7,0.9,1.3,0.4
+PI-Piripiri,2020-07-27,forecast,1.1,0.5,1.7,0.9,1.3,0.4
+PI-Piripiri,2020-07-28,forecast,1.1,0.5,1.7,0.9,1.3,0.41
+PI-Piripiri,2020-07-29,forecast,1.1,0.5,1.7,0.8,1.3,0.4
+PI-Piripiri,2020-07-30,forecast,1.1,0.5,1.8,0.9,1.4,0.38
+PI-São Raimundo Nonato,2020-04-23,nowcast,0.8,0.1,1.6,0.4,1,0.63
+PI-São Raimundo Nonato,2020-04-24,nowcast,0.8,0.1,1.6,0.5,1,0.66
+PI-São Raimundo Nonato,2020-04-25,nowcast,0.8,0.1,1.5,0.4,1,0.7
+PI-São Raimundo Nonato,2020-04-26,nowcast,0.7,0,1.4,0.3,0.9,0.74
+PI-São Raimundo Nonato,2020-04-27,nowcast,0.7,0,1.4,0.3,0.8,0.76
+PI-São Raimundo Nonato,2020-04-28,nowcast,0.6,0,1.4,0.2,0.8,0.77
+PI-São Raimundo Nonato,2020-04-29,nowcast,0.6,0,1.5,0.2,0.7,0.77
+PI-São Raimundo Nonato,2020-04-30,nowcast,0.6,0,1.5,0.2,0.7,0.76
+PI-São Raimundo Nonato,2020-05-01,nowcast,0.7,0,1.7,0.2,0.7,0.72
+PI-São Raimundo Nonato,2020-05-02,nowcast,0.7,0,1.9,0.2,0.8,0.69
+PI-São Raimundo Nonato,2020-05-03,nowcast,0.8,0,2.2,0.1,0.8,0.63
+PI-São Raimundo Nonato,2020-05-04,nowcast,0.9,0,2.3,0.2,1,0.57
+PI-São Raimundo Nonato,2020-05-05,nowcast,1,0,2.5,0.2,1.1,0.51
+PI-São Raimundo Nonato,2020-05-06,nowcast,1.2,0,2.9,0.4,1.4,0.42
+PI-São Raimundo Nonato,2020-05-07,nowcast,1.3,0.1,3.1,0.5,1.5,0.37
+PI-São Raimundo Nonato,2020-05-08,nowcast,1.4,0.1,3.2,0.7,1.8,0.31
+PI-São Raimundo Nonato,2020-05-09,nowcast,1.5,0.1,3.2,0.6,1.8,0.27
+PI-São Raimundo Nonato,2020-05-10,nowcast,1.5,0.2,3.1,0.7,1.8,0.26
+PI-São Raimundo Nonato,2020-05-11,nowcast,1.5,0.3,3.2,0.7,1.8,0.24
+PI-São Raimundo Nonato,2020-05-12,nowcast,1.5,0.2,2.9,0.8,1.8,0.25
+PI-São Raimundo Nonato,2020-05-13,nowcast,1.4,0.1,2.7,0.7,1.7,0.28
+PI-São Raimundo Nonato,2020-05-14,nowcast,1.3,0.3,2.6,0.8,1.7,0.29
+PI-São Raimundo Nonato,2020-05-15,nowcast,1.3,0.2,2.5,0.7,1.6,0.33
+PI-São Raimundo Nonato,2020-05-16,nowcast,1.3,0.3,2.5,0.7,1.5,0.33
+PI-São Raimundo Nonato,2020-05-17,nowcast,1.3,0.3,2.5,0.8,1.6,0.3
+PI-São Raimundo Nonato,2020-05-18,nowcast,1.3,0.3,2.4,0.8,1.6,0.3
+PI-São Raimundo Nonato,2020-05-19,nowcast,1.3,0.3,2.3,0.8,1.6,0.29
+PI-São Raimundo Nonato,2020-05-20,nowcast,1.3,0.4,2.3,0.8,1.5,0.29
+PI-São Raimundo Nonato,2020-05-21,nowcast,1.3,0.4,2.3,0.8,1.5,0.29
+PI-São Raimundo Nonato,2020-05-22,nowcast,1.2,0.4,2.2,0.8,1.5,0.31
+PI-São Raimundo Nonato,2020-05-23,nowcast,1.2,0.4,2.1,0.8,1.4,0.35
+PI-São Raimundo Nonato,2020-05-24,nowcast,1.1,0.3,2,0.8,1.4,0.37
+PI-São Raimundo Nonato,2020-05-25,nowcast,1.1,0.3,1.9,0.8,1.4,0.4
+PI-São Raimundo Nonato,2020-05-26,nowcast,1.1,0.4,2,0.8,1.3,0.39
+PI-São Raimundo Nonato,2020-05-27,nowcast,1.1,0.4,1.9,0.7,1.3,0.4
+PI-São Raimundo Nonato,2020-05-28,nowcast,1.2,0.4,2,0.8,1.4,0.35
+PI-São Raimundo Nonato,2020-05-29,nowcast,1.2,0.5,2.1,0.8,1.4,0.33
+PI-São Raimundo Nonato,2020-05-30,nowcast,1.2,0.5,2.2,0.8,1.5,0.28
+PI-São Raimundo Nonato,2020-05-31,nowcast,1.3,0.5,2.2,0.9,1.6,0.23
+PI-São Raimundo Nonato,2020-06-01,nowcast,1.4,0.6,2.4,1.1,1.7,0.17
+PI-São Raimundo Nonato,2020-06-02,nowcast,1.5,0.7,2.5,1.1,1.7,0.13
+PI-São Raimundo Nonato,2020-06-03,nowcast,1.6,0.8,2.5,1.2,1.8,0.08
+PI-São Raimundo Nonato,2020-06-04,nowcast,1.6,0.8,2.5,1.2,1.8,0.06
+PI-São Raimundo Nonato,2020-06-05,nowcast,1.6,0.9,2.5,1.3,1.9,0.04
+PI-São Raimundo Nonato,2020-06-06,nowcast,1.6,1,2.4,1.3,1.9,0.03
+PI-São Raimundo Nonato,2020-06-07,nowcast,1.7,1,2.4,1.3,1.8,0.02
+PI-São Raimundo Nonato,2020-06-08,nowcast,1.6,1,2.4,1.3,1.8,0.03
+PI-São Raimundo Nonato,2020-06-09,nowcast,1.6,1.1,2.2,1.4,1.8,0.02
+PI-São Raimundo Nonato,2020-06-10,nowcast,1.6,1.1,2.2,1.3,1.8,0.03
+PI-São Raimundo Nonato,2020-06-11,nowcast,1.5,1,2.1,1.3,1.7,0.03
 PI-São Raimundo Nonato,2020-06-12,nowcast,1.5,1,2,1.3,1.7,0.03
-PI-São Raimundo Nonato,2020-06-13,nowcast,1.5,1,1.9,1.3,1.6,0.04
-PI-São Raimundo Nonato,2020-06-14,nowcast,1.4,1,1.9,1.2,1.6,0.06
-PI-São Raimundo Nonato,2020-06-15,nowcast,1.3,0.9,1.7,1.2,1.5,0.08
-PI-São Raimundo Nonato,2020-06-16,nowcast,1.3,0.9,1.6,1.1,1.4,0.12
-PI-São Raimundo Nonato,2020-06-17,nowcast,1.2,0.8,1.5,1.1,1.3,0.17
-PI-São Raimundo Nonato,2020-06-18,nowcast,1.1,0.8,1.5,1,1.3,0.24
-PI-São Raimundo Nonato,2020-06-19,nowcast,1.1,0.8,1.4,1,1.2,0.29
-PI-São Raimundo Nonato,2020-06-20,nowcast,1,0.7,1.3,0.9,1.2,0.41
-PI-São Raimundo Nonato,2020-06-21,nowcast,1,0.7,1.3,0.9,1.1,0.51
-PI-São Raimundo Nonato,2020-06-22,nowcast,1,0.7,1.2,0.9,1.1,0.58
+PI-São Raimundo Nonato,2020-06-13,nowcast,1.4,1,1.9,1.2,1.6,0.05
+PI-São Raimundo Nonato,2020-06-14,nowcast,1.4,1,1.8,1.2,1.5,0.06
+PI-São Raimundo Nonato,2020-06-15,nowcast,1.3,0.9,1.7,1.1,1.5,0.09
+PI-São Raimundo Nonato,2020-06-16,nowcast,1.2,0.9,1.6,1.1,1.4,0.12
+PI-São Raimundo Nonato,2020-06-17,nowcast,1.2,0.8,1.5,1.1,1.3,0.18
+PI-São Raimundo Nonato,2020-06-18,nowcast,1.1,0.8,1.5,1,1.3,0.23
+PI-São Raimundo Nonato,2020-06-19,nowcast,1.1,0.8,1.4,1,1.2,0.3
+PI-São Raimundo Nonato,2020-06-20,nowcast,1,0.8,1.3,0.9,1.2,0.4
+PI-São Raimundo Nonato,2020-06-21,nowcast,1,0.7,1.3,0.9,1.1,0.47
+PI-São Raimundo Nonato,2020-06-22,nowcast,1,0.7,1.2,0.9,1.1,0.57
 PI-São Raimundo Nonato,2020-06-23,nowcast,1,0.7,1.2,0.9,1.1,0.62
-PI-São Raimundo Nonato,2020-06-24,nowcast,0.9,0.7,1.2,0.8,1,0.68
-PI-São Raimundo Nonato,2020-06-25,nowcast,0.9,0.6,1.2,0.8,1,0.71
-PI-São Raimundo Nonato,2020-06-26,nowcast,0.9,0.6,1.1,0.8,1,0.77
-PI-São Raimundo Nonato,2020-06-27,nowcast,0.9,0.6,1.1,0.8,1,0.84
-PI-São Raimundo Nonato,2020-06-28,nowcast,0.8,0.5,1.1,0.7,0.9,0.9
+PI-São Raimundo Nonato,2020-06-24,nowcast,0.9,0.7,1.2,0.8,1,0.67
+PI-São Raimundo Nonato,2020-06-25,nowcast,0.9,0.6,1.2,0.8,1,0.72
+PI-São Raimundo Nonato,2020-06-26,nowcast,0.9,0.6,1.1,0.8,1,0.76
+PI-São Raimundo Nonato,2020-06-27,nowcast,0.9,0.6,1.1,0.8,1,0.83
+PI-São Raimundo Nonato,2020-06-28,nowcast,0.8,0.5,1.1,0.7,0.9,0.89
 PI-São Raimundo Nonato,2020-06-29,nowcast,0.8,0.5,1,0.7,0.9,0.94
-PI-São Raimundo Nonato,2020-06-30,nowcast,0.7,0.4,1,0.6,0.9,0.95
-PI-São Raimundo Nonato,2020-07-01,nowcast,0.7,0.4,1,0.6,0.8,0.96
-PI-São Raimundo Nonato,2020-07-02,nowcast,0.7,0.4,1,0.6,0.8,0.95
-PI-São Raimundo Nonato,2020-07-03,nowcast,0.7,0.4,1,0.6,0.8,0.93
-PI-São Raimundo Nonato,2020-07-04,nowcast,0.7,0.4,1.1,0.6,0.8,0.9
-PI-São Raimundo Nonato,2020-07-05,nowcast,0.8,0.4,1.1,0.6,0.8,0.85
-PI-São Raimundo Nonato,2020-07-06,nowcast,0.8,0.5,1.3,0.6,0.9,0.74
-PI-São Raimundo Nonato,2020-07-07,nowcast,0.9,0.5,1.4,0.7,1,0.64
-PI-São Raimundo Nonato,2020-07-08,nowcast,1,0.6,1.6,0.8,1.1,0.49
-PI-São Raimundo Nonato,2020-07-09,nowcast,1.1,0.7,1.6,0.9,1.2,0.36
-PI-São Raimundo Nonato,2020-07-10,nowcast,1.1,0.7,1.7,0.9,1.3,0.27
-PI-São Raimundo Nonato,2020-07-11,nowcast,1.2,0.8,1.8,1,1.3,0.17
-PI-São Raimundo Nonato,2020-07-12,nowcast,1.2,0.8,1.7,1,1.4,0.15
-PI-São Raimundo Nonato,2020-07-13,nowcast,1.3,0.9,1.7,1.1,1.4,0.14
+PI-São Raimundo Nonato,2020-06-30,nowcast,0.7,0.5,1,0.6,0.8,0.96
+PI-São Raimundo Nonato,2020-07-01,nowcast,0.7,0.4,1,0.6,0.8,0.97
+PI-São Raimundo Nonato,2020-07-02,nowcast,0.7,0.4,1,0.6,0.8,0.94
+PI-São Raimundo Nonato,2020-07-03,nowcast,0.7,0.4,1,0.6,0.8,0.92
+PI-São Raimundo Nonato,2020-07-04,nowcast,0.7,0.4,1.1,0.6,0.8,0.89
+PI-São Raimundo Nonato,2020-07-05,nowcast,0.8,0.4,1.1,0.6,0.9,0.83
+PI-São Raimundo Nonato,2020-07-06,nowcast,0.8,0.5,1.3,0.6,0.9,0.76
+PI-São Raimundo Nonato,2020-07-07,nowcast,0.9,0.6,1.4,0.7,1,0.63
+PI-São Raimundo Nonato,2020-07-08,nowcast,1,0.6,1.5,0.7,1.1,0.5
+PI-São Raimundo Nonato,2020-07-09,nowcast,1.1,0.6,1.6,0.8,1.2,0.36
+PI-São Raimundo Nonato,2020-07-10,nowcast,1.2,0.7,1.7,0.9,1.3,0.26
+PI-São Raimundo Nonato,2020-07-11,nowcast,1.2,0.8,1.7,1,1.3,0.18
+PI-São Raimundo Nonato,2020-07-12,nowcast,1.2,0.8,1.8,1,1.4,0.14
+PI-São Raimundo Nonato,2020-07-13,nowcast,1.3,0.8,1.7,1,1.4,0.14
 PI-São Raimundo Nonato,2020-07-14,nowcast,1.3,0.9,1.7,1.1,1.4,0.12
-PI-São Raimundo Nonato,2020-07-15,forecast,1.3,0.8,1.9,1,1.4,0.19
-PI-São Raimundo Nonato,2020-07-16,forecast,1.3,0.7,1.9,1,1.5,0.22
+PI-São Raimundo Nonato,2020-07-15,forecast,1.3,0.7,1.8,1,1.5,0.19
+PI-São Raimundo Nonato,2020-07-16,forecast,1.3,0.6,1.9,0.9,1.4,0.22
 PI-São Raimundo Nonato,2020-07-17,forecast,1.3,0.6,2,1,1.5,0.25
-PI-São Raimundo Nonato,2020-07-18,forecast,1.3,0.6,2.1,0.9,1.5,0.25
-PI-São Raimundo Nonato,2020-07-19,forecast,1.3,0.5,2.1,0.9,1.5,0.28
-PI-São Raimundo Nonato,2020-07-20,forecast,1.3,0.5,2.2,0.9,1.6,0.28
-PI-São Raimundo Nonato,2020-07-21,forecast,1.3,0.4,2.2,0.9,1.6,0.29
-PI-São Raimundo Nonato,2020-07-22,forecast,1.3,0.3,2.2,0.9,1.6,0.31
-PI-São Raimundo Nonato,2020-07-23,forecast,1.3,0.3,2.3,0.9,1.6,0.31
-PI-São Raimundo Nonato,2020-07-24,forecast,1.3,0.3,2.4,0.9,1.7,0.32
-PI-São Raimundo Nonato,2020-07-25,forecast,1.3,0,2.2,0.9,1.7,0.32
-PI-São Raimundo Nonato,2020-07-26,forecast,1.3,0,2.2,0.8,1.7,0.3
-PI-São Raimundo Nonato,2020-07-27,forecast,1.3,0,2.2,0.8,1.7,0.32
+PI-São Raimundo Nonato,2020-07-18,forecast,1.3,0.5,2,0.9,1.5,0.26
+PI-São Raimundo Nonato,2020-07-19,forecast,1.3,0.5,2.1,1,1.6,0.26
+PI-São Raimundo Nonato,2020-07-20,forecast,1.3,0.4,2.2,0.9,1.6,0.28
+PI-São Raimundo Nonato,2020-07-21,forecast,1.3,0.4,2.2,0.9,1.5,0.29
+PI-São Raimundo Nonato,2020-07-22,forecast,1.3,0.3,2.2,0.9,1.6,0.29
+PI-São Raimundo Nonato,2020-07-23,forecast,1.3,0.3,2.4,0.8,1.6,0.3
+PI-São Raimundo Nonato,2020-07-24,forecast,1.3,0,2.1,0.9,1.7,0.31
+PI-São Raimundo Nonato,2020-07-25,forecast,1.3,0,2.2,0.8,1.6,0.32
+PI-São Raimundo Nonato,2020-07-26,forecast,1.3,0,2.2,0.8,1.7,0.32
+PI-São Raimundo Nonato,2020-07-27,forecast,1.3,0,2.3,0.9,1.7,0.31
 PI-São Raimundo Nonato,2020-07-28,forecast,1.3,0,2.3,0.8,1.7,0.32
-PI-Teresina,2020-03-30,nowcast,1.5,0.6,2.5,1,1.7,0.15
-PI-Teresina,2020-03-31,nowcast,1.5,0.7,2.6,1.1,1.7,0.13
+PI-Teresina,2020-03-30,nowcast,1.5,0.6,2.6,1,1.8,0.15
+PI-Teresina,2020-03-31,nowcast,1.5,0.7,2.5,1,1.7,0.13
 PI-Teresina,2020-04-01,nowcast,1.5,0.7,2.5,1.1,1.8,0.11
-PI-Teresina,2020-04-02,nowcast,1.6,0.8,2.4,1.2,1.8,0.09
-PI-Teresina,2020-04-03,nowcast,1.6,0.9,2.5,1.2,1.8,0.08
+PI-Teresina,2020-04-02,nowcast,1.6,0.8,2.5,1.1,1.8,0.09
+PI-Teresina,2020-04-03,nowcast,1.5,0.8,2.4,1.2,1.8,0.09
 PI-Teresina,2020-04-04,nowcast,1.6,0.9,2.4,1.2,1.8,0.07
 PI-Teresina,2020-04-05,nowcast,1.6,0.9,2.4,1.2,1.8,0.06
-PI-Teresina,2020-04-06,nowcast,1.6,0.9,2.3,1.3,1.8,0.06
-PI-Teresina,2020-04-07,nowcast,1.5,0.9,2.2,1.3,1.8,0.05
-PI-Teresina,2020-04-08,nowcast,1.5,1,2.1,1.3,1.8,0.05
-PI-Teresina,2020-04-09,nowcast,1.5,0.9,2.1,1.2,1.6,0.05
-PI-Teresina,2020-04-10,nowcast,1.5,1,2,1.2,1.6,0.05
-PI-Teresina,2020-04-11,nowcast,1.4,1,2,1.3,1.6,0.06
-PI-Teresina,2020-04-12,nowcast,1.4,1,1.8,1.2,1.5,0.05
-PI-Teresina,2020-04-13,nowcast,1.4,1,1.8,1.2,1.5,0.06
-PI-Teresina,2020-04-14,nowcast,1.4,0.9,1.7,1.2,1.5,0.06
-PI-Teresina,2020-04-15,nowcast,1.3,1,1.8,1.2,1.5,0.05
-PI-Teresina,2020-04-16,nowcast,1.3,1,1.7,1.2,1.5,0.06
-PI-Teresina,2020-04-17,nowcast,1.3,1,1.7,1.2,1.5,0.04
-PI-Teresina,2020-04-18,nowcast,1.3,1,1.7,1.2,1.5,0.04
-PI-Teresina,2020-04-19,nowcast,1.3,1,1.7,1.2,1.4,0.04
-PI-Teresina,2020-04-20,nowcast,1.3,1,1.7,1.2,1.4,0.03
-PI-Teresina,2020-04-21,nowcast,1.3,1.1,1.7,1.2,1.4,0.03
+PI-Teresina,2020-04-06,nowcast,1.6,0.9,2.3,1.3,1.8,0.05
+PI-Teresina,2020-04-07,nowcast,1.6,1,2.3,1.2,1.7,0.05
+PI-Teresina,2020-04-08,nowcast,1.5,0.9,2.1,1.3,1.8,0.05
+PI-Teresina,2020-04-09,nowcast,1.5,1,2.1,1.3,1.7,0.05
+PI-Teresina,2020-04-10,nowcast,1.5,1,2,1.3,1.7,0.05
+PI-Teresina,2020-04-11,nowcast,1.4,1,2,1.3,1.6,0.05
+PI-Teresina,2020-04-12,nowcast,1.4,1,1.9,1.2,1.6,0.07
+PI-Teresina,2020-04-13,nowcast,1.4,0.9,1.8,1.2,1.5,0.06
+PI-Teresina,2020-04-14,nowcast,1.4,1,1.8,1.2,1.5,0.06
+PI-Teresina,2020-04-15,nowcast,1.4,0.9,1.8,1.2,1.5,0.06
+PI-Teresina,2020-04-16,nowcast,1.3,1,1.8,1.2,1.5,0.06
+PI-Teresina,2020-04-17,nowcast,1.3,1,1.7,1.2,1.5,0.05
+PI-Teresina,2020-04-18,nowcast,1.3,1,1.7,1.2,1.4,0.04
+PI-Teresina,2020-04-19,nowcast,1.3,1,1.7,1.2,1.4,0.03
+PI-Teresina,2020-04-20,nowcast,1.3,1,1.6,1.2,1.5,0.03
+PI-Teresina,2020-04-21,nowcast,1.3,1,1.7,1.2,1.4,0.03
 PI-Teresina,2020-04-22,nowcast,1.3,1,1.6,1.2,1.4,0.03
-PI-Teresina,2020-04-23,nowcast,1.3,1,1.6,1.2,1.4,0.04
+PI-Teresina,2020-04-23,nowcast,1.3,1,1.6,1.2,1.4,0.03
 PI-Teresina,2020-04-24,nowcast,1.3,1,1.6,1.2,1.4,0.03
 PI-Teresina,2020-04-25,nowcast,1.3,1,1.5,1.2,1.4,0.04
 PI-Teresina,2020-04-26,nowcast,1.3,1,1.5,1.2,1.4,0.04
-PI-Teresina,2020-04-27,nowcast,1.2,1,1.5,1.1,1.3,0.05
-PI-Teresina,2020-04-28,nowcast,1.2,0.9,1.4,1.1,1.3,0.07
+PI-Teresina,2020-04-27,nowcast,1.2,1,1.5,1.1,1.3,0.06
+PI-Teresina,2020-04-28,nowcast,1.2,1,1.4,1.1,1.3,0.08
 PI-Teresina,2020-04-29,nowcast,1.2,1,1.4,1.1,1.3,0.09
-PI-Teresina,2020-04-30,nowcast,1.2,0.9,1.4,1.1,1.3,0.09
-PI-Teresina,2020-05-01,nowcast,1.2,1,1.4,1.1,1.2,0.1
-PI-Teresina,2020-05-02,nowcast,1.2,0.9,1.4,1.1,1.2,0.09
+PI-Teresina,2020-04-30,nowcast,1.2,1,1.4,1.1,1.3,0.09
+PI-Teresina,2020-05-01,nowcast,1.2,0.9,1.4,1.1,1.2,0.1
+PI-Teresina,2020-05-02,nowcast,1.2,1,1.4,1.1,1.2,0.1
 PI-Teresina,2020-05-03,nowcast,1.1,0.9,1.3,1.1,1.2,0.11
-PI-Teresina,2020-05-04,nowcast,1.1,1,1.4,1.1,1.2,0.1
-PI-Teresina,2020-05-05,nowcast,1.1,1,1.4,1.1,1.2,0.09
-PI-Teresina,2020-05-06,nowcast,1.2,1,1.4,1.1,1.2,0.06
-PI-Teresina,2020-05-07,nowcast,1.2,1,1.4,1.1,1.2,0.06
+PI-Teresina,2020-05-04,nowcast,1.1,0.9,1.3,1.1,1.2,0.1
+PI-Teresina,2020-05-05,nowcast,1.2,1,1.4,1.1,1.2,0.08
+PI-Teresina,2020-05-06,nowcast,1.2,1,1.4,1.1,1.2,0.08
+PI-Teresina,2020-05-07,nowcast,1.2,1,1.3,1.1,1.2,0.06
 PI-Teresina,2020-05-08,nowcast,1.2,1,1.3,1.1,1.2,0.06
-PI-Teresina,2020-05-09,nowcast,1.1,1,1.3,1.1,1.2,0.07
-PI-Teresina,2020-05-10,nowcast,1.1,1,1.3,1.1,1.2,0.09
-PI-Teresina,2020-05-11,nowcast,1.1,0.9,1.3,1.1,1.2,0.14
-PI-Teresina,2020-05-12,nowcast,1.1,0.9,1.3,1,1.2,0.15
-PI-Teresina,2020-05-13,nowcast,1.1,0.9,1.3,1,1.2,0.16
-PI-Teresina,2020-05-14,nowcast,1.1,0.9,1.3,1,1.2,0.16
-PI-Teresina,2020-05-15,nowcast,1.1,0.9,1.3,1,1.1,0.14
+PI-Teresina,2020-05-09,nowcast,1.1,1,1.3,1.1,1.2,0.08
+PI-Teresina,2020-05-10,nowcast,1.1,0.9,1.3,1.1,1.2,0.11
+PI-Teresina,2020-05-11,nowcast,1.1,0.9,1.3,1.1,1.2,0.15
+PI-Teresina,2020-05-12,nowcast,1.1,0.9,1.2,1,1.2,0.17
+PI-Teresina,2020-05-13,nowcast,1.1,0.9,1.3,1,1.1,0.17
+PI-Teresina,2020-05-14,nowcast,1.1,0.9,1.3,1,1.1,0.16
+PI-Teresina,2020-05-15,nowcast,1.1,0.9,1.2,1,1.1,0.15
 PI-Teresina,2020-05-16,nowcast,1.1,0.9,1.3,1,1.1,0.12
-PI-Teresina,2020-05-17,nowcast,1.1,1,1.3,1,1.2,0.11
-PI-Teresina,2020-05-18,nowcast,1.1,1,1.3,1,1.2,0.08
-PI-Teresina,2020-05-19,nowcast,1.1,1,1.3,1.1,1.2,0.07
+PI-Teresina,2020-05-17,nowcast,1.1,1,1.3,1.1,1.2,0.11
+PI-Teresina,2020-05-18,nowcast,1.1,1,1.3,1,1.2,0.1
+PI-Teresina,2020-05-19,nowcast,1.1,1,1.3,1.1,1.2,0.08
 PI-Teresina,2020-05-20,nowcast,1.1,1,1.3,1.1,1.2,0.06
 PI-Teresina,2020-05-21,nowcast,1.2,1,1.3,1.1,1.2,0.04
-PI-Teresina,2020-05-22,nowcast,1.2,1,1.3,1.1,1.2,0.03
+PI-Teresina,2020-05-22,nowcast,1.2,1,1.3,1.1,1.2,0.02
 PI-Teresina,2020-05-23,nowcast,1.2,1,1.4,1.1,1.2,0.01
-PI-Teresina,2020-05-24,nowcast,1.2,1.1,1.4,1.1,1.3,0.01
-PI-Teresina,2020-05-25,nowcast,1.2,1.1,1.4,1.2,1.3,0.01
+PI-Teresina,2020-05-24,nowcast,1.2,1.1,1.4,1.1,1.2,0.01
+PI-Teresina,2020-05-25,nowcast,1.2,1.1,1.4,1.1,1.3,0.01
 PI-Teresina,2020-05-26,nowcast,1.2,1.1,1.4,1.2,1.3,0.01
 PI-Teresina,2020-05-27,nowcast,1.2,1.1,1.4,1.2,1.3,0.01
 PI-Teresina,2020-05-28,nowcast,1.2,1.1,1.4,1.2,1.3,0.01
 PI-Teresina,2020-05-29,nowcast,1.2,1.1,1.4,1.2,1.3,0.01
-PI-Teresina,2020-05-30,nowcast,1.2,1.1,1.3,1.1,1.3,0.01
-PI-Teresina,2020-05-31,nowcast,1.2,1.1,1.3,1.1,1.2,0.01
+PI-Teresina,2020-05-30,nowcast,1.2,1.1,1.3,1.1,1.3,0.02
+PI-Teresina,2020-05-31,nowcast,1.2,1,1.3,1.1,1.2,0.02
 PI-Teresina,2020-06-01,nowcast,1.2,1,1.3,1.1,1.2,0.03
 PI-Teresina,2020-06-02,nowcast,1.1,1,1.3,1.1,1.2,0.06
-PI-Teresina,2020-06-03,nowcast,1.1,1,1.2,1.1,1.2,0.06
+PI-Teresina,2020-06-03,nowcast,1.1,1,1.2,1.1,1.2,0.07
 PI-Teresina,2020-06-04,nowcast,1.1,1,1.2,1.1,1.2,0.06
 PI-Teresina,2020-06-05,nowcast,1.1,1,1.2,1.1,1.2,0.05
 PI-Teresina,2020-06-06,nowcast,1.1,1,1.2,1.1,1.2,0.04
-PI-Teresina,2020-06-07,nowcast,1.1,1,1.2,1.1,1.1,0.03
-PI-Teresina,2020-06-08,nowcast,1.1,1,1.2,1.1,1.2,0.04
-PI-Teresina,2020-06-09,nowcast,1.1,1,1.2,1.1,1.1,0.04
+PI-Teresina,2020-06-07,nowcast,1.1,1,1.2,1.1,1.2,0.03
+PI-Teresina,2020-06-08,nowcast,1.1,1,1.2,1.1,1.1,0.04
+PI-Teresina,2020-06-09,nowcast,1.1,1,1.2,1.1,1.1,0.05
 PI-Teresina,2020-06-10,nowcast,1.1,1,1.2,1.1,1.1,0.04
 PI-Teresina,2020-06-11,nowcast,1.1,1,1.2,1.1,1.2,0.03
 PI-Teresina,2020-06-12,nowcast,1.1,1,1.2,1.1,1.2,0.02
@@ -1481,267 +1499,272 @@ PI-Teresina,2020-06-15,nowcast,1.1,1,1.2,1.1,1.2,0.02
 PI-Teresina,2020-06-16,nowcast,1.1,1,1.2,1.1,1.1,0.03
 PI-Teresina,2020-06-17,nowcast,1.1,1,1.2,1.1,1.1,0.03
 PI-Teresina,2020-06-18,nowcast,1.1,1,1.2,1.1,1.2,0.02
-PI-Teresina,2020-06-19,nowcast,1.1,1,1.2,1.1,1.1,0.02
-PI-Teresina,2020-06-20,nowcast,1.1,1,1.2,1.1,1.2,0.01
+PI-Teresina,2020-06-19,nowcast,1.1,1,1.2,1.1,1.2,0.02
+PI-Teresina,2020-06-20,nowcast,1.1,1,1.2,1.1,1.1,0.01
 PI-Teresina,2020-06-21,nowcast,1.1,1,1.2,1.1,1.2,0.01
 PI-Teresina,2020-06-22,nowcast,1.1,1,1.2,1.1,1.2,0.01
-PI-Teresina,2020-06-23,nowcast,1.1,1,1.2,1.1,1.2,0.02
+PI-Teresina,2020-06-23,nowcast,1.1,1,1.2,1.1,1.2,0.01
 PI-Teresina,2020-06-24,nowcast,1.1,1,1.2,1.1,1.2,0.02
-PI-Teresina,2020-06-25,nowcast,1.1,1,1.2,1.1,1.1,0.03
-PI-Teresina,2020-06-26,nowcast,1.1,1,1.2,1.1,1.1,0.06
-PI-Teresina,2020-06-27,nowcast,1.1,1,1.2,1,1.1,0.13
-PI-Teresina,2020-06-28,nowcast,1,0.9,1.1,1,1.1,0.31
-PI-Teresina,2020-06-29,nowcast,1,0.9,1.1,1,1,0.56
-PI-Teresina,2020-06-30,nowcast,1,0.9,1.1,0.9,1,0.76
-PI-Teresina,2020-07-01,nowcast,1,0.9,1,0.9,1,0.82
+PI-Teresina,2020-06-25,nowcast,1.1,1,1.2,1.1,1.2,0.03
+PI-Teresina,2020-06-26,nowcast,1.1,1,1.2,1.1,1.1,0.05
+PI-Teresina,2020-06-27,nowcast,1.1,1,1.2,1,1.1,0.12
+PI-Teresina,2020-06-28,nowcast,1,0.9,1.1,1,1.1,0.33
+PI-Teresina,2020-06-29,nowcast,1,0.9,1.1,0.9,1,0.57
+PI-Teresina,2020-06-30,nowcast,1,0.9,1,0.9,1,0.74
+PI-Teresina,2020-07-01,nowcast,1,0.9,1,0.9,1,0.83
 PI-Teresina,2020-07-02,nowcast,1,0.9,1,0.9,1,0.85
-PI-Teresina,2020-07-03,nowcast,1,0.9,1,0.9,1,0.85
-PI-Teresina,2020-07-04,nowcast,1,0.9,1,0.9,1,0.86
-PI-Teresina,2020-07-05,nowcast,0.9,0.9,1,0.9,1,0.91
-PI-Teresina,2020-07-06,nowcast,0.9,0.8,1,0.9,1,0.96
+PI-Teresina,2020-07-03,nowcast,1,0.9,1,0.9,1,0.86
+PI-Teresina,2020-07-04,nowcast,0.9,0.9,1,0.9,1,0.88
+PI-Teresina,2020-07-05,nowcast,0.9,0.9,1,0.9,1,0.92
+PI-Teresina,2020-07-06,nowcast,0.9,0.8,1,0.9,1,0.97
 PI-Teresina,2020-07-07,nowcast,0.9,0.8,1,0.9,0.9,0.99
 PI-Teresina,2020-07-08,nowcast,0.9,0.8,1,0.9,0.9,0.99
-PI-Teresina,2020-07-09,nowcast,0.9,0.8,1,0.9,0.9,0.98
-PI-Teresina,2020-07-10,nowcast,0.9,0.8,1,0.9,0.9,0.93
-PI-Teresina,2020-07-11,nowcast,0.9,0.8,1,0.9,1,0.83
-PI-Teresina,2020-07-12,nowcast,1,0.9,1.1,0.9,1,0.7
-PI-Teresina,2020-07-13,nowcast,1,0.9,1.1,0.9,1,0.55
-PI-Teresina,2020-07-14,nowcast,1,0.9,1.1,1,1.1,0.41
-PI-Teresina,2020-07-15,nowcast,1,0.9,1.1,1,1.1,0.26
-PI-Teresina,2020-07-16,nowcast,1.1,1,1.2,1,1.1,0.17
-PI-Teresina,2020-07-17,forecast,1,0.9,1.2,1,1.1,0.25
-PI-Teresina,2020-07-18,forecast,1,0.9,1.2,1,1.1,0.3
-PI-Teresina,2020-07-19,forecast,1,0.9,1.2,1,1.1,0.33
-PI-Teresina,2020-07-20,forecast,1,0.9,1.2,1,1.1,0.34
-PI-Teresina,2020-07-21,forecast,1,0.9,1.3,1,1.1,0.35
-PI-Teresina,2020-07-22,forecast,1,0.8,1.3,1,1.1,0.35
-PI-Teresina,2020-07-23,forecast,1,0.8,1.3,0.9,1.1,0.38
-PI-Teresina,2020-07-24,forecast,1,0.8,1.3,0.9,1.1,0.38
-PI-Teresina,2020-07-25,forecast,1,0.8,1.3,0.9,1.1,0.39
-PI-Teresina,2020-07-26,forecast,1,0.8,1.3,0.9,1.1,0.4
-PI-Teresina,2020-07-27,forecast,1,0.8,1.3,0.9,1.1,0.39
-PI-Teresina,2020-07-28,forecast,1,0.7,1.3,0.9,1.1,0.39
-PI-Teresina,2020-07-29,forecast,1,0.7,1.3,0.9,1.2,0.39
-PI-Teresina,2020-07-30,forecast,1,0.7,1.4,0.9,1.1,0.4
-PI-União,2020-05-20,nowcast,1.1,0.5,1.8,0.8,1.3,0.36
-PI-União,2020-05-21,nowcast,1.1,0.5,1.9,0.9,1.3,0.34
-PI-União,2020-05-22,nowcast,1.2,0.6,1.9,0.9,1.4,0.31
+PI-Teresina,2020-07-09,nowcast,0.9,0.8,1,0.9,0.9,0.99
+PI-Teresina,2020-07-10,nowcast,0.9,0.8,1,0.9,0.9,0.95
+PI-Teresina,2020-07-11,nowcast,0.9,0.8,1,0.9,1,0.87
+PI-Teresina,2020-07-12,nowcast,1,0.9,1.1,0.9,1,0.76
+PI-Teresina,2020-07-13,nowcast,1,0.9,1.1,0.9,1,0.66
+PI-Teresina,2020-07-14,nowcast,1,0.9,1.1,0.9,1,0.54
+PI-Teresina,2020-07-15,nowcast,1,0.9,1.1,1,1,0.43
+PI-Teresina,2020-07-16,nowcast,1,0.9,1.1,1,1.1,0.33
+PI-Teresina,2020-07-17,nowcast,1,0.9,1.1,1,1.1,0.33
+PI-Teresina,2020-07-18,forecast,1,0.9,1.2,1,1.1,0.38
+PI-Teresina,2020-07-19,forecast,1,0.9,1.2,1,1.1,0.42
+PI-Teresina,2020-07-20,forecast,1,0.9,1.2,1,1.1,0.41
+PI-Teresina,2020-07-21,forecast,1,0.8,1.2,0.9,1.1,0.43
+PI-Teresina,2020-07-22,forecast,1,0.8,1.2,0.9,1.1,0.44
+PI-Teresina,2020-07-23,forecast,1,0.8,1.2,0.9,1.1,0.44
+PI-Teresina,2020-07-24,forecast,1,0.8,1.2,0.9,1.1,0.45
+PI-Teresina,2020-07-25,forecast,1,0.8,1.2,0.9,1.1,0.45
+PI-Teresina,2020-07-26,forecast,1,0.8,1.3,0.9,1.1,0.44
+PI-Teresina,2020-07-27,forecast,1,0.8,1.3,0.9,1.1,0.46
+PI-Teresina,2020-07-28,forecast,1,0.8,1.3,0.9,1.1,0.45
+PI-Teresina,2020-07-29,forecast,1,0.8,1.3,0.9,1.1,0.45
+PI-Teresina,2020-07-30,forecast,1,0.7,1.3,0.9,1.1,0.45
+PI-Teresina,2020-07-31,forecast,1,0.7,1.3,0.9,1.1,0.45
+PI-União,2020-05-20,nowcast,1.1,0.5,1.8,0.8,1.3,0.37
+PI-União,2020-05-21,nowcast,1.2,0.5,1.9,0.9,1.4,0.33
+PI-União,2020-05-22,nowcast,1.2,0.5,1.9,0.9,1.4,0.31
 PI-União,2020-05-23,nowcast,1.2,0.6,1.9,0.9,1.4,0.28
-PI-União,2020-05-24,nowcast,1.2,0.6,1.9,1,1.4,0.25
-PI-União,2020-05-25,nowcast,1.2,0.6,1.9,0.9,1.4,0.26
-PI-União,2020-05-26,nowcast,1.2,0.6,1.9,0.9,1.4,0.25
-PI-União,2020-05-27,nowcast,1.2,0.6,1.9,0.9,1.4,0.27
-PI-União,2020-05-28,nowcast,1.2,0.6,1.8,0.9,1.4,0.28
-PI-União,2020-05-29,nowcast,1.1,0.6,1.8,0.9,1.3,0.32
+PI-União,2020-05-24,nowcast,1.2,0.6,1.9,0.9,1.4,0.26
+PI-União,2020-05-25,nowcast,1.2,0.6,1.9,1,1.4,0.24
+PI-União,2020-05-26,nowcast,1.2,0.7,1.9,1,1.4,0.25
+PI-União,2020-05-27,nowcast,1.2,0.6,1.8,0.9,1.4,0.27
+PI-União,2020-05-28,nowcast,1.2,0.6,1.8,0.9,1.4,0.29
+PI-União,2020-05-29,nowcast,1.1,0.6,1.8,0.9,1.3,0.31
 PI-União,2020-05-30,nowcast,1.1,0.6,1.7,0.9,1.3,0.34
-PI-União,2020-05-31,nowcast,1.1,0.5,1.6,0.8,1.2,0.4
-PI-União,2020-06-01,nowcast,1.1,0.6,1.6,0.8,1.2,0.43
-PI-União,2020-06-02,nowcast,1,0.5,1.5,0.8,1.2,0.45
-PI-União,2020-06-03,nowcast,1,0.5,1.5,0.8,1.2,0.49
-PI-União,2020-06-04,nowcast,1,0.5,1.5,0.8,1.1,0.52
-PI-União,2020-06-05,nowcast,1,0.5,1.5,0.8,1.1,0.53
-PI-União,2020-06-06,nowcast,1,0.5,1.5,0.8,1.1,0.53
-PI-União,2020-06-07,nowcast,1,0.5,1.5,0.8,1.1,0.52
+PI-União,2020-05-31,nowcast,1.1,0.5,1.6,0.9,1.3,0.37
+PI-União,2020-06-01,nowcast,1,0.5,1.6,0.8,1.2,0.44
+PI-União,2020-06-02,nowcast,1,0.5,1.6,0.8,1.2,0.46
+PI-União,2020-06-03,nowcast,1,0.5,1.5,0.8,1.2,0.5
+PI-União,2020-06-04,nowcast,1,0.5,1.5,0.8,1.2,0.52
+PI-União,2020-06-05,nowcast,1,0.5,1.5,0.8,1.2,0.52
+PI-União,2020-06-06,nowcast,1,0.5,1.5,0.8,1.1,0.52
+PI-União,2020-06-07,nowcast,1,0.5,1.5,0.8,1.1,0.51
 PI-União,2020-06-08,nowcast,1,0.5,1.5,0.8,1.2,0.49
-PI-União,2020-06-09,nowcast,1,0.5,1.6,0.8,1.2,0.46
-PI-União,2020-06-10,nowcast,1.1,0.6,1.6,0.8,1.2,0.42
-PI-União,2020-06-11,nowcast,1.1,0.6,1.6,0.8,1.2,0.4
+PI-União,2020-06-09,nowcast,1,0.5,1.6,0.8,1.2,0.47
+PI-União,2020-06-10,nowcast,1,0.5,1.7,0.8,1.2,0.44
+PI-União,2020-06-11,nowcast,1.1,0.6,1.6,0.8,1.2,0.39
 PI-União,2020-06-12,nowcast,1.1,0.6,1.7,0.9,1.3,0.37
-PI-União,2020-06-13,nowcast,1.1,0.6,1.6,0.9,1.3,0.35
-PI-União,2020-06-14,nowcast,1.1,0.6,1.7,0.9,1.3,0.34
-PI-União,2020-06-15,nowcast,1.1,0.6,1.7,0.9,1.3,0.34
-PI-União,2020-06-16,nowcast,1.1,0.6,1.6,0.9,1.3,0.35
-PI-União,2020-06-17,nowcast,1.1,0.6,1.6,0.9,1.3,0.37
-PI-União,2020-06-18,nowcast,1.1,0.6,1.6,0.8,1.2,0.37
-PI-União,2020-06-19,nowcast,1.1,0.6,1.6,0.9,1.3,0.35
+PI-União,2020-06-13,nowcast,1.1,0.6,1.7,0.9,1.2,0.36
+PI-União,2020-06-14,nowcast,1.1,0.6,1.7,0.9,1.3,0.36
+PI-União,2020-06-15,nowcast,1.1,0.6,1.6,0.9,1.2,0.35
+PI-União,2020-06-16,nowcast,1.1,0.6,1.6,0.9,1.2,0.36
+PI-União,2020-06-17,nowcast,1.1,0.6,1.6,0.9,1.3,0.35
+PI-União,2020-06-18,nowcast,1.1,0.6,1.6,0.9,1.2,0.35
+PI-União,2020-06-19,nowcast,1.1,0.7,1.7,0.9,1.3,0.33
 PI-União,2020-06-20,nowcast,1.1,0.7,1.7,0.9,1.3,0.29
 PI-União,2020-06-21,nowcast,1.2,0.7,1.7,0.9,1.3,0.27
-PI-União,2020-06-22,nowcast,1.2,0.7,1.7,1,1.4,0.23
-PI-União,2020-06-23,nowcast,1.2,0.7,1.7,1,1.4,0.21
-PI-União,2020-06-24,nowcast,1.2,0.8,1.8,1,1.4,0.19
-PI-União,2020-06-25,nowcast,1.2,0.8,1.8,1,1.4,0.17
-PI-União,2020-06-26,nowcast,1.2,0.8,1.7,1,1.4,0.17
-PI-União,2020-06-27,nowcast,1.2,0.7,1.6,1.1,1.4,0.18
-PI-União,2020-06-28,nowcast,1.2,0.8,1.6,1,1.3,0.2
-PI-União,2020-06-29,nowcast,1.2,0.8,1.6,1,1.3,0.22
+PI-União,2020-06-22,nowcast,1.2,0.7,1.8,1,1.3,0.22
+PI-União,2020-06-23,nowcast,1.2,0.7,1.7,1,1.4,0.19
+PI-União,2020-06-24,nowcast,1.2,0.8,1.7,1,1.3,0.2
+PI-União,2020-06-25,nowcast,1.2,0.8,1.7,1,1.4,0.16
+PI-União,2020-06-26,nowcast,1.2,0.8,1.7,1.1,1.4,0.17
+PI-União,2020-06-27,nowcast,1.2,0.8,1.6,1,1.3,0.19
+PI-União,2020-06-28,nowcast,1.2,0.8,1.6,1,1.3,0.21
+PI-União,2020-06-29,nowcast,1.2,0.8,1.6,1,1.3,0.24
 PI-União,2020-06-30,nowcast,1.1,0.7,1.5,1,1.3,0.27
-PI-União,2020-07-01,nowcast,1.1,0.7,1.5,0.9,1.2,0.31
-PI-União,2020-07-02,nowcast,1.1,0.7,1.5,0.9,1.2,0.33
-PI-União,2020-07-03,nowcast,1.1,0.7,1.5,0.9,1.2,0.34
-PI-União,2020-07-04,nowcast,1.1,0.7,1.4,0.9,1.2,0.38
-PI-União,2020-07-05,nowcast,1,0.7,1.4,0.9,1.2,0.41
-PI-União,2020-07-06,nowcast,1,0.7,1.4,0.9,1.2,0.46
-PI-União,2020-07-07,nowcast,1,0.6,1.4,0.8,1.1,0.5
-PI-União,2020-07-08,nowcast,1,0.6,1.3,0.9,1.1,0.54
-PI-União,2020-07-09,nowcast,1,0.6,1.3,0.8,1.1,0.55
-PI-União,2020-07-10,nowcast,1,0.6,1.3,0.8,1.1,0.56
-PI-União,2020-07-11,nowcast,1,0.6,1.4,0.8,1.1,0.53
-PI-União,2020-07-12,nowcast,1,0.7,1.4,0.9,1.1,0.48
-PI-União,2020-07-13,nowcast,1,0.7,1.5,0.9,1.2,0.41
-PI-União,2020-07-14,nowcast,1.1,0.7,1.6,0.9,1.2,0.33
-PI-União,2020-07-15,nowcast,1.1,0.7,1.7,0.9,1.3,0.27
-PI-União,2020-07-16,forecast,1.1,0.6,1.6,0.9,1.3,0.34
-PI-União,2020-07-17,forecast,1.1,0.6,1.7,0.9,1.3,0.36
-PI-União,2020-07-18,forecast,1.1,0.5,1.7,0.9,1.3,0.36
-PI-União,2020-07-19,forecast,1.1,0.5,1.8,0.9,1.3,0.38
-PI-União,2020-07-20,forecast,1.1,0.4,1.8,0.8,1.3,0.38
-PI-União,2020-07-21,forecast,1.1,0.4,1.8,0.9,1.4,0.39
-PI-União,2020-07-22,forecast,1.1,0.4,1.9,0.8,1.4,0.39
-PI-União,2020-07-23,forecast,1.1,0.4,1.9,0.8,1.4,0.41
-PI-União,2020-07-24,forecast,1.1,0.4,2,0.8,1.4,0.4
-PI-União,2020-07-25,forecast,1.1,0.3,1.9,0.8,1.4,0.41
-PI-União,2020-07-26,forecast,1.1,0.3,2,0.7,1.4,0.41
-PI-União,2020-07-27,forecast,1.1,0.2,1.9,0.8,1.4,0.41
-PI-União,2020-07-28,forecast,1.1,0.2,2,0.8,1.4,0.4
-PI-União,2020-07-29,forecast,1.1,0,1.8,0.8,1.4,0.43
-PI-Uruçuí,2020-05-04,nowcast,1.3,0.4,2.3,0.8,1.5,0.29
-PI-Uruçuí,2020-05-05,nowcast,1.3,0.4,2.3,0.8,1.5,0.3
-PI-Uruçuí,2020-05-06,nowcast,1.2,0.4,2.2,0.8,1.5,0.3
-PI-Uruçuí,2020-05-07,nowcast,1.2,0.4,2,0.8,1.5,0.33
-PI-Uruçuí,2020-05-08,nowcast,1.1,0.3,2,0.8,1.4,0.37
-PI-Uruçuí,2020-05-09,nowcast,1.1,0.3,1.9,0.7,1.3,0.42
-PI-Uruçuí,2020-05-10,nowcast,1,0.3,1.8,0.8,1.3,0.46
-PI-Uruçuí,2020-05-11,nowcast,1,0.3,1.8,0.6,1.2,0.49
-PI-Uruçuí,2020-05-12,nowcast,1,0.3,1.8,0.7,1.2,0.49
-PI-Uruçuí,2020-05-13,nowcast,1,0.3,1.9,0.7,1.2,0.47
-PI-Uruçuí,2020-05-14,nowcast,1.1,0.4,1.9,0.7,1.3,0.45
+PI-União,2020-07-01,nowcast,1.1,0.7,1.5,1,1.3,0.29
+PI-União,2020-07-02,nowcast,1.1,0.7,1.5,1,1.2,0.33
+PI-União,2020-07-03,nowcast,1.1,0.7,1.4,0.9,1.2,0.36
+PI-União,2020-07-04,nowcast,1.1,0.7,1.4,0.9,1.2,0.39
+PI-União,2020-07-05,nowcast,1,0.7,1.4,0.9,1.1,0.44
+PI-União,2020-07-06,nowcast,1,0.7,1.4,0.9,1.1,0.49
+PI-União,2020-07-07,nowcast,1,0.6,1.3,0.9,1.1,0.52
+PI-União,2020-07-08,nowcast,1,0.6,1.3,0.8,1.1,0.56
+PI-União,2020-07-09,nowcast,1,0.6,1.3,0.8,1.1,0.58
+PI-União,2020-07-10,nowcast,1,0.6,1.3,0.8,1.1,0.59
+PI-União,2020-07-11,nowcast,1,0.6,1.3,0.8,1.1,0.57
+PI-União,2020-07-12,nowcast,1,0.6,1.3,0.8,1.1,0.53
+PI-União,2020-07-13,nowcast,1,0.6,1.5,0.8,1.1,0.47
+PI-União,2020-07-14,nowcast,1.1,0.7,1.5,0.9,1.2,0.4
+PI-União,2020-07-15,nowcast,1.1,0.7,1.6,0.9,1.2,0.33
+PI-União,2020-07-16,nowcast,1.1,0.7,1.6,0.9,1.2,0.31
+PI-União,2020-07-17,forecast,1.1,0.6,1.6,0.9,1.3,0.36
+PI-União,2020-07-18,forecast,1.1,0.6,1.7,0.9,1.3,0.38
+PI-União,2020-07-19,forecast,1.1,0.6,1.7,0.8,1.3,0.39
+PI-União,2020-07-20,forecast,1.1,0.5,1.7,0.9,1.3,0.39
+PI-União,2020-07-21,forecast,1.1,0.4,1.8,0.8,1.3,0.39
+PI-União,2020-07-22,forecast,1.1,0.4,1.7,0.8,1.3,0.4
+PI-União,2020-07-23,forecast,1.1,0.5,1.8,0.8,1.3,0.41
+PI-União,2020-07-24,forecast,1.1,0.3,1.8,0.7,1.3,0.41
+PI-União,2020-07-25,forecast,1.1,0.4,1.9,0.8,1.3,0.41
+PI-União,2020-07-26,forecast,1.1,0.4,2,0.8,1.4,0.42
+PI-União,2020-07-27,forecast,1.1,0.3,1.9,0.8,1.4,0.42
+PI-União,2020-07-28,forecast,1.1,0.2,1.9,0.8,1.4,0.42
+PI-União,2020-07-29,forecast,1.1,0.2,2,0.7,1.4,0.43
+PI-União,2020-07-30,forecast,1.1,0,1.8,0.7,1.4,0.42
+PI-Uruçuí,2020-05-04,nowcast,1.3,0.3,2.2,0.9,1.6,0.29
+PI-Uruçuí,2020-05-05,nowcast,1.3,0.4,2.3,0.9,1.6,0.29
+PI-Uruçuí,2020-05-06,nowcast,1.3,0.4,2.2,0.9,1.5,0.28
+PI-Uruçuí,2020-05-07,nowcast,1.2,0.5,2.2,0.8,1.4,0.32
+PI-Uruçuí,2020-05-08,nowcast,1.1,0.4,2,0.7,1.3,0.37
+PI-Uruçuí,2020-05-09,nowcast,1.1,0.3,1.8,0.8,1.3,0.42
+PI-Uruçuí,2020-05-10,nowcast,1,0.3,1.8,0.7,1.2,0.48
+PI-Uruçuí,2020-05-11,nowcast,1,0.3,1.8,0.7,1.2,0.5
+PI-Uruçuí,2020-05-12,nowcast,1,0.3,1.8,0.7,1.3,0.49
+PI-Uruçuí,2020-05-13,nowcast,1,0.3,1.8,0.7,1.2,0.49
+PI-Uruçuí,2020-05-14,nowcast,1,0.3,1.9,0.7,1.3,0.46
 PI-Uruçuí,2020-05-15,nowcast,1.1,0.4,2,0.7,1.3,0.41
-PI-Uruçuí,2020-05-16,nowcast,1.1,0.3,2,0.7,1.3,0.38
-PI-Uruçuí,2020-05-17,nowcast,1.2,0.5,2.2,0.8,1.5,0.34
-PI-Uruçuí,2020-05-18,nowcast,1.2,0.4,2.1,0.8,1.4,0.32
-PI-Uruçuí,2020-05-19,nowcast,1.2,0.5,2.1,0.8,1.4,0.3
-PI-Uruçuí,2020-05-20,nowcast,1.2,0.5,2.1,0.9,1.4,0.29
-PI-Uruçuí,2020-05-21,nowcast,1.2,0.5,2,0.8,1.4,0.28
-PI-Uruçuí,2020-05-22,nowcast,1.2,0.5,2,0.9,1.4,0.3
-PI-Uruçuí,2020-05-23,nowcast,1.2,0.5,2,0.9,1.4,0.32
-PI-Uruçuí,2020-05-24,nowcast,1.2,0.5,1.9,0.8,1.4,0.33
-PI-Uruçuí,2020-05-25,nowcast,1.2,0.5,1.9,0.9,1.4,0.31
-PI-Uruçuí,2020-05-26,nowcast,1.2,0.5,1.9,0.9,1.4,0.32
-PI-Uruçuí,2020-05-27,nowcast,1.1,0.6,1.9,0.8,1.3,0.33
-PI-Uruçuí,2020-05-28,nowcast,1.1,0.5,1.8,0.8,1.3,0.35
-PI-Uruçuí,2020-05-29,nowcast,1.1,0.5,1.7,0.8,1.3,0.36
+PI-Uruçuí,2020-05-16,nowcast,1.1,0.4,2.1,0.8,1.4,0.36
+PI-Uruçuí,2020-05-17,nowcast,1.2,0.4,2,0.8,1.4,0.34
+PI-Uruçuí,2020-05-18,nowcast,1.2,0.5,2.1,0.8,1.4,0.31
+PI-Uruçuí,2020-05-19,nowcast,1.2,0.5,2.1,0.9,1.5,0.3
+PI-Uruçuí,2020-05-20,nowcast,1.2,0.5,2,0.9,1.4,0.29
+PI-Uruçuí,2020-05-21,nowcast,1.2,0.5,2,0.9,1.4,0.31
+PI-Uruçuí,2020-05-22,nowcast,1.2,0.5,2,0.9,1.4,0.31
+PI-Uruçuí,2020-05-23,nowcast,1.2,0.5,2,0.9,1.4,0.31
+PI-Uruçuí,2020-05-24,nowcast,1.2,0.5,1.9,0.9,1.4,0.31
+PI-Uruçuí,2020-05-25,nowcast,1.2,0.5,1.9,0.8,1.3,0.32
+PI-Uruçuí,2020-05-26,nowcast,1.2,0.5,1.8,0.9,1.4,0.32
+PI-Uruçuí,2020-05-27,nowcast,1.2,0.5,1.8,0.9,1.3,0.33
+PI-Uruçuí,2020-05-28,nowcast,1.1,0.6,1.9,0.8,1.3,0.33
+PI-Uruçuí,2020-05-29,nowcast,1.1,0.6,1.8,0.9,1.3,0.36
 PI-Uruçuí,2020-05-30,nowcast,1.1,0.5,1.8,0.8,1.3,0.37
-PI-Uruçuí,2020-05-31,nowcast,1.1,0.5,1.7,0.8,1.2,0.39
-PI-Uruçuí,2020-06-01,nowcast,1.1,0.6,1.7,0.8,1.3,0.4
-PI-Uruçuí,2020-06-02,nowcast,1.1,0.5,1.7,0.8,1.2,0.41
+PI-Uruçuí,2020-05-31,nowcast,1.1,0.5,1.8,0.8,1.2,0.39
+PI-Uruçuí,2020-06-01,nowcast,1.1,0.5,1.7,0.8,1.3,0.4
+PI-Uruçuí,2020-06-02,nowcast,1.1,0.5,1.7,0.9,1.3,0.39
 PI-Uruçuí,2020-06-03,nowcast,1.1,0.5,1.7,0.9,1.3,0.38
-PI-Uruçuí,2020-06-04,nowcast,1.1,0.6,1.8,0.9,1.3,0.36
-PI-Uruçuí,2020-06-05,nowcast,1.1,0.6,1.8,0.9,1.3,0.32
-PI-Uruçuí,2020-06-06,nowcast,1.2,0.6,1.8,0.9,1.3,0.28
-PI-Uruçuí,2020-06-07,nowcast,1.2,0.7,1.9,0.9,1.4,0.24
-PI-Uruçuí,2020-06-08,nowcast,1.2,0.7,1.8,0.9,1.4,0.23
-PI-Uruçuí,2020-06-09,nowcast,1.2,0.7,1.8,1,1.4,0.22
-PI-Uruçuí,2020-06-10,nowcast,1.2,0.7,1.8,1,1.4,0.2
-PI-Uruçuí,2020-06-11,nowcast,1.2,0.7,1.8,1,1.4,0.22
-PI-Uruçuí,2020-06-12,nowcast,1.2,0.7,1.8,1,1.4,0.23
-PI-Uruçuí,2020-06-13,nowcast,1.2,0.7,1.8,1,1.4,0.22
-PI-Uruçuí,2020-06-14,nowcast,1.2,0.7,1.7,1,1.3,0.24
-PI-Uruçuí,2020-06-15,nowcast,1.2,0.7,1.6,1,1.3,0.26
-PI-Uruçuí,2020-06-16,nowcast,1.1,0.7,1.6,1,1.3,0.3
-PI-Uruçuí,2020-06-17,nowcast,1.1,0.7,1.6,1,1.3,0.32
-PI-Uruçuí,2020-06-18,nowcast,1.1,0.7,1.6,0.9,1.2,0.33
-PI-Uruçuí,2020-06-19,nowcast,1.1,0.7,1.6,0.9,1.2,0.34
-PI-Uruçuí,2020-06-20,nowcast,1.1,0.7,1.6,0.9,1.3,0.29
-PI-Uruçuí,2020-06-21,nowcast,1.1,0.7,1.6,1,1.3,0.27
-PI-Uruçuí,2020-06-22,nowcast,1.2,0.8,1.7,1,1.3,0.24
-PI-Uruçuí,2020-06-23,nowcast,1.2,0.8,1.7,1,1.3,0.23
-PI-Uruçuí,2020-06-24,nowcast,1.2,0.7,1.6,1,1.3,0.21
-PI-Uruçuí,2020-06-25,nowcast,1.2,0.8,1.6,1,1.3,0.19
-PI-Uruçuí,2020-06-26,nowcast,1.2,0.8,1.6,1,1.3,0.23
-PI-Uruçuí,2020-06-27,nowcast,1.2,0.8,1.6,1,1.3,0.24
-PI-Uruçuí,2020-06-28,nowcast,1.1,0.8,1.5,1,1.3,0.24
-PI-Uruçuí,2020-06-29,nowcast,1.1,0.8,1.5,1,1.3,0.24
-PI-Uruçuí,2020-06-30,nowcast,1.1,0.8,1.6,1,1.3,0.25
-PI-Uruçuí,2020-07-01,nowcast,1.1,0.8,1.5,1,1.2,0.26
-PI-Uruçuí,2020-07-02,nowcast,1.1,0.8,1.5,1,1.3,0.27
+PI-Uruçuí,2020-06-04,nowcast,1.1,0.5,1.7,0.8,1.3,0.37
+PI-Uruçuí,2020-06-05,nowcast,1.2,0.6,1.8,0.9,1.3,0.31
+PI-Uruçuí,2020-06-06,nowcast,1.2,0.6,1.8,0.9,1.3,0.29
+PI-Uruçuí,2020-06-07,nowcast,1.2,0.7,1.9,0.9,1.3,0.25
+PI-Uruçuí,2020-06-08,nowcast,1.2,0.6,1.9,1,1.4,0.24
+PI-Uruçuí,2020-06-09,nowcast,1.2,0.7,1.8,1,1.4,0.24
+PI-Uruçuí,2020-06-10,nowcast,1.2,0.7,1.9,1,1.4,0.21
+PI-Uruçuí,2020-06-11,nowcast,1.2,0.7,1.8,1,1.4,0.21
+PI-Uruçuí,2020-06-12,nowcast,1.3,0.7,1.8,1,1.4,0.2
+PI-Uruçuí,2020-06-13,nowcast,1.2,0.7,1.7,1,1.4,0.21
+PI-Uruçuí,2020-06-14,nowcast,1.2,0.7,1.7,1,1.4,0.24
+PI-Uruçuí,2020-06-15,nowcast,1.2,0.7,1.7,1,1.3,0.27
+PI-Uruçuí,2020-06-16,nowcast,1.1,0.6,1.5,1,1.3,0.32
+PI-Uruçuí,2020-06-17,nowcast,1.1,0.7,1.6,1,1.3,0.34
+PI-Uruçuí,2020-06-18,nowcast,1.1,0.7,1.5,0.9,1.2,0.35
+PI-Uruçuí,2020-06-19,nowcast,1.1,0.7,1.5,0.9,1.2,0.34
+PI-Uruçuí,2020-06-20,nowcast,1.1,0.6,1.6,0.9,1.3,0.3
+PI-Uruçuí,2020-06-21,nowcast,1.1,0.7,1.6,0.9,1.3,0.27
+PI-Uruçuí,2020-06-22,nowcast,1.2,0.7,1.6,1,1.3,0.24
+PI-Uruçuí,2020-06-23,nowcast,1.2,0.8,1.6,1,1.3,0.21
+PI-Uruçuí,2020-06-24,nowcast,1.2,0.8,1.6,1,1.3,0.21
+PI-Uruçuí,2020-06-25,nowcast,1.2,0.8,1.7,1,1.3,0.21
+PI-Uruçuí,2020-06-26,nowcast,1.2,0.8,1.6,1,1.3,0.21
+PI-Uruçuí,2020-06-27,nowcast,1.2,0.8,1.6,1,1.3,0.23
+PI-Uruçuí,2020-06-28,nowcast,1.1,0.8,1.6,1,1.3,0.24
+PI-Uruçuí,2020-06-29,nowcast,1.1,0.7,1.5,1,1.3,0.24
+PI-Uruçuí,2020-06-30,nowcast,1.1,0.7,1.5,1,1.2,0.27
+PI-Uruçuí,2020-07-01,nowcast,1.1,0.7,1.5,1,1.2,0.27
+PI-Uruçuí,2020-07-02,nowcast,1.1,0.8,1.5,1,1.2,0.27
 PI-Uruçuí,2020-07-03,nowcast,1.1,0.8,1.5,1,1.2,0.28
-PI-Uruçuí,2020-07-04,nowcast,1.1,0.7,1.5,1,1.2,0.3
-PI-Uruçuí,2020-07-05,nowcast,1.1,0.7,1.4,1,1.2,0.3
-PI-Uruçuí,2020-07-06,nowcast,1.1,0.8,1.4,0.9,1.2,0.33
-PI-Uruçuí,2020-07-07,nowcast,1.1,0.7,1.4,1,1.2,0.34
-PI-Uruçuí,2020-07-08,nowcast,1.1,0.8,1.4,0.9,1.2,0.37
-PI-Uruçuí,2020-07-09,nowcast,1.1,0.8,1.4,0.9,1.1,0.37
+PI-Uruçuí,2020-07-04,nowcast,1.1,0.7,1.4,0.9,1.2,0.31
+PI-Uruçuí,2020-07-05,nowcast,1.1,0.7,1.4,0.9,1.2,0.32
+PI-Uruçuí,2020-07-06,nowcast,1.1,0.8,1.4,1,1.2,0.31
+PI-Uruçuí,2020-07-07,nowcast,1.1,0.7,1.4,0.9,1.2,0.34
+PI-Uruçuí,2020-07-08,nowcast,1.1,0.7,1.4,1,1.2,0.36
+PI-Uruçuí,2020-07-09,nowcast,1.1,0.7,1.4,0.9,1.2,0.37
 PI-Uruçuí,2020-07-10,nowcast,1,0.7,1.4,0.9,1.2,0.41
-PI-Uruçuí,2020-07-11,nowcast,1,0.7,1.4,0.9,1.2,0.41
-PI-Uruçuí,2020-07-12,nowcast,1.1,0.7,1.4,0.9,1.1,0.39
-PI-Uruçuí,2020-07-13,nowcast,1.1,0.7,1.4,0.9,1.2,0.34
-PI-Uruçuí,2020-07-14,nowcast,1.1,0.8,1.5,1,1.2,0.3
-PI-Uruçuí,2020-07-15,nowcast,1.1,0.8,1.5,1,1.2,0.24
-PI-Uruçuí,2020-07-16,forecast,1.1,0.7,1.6,1,1.3,0.31
-PI-Uruçuí,2020-07-17,forecast,1.1,0.7,1.6,1,1.3,0.33
-PI-Uruçuí,2020-07-18,forecast,1.1,0.6,1.6,0.9,1.3,0.34
-PI-Uruçuí,2020-07-19,forecast,1.1,0.6,1.6,0.9,1.3,0.35
-PI-Uruçuí,2020-07-20,forecast,1.1,0.6,1.6,0.9,1.3,0.35
-PI-Uruçuí,2020-07-21,forecast,1.1,0.5,1.7,0.9,1.3,0.36
-PI-Uruçuí,2020-07-22,forecast,1.1,0.5,1.7,0.9,1.3,0.38
-PI-Uruçuí,2020-07-23,forecast,1.1,0.5,1.7,0.9,1.3,0.37
-PI-Uruçuí,2020-07-24,forecast,1.1,0.5,1.8,0.9,1.3,0.36
-PI-Uruçuí,2020-07-25,forecast,1.1,0.5,1.8,0.8,1.3,0.37
-PI-Uruçuí,2020-07-26,forecast,1.1,0.5,1.8,0.9,1.4,0.37
-PI-Uruçuí,2020-07-27,forecast,1.1,0.5,1.8,0.8,1.3,0.38
-PI-Uruçuí,2020-07-28,forecast,1.1,0.4,1.8,0.8,1.3,0.39
-PI-Uruçuí,2020-07-29,forecast,1.1,0.4,1.8,0.8,1.4,0.4
-PI-Valença do Piauí,2020-05-26,nowcast,1,0.1,2.1,0.6,1.4,0.47
-PI-Valença do Piauí,2020-05-27,nowcast,1,0.2,2.1,0.5,1.3,0.47
-PI-Valença do Piauí,2020-05-28,nowcast,1,0.1,2,0.5,1.3,0.48
-PI-Valença do Piauí,2020-05-29,nowcast,1,0.1,2.1,0.5,1.2,0.49
-PI-Valença do Piauí,2020-05-30,nowcast,1,0.1,2.1,0.5,1.3,0.47
-PI-Valença do Piauí,2020-05-31,nowcast,1,0.1,2.1,0.5,1.3,0.48
-PI-Valença do Piauí,2020-06-01,nowcast,1.2,0.1,2.4,0.6,1.4,0.4
-PI-Valença do Piauí,2020-06-02,nowcast,1.2,0.2,2.4,0.7,1.5,0.37
-PI-Valença do Piauí,2020-06-03,nowcast,1.3,0.3,2.7,0.7,1.5,0.3
-PI-Valença do Piauí,2020-06-04,nowcast,1.4,0.3,2.8,0.9,1.7,0.24
-PI-Valença do Piauí,2020-06-05,nowcast,1.5,0.5,2.8,0.9,1.8,0.19
-PI-Valença do Piauí,2020-06-06,nowcast,1.6,0.5,2.9,1,1.8,0.16
-PI-Valença do Piauí,2020-06-07,nowcast,1.6,0.5,2.8,1.1,1.9,0.14
-PI-Valença do Piauí,2020-06-08,nowcast,1.6,0.7,2.7,1.2,1.9,0.11
-PI-Valença do Piauí,2020-06-09,nowcast,1.6,0.7,2.7,1.1,1.9,0.1
-PI-Valença do Piauí,2020-06-10,nowcast,1.6,0.7,2.6,1.2,1.9,0.1
-PI-Valença do Piauí,2020-06-11,nowcast,1.6,0.8,2.5,1.1,1.8,0.1
-PI-Valença do Piauí,2020-06-12,nowcast,1.5,0.8,2.4,1.2,1.8,0.1
-PI-Valença do Piauí,2020-06-13,nowcast,1.4,0.8,2.2,1.1,1.7,0.13
-PI-Valença do Piauí,2020-06-14,nowcast,1.4,0.7,2.1,1.1,1.6,0.15
+PI-Uruçuí,2020-07-11,nowcast,1,0.7,1.3,0.9,1.1,0.41
+PI-Uruçuí,2020-07-12,nowcast,1,0.7,1.4,0.9,1.2,0.4
+PI-Uruçuí,2020-07-13,nowcast,1.1,0.7,1.4,0.9,1.2,0.37
+PI-Uruçuí,2020-07-14,nowcast,1.1,0.7,1.4,0.9,1.2,0.32
+PI-Uruçuí,2020-07-15,nowcast,1.1,0.8,1.5,0.9,1.2,0.25
+PI-Uruçuí,2020-07-16,nowcast,1.2,0.8,1.6,1,1.3,0.2
+PI-Uruçuí,2020-07-17,forecast,1.1,0.7,1.6,0.9,1.3,0.28
+PI-Uruçuí,2020-07-18,forecast,1.1,0.7,1.7,1,1.3,0.3
+PI-Uruçuí,2020-07-19,forecast,1.1,0.6,1.6,0.9,1.3,0.3
+PI-Uruçuí,2020-07-20,forecast,1.1,0.6,1.7,0.9,1.3,0.31
+PI-Uruçuí,2020-07-21,forecast,1.1,0.6,1.7,0.9,1.3,0.32
+PI-Uruçuí,2020-07-22,forecast,1.1,0.6,1.7,0.9,1.4,0.33
+PI-Uruçuí,2020-07-23,forecast,1.1,0.6,1.8,0.9,1.3,0.34
+PI-Uruçuí,2020-07-24,forecast,1.1,0.5,1.7,0.9,1.4,0.35
+PI-Uruçuí,2020-07-25,forecast,1.1,0.5,1.8,0.9,1.3,0.36
+PI-Uruçuí,2020-07-26,forecast,1.1,0.5,1.8,0.9,1.4,0.36
+PI-Uruçuí,2020-07-27,forecast,1.1,0.5,1.8,0.9,1.4,0.36
+PI-Uruçuí,2020-07-28,forecast,1.1,0.4,1.8,0.9,1.4,0.37
+PI-Uruçuí,2020-07-29,forecast,1.1,0.4,1.9,0.9,1.4,0.37
+PI-Uruçuí,2020-07-30,forecast,1.1,0.5,1.8,0.9,1.4,0.37
+PI-Valença do Piauí,2020-05-26,nowcast,1.1,0.1,2.1,0.6,1.3,0.43
+PI-Valença do Piauí,2020-05-27,nowcast,1.1,0.1,2.1,0.6,1.4,0.44
+PI-Valença do Piauí,2020-05-28,nowcast,1.1,0.2,2.2,0.5,1.3,0.46
+PI-Valença do Piauí,2020-05-29,nowcast,1.1,0.2,2.1,0.5,1.3,0.46
+PI-Valença do Piauí,2020-05-30,nowcast,1,0.1,2.1,0.4,1.2,0.49
+PI-Valença do Piauí,2020-05-31,nowcast,1.1,0.2,2.2,0.6,1.4,0.43
+PI-Valença do Piauí,2020-06-01,nowcast,1.2,0.2,2.3,0.7,1.4,0.39
+PI-Valença do Piauí,2020-06-02,nowcast,1.2,0.2,2.5,0.6,1.5,0.34
+PI-Valença do Piauí,2020-06-03,nowcast,1.3,0.3,2.6,0.8,1.6,0.27
+PI-Valença do Piauí,2020-06-04,nowcast,1.4,0.4,2.7,0.9,1.7,0.23
+PI-Valença do Piauí,2020-06-05,nowcast,1.5,0.5,2.8,0.9,1.7,0.19
+PI-Valença do Piauí,2020-06-06,nowcast,1.5,0.5,2.7,1,1.8,0.15
+PI-Valença do Piauí,2020-06-07,nowcast,1.6,0.6,2.7,1.1,1.8,0.12
+PI-Valença do Piauí,2020-06-08,nowcast,1.6,0.6,2.6,1.1,1.9,0.12
+PI-Valença do Piauí,2020-06-09,nowcast,1.6,0.7,2.6,1.1,1.8,0.11
+PI-Valença do Piauí,2020-06-10,nowcast,1.6,0.7,2.5,1.1,1.8,0.09
+PI-Valença do Piauí,2020-06-11,nowcast,1.6,0.8,2.4,1.2,1.8,0.09
+PI-Valença do Piauí,2020-06-12,nowcast,1.5,0.7,2.3,1.1,1.7,0.1
+PI-Valença do Piauí,2020-06-13,nowcast,1.4,0.7,2.2,1.2,1.7,0.12
+PI-Valença do Piauí,2020-06-14,nowcast,1.4,0.8,2.1,1.1,1.6,0.13
 PI-Valença do Piauí,2020-06-15,nowcast,1.3,0.7,2,1,1.5,0.17
-PI-Valença do Piauí,2020-06-16,nowcast,1.3,0.7,1.8,1,1.4,0.2
-PI-Valença do Piauí,2020-06-17,nowcast,1.2,0.6,1.7,1,1.4,0.28
-PI-Valença do Piauí,2020-06-18,nowcast,1.1,0.6,1.7,0.9,1.3,0.33
-PI-Valença do Piauí,2020-06-19,nowcast,1.1,0.6,1.6,0.9,1.2,0.37
-PI-Valença do Piauí,2020-06-20,nowcast,1.1,0.6,1.6,0.9,1.3,0.39
-PI-Valença do Piauí,2020-06-21,nowcast,1.1,0.6,1.5,0.9,1.2,0.4
-PI-Valença do Piauí,2020-06-22,nowcast,1,0.6,1.5,0.8,1.2,0.42
-PI-Valença do Piauí,2020-06-23,nowcast,1,0.5,1.5,0.8,1.2,0.47
-PI-Valença do Piauí,2020-06-24,nowcast,1,0.6,1.5,0.8,1.1,0.53
-PI-Valença do Piauí,2020-06-25,nowcast,0.9,0.5,1.4,0.8,1.1,0.59
-PI-Valença do Piauí,2020-06-26,nowcast,0.9,0.4,1.3,0.8,1.1,0.68
-PI-Valença do Piauí,2020-06-27,nowcast,0.8,0.4,1.2,0.6,1,0.78
-PI-Valença do Piauí,2020-06-28,nowcast,0.7,0.3,1.1,0.5,0.9,0.85
-PI-Valença do Piauí,2020-06-29,nowcast,0.7,0.2,1.1,0.5,0.9,0.86
-PI-Valença do Piauí,2020-06-30,nowcast,0.7,0.2,1.2,0.5,0.9,0.84
+PI-Valença do Piauí,2020-06-16,nowcast,1.2,0.6,1.8,1,1.5,0.23
+PI-Valença do Piauí,2020-06-17,nowcast,1.2,0.6,1.7,0.9,1.4,0.27
+PI-Valença do Piauí,2020-06-18,nowcast,1.1,0.6,1.6,0.9,1.3,0.34
+PI-Valença do Piauí,2020-06-19,nowcast,1.1,0.6,1.6,0.9,1.3,0.35
+PI-Valença do Piauí,2020-06-20,nowcast,1.1,0.6,1.5,0.9,1.2,0.4
+PI-Valença do Piauí,2020-06-21,nowcast,1.1,0.6,1.5,0.8,1.2,0.4
+PI-Valença do Piauí,2020-06-22,nowcast,1,0.6,1.5,0.8,1.2,0.43
+PI-Valença do Piauí,2020-06-23,nowcast,1,0.6,1.5,0.8,1.2,0.45
+PI-Valença do Piauí,2020-06-24,nowcast,1,0.6,1.5,0.8,1.2,0.5
+PI-Valença do Piauí,2020-06-25,nowcast,0.9,0.5,1.4,0.7,1.1,0.58
+PI-Valença do Piauí,2020-06-26,nowcast,0.9,0.4,1.3,0.7,1.1,0.68
+PI-Valença do Piauí,2020-06-27,nowcast,0.8,0.3,1.2,0.6,1,0.78
+PI-Valença do Piauí,2020-06-28,nowcast,0.7,0.3,1.1,0.6,0.9,0.86
+PI-Valença do Piauí,2020-06-29,nowcast,0.7,0.3,1.1,0.6,0.9,0.87
+PI-Valença do Piauí,2020-06-30,nowcast,0.7,0.2,1.2,0.6,0.9,0.84
 PI-Valença do Piauí,2020-07-01,nowcast,0.8,0.3,1.4,0.5,0.9,0.75
-PI-Valença do Piauí,2020-07-02,nowcast,0.9,0.3,1.6,0.6,1,0.63
-PI-Valença do Piauí,2020-07-03,nowcast,1,0.4,1.8,0.6,1.1,0.51
-PI-Valença do Piauí,2020-07-04,nowcast,1.2,0.6,2.1,0.8,1.4,0.34
-PI-Valença do Piauí,2020-07-05,nowcast,1.3,0.6,2.1,0.9,1.4,0.25
-PI-Valença do Piauí,2020-07-06,nowcast,1.4,0.7,2.2,1.1,1.6,0.14
-PI-Valença do Piauí,2020-07-07,nowcast,1.5,0.8,2.2,1.1,1.6,0.09
-PI-Valença do Piauí,2020-07-08,nowcast,1.5,0.9,2.2,1.2,1.6,0.06
-PI-Valença do Piauí,2020-07-09,nowcast,1.5,0.9,2.1,1.2,1.6,0.05
-PI-Valença do Piauí,2020-07-10,nowcast,1.5,0.9,2.1,1.3,1.7,0.06
-PI-Valença do Piauí,2020-07-11,nowcast,1.5,1,2,1.3,1.7,0.06
-PI-Valença do Piauí,2020-07-12,nowcast,1.5,0.9,2,1.2,1.6,0.06
-PI-Valença do Piauí,2020-07-13,nowcast,1.5,0.9,2,1.3,1.6,0.06
-PI-Valença do Piauí,2020-07-14,nowcast,1.5,1,2,1.2,1.6,0.05
-PI-Valença do Piauí,2020-07-15,forecast,1.5,0.7,2.2,1.1,1.7,0.13
-PI-Valença do Piauí,2020-07-16,forecast,1.5,0.6,2.4,1.1,1.8,0.17
-PI-Valença do Piauí,2020-07-17,forecast,1.5,0.5,2.5,1.1,1.9,0.19
-PI-Valença do Piauí,2020-07-18,forecast,1.5,0.4,2.6,1,1.9,0.2
-PI-Valença do Piauí,2020-07-19,forecast,1.5,0.3,2.7,1,1.9,0.23
-PI-Valença do Piauí,2020-07-20,forecast,1.5,0.3,2.8,1,2,0.23
-PI-Valença do Piauí,2020-07-21,forecast,1.5,0,2.5,1,2,0.24
-PI-Valença do Piauí,2020-07-22,forecast,1.5,0,2.6,0.9,2,0.25
-PI-Valença do Piauí,2020-07-23,forecast,1.5,0,2.6,1,2.1,0.26
-PI-Valença do Piauí,2020-07-24,forecast,1.5,0,2.7,1,2.1,0.27
-PI-Valença do Piauí,2020-07-25,forecast,1.5,0,2.8,1,2.2,0.28
-PI-Valença do Piauí,2020-07-26,forecast,1.5,0,2.8,0.9,2.2,0.28
-PI-Valença do Piauí,2020-07-27,forecast,1.6,0,2.9,1,2.3,0.28
-PI-Valença do Piauí,2020-07-28,forecast,1.5,0,2.9,0.9,2.2,0.29
+PI-Valença do Piauí,2020-07-02,nowcast,0.9,0.3,1.5,0.6,1,0.65
+PI-Valença do Piauí,2020-07-03,nowcast,1,0.4,1.8,0.6,1.1,0.5
+PI-Valença do Piauí,2020-07-04,nowcast,1.1,0.5,2,0.8,1.3,0.35
+PI-Valença do Piauí,2020-07-05,nowcast,1.3,0.6,2.1,0.9,1.4,0.24
+PI-Valença do Piauí,2020-07-06,nowcast,1.4,0.7,2.1,1,1.5,0.16
+PI-Valença do Piauí,2020-07-07,nowcast,1.4,0.8,2.2,1.1,1.6,0.09
+PI-Valença do Piauí,2020-07-08,nowcast,1.4,0.9,2.2,1.1,1.6,0.08
+PI-Valença do Piauí,2020-07-09,nowcast,1.5,0.8,2.1,1.2,1.6,0.08
+PI-Valença do Piauí,2020-07-10,nowcast,1.4,0.9,2,1.1,1.6,0.08
+PI-Valença do Piauí,2020-07-11,nowcast,1.4,0.9,2,1.2,1.6,0.08
+PI-Valença do Piauí,2020-07-12,nowcast,1.4,0.8,1.9,1.2,1.6,0.09
+PI-Valença do Piauí,2020-07-13,nowcast,1.4,0.9,1.9,1.1,1.5,0.09
+PI-Valença do Piauí,2020-07-14,nowcast,1.3,0.9,1.9,1.1,1.5,0.12
+PI-Valença do Piauí,2020-07-15,nowcast,1.3,0.8,1.8,1.1,1.5,0.13
+PI-Valença do Piauí,2020-07-16,nowcast,1.3,0.8,1.8,1.1,1.4,0.15
+PI-Valença do Piauí,2020-07-17,forecast,1.3,0.6,2.1,1,1.6,0.22
+PI-Valença do Piauí,2020-07-18,forecast,1.3,0.4,2.1,1,1.6,0.26
+PI-Valença do Piauí,2020-07-19,forecast,1.3,0.4,2.3,0.9,1.6,0.27
+PI-Valença do Piauí,2020-07-20,forecast,1.3,0,2.1,0.9,1.7,0.3
+PI-Valença do Piauí,2020-07-21,forecast,1.3,0,2.2,0.8,1.7,0.3
+PI-Valença do Piauí,2020-07-22,forecast,1.3,0,2.3,0.9,1.8,0.3
+PI-Valença do Piauí,2020-07-23,forecast,1.3,0,2.3,0.9,1.8,0.31
+PI-Valença do Piauí,2020-07-24,forecast,1.4,0,2.3,0.9,1.9,0.31
+PI-Valença do Piauí,2020-07-25,forecast,1.4,0,2.4,0.8,1.9,0.32
+PI-Valença do Piauí,2020-07-26,forecast,1.4,0,2.5,0.9,2,0.33
+PI-Valença do Piauí,2020-07-27,forecast,1.4,0,2.5,0.7,1.9,0.33
+PI-Valença do Piauí,2020-07-28,forecast,1.4,0,2.5,0.7,1.9,0.34
+PI-Valença do Piauí,2020-07-29,forecast,1.4,0,2.6,0.6,1.9,0.35
+PI-Valença do Piauí,2020-07-30,forecast,1.4,0,2.7,0.7,2,0.33
