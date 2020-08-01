@@ -65,7 +65,7 @@ bin/update_posts.sh &
 ###################### Nowcast for PE cities ######################
 cd $ROOT_DIR/_nowcasts/covid-regional
 echo "Starting nowcast for PE cities at `date`"
-./update_nowcasts_state_cities.sh PE 30
+./update_nowcasts_state_cities.sh PE 
 
 cd $ROOT_DIR
 echo "Updating posts and pushing to github at `date`"
