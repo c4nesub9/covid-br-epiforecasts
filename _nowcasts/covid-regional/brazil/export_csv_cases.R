@@ -52,6 +52,19 @@ for (region in regions) {
 
 output_cases_summary_csv <- file.path(summary_dir, "cases_nowcast_forecast.csv")
 output_rt_summary_csv <- file.path(summary_dir, "rt_nowcast_forecast.csv")
-print(paste("exporting summary at", output_cases_summary_csv, "and", output_rt_summary_csv))
 write.csv(cases_all, output_cases_summary_csv, row.names = FALSE)
 write.csv(rt_all, output_rt_summary_csv, row.names = FALSE)
+
+output_summary_table_csv <- file.path(summary_dir, "summary_table.csv")
+summary_table <- file.path(summary_dir, "summary_table.rds") %>%
+  readRDS()
+write.csv(summary_table, output_summary_table_csv, row.names = FALSE)
+
+output_summary_data_csv <- file.path(summary_dir, "summary_data.csv")
+summary_data <- file.path(summary_dir, "summary_data.rds") %>%
+  readRDS()
+write.csv(summary_data, output_summary_data_csv, row.names = FALSE)
+
+print(paste("exporting summary at", output_cases_summary_csv,
+            output_rt_summary_csv, output_summary_table_csv,
+            "and", output_summary_data_csv))
