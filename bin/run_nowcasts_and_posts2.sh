@@ -29,7 +29,6 @@ echo "Starting nowcast for SE cities at `date`"
 
 ###################### Nowcast for PB and AL cities ######################
 cd $ROOT_DIR/_nowcasts/covid-regional
-
 echo "Starting nowcast for AL cities at `date`"
 ./update_nowcasts_state_cities.sh AL
 
@@ -37,6 +36,7 @@ cd $ROOT_DIR
 echo "Updating posts and pushing to github at `date`"
 bin/update_posts.sh &
 
+cd $ROOT_DIR/_nowcasts/covid-regional
 echo "Starting nowcast for PB cities at `date`"
 ./update_nowcasts_state_cities.sh PB
 
@@ -73,7 +73,6 @@ bin/update_posts.sh &
 
 ###################### Nowcast for MA and RN cities ######################
 cd $ROOT_DIR/_nowcasts/covid-regional
-
 echo "Starting nowcast for MA cities at `date`"
 ./update_nowcasts_state_cities.sh MA
 
@@ -85,13 +84,13 @@ echo "Updating posts and pushing to github at `date`"
 bin/update_posts.sh &
 
 ################# Deaths nowcast for NE cities and states ###################
-cd $ROOT_DIR/_nowcasts/covid-regional
-echo "Starting deaths nowcast for states at `date`"
+#cd $ROOT_DIR/_nowcasts/covid-regional
+#echo "Starting deaths nowcast for states at `date`"
 #./update_deaths_nowcasts_cities.sh
-./update_deaths_nowcasts.sh
+#./update_deaths_nowcasts.sh
 
-cd $ROOT_DIR
-echo "Updating posts and pushing to github at `date`"
-bin/update_posts.sh
+#cd $ROOT_DIR
+#echo "Updating posts and pushing to github at `date`"
+#bin/update_posts.sh
 
 echo "Finished nowcast execution at `date`"
