@@ -19,8 +19,8 @@ ncores <- ifelse(length(argv) >= 3, as.integer(argv[3]), future::availableCores(
 # Get cases ---------------------------------------------------------------
 
 min_total_cases <- 300
-min_forecast_cases <- 50
-case_limit <- 10
+min_forecast_cases <- 100 
+case_limit <- 20
 
 NCoVUtils::reset_cache()
 cases <- NCoVUtils::get_brazil_regional_cases(geography = "municipalities") %>%
