@@ -243,154 +243,141 @@
 "PI-Água Branca",2020-08-03,"forecast",0,28,0,10,10,13.467
 "PI-Água Branca",2020-08-04,"forecast",0,28,0,9,9,13.7244
 "PI-Água Branca",2020-08-05,"forecast",0,29,0,9,9,14.0932
-"PI-Altos",2020-02-28,"nowcast",1,1,1,1,1,1
-"PI-Altos",2020-02-29,"nowcast",0,0,0,0,0,0
-"PI-Altos",2020-03-01,"nowcast",0,0,0,0,0,0
-"PI-Altos",2020-03-02,"nowcast",0,0,0,0,0,0
-"PI-Altos",2020-03-03,"nowcast",0,0,0,0,0,0
-"PI-Altos",2020-03-04,"nowcast",1,1,1,1,1,1
-"PI-Altos",2020-03-05,"nowcast",1,1,1,1,1,1
-"PI-Altos",2020-03-06,"nowcast",0,0,0,0,0,0
-"PI-Altos",2020-03-07,"nowcast",0,1,0,1,0.5,0.5
-"PI-Altos",2020-03-08,"nowcast",0,1,0,1,0.5,0.5
-"PI-Altos",2020-03-09,"nowcast",0,0,0,0,0,0
-"PI-Altos",2020-03-10,"nowcast",0,0,0,0,0,0
-"PI-Altos",2020-03-11,"nowcast",0,0,0,0,0,0
-"PI-Altos",2020-03-12,"nowcast",0,0,0,0,0,0
-"PI-Altos",2020-03-13,"nowcast",0,0,0,0,0,0
-"PI-Altos",2020-03-14,"nowcast",0,1,0,0,0,0.333333333333333
-"PI-Altos",2020-03-15,"nowcast",0,0,0,0,0,0
-"PI-Altos",2020-03-16,"nowcast",0,1,0,1,0.5,0.5
+"PI-Altos",2020-03-13,"nowcast",1,1,1,1,1,1
+"PI-Altos",2020-03-14,"nowcast",0,1,1,1,1,0.666666666666667
+"PI-Altos",2020-03-15,"nowcast",0,1,0,0,0,0.25
+"PI-Altos",2020-03-16,"nowcast",0,1,0,0,0,0.2
 "PI-Altos",2020-03-17,"nowcast",0,0,0,0,0,0
-"PI-Altos",2020-03-18,"nowcast",0,0,0,0,0,0
-"PI-Altos",2020-03-19,"nowcast",0,0,0,0,0,0
-"PI-Altos",2020-03-20,"nowcast",0,1,0,0,0,0.444444444444444
-"PI-Altos",2020-03-21,"nowcast",0,1,0,1,0.5,0.5
-"PI-Altos",2020-03-22,"nowcast",0,1,0,0,0,0.1875
-"PI-Altos",2020-03-23,"nowcast",0,1,0,0,0,0.391304347826087
-"PI-Altos",2020-03-24,"nowcast",0,1,0,0,0,0.387096774193548
-"PI-Altos",2020-03-25,"nowcast",0,1,0,0,0,0.189189189189189
-"PI-Altos",2020-03-26,"nowcast",0,1,0,0,0,0.36
-"PI-Altos",2020-03-27,"nowcast",0,1,0,0,0,0.290322580645161
-"PI-Altos",2020-03-28,"nowcast",0,1,0,0,0,0.352941176470588
-"PI-Altos",2020-03-29,"nowcast",0,1,0,0,0,0.224299065420561
-"PI-Altos",2020-03-30,"nowcast",0,1,0,0,0,0.266187050359712
-"PI-Altos",2020-03-31,"nowcast",0,1,0,0,0,0.226744186046512
-"PI-Altos",2020-04-01,"nowcast",0,1,0,0,0,0.184615384615385
-"PI-Altos",2020-04-02,"nowcast",0,1,0,0,0,0.285123966942149
-"PI-Altos",2020-04-03,"nowcast",0,1,0,0,0,0.315960912052117
-"PI-Altos",2020-04-04,"nowcast",0,1,0,0,0,0.242424242424242
-"PI-Altos",2020-04-05,"nowcast",0,1,0,0,0,0.26555023923445
-"PI-Altos",2020-04-06,"nowcast",0,1,0,0,0,0.243186582809224
-"PI-Altos",2020-04-07,"nowcast",0,1,0,0,0,0.259668508287293
-"PI-Altos",2020-04-08,"nowcast",0,1,0,0,0,0.260296540362438
-"PI-Altos",2020-04-09,"nowcast",0,1,0,0,0,0.293768545994065
-"PI-Altos",2020-04-10,"nowcast",0,1,0,0,0,0.251700680272109
-"PI-Altos",2020-04-11,"nowcast",0,1,0,0,0,0.268983268983269
-"PI-Altos",2020-04-12,"nowcast",0,1,0,0,0,0.245398773006135
-"PI-Altos",2020-04-13,"nowcast",0,1,0,0,0,0.28232502965599
-"PI-Altos",2020-04-14,"nowcast",0,1,0,0,0,0.260227272727273
-"PI-Altos",2020-04-15,"nowcast",0,1,0,0,0,0.356673960612691
-"PI-Altos",2020-04-16,"nowcast",0,1,0,0,0,0.417025862068966
-"PI-Altos",2020-04-17,"nowcast",0,1,0,0,0,0.542948038176034
-"PI-Altos",2020-04-18,"nowcast",0,2,0,0,0,0.583075335397317
-"PI-Altos",2020-04-19,"nowcast",0,2,0,0,0,0.645259938837921
-"PI-Altos",2020-04-20,"nowcast",0,2,0,1,1,0.752016129032258
-"PI-Altos",2020-04-21,"nowcast",0,2,0,1,1,0.886546184738956
-"PI-Altos",2020-04-22,"nowcast",0,2,0,1,1,1.028
-"PI-Altos",2020-04-23,"nowcast",0,2,0,1,1,1.09
-"PI-Altos",2020-04-24,"nowcast",0,2,0,1,1,1.147
-"PI-Altos",2020-04-25,"nowcast",0,2,0,1,1,1.191
-"PI-Altos",2020-04-26,"nowcast",0,3,0,1,1,1.21
-"PI-Altos",2020-04-27,"nowcast",0,2,0,1,1,1.11
-"PI-Altos",2020-04-28,"nowcast",0,2,0,1,1,1.028
-"PI-Altos",2020-04-29,"nowcast",0,2,0,1,1,0.963
-"PI-Altos",2020-04-30,"nowcast",0,2,0,1,1,0.942
-"PI-Altos",2020-05-01,"nowcast",0,2,0,1,1,0.965
-"PI-Altos",2020-05-02,"nowcast",0,2,0,1,1,1.055
-"PI-Altos",2020-05-03,"nowcast",0,3,0,1,1,1.192
-"PI-Altos",2020-05-04,"nowcast",0,3,0,1,1,1.282
-"PI-Altos",2020-05-05,"nowcast",0,3,0,1,1,1.484
-"PI-Altos",2020-05-06,"nowcast",0,3,0,1,1,1.569
-"PI-Altos",2020-05-07,"nowcast",0,3,0,1,1,1.62
-"PI-Altos",2020-05-08,"nowcast",0,3,1,2,2,1.719
-"PI-Altos",2020-05-09,"nowcast",0,4,1,2,2,1.822
-"PI-Altos",2020-05-10,"nowcast",0,4,1,2,2,1.902
-"PI-Altos",2020-05-11,"nowcast",0,4,1,2,2,2.066
-"PI-Altos",2020-05-12,"nowcast",0,4,1,2,2,2.238
-"PI-Altos",2020-05-13,"nowcast",0,5,0,2,2,2.457
-"PI-Altos",2020-05-14,"nowcast",0,5,0,2,2,2.687
-"PI-Altos",2020-05-15,"nowcast",0,5,1,3,3,2.914
-"PI-Altos",2020-05-16,"nowcast",1,6,1,3,3,3.325
-"PI-Altos",2020-05-17,"nowcast",1,6,2,4,3,3.554
-"PI-Altos",2020-05-18,"nowcast",1,7,2,4,4,3.893
-"PI-Altos",2020-05-19,"nowcast",1,7,2,4,4,4.29
-"PI-Altos",2020-05-20,"nowcast",2,8,3,5,5,4.823
-"PI-Altos",2020-05-21,"nowcast",1,8,2,5,5,5.171
-"PI-Altos",2020-05-22,"nowcast",2,9,2,5,5,5.58
-"PI-Altos",2020-05-23,"nowcast",2,9,3,6,6,5.718
-"PI-Altos",2020-05-24,"nowcast",3,10,3,6,6,6.145
-"PI-Altos",2020-05-25,"nowcast",3,10,4,7,6,6.53
-"PI-Altos",2020-05-26,"nowcast",2,10,4,7,7,6.901
-"PI-Altos",2020-05-27,"nowcast",3,11,5,8,7,7.386
-"PI-Altos",2020-05-28,"nowcast",4,12,5,8,8,7.935
-"PI-Altos",2020-05-29,"nowcast",4,12,6,9,8,8.278
-"PI-Altos",2020-05-30,"nowcast",3,12,6,9,8.5,8.71
-"PI-Altos",2020-05-31,"nowcast",4,13,7,10,9,8.961
-"PI-Altos",2020-06-01,"nowcast",3,13,6,10,9,9.327
-"PI-Altos",2020-06-02,"nowcast",5,14,6,10,9,9.675
-"PI-Altos",2020-06-03,"nowcast",5,15,6,10,10,10.282
-"PI-Altos",2020-06-04,"nowcast",5,15,7,11,11,10.844
-"PI-Altos",2020-06-05,"nowcast",5,16,8,12,12,11.64
-"PI-Altos",2020-06-06,"nowcast",6,17,9,13,12,12.257
-"PI-Altos",2020-06-07,"nowcast",6,17,10,14,13,12.695
-"PI-Altos",2020-06-08,"nowcast",7,18,11,15,13,13.421
-"PI-Altos",2020-06-09,"nowcast",8,19,12,16,14,13.855
-"PI-Altos",2020-06-10,"nowcast",7,19,11,15,14,14.258
-"PI-Altos",2020-06-11,"nowcast",9,20,11,15,14,14.379
-"PI-Altos",2020-06-12,"nowcast",8,19,12,16,14,14.207
-"PI-Altos",2020-06-13,"nowcast",8,19,11,15,14,14.07
-"PI-Altos",2020-06-14,"nowcast",7,18,11,15,13,13.636
-"PI-Altos",2020-06-15,"nowcast",7,19,9,14,13,13.415
-"PI-Altos",2020-06-16,"nowcast",7,18,10,14,13,12.919
-"PI-Altos",2020-06-17,"nowcast",8,18,9,13,13,13.146
-"PI-Altos",2020-06-18,"nowcast",7,18,10,14,13,13.055
-"PI-Altos",2020-06-19,"nowcast",6,18,10,14,13,13.334
-"PI-Altos",2020-06-20,"nowcast",7,18,11,15,14,13.677
-"PI-Altos",2020-06-21,"nowcast",8,19,11,15,14,13.975
-"PI-Altos",2020-06-22,"nowcast",9,20,11,15,14,14.534
-"PI-Altos",2020-06-23,"nowcast",9,21,11,16,15,15.02
-"PI-Altos",2020-06-24,"nowcast",9,21,11,16,16,15.796
-"PI-Altos",2020-06-25,"nowcast",9,21,12,17,16,16.1
-"PI-Altos",2020-06-26,"nowcast",10,22,12,17,16,16.268
-"PI-Altos",2020-06-27,"nowcast",9,22,12,17,16,16.525
-"PI-Altos",2020-06-28,"nowcast",10,22,12,17,16,16.368
-"PI-Altos",2020-06-29,"nowcast",10,22,12,17,16,16.188
-"PI-Altos",2020-06-30,"nowcast",9,22,12,17,16,16.019
-"PI-Altos",2020-07-01,"nowcast",10,22,12,17,16,16.079
-"PI-Altos",2020-07-02,"nowcast",9,21,12,17,16,16.224
-"PI-Altos",2020-07-03,"nowcast",10,22,14,18,16,16.424
-"PI-Altos",2020-07-04,"nowcast",9,22,12,17,16,16.106
-"PI-Altos",2020-07-05,"nowcast",10,22,14,18,16,15.867
-"PI-Altos",2020-07-06,"nowcast",10,22,11,16,16,15.918
-"PI-Altos",2020-07-07,"nowcast",11,23,13,17,16,16.113
-"PI-Altos",2020-07-08,"nowcast",9,22,12,17,16,16.293
-"PI-Altos",2020-07-09,"nowcast",10,22,12,17,16,16.578
-"PI-Altos",2020-07-10,"nowcast",9,23,13,18,17,17.088
-"PI-Altos",2020-07-11,"nowcast",11,23,13,18,17,17.315
-"PI-Altos",2020-07-12,"nowcast",10,23,13,18,17,17.47
-"PI-Altos",2020-07-13,"nowcast",11,24,14,19,17,17.386
-"PI-Altos",2020-07-14,"nowcast",11,24,14,19,18,17.882
-"PI-Altos",2020-07-15,"nowcast",11,24,14,19,18,18.419
-"PI-Altos",2020-07-16,"nowcast",13,26,16,21,19,19.145
-"PI-Altos",2020-07-17,"nowcast",13,26,16,21,20,19.801
-"PI-Altos",2020-07-18,"nowcast",13,27,14,20,20,20.057
-"PI-Altos",2020-07-19,"nowcast",12,26,16,21,20,19.967
-"PI-Altos",2020-07-20,"nowcast",12,26,15,21,20,20.036
-"PI-Altos",2020-07-21,"nowcast",12,27,15,21,21,20.63
-"PI-Altos",2020-07-22,"nowcast",14,29,16,22,21,21.425
-"PI-Altos",2020-07-23,"nowcast",13,29,18,24,22,21.765
-"PI-Altos",2020-07-24,"nowcast",12,29,17,23,22,21.797
+"PI-Altos",2020-03-18,"nowcast",0,1,0,0,0,0.375
+"PI-Altos",2020-03-19,"nowcast",0,1,0,0,0,0.363636363636364
+"PI-Altos",2020-03-20,"nowcast",0,1,0,0,0,0.153846153846154
+"PI-Altos",2020-03-21,"nowcast",0,1,0,0,0,0.2
+"PI-Altos",2020-03-22,"nowcast",0,1,0,0,0,0.25
+"PI-Altos",2020-03-23,"nowcast",0,1,0,0,0,0.24
+"PI-Altos",2020-03-24,"nowcast",0,1,0,0,0,0.333333333333333
+"PI-Altos",2020-03-25,"nowcast",0,1,0,0,0,0.311111111111111
+"PI-Altos",2020-03-26,"nowcast",0,1,0,0,0,0.25
+"PI-Altos",2020-03-27,"nowcast",0,1,0,0,0,0.267605633802817
+"PI-Altos",2020-03-28,"nowcast",0,1,0,0,0,0.269662921348315
+"PI-Altos",2020-03-29,"nowcast",0,1,0,0,0,0.214953271028037
+"PI-Altos",2020-03-30,"nowcast",0,1,0,0,0,0.2265625
+"PI-Altos",2020-03-31,"nowcast",0,1,0,0,0,0.254658385093168
+"PI-Altos",2020-04-01,"nowcast",0,1,0,0,0,0.27319587628866
+"PI-Altos",2020-04-02,"nowcast",0,1,0,0,0,0.231759656652361
+"PI-Altos",2020-04-03,"nowcast",0,1,0,0,0,0.261484098939929
+"PI-Altos",2020-04-04,"nowcast",0,1,0,0,0,0.244776119402985
+"PI-Altos",2020-04-05,"nowcast",0,1,0,0,0,0.265151515151515
+"PI-Altos",2020-04-06,"nowcast",0,1,0,0,0,0.296680497925311
+"PI-Altos",2020-04-07,"nowcast",0,1,0,0,0,0.244525547445255
+"PI-Altos",2020-04-08,"nowcast",0,1,0,0,0,0.287735849056604
+"PI-Altos",2020-04-09,"nowcast",0,1,0,0,0,0.268847795163585
+"PI-Altos",2020-04-10,"nowcast",0,1,0,0,0,0.258666666666667
+"PI-Altos",2020-04-11,"nowcast",0,1,0,0,0,0.241687979539642
+"PI-Altos",2020-04-12,"nowcast",0,1,0,0,0,0.267965895249695
+"PI-Altos",2020-04-13,"nowcast",0,1,0,0,0,0.255924170616114
+"PI-Altos",2020-04-14,"nowcast",0,1,0,0,0,0.310623556581986
+"PI-Altos",2020-04-15,"nowcast",0,1,0,0,0,0.344904815229563
+"PI-Altos",2020-04-16,"nowcast",0,1,0,0,0,0.477644492911668
+"PI-Altos",2020-04-17,"nowcast",0,1,0,0,0,0.528221512247071
+"PI-Altos",2020-04-18,"nowcast",0,2,0,0,0,0.586099585062241
+"PI-Altos",2020-04-19,"nowcast",0,2,0,1,1,0.707566462167689
+"PI-Altos",2020-04-20,"nowcast",0,2,0,1,1,0.822515212981744
+"PI-Altos",2020-04-21,"nowcast",0,2,0,1,1,0.882293762575453
+"PI-Altos",2020-04-22,"nowcast",0,2,0,1,1,0.960804020100502
+"PI-Altos",2020-04-23,"nowcast",0,2,0,1,1,1.04004004004004
+"PI-Altos",2020-04-24,"nowcast",0,2,0,1,1,1.14
+"PI-Altos",2020-04-25,"nowcast",0,3,0,1,1,1.152
+"PI-Altos",2020-04-26,"nowcast",0,3,0,1,1,1.18
+"PI-Altos",2020-04-27,"nowcast",0,3,0,1,1,1.138
+"PI-Altos",2020-04-28,"nowcast",0,2,0,1,1,1.016
+"PI-Altos",2020-04-29,"nowcast",0,2,0,1,1,0.934
+"PI-Altos",2020-04-30,"nowcast",0,2,0,1,1,0.991
+"PI-Altos",2020-05-01,"nowcast",0,2,0,1,1,0.982
+"PI-Altos",2020-05-02,"nowcast",0,2,0,1,1,1.109
+"PI-Altos",2020-05-03,"nowcast",0,3,0,1,1,1.202
+"PI-Altos",2020-05-04,"nowcast",0,3,0,1,1,1.366
+"PI-Altos",2020-05-05,"nowcast",0,3,0,1,1,1.423
+"PI-Altos",2020-05-06,"nowcast",0,3,0,1,1,1.64
+"PI-Altos",2020-05-07,"nowcast",0,3,0,1,1,1.624
+"PI-Altos",2020-05-08,"nowcast",0,4,0,1,1,1.709
+"PI-Altos",2020-05-09,"nowcast",0,4,1,2,2,1.852
+"PI-Altos",2020-05-10,"nowcast",0,4,1,2,2,1.881
+"PI-Altos",2020-05-11,"nowcast",0,4,1,2,2,2.117
+"PI-Altos",2020-05-12,"nowcast",0,4,1,2,2,2.207
+"PI-Altos",2020-05-13,"nowcast",0,4,0,2,2,2.371
+"PI-Altos",2020-05-14,"nowcast",0,5,0,2,2,2.611
+"PI-Altos",2020-05-15,"nowcast",0,5,1,3,3,3.046
+"PI-Altos",2020-05-16,"nowcast",1,6,1,3,3,3.342
+"PI-Altos",2020-05-17,"nowcast",1,6,2,4,3,3.659
+"PI-Altos",2020-05-18,"nowcast",1,7,2,4,4,3.996
+"PI-Altos",2020-05-19,"nowcast",1,7,2,4,4,4.346
+"PI-Altos",2020-05-20,"nowcast",1,8,3,5,5,4.872
+"PI-Altos",2020-05-21,"nowcast",2,8,2,5,5,5.253
+"PI-Altos",2020-05-22,"nowcast",2,9,4,6,5,5.51
+"PI-Altos",2020-05-23,"nowcast",2,9,4,6,6,5.726
+"PI-Altos",2020-05-24,"nowcast",2,10,3,6,6,6.131
+"PI-Altos",2020-05-25,"nowcast",2,10,4,7,6,6.521
+"PI-Altos",2020-05-26,"nowcast",2,10,4,7,7,6.949
+"PI-Altos",2020-05-27,"nowcast",3,11,5,8,7,7.413
+"PI-Altos",2020-05-28,"nowcast",4,12,5,8,8,7.831
+"PI-Altos",2020-05-29,"nowcast",3,12,6,9,8,8.149
+"PI-Altos",2020-05-30,"nowcast",3,12,6,9,8,8.446
+"PI-Altos",2020-05-31,"nowcast",4,13,7,10,9,9.116
+"PI-Altos",2020-06-01,"nowcast",5,14,5,9,9,9.381
+"PI-Altos",2020-06-02,"nowcast",5,14,6,10,10,9.724
+"PI-Altos",2020-06-03,"nowcast",5,15,7,11,10,10.314
+"PI-Altos",2020-06-04,"nowcast",5,15,7,11,11,10.905
+"PI-Altos",2020-06-05,"nowcast",6,16,8,12,11,11.537
+"PI-Altos",2020-06-06,"nowcast",7,17,9,13,12,12.227
+"PI-Altos",2020-06-07,"nowcast",7,18,10,14,13,12.855
+"PI-Altos",2020-06-08,"nowcast",6,18,11,15,13,13.395
+"PI-Altos",2020-06-09,"nowcast",7,19,12,16,14,13.837
+"PI-Altos",2020-06-10,"nowcast",8,20,10,15,14,14.155
+"PI-Altos",2020-06-11,"nowcast",9,20,11,15,14,14.388
+"PI-Altos",2020-06-12,"nowcast",9,20,12,16,14.5,14.551
+"PI-Altos",2020-06-13,"nowcast",8,19,11,15,14,13.991
+"PI-Altos",2020-06-14,"nowcast",8,19,11,15,13,13.523
+"PI-Altos",2020-06-15,"nowcast",7,18,8,13,13,12.987
+"PI-Altos",2020-06-16,"nowcast",7,18,9,13,13,12.959
+"PI-Altos",2020-06-17,"nowcast",7,18,10,14,13,12.906
+"PI-Altos",2020-06-18,"nowcast",8,19,11,15,13,13.136
+"PI-Altos",2020-06-19,"nowcast",8,19,11,15,13,13.388
+"PI-Altos",2020-06-20,"nowcast",7,18,12,16,14,13.69
+"PI-Altos",2020-06-21,"nowcast",8,19,9,14,14,14.156
+"PI-Altos",2020-06-22,"nowcast",8,19,12,16,14,14.352
+"PI-Altos",2020-06-23,"nowcast",9,21,11,16,15,15.077
+"PI-Altos",2020-06-24,"nowcast",8,21,11,16,15,15.658
+"PI-Altos",2020-06-25,"nowcast",9,21,12,17,16,16.148
+"PI-Altos",2020-06-26,"nowcast",9,21,12,17,16,16.353
+"PI-Altos",2020-06-27,"nowcast",10,22,12,17,16,16.476
+"PI-Altos",2020-06-28,"nowcast",10,22,12,17,16,16.455
+"PI-Altos",2020-06-29,"nowcast",8,21,12,17,16,16.182
+"PI-Altos",2020-06-30,"nowcast",10,22,11,16,16,16.031
+"PI-Altos",2020-07-01,"nowcast",10,22,12,17,16,16.241
+"PI-Altos",2020-07-02,"nowcast",10,22,12,17,16,16.483
+"PI-Altos",2020-07-03,"nowcast",10,22,12,17,16,16.34
+"PI-Altos",2020-07-04,"nowcast",9,21,11,16,16,15.97
+"PI-Altos",2020-07-05,"nowcast",9,21,12,17,16,15.889
+"PI-Altos",2020-07-06,"nowcast",9,21,11,16,15,15.552
+"PI-Altos",2020-07-07,"nowcast",9,21,11,16,16,15.863
+"PI-Altos",2020-07-08,"nowcast",10,22,12,17,16,16.213
+"PI-Altos",2020-07-09,"nowcast",11,23,14,18,16,16.58
+"PI-Altos",2020-07-10,"nowcast",11,23,13,18,17,17.091
+"PI-Altos",2020-07-11,"nowcast",11,23,13,18,17,17.39
+"PI-Altos",2020-07-12,"nowcast",11,24,13,18,17,17.453
+"PI-Altos",2020-07-13,"nowcast",11,24,14,19,17,17.702
+"PI-Altos",2020-07-14,"nowcast",11,24,15,20,18,18.305
+"PI-Altos",2020-07-15,"nowcast",12,25,15,20,19,18.703
+"PI-Altos",2020-07-16,"nowcast",11,25,16,21,19,19.207
+"PI-Altos",2020-07-17,"nowcast",12,26,14,20,19,19.679
+"PI-Altos",2020-07-18,"nowcast",12,26,17,22,20,20.125
+"PI-Altos",2020-07-19,"nowcast",12,26,16,21,20,19.834
+"PI-Altos",2020-07-20,"nowcast",12,27,15,21,20,20.296
+"PI-Altos",2020-07-21,"nowcast",12,27,16,22,21,20.85
+"PI-Altos",2020-07-22,"nowcast",13,29,17,23,21,21.471
+"PI-Altos",2020-07-23,"nowcast",14,29,18,24,22,21.961
+"PI-Altos",2020-07-24,"nowcast",13,30,18,24,22,22.148
+"PI-Altos",2020-07-25,"nowcast",12,30,16,23,22,22.233
 "PI-Altos",2020-04-15,"observed",NA,NA,NA,NA,1,NA
 "PI-Altos",2020-04-16,"observed",NA,NA,NA,NA,0,NA
 "PI-Altos",2020-04-17,"observed",NA,NA,NA,NA,0,NA
@@ -502,141 +489,144 @@
 "PI-Altos",2020-08-01,"observed",NA,NA,NA,NA,3,NA
 "PI-Altos",2020-08-02,"observed",NA,NA,NA,NA,1,NA
 "PI-Altos",2020-08-03,"observed",NA,NA,NA,NA,26,NA
-"PI-Altos",2020-08-04,"observed",NA,NA,NA,NA,0,NA
-"PI-Altos",2020-07-25,"forecast",10,34,16,25,22,22.5764
-"PI-Altos",2020-07-26,"forecast",10,36,14,24,22,23.1802
-"PI-Altos",2020-07-27,"forecast",8,37,14,25,23,23.8784
-"PI-Altos",2020-07-28,"forecast",8,39,13,25,23,24.444
-"PI-Altos",2020-07-29,"forecast",5,40,12,25,23,24.9474
-"PI-Altos",2020-07-30,"forecast",5,42,12,26,24,25.772
-"PI-Altos",2020-07-31,"forecast",5,45,12,27,24,26.6442
-"PI-Altos",2020-08-01,"forecast",6,48,11,27,25,27.5668
-"PI-Altos",2020-08-02,"forecast",5,50,12,28,25,28.6638
-"PI-Altos",2020-08-03,"forecast",4,52,11,28,25,28.8494
-"PI-Altos",2020-08-04,"forecast",2,54,11,29,26,30.2896
-"PI-Altos",2020-08-05,"forecast",5,61,11,30,26,31.4454
-"PI-Altos",2020-08-06,"forecast",0,59,9,29,26,32.2194
-"PI-Altos",2020-08-07,"forecast",0,62,10,31,27,33.9332
-"PI-Baixa Grande do Ribeiro",2020-03-27,"nowcast",1,1,1,1,1,1
+"PI-Altos",2020-08-04,"observed",NA,NA,NA,NA,24,NA
+"PI-Altos",2020-08-05,"observed",NA,NA,NA,NA,0,NA
+"PI-Altos",2020-07-26,"forecast",9,34,14,24,23,23.2778
+"PI-Altos",2020-07-27,"forecast",9,36,15,25,23,23.9322
+"PI-Altos",2020-07-28,"forecast",9,38,13,25,23,24.5216
+"PI-Altos",2020-07-29,"forecast",9,41,15,27,24,25.0896
+"PI-Altos",2020-07-30,"forecast",8,43,14,27,24,25.8846
+"PI-Altos",2020-07-31,"forecast",5,43,13,27,25,26.809
+"PI-Altos",2020-08-01,"forecast",6,47,11,27,25,27.4074
+"PI-Altos",2020-08-02,"forecast",5,49,12,28,25,28.393
+"PI-Altos",2020-08-03,"forecast",5,51,12,29,26,29.3106
+"PI-Altos",2020-08-04,"forecast",5,55,11,29,26,30.5448
+"PI-Altos",2020-08-05,"forecast",3,57,10,29,27,31.561
+"PI-Altos",2020-08-06,"forecast",2,58,12,31,27,32.6936
+"PI-Altos",2020-08-07,"forecast",0,60,12,32,27,33.7758
+"PI-Altos",2020-08-08,"forecast",0,63,9,31,28,35.1932
+"PI-Baixa Grande do Ribeiro",2020-03-26,"nowcast",1,1,1,1,1,1
+"PI-Baixa Grande do Ribeiro",2020-03-27,"nowcast",0,0,0,0,0,0
 "PI-Baixa Grande do Ribeiro",2020-03-28,"nowcast",0,0,0,0,0,0
-"PI-Baixa Grande do Ribeiro",2020-03-29,"nowcast",1,1,1,1,1,1
+"PI-Baixa Grande do Ribeiro",2020-03-29,"nowcast",0,0,0,0,0,0
 "PI-Baixa Grande do Ribeiro",2020-03-30,"nowcast",0,0,0,0,0,0
-"PI-Baixa Grande do Ribeiro",2020-03-31,"nowcast",0,0,0,0,0,0
-"PI-Baixa Grande do Ribeiro",2020-04-01,"nowcast",0,0,0,0,0,0
-"PI-Baixa Grande do Ribeiro",2020-04-02,"nowcast",0,0,0,0,0,0
-"PI-Baixa Grande do Ribeiro",2020-04-03,"nowcast",0,1,1,1,1,0.666666666666667
-"PI-Baixa Grande do Ribeiro",2020-04-04,"nowcast",0,1,1,1,1,0.571428571428571
-"PI-Baixa Grande do Ribeiro",2020-04-05,"nowcast",0,1,0,0,0,0.363636363636364
-"PI-Baixa Grande do Ribeiro",2020-04-06,"nowcast",0,1,0,0,0,0.153846153846154
-"PI-Baixa Grande do Ribeiro",2020-04-07,"nowcast",0,1,0,0,0,0.333333333333333
-"PI-Baixa Grande do Ribeiro",2020-04-08,"nowcast",0,1,0,0,0,0.36
-"PI-Baixa Grande do Ribeiro",2020-04-09,"nowcast",0,1,0,0,0,0.305555555555556
-"PI-Baixa Grande do Ribeiro",2020-04-10,"nowcast",0,1,0,0,0,0.333333333333333
-"PI-Baixa Grande do Ribeiro",2020-04-11,"nowcast",0,1,0,0,0,0.327272727272727
-"PI-Baixa Grande do Ribeiro",2020-04-12,"nowcast",0,1,0,0,0,0.315068493150685
-"PI-Baixa Grande do Ribeiro",2020-04-13,"nowcast",0,1,0,0,0,0.228915662650602
-"PI-Baixa Grande do Ribeiro",2020-04-14,"nowcast",0,1,0,0,0,0.260416666666667
-"PI-Baixa Grande do Ribeiro",2020-04-15,"nowcast",0,1,0,0,0,0.292682926829268
-"PI-Baixa Grande do Ribeiro",2020-04-16,"nowcast",0,1,0,0,0,0.320512820512821
-"PI-Baixa Grande do Ribeiro",2020-04-17,"nowcast",0,1,0,0,0,0.309644670050761
-"PI-Baixa Grande do Ribeiro",2020-04-18,"nowcast",0,1,0,0,0,0.25974025974026
-"PI-Baixa Grande do Ribeiro",2020-04-19,"nowcast",0,1,0,0,0,0.266666666666667
-"PI-Baixa Grande do Ribeiro",2020-04-20,"nowcast",0,1,0,0,0,0.365269461077844
-"PI-Baixa Grande do Ribeiro",2020-04-21,"nowcast",0,1,0,0,0,0.308483290488432
-"PI-Baixa Grande do Ribeiro",2020-04-22,"nowcast",0,1,0,0,0,0.321041214750542
-"PI-Baixa Grande do Ribeiro",2020-04-23,"nowcast",0,1,0,0,0,0.3125
-"PI-Baixa Grande do Ribeiro",2020-04-24,"nowcast",0,1,0,0,0,0.368600682593857
-"PI-Baixa Grande do Ribeiro",2020-04-25,"nowcast",0,1,0,0,0,0.392481203007519
-"PI-Baixa Grande do Ribeiro",2020-04-26,"nowcast",0,1,0,0,0,0.425133689839572
-"PI-Baixa Grande do Ribeiro",2020-04-27,"nowcast",0,1,0,0,0,0.440389294403893
-"PI-Baixa Grande do Ribeiro",2020-04-28,"nowcast",0,1,0,0,0,0.470454545454545
-"PI-Baixa Grande do Ribeiro",2020-04-29,"nowcast",0,1,0,0,0,0.509189189189189
-"PI-Baixa Grande do Ribeiro",2020-04-30,"nowcast",0,2,0,0,0,0.543455497382199
-"PI-Baixa Grande do Ribeiro",2020-05-01,"nowcast",0,2,0,0,0,0.584097859327217
-"PI-Baixa Grande do Ribeiro",2020-05-02,"nowcast",0,2,0,0,0,0.609485368314833
-"PI-Baixa Grande do Ribeiro",2020-05-03,"nowcast",0,2,0,0,0,0.589769307923771
-"PI-Baixa Grande do Ribeiro",2020-05-04,"nowcast",0,2,0,0,0,0.560682046138415
-"PI-Baixa Grande do Ribeiro",2020-05-05,"nowcast",0,1,0,0,0,0.518518518518518
-"PI-Baixa Grande do Ribeiro",2020-05-06,"nowcast",0,1,0,0,0,0.529
-"PI-Baixa Grande do Ribeiro",2020-05-07,"nowcast",0,1,0,0,0,0.486
-"PI-Baixa Grande do Ribeiro",2020-05-08,"nowcast",0,1,0,0,0,0.405
-"PI-Baixa Grande do Ribeiro",2020-05-09,"nowcast",0,1,0,0,0,0.32
-"PI-Baixa Grande do Ribeiro",2020-05-10,"nowcast",0,1,0,0,0,0.278
-"PI-Baixa Grande do Ribeiro",2020-05-11,"nowcast",0,1,0,0,0,0.253
-"PI-Baixa Grande do Ribeiro",2020-05-12,"nowcast",0,1,0,0,0,0.245
-"PI-Baixa Grande do Ribeiro",2020-05-13,"nowcast",0,1,0,0,0,0.272
-"PI-Baixa Grande do Ribeiro",2020-05-14,"nowcast",0,1,0,0,0,0.282
-"PI-Baixa Grande do Ribeiro",2020-05-15,"nowcast",0,1,0,0,0,0.325
-"PI-Baixa Grande do Ribeiro",2020-05-16,"nowcast",0,1,0,0,0,0.4
-"PI-Baixa Grande do Ribeiro",2020-05-17,"nowcast",0,1,0,0,0,0.465
-"PI-Baixa Grande do Ribeiro",2020-05-18,"nowcast",0,1,0,0,0,0.527
-"PI-Baixa Grande do Ribeiro",2020-05-19,"nowcast",0,2,0,0,0,0.576
-"PI-Baixa Grande do Ribeiro",2020-05-20,"nowcast",0,2,0,1,1,0.697
-"PI-Baixa Grande do Ribeiro",2020-05-21,"nowcast",0,2,0,1,1,0.817
-"PI-Baixa Grande do Ribeiro",2020-05-22,"nowcast",0,2,0,1,1,0.909
-"PI-Baixa Grande do Ribeiro",2020-05-23,"nowcast",0,2,0,1,1,1.057
-"PI-Baixa Grande do Ribeiro",2020-05-24,"nowcast",0,2,0,1,1,1.086
-"PI-Baixa Grande do Ribeiro",2020-05-25,"nowcast",0,3,0,1,1,1.214
-"PI-Baixa Grande do Ribeiro",2020-05-26,"nowcast",0,3,0,1,1,1.227
-"PI-Baixa Grande do Ribeiro",2020-05-27,"nowcast",0,3,0,1,1,1.251
-"PI-Baixa Grande do Ribeiro",2020-05-28,"nowcast",0,3,0,1,1,1.143
-"PI-Baixa Grande do Ribeiro",2020-05-29,"nowcast",0,2,0,1,1,1.091
-"PI-Baixa Grande do Ribeiro",2020-05-30,"nowcast",0,2,0,1,1,1.025
-"PI-Baixa Grande do Ribeiro",2020-05-31,"nowcast",0,2,0,1,1,1.01
-"PI-Baixa Grande do Ribeiro",2020-06-01,"nowcast",0,2,0,1,1,1.076
-"PI-Baixa Grande do Ribeiro",2020-06-02,"nowcast",0,3,0,1,1,1.209
-"PI-Baixa Grande do Ribeiro",2020-06-03,"nowcast",0,3,0,1,1,1.324
-"PI-Baixa Grande do Ribeiro",2020-06-04,"nowcast",0,3,0,1,1,1.527
-"PI-Baixa Grande do Ribeiro",2020-06-05,"nowcast",0,3,0,1,1,1.64
-"PI-Baixa Grande do Ribeiro",2020-06-06,"nowcast",0,4,1,2,2,1.904
-"PI-Baixa Grande do Ribeiro",2020-06-07,"nowcast",0,4,1,2,2,1.913
-"PI-Baixa Grande do Ribeiro",2020-06-08,"nowcast",0,4,1,2,2,2.012
-"PI-Baixa Grande do Ribeiro",2020-06-09,"nowcast",0,4,1,2,2,2.022
-"PI-Baixa Grande do Ribeiro",2020-06-10,"nowcast",0,4,1,2,2,2.041
-"PI-Baixa Grande do Ribeiro",2020-06-11,"nowcast",0,4,1,2,2,2.088
-"PI-Baixa Grande do Ribeiro",2020-06-12,"nowcast",0,4,1,2,2,2.129
-"PI-Baixa Grande do Ribeiro",2020-06-13,"nowcast",0,4,1,2,2,2.152
-"PI-Baixa Grande do Ribeiro",2020-06-14,"nowcast",0,4,1,2,2,2.178
-"PI-Baixa Grande do Ribeiro",2020-06-15,"nowcast",0,5,0,2,2,2.463
-"PI-Baixa Grande do Ribeiro",2020-06-16,"nowcast",0,5,1,3,3,2.673
-"PI-Baixa Grande do Ribeiro",2020-06-17,"nowcast",0,5,1,3,3,2.831
-"PI-Baixa Grande do Ribeiro",2020-06-18,"nowcast",1,6,1,3,3,3.368
-"PI-Baixa Grande do Ribeiro",2020-06-19,"nowcast",1,6,2,4,3,3.549
-"PI-Baixa Grande do Ribeiro",2020-06-20,"nowcast",0,6,2,4,4,3.818
-"PI-Baixa Grande do Ribeiro",2020-06-21,"nowcast",1,7,3,5,4,4.169
-"PI-Baixa Grande do Ribeiro",2020-06-22,"nowcast",1,7,3,5,4,4.568
-"PI-Baixa Grande do Ribeiro",2020-06-23,"nowcast",2,8,3,5,5,4.809
-"PI-Baixa Grande do Ribeiro",2020-06-24,"nowcast",1,8,2,5,5,5.14
-"PI-Baixa Grande do Ribeiro",2020-06-25,"nowcast",2,9,2,5,5,5.453
-"PI-Baixa Grande do Ribeiro",2020-06-26,"nowcast",2,9,2,5,5,5.553
-"PI-Baixa Grande do Ribeiro",2020-06-27,"nowcast",2,9,3,6,6,5.825
-"PI-Baixa Grande do Ribeiro",2020-06-28,"nowcast",1,9,3,6,6,5.942
-"PI-Baixa Grande do Ribeiro",2020-06-29,"nowcast",3,10,3,6,6,6.149
-"PI-Baixa Grande do Ribeiro",2020-06-30,"nowcast",2,10,3,6,6,6.327
-"PI-Baixa Grande do Ribeiro",2020-07-01,"nowcast",2,10,4,7,7,6.706
-"PI-Baixa Grande do Ribeiro",2020-07-02,"nowcast",3,11,4,7,7,7.037
-"PI-Baixa Grande do Ribeiro",2020-07-03,"nowcast",3,11,5,8,7,7.62
-"PI-Baixa Grande do Ribeiro",2020-07-04,"nowcast",4,12,6,9,8,8.11
-"PI-Baixa Grande do Ribeiro",2020-07-05,"nowcast",3,12,6,9,8,8.495
-"PI-Baixa Grande do Ribeiro",2020-07-06,"nowcast",4,13,7,10,9,9.232
-"PI-Baixa Grande do Ribeiro",2020-07-07,"nowcast",5,14,6,10,9,9.511
-"PI-Baixa Grande do Ribeiro",2020-07-08,"nowcast",6,15,6,10,10,10.037
+"PI-Baixa Grande do Ribeiro",2020-03-31,"nowcast",0,1,0,1,0.5,0.5
+"PI-Baixa Grande do Ribeiro",2020-04-01,"nowcast",0,1,0,1,0.5,0.5
+"PI-Baixa Grande do Ribeiro",2020-04-02,"nowcast",0,1,0,0,0,0.2
+"PI-Baixa Grande do Ribeiro",2020-04-03,"nowcast",0,1,0,0,0,0.2
+"PI-Baixa Grande do Ribeiro",2020-04-04,"nowcast",0,1,0,0,0,0.166666666666667
+"PI-Baixa Grande do Ribeiro",2020-04-05,"nowcast",0,1,0,0,0,0.454545454545455
+"PI-Baixa Grande do Ribeiro",2020-04-06,"nowcast",0,1,0,0,0,0.266666666666667
+"PI-Baixa Grande do Ribeiro",2020-04-07,"nowcast",0,1,0,0,0,0.1875
+"PI-Baixa Grande do Ribeiro",2020-04-08,"nowcast",0,1,0,0,0,0.333333333333333
+"PI-Baixa Grande do Ribeiro",2020-04-09,"nowcast",0,1,0,0,0,0.321428571428571
+"PI-Baixa Grande do Ribeiro",2020-04-10,"nowcast",0,1,0,0,0,0.235294117647059
+"PI-Baixa Grande do Ribeiro",2020-04-11,"nowcast",0,1,0,0,0,0.170731707317073
+"PI-Baixa Grande do Ribeiro",2020-04-12,"nowcast",0,1,0,0,0,0.326923076923077
+"PI-Baixa Grande do Ribeiro",2020-04-13,"nowcast",0,1,0,0,0,0.313432835820896
+"PI-Baixa Grande do Ribeiro",2020-04-14,"nowcast",0,1,0,0,0,0.333333333333333
+"PI-Baixa Grande do Ribeiro",2020-04-15,"nowcast",0,1,0,0,0,0.214953271028037
+"PI-Baixa Grande do Ribeiro",2020-04-16,"nowcast",0,1,0,0,0,0.217741935483871
+"PI-Baixa Grande do Ribeiro",2020-04-17,"nowcast",0,1,0,0,0,0.280254777070064
+"PI-Baixa Grande do Ribeiro",2020-04-18,"nowcast",0,1,0,0,0,0.299492385786802
+"PI-Baixa Grande do Ribeiro",2020-04-19,"nowcast",0,1,0,0,0,0.346938775510204
+"PI-Baixa Grande do Ribeiro",2020-04-20,"nowcast",0,1,0,0,0,0.299651567944251
+"PI-Baixa Grande do Ribeiro",2020-04-21,"nowcast",0,1,0,0,0,0.344632768361582
+"PI-Baixa Grande do Ribeiro",2020-04-22,"nowcast",0,1,0,0,0,0.371824480369515
+"PI-Baixa Grande do Ribeiro",2020-04-23,"nowcast",0,1,0,0,0,0.342412451361868
+"PI-Baixa Grande do Ribeiro",2020-04-24,"nowcast",0,1,0,0,0,0.39344262295082
+"PI-Baixa Grande do Ribeiro",2020-04-25,"nowcast",0,1,0,0,0,0.397959183673469
+"PI-Baixa Grande do Ribeiro",2020-04-26,"nowcast",0,1,0,0,0,0.457671957671958
+"PI-Baixa Grande do Ribeiro",2020-04-27,"nowcast",0,1,0,0,0,0.431540342298289
+"PI-Baixa Grande do Ribeiro",2020-04-28,"nowcast",0,1,0,0,0,0.464
+"PI-Baixa Grande do Ribeiro",2020-04-29,"nowcast",0,1,0,0,0,0.494002181025082
+"PI-Baixa Grande do Ribeiro",2020-04-30,"nowcast",0,1,0,0,0,0.536997885835095
+"PI-Baixa Grande do Ribeiro",2020-05-01,"nowcast",0,1,0,0,0,0.541067761806982
+"PI-Baixa Grande do Ribeiro",2020-05-02,"nowcast",0,2,0,0,0,0.604251012145749
+"PI-Baixa Grande do Ribeiro",2020-05-03,"nowcast",0,2,0,0,0,0.614300100704935
+"PI-Baixa Grande do Ribeiro",2020-05-04,"nowcast",0,2,0,0,0,0.582914572864322
+"PI-Baixa Grande do Ribeiro",2020-05-05,"nowcast",0,2,0,0,0,0.544633901705115
+"PI-Baixa Grande do Ribeiro",2020-05-06,"nowcast",0,1,0,0,0,0.503510531594784
+"PI-Baixa Grande do Ribeiro",2020-05-07,"nowcast",0,1,0,0,0,0.418837675350701
+"PI-Baixa Grande do Ribeiro",2020-05-08,"nowcast",0,1,0,0,0,0.402402402402402
+"PI-Baixa Grande do Ribeiro",2020-05-09,"nowcast",0,1,0,0,0,0.416416416416416
+"PI-Baixa Grande do Ribeiro",2020-05-10,"nowcast",0,1,0,0,0,0.292
+"PI-Baixa Grande do Ribeiro",2020-05-11,"nowcast",0,1,0,0,0,0.304
+"PI-Baixa Grande do Ribeiro",2020-05-12,"nowcast",0,1,0,0,0,0.271
+"PI-Baixa Grande do Ribeiro",2020-05-13,"nowcast",0,1,0,0,0,0.259
+"PI-Baixa Grande do Ribeiro",2020-05-14,"nowcast",0,1,0,0,0,0.294
+"PI-Baixa Grande do Ribeiro",2020-05-15,"nowcast",0,1,0,0,0,0.313
+"PI-Baixa Grande do Ribeiro",2020-05-16,"nowcast",0,1,0,0,0,0.386
+"PI-Baixa Grande do Ribeiro",2020-05-17,"nowcast",0,1,0,0,0,0.46
+"PI-Baixa Grande do Ribeiro",2020-05-18,"nowcast",0,2,0,0,0,0.54
+"PI-Baixa Grande do Ribeiro",2020-05-19,"nowcast",0,2,0,0,0,0.611
+"PI-Baixa Grande do Ribeiro",2020-05-20,"nowcast",0,2,0,1,1,0.725
+"PI-Baixa Grande do Ribeiro",2020-05-21,"nowcast",0,2,0,1,1,0.812
+"PI-Baixa Grande do Ribeiro",2020-05-22,"nowcast",0,2,0,1,1,0.908
+"PI-Baixa Grande do Ribeiro",2020-05-23,"nowcast",0,2,0,1,1,1.019
+"PI-Baixa Grande do Ribeiro",2020-05-24,"nowcast",0,3,0,1,1,1.132
+"PI-Baixa Grande do Ribeiro",2020-05-25,"nowcast",0,3,0,1,1,1.224
+"PI-Baixa Grande do Ribeiro",2020-05-26,"nowcast",0,3,0,1,1,1.217
+"PI-Baixa Grande do Ribeiro",2020-05-27,"nowcast",0,3,0,1,1,1.259
+"PI-Baixa Grande do Ribeiro",2020-05-28,"nowcast",0,3,0,1,1,1.168
+"PI-Baixa Grande do Ribeiro",2020-05-29,"nowcast",0,3,0,1,1,1.123
+"PI-Baixa Grande do Ribeiro",2020-05-30,"nowcast",0,2,0,1,1,1.013
+"PI-Baixa Grande do Ribeiro",2020-05-31,"nowcast",0,2,0,1,1,1.007
+"PI-Baixa Grande do Ribeiro",2020-06-01,"nowcast",0,2,0,1,1,1.044
+"PI-Baixa Grande do Ribeiro",2020-06-02,"nowcast",0,3,0,1,1,1.193
+"PI-Baixa Grande do Ribeiro",2020-06-03,"nowcast",0,3,0,1,1,1.34
+"PI-Baixa Grande do Ribeiro",2020-06-04,"nowcast",0,3,0,1,1,1.525
+"PI-Baixa Grande do Ribeiro",2020-06-05,"nowcast",0,3,1,2,2,1.674
+"PI-Baixa Grande do Ribeiro",2020-06-06,"nowcast",0,4,1,2,2,1.831
+"PI-Baixa Grande do Ribeiro",2020-06-07,"nowcast",0,4,1,2,2,1.953
+"PI-Baixa Grande do Ribeiro",2020-06-08,"nowcast",0,4,1,2,2,2.025
+"PI-Baixa Grande do Ribeiro",2020-06-09,"nowcast",0,4,1,2,2,1.92
+"PI-Baixa Grande do Ribeiro",2020-06-10,"nowcast",0,4,1,2,2,2.021
+"PI-Baixa Grande do Ribeiro",2020-06-11,"nowcast",0,4,1,2,2,2.011
+"PI-Baixa Grande do Ribeiro",2020-06-12,"nowcast",0,4,1,2,2,2.126
+"PI-Baixa Grande do Ribeiro",2020-06-13,"nowcast",0,4,1,2,2,2.242
+"PI-Baixa Grande do Ribeiro",2020-06-14,"nowcast",0,4,1,2,2,2.275
+"PI-Baixa Grande do Ribeiro",2020-06-15,"nowcast",0,4,0,2,2,2.432
+"PI-Baixa Grande do Ribeiro",2020-06-16,"nowcast",0,5,1,3,3,2.646
+"PI-Baixa Grande do Ribeiro",2020-06-17,"nowcast",0,5,1,3,3,2.91
+"PI-Baixa Grande do Ribeiro",2020-06-18,"nowcast",1,6,1,3,3,3.329
+"PI-Baixa Grande do Ribeiro",2020-06-19,"nowcast",1,6,2,4,3,3.578
+"PI-Baixa Grande do Ribeiro",2020-06-20,"nowcast",1,6,2,4,4,3.889
+"PI-Baixa Grande do Ribeiro",2020-06-21,"nowcast",1,7,2,4,4,4.1
+"PI-Baixa Grande do Ribeiro",2020-06-22,"nowcast",1,7,3,5,4,4.378
+"PI-Baixa Grande do Ribeiro",2020-06-23,"nowcast",0,7,3,5,5,4.829
+"PI-Baixa Grande do Ribeiro",2020-06-24,"nowcast",1,8,4,6,5,4.984
+"PI-Baixa Grande do Ribeiro",2020-06-25,"nowcast",1,8,4,6,5,5.35
+"PI-Baixa Grande do Ribeiro",2020-06-26,"nowcast",2,9,3,6,5,5.595
+"PI-Baixa Grande do Ribeiro",2020-06-27,"nowcast",2,9,4,6,6,5.697
+"PI-Baixa Grande do Ribeiro",2020-06-28,"nowcast",2,9,3,6,6,5.9
+"PI-Baixa Grande do Ribeiro",2020-06-29,"nowcast",2,9,3,6,6,5.918
+"PI-Baixa Grande do Ribeiro",2020-06-30,"nowcast",2,10,3,6,6,6.344
+"PI-Baixa Grande do Ribeiro",2020-07-01,"nowcast",2,10,4,7,6,6.503
+"PI-Baixa Grande do Ribeiro",2020-07-02,"nowcast",3,11,4,7,7,7.195
+"PI-Baixa Grande do Ribeiro",2020-07-03,"nowcast",3,11,5,8,8,7.688
+"PI-Baixa Grande do Ribeiro",2020-07-04,"nowcast",3,12,6,9,8,8.182
+"PI-Baixa Grande do Ribeiro",2020-07-05,"nowcast",3,12,7,10,8,8.644
+"PI-Baixa Grande do Ribeiro",2020-07-06,"nowcast",5,14,5,9,9,9.293
+"PI-Baixa Grande do Ribeiro",2020-07-07,"nowcast",5,14,7,10,9,9.711
+"PI-Baixa Grande do Ribeiro",2020-07-08,"nowcast",6,15,8,11,10,10.117
 "PI-Baixa Grande do Ribeiro",2020-07-09,"nowcast",5,15,7,11,10,10.344
-"PI-Baixa Grande do Ribeiro",2020-07-10,"nowcast",5,15,7,11,11,10.5
-"PI-Baixa Grande do Ribeiro",2020-07-11,"nowcast",5,15,7,11,10,10.478
-"PI-Baixa Grande do Ribeiro",2020-07-12,"nowcast",6,15,7,11,10,10.441
-"PI-Baixa Grande do Ribeiro",2020-07-13,"nowcast",6,15,6,10,10,10.207
-"PI-Baixa Grande do Ribeiro",2020-07-14,"nowcast",4,14,6,10,10,9.996
-"PI-Baixa Grande do Ribeiro",2020-07-15,"nowcast",5,15,6,10,10,10.075
-"PI-Baixa Grande do Ribeiro",2020-07-16,"nowcast",5,15,7,11,10,10.163
-"PI-Baixa Grande do Ribeiro",2020-07-17,"nowcast",5,15,7,11,11,10.584
-"PI-Baixa Grande do Ribeiro",2020-07-18,"nowcast",6,16,7,11,10.5,10.743
-"PI-Baixa Grande do Ribeiro",2020-07-19,"nowcast",5,16,8,12,11,11.293
-"PI-Baixa Grande do Ribeiro",2020-07-20,"nowcast",6,17,9,13,12,11.968
-"PI-Baixa Grande do Ribeiro",2020-07-21,"nowcast",8,20,8,13,13,12.957
-"PI-Baixa Grande do Ribeiro",2020-07-22,"nowcast",8,21,9,14,14,14.16
-"PI-Baixa Grande do Ribeiro",2020-07-23,"nowcast",8,21,10,15,14,14.878
-"PI-Baixa Grande do Ribeiro",2020-07-24,"nowcast",8,23,10,16,15,15.737
+"PI-Baixa Grande do Ribeiro",2020-07-10,"nowcast",5,15,7,11,11,10.664
+"PI-Baixa Grande do Ribeiro",2020-07-11,"nowcast",6,15,7,11,10,10.484
+"PI-Baixa Grande do Ribeiro",2020-07-12,"nowcast",5,15,7,11,10,10.149
+"PI-Baixa Grande do Ribeiro",2020-07-13,"nowcast",4,14,8,11,10,9.92
+"PI-Baixa Grande do Ribeiro",2020-07-14,"nowcast",6,15,6,10,10,9.955
+"PI-Baixa Grande do Ribeiro",2020-07-15,"nowcast",5,14,8,11,10,9.969
+"PI-Baixa Grande do Ribeiro",2020-07-16,"nowcast",5,15,7,11,10,10.307
+"PI-Baixa Grande do Ribeiro",2020-07-17,"nowcast",5,15,7,11,10,10.448
+"PI-Baixa Grande do Ribeiro",2020-07-18,"nowcast",6,16,7,11,11,11.215
+"PI-Baixa Grande do Ribeiro",2020-07-19,"nowcast",6,16,8,12,11,11.396
+"PI-Baixa Grande do Ribeiro",2020-07-20,"nowcast",5,17,9,13,12,12.297
+"PI-Baixa Grande do Ribeiro",2020-07-21,"nowcast",6,18,10,14,13,13.324
+"PI-Baixa Grande do Ribeiro",2020-07-22,"nowcast",8,20,10,15,14,14.404
+"PI-Baixa Grande do Ribeiro",2020-07-23,"nowcast",7,21,12,17,15,15.307
+"PI-Baixa Grande do Ribeiro",2020-07-24,"nowcast",8,22,12,17,16,16.215
+"PI-Baixa Grande do Ribeiro",2020-07-25,"nowcast",8,23,13,18,17,16.852
 "PI-Baixa Grande do Ribeiro",2020-05-07,"observed",NA,NA,NA,NA,1,NA
 "PI-Baixa Grande do Ribeiro",2020-05-08,"observed",NA,NA,NA,NA,2,NA
 "PI-Baixa Grande do Ribeiro",2020-05-09,"observed",NA,NA,NA,NA,0,NA
@@ -726,151 +716,146 @@
 "PI-Baixa Grande do Ribeiro",2020-08-01,"observed",NA,NA,NA,NA,6,NA
 "PI-Baixa Grande do Ribeiro",2020-08-02,"observed",NA,NA,NA,NA,0,NA
 "PI-Baixa Grande do Ribeiro",2020-08-03,"observed",NA,NA,NA,NA,19,NA
-"PI-Baixa Grande do Ribeiro",2020-08-04,"observed",NA,NA,NA,NA,0,NA
-"PI-Baixa Grande do Ribeiro",2020-07-25,"forecast",4,26,9,17,16,16.5092
-"PI-Baixa Grande do Ribeiro",2020-07-26,"forecast",3,29,10,19,16,17.511
-"PI-Baixa Grande do Ribeiro",2020-07-27,"forecast",4,32,9,19,17,18.5014
-"PI-Baixa Grande do Ribeiro",2020-07-28,"forecast",2,35,9,20,17,19.8228
-"PI-Baixa Grande do Ribeiro",2020-07-29,"forecast",0,37,7,20,18,21.136
-"PI-Baixa Grande do Ribeiro",2020-07-30,"forecast",0,41,7,21,19,22.5232
-"PI-Baixa Grande do Ribeiro",2020-07-31,"forecast",0,45,6,21,19,23.9764
-"PI-Baixa Grande do Ribeiro",2020-08-01,"forecast",0,49,5,22,20,26.0224
-"PI-Baixa Grande do Ribeiro",2020-08-02,"forecast",0,53,5,23,21,27.7604
-"PI-Baixa Grande do Ribeiro",2020-08-03,"forecast",0,58,5,24,22,29.7538
-"PI-Baixa Grande do Ribeiro",2020-08-04,"forecast",0,63,3,24,22,32.3826
-"PI-Baixa Grande do Ribeiro",2020-08-05,"forecast",0,70,3,25,23,35.3286
-"PI-Baixa Grande do Ribeiro",2020-08-06,"forecast",0,75,0,24,24,38.5806
-"PI-Baixa Grande do Ribeiro",2020-08-07,"forecast",0,80,0,24,24,42.3142
-"PI-Barras",2020-03-17,"nowcast",1,1,1,1,1,1
-"PI-Barras",2020-03-18,"nowcast",0,0,0,0,0,0
-"PI-Barras",2020-03-19,"nowcast",0,0,0,0,0,0
-"PI-Barras",2020-03-20,"nowcast",0,0,0,0,0,0
-"PI-Barras",2020-03-21,"nowcast",0,1,1,1,1,0.666666666666667
-"PI-Barras",2020-03-22,"nowcast",0,1,0,0,0,0.25
-"PI-Barras",2020-03-23,"nowcast",0,0,0,0,0,0
-"PI-Barras",2020-03-24,"nowcast",0,1,0,0,0,0.2
-"PI-Barras",2020-03-25,"nowcast",0,1,0,0,0,0.166666666666667
-"PI-Barras",2020-03-26,"nowcast",0,1,0,0,0,0.375
-"PI-Barras",2020-03-27,"nowcast",0,1,0,0,0,0.272727272727273
-"PI-Barras",2020-03-28,"nowcast",0,1,0,0,0,0.153846153846154
-"PI-Barras",2020-03-29,"nowcast",0,1,0,0,0,0.277777777777778
-"PI-Barras",2020-03-30,"nowcast",0,1,0,0,0,0.333333333333333
-"PI-Barras",2020-03-31,"nowcast",0,1,0,0,0,0.266666666666667
-"PI-Barras",2020-04-01,"nowcast",0,1,0,0,0,0.256410256410256
-"PI-Barras",2020-04-02,"nowcast",0,1,0,0,0,0.428571428571429
-"PI-Barras",2020-04-03,"nowcast",0,1,0,0,0,0.25
-"PI-Barras",2020-04-04,"nowcast",0,1,0,0,0,0.325301204819277
-"PI-Barras",2020-04-05,"nowcast",0,1,0,0,0,0.24
-"PI-Barras",2020-04-06,"nowcast",0,1,0,0,0,0.3203125
-"PI-Barras",2020-04-07,"nowcast",0,1,0,0,0,0.259493670886076
-"PI-Barras",2020-04-08,"nowcast",0,1,0,0,0,0.297435897435897
-"PI-Barras",2020-04-09,"nowcast",0,1,0,0,0,0.29004329004329
-"PI-Barras",2020-04-10,"nowcast",0,1,0,0,0,0.347222222222222
-"PI-Barras",2020-04-11,"nowcast",0,1,0,0,0,0.343108504398827
-"PI-Barras",2020-04-12,"nowcast",0,1,0,0,0,0.342925659472422
-"PI-Barras",2020-04-13,"nowcast",0,1,0,0,0,0.326530612244898
-"PI-Barras",2020-04-14,"nowcast",0,1,0,0,0,0.386363636363636
-"PI-Barras",2020-04-15,"nowcast",0,1,0,0,0,0.402476780185758
-"PI-Barras",2020-04-16,"nowcast",0,1,0,0,0,0.440976933514247
-"PI-Barras",2020-04-17,"nowcast",0,1,0,0,0,0.458333333333333
-"PI-Barras",2020-04-18,"nowcast",0,1,0,0,0,0.482122260668973
-"PI-Barras",2020-04-19,"nowcast",0,2,0,0,0,0.558498896247241
-"PI-Barras",2020-04-20,"nowcast",0,2,0,0,0,0.644444444444444
-"PI-Barras",2020-04-21,"nowcast",0,2,0,0,0,0.660123966942149
-"PI-Barras",2020-04-22,"nowcast",0,2,0,1,1,0.717038539553753
-"PI-Barras",2020-04-23,"nowcast",0,2,0,1,1,0.785498489425982
-"PI-Barras",2020-04-24,"nowcast",0,2,0,1,1,0.896586345381526
-"PI-Barras",2020-04-25,"nowcast",0,2,0,1,1,1.02202202202202
-"PI-Barras",2020-04-26,"nowcast",0,2,0,1,1,1.061
-"PI-Barras",2020-04-27,"nowcast",0,3,0,1,1,1.189
-"PI-Barras",2020-04-28,"nowcast",0,3,0,1,1,1.323
-"PI-Barras",2020-04-29,"nowcast",0,3,0,1,1,1.56
-"PI-Barras",2020-04-30,"nowcast",0,3,1,2,2,1.755
-"PI-Barras",2020-05-01,"nowcast",0,4,1,2,2,2.104
-"PI-Barras",2020-05-02,"nowcast",0,5,0,2,2,2.407
-"PI-Barras",2020-05-03,"nowcast",0,5,1,3,3,2.653
-"PI-Barras",2020-05-04,"nowcast",0,5,1,3,3,2.989
-"PI-Barras",2020-05-05,"nowcast",1,6,1,3,3,3.379
-"PI-Barras",2020-05-06,"nowcast",0,6,2,4,4,3.791
-"PI-Barras",2020-05-07,"nowcast",1,7,3,5,4,4.247
-"PI-Barras",2020-05-08,"nowcast",1,8,3,5,5,4.808
-"PI-Barras",2020-05-09,"nowcast",1,8,4,6,5,5.246
-"PI-Barras",2020-05-10,"nowcast",1,9,3,6,6,5.785
-"PI-Barras",2020-05-11,"nowcast",2,10,4,7,6,6.371
-"PI-Barras",2020-05-12,"nowcast",2,10,4,7,7,6.983
-"PI-Barras",2020-05-13,"nowcast",4,12,5,8,8,7.781
-"PI-Barras",2020-05-14,"nowcast",4,13,7,10,8,8.574
-"PI-Barras",2020-05-15,"nowcast",3,13,6,10,9,9.334
-"PI-Barras",2020-05-16,"nowcast",4,14,6,10,10,10.026
-"PI-Barras",2020-05-17,"nowcast",5,15,7,11,11,10.814
-"PI-Barras",2020-05-18,"nowcast",6,16,8,12,11,11.501
-"PI-Barras",2020-05-19,"nowcast",6,17,9,13,12,12.393
-"PI-Barras",2020-05-20,"nowcast",6,17,9,13,12.5,12.689
-"PI-Barras",2020-05-21,"nowcast",7,18,10,14,13,13.056
-"PI-Barras",2020-05-22,"nowcast",7,18,11,15,13,13.346
-"PI-Barras",2020-05-23,"nowcast",8,19,10,14,13,13.218
-"PI-Barras",2020-05-24,"nowcast",8,19,11,15,13,13.383
-"PI-Barras",2020-05-25,"nowcast",7,18,10,14,13,13.315
-"PI-Barras",2020-05-26,"nowcast",7,18,10,14,13,13.023
-"PI-Barras",2020-05-27,"nowcast",7,18,11,15,13,12.894
-"PI-Barras",2020-05-28,"nowcast",6,17,10,14,13,12.826
-"PI-Barras",2020-05-29,"nowcast",7,17,9,13,12,12.313
-"PI-Barras",2020-05-30,"nowcast",6,17,9,13,12,12.217
-"PI-Barras",2020-05-31,"nowcast",7,17,9,13,12,12.148
-"PI-Barras",2020-06-01,"nowcast",7,17,9,13,12,12.197
-"PI-Barras",2020-06-02,"nowcast",7,17,8,12,12,12.058
-"PI-Barras",2020-06-03,"nowcast",7,17,9,13,12,12.144
-"PI-Barras",2020-06-04,"nowcast",6,17,9,13,12,12.32
-"PI-Barras",2020-06-05,"nowcast",6,17,9,13,12,12.45
-"PI-Barras",2020-06-06,"nowcast",6,17,10,14,13,12.707
-"PI-Barras",2020-06-07,"nowcast",7,18,10,14,13,13.115
-"PI-Barras",2020-06-08,"nowcast",7,19,12,16,14,13.872
-"PI-Barras",2020-06-09,"nowcast",8,20,10,15,14,14.419
-"PI-Barras",2020-06-10,"nowcast",8,20,12,16,15,15.126
-"PI-Barras",2020-06-11,"nowcast",10,22,12,17,16,16.061
-"PI-Barras",2020-06-12,"nowcast",10,23,12,17,16,16.611
-"PI-Barras",2020-06-13,"nowcast",10,23,13,18,17,16.922
-"PI-Barras",2020-06-14,"nowcast",10,23,14,19,18,17.584
-"PI-Barras",2020-06-15,"nowcast",11,24,14,19,18,18.033
-"PI-Barras",2020-06-16,"nowcast",11,24,14,19,18,18.228
-"PI-Barras",2020-06-17,"nowcast",12,25,15,20,18,18.476
-"PI-Barras",2020-06-18,"nowcast",11,25,14,19,18,18.511
-"PI-Barras",2020-06-19,"nowcast",12,25,16,21,18,18.687
-"PI-Barras",2020-06-20,"nowcast",12,25,15,20,19,18.979
-"PI-Barras",2020-06-21,"nowcast",12,26,17,22,19,19.584
-"PI-Barras",2020-06-22,"nowcast",13,27,15,21,20,20.164
-"PI-Barras",2020-06-23,"nowcast",13,28,16,22,21,21.377
-"PI-Barras",2020-06-24,"nowcast",15,29,17,23,22,22
-"PI-Barras",2020-06-25,"nowcast",14,29,18,24,23,23.14
-"PI-Barras",2020-06-26,"nowcast",16,31,19,25,24,23.946
-"PI-Barras",2020-06-27,"nowcast",15,31,22,27,24,24.346
-"PI-Barras",2020-06-28,"nowcast",16,32,20,26,25,25.006
-"PI-Barras",2020-06-29,"nowcast",16,32,21,27,25,25.457
-"PI-Barras",2020-06-30,"nowcast",17,33,21,27,26,26.22
-"PI-Barras",2020-07-01,"nowcast",17,34,22,28,27,26.821
-"PI-Barras",2020-07-02,"nowcast",19,36,23,30,28,27.608
-"PI-Barras",2020-07-03,"nowcast",20,36,25,31,28,28.022
-"PI-Barras",2020-07-04,"nowcast",19,35,24,30,28,28.246
-"PI-Barras",2020-07-05,"nowcast",20,35,24,30,28,28.459
-"PI-Barras",2020-07-06,"nowcast",19,36,23,30,28,28.552
-"PI-Barras",2020-07-07,"nowcast",20,36,24,30,29,28.648
-"PI-Barras",2020-07-08,"nowcast",18,36,26,32,29,28.795
-"PI-Barras",2020-07-09,"nowcast",20,37,26,32,29,29.202
-"PI-Barras",2020-07-10,"nowcast",21,39,26,33,30,30.359
-"PI-Barras",2020-07-11,"nowcast",23,41,29,35,31,31.715
-"PI-Barras",2020-07-12,"nowcast",24,41,29,36,33,33.002
-"PI-Barras",2020-07-13,"nowcast",25,43,29,36,34,34.277
-"PI-Barras",2020-07-14,"nowcast",26,44,28,36,35,34.916
-"PI-Barras",2020-07-15,"nowcast",27,45,30,37,35,35.65
-"PI-Barras",2020-07-16,"nowcast",26,45,31,38,36,36.087
-"PI-Barras",2020-07-17,"nowcast",26,45,30,38,36,36.022
-"PI-Barras",2020-07-18,"nowcast",26,45,32,39,36,36.096
-"PI-Barras",2020-07-19,"nowcast",24,44,29,37,35.5,35.566
-"PI-Barras",2020-07-20,"nowcast",23,43,29,37,35,35.071
-"PI-Barras",2020-07-21,"nowcast",23,43,27,35,35,34.41
-"PI-Barras",2020-07-22,"nowcast",21,42,27,35,33,33.409
-"PI-Barras",2020-07-23,"nowcast",22,43,27,35,32,32.864
-"PI-Barras",2020-07-24,"nowcast",19,42,24,33,32,32.515
+"PI-Baixa Grande do Ribeiro",2020-08-04,"observed",NA,NA,NA,NA,27,NA
+"PI-Baixa Grande do Ribeiro",2020-08-05,"observed",NA,NA,NA,NA,0,NA
+"PI-Baixa Grande do Ribeiro",2020-07-26,"forecast",7,29,9,18,17,17.996
+"PI-Baixa Grande do Ribeiro",2020-07-27,"forecast",4,30,9,19,18,18.9258
+"PI-Baixa Grande do Ribeiro",2020-07-28,"forecast",5,34,10,21,19,20.245
+"PI-Baixa Grande do Ribeiro",2020-07-29,"forecast",3,37,10,22,20,21.5298
+"PI-Baixa Grande do Ribeiro",2020-07-30,"forecast",2,40,8,22,20,22.791
+"PI-Baixa Grande do Ribeiro",2020-07-31,"forecast",3,44,9,24,21,24.3604
+"PI-Baixa Grande do Ribeiro",2020-08-01,"forecast",0,47,9,25,22,26.0928
+"PI-Baixa Grande do Ribeiro",2020-08-02,"forecast",0,51,7,25,23,27.4376
+"PI-Baixa Grande do Ribeiro",2020-08-03,"forecast",0,57,7,26,24,29.4128
+"PI-Baixa Grande do Ribeiro",2020-08-04,"forecast",0,61,6,27,25,31.4618
+"PI-Baixa Grande do Ribeiro",2020-08-05,"forecast",0,68,5,28,26,34.0386
+"PI-Baixa Grande do Ribeiro",2020-08-06,"forecast",0,74,5,30,27,36.6178
+"PI-Baixa Grande do Ribeiro",2020-08-07,"forecast",0,80,4,31,29,39.3106
+"PI-Baixa Grande do Ribeiro",2020-08-08,"forecast",0,84,3,32,30,42.3402
+"PI-Barras",2020-03-24,"nowcast",1,1,1,1,1,1
+"PI-Barras",2020-03-25,"nowcast",0,1,1,1,1,0.666666666666667
+"PI-Barras",2020-03-26,"nowcast",0,1,0,0,0,0.25
+"PI-Barras",2020-03-27,"nowcast",0,1,0,0,0,0.2
+"PI-Barras",2020-03-28,"nowcast",0,1,0,0,0,0.428571428571429
+"PI-Barras",2020-03-29,"nowcast",0,1,0,0,0,0.363636363636364
+"PI-Barras",2020-03-30,"nowcast",0,1,1,1,1,0.526315789473684
+"PI-Barras",2020-03-31,"nowcast",0,1,0,0,0,0.375
+"PI-Barras",2020-04-01,"nowcast",0,1,0,0,0,0.393939393939394
+"PI-Barras",2020-04-02,"nowcast",0,1,0,0,0,0.304347826086957
+"PI-Barras",2020-04-03,"nowcast",0,1,0,0,0,0.327868852459016
+"PI-Barras",2020-04-04,"nowcast",0,1,0,0,0,0.216216216216216
+"PI-Barras",2020-04-05,"nowcast",0,1,0,0,0,0.291666666666667
+"PI-Barras",2020-04-06,"nowcast",0,1,0,0,0,0.263157894736842
+"PI-Barras",2020-04-07,"nowcast",0,1,0,0,0,0.286713286713287
+"PI-Barras",2020-04-08,"nowcast",0,1,0,0,0,0.310160427807487
+"PI-Barras",2020-04-09,"nowcast",0,1,0,0,0,0.271111111111111
+"PI-Barras",2020-04-10,"nowcast",0,1,0,0,0,0.277992277992278
+"PI-Barras",2020-04-11,"nowcast",0,1,0,0,0,0.370716510903427
+"PI-Barras",2020-04-12,"nowcast",0,1,0,0,0,0.38618925831202
+"PI-Barras",2020-04-13,"nowcast",0,1,0,0,0,0.35589519650655
+"PI-Barras",2020-04-14,"nowcast",0,1,0,0,0,0.402154398563734
+"PI-Barras",2020-04-15,"nowcast",0,1,0,0,0,0.384370015948963
+"PI-Barras",2020-04-16,"nowcast",0,1,0,0,0,0.4
+"PI-Barras",2020-04-17,"nowcast",0,1,0,0,0,0.470437017994859
+"PI-Barras",2020-04-18,"nowcast",0,1,0,0,0,0.504151838671412
+"PI-Barras",2020-04-19,"nowcast",0,2,0,0,0,0.590909090909091
+"PI-Barras",2020-04-20,"nowcast",0,2,0,0,0,0.612869198312236
+"PI-Barras",2020-04-21,"nowcast",0,2,0,0,0,0.643149284253579
+"PI-Barras",2020-04-22,"nowcast",0,2,0,1,1,0.705645161290323
+"PI-Barras",2020-04-23,"nowcast",0,2,0,1,1,0.842842842842843
+"PI-Barras",2020-04-24,"nowcast",0,2,0,1,1,0.862862862862863
+"PI-Barras",2020-04-25,"nowcast",0,2,0,1,1,0.946
+"PI-Barras",2020-04-26,"nowcast",0,2,0,1,1,1.033
+"PI-Barras",2020-04-27,"nowcast",0,3,0,1,1,1.147
+"PI-Barras",2020-04-28,"nowcast",0,3,0,1,1,1.393
+"PI-Barras",2020-04-29,"nowcast",0,3,0,1,1,1.571
+"PI-Barras",2020-04-30,"nowcast",0,3,1,2,2,1.745
+"PI-Barras",2020-05-01,"nowcast",0,4,1,2,2,2.056
+"PI-Barras",2020-05-02,"nowcast",0,4,0,2,2,2.243
+"PI-Barras",2020-05-03,"nowcast",0,5,0,2,2,2.643
+"PI-Barras",2020-05-04,"nowcast",0,5,1,3,3,2.945
+"PI-Barras",2020-05-05,"nowcast",1,6,1,3,3,3.361
+"PI-Barras",2020-05-06,"nowcast",0,6,2,4,4,3.796
+"PI-Barras",2020-05-07,"nowcast",1,7,3,5,4,4.371
+"PI-Barras",2020-05-08,"nowcast",1,8,3,5,5,4.708
+"PI-Barras",2020-05-09,"nowcast",1,8,2,5,5,5.115
+"PI-Barras",2020-05-10,"nowcast",2,9,3,6,6,5.802
+"PI-Barras",2020-05-11,"nowcast",2,10,4,7,6,6.567
+"PI-Barras",2020-05-12,"nowcast",3,11,4,7,7,7.069
+"PI-Barras",2020-05-13,"nowcast",3,12,5,8,8,7.76
+"PI-Barras",2020-05-14,"nowcast",3,12,6,9,8,8.583
+"PI-Barras",2020-05-15,"nowcast",5,14,5,9,9,9.09
+"PI-Barras",2020-05-16,"nowcast",4,14,6,10,10,9.929
+"PI-Barras",2020-05-17,"nowcast",5,15,7,11,11,10.844
+"PI-Barras",2020-05-18,"nowcast",6,16,8,12,11,11.558
+"PI-Barras",2020-05-19,"nowcast",6,17,9,13,12,12.14
+"PI-Barras",2020-05-20,"nowcast",6,17,10,14,13,12.722
+"PI-Barras",2020-05-21,"nowcast",8,19,10,14,13,13.162
+"PI-Barras",2020-05-22,"nowcast",7,18,11,15,13,13.377
+"PI-Barras",2020-05-23,"nowcast",8,19,10,14,13,13.478
+"PI-Barras",2020-05-24,"nowcast",8,19,10,14,13,13.407
+"PI-Barras",2020-05-25,"nowcast",8,19,9,14,13,13.459
+"PI-Barras",2020-05-26,"nowcast",8,18,10,14,13,13.113
+"PI-Barras",2020-05-27,"nowcast",7,18,10,14,13,12.917
+"PI-Barras",2020-05-28,"nowcast",6,17,9,13,13,12.716
+"PI-Barras",2020-05-29,"nowcast",6,17,9,13,12,12.42
+"PI-Barras",2020-05-30,"nowcast",6,17,9,13,12,12.326
+"PI-Barras",2020-05-31,"nowcast",6,17,9,13,12,12.056
+"PI-Barras",2020-06-01,"nowcast",7,17,9,13,12,12.08
+"PI-Barras",2020-06-02,"nowcast",7,17,9,13,12,12.186
+"PI-Barras",2020-06-03,"nowcast",6,17,8,12,12,12.053
+"PI-Barras",2020-06-04,"nowcast",6,17,9,13,12,12.081
+"PI-Barras",2020-06-05,"nowcast",6,17,9,13,12,12.208
+"PI-Barras",2020-06-06,"nowcast",6,17,10,14,13,12.713
+"PI-Barras",2020-06-07,"nowcast",7,18,10,14,13,13.042
+"PI-Barras",2020-06-08,"nowcast",7,19,11,15,14,13.714
+"PI-Barras",2020-06-09,"nowcast",8,20,10,15,14,14.297
+"PI-Barras",2020-06-10,"nowcast",9,21,11,16,15,15.284
+"PI-Barras",2020-06-11,"nowcast",9,21,11,16,16,15.83
+"PI-Barras",2020-06-12,"nowcast",10,22,12,17,17,16.587
+"PI-Barras",2020-06-13,"nowcast",10,23,14,19,17,17.319
+"PI-Barras",2020-06-14,"nowcast",11,23,13,18,17,17.545
+"PI-Barras",2020-06-15,"nowcast",11,24,14,19,18,17.88
+"PI-Barras",2020-06-16,"nowcast",12,25,14,19,18,18.189
+"PI-Barras",2020-06-17,"nowcast",12,25,14,19,18,18.287
+"PI-Barras",2020-06-18,"nowcast",11,25,15,20,18,18.606
+"PI-Barras",2020-06-19,"nowcast",11,25,15,20,19,18.785
+"PI-Barras",2020-06-20,"nowcast",12,25,16,21,19,18.996
+"PI-Barras",2020-06-21,"nowcast",13,26,16,21,19,19.553
+"PI-Barras",2020-06-22,"nowcast",14,28,15,21,20,20.646
+"PI-Barras",2020-06-23,"nowcast",13,27,17,22,21,21.136
+"PI-Barras",2020-06-24,"nowcast",14,29,17,23,22,22.315
+"PI-Barras",2020-06-25,"nowcast",14,29,17,23,23,22.767
+"PI-Barras",2020-06-26,"nowcast",15,31,19,25,24,23.737
+"PI-Barras",2020-06-27,"nowcast",16,31,20,26,24,24.378
+"PI-Barras",2020-06-28,"nowcast",16,32,21,27,25,24.916
+"PI-Barras",2020-06-29,"nowcast",17,33,22,28,26,25.851
+"PI-Barras",2020-06-30,"nowcast",18,34,21,27,26,26.49
+"PI-Barras",2020-07-01,"nowcast",18,34,23,29,27,27.049
+"PI-Barras",2020-07-02,"nowcast",18,34,23,29,27,27.521
+"PI-Barras",2020-07-03,"nowcast",19,36,23,30,28,28.224
+"PI-Barras",2020-07-04,"nowcast",19,36,25,31,29,28.727
+"PI-Barras",2020-07-05,"nowcast",21,37,25,31,29,28.784
+"PI-Barras",2020-07-06,"nowcast",21,37,22,29,28,28.546
+"PI-Barras",2020-07-07,"nowcast",21,37,23,30,29,28.689
+"PI-Barras",2020-07-08,"nowcast",19,36,26,32,29,29.017
+"PI-Barras",2020-07-09,"nowcast",20,37,23,30,29,29.243
+"PI-Barras",2020-07-10,"nowcast",21,38,24,31,30,30.341
+"PI-Barras",2020-07-11,"nowcast",23,40,25,32,31,31.518
+"PI-Barras",2020-07-12,"nowcast",23,40,27,34,32,32.348
+"PI-Barras",2020-07-13,"nowcast",24,42,28,35,33,33.517
+"PI-Barras",2020-07-14,"nowcast",25,43,29,36,34,34.57
+"PI-Barras",2020-07-15,"nowcast",25,43,31,38,35,35.132
+"PI-Barras",2020-07-16,"nowcast",25,44,31,38,36,35.603
+"PI-Barras",2020-07-17,"nowcast",25,44,32,39,36,35.858
+"PI-Barras",2020-07-18,"nowcast",25,44,29,37,35,35.456
+"PI-Barras",2020-07-19,"nowcast",25,43,29,36,35,34.905
+"PI-Barras",2020-07-20,"nowcast",23,42,31,38,34,34.338
+"PI-Barras",2020-07-21,"nowcast",24,42,29,36,34,33.883
+"PI-Barras",2020-07-22,"nowcast",23,42,28,35,33,32.88
+"PI-Barras",2020-07-23,"nowcast",23,42,25,33,32,32.186
+"PI-Barras",2020-07-24,"nowcast",21,41,26,34,32,32.163
+"PI-Barras",2020-07-25,"nowcast",18,40,27,35,31,31.783
 "PI-Barras",2020-04-27,"observed",NA,NA,NA,NA,1,NA
 "PI-Barras",2020-04-28,"observed",NA,NA,NA,NA,0,NA
 "PI-Barras",2020-04-29,"observed",NA,NA,NA,NA,2,NA
@@ -970,21 +955,22 @@
 "PI-Barras",2020-08-01,"observed",NA,NA,NA,NA,31,NA
 "PI-Barras",2020-08-02,"observed",NA,NA,NA,NA,21,NA
 "PI-Barras",2020-08-03,"observed",NA,NA,NA,NA,21,NA
-"PI-Barras",2020-08-04,"observed",NA,NA,NA,NA,0,NA
-"PI-Barras",2020-07-25,"forecast",17,47,24,36,33,33.6176
-"PI-Barras",2020-07-26,"forecast",16,49,25,38,33,33.801
-"PI-Barras",2020-07-27,"forecast",14,50,23,37,33,33.873
-"PI-Barras",2020-07-28,"forecast",13,51,22,37,33,33.5916
-"PI-Barras",2020-07-29,"forecast",13,53,21,37,33,33.9634
-"PI-Barras",2020-07-30,"forecast",10,53,18,36,33,33.9384
-"PI-Barras",2020-07-31,"forecast",8,54,20,38,33,34.2404
-"PI-Barras",2020-08-01,"forecast",8,56,22,41,32,34.1886
-"PI-Barras",2020-08-02,"forecast",6,56,16,36,32,34.1262
-"PI-Barras",2020-08-03,"forecast",6,59,16,37,32,34.6244
-"PI-Barras",2020-08-04,"forecast",4,59,15,37,32,34.707
-"PI-Barras",2020-08-05,"forecast",4,61,15,38,32,34.9316
-"PI-Barras",2020-08-06,"forecast",6,65,15,38,32,35.1306
-"PI-Barras",2020-08-07,"forecast",3,64,14,38,32,35.134
+"PI-Barras",2020-08-04,"observed",NA,NA,NA,NA,36,NA
+"PI-Barras",2020-08-05,"observed",NA,NA,NA,NA,0,NA
+"PI-Barras",2020-07-26,"forecast",15,45,25,36,32,32.267
+"PI-Barras",2020-07-27,"forecast",16,47,24,36,31,32.1148
+"PI-Barras",2020-07-28,"forecast",13,47,22,35,31,32.2434
+"PI-Barras",2020-07-29,"forecast",11,48,21,35,31,31.8882
+"PI-Barras",2020-07-30,"forecast",13,51,20,35,31,32.3174
+"PI-Barras",2020-07-31,"forecast",10,51,18,34,31,32.075
+"PI-Barras",2020-08-01,"forecast",8,51,17,34,30,31.9356
+"PI-Barras",2020-08-02,"forecast",8,53,16,34,30,32.0494
+"PI-Barras",2020-08-03,"forecast",6,53,17,35,30,32.1696
+"PI-Barras",2020-08-04,"forecast",8,55,14,33,30,32.2396
+"PI-Barras",2020-08-05,"forecast",4,55,13,33,29,32.043
+"PI-Barras",2020-08-06,"forecast",4,57,14,34,29,32.1018
+"PI-Barras",2020-08-07,"forecast",2,57,13,34,29,32.2882
+"PI-Barras",2020-08-08,"forecast",3,58,10,32,29,32.3258
 "PI-Bom Jesus",2020-03-17,"nowcast",1,1,1,1,1,1
 "PI-Bom Jesus",2020-03-18,"nowcast",0,0,0,0,0,0
 "PI-Bom Jesus",2020-03-19,"nowcast",0,0,0,0,0,0
@@ -2468,137 +2454,143 @@
 "PI-Esperantina",2020-07-29,"forecast",0,22,0,7,7,10.3258
 "PI-Esperantina",2020-07-30,"forecast",0,22,0,7,7,10.4626
 "PI-Esperantina",2020-07-31,"forecast",0,23,0,6,6,10.4732
-"PI-Floriano",2020-03-16,"nowcast",1,1,1,1,1,1
-"PI-Floriano",2020-03-17,"nowcast",0,1,0,1,0.5,0.5
-"PI-Floriano",2020-03-18,"nowcast",0,1,1,1,1,0.714285714285714
-"PI-Floriano",2020-03-19,"nowcast",0,1,0,0,0,0.3
-"PI-Floriano",2020-03-20,"nowcast",0,1,0,0,0,0.333333333333333
-"PI-Floriano",2020-03-21,"nowcast",0,1,0,0,0,0.3
-"PI-Floriano",2020-03-22,"nowcast",0,1,0,0,0,0.357142857142857
-"PI-Floriano",2020-03-23,"nowcast",0,1,0,0,0,0.333333333333333
-"PI-Floriano",2020-03-24,"nowcast",0,1,0,0,0,0.325581395348837
-"PI-Floriano",2020-03-25,"nowcast",0,1,0,0,0,0.315789473684211
-"PI-Floriano",2020-03-26,"nowcast",0,1,0,0,0,0.163934426229508
-"PI-Floriano",2020-03-27,"nowcast",0,1,0,0,0,0.36046511627907
-"PI-Floriano",2020-03-28,"nowcast",0,1,0,0,0,0.29126213592233
-"PI-Floriano",2020-03-29,"nowcast",0,1,0,0,0,0.32824427480916
-"PI-Floriano",2020-03-30,"nowcast",0,1,0,0,0,0.245161290322581
-"PI-Floriano",2020-03-31,"nowcast",0,1,0,0,0,0.267379679144385
-"PI-Floriano",2020-04-01,"nowcast",0,1,0,0,0,0.327800829875519
-"PI-Floriano",2020-04-02,"nowcast",0,1,0,0,0,0.289198606271777
-"PI-Floriano",2020-04-03,"nowcast",0,1,0,0,0,0.28698224852071
-"PI-Floriano",2020-04-04,"nowcast",0,1,0,0,0,0.308457711442786
-"PI-Floriano",2020-04-05,"nowcast",0,1,0,0,0,0.376842105263158
-"PI-Floriano",2020-04-06,"nowcast",0,1,0,0,0,0.323104693140794
-"PI-Floriano",2020-04-07,"nowcast",0,1,0,0,0,0.365384615384615
-"PI-Floriano",2020-04-08,"nowcast",0,1,0,0,0,0.399713467048711
-"PI-Floriano",2020-04-09,"nowcast",0,1,0,0,0,0.41038961038961
-"PI-Floriano",2020-04-10,"nowcast",0,1,0,0,0,0.441916167664671
-"PI-Floriano",2020-04-11,"nowcast",0,1,0,0,0,0.473506200676437
-"PI-Floriano",2020-04-12,"nowcast",0,1,0,0,0,0.548076923076923
-"PI-Floriano",2020-04-13,"nowcast",0,1,0,0,0,0.561786085150571
-"PI-Floriano",2020-04-14,"nowcast",0,2,0,0,0,0.617977528089888
-"PI-Floriano",2020-04-15,"nowcast",0,2,0,0,0,0.65489404641776
-"PI-Floriano",2020-04-16,"nowcast",0,2,0,0,0,0.643863179074447
-"PI-Floriano",2020-04-17,"nowcast",0,2,0,0,0,0.647943831494483
-"PI-Floriano",2020-04-18,"nowcast",0,2,0,1,1,0.692076228686058
-"PI-Floriano",2020-04-19,"nowcast",0,2,0,0,0,0.666
-"PI-Floriano",2020-04-20,"nowcast",0,2,0,1,1,0.696
-"PI-Floriano",2020-04-21,"nowcast",0,2,0,1,1,0.774
-"PI-Floriano",2020-04-22,"nowcast",0,2,0,1,1,0.853
-"PI-Floriano",2020-04-23,"nowcast",0,2,0,1,1,0.954
-"PI-Floriano",2020-04-24,"nowcast",0,2,0,1,1,1.087
-"PI-Floriano",2020-04-25,"nowcast",0,3,0,1,1,1.162
-"PI-Floriano",2020-04-26,"nowcast",0,3,0,1,1,1.312
-"PI-Floriano",2020-04-27,"nowcast",0,3,0,1,1,1.373
-"PI-Floriano",2020-04-28,"nowcast",0,3,0,1,1,1.579
-"PI-Floriano",2020-04-29,"nowcast",0,3,1,2,2,1.719
-"PI-Floriano",2020-04-30,"nowcast",0,4,1,2,2,1.85
-"PI-Floriano",2020-05-01,"nowcast",0,4,1,2,2,2.068
-"PI-Floriano",2020-05-02,"nowcast",0,4,0,2,2,2.264
-"PI-Floriano",2020-05-03,"nowcast",0,4,0,2,2,2.336
-"PI-Floriano",2020-05-04,"nowcast",0,5,0,2,2,2.563
-"PI-Floriano",2020-05-05,"nowcast",0,5,0,2,2,2.616
-"PI-Floriano",2020-05-06,"nowcast",0,5,1,3,3,2.824
-"PI-Floriano",2020-05-07,"nowcast",0,5,1,3,3,2.911
-"PI-Floriano",2020-05-08,"nowcast",0,5,1,3,3,3.058
-"PI-Floriano",2020-05-09,"nowcast",1,6,1,3,3,3.164
-"PI-Floriano",2020-05-10,"nowcast",1,6,1,3,3,3.276
-"PI-Floriano",2020-05-11,"nowcast",0,5,1,3,3,3.09
-"PI-Floriano",2020-05-12,"nowcast",0,5,1,3,3,2.977
-"PI-Floriano",2020-05-13,"nowcast",0,5,1,3,3,2.928
-"PI-Floriano",2020-05-14,"nowcast",0,5,1,3,3,2.904
-"PI-Floriano",2020-05-15,"nowcast",0,5,1,3,3,2.866
-"PI-Floriano",2020-05-16,"nowcast",0,5,1,3,3,2.841
-"PI-Floriano",2020-05-17,"nowcast",0,5,1,3,3,2.795
-"PI-Floriano",2020-05-18,"nowcast",0,5,1,3,3,2.713
-"PI-Floriano",2020-05-19,"nowcast",0,5,1,3,3,2.695
-"PI-Floriano",2020-05-20,"nowcast",0,4,2,3,2,2.49
-"PI-Floriano",2020-05-21,"nowcast",0,4,0,2,2,2.319
-"PI-Floriano",2020-05-22,"nowcast",0,4,1,2,2,2.14
-"PI-Floriano",2020-05-23,"nowcast",0,4,1,2,2,1.94
-"PI-Floriano",2020-05-24,"nowcast",0,4,1,2,2,1.946
-"PI-Floriano",2020-05-25,"nowcast",0,3,1,2,2,1.786
-"PI-Floriano",2020-05-26,"nowcast",0,4,1,2,2,1.891
-"PI-Floriano",2020-05-27,"nowcast",0,3,1,2,2,1.82
-"PI-Floriano",2020-05-28,"nowcast",0,4,1,2,2,1.8
-"PI-Floriano",2020-05-29,"nowcast",0,4,1,2,2,1.985
-"PI-Floriano",2020-05-30,"nowcast",0,4,1,2,2,2.058
-"PI-Floriano",2020-05-31,"nowcast",0,4,1,2,2,2.249
-"PI-Floriano",2020-06-01,"nowcast",1,5,0,2,2,2.553
-"PI-Floriano",2020-06-02,"nowcast",0,5,0,2,2,2.609
-"PI-Floriano",2020-06-03,"nowcast",0,5,1,3,3,2.855
-"PI-Floriano",2020-06-04,"nowcast",0,5,1,3,3,3.078
-"PI-Floriano",2020-06-05,"nowcast",1,6,1,3,3,3.365
-"PI-Floriano",2020-06-06,"nowcast",1,6,1,3,3,3.443
-"PI-Floriano",2020-06-07,"nowcast",1,6,2,4,4,3.705
-"PI-Floriano",2020-06-08,"nowcast",0,6,2,4,4,3.942
-"PI-Floriano",2020-06-09,"nowcast",1,7,2,4,4,4.214
-"PI-Floriano",2020-06-10,"nowcast",1,7,3,5,4,4.434
-"PI-Floriano",2020-06-11,"nowcast",1,7,3,5,5,4.612
-"PI-Floriano",2020-06-12,"nowcast",1,8,3,5,4,4.594
-"PI-Floriano",2020-06-13,"nowcast",1,7,3,5,4,4.538
-"PI-Floriano",2020-06-14,"nowcast",1,7,3,5,4,4.402
-"PI-Floriano",2020-06-15,"nowcast",1,7,3,5,4,4.352
-"PI-Floriano",2020-06-16,"nowcast",1,7,3,5,4,4.264
-"PI-Floriano",2020-06-17,"nowcast",1,7,2,4,4,4.002
-"PI-Floriano",2020-06-18,"nowcast",1,7,2,4,4,3.943
-"PI-Floriano",2020-06-19,"nowcast",1,7,2,4,4,4.116
-"PI-Floriano",2020-06-20,"nowcast",0,6,2,4,4,3.995
-"PI-Floriano",2020-06-21,"nowcast",1,7,2,4,4,4.106
-"PI-Floriano",2020-06-22,"nowcast",1,7,2,4,4,4.111
-"PI-Floriano",2020-06-23,"nowcast",1,7,3,5,4,4.383
-"PI-Floriano",2020-06-24,"nowcast",1,7,3,5,4,4.453
-"PI-Floriano",2020-06-25,"nowcast",1,7,3,5,4,4.502
-"PI-Floriano",2020-06-26,"nowcast",2,8,3,5,4,4.609
-"PI-Floriano",2020-06-27,"nowcast",1,7,3,5,4,4.587
-"PI-Floriano",2020-06-28,"nowcast",1,8,3,5,5,4.737
-"PI-Floriano",2020-06-29,"nowcast",1,8,3,5,5,5.122
-"PI-Floriano",2020-06-30,"nowcast",2,9,2,5,5,5.42
-"PI-Floriano",2020-07-01,"nowcast",1,9,3,6,6,5.771
-"PI-Floriano",2020-07-02,"nowcast",2,10,3,6,6,6.383
-"PI-Floriano",2020-07-03,"nowcast",2,10,4,7,7,6.848
-"PI-Floriano",2020-07-04,"nowcast",4,12,5,8,7,7.503
-"PI-Floriano",2020-07-05,"nowcast",3,12,6,9,8,8.043
-"PI-Floriano",2020-07-06,"nowcast",4,13,6,9,8,8.58
-"PI-Floriano",2020-07-07,"nowcast",5,14,6,10,9,9.392
-"PI-Floriano",2020-07-08,"nowcast",4,14,7,11,10,10.001
-"PI-Floriano",2020-07-09,"nowcast",6,16,8,12,11,10.876
-"PI-Floriano",2020-07-10,"nowcast",6,16,8,12,11,11.569
-"PI-Floriano",2020-07-11,"nowcast",6,17,9,13,12,12.179
-"PI-Floriano",2020-07-12,"nowcast",8,19,10,14,13,13.067
-"PI-Floriano",2020-07-13,"nowcast",8,19,11,15,14,13.711
-"PI-Floriano",2020-07-14,"nowcast",8,20,10,15,14,14.6
-"PI-Floriano",2020-07-15,"nowcast",9,21,11,16,15,15.221
-"PI-Floriano",2020-07-16,"nowcast",8,21,12,17,16,15.652
-"PI-Floriano",2020-07-17,"nowcast",9,22,13,18,16,16.334
-"PI-Floriano",2020-07-18,"nowcast",11,24,14,19,18,17.625
-"PI-Floriano",2020-07-19,"nowcast",12,25,15,20,18,18.487
-"PI-Floriano",2020-07-20,"nowcast",12,27,17,22,20,19.862
-"PI-Floriano",2020-07-21,"nowcast",13,29,18,24,22,21.861
-"PI-Floriano",2020-07-22,"nowcast",14,31,18,25,24,23.879
-"PI-Floriano",2020-07-23,"nowcast",16,33,20,27,25,25.768
-"PI-Floriano",2020-07-24,"nowcast",18,38,22,29,27,27.964
+"PI-Floriano",2020-03-11,"nowcast",1,1,1,1,1,1
+"PI-Floriano",2020-03-12,"nowcast",1,1,1,1,1,1
+"PI-Floriano",2020-03-13,"nowcast",0,1,1,1,1,0.75
+"PI-Floriano",2020-03-14,"nowcast",0,1,0,0,0,0.2
+"PI-Floriano",2020-03-15,"nowcast",0,1,0,0,0,0.428571428571429
+"PI-Floriano",2020-03-16,"nowcast",0,1,0,0,0,0.222222222222222
+"PI-Floriano",2020-03-17,"nowcast",0,1,0,0,0,0.181818181818182
+"PI-Floriano",2020-03-18,"nowcast",0,0,0,0,0,0.0909090909090909
+"PI-Floriano",2020-03-19,"nowcast",0,1,0,0,0,0.153846153846154
+"PI-Floriano",2020-03-20,"nowcast",0,1,0,0,0,0.277777777777778
+"PI-Floriano",2020-03-21,"nowcast",0,1,0,0,0,0.2
+"PI-Floriano",2020-03-22,"nowcast",0,1,0,0,0,0.307692307692308
+"PI-Floriano",2020-03-23,"nowcast",0,1,0,0,0,0.352941176470588
+"PI-Floriano",2020-03-24,"nowcast",0,1,0,0,0,0.238095238095238
+"PI-Floriano",2020-03-25,"nowcast",0,1,0,0,0,0.26
+"PI-Floriano",2020-03-26,"nowcast",0,1,0,0,0,0.358208955223881
+"PI-Floriano",2020-03-27,"nowcast",0,1,0,0,0,0.310344827586207
+"PI-Floriano",2020-03-28,"nowcast",0,1,0,0,0,0.278260869565217
+"PI-Floriano",2020-03-29,"nowcast",0,1,0,0,0,0.282608695652174
+"PI-Floriano",2020-03-30,"nowcast",0,1,0,0,0,0.251572327044025
+"PI-Floriano",2020-03-31,"nowcast",0,1,0,0,0,0.265625
+"PI-Floriano",2020-04-01,"nowcast",0,1,0,0,0,0.308695652173913
+"PI-Floriano",2020-04-02,"nowcast",0,1,0,0,0,0.294117647058824
+"PI-Floriano",2020-04-03,"nowcast",0,1,0,0,0,0.333333333333333
+"PI-Floriano",2020-04-04,"nowcast",0,1,0,0,0,0.315384615384615
+"PI-Floriano",2020-04-05,"nowcast",0,1,0,0,0,0.291938997821351
+"PI-Floriano",2020-04-06,"nowcast",0,1,0,0,0,0.378870673952641
+"PI-Floriano",2020-04-07,"nowcast",0,1,0,0,0,0.396255850234009
+"PI-Floriano",2020-04-08,"nowcast",0,1,0,0,0,0.390581717451524
+"PI-Floriano",2020-04-09,"nowcast",0,1,0,0,0,0.40745501285347
+"PI-Floriano",2020-04-10,"nowcast",0,1,0,0,0,0.430932703659976
+"PI-Floriano",2020-04-11,"nowcast",0,1,0,0,0,0.452643171806167
+"PI-Floriano",2020-04-12,"nowcast",0,1,0,0,0,0.536997885835095
+"PI-Floriano",2020-04-13,"nowcast",0,1,0,0,0,0.545923632610939
+"PI-Floriano",2020-04-14,"nowcast",0,2,0,0,0,0.615934627170582
+"PI-Floriano",2020-04-15,"nowcast",0,2,0,0,0,0.618421052631579
+"PI-Floriano",2020-04-16,"nowcast",0,2,0,0,0,0.60481444332999
+"PI-Floriano",2020-04-17,"nowcast",0,2,0,0,0,0.631631631631632
+"PI-Floriano",2020-04-18,"nowcast",0,2,0,0,0,0.642
+"PI-Floriano",2020-04-19,"nowcast",0,2,0,0,0,0.647
+"PI-Floriano",2020-04-20,"nowcast",0,2,0,1,1,0.716
+"PI-Floriano",2020-04-21,"nowcast",0,2,0,1,1,0.804
+"PI-Floriano",2020-04-22,"nowcast",0,2,0,1,1,0.844
+"PI-Floriano",2020-04-23,"nowcast",0,2,0,1,1,0.902
+"PI-Floriano",2020-04-24,"nowcast",0,3,0,1,1,1.086
+"PI-Floriano",2020-04-25,"nowcast",0,2,0,1,1,1.133
+"PI-Floriano",2020-04-26,"nowcast",0,3,0,1,1,1.282
+"PI-Floriano",2020-04-27,"nowcast",0,3,0,1,1,1.436
+"PI-Floriano",2020-04-28,"nowcast",0,3,0,1,1,1.546
+"PI-Floriano",2020-04-29,"nowcast",0,3,1,2,2,1.744
+"PI-Floriano",2020-04-30,"nowcast",0,4,1,2,2,1.894
+"PI-Floriano",2020-05-01,"nowcast",0,4,1,2,2,2.099
+"PI-Floriano",2020-05-02,"nowcast",0,4,1,2,2,2.237
+"PI-Floriano",2020-05-03,"nowcast",0,4,1,2,2,2.269
+"PI-Floriano",2020-05-04,"nowcast",0,4,0,2,2,2.491
+"PI-Floriano",2020-05-05,"nowcast",0,5,0,2,2,2.629
+"PI-Floriano",2020-05-06,"nowcast",0,5,1,3,3,2.831
+"PI-Floriano",2020-05-07,"nowcast",0,5,1,3,3,3.019
+"PI-Floriano",2020-05-08,"nowcast",0,5,1,3,3,3.188
+"PI-Floriano",2020-05-09,"nowcast",1,6,1,3,3,3.233
+"PI-Floriano",2020-05-10,"nowcast",0,5,1,3,3,3.226
+"PI-Floriano",2020-05-11,"nowcast",0,5,1,3,3,3.111
+"PI-Floriano",2020-05-12,"nowcast",0,5,1,3,3,3.127
+"PI-Floriano",2020-05-13,"nowcast",0,5,1,3,3,3.034
+"PI-Floriano",2020-05-14,"nowcast",0,5,1,3,3,2.868
+"PI-Floriano",2020-05-15,"nowcast",0,5,1,3,3,2.871
+"PI-Floriano",2020-05-16,"nowcast",0,5,1,3,3,2.779
+"PI-Floriano",2020-05-17,"nowcast",0,5,1,3,3,2.89
+"PI-Floriano",2020-05-18,"nowcast",0,5,1,3,3,2.772
+"PI-Floriano",2020-05-19,"nowcast",0,5,1,3,3,2.696
+"PI-Floriano",2020-05-20,"nowcast",0,5,0,2,2,2.529
+"PI-Floriano",2020-05-21,"nowcast",0,4,0,2,2,2.303
+"PI-Floriano",2020-05-22,"nowcast",0,4,1,2,2,2.13
+"PI-Floriano",2020-05-23,"nowcast",0,4,1,2,2,1.956
+"PI-Floriano",2020-05-24,"nowcast",0,4,1,2,2,1.837
+"PI-Floriano",2020-05-25,"nowcast",0,4,1,2,2,1.809
+"PI-Floriano",2020-05-26,"nowcast",0,4,1,2,2,1.815
+"PI-Floriano",2020-05-27,"nowcast",0,4,1,2,2,1.786
+"PI-Floriano",2020-05-28,"nowcast",0,4,1,2,2,1.903
+"PI-Floriano",2020-05-29,"nowcast",0,4,1,2,2,1.889
+"PI-Floriano",2020-05-30,"nowcast",0,4,1,2,2,2.116
+"PI-Floriano",2020-05-31,"nowcast",0,4,0,2,2,2.263
+"PI-Floriano",2020-06-01,"nowcast",0,5,0,2,2,2.474
+"PI-Floriano",2020-06-02,"nowcast",0,5,0,2,2,2.616
+"PI-Floriano",2020-06-03,"nowcast",0,5,1,3,3,2.927
+"PI-Floriano",2020-06-04,"nowcast",0,5,1,3,3,3.093
+"PI-Floriano",2020-06-05,"nowcast",0,5,1,3,3,3.172
+"PI-Floriano",2020-06-06,"nowcast",1,6,1,3,3,3.502
+"PI-Floriano",2020-06-07,"nowcast",1,6,2,4,4,3.688
+"PI-Floriano",2020-06-08,"nowcast",0,6,2,4,4,4.036
+"PI-Floriano",2020-06-09,"nowcast",1,7,2,4,4,4.237
+"PI-Floriano",2020-06-10,"nowcast",1,7,3,5,4,4.548
+"PI-Floriano",2020-06-11,"nowcast",2,8,3,5,5,4.734
+"PI-Floriano",2020-06-12,"nowcast",2,8,3,5,5,4.759
+"PI-Floriano",2020-06-13,"nowcast",1,7,3,5,4,4.568
+"PI-Floriano",2020-06-14,"nowcast",1,7,3,5,4,4.543
+"PI-Floriano",2020-06-15,"nowcast",1,7,2,4,4,4.316
+"PI-Floriano",2020-06-16,"nowcast",1,7,2,4,4,4.174
+"PI-Floriano",2020-06-17,"nowcast",1,7,2,4,4,4.061
+"PI-Floriano",2020-06-18,"nowcast",0,6,2,4,4,4.004
+"PI-Floriano",2020-06-19,"nowcast",1,7,2,4,4,3.952
+"PI-Floriano",2020-06-20,"nowcast",1,7,2,4,4,4.016
+"PI-Floriano",2020-06-21,"nowcast",1,7,2,4,4,4.094
+"PI-Floriano",2020-06-22,"nowcast",1,7,2,4,4,4.216
+"PI-Floriano",2020-06-23,"nowcast",1,7,2,4,4,4.245
+"PI-Floriano",2020-06-24,"nowcast",1,7,3,5,4,4.231
+"PI-Floriano",2020-06-25,"nowcast",1,8,3,5,4,4.606
+"PI-Floriano",2020-06-26,"nowcast",2,8,3,5,4,4.552
+"PI-Floriano",2020-06-27,"nowcast",2,8,3,5,4,4.636
+"PI-Floriano",2020-06-28,"nowcast",1,8,2,5,5,4.838
+"PI-Floriano",2020-06-29,"nowcast",1,8,2,5,5,5.229
+"PI-Floriano",2020-06-30,"nowcast",1,8,4,6,5,5.264
+"PI-Floriano",2020-07-01,"nowcast",2,9,3,6,6,5.732
+"PI-Floriano",2020-07-02,"nowcast",2,10,3,6,6,6.244
+"PI-Floriano",2020-07-03,"nowcast",3,11,4,7,7,6.885
+"PI-Floriano",2020-07-04,"nowcast",3,11,5,8,7,7.576
+"PI-Floriano",2020-07-05,"nowcast",3,12,6,9,8,8.107
+"PI-Floriano",2020-07-06,"nowcast",4,13,7,10,9,8.783
+"PI-Floriano",2020-07-07,"nowcast",4,14,7,10,9,9.497
+"PI-Floriano",2020-07-08,"nowcast",5,15,7,11,10,10.24
+"PI-Floriano",2020-07-09,"nowcast",4,15,8,12,11,11.09
+"PI-Floriano",2020-07-10,"nowcast",6,17,8,12,12,11.824
+"PI-Floriano",2020-07-11,"nowcast",7,18,10,14,12,12.383
+"PI-Floriano",2020-07-12,"nowcast",7,18,10,14,13,13.247
+"PI-Floriano",2020-07-13,"nowcast",9,20,10,15,14,14.127
+"PI-Floriano",2020-07-14,"nowcast",9,20,10,15,15,14.757
+"PI-Floriano",2020-07-15,"nowcast",9,21,11,16,16,15.532
+"PI-Floriano",2020-07-16,"nowcast",8,22,13,18,16,16.242
+"PI-Floriano",2020-07-17,"nowcast",9,23,13,18,17,17.053
+"PI-Floriano",2020-07-18,"nowcast",10,24,14,19,18,17.936
+"PI-Floriano",2020-07-19,"nowcast",11,25,15,20,19,19.127
+"PI-Floriano",2020-07-20,"nowcast",13,28,16,22,20,20.672
+"PI-Floriano",2020-07-21,"nowcast",13,30,18,24,22,22.472
+"PI-Floriano",2020-07-22,"nowcast",16,33,19,26,25,24.824
+"PI-Floriano",2020-07-23,"nowcast",18,36,21,28,27,27.249
+"PI-Floriano",2020-07-24,"nowcast",18,38,24,31,29,29.421
+"PI-Floriano",2020-07-25,"nowcast",20,42,25,33,31,31.676
 "PI-Floriano",2020-04-19,"observed",NA,NA,NA,NA,1,NA
 "PI-Floriano",2020-04-20,"observed",NA,NA,NA,NA,1,NA
 "PI-Floriano",2020-04-21,"observed",NA,NA,NA,NA,0,NA
@@ -2706,21 +2698,22 @@
 "PI-Floriano",2020-08-01,"observed",NA,NA,NA,NA,65,NA
 "PI-Floriano",2020-08-02,"observed",NA,NA,NA,NA,3,NA
 "PI-Floriano",2020-08-03,"observed",NA,NA,NA,NA,46,NA
-"PI-Floriano",2020-08-04,"observed",NA,NA,NA,NA,0,NA
-"PI-Floriano",2020-07-25,"forecast",12,43,21,33,29,29.8302
-"PI-Floriano",2020-07-26,"forecast",12,49,21,35,31,32.0882
-"PI-Floriano",2020-07-27,"forecast",11,54,20,36,33,34.6894
-"PI-Floriano",2020-07-28,"forecast",10,60,24,42,35,37.4774
-"PI-Floriano",2020-07-29,"forecast",9,66,24,45,38,40.3192
-"PI-Floriano",2020-07-30,"forecast",11,76,22,46,40,44.1096
-"PI-Floriano",2020-07-31,"forecast",9,84,22,49,43,47.603
-"PI-Floriano",2020-08-01,"forecast",10,93,22,53,46,51.7968
-"PI-Floriano",2020-08-02,"forecast",7,102,23,57,49,55.635
-"PI-Floriano",2020-08-03,"forecast",0,108,20,59,52,60.9352
-"PI-Floriano",2020-08-04,"forecast",0,120,23,65,55,66.0614
-"PI-Floriano",2020-08-05,"forecast",0,132,24,70,59,71.8314
-"PI-Floriano",2020-08-06,"forecast",0,144,28,78,63,77.9782
-"PI-Floriano",2020-08-07,"forecast",0,164,19,76,67,86.938
+"PI-Floriano",2020-08-04,"observed",NA,NA,NA,NA,43,NA
+"PI-Floriano",2020-08-05,"observed",NA,NA,NA,NA,0,NA
+"PI-Floriano",2020-07-26,"forecast",16,50,23,36,33,34.1602
+"PI-Floriano",2020-07-27,"forecast",16,56,25,40,36,37.0888
+"PI-Floriano",2020-07-28,"forecast",16,63,27,44,38,40.0766
+"PI-Floriano",2020-07-29,"forecast",15,69,29,49,41,43.6114
+"PI-Floriano",2020-07-30,"forecast",15,78,29,52,45,47.4148
+"PI-Floriano",2020-07-31,"forecast",14,86,26,53,48,51.5558
+"PI-Floriano",2020-08-01,"forecast",16,99,26,57,51,55.6444
+"PI-Floriano",2020-08-02,"forecast",10,104,31,65,55,61.009
+"PI-Floriano",2020-08-03,"forecast",12,120,27,66,58,65.8422
+"PI-Floriano",2020-08-04,"forecast",5,126,28,71,62,70.8732
+"PI-Floriano",2020-08-05,"forecast",0,137,33,81,66,77.758
+"PI-Floriano",2020-08-06,"forecast",0,152,31,84,71,84.4458
+"PI-Floriano",2020-08-07,"forecast",0,170,29,89,76,92.2322
+"PI-Floriano",2020-08-08,"forecast",0,188,32,96,81,100.5132
 "PI-Joaquim Pires",2020-04-13,"nowcast",1,1,1,1,1,1
 "PI-Joaquim Pires",2020-04-14,"nowcast",0,0,0,0,0,0
 "PI-Joaquim Pires",2020-04-15,"nowcast",0,0,0,0,0,0
@@ -3880,157 +3873,161 @@
 "PI-Oeiras",2020-08-04,"forecast",0,35,2,15,14,18.454
 "PI-Oeiras",2020-08-05,"forecast",0,35,4,16,14,18.4336
 "PI-Oeiras",2020-08-06,"forecast",0,36,3,15,14,18.6676
-"PI-Parnaíba",2020-02-25,"nowcast",1,1,1,1,1,1
-"PI-Parnaíba",2020-02-26,"nowcast",0,1,0,1,0.5,0.5
-"PI-Parnaíba",2020-02-27,"nowcast",0,1,0,1,0.5,0.5
+"PI-Parnaíba",2020-02-22,"nowcast",1,1,1,1,1,1
+"PI-Parnaíba",2020-02-23,"nowcast",0,0,0,0,0,0
+"PI-Parnaíba",2020-02-24,"nowcast",0,0,0,0,0,0
+"PI-Parnaíba",2020-02-25,"nowcast",0,0,0,0,0,0
+"PI-Parnaíba",2020-02-26,"nowcast",0,1,1,1,1,0.75
+"PI-Parnaíba",2020-02-27,"nowcast",0,0,0,0,0,0
 "PI-Parnaíba",2020-02-28,"nowcast",0,0,0,0,0,0
-"PI-Parnaíba",2020-02-29,"nowcast",0,1,0,0,0,0.333333333333333
-"PI-Parnaíba",2020-03-01,"nowcast",0,0,0,0,0,0
-"PI-Parnaíba",2020-03-02,"nowcast",0,1,0,0,0,0.4
-"PI-Parnaíba",2020-03-03,"nowcast",0,1,0,0,0,0.466666666666667
-"PI-Parnaíba",2020-03-04,"nowcast",0,1,0,0,0,0.368421052631579
-"PI-Parnaíba",2020-03-05,"nowcast",0,1,0,0,0,0.307692307692308
-"PI-Parnaíba",2020-03-06,"nowcast",0,1,0,0,0,0.258064516129032
-"PI-Parnaíba",2020-03-07,"nowcast",0,1,0,0,0,0.147058823529412
-"PI-Parnaíba",2020-03-08,"nowcast",0,1,0,0,0,0.27906976744186
-"PI-Parnaíba",2020-03-09,"nowcast",0,1,0,0,0,0.298245614035088
-"PI-Parnaíba",2020-03-10,"nowcast",0,1,0,0,0,0.35
-"PI-Parnaíba",2020-03-11,"nowcast",0,1,0,0,0,0.244897959183673
-"PI-Parnaíba",2020-03-12,"nowcast",0,1,0,0,0,0.192982456140351
-"PI-Parnaíba",2020-03-13,"nowcast",0,1,0,0,0,0.26056338028169
-"PI-Parnaíba",2020-03-14,"nowcast",0,1,0,0,0,0.275862068965517
-"PI-Parnaíba",2020-03-15,"nowcast",0,1,0,0,0,0.263888888888889
-"PI-Parnaíba",2020-03-16,"nowcast",0,1,0,0,0,0.21484375
-"PI-Parnaíba",2020-03-17,"nowcast",0,1,0,0,0,0.24025974025974
-"PI-Parnaíba",2020-03-18,"nowcast",0,1,0,0,0,0.25
-"PI-Parnaíba",2020-03-19,"nowcast",0,1,0,0,0,0.2
-"PI-Parnaíba",2020-03-20,"nowcast",0,1,0,0,0,0.234939759036145
-"PI-Parnaíba",2020-03-21,"nowcast",0,1,0,0,0,0.176146788990826
-"PI-Parnaíba",2020-03-22,"nowcast",0,1,0,0,0,0.171768707482993
-"PI-Parnaíba",2020-03-23,"nowcast",0,1,0,0,0,0.15955766192733
-"PI-Parnaíba",2020-03-24,"nowcast",0,1,0,0,0,0.167159763313609
-"PI-Parnaíba",2020-03-25,"nowcast",0,1,0,0,0,0.132581100141044
-"PI-Parnaíba",2020-03-26,"nowcast",0,1,0,0,0,0.126373626373626
-"PI-Parnaíba",2020-03-27,"nowcast",0,1,0,0,0,0.138627187079408
-"PI-Parnaíba",2020-03-28,"nowcast",0,1,0,0,0,0.154046997389034
-"PI-Parnaíba",2020-03-29,"nowcast",0,1,0,0,0,0.189937106918239
-"PI-Parnaíba",2020-03-30,"nowcast",0,1,0,0,0,0.212895377128954
-"PI-Parnaíba",2020-03-31,"nowcast",0,1,0,0,0,0.268090154211151
-"PI-Parnaíba",2020-04-01,"nowcast",0,1,0,0,0,0.302298850574713
-"PI-Parnaíba",2020-04-02,"nowcast",0,1,0,0,0,0.388520971302428
-"PI-Parnaíba",2020-04-03,"nowcast",0,1,0,0,0,0.486687965921193
-"PI-Parnaíba",2020-04-04,"nowcast",0,2,0,0,0,0.546209761163032
-"PI-Parnaíba",2020-04-05,"nowcast",0,2,0,0,0,0.659160696008188
-"PI-Parnaíba",2020-04-06,"nowcast",0,2,0,1,1,0.773049645390071
-"PI-Parnaíba",2020-04-07,"nowcast",0,2,0,1,1,0.884422110552764
-"PI-Parnaíba",2020-04-08,"nowcast",0,2,0,1,1,1.02605210420842
-"PI-Parnaíba",2020-04-09,"nowcast",0,3,0,1,1,1.19839679358717
-"PI-Parnaíba",2020-04-10,"nowcast",0,3,0,1,1,1.39679358717435
-"PI-Parnaíba",2020-04-11,"nowcast",0,3,0,1,1,1.474
-"PI-Parnaíba",2020-04-12,"nowcast",0,3,0,1,1,1.666
-"PI-Parnaíba",2020-04-13,"nowcast",0,4,1,2,2,1.859
-"PI-Parnaíba",2020-04-14,"nowcast",0,4,1,2,2,2.014
-"PI-Parnaíba",2020-04-15,"nowcast",0,4,0,2,2,2.125
-"PI-Parnaíba",2020-04-16,"nowcast",0,4,1,2,2,2.297
-"PI-Parnaíba",2020-04-17,"nowcast",0,5,0,2,2,2.575
-"PI-Parnaíba",2020-04-18,"nowcast",0,5,1,3,3,2.85
-"PI-Parnaíba",2020-04-19,"nowcast",0,5,1,3,3,3.027
-"PI-Parnaíba",2020-04-20,"nowcast",1,6,1,3,3,3.387
-"PI-Parnaíba",2020-04-21,"nowcast",1,6,2,4,3,3.648
-"PI-Parnaíba",2020-04-22,"nowcast",1,7,2,4,4,3.968
-"PI-Parnaíba",2020-04-23,"nowcast",1,7,2,4,4,4.276
-"PI-Parnaíba",2020-04-24,"nowcast",1,8,3,5,5,4.701
-"PI-Parnaíba",2020-04-25,"nowcast",1,8,2,5,5,5.133
-"PI-Parnaíba",2020-04-26,"nowcast",2,9,3,6,5,5.618
-"PI-Parnaíba",2020-04-27,"nowcast",1,9,3,6,6,6.226
-"PI-Parnaíba",2020-04-28,"nowcast",2,10,4,7,7,6.714
-"PI-Parnaíba",2020-04-29,"nowcast",3,11,5,8,7,7.171
-"PI-Parnaíba",2020-04-30,"nowcast",4,12,5,8,7,7.614
-"PI-Parnaíba",2020-05-01,"nowcast",3,12,6,9,8,7.949
-"PI-Parnaíba",2020-05-02,"nowcast",3,13,6,9,8,8.465
-"PI-Parnaíba",2020-05-03,"nowcast",3,13,5,9,9,9.064
-"PI-Parnaíba",2020-05-04,"nowcast",4,14,6,10,9,9.705
-"PI-Parnaíba",2020-05-05,"nowcast",5,16,7,11,10,10.571
-"PI-Parnaíba",2020-05-06,"nowcast",5,17,10,14,12,11.754
-"PI-Parnaíba",2020-05-07,"nowcast",7,20,9,14,13,13.339
-"PI-Parnaíba",2020-05-08,"nowcast",7,20,11,16,14,14.672
-"PI-Parnaíba",2020-05-09,"nowcast",9,22,13,18,16,16.294
-"PI-Parnaíba",2020-05-10,"nowcast",10,25,13,19,18,18.241
-"PI-Parnaíba",2020-05-11,"nowcast",13,28,16,22,20,20.684
-"PI-Parnaíba",2020-05-12,"nowcast",15,32,16,23,23,23.064
-"PI-Parnaíba",2020-05-13,"nowcast",16,34,20,27,25,25.145
-"PI-Parnaíba",2020-05-14,"nowcast",18,36,23,30,28,27.799
-"PI-Parnaíba",2020-05-15,"nowcast",21,39,26,33,30,29.916
-"PI-Parnaíba",2020-05-16,"nowcast",22,41,28,35,33,32.739
-"PI-Parnaíba",2020-05-17,"nowcast",25,45,29,37,35,34.98
-"PI-Parnaíba",2020-05-18,"nowcast",25,46,31,39,37,37.056
-"PI-Parnaíba",2020-05-19,"nowcast",28,49,34,42,40,39.922
-"PI-Parnaíba",2020-05-20,"nowcast",32,53,37,45,42,42.651
-"PI-Parnaíba",2020-05-21,"nowcast",34,56,39,48,45,45.189
-"PI-Parnaíba",2020-05-22,"nowcast",37,58,41,50,47,47.567
-"PI-Parnaíba",2020-05-23,"nowcast",38,60,43,52,49.5,49.538
-"PI-Parnaíba",2020-05-24,"nowcast",38,61,45,54,51,51.023
-"PI-Parnaíba",2020-05-25,"nowcast",39,63,46,55,52,52.747
-"PI-Parnaíba",2020-05-26,"nowcast",41,65,48,57,54,54.179
-"PI-Parnaíba",2020-05-27,"nowcast",43,67,50,59,57,56.602
-"PI-Parnaíba",2020-05-28,"nowcast",45,70,53,62,58,58.653
-"PI-Parnaíba",2020-05-29,"nowcast",48,73,54,64,61,61.038
-"PI-Parnaíba",2020-05-30,"nowcast",49,73,55,65,62,62.242
-"PI-Parnaíba",2020-05-31,"nowcast",49,75,57,67,63,63.267
-"PI-Parnaíba",2020-06-01,"nowcast",51,77,55,66,64,64.67
-"PI-Parnaíba",2020-06-02,"nowcast",52,78,58,69,65.5,65.67
-"PI-Parnaíba",2020-06-03,"nowcast",53,81,58,69,66,66.497
-"PI-Parnaíba",2020-06-04,"nowcast",55,82,61,72,69,68.932
-"PI-Parnaíba",2020-06-05,"nowcast",56,84,65,76,71,71.171
-"PI-Parnaíba",2020-06-06,"nowcast",59,88,66,77,74,74.401
-"PI-Parnaíba",2020-06-07,"nowcast",60,91,71,83,78,77.809
-"PI-Parnaíba",2020-06-08,"nowcast",66,97,76,88,82,81.887
-"PI-Parnaíba",2020-06-09,"nowcast",67,99,76,89,85,85.167
-"PI-Parnaíba",2020-06-10,"nowcast",73,105,83,95,90,90.393
-"PI-Parnaíba",2020-06-11,"nowcast",77,110,84,98,94,94.269
-"PI-Parnaíba",2020-06-12,"nowcast",83,114,89,102,99,98.978
-"PI-Parnaíba",2020-06-13,"nowcast",85,117,94,106,101,101.055
-"PI-Parnaíba",2020-06-14,"nowcast",87,117,94,107,104,103.851
-"PI-Parnaíba",2020-06-15,"nowcast",86,120,96,109,105,105.484
-"PI-Parnaíba",2020-06-16,"nowcast",91,123,98,111,108,107.759
-"PI-Parnaíba",2020-06-17,"nowcast",92,125,102,115,110,109.379
-"PI-Parnaíba",2020-06-18,"nowcast",93,126,101,114,110,110.28
-"PI-Parnaíba",2020-06-19,"nowcast",92,126,105,118,112,111.228
-"PI-Parnaíba",2020-06-20,"nowcast",92,125,98,112,109,109.168
-"PI-Parnaíba",2020-06-21,"nowcast",88,121,99,112,106,106.669
-"PI-Parnaíba",2020-06-22,"nowcast",88,120,95,108,104,104.207
-"PI-Parnaíba",2020-06-23,"nowcast",84,117,97,110,103,102.879
-"PI-Parnaíba",2020-06-24,"nowcast",84,118,95,109,103,102.699
-"PI-Parnaíba",2020-06-25,"nowcast",86,119,92,106,102,102.268
-"PI-Parnaíba",2020-06-26,"nowcast",84,117,93,106,100,100.212
-"PI-Parnaíba",2020-06-27,"nowcast",79,112,87,101,97,97.241
-"PI-Parnaíba",2020-06-28,"nowcast",75,107,84,96,92,91.669
-"PI-Parnaíba",2020-06-29,"nowcast",72,101,78,90,86,86.184
-"PI-Parnaíba",2020-06-30,"nowcast",66,96,74,86,82,81.703
-"PI-Parnaíba",2020-07-01,"nowcast",64,92,69,81,79,78.592
-"PI-Parnaíba",2020-07-02,"nowcast",61,88,68,79,76,75.772
-"PI-Parnaíba",2020-07-03,"nowcast",58,85,65,76,73,72.796
-"PI-Parnaíba",2020-07-04,"nowcast",55,81,61,72,69,68.951
-"PI-Parnaíba",2020-07-05,"nowcast",52,78,61,71,66,65.909
-"PI-Parnaíba",2020-07-06,"nowcast",50,75,57,67,63,63.38
-"PI-Parnaíba",2020-07-07,"nowcast",48,73,54,64,61,61.742
-"PI-Parnaíba",2020-07-08,"nowcast",47,71,53,63,60,60.538
-"PI-Parnaíba",2020-07-09,"nowcast",46,70,52,62,60,59.92
-"PI-Parnaíba",2020-07-10,"nowcast",45,70,53,63,59.5,59.636
-"PI-Parnaíba",2020-07-11,"nowcast",46,70,51,61,59,58.813
-"PI-Parnaíba",2020-07-12,"nowcast",44,69,54,63,58,58.287
-"PI-Parnaíba",2020-07-13,"nowcast",47,72,53,63,59,59.544
-"PI-Parnaíba",2020-07-14,"nowcast",47,72,53,63,61.5,61.414
-"PI-Parnaíba",2020-07-15,"nowcast",49,75,56,67,64,63.919
-"PI-Parnaíba",2020-07-16,"nowcast",52,78,61,71,66,66.545
-"PI-Parnaíba",2020-07-17,"nowcast",54,81,62,73,69,68.49
-"PI-Parnaíba",2020-07-18,"nowcast",55,82,63,74,70,70.106
-"PI-Parnaíba",2020-07-19,"nowcast",58,85,66,76,71,71.564
-"PI-Parnaíba",2020-07-20,"nowcast",59,85,66,76,72,71.61
-"PI-Parnaíba",2020-07-21,"nowcast",57,85,65,76,72,72.132
-"PI-Parnaíba",2020-07-22,"nowcast",56,84,66,77,72,71.636
-"PI-Parnaíba",2020-07-23,"nowcast",57,85,64,75,71,71.22
-"PI-Parnaíba",2020-07-24,"nowcast",56,84,63,74,69,69.924
+"PI-Parnaíba",2020-02-29,"nowcast",0,1,0,0,0,0.428571428571429
+"PI-Parnaíba",2020-03-01,"nowcast",0,1,0,0,0,0.333333333333333
+"PI-Parnaíba",2020-03-02,"nowcast",0,1,0,0,0,0.1
+"PI-Parnaíba",2020-03-03,"nowcast",0,1,0,0,0,0.4375
+"PI-Parnaíba",2020-03-04,"nowcast",0,1,0,0,0,0.238095238095238
+"PI-Parnaíba",2020-03-05,"nowcast",0,1,0,0,0,0.37037037037037
+"PI-Parnaíba",2020-03-06,"nowcast",0,1,0,0,0,0.133333333333333
+"PI-Parnaíba",2020-03-07,"nowcast",0,1,0,0,0,0.236842105263158
+"PI-Parnaíba",2020-03-08,"nowcast",0,1,0,0,0,0.270833333333333
+"PI-Parnaíba",2020-03-09,"nowcast",0,1,0,0,0,0.258064516129032
+"PI-Parnaíba",2020-03-10,"nowcast",0,1,0,0,0,0.289473684210526
+"PI-Parnaíba",2020-03-11,"nowcast",0,1,0,0,0,0.208791208791209
+"PI-Parnaíba",2020-03-12,"nowcast",0,1,0,0,0,0.274336283185841
+"PI-Parnaíba",2020-03-13,"nowcast",0,1,0,0,0,0.269503546099291
+"PI-Parnaíba",2020-03-14,"nowcast",0,1,0,0,0,0.274853801169591
+"PI-Parnaíba",2020-03-15,"nowcast",0,1,0,0,0,0.266990291262136
+"PI-Parnaíba",2020-03-16,"nowcast",0,1,0,0,0,0.211382113821138
+"PI-Parnaíba",2020-03-17,"nowcast",0,1,0,0,0,0.243150684931507
+"PI-Parnaíba",2020-03-18,"nowcast",0,1,0,0,0,0.201183431952663
+"PI-Parnaíba",2020-03-19,"nowcast",0,1,0,0,0,0.215384615384615
+"PI-Parnaíba",2020-03-20,"nowcast",0,1,0,0,0,0.218614718614719
+"PI-Parnaíba",2020-03-21,"nowcast",0,1,0,0,0,0.214285714285714
+"PI-Parnaíba",2020-03-22,"nowcast",0,1,0,0,0,0.189830508474576
+"PI-Parnaíba",2020-03-23,"nowcast",0,1,0,0,0,0.155660377358491
+"PI-Parnaíba",2020-03-24,"nowcast",0,1,0,0,0,0.124437781109445
+"PI-Parnaíba",2020-03-25,"nowcast",0,1,0,0,0,0.135251798561151
+"PI-Parnaíba",2020-03-26,"nowcast",0,1,0,0,0,0.123611111111111
+"PI-Parnaíba",2020-03-27,"nowcast",0,1,0,0,0,0.131081081081081
+"PI-Parnaíba",2020-03-28,"nowcast",0,1,0,0,0,0.16557161629435
+"PI-Parnaíba",2020-03-29,"nowcast",0,1,0,0,0,0.184948979591837
+"PI-Parnaíba",2020-03-30,"nowcast",0,1,0,0,0,0.232673267326733
+"PI-Parnaíba",2020-03-31,"nowcast",0,1,0,0,0,0.298099762470309
+"PI-Parnaíba",2020-04-01,"nowcast",0,1,0,0,0,0.315489749430524
+"PI-Parnaíba",2020-04-02,"nowcast",0,1,0,0,0,0.382222222222222
+"PI-Parnaíba",2020-04-03,"nowcast",0,1,0,0,0,0.481681034482759
+"PI-Parnaíba",2020-04-04,"nowcast",0,1,0,0,0,0.52
+"PI-Parnaíba",2020-04-05,"nowcast",0,2,0,0,0,0.620582120582121
+"PI-Parnaíba",2020-04-06,"nowcast",0,2,0,1,1,0.769703172978506
+"PI-Parnaíba",2020-04-07,"nowcast",0,2,0,1,1,0.892929292929293
+"PI-Parnaíba",2020-04-08,"nowcast",0,2,0,1,1,1.03815261044177
+"PI-Parnaíba",2020-04-09,"nowcast",0,3,0,1,1,1.23923923923924
+"PI-Parnaíba",2020-04-10,"nowcast",0,3,0,1,1,1.35335335335335
+"PI-Parnaíba",2020-04-11,"nowcast",0,3,0,1,1,1.57857857857858
+"PI-Parnaíba",2020-04-12,"nowcast",0,3,0,1,1,1.668
+"PI-Parnaíba",2020-04-13,"nowcast",0,4,1,2,2,1.89
+"PI-Parnaíba",2020-04-14,"nowcast",0,4,1,2,2,1.956
+"PI-Parnaíba",2020-04-15,"nowcast",0,4,1,2,2,2.101
+"PI-Parnaíba",2020-04-16,"nowcast",0,4,1,2,2,2.268
+"PI-Parnaíba",2020-04-17,"nowcast",0,5,0,2,2,2.587
+"PI-Parnaíba",2020-04-18,"nowcast",0,5,1,3,3,2.827
+"PI-Parnaíba",2020-04-19,"nowcast",0,5,1,3,3,3.042
+"PI-Parnaíba",2020-04-20,"nowcast",1,6,1,3,3,3.441
+"PI-Parnaíba",2020-04-21,"nowcast",1,6,2,4,3,3.642
+"PI-Parnaíba",2020-04-22,"nowcast",1,7,2,4,4,4.009
+"PI-Parnaíba",2020-04-23,"nowcast",1,7,2,4,4,4.216
+"PI-Parnaíba",2020-04-24,"nowcast",1,8,2,5,4.5,4.737
+"PI-Parnaíba",2020-04-25,"nowcast",1,8,2,5,5,5.145
+"PI-Parnaíba",2020-04-26,"nowcast",2,9,3,6,5,5.602
+"PI-Parnaíba",2020-04-27,"nowcast",1,9,3,6,6,6.079
+"PI-Parnaíba",2020-04-28,"nowcast",2,10,4,7,7,6.826
+"PI-Parnaíba",2020-04-29,"nowcast",2,11,4,7,7,7.256
+"PI-Parnaíba",2020-04-30,"nowcast",3,12,4,8,8,7.78
+"PI-Parnaíba",2020-05-01,"nowcast",3,12,6,9,8,8.09
+"PI-Parnaíba",2020-05-02,"nowcast",4,13,5,9,8,8.438
+"PI-Parnaíba",2020-05-03,"nowcast",4,13,5,9,9,9.027
+"PI-Parnaíba",2020-05-04,"nowcast",5,15,6,10,10,9.862
+"PI-Parnaíba",2020-05-05,"nowcast",5,16,7,11,10,10.602
+"PI-Parnaíba",2020-05-06,"nowcast",5,17,7,12,11,11.728
+"PI-Parnaíba",2020-05-07,"nowcast",5,18,9,14,13,12.907
+"PI-Parnaíba",2020-05-08,"nowcast",8,21,11,16,15,14.85
+"PI-Parnaíba",2020-05-09,"nowcast",9,23,14,19,16,16.553
+"PI-Parnaíba",2020-05-10,"nowcast",10,25,13,19,18,18.557
+"PI-Parnaíba",2020-05-11,"nowcast",13,29,17,23,20,20.834
+"PI-Parnaíba",2020-05-12,"nowcast",14,31,16,23,22,22.773
+"PI-Parnaíba",2020-05-13,"nowcast",16,33,21,27,25,25.278
+"PI-Parnaíba",2020-05-14,"nowcast",19,36,22,29,28,27.857
+"PI-Parnaíba",2020-05-15,"nowcast",21,39,25,32,30,30.278
+"PI-Parnaíba",2020-05-16,"nowcast",24,42,26,34,32,32.716
+"PI-Parnaíba",2020-05-17,"nowcast",25,45,31,38,35,34.787
+"PI-Parnaíba",2020-05-18,"nowcast",26,47,32,40,37,37.33
+"PI-Parnaíba",2020-05-19,"nowcast",28,49,34,42,40,39.869
+"PI-Parnaíba",2020-05-20,"nowcast",31,52,35,44,42.5,42.473
+"PI-Parnaíba",2020-05-21,"nowcast",32,55,38,47,45,45.262
+"PI-Parnaíba",2020-05-22,"nowcast",33,57,41,50,47,47.202
+"PI-Parnaíba",2020-05-23,"nowcast",35,59,43,52,49,48.953
+"PI-Parnaíba",2020-05-24,"nowcast",38,61,45,54,51,50.868
+"PI-Parnaíba",2020-05-25,"nowcast",42,64,46,55,53,52.745
+"PI-Parnaíba",2020-05-26,"nowcast",41,65,47,57,54,54.457
+"PI-Parnaíba",2020-05-27,"nowcast",43,68,49,59,56,56.368
+"PI-Parnaíba",2020-05-28,"nowcast",46,70,51,61,58,58.613
+"PI-Parnaíba",2020-05-29,"nowcast",48,72,52,62,60,60.406
+"PI-Parnaíba",2020-05-30,"nowcast",48,74,55,65,62,62.482
+"PI-Parnaíba",2020-05-31,"nowcast",51,76,56,66,63,63.469
+"PI-Parnaíba",2020-06-01,"nowcast",50,76,56,67,64,64.393
+"PI-Parnaíba",2020-06-02,"nowcast",50,77,57,68,65,65.287
+"PI-Parnaíba",2020-06-03,"nowcast",51,80,62,73,67,67.011
+"PI-Parnaíba",2020-06-04,"nowcast",53,81,61,73,69,68.791
+"PI-Parnaíba",2020-06-05,"nowcast",57,84,62,74,71,71.172
+"PI-Parnaíba",2020-06-06,"nowcast",59,88,69,80,74,74.442
+"PI-Parnaíba",2020-06-07,"nowcast",62,92,70,81,77,77.829
+"PI-Parnaíba",2020-06-08,"nowcast",65,96,72,85,81,81.309
+"PI-Parnaíba",2020-06-09,"nowcast",67,99,78,90,86,86.388
+"PI-Parnaíba",2020-06-10,"nowcast",71,104,81,94,90,90.408
+"PI-Parnaíba",2020-06-11,"nowcast",80,110,87,99,94,94.92
+"PI-Parnaíba",2020-06-12,"nowcast",83,114,88,101,98,98.25
+"PI-Parnaíba",2020-06-13,"nowcast",85,118,91,105,101,101.26
+"PI-Parnaíba",2020-06-14,"nowcast",87,119,97,109,103,103.27
+"PI-Parnaíba",2020-06-15,"nowcast",89,121,94,107,105,105.102
+"PI-Parnaíba",2020-06-16,"nowcast",90,122,99,112,107,107.095
+"PI-Parnaíba",2020-06-17,"nowcast",90,123,100,113,109,109.034
+"PI-Parnaíba",2020-06-18,"nowcast",95,128,102,115,111,110.814
+"PI-Parnaíba",2020-06-19,"nowcast",92,127,101,114,110,110.17
+"PI-Parnaíba",2020-06-20,"nowcast",91,125,100,114,109,109.442
+"PI-Parnaíba",2020-06-21,"nowcast",87,120,95,108,105,105.706
+"PI-Parnaíba",2020-06-22,"nowcast",85,118,94,107,103,103.31
+"PI-Parnaíba",2020-06-23,"nowcast",85,117,94,107,103,102.502
+"PI-Parnaíba",2020-06-24,"nowcast",86,118,95,108,102,102.281
+"PI-Parnaíba",2020-06-25,"nowcast",82,116,96,109,102,102.317
+"PI-Parnaíba",2020-06-26,"nowcast",83,116,91,104,100,100.235
+"PI-Parnaíba",2020-06-27,"nowcast",78,110,89,102,97,96.928
+"PI-Parnaíba",2020-06-28,"nowcast",73,107,83,96,92,91.851
+"PI-Parnaíba",2020-06-29,"nowcast",71,102,80,92,87,86.855
+"PI-Parnaíba",2020-06-30,"nowcast",65,95,74,87,82,82.404
+"PI-Parnaíba",2020-07-01,"nowcast",60,92,69,81,78.5,78.434
+"PI-Parnaíba",2020-07-02,"nowcast",62,90,70,81,76,75.937
+"PI-Parnaíba",2020-07-03,"nowcast",60,87,63,75,73,73.212
+"PI-Parnaíba",2020-07-04,"nowcast",55,82,61,72,69,69.704
+"PI-Parnaíba",2020-07-05,"nowcast",51,77,59,69,66,66.192
+"PI-Parnaíba",2020-07-06,"nowcast",52,77,57,67,63,63.711
+"PI-Parnaíba",2020-07-07,"nowcast",49,73,54,64,61,61.496
+"PI-Parnaíba",2020-07-08,"nowcast",47,71,54,64,60,60.624
+"PI-Parnaíba",2020-07-09,"nowcast",48,71,52,62,60,60.122
+"PI-Parnaíba",2020-07-10,"nowcast",45,70,55,65,59,59.323
+"PI-Parnaíba",2020-07-11,"nowcast",48,71,51,60,58,58.508
+"PI-Parnaíba",2020-07-12,"nowcast",46,70,52,62,58,58.402
+"PI-Parnaíba",2020-07-13,"nowcast",46,71,51,62,60,59.801
+"PI-Parnaíba",2020-07-14,"nowcast",48,74,54,64,61,61.612
+"PI-Parnaíba",2020-07-15,"nowcast",50,76,58,68,64,64.497
+"PI-Parnaíba",2020-07-16,"nowcast",54,79,59,69,67,66.827
+"PI-Parnaíba",2020-07-17,"nowcast",55,80,63,73,69,69.385
+"PI-Parnaíba",2020-07-18,"nowcast",54,82,65,75,70,70.399
+"PI-Parnaíba",2020-07-19,"nowcast",57,86,64,75,72,72.132
+"PI-Parnaíba",2020-07-20,"nowcast",57,85,66,76,72,72.12
+"PI-Parnaíba",2020-07-21,"nowcast",59,86,64,75,72,72.178
+"PI-Parnaíba",2020-07-22,"nowcast",58,85,64,75,72,71.979
+"PI-Parnaíba",2020-07-23,"nowcast",55,86,64,76,72,72.119
+"PI-Parnaíba",2020-07-24,"nowcast",55,84,64,75,71,71.251
+"PI-Parnaíba",2020-07-25,"nowcast",54,84,61,73,69,68.944
 "PI-Parnaíba",2020-03-28,"observed",NA,NA,NA,NA,1,NA
 "PI-Parnaíba",2020-03-29,"observed",NA,NA,NA,NA,0,NA
 "PI-Parnaíba",2020-03-30,"observed",NA,NA,NA,NA,0,NA
@@ -4160,160 +4157,161 @@
 "PI-Parnaíba",2020-08-01,"observed",NA,NA,NA,NA,19,NA
 "PI-Parnaíba",2020-08-02,"observed",NA,NA,NA,NA,28,NA
 "PI-Parnaíba",2020-08-03,"observed",NA,NA,NA,NA,83,NA
-"PI-Parnaíba",2020-08-04,"observed",NA,NA,NA,NA,0,NA
-"PI-Parnaíba",2020-07-25,"forecast",50,95,60,78,72,73.07
-"PI-Parnaíba",2020-07-26,"forecast",48,98,60,80,73,73.7086
-"PI-Parnaíba",2020-07-27,"forecast",44,102,58,81,74,74.7798
-"PI-Parnaíba",2020-07-28,"forecast",44,108,57,82,75,75.8432
-"PI-Parnaíba",2020-07-29,"forecast",41,110,54,83,76,77.098
-"PI-Parnaíba",2020-07-30,"forecast",34,112,58,88,77,78.4692
-"PI-Parnaíba",2020-07-31,"forecast",33,117,54,88,78,80.1034
-"PI-Parnaíba",2020-08-01,"forecast",33,123,52,88,78,80.9024
-"PI-Parnaíba",2020-08-02,"forecast",33,132,51,90,79,82.9598
-"PI-Parnaíba",2020-08-03,"forecast",30,135,52,94,80,84.6266
-"PI-Parnaíba",2020-08-04,"forecast",30,141,45,90,81,86.2094
-"PI-Parnaíba",2020-08-05,"forecast",27,148,53,100,83,88.4382
-"PI-Parnaíba",2020-08-06,"forecast",20,151,48,99,84,90.1788
-"PI-Parnaíba",2020-08-07,"forecast",19,155,51,105,86,92.562
-"PI-Picos",2020-03-08,"nowcast",1,1,1,1,1,1
-"PI-Picos",2020-03-09,"nowcast",0,0,0,0,0,0
+"PI-Parnaíba",2020-08-04,"observed",NA,NA,NA,NA,76,NA
+"PI-Parnaíba",2020-08-05,"observed",NA,NA,NA,NA,0,NA
+"PI-Parnaíba",2020-07-26,"forecast",49,94,59,77,72,72.0186
+"PI-Parnaíba",2020-07-27,"forecast",45,95,59,79,72,72.4234
+"PI-Parnaíba",2020-07-28,"forecast",42,99,57,80,72,72.9708
+"PI-Parnaíba",2020-07-29,"forecast",42,105,56,81,72,73.5864
+"PI-Parnaíba",2020-07-30,"forecast",39,107,55,82,73,74.1698
+"PI-Parnaíba",2020-07-31,"forecast",34,109,54,84,74,75.3684
+"PI-Parnaíba",2020-08-01,"forecast",35,116,55,87,74,76.1736
+"PI-Parnaíba",2020-08-02,"forecast",30,117,49,84,74,77.1366
+"PI-Parnaíba",2020-08-03,"forecast",31,125,46,83,75,78.4478
+"PI-Parnaíba",2020-08-04,"forecast",27,127,44,84,76,79.6394
+"PI-Parnaíba",2020-08-05,"forecast",24,134,48,90,77,80.8282
+"PI-Parnaíba",2020-08-06,"forecast",20,137,45,89,76,81.9744
+"PI-Parnaíba",2020-08-07,"forecast",22,143,42,89,78,83.4766
+"PI-Parnaíba",2020-08-08,"forecast",17,144,40,90,78,85.0424
+"PI-Picos",2020-03-09,"nowcast",1,1,1,1,1,1
 "PI-Picos",2020-03-10,"nowcast",0,0,0,0,0,0
 "PI-Picos",2020-03-11,"nowcast",0,1,0,1,0.5,0.5
-"PI-Picos",2020-03-12,"nowcast",0,1,0,0,0,0.333333333333333
-"PI-Picos",2020-03-13,"nowcast",0,1,0,0,0,0.25
-"PI-Picos",2020-03-14,"nowcast",0,1,0,1,0.5,0.5
+"PI-Picos",2020-03-12,"nowcast",0,0,0,0,0,0
+"PI-Picos",2020-03-13,"nowcast",0,1,0,1,0.5,0.5
+"PI-Picos",2020-03-14,"nowcast",0,0,0,0,0,0
 "PI-Picos",2020-03-15,"nowcast",0,1,0,0,0,0.333333333333333
 "PI-Picos",2020-03-16,"nowcast",0,1,0,0,0,0.25
-"PI-Picos",2020-03-17,"nowcast",0,1,1,1,1,0.6
-"PI-Picos",2020-03-18,"nowcast",0,1,0,0,0,0.4
-"PI-Picos",2020-03-19,"nowcast",0,1,0,0,0,0.210526315789474
-"PI-Picos",2020-03-20,"nowcast",0,1,0,0,0,0.227272727272727
-"PI-Picos",2020-03-21,"nowcast",0,1,0,0,0,0.40625
-"PI-Picos",2020-03-22,"nowcast",0,1,0,0,0,0.418604651162791
-"PI-Picos",2020-03-23,"nowcast",0,1,0,0,0,0.387096774193548
-"PI-Picos",2020-03-24,"nowcast",0,1,0,0,0,0.298701298701299
-"PI-Picos",2020-03-25,"nowcast",0,1,0,0,0,0.336538461538462
-"PI-Picos",2020-03-26,"nowcast",0,1,0,0,0,0.274809160305344
-"PI-Picos",2020-03-27,"nowcast",0,1,0,0,0,0.367816091954023
-"PI-Picos",2020-03-28,"nowcast",0,1,0,0,0,0.311320754716981
-"PI-Picos",2020-03-29,"nowcast",0,1,0,0,0,0.365671641791045
-"PI-Picos",2020-03-30,"nowcast",0,1,0,0,0,0.292834890965732
-"PI-Picos",2020-03-31,"nowcast",0,1,0,0,0,0.324468085106383
-"PI-Picos",2020-04-01,"nowcast",0,1,0,0,0,0.34324942791762
-"PI-Picos",2020-04-02,"nowcast",0,1,0,0,0,0.37328094302554
-"PI-Picos",2020-04-03,"nowcast",0,1,0,0,0,0.385288966725044
-"PI-Picos",2020-04-04,"nowcast",0,1,0,0,0,0.457013574660633
-"PI-Picos",2020-04-05,"nowcast",0,1,0,0,0,0.451303155006859
-"PI-Picos",2020-04-06,"nowcast",0,1,0,0,0,0.524344569288389
-"PI-Picos",2020-04-07,"nowcast",0,2,0,0,0,0.551925320886814
-"PI-Picos",2020-04-08,"nowcast",0,2,0,0,0,0.660773480662983
-"PI-Picos",2020-04-09,"nowcast",0,2,0,0,0,0.656382978723404
-"PI-Picos",2020-04-10,"nowcast",0,2,0,1,1,0.782833505687694
-"PI-Picos",2020-04-11,"nowcast",0,2,0,1,1,0.965447154471545
-"PI-Picos",2020-04-12,"nowcast",0,2,0,1,1,1.04843592330979
-"PI-Picos",2020-04-13,"nowcast",0,3,0,1,1,1.17953861584754
-"PI-Picos",2020-04-14,"nowcast",0,3,0,1,1,1.51402805611222
-"PI-Picos",2020-04-15,"nowcast",0,3,0,1,1,1.691
-"PI-Picos",2020-04-16,"nowcast",0,4,1,2,2,1.909
-"PI-Picos",2020-04-17,"nowcast",0,4,1,2,2,2.2
-"PI-Picos",2020-04-18,"nowcast",0,4,0,2,2,2.476
-"PI-Picos",2020-04-19,"nowcast",0,5,1,3,3,2.957
-"PI-Picos",2020-04-20,"nowcast",0,5,1,3,3,3.111
-"PI-Picos",2020-04-21,"nowcast",1,6,1,3,3,3.51
-"PI-Picos",2020-04-22,"nowcast",1,6,2,4,3,3.588
-"PI-Picos",2020-04-23,"nowcast",1,6,2,4,4,3.722
-"PI-Picos",2020-04-24,"nowcast",0,6,2,4,4,3.869
-"PI-Picos",2020-04-25,"nowcast",0,6,2,4,4,3.74
-"PI-Picos",2020-04-26,"nowcast",1,6,2,4,4,3.736
-"PI-Picos",2020-04-27,"nowcast",1,7,2,4,4,4.081
-"PI-Picos",2020-04-28,"nowcast",1,7,3,5,4,4.457
-"PI-Picos",2020-04-29,"nowcast",1,8,3,5,5,4.903
-"PI-Picos",2020-04-30,"nowcast",2,9,2,5,5,5.338
-"PI-Picos",2020-05-01,"nowcast",2,9,3,6,6,5.861
-"PI-Picos",2020-05-02,"nowcast",3,10,3,6,6,6.154
-"PI-Picos",2020-05-03,"nowcast",3,10,4,7,6,6.54
-"PI-Picos",2020-05-04,"nowcast",2,10,4,7,7,6.755
-"PI-Picos",2020-05-05,"nowcast",3,10,4,7,7,6.813
-"PI-Picos",2020-05-06,"nowcast",2,10,4,7,7,6.804
-"PI-Picos",2020-05-07,"nowcast",3,10,4,7,7,6.729
-"PI-Picos",2020-05-08,"nowcast",2,10,4,7,7,6.823
-"PI-Picos",2020-05-09,"nowcast",2,10,4,7,7,6.776
-"PI-Picos",2020-05-10,"nowcast",2,10,4,7,6,6.606
-"PI-Picos",2020-05-11,"nowcast",3,10,4,7,6,6.486
-"PI-Picos",2020-05-12,"nowcast",3,10,3,6,6,6.34
-"PI-Picos",2020-05-13,"nowcast",3,10,3,6,6,6.268
-"PI-Picos",2020-05-14,"nowcast",2,10,4,7,6,6.412
-"PI-Picos",2020-05-15,"nowcast",3,10,3,6,6,6.235
-"PI-Picos",2020-05-16,"nowcast",3,10,3,6,6,6.306
-"PI-Picos",2020-05-17,"nowcast",2,9,3,6,6,6.232
-"PI-Picos",2020-05-18,"nowcast",2,9,3,6,6,5.943
-"PI-Picos",2020-05-19,"nowcast",2,9,3,6,6,5.879
-"PI-Picos",2020-05-20,"nowcast",2,9,3,6,6,5.762
-"PI-Picos",2020-05-21,"nowcast",2,9,3,6,6,5.641
-"PI-Picos",2020-05-22,"nowcast",2,9,4,6,5,5.559
-"PI-Picos",2020-05-23,"nowcast",1,8,2,5,5,5.445
-"PI-Picos",2020-05-24,"nowcast",2,9,3,6,6,5.71
-"PI-Picos",2020-05-25,"nowcast",2,9,3,6,6,5.874
-"PI-Picos",2020-05-26,"nowcast",2,9,3,6,6,6.121
-"PI-Picos",2020-05-27,"nowcast",2,10,4,7,6,6.571
-"PI-Picos",2020-05-28,"nowcast",3,11,4,7,7,6.857
-"PI-Picos",2020-05-29,"nowcast",3,11,4,7,7,7.409
-"PI-Picos",2020-05-30,"nowcast",4,13,6,9,8,8.201
-"PI-Picos",2020-05-31,"nowcast",3,13,7,10,9,8.874
-"PI-Picos",2020-06-01,"nowcast",4,14,6,10,10,9.722
-"PI-Picos",2020-06-02,"nowcast",6,16,7,11,11,10.699
-"PI-Picos",2020-06-03,"nowcast",6,16,8,12,11,11.424
-"PI-Picos",2020-06-04,"nowcast",7,18,9,13,12,12.59
-"PI-Picos",2020-06-05,"nowcast",8,19,11,15,13,13.556
-"PI-Picos",2020-06-06,"nowcast",7,20,11,16,15,14.655
-"PI-Picos",2020-06-07,"nowcast",9,21,11,16,15,15.533
-"PI-Picos",2020-06-08,"nowcast",9,23,13,18,17,16.798
-"PI-Picos",2020-06-09,"nowcast",10,24,14,19,18,17.842
-"PI-Picos",2020-06-10,"nowcast",11,25,16,21,19,18.915
-"PI-Picos",2020-06-11,"nowcast",13,27,15,21,20,20.195
-"PI-Picos",2020-06-12,"nowcast",13,28,17,23,21,21.578
-"PI-Picos",2020-06-13,"nowcast",14,30,18,24,23,22.778
-"PI-Picos",2020-06-14,"nowcast",16,31,19,25,24,23.932
-"PI-Picos",2020-06-15,"nowcast",17,32,20,26,25,24.969
-"PI-Picos",2020-06-16,"nowcast",17,33,21,27,25,25.975
-"PI-Picos",2020-06-17,"nowcast",19,34,22,28,27,27.088
-"PI-Picos",2020-06-18,"nowcast",20,36,24,30,28,27.833
-"PI-Picos",2020-06-19,"nowcast",20,36,24,30,29,29.052
-"PI-Picos",2020-06-20,"nowcast",21,38,24,31,29,29.684
-"PI-Picos",2020-06-21,"nowcast",21,38,26,32,31,30.609
-"PI-Picos",2020-06-22,"nowcast",21,38,28,34,31,31.087
-"PI-Picos",2020-06-23,"nowcast",22,39,26,33,31,31.128
-"PI-Picos",2020-06-24,"nowcast",23,40,26,33,31,31.011
-"PI-Picos",2020-06-25,"nowcast",21,39,25,32,30,30.349
-"PI-Picos",2020-06-26,"nowcast",19,37,27,33,29,29.388
-"PI-Picos",2020-06-27,"nowcast",20,36,22,29,28,28.399
-"PI-Picos",2020-06-28,"nowcast",20,36,21,28,27,27.558
-"PI-Picos",2020-06-29,"nowcast",19,36,21,28,27,27.492
-"PI-Picos",2020-06-30,"nowcast",19,36,22,29,28,27.952
-"PI-Picos",2020-07-01,"nowcast",20,38,25,32,29,29.254
-"PI-Picos",2020-07-02,"nowcast",21,39,26,33,31,30.734
-"PI-Picos",2020-07-03,"nowcast",23,42,29,36,32,32.448
-"PI-Picos",2020-07-04,"nowcast",23,43,27,35,34,34.417
-"PI-Picos",2020-07-05,"nowcast",25,46,32,40,37,37.383
-"PI-Picos",2020-07-06,"nowcast",29,50,34,42,40,40.234
-"PI-Picos",2020-07-07,"nowcast",31,53,37,46,44,43.43
-"PI-Picos",2020-07-08,"nowcast",35,57,39,48,47,47.029
-"PI-Picos",2020-07-09,"nowcast",38,59,42,51,49,49.689
-"PI-Picos",2020-07-10,"nowcast",40,62,46,55,52,52.042
-"PI-Picos",2020-07-11,"nowcast",42,65,49,58,54,53.735
-"PI-Picos",2020-07-12,"nowcast",42,65,46,56,54,53.992
-"PI-Picos",2020-07-13,"nowcast",40,63,46,55,54,53.727
-"PI-Picos",2020-07-14,"nowcast",42,64,46,55,53,52.931
-"PI-Picos",2020-07-15,"nowcast",40,63,45,54,51,51.488
-"PI-Picos",2020-07-16,"nowcast",38,61,43,52,49,49.764
-"PI-Picos",2020-07-17,"nowcast",37,58,42,51,48,47.884
-"PI-Picos",2020-07-18,"nowcast",34,57,41,50,47,46.848
-"PI-Picos",2020-07-19,"nowcast",34,55,41,49,46,46.301
-"PI-Picos",2020-07-20,"nowcast",34,56,42,50,46,46.125
-"PI-Picos",2020-07-21,"nowcast",36,58,40,49,47,47.015
-"PI-Picos",2020-07-22,"nowcast",37,60,43,52,49,48.806
-"PI-Picos",2020-07-23,"nowcast",35,60,45,54,50,50.207
-"PI-Picos",2020-07-24,"nowcast",39,64,47,57,52,52.423
+"PI-Picos",2020-03-17,"nowcast",0,1,0,0,0,0.384615384615385
+"PI-Picos",2020-03-18,"nowcast",0,1,0,0,0,0.133333333333333
+"PI-Picos",2020-03-19,"nowcast",0,1,0,1,0.5,0.5
+"PI-Picos",2020-03-20,"nowcast",0,1,0,0,0,0.259259259259259
+"PI-Picos",2020-03-21,"nowcast",0,1,0,0,0,0.333333333333333
+"PI-Picos",2020-03-22,"nowcast",0,1,0,0,0,0.276595744680851
+"PI-Picos",2020-03-23,"nowcast",0,1,0,0,0,0.310344827586207
+"PI-Picos",2020-03-24,"nowcast",0,1,0,0,0,0.242857142857143
+"PI-Picos",2020-03-25,"nowcast",0,1,0,0,0,0.350515463917526
+"PI-Picos",2020-03-26,"nowcast",0,1,0,0,0,0.282051282051282
+"PI-Picos",2020-03-27,"nowcast",0,1,0,0,0,0.27891156462585
+"PI-Picos",2020-03-28,"nowcast",0,1,0,0,0,0.315217391304348
+"PI-Picos",2020-03-29,"nowcast",0,1,0,0,0,0.303964757709251
+"PI-Picos",2020-03-30,"nowcast",0,1,0,0,0,0.320284697508897
+"PI-Picos",2020-03-31,"nowcast",0,1,0,0,0,0.330409356725146
+"PI-Picos",2020-04-01,"nowcast",0,1,0,0,0,0.372881355932203
+"PI-Picos",2020-04-02,"nowcast",0,1,0,0,0,0.358606557377049
+"PI-Picos",2020-04-03,"nowcast",0,1,0,0,0,0.383561643835616
+"PI-Picos",2020-04-04,"nowcast",0,1,0,0,0,0.444776119402985
+"PI-Picos",2020-04-05,"nowcast",0,1,0,0,0,0.465771812080537
+"PI-Picos",2020-04-06,"nowcast",0,1,0,0,0,0.495037220843672
+"PI-Picos",2020-04-07,"nowcast",0,1,0,0,0,0.549653579676674
+"PI-Picos",2020-04-08,"nowcast",0,2,0,0,0,0.655701754385965
+"PI-Picos",2020-04-09,"nowcast",0,2,0,1,1,0.710526315789474
+"PI-Picos",2020-04-10,"nowcast",0,2,0,1,1,0.846707818930041
+"PI-Picos",2020-04-11,"nowcast",0,2,0,1,1,0.908998988877654
+"PI-Picos",2020-04-12,"nowcast",0,2,0,1,1,1.06143001007049
+"PI-Picos",2020-04-13,"nowcast",0,3,0,1,1,1.22722722722723
+"PI-Picos",2020-04-14,"nowcast",0,3,0,1,1,1.42542542542543
+"PI-Picos",2020-04-15,"nowcast",0,3,1,2,2,1.74
+"PI-Picos",2020-04-16,"nowcast",0,4,1,2,2,1.965
+"PI-Picos",2020-04-17,"nowcast",0,4,1,2,2,2.247
+"PI-Picos",2020-04-18,"nowcast",0,5,0,2,2,2.606
+"PI-Picos",2020-04-19,"nowcast",0,5,1,3,3,2.999
+"PI-Picos",2020-04-20,"nowcast",0,5,1,3,3,3.195
+"PI-Picos",2020-04-21,"nowcast",1,6,1,3,3,3.277
+"PI-Picos",2020-04-22,"nowcast",1,6,1,3,3,3.539
+"PI-Picos",2020-04-23,"nowcast",1,6,2,4,3,3.629
+"PI-Picos",2020-04-24,"nowcast",1,6,2,4,4,3.717
+"PI-Picos",2020-04-25,"nowcast",0,6,2,4,4,3.75
+"PI-Picos",2020-04-26,"nowcast",1,7,2,4,4,3.93
+"PI-Picos",2020-04-27,"nowcast",1,7,2,4,4,4.038
+"PI-Picos",2020-04-28,"nowcast",0,7,3,5,4,4.581
+"PI-Picos",2020-04-29,"nowcast",1,8,4,6,5,4.937
+"PI-Picos",2020-04-30,"nowcast",2,9,2,5,5,5.528
+"PI-Picos",2020-05-01,"nowcast",2,9,3,6,6,5.936
+"PI-Picos",2020-05-02,"nowcast",3,10,3,6,6,6.297
+"PI-Picos",2020-05-03,"nowcast",2,10,4,7,6,6.483
+"PI-Picos",2020-05-04,"nowcast",2,10,4,7,7,6.718
+"PI-Picos",2020-05-05,"nowcast",2,10,4,7,7,6.718
+"PI-Picos",2020-05-06,"nowcast",2,10,4,7,7,6.686
+"PI-Picos",2020-05-07,"nowcast",2,10,4,7,7,6.848
+"PI-Picos",2020-05-08,"nowcast",2,10,4,7,7,6.767
+"PI-Picos",2020-05-09,"nowcast",2,10,4,7,6,6.64
+"PI-Picos",2020-05-10,"nowcast",2,10,4,7,7,6.654
+"PI-Picos",2020-05-11,"nowcast",3,10,4,7,6,6.515
+"PI-Picos",2020-05-12,"nowcast",3,10,3,6,6,6.259
+"PI-Picos",2020-05-13,"nowcast",3,10,4,7,6,6.416
+"PI-Picos",2020-05-14,"nowcast",3,10,3,6,6,6.215
+"PI-Picos",2020-05-15,"nowcast",2,10,3,6,6,6.484
+"PI-Picos",2020-05-16,"nowcast",2,9,3,6,6,6.261
+"PI-Picos",2020-05-17,"nowcast",2,9,3,6,6,6.254
+"PI-Picos",2020-05-18,"nowcast",3,10,3,6,6,6.115
+"PI-Picos",2020-05-19,"nowcast",2,9,3,6,6,5.772
+"PI-Picos",2020-05-20,"nowcast",2,9,3,6,6,5.756
+"PI-Picos",2020-05-21,"nowcast",2,9,3,6,6,5.649
+"PI-Picos",2020-05-22,"nowcast",2,9,3,6,5,5.64
+"PI-Picos",2020-05-23,"nowcast",2,9,3,6,5,5.612
+"PI-Picos",2020-05-24,"nowcast",2,9,3,6,6,5.732
+"PI-Picos",2020-05-25,"nowcast",2,9,3,6,6,5.979
+"PI-Picos",2020-05-26,"nowcast",3,10,3,6,6,6.231
+"PI-Picos",2020-05-27,"nowcast",2,10,4,7,6,6.579
+"PI-Picos",2020-05-28,"nowcast",3,11,4,7,7,6.934
+"PI-Picos",2020-05-29,"nowcast",3,12,6,9,8,7.687
+"PI-Picos",2020-05-30,"nowcast",3,12,6,9,8,8.079
+"PI-Picos",2020-05-31,"nowcast",4,13,5,9,9,8.695
+"PI-Picos",2020-06-01,"nowcast",4,14,6,10,9,9.67
+"PI-Picos",2020-06-02,"nowcast",5,15,7,11,10,10.536
+"PI-Picos",2020-06-03,"nowcast",5,16,8,12,11,11.589
+"PI-Picos",2020-06-04,"nowcast",6,18,10,14,12,12.499
+"PI-Picos",2020-06-05,"nowcast",9,20,10,14,13,13.697
+"PI-Picos",2020-06-06,"nowcast",8,20,12,16,14,14.527
+"PI-Picos",2020-06-07,"nowcast",8,21,11,16,15,15.564
+"PI-Picos",2020-06-08,"nowcast",9,22,12,17,16.5,16.685
+"PI-Picos",2020-06-09,"nowcast",11,24,14,19,18,17.832
+"PI-Picos",2020-06-10,"nowcast",11,25,16,21,19,18.628
+"PI-Picos",2020-06-11,"nowcast",12,26,14,20,20,20.033
+"PI-Picos",2020-06-12,"nowcast",14,29,17,23,21.5,21.652
+"PI-Picos",2020-06-13,"nowcast",15,30,18,24,23,22.718
+"PI-Picos",2020-06-14,"nowcast",16,32,20,26,24,24.45
+"PI-Picos",2020-06-15,"nowcast",16,32,20,26,25,25.107
+"PI-Picos",2020-06-16,"nowcast",18,33,21,27,26,26.085
+"PI-Picos",2020-06-17,"nowcast",19,35,24,30,27,27.229
+"PI-Picos",2020-06-18,"nowcast",19,36,23,30,28,28.22
+"PI-Picos",2020-06-19,"nowcast",20,37,26,32,29,29.077
+"PI-Picos",2020-06-20,"nowcast",22,39,25,32,30,30.295
+"PI-Picos",2020-06-21,"nowcast",21,39,25,32,30,30.468
+"PI-Picos",2020-06-22,"nowcast",22,39,26,33,31,31.109
+"PI-Picos",2020-06-23,"nowcast",21,39,26,33,31,31.422
+"PI-Picos",2020-06-24,"nowcast",22,39,25,32,31,30.96
+"PI-Picos",2020-06-25,"nowcast",22,39,26,33,31,30.514
+"PI-Picos",2020-06-26,"nowcast",20,37,25,31,29,29.468
+"PI-Picos",2020-06-27,"nowcast",20,36,22,29,28,28.401
+"PI-Picos",2020-06-28,"nowcast",18,35,23,29,27,27.326
+"PI-Picos",2020-06-29,"nowcast",18,35,21,28,27,27.436
+"PI-Picos",2020-06-30,"nowcast",17,35,23,30,28,27.964
+"PI-Picos",2020-07-01,"nowcast",20,38,24,31,29,29.354
+"PI-Picos",2020-07-02,"nowcast",20,39,26,33,30,30.476
+"PI-Picos",2020-07-03,"nowcast",23,42,28,35,33,32.887
+"PI-Picos",2020-07-04,"nowcast",23,44,29,37,34,34.548
+"PI-Picos",2020-07-05,"nowcast",26,47,31,39,37,37.193
+"PI-Picos",2020-07-06,"nowcast",28,50,33,42,40,39.694
+"PI-Picos",2020-07-07,"nowcast",32,54,37,46,43,43.296
+"PI-Picos",2020-07-08,"nowcast",35,58,40,49,47,46.904
+"PI-Picos",2020-07-09,"nowcast",38,61,43,52,50,49.893
+"PI-Picos",2020-07-10,"nowcast",41,63,47,56,53,52.742
+"PI-Picos",2020-07-11,"nowcast",44,66,46,55,54,54.06
+"PI-Picos",2020-07-12,"nowcast",42,65,48,57,54,54.103
+"PI-Picos",2020-07-13,"nowcast",42,65,47,56,53,53.811
+"PI-Picos",2020-07-14,"nowcast",41,63,47,56,53,52.86
+"PI-Picos",2020-07-15,"nowcast",39,62,44,53,51,51.122
+"PI-Picos",2020-07-16,"nowcast",39,62,44,53,50,49.903
+"PI-Picos",2020-07-17,"nowcast",36,58,43,51,48,48.622
+"PI-Picos",2020-07-18,"nowcast",38,59,41,50,47,47.734
+"PI-Picos",2020-07-19,"nowcast",33,56,39,48,46,46.565
+"PI-Picos",2020-07-20,"nowcast",35,58,41,50,47,46.862
+"PI-Picos",2020-07-21,"nowcast",36,58,41,50,47,47.647
+"PI-Picos",2020-07-22,"nowcast",37,61,43,52,48.5,49.051
+"PI-Picos",2020-07-23,"nowcast",38,63,43,53,51,51.668
+"PI-Picos",2020-07-24,"nowcast",40,65,47,57,52,52.451
+"PI-Picos",2020-07-25,"nowcast",40,66,44,55,53,54.011
 "PI-Picos",2020-04-15,"observed",NA,NA,NA,NA,1,NA
 "PI-Picos",2020-04-16,"observed",NA,NA,NA,NA,0,NA
 "PI-Picos",2020-04-17,"observed",NA,NA,NA,NA,0,NA
@@ -4425,154 +4423,150 @@
 "PI-Picos",2020-08-01,"observed",NA,NA,NA,NA,51,NA
 "PI-Picos",2020-08-02,"observed",NA,NA,NA,NA,41,NA
 "PI-Picos",2020-08-03,"observed",NA,NA,NA,NA,64,NA
-"PI-Picos",2020-08-04,"observed",NA,NA,NA,NA,0,NA
-"PI-Picos",2020-07-25,"forecast",30,70,39,55,50,51.2806
-"PI-Picos",2020-07-26,"forecast",29,74,38,56,51,52.0636
-"PI-Picos",2020-07-27,"forecast",25,77,35,56,51,52.828
-"PI-Picos",2020-07-28,"forecast",24,80,36,58,51,52.9386
-"PI-Picos",2020-07-29,"forecast",20,83,34,58,52,53.9962
-"PI-Picos",2020-07-30,"forecast",19,86,31,57,51,53.8024
-"PI-Picos",2020-07-31,"forecast",17,89,34,61,51,54.7168
-"PI-Picos",2020-08-01,"forecast",13,92,27,57,51.5,55.5396
-"PI-Picos",2020-08-02,"forecast",16,100,32,63,52,56.5772
-"PI-Picos",2020-08-03,"forecast",12,104,27,60,52,58.1246
-"PI-Picos",2020-08-04,"forecast",6,102,23,58,52,57.94
-"PI-Picos",2020-08-05,"forecast",9,110,24,60,52,59.1944
-"PI-Picos",2020-08-06,"forecast",8,113,20,58,51,59.8816
-"PI-Picos",2020-08-07,"forecast",7,116,20,59,51,60.8286
-"PI-Piripiri",2020-03-14,"nowcast",1,1,1,1,1,1
-"PI-Piripiri",2020-03-15,"nowcast",0,0,0,0,0,0
-"PI-Piripiri",2020-03-16,"nowcast",0,0,0,0,0,0
-"PI-Piripiri",2020-03-17,"nowcast",0,0,0,0,0,0
-"PI-Piripiri",2020-03-18,"nowcast",0,1,0,1,0.5,0.5
-"PI-Piripiri",2020-03-19,"nowcast",0,0,0,0,0,0
-"PI-Piripiri",2020-03-20,"nowcast",0,1,0,1,0.5,0.5
-"PI-Piripiri",2020-03-21,"nowcast",0,1,0,0,0,0.428571428571429
-"PI-Piripiri",2020-03-22,"nowcast",0,1,0,0,0,0.222222222222222
-"PI-Piripiri",2020-03-23,"nowcast",0,1,0,0,0,0.272727272727273
-"PI-Piripiri",2020-03-24,"nowcast",0,1,0,0,0,0.285714285714286
-"PI-Piripiri",2020-03-25,"nowcast",0,1,0,0,0,0.294117647058824
-"PI-Piripiri",2020-03-26,"nowcast",0,1,0,0,0,0.222222222222222
-"PI-Piripiri",2020-03-27,"nowcast",0,1,0,0,0,0.263157894736842
-"PI-Piripiri",2020-03-28,"nowcast",0,1,0,0,0,0.307692307692308
-"PI-Piripiri",2020-03-29,"nowcast",0,1,0,0,0,0.333333333333333
-"PI-Piripiri",2020-03-30,"nowcast",0,1,0,0,0,0.431372549019608
-"PI-Piripiri",2020-03-31,"nowcast",0,1,0,0,0,0.303030303030303
-"PI-Piripiri",2020-04-01,"nowcast",0,1,0,0,0,0.305882352941176
-"PI-Piripiri",2020-04-02,"nowcast",0,1,0,0,0,0.359649122807018
-"PI-Piripiri",2020-04-03,"nowcast",0,1,0,0,0,0.342657342657343
-"PI-Piripiri",2020-04-04,"nowcast",0,1,0,0,0,0.35632183908046
-"PI-Piripiri",2020-04-05,"nowcast",0,1,0,0,0,0.302884615384615
-"PI-Piripiri",2020-04-06,"nowcast",0,1,0,0,0,0.347490347490348
-"PI-Piripiri",2020-04-07,"nowcast",0,1,0,0,0,0.346666666666667
-"PI-Piripiri",2020-04-08,"nowcast",0,1,0,0,0,0.409921671018277
-"PI-Piripiri",2020-04-09,"nowcast",0,1,0,0,0,0.346666666666667
-"PI-Piripiri",2020-04-10,"nowcast",0,1,0,0,0,0.405959031657356
-"PI-Piripiri",2020-04-11,"nowcast",0,1,0,0,0,0.382258064516129
-"PI-Piripiri",2020-04-12,"nowcast",0,1,0,0,0,0.448571428571429
-"PI-Piripiri",2020-04-13,"nowcast",0,1,0,0,0,0.490247074122237
-"PI-Piripiri",2020-04-14,"nowcast",0,2,0,0,0,0.601674641148325
-"PI-Piripiri",2020-04-15,"nowcast",0,2,0,0,0,0.639106145251397
-"PI-Piripiri",2020-04-16,"nowcast",0,2,0,1,1,0.733689839572192
-"PI-Piripiri",2020-04-17,"nowcast",0,2,0,1,1,0.86888657648283
-"PI-Piripiri",2020-04-18,"nowcast",0,2,0,1,1,0.977459016393443
-"PI-Piripiri",2020-04-19,"nowcast",0,3,0,1,1,1.14949494949495
-"PI-Piripiri",2020-04-20,"nowcast",0,3,0,1,1,1.35376884422111
-"PI-Piripiri",2020-04-21,"nowcast",0,3,0,1,1,1.50200400801603
-"PI-Piripiri",2020-04-22,"nowcast",0,3,1,2,2,1.76
-"PI-Piripiri",2020-04-23,"nowcast",0,4,1,2,2,2.005
-"PI-Piripiri",2020-04-24,"nowcast",0,4,1,2,2,2.037
-"PI-Piripiri",2020-04-25,"nowcast",0,4,0,2,2,2.217
-"PI-Piripiri",2020-04-26,"nowcast",0,4,1,2,2,2.251
-"PI-Piripiri",2020-04-27,"nowcast",0,4,0,2,2,2.322
-"PI-Piripiri",2020-04-28,"nowcast",0,4,2,3,2,2.362
-"PI-Piripiri",2020-04-29,"nowcast",0,5,0,2,2,2.462
-"PI-Piripiri",2020-04-30,"nowcast",0,5,2,3,3,2.642
-"PI-Piripiri",2020-05-01,"nowcast",0,5,1,3,3,2.83
-"PI-Piripiri",2020-05-02,"nowcast",0,5,1,3,3,2.899
-"PI-Piripiri",2020-05-03,"nowcast",0,5,1,3,3,2.768
-"PI-Piripiri",2020-05-04,"nowcast",0,5,1,3,3,2.821
-"PI-Piripiri",2020-05-05,"nowcast",1,5,1,3,3,2.743
-"PI-Piripiri",2020-05-06,"nowcast",0,5,1,3,3,2.717
-"PI-Piripiri",2020-05-07,"nowcast",0,5,1,3,3,2.868
-"PI-Piripiri",2020-05-08,"nowcast",0,5,1,3,3,2.857
-"PI-Piripiri",2020-05-09,"nowcast",0,5,1,3,3,2.996
-"PI-Piripiri",2020-05-10,"nowcast",0,5,1,3,3,3.07
-"PI-Piripiri",2020-05-11,"nowcast",0,5,1,3,3,2.87
-"PI-Piripiri",2020-05-12,"nowcast",0,5,1,3,3,2.88
-"PI-Piripiri",2020-05-13,"nowcast",0,5,1,3,3,2.923
-"PI-Piripiri",2020-05-14,"nowcast",0,5,1,3,3,2.977
-"PI-Piripiri",2020-05-15,"nowcast",0,5,1,3,3,2.998
-"PI-Piripiri",2020-05-16,"nowcast",1,6,1,3,3,3.281
-"PI-Piripiri",2020-05-17,"nowcast",1,6,1,3,3,3.347
-"PI-Piripiri",2020-05-18,"nowcast",1,6,1,3,3,3.495
-"PI-Piripiri",2020-05-19,"nowcast",0,6,2,4,4,3.647
-"PI-Piripiri",2020-05-20,"nowcast",0,6,2,4,4,3.812
-"PI-Piripiri",2020-05-21,"nowcast",1,7,2,4,4,4.016
-"PI-Piripiri",2020-05-22,"nowcast",1,7,2,4,4,4.095
-"PI-Piripiri",2020-05-23,"nowcast",1,7,2,4,4,4.3
-"PI-Piripiri",2020-05-24,"nowcast",1,7,3,5,4,4.522
-"PI-Piripiri",2020-05-25,"nowcast",1,8,3,5,5,4.774
-"PI-Piripiri",2020-05-26,"nowcast",1,8,4,6,5,4.936
-"PI-Piripiri",2020-05-27,"nowcast",1,8,4,6,5,5.168
-"PI-Piripiri",2020-05-28,"nowcast",1,8,3,6,5,5.432
-"PI-Piripiri",2020-05-29,"nowcast",2,9,3,6,5,5.64
-"PI-Piripiri",2020-05-30,"nowcast",2,9,3,6,6,5.733
-"PI-Piripiri",2020-05-31,"nowcast",3,10,3,6,6,5.941
-"PI-Piripiri",2020-06-01,"nowcast",1,9,3,6,6,6.124
-"PI-Piripiri",2020-06-02,"nowcast",3,10,4,7,7,6.64
-"PI-Piripiri",2020-06-03,"nowcast",3,11,4,7,7,7.01
-"PI-Piripiri",2020-06-04,"nowcast",3,11,5,8,8,7.599
-"PI-Piripiri",2020-06-05,"nowcast",4,12,6,9,8,8.062
-"PI-Piripiri",2020-06-06,"nowcast",4,13,6,9,8,8.574
-"PI-Piripiri",2020-06-07,"nowcast",4,13,7,10,9,8.884
-"PI-Piripiri",2020-06-08,"nowcast",3,13,6,10,9,9.314
-"PI-Piripiri",2020-06-09,"nowcast",4,14,6,10,9,9.639
-"PI-Piripiri",2020-06-10,"nowcast",4,14,7,11,10,10.173
-"PI-Piripiri",2020-06-11,"nowcast",6,16,8,12,11,10.862
-"PI-Piripiri",2020-06-12,"nowcast",6,16,8,12,11,11.437
-"PI-Piripiri",2020-06-13,"nowcast",5,16,9,13,12,11.941
-"PI-Piripiri",2020-06-14,"nowcast",6,17,9,13,12,12.21
-"PI-Piripiri",2020-06-15,"nowcast",7,17,9,13,12,12.186
-"PI-Piripiri",2020-06-16,"nowcast",7,17,9,13,12,12.172
-"PI-Piripiri",2020-06-17,"nowcast",7,18,10,14,13,12.651
-"PI-Piripiri",2020-06-18,"nowcast",7,18,9,13,13,12.673
-"PI-Piripiri",2020-06-19,"nowcast",8,18,10,14,13,12.833
-"PI-Piripiri",2020-06-20,"nowcast",7,18,10,14,13,13.091
-"PI-Piripiri",2020-06-21,"nowcast",7,18,10,14,13,13.406
-"PI-Piripiri",2020-06-22,"nowcast",8,19,10,14,13,13.572
-"PI-Piripiri",2020-06-23,"nowcast",8,19,12,16,14,13.901
-"PI-Piripiri",2020-06-24,"nowcast",7,19,9,14,14,14.039
-"PI-Piripiri",2020-06-25,"nowcast",7,19,10,15,14,14.054
-"PI-Piripiri",2020-06-26,"nowcast",9,20,12,16,14,14.304
-"PI-Piripiri",2020-06-27,"nowcast",7,19,10,15,14,14.226
-"PI-Piripiri",2020-06-28,"nowcast",7,19,11,15,14,14.263
-"PI-Piripiri",2020-06-29,"nowcast",9,21,13,17,15,15.319
-"PI-Piripiri",2020-06-30,"nowcast",9,22,12,17,16,16.228
-"PI-Piripiri",2020-07-01,"nowcast",10,23,12,17,17,17.031
-"PI-Piripiri",2020-07-02,"nowcast",10,24,13,19,18,18.087
-"PI-Piripiri",2020-07-03,"nowcast",12,26,16,21,19,19.344
-"PI-Piripiri",2020-07-04,"nowcast",12,26,17,22,20,20.194
-"PI-Piripiri",2020-07-05,"nowcast",12,27,16,22,21,20.751
-"PI-Piripiri",2020-07-06,"nowcast",14,29,17,23,22,21.686
-"PI-Piripiri",2020-07-07,"nowcast",14,29,17,23,22,22.673
-"PI-Piripiri",2020-07-08,"nowcast",16,31,19,25,24,24.079
-"PI-Piripiri",2020-07-09,"nowcast",16,31,20,26,25,25.225
-"PI-Piripiri",2020-07-10,"nowcast",17,33,23,29,26,26.013
-"PI-Piripiri",2020-07-11,"nowcast",18,33,21,27,26,25.973
-"PI-Piripiri",2020-07-12,"nowcast",16,32,21,27,25,25.507
-"PI-Piripiri",2020-07-13,"nowcast",16,31,19,25,24,24.619
-"PI-Piripiri",2020-07-14,"nowcast",15,30,19,25,23,23.231
-"PI-Piripiri",2020-07-15,"nowcast",14,29,17,23,22,22.219
-"PI-Piripiri",2020-07-16,"nowcast",14,28,17,23,22,21.518
-"PI-Piripiri",2020-07-17,"nowcast",13,27,16,22,21,21.102
-"PI-Piripiri",2020-07-18,"nowcast",13,28,17,23,21,21.227
-"PI-Piripiri",2020-07-19,"nowcast",13,28,16,22,21,21.127
-"PI-Piripiri",2020-07-20,"nowcast",14,28,16,22,21,20.799
-"PI-Piripiri",2020-07-21,"nowcast",14,28,16,22,21,21.135
-"PI-Piripiri",2020-07-22,"nowcast",13,28,17,23,21,21.48
-"PI-Piripiri",2020-07-23,"nowcast",12,29,17,23,21,21.741
-"PI-Piripiri",2020-07-24,"nowcast",12,30,17,24,22,22.431
+"PI-Picos",2020-08-04,"observed",NA,NA,NA,NA,57,NA
+"PI-Picos",2020-08-05,"observed",NA,NA,NA,NA,0,NA
+"PI-Picos",2020-07-26,"forecast",32,73,41,57,53,53.8728
+"PI-Picos",2020-07-27,"forecast",28,76,42,60,54,54.86
+"PI-Picos",2020-07-28,"forecast",28,80,40,60,54,55.6992
+"PI-Picos",2020-07-29,"forecast",25,84,38,61,55,56.5238
+"PI-Picos",2020-07-30,"forecast",20,85,37,62,55,57.0888
+"PI-Picos",2020-07-31,"forecast",22,90,34,61,55,57.586
+"PI-Picos",2020-08-01,"forecast",17,93,31,61,56,58.8346
+"PI-Picos",2020-08-02,"forecast",18,102,32,63,56,60.0824
+"PI-Picos",2020-08-03,"forecast",19,106,30,64,57,61.3668
+"PI-Picos",2020-08-04,"forecast",13,105,30,65,56,61.4282
+"PI-Picos",2020-08-05,"forecast",14,114,28,65,56,62.6208
+"PI-Picos",2020-08-06,"forecast",13,118,27,66,57,63.7944
+"PI-Picos",2020-08-07,"forecast",7,118,23,64,57,65.401
+"PI-Picos",2020-08-08,"forecast",0,117,22,64,56,66.0014
+"PI-Piripiri",2020-03-20,"nowcast",1,1,1,1,1,1
+"PI-Piripiri",2020-03-21,"nowcast",0,0,0,0,0,0
+"PI-Piripiri",2020-03-22,"nowcast",0,0,0,0,0,0
+"PI-Piripiri",2020-03-23,"nowcast",0,1,0,1,0.5,0.5
+"PI-Piripiri",2020-03-24,"nowcast",0,1,0,1,0.5,0.5
+"PI-Piripiri",2020-03-25,"nowcast",0,1,0,0,0,0.444444444444444
+"PI-Piripiri",2020-03-26,"nowcast",0,1,0,0,0,0.1
+"PI-Piripiri",2020-03-27,"nowcast",0,1,0,0,0,0.411764705882353
+"PI-Piripiri",2020-03-28,"nowcast",0,1,0,0,0,0.464285714285714
+"PI-Piripiri",2020-03-29,"nowcast",0,1,0,0,0,0.264705882352941
+"PI-Piripiri",2020-03-30,"nowcast",0,1,0,0,0,0.395833333333333
+"PI-Piripiri",2020-03-31,"nowcast",0,1,0,0,0,0.338709677419355
+"PI-Piripiri",2020-04-01,"nowcast",0,1,0,0,0,0.269230769230769
+"PI-Piripiri",2020-04-02,"nowcast",0,1,0,0,0,0.303030303030303
+"PI-Piripiri",2020-04-03,"nowcast",0,1,0,0,0,0.382978723404255
+"PI-Piripiri",2020-04-04,"nowcast",0,1,0,0,0,0.327485380116959
+"PI-Piripiri",2020-04-05,"nowcast",0,1,0,0,0,0.334883720930233
+"PI-Piripiri",2020-04-06,"nowcast",0,1,0,0,0,0.365313653136531
+"PI-Piripiri",2020-04-07,"nowcast",0,1,0,0,0,0.277258566978193
+"PI-Piripiri",2020-04-08,"nowcast",0,1,0,0,0,0.31283422459893
+"PI-Piripiri",2020-04-09,"nowcast",0,1,0,0,0,0.351598173515982
+"PI-Piripiri",2020-04-10,"nowcast",0,1,0,0,0,0.396153846153846
+"PI-Piripiri",2020-04-11,"nowcast",0,1,0,0,0,0.394957983193277
+"PI-Piripiri",2020-04-12,"nowcast",0,1,0,0,0,0.483260553129549
+"PI-Piripiri",2020-04-13,"nowcast",0,1,0,0,0,0.51741935483871
+"PI-Piripiri",2020-04-14,"nowcast",0,2,0,0,0,0.569212410501193
+"PI-Piripiri",2020-04-15,"nowcast",0,2,0,1,1,0.6953125
+"PI-Piripiri",2020-04-16,"nowcast",0,2,0,1,1,0.752127659574468
+"PI-Piripiri",2020-04-17,"nowcast",0,2,0,1,1,0.930041152263374
+"PI-Piripiri",2020-04-18,"nowcast",0,2,0,1,1,1.05252525252525
+"PI-Piripiri",2020-04-19,"nowcast",0,3,0,1,1,1.11546184738956
+"PI-Piripiri",2020-04-20,"nowcast",0,3,0,1,1,1.34634634634635
+"PI-Piripiri",2020-04-21,"nowcast",0,3,0,1,1,1.48148148148148
+"PI-Piripiri",2020-04-22,"nowcast",0,3,1,2,2,1.777
+"PI-Piripiri",2020-04-23,"nowcast",0,4,1,2,2,1.886
+"PI-Piripiri",2020-04-24,"nowcast",0,4,1,2,2,2.033
+"PI-Piripiri",2020-04-25,"nowcast",0,4,1,2,2,2.125
+"PI-Piripiri",2020-04-26,"nowcast",0,4,1,2,2,2.249
+"PI-Piripiri",2020-04-27,"nowcast",0,4,0,2,2,2.276
+"PI-Piripiri",2020-04-28,"nowcast",0,4,0,2,2,2.406
+"PI-Piripiri",2020-04-29,"nowcast",0,4,0,2,2,2.41
+"PI-Piripiri",2020-04-30,"nowcast",0,5,1,3,3,2.711
+"PI-Piripiri",2020-05-01,"nowcast",0,5,1,3,3,2.745
+"PI-Piripiri",2020-05-02,"nowcast",0,5,1,3,3,2.792
+"PI-Piripiri",2020-05-03,"nowcast",1,5,1,3,3,2.737
+"PI-Piripiri",2020-05-04,"nowcast",0,5,1,3,3,2.746
+"PI-Piripiri",2020-05-05,"nowcast",1,5,1,3,3,2.71
+"PI-Piripiri",2020-05-06,"nowcast",0,5,1,3,3,2.734
+"PI-Piripiri",2020-05-07,"nowcast",0,5,1,3,3,2.763
+"PI-Piripiri",2020-05-08,"nowcast",0,5,1,3,3,2.905
+"PI-Piripiri",2020-05-09,"nowcast",0,5,1,3,3,2.946
+"PI-Piripiri",2020-05-10,"nowcast",0,5,1,3,3,2.992
+"PI-Piripiri",2020-05-11,"nowcast",0,5,1,3,3,2.911
+"PI-Piripiri",2020-05-12,"nowcast",0,5,1,3,3,2.82
+"PI-Piripiri",2020-05-13,"nowcast",0,5,1,3,3,2.942
+"PI-Piripiri",2020-05-14,"nowcast",0,5,1,3,3,3.029
+"PI-Piripiri",2020-05-15,"nowcast",0,5,1,3,3,3.043
+"PI-Piripiri",2020-05-16,"nowcast",1,6,1,3,3,3.313
+"PI-Piripiri",2020-05-17,"nowcast",1,6,1,3,3,3.336
+"PI-Piripiri",2020-05-18,"nowcast",1,6,2,4,3,3.543
+"PI-Piripiri",2020-05-19,"nowcast",0,6,2,4,4,3.725
+"PI-Piripiri",2020-05-20,"nowcast",0,6,2,4,4,3.851
+"PI-Piripiri",2020-05-21,"nowcast",1,7,2,4,4,4.037
+"PI-Piripiri",2020-05-22,"nowcast",1,7,2,4,4,4.097
+"PI-Piripiri",2020-05-23,"nowcast",1,7,3,5,4,4.332
+"PI-Piripiri",2020-05-24,"nowcast",2,8,3,5,4,4.519
+"PI-Piripiri",2020-05-25,"nowcast",1,8,3,5,5,4.775
+"PI-Piripiri",2020-05-26,"nowcast",1,8,4,6,5,5.17
+"PI-Piripiri",2020-05-27,"nowcast",1,8,4,6,5,5.2
+"PI-Piripiri",2020-05-28,"nowcast",2,9,3,6,6,5.661
+"PI-Piripiri",2020-05-29,"nowcast",2,9,3,6,5,5.685
+"PI-Piripiri",2020-05-30,"nowcast",2,9,3,6,6,5.729
+"PI-Piripiri",2020-05-31,"nowcast",2,9,3,6,6,5.899
+"PI-Piripiri",2020-06-01,"nowcast",3,10,3,6,6,6.21
+"PI-Piripiri",2020-06-02,"nowcast",3,10,3,6,6,6.417
+"PI-Piripiri",2020-06-03,"nowcast",3,11,4,7,7,7.028
+"PI-Piripiri",2020-06-04,"nowcast",3,11,5,8,7,7.541
+"PI-Piripiri",2020-06-05,"nowcast",4,12,5,8,8,8.136
+"PI-Piripiri",2020-06-06,"nowcast",3,12,6,9,8,8.426
+"PI-Piripiri",2020-06-07,"nowcast",4,13,7,10,9,8.851
+"PI-Piripiri",2020-06-08,"nowcast",4,13,7,10,9,9.118
+"PI-Piripiri",2020-06-09,"nowcast",4,13,7,10,10,9.566
+"PI-Piripiri",2020-06-10,"nowcast",4,14,7,11,10,10.319
+"PI-Piripiri",2020-06-11,"nowcast",5,15,7,11,11,10.869
+"PI-Piripiri",2020-06-12,"nowcast",6,16,8,12,11,11.349
+"PI-Piripiri",2020-06-13,"nowcast",7,17,8,12,12,11.8
+"PI-Piripiri",2020-06-14,"nowcast",7,17,9,13,12,12.032
+"PI-Piripiri",2020-06-15,"nowcast",6,17,9,13,12,12.068
+"PI-Piripiri",2020-06-16,"nowcast",7,17,9,13,12,12.245
+"PI-Piripiri",2020-06-17,"nowcast",6,17,10,14,12,12.311
+"PI-Piripiri",2020-06-18,"nowcast",6,17,9,13,12,12.634
+"PI-Piripiri",2020-06-19,"nowcast",7,18,10,14,13,12.991
+"PI-Piripiri",2020-06-20,"nowcast",7,18,10,14,13,13.334
+"PI-Piripiri",2020-06-21,"nowcast",6,18,10,14,13,13.548
+"PI-Piripiri",2020-06-22,"nowcast",9,20,11,15,14,13.791
+"PI-Piripiri",2020-06-23,"nowcast",8,19,12,16,14,13.963
+"PI-Piripiri",2020-06-24,"nowcast",7,19,12,16,14,14.085
+"PI-Piripiri",2020-06-25,"nowcast",9,20,9,14,14,14.268
+"PI-Piripiri",2020-06-26,"nowcast",8,20,10,15,14,14.218
+"PI-Piripiri",2020-06-27,"nowcast",8,20,10,15,14,14.319
+"PI-Piripiri",2020-06-28,"nowcast",8,20,10,15,14,14.514
+"PI-Piripiri",2020-06-29,"nowcast",8,20,13,17,15,15.212
+"PI-Piripiri",2020-06-30,"nowcast",9,22,12,17,16,16.129
+"PI-Piripiri",2020-07-01,"nowcast",11,23,12,17,17,16.846
+"PI-Piripiri",2020-07-02,"nowcast",11,24,14,19,18,18.235
+"PI-Piripiri",2020-07-03,"nowcast",12,25,15,20,19,19.145
+"PI-Piripiri",2020-07-04,"nowcast",12,26,17,22,20,19.81
+"PI-Piripiri",2020-07-05,"nowcast",13,27,17,22,21,20.642
+"PI-Piripiri",2020-07-06,"nowcast",14,28,19,24,21.5,21.667
+"PI-Piripiri",2020-07-07,"nowcast",14,29,18,24,23,22.981
+"PI-Piripiri",2020-07-08,"nowcast",16,31,19,25,24,24.011
+"PI-Piripiri",2020-07-09,"nowcast",18,33,20,26,25,25.119
+"PI-Piripiri",2020-07-10,"nowcast",17,33,21,27,26,26.012
+"PI-Piripiri",2020-07-11,"nowcast",18,33,20,26,26,25.976
+"PI-Piripiri",2020-07-12,"nowcast",18,33,21,27,26,25.404
+"PI-Piripiri",2020-07-13,"nowcast",16,31,20,26,25,24.556
+"PI-Piripiri",2020-07-14,"nowcast",16,31,18,24,23,23.454
+"PI-Piripiri",2020-07-15,"nowcast",14,29,17,23,22,22.186
+"PI-Piripiri",2020-07-16,"nowcast",14,28,19,24,21,21.733
+"PI-Piripiri",2020-07-17,"nowcast",13,28,16,22,21,21.311
+"PI-Piripiri",2020-07-18,"nowcast",15,29,16,22,21,21.523
+"PI-Piripiri",2020-07-19,"nowcast",13,28,18,23,21,21.634
+"PI-Piripiri",2020-07-20,"nowcast",13,28,19,24,22,21.528
+"PI-Piripiri",2020-07-21,"nowcast",13,28,16,22,21,21.602
+"PI-Piripiri",2020-07-22,"nowcast",14,29,17,23,22,21.938
+"PI-Piripiri",2020-07-23,"nowcast",13,30,18,24,22,22.683
+"PI-Piripiri",2020-07-24,"nowcast",15,32,17,24,23,23.558
+"PI-Piripiri",2020-07-25,"nowcast",15,33,19,26,24,24.127
 "PI-Piripiri",2020-04-25,"observed",NA,NA,NA,NA,1,NA
 "PI-Piripiri",2020-04-26,"observed",NA,NA,NA,NA,0,NA
 "PI-Piripiri",2020-04-27,"observed",NA,NA,NA,NA,0,NA
@@ -4674,21 +4668,22 @@
 "PI-Piripiri",2020-08-01,"observed",NA,NA,NA,NA,8,NA
 "PI-Piripiri",2020-08-02,"observed",NA,NA,NA,NA,2,NA
 "PI-Piripiri",2020-08-03,"observed",NA,NA,NA,NA,31,NA
-"PI-Piripiri",2020-08-04,"observed",NA,NA,NA,NA,0,NA
-"PI-Piripiri",2020-07-25,"forecast",9,33,15,24,21,22.1618
-"PI-Piripiri",2020-07-26,"forecast",8,35,15,25,21,22.4058
-"PI-Piripiri",2020-07-27,"forecast",6,36,11,23,21,22.4474
-"PI-Piripiri",2020-07-28,"forecast",4,37,10,23,21,22.594
-"PI-Piripiri",2020-07-29,"forecast",3,38,10,23,21,22.8406
-"PI-Piripiri",2020-07-30,"forecast",3,40,9,23,21,23.1228
-"PI-Piripiri",2020-07-31,"forecast",2,42,7,22,21,23.367
-"PI-Piripiri",2020-08-01,"forecast",0,42,9,24,21,23.7156
-"PI-Piripiri",2020-08-02,"forecast",0,43,7,23,20,24.0488
-"PI-Piripiri",2020-08-03,"forecast",0,46,5,22,20,24.2512
-"PI-Piripiri",2020-08-04,"forecast",0,47,4,21,20,24.651
-"PI-Piripiri",2020-08-05,"forecast",0,49,3,21,20,24.9456
-"PI-Piripiri",2020-08-06,"forecast",0,49,3,21,19,25.1986
-"PI-Piripiri",2020-08-07,"forecast",0,51,3,21,19,25.7122
+"PI-Piripiri",2020-08-04,"observed",NA,NA,NA,NA,34,NA
+"PI-Piripiri",2020-08-05,"observed",NA,NA,NA,NA,0,NA
+"PI-Piripiri",2020-07-26,"forecast",10,35,15,25,23,23.9942
+"PI-Piripiri",2020-07-27,"forecast",9,38,14,25,23,24.5202
+"PI-Piripiri",2020-07-28,"forecast",7,39,14,26,23,24.8366
+"PI-Piripiri",2020-07-29,"forecast",7,42,15,28,24,25.5714
+"PI-Piripiri",2020-07-30,"forecast",7,44,12,26,24,25.9936
+"PI-Piripiri",2020-07-31,"forecast",6,47,10,26,24,26.508
+"PI-Piripiri",2020-08-01,"forecast",5,49,11,27,24,27.0808
+"PI-Piripiri",2020-08-02,"forecast",2,49,12,29,24,27.4372
+"PI-Piripiri",2020-08-03,"forecast",0,51,8,26,24,27.948
+"PI-Piripiri",2020-08-04,"forecast",0,53,7,26,24,28.724
+"PI-Piripiri",2020-08-05,"forecast",0,55,6,26,24,29.2286
+"PI-Piripiri",2020-08-06,"forecast",0,58,6,26,24,29.794
+"PI-Piripiri",2020-08-07,"forecast",0,59,7,28,23,30.7442
+"PI-Piripiri",2020-08-08,"forecast",0,62,5,26,23,31.2846
 "PI-São Raimundo Nonato",2020-03-01,"nowcast",1,1,1,1,1,1
 "PI-São Raimundo Nonato",2020-03-02,"nowcast",0,0,0,0,0,0
 "PI-São Raimundo Nonato",2020-03-03,"nowcast",0,0,0,0,0,0
@@ -4958,180 +4953,186 @@
 "PI-São Raimundo Nonato",2020-08-03,"forecast",0,50,0,12,12,26.5598
 "PI-São Raimundo Nonato",2020-08-04,"forecast",0,55,0,12,12,32.0546
 "PI-São Raimundo Nonato",2020-08-05,"forecast",0,59,0,12,12,36.7936
-"PI-Teresina",2020-02-03,"nowcast",1,1,1,1,1,1
+"PI-Teresina",2020-01-29,"nowcast",1,1,1,1,1,1
+"PI-Teresina",2020-01-30,"nowcast",0,0,0,0,0,0
+"PI-Teresina",2020-01-31,"nowcast",0,0,0,0,0,0
+"PI-Teresina",2020-02-01,"nowcast",0,0,0,0,0,0
+"PI-Teresina",2020-02-02,"nowcast",0,0,0,0,0,0
+"PI-Teresina",2020-02-03,"nowcast",0,0,0,0,0,0
 "PI-Teresina",2020-02-04,"nowcast",0,0,0,0,0,0
-"PI-Teresina",2020-02-05,"nowcast",0,0,0,0,0,0
-"PI-Teresina",2020-02-06,"nowcast",0,0,0,0,0,0
+"PI-Teresina",2020-02-05,"nowcast",0,1,0,1,0.5,0.5
+"PI-Teresina",2020-02-06,"nowcast",0,1,0,1,0.5,0.5
 "PI-Teresina",2020-02-07,"nowcast",0,0,0,0,0,0
 "PI-Teresina",2020-02-08,"nowcast",0,0,0,0,0,0
-"PI-Teresina",2020-02-09,"nowcast",0,0,0,0,0,0
-"PI-Teresina",2020-02-10,"nowcast",0,1,0,1,0.5,0.5
-"PI-Teresina",2020-02-11,"nowcast",0,1,0,0,0,0.333333333333333
-"PI-Teresina",2020-02-12,"nowcast",0,0,0,0,0,0
-"PI-Teresina",2020-02-13,"nowcast",0,1,1,1,1,0.666666666666667
-"PI-Teresina",2020-02-14,"nowcast",0,1,0,0,0,0.142857142857143
-"PI-Teresina",2020-02-15,"nowcast",0,1,0,0,0,0.142857142857143
+"PI-Teresina",2020-02-09,"nowcast",0,1,0,0,0,0.25
+"PI-Teresina",2020-02-10,"nowcast",0,0,0,0,0,0
+"PI-Teresina",2020-02-11,"nowcast",0,0,0,0,0,0
+"PI-Teresina",2020-02-12,"nowcast",0,1,0,0,0,0.2
+"PI-Teresina",2020-02-13,"nowcast",0,1,0,0,0,0.285714285714286
+"PI-Teresina",2020-02-14,"nowcast",0,1,0,0,0,0.416666666666667
+"PI-Teresina",2020-02-15,"nowcast",0,1,0,0,0,0.214285714285714
 "PI-Teresina",2020-02-16,"nowcast",0,1,0,0,0,0.363636363636364
-"PI-Teresina",2020-02-17,"nowcast",0,1,0,0,0,0.333333333333333
-"PI-Teresina",2020-02-18,"nowcast",0,1,0,0,0,0.363636363636364
-"PI-Teresina",2020-02-19,"nowcast",0,1,0,0,0,0.12
-"PI-Teresina",2020-02-20,"nowcast",0,1,0,0,0,0.28125
-"PI-Teresina",2020-02-21,"nowcast",0,1,0,0,0,0.355555555555556
-"PI-Teresina",2020-02-22,"nowcast",0,1,0,0,0,0.240740740740741
-"PI-Teresina",2020-02-23,"nowcast",0,1,0,0,0,0.203125
-"PI-Teresina",2020-02-24,"nowcast",0,1,0,0,0,0.329411764705882
-"PI-Teresina",2020-02-25,"nowcast",0,1,0,0,0,0.345454545454545
-"PI-Teresina",2020-02-26,"nowcast",0,1,0,0,0,0.345323741007194
-"PI-Teresina",2020-02-27,"nowcast",0,1,0,0,0,0.370165745856354
-"PI-Teresina",2020-02-28,"nowcast",0,1,0,0,0,0.37117903930131
-"PI-Teresina",2020-02-29,"nowcast",0,1,0,0,0,0.317689530685921
-"PI-Teresina",2020-03-01,"nowcast",0,1,0,0,0,0.335384615384615
-"PI-Teresina",2020-03-02,"nowcast",0,1,0,0,0,0.340369393139842
-"PI-Teresina",2020-03-03,"nowcast",0,1,0,0,0,0.34878587196468
-"PI-Teresina",2020-03-04,"nowcast",0,1,0,0,0,0.388994307400379
-"PI-Teresina",2020-03-05,"nowcast",0,1,0,0,0,0.415711947626841
-"PI-Teresina",2020-03-06,"nowcast",0,1,0,0,0,0.450784593437946
-"PI-Teresina",2020-03-07,"nowcast",0,1,0,0,0,0.465116279069767
-"PI-Teresina",2020-03-08,"nowcast",0,1,0,0,0,0.539568345323741
-"PI-Teresina",2020-03-09,"nowcast",0,2,0,0,0,0.634285714285714
-"PI-Teresina",2020-03-10,"nowcast",0,2,0,0,0,0.670639219934995
-"PI-Teresina",2020-03-11,"nowcast",0,2,0,1,1,0.747138397502601
-"PI-Teresina",2020-03-12,"nowcast",0,2,0,1,1,0.843298969072165
-"PI-Teresina",2020-03-13,"nowcast",0,2,0,1,1,0.91131498470948
-"PI-Teresina",2020-03-14,"nowcast",0,2,0,1,1,1.01612903225806
-"PI-Teresina",2020-03-15,"nowcast",0,2,0,1,1,1.05015045135406
-"PI-Teresina",2020-03-16,"nowcast",0,3,0,1,1,1.11022044088176
-"PI-Teresina",2020-03-17,"nowcast",0,3,0,1,1,1.20820820820821
-"PI-Teresina",2020-03-18,"nowcast",0,3,0,1,1,1.17117117117117
-"PI-Teresina",2020-03-19,"nowcast",0,3,0,1,1,1.26826826826827
-"PI-Teresina",2020-03-20,"nowcast",0,3,0,1,1,1.336
-"PI-Teresina",2020-03-21,"nowcast",0,3,0,1,1,1.516
-"PI-Teresina",2020-03-22,"nowcast",0,3,0,1,1,1.64
-"PI-Teresina",2020-03-23,"nowcast",0,4,1,2,2,1.817
-"PI-Teresina",2020-03-24,"nowcast",0,4,1,2,2,2.003
-"PI-Teresina",2020-03-25,"nowcast",0,5,0,2,2,2.418
-"PI-Teresina",2020-03-26,"nowcast",0,5,0,2,2,2.565
-"PI-Teresina",2020-03-27,"nowcast",0,5,1,3,3,2.75
-"PI-Teresina",2020-03-28,"nowcast",0,5,1,3,3,3.009
-"PI-Teresina",2020-03-29,"nowcast",0,6,1,3,3,3.362
-"PI-Teresina",2020-03-30,"nowcast",1,7,1,4,4,4.035
-"PI-Teresina",2020-03-31,"nowcast",1,8,1,4,4,4.499
-"PI-Teresina",2020-04-01,"nowcast",2,9,2,5,5,5.281
-"PI-Teresina",2020-04-02,"nowcast",1,9,3,6,6,6.022
-"PI-Teresina",2020-04-03,"nowcast",2,11,4,7,7,6.939
-"PI-Teresina",2020-04-04,"nowcast",3,12,4,8,8,7.804
-"PI-Teresina",2020-04-05,"nowcast",3,13,5,9,9,8.786
-"PI-Teresina",2020-04-06,"nowcast",4,15,6,10,10,9.996
-"PI-Teresina",2020-04-07,"nowcast",5,16,8,12,11,11.123
-"PI-Teresina",2020-04-08,"nowcast",5,18,8,13,12,12.507
-"PI-Teresina",2020-04-09,"nowcast",7,19,9,14,13,13.464
-"PI-Teresina",2020-04-10,"nowcast",8,21,11,16,15,14.682
-"PI-Teresina",2020-04-11,"nowcast",8,22,12,17,16,15.926
-"PI-Teresina",2020-04-12,"nowcast",9,23,13,18,16,16.883
-"PI-Teresina",2020-04-13,"nowcast",9,24,13,19,18,17.909
-"PI-Teresina",2020-04-14,"nowcast",12,26,14,20,19,19.413
-"PI-Teresina",2020-04-15,"nowcast",13,29,15,22,21,21.124
-"PI-Teresina",2020-04-16,"nowcast",14,30,18,24,23,22.736
-"PI-Teresina",2020-04-17,"nowcast",16,33,19,26,24,24.54
-"PI-Teresina",2020-04-18,"nowcast",17,35,22,29,27,26.896
-"PI-Teresina",2020-04-19,"nowcast",18,38,22,30,29,28.948
-"PI-Teresina",2020-04-20,"nowcast",20,40,26,33,31,31.418
-"PI-Teresina",2020-04-21,"nowcast",23,43,27,35,33,33.493
-"PI-Teresina",2020-04-22,"nowcast",25,45,30,38,36,36.126
-"PI-Teresina",2020-04-23,"nowcast",27,48,30,39,38,38.181
-"PI-Teresina",2020-04-24,"nowcast",28,50,36,44,40,40.406
-"PI-Teresina",2020-04-25,"nowcast",31,53,37,45,42,42.655
-"PI-Teresina",2020-04-26,"nowcast",32,54,40,48,44,44.108
-"PI-Teresina",2020-04-27,"nowcast",35,57,39,48,45,45.602
-"PI-Teresina",2020-04-28,"nowcast",34,58,42,51,47,47.252
-"PI-Teresina",2020-04-29,"nowcast",35,59,42,51,48,48.539
-"PI-Teresina",2020-04-30,"nowcast",36,61,44,53,50,50.104
-"PI-Teresina",2020-05-01,"nowcast",38,63,45,55,52,52.028
-"PI-Teresina",2020-05-02,"nowcast",39,65,47,57,53.5,53.759
-"PI-Teresina",2020-05-03,"nowcast",41,66,51,60,56,55.794
-"PI-Teresina",2020-05-04,"nowcast",44,70,49,60,57,56.945
-"PI-Teresina",2020-05-05,"nowcast",45,73,55,66,60,60.077
-"PI-Teresina",2020-05-06,"nowcast",48,75,57,67,62,62.577
-"PI-Teresina",2020-05-07,"nowcast",51,78,58,69,66,65.725
-"PI-Teresina",2020-05-08,"nowcast",53,79,59,70,67,67.132
-"PI-Teresina",2020-05-09,"nowcast",53,80,60,71,68,68.326
-"PI-Teresina",2020-05-10,"nowcast",53,82,64,75,69,68.89
-"PI-Teresina",2020-05-11,"nowcast",54,83,60,72,69,69.274
-"PI-Teresina",2020-05-12,"nowcast",54,84,63,75,70,70.352
-"PI-Teresina",2020-05-13,"nowcast",56,85,65,77,72,72.385
-"PI-Teresina",2020-05-14,"nowcast",56,88,64,77,74,73.969
-"PI-Teresina",2020-05-15,"nowcast",60,91,72,84,77,77.281
-"PI-Teresina",2020-05-16,"nowcast",60,93,69,82,79,79.166
-"PI-Teresina",2020-05-17,"nowcast",65,98,75,88,81,81.722
-"PI-Teresina",2020-05-18,"nowcast",64,101,76,90,84,84.636
-"PI-Teresina",2020-05-19,"nowcast",70,106,79,94,87,87.664
-"PI-Teresina",2020-05-20,"nowcast",73,111,80,96,92,92.914
-"PI-Teresina",2020-05-21,"nowcast",77,117,86,102,97,97.491
-"PI-Teresina",2020-05-22,"nowcast",84,125,94,110,103,103.557
-"PI-Teresina",2020-05-23,"nowcast",91,132,97,114,109,110.447
-"PI-Teresina",2020-05-24,"nowcast",97,139,105,123,117,117.398
-"PI-Teresina",2020-05-25,"nowcast",99,145,113,131,124,124.079
-"PI-Teresina",2020-05-26,"nowcast",110,152,119,137,131,131.052
-"PI-Teresina",2020-05-27,"nowcast",117,162,127,145,137,137.94
-"PI-Teresina",2020-05-28,"nowcast",121,166,132,149,144,144.237
-"PI-Teresina",2020-05-29,"nowcast",127,171,138,156,150,150.568
-"PI-Teresina",2020-05-30,"nowcast",131,176,147,165,156,155.652
-"PI-Teresina",2020-05-31,"nowcast",138,182,145,163,158,158.955
-"PI-Teresina",2020-06-01,"nowcast",136,182,151,170,161,160.883
-"PI-Teresina",2020-06-02,"nowcast",137,185,151,170,162,162.844
-"PI-Teresina",2020-06-03,"nowcast",142,190,154,173,165,165.815
-"PI-Teresina",2020-06-04,"nowcast",144,194,158,178,171,170.724
-"PI-Teresina",2020-06-05,"nowcast",153,203,164,185,177,176.866
-"PI-Teresina",2020-06-06,"nowcast",155,207,171,190,182,181.977
-"PI-Teresina",2020-06-07,"nowcast",162,213,173,193,186,186.604
-"PI-Teresina",2020-06-08,"nowcast",163,216,180,201,190.5,190.451
-"PI-Teresina",2020-06-09,"nowcast",165,223,183,206,196,196.5
-"PI-Teresina",2020-06-10,"nowcast",174,229,186,210,202,202.694
-"PI-Teresina",2020-06-11,"nowcast",181,238,193,216,209,209.118
-"PI-Teresina",2020-06-12,"nowcast",188,244,208,231,218,217.681
-"PI-Teresina",2020-06-13,"nowcast",193,251,210,233,225,224.384
-"PI-Teresina",2020-06-14,"nowcast",199,258,216,238,230,229.075
-"PI-Teresina",2020-06-15,"nowcast",205,265,218,242,234,233.948
-"PI-Teresina",2020-06-16,"nowcast",207,268,221,248,240,240.069
-"PI-Teresina",2020-06-17,"nowcast",215,279,232,258,247,247.267
-"PI-Teresina",2020-06-18,"nowcast",226,288,239,264,256,255.807
-"PI-Teresina",2020-06-19,"nowcast",236,299,246,274,265,265.699
-"PI-Teresina",2020-06-20,"nowcast",245,310,260,286,276,277.032
-"PI-Teresina",2020-06-21,"nowcast",251,314,273,299,286,285.114
-"PI-Teresina",2020-06-22,"nowcast",262,322,278,303,293,292.971
-"PI-Teresina",2020-06-23,"nowcast",269,331,286,311,300,300.221
-"PI-Teresina",2020-06-24,"nowcast",276,337,295,320,307,307.062
-"PI-Teresina",2020-06-25,"nowcast",279,341,298,323,313,312.267
-"PI-Teresina",2020-06-26,"nowcast",279,341,302,326,313,313.165
-"PI-Teresina",2020-06-27,"nowcast",277,338,297,321,308,308.031
-"PI-Teresina",2020-06-28,"nowcast",271,329,280,304,297,298.24
-"PI-Teresina",2020-06-29,"nowcast",256,314,274,297,286,285.908
-"PI-Teresina",2020-06-30,"nowcast",250,306,266,287,278,277.791
-"PI-Teresina",2020-07-01,"nowcast",244,300,263,285,275,274.222
-"PI-Teresina",2020-07-02,"nowcast",245,303,260,284,272,272.647
-"PI-Teresina",2020-07-03,"nowcast",245,300,260,281,272,272.123
-"PI-Teresina",2020-07-04,"nowcast",239,291,258,279,268,267.429
-"PI-Teresina",2020-07-05,"nowcast",231,284,243,266,257,257.187
-"PI-Teresina",2020-07-06,"nowcast",215,270,231,253,246,246.084
-"PI-Teresina",2020-07-07,"nowcast",206,261,219,241,234,234.458
-"PI-Teresina",2020-07-08,"nowcast",201,254,215,236,227.5,227.774
-"PI-Teresina",2020-07-09,"nowcast",196,256,210,234,228,227.793
-"PI-Teresina",2020-07-10,"nowcast",200,257,221,245,233,233.328
-"PI-Teresina",2020-07-11,"nowcast",208,269,224,248,239,238.69
-"PI-Teresina",2020-07-12,"nowcast",212,272,234,258,244,244.324
-"PI-Teresina",2020-07-13,"nowcast",214,278,234,259,250,250.615
-"PI-Teresina",2020-07-14,"nowcast",226,291,244,271,258,258.912
-"PI-Teresina",2020-07-15,"nowcast",232,296,256,281,269,267.923
-"PI-Teresina",2020-07-16,"nowcast",246,308,266,292,277,277.402
-"PI-Teresina",2020-07-17,"nowcast",252,313,267,293,285,284.925
-"PI-Teresina",2020-07-18,"nowcast",260,316,278,301,288,288.208
-"PI-Teresina",2020-07-19,"nowcast",256,315,274,297,286,286.658
-"PI-Teresina",2020-07-20,"nowcast",251,310,269,293,283,283.209
-"PI-Teresina",2020-07-21,"nowcast",245,308,265,291,279,279.316
-"PI-Teresina",2020-07-22,"nowcast",247,307,267,293,280,279.787
-"PI-Teresina",2020-07-23,"nowcast",247,308,266,291,279,279.005
-"PI-Teresina",2020-07-24,"nowcast",246,306,262,286,275,276.231
-"PI-Teresina",2020-07-25,"nowcast",236,297,247,273,266,265.85
+"PI-Teresina",2020-02-17,"nowcast",0,1,0,0,0,0.12
+"PI-Teresina",2020-02-18,"nowcast",0,1,0,0,0,0.214285714285714
+"PI-Teresina",2020-02-19,"nowcast",0,1,0,0,0,0.25
+"PI-Teresina",2020-02-20,"nowcast",0,1,0,0,0,0.38
+"PI-Teresina",2020-02-21,"nowcast",0,1,0,0,0,0.216666666666667
+"PI-Teresina",2020-02-22,"nowcast",0,1,0,0,0,0.26027397260274
+"PI-Teresina",2020-02-23,"nowcast",0,1,0,0,0,0.25
+"PI-Teresina",2020-02-24,"nowcast",0,1,0,0,0,0.264705882352941
+"PI-Teresina",2020-02-25,"nowcast",0,1,0,0,0,0.233333333333333
+"PI-Teresina",2020-02-26,"nowcast",0,1,0,0,0,0.246575342465753
+"PI-Teresina",2020-02-27,"nowcast",0,1,0,0,0,0.292817679558011
+"PI-Teresina",2020-02-28,"nowcast",0,1,0,0,0,0.304545454545455
+"PI-Teresina",2020-02-29,"nowcast",0,1,0,0,0,0.27734375
+"PI-Teresina",2020-03-01,"nowcast",0,1,0,0,0,0.334426229508197
+"PI-Teresina",2020-03-02,"nowcast",0,1,0,0,0,0.335180055401662
+"PI-Teresina",2020-03-03,"nowcast",0,1,0,0,0,0.404494382022472
+"PI-Teresina",2020-03-04,"nowcast",0,1,0,0,0,0.390715667311412
+"PI-Teresina",2020-03-05,"nowcast",0,1,0,0,0,0.419080068143101
+"PI-Teresina",2020-03-06,"nowcast",0,1,0,0,0,0.483823529411765
+"PI-Teresina",2020-03-07,"nowcast",0,1,0,0,0,0.494666666666667
+"PI-Teresina",2020-03-08,"nowcast",0,1,0,0,0,0.522058823529412
+"PI-Teresina",2020-03-09,"nowcast",0,2,0,0,0,0.61431870669746
+"PI-Teresina",2020-03-10,"nowcast",0,2,0,1,1,0.725893824485374
+"PI-Teresina",2020-03-11,"nowcast",0,2,0,1,1,0.769150052465897
+"PI-Teresina",2020-03-12,"nowcast",0,2,0,1,1,0.8448098663926
+"PI-Teresina",2020-03-13,"nowcast",0,2,0,1,1,0.892276422764228
+"PI-Teresina",2020-03-14,"nowcast",0,2,0,1,1,0.996966632962588
+"PI-Teresina",2020-03-15,"nowcast",0,2,0,1,1,1.09869083585096
+"PI-Teresina",2020-03-16,"nowcast",0,3,0,1,1,1.12136409227683
+"PI-Teresina",2020-03-17,"nowcast",0,3,0,1,1,1.14028056112224
+"PI-Teresina",2020-03-18,"nowcast",0,3,0,1,1,1.1971971971972
+"PI-Teresina",2020-03-19,"nowcast",0,3,0,1,1,1.22722722722723
+"PI-Teresina",2020-03-20,"nowcast",0,3,0,1,1,1.367
+"PI-Teresina",2020-03-21,"nowcast",0,3,0,1,1,1.494
+"PI-Teresina",2020-03-22,"nowcast",0,4,0,1,1,1.661
+"PI-Teresina",2020-03-23,"nowcast",0,3,1,2,2,1.808
+"PI-Teresina",2020-03-24,"nowcast",0,4,1,2,2,2.072
+"PI-Teresina",2020-03-25,"nowcast",0,4,0,2,2,2.309
+"PI-Teresina",2020-03-26,"nowcast",0,5,0,2,2,2.551
+"PI-Teresina",2020-03-27,"nowcast",0,5,1,3,3,2.879
+"PI-Teresina",2020-03-28,"nowcast",1,6,1,3,3,3.191
+"PI-Teresina",2020-03-29,"nowcast",0,6,1,3,3,3.445
+"PI-Teresina",2020-03-30,"nowcast",1,7,2,4,4,3.98
+"PI-Teresina",2020-03-31,"nowcast",0,7,3,5,4,4.552
+"PI-Teresina",2020-04-01,"nowcast",2,9,2,5,5,5.26
+"PI-Teresina",2020-04-02,"nowcast",2,10,3,6,6,5.96
+"PI-Teresina",2020-04-03,"nowcast",3,11,4,7,7,6.829
+"PI-Teresina",2020-04-04,"nowcast",3,12,5,8,7,7.663
+"PI-Teresina",2020-04-05,"nowcast",4,14,5,9,8.5,8.771
+"PI-Teresina",2020-04-06,"nowcast",5,15,6,10,9.5,9.854
+"PI-Teresina",2020-04-07,"nowcast",5,16,8,12,11,10.959
+"PI-Teresina",2020-04-08,"nowcast",6,18,9,13,12,12.306
+"PI-Teresina",2020-04-09,"nowcast",7,19,9,14,13,13.329
+"PI-Teresina",2020-04-10,"nowcast",7,20,10,15,14,14.604
+"PI-Teresina",2020-04-11,"nowcast",8,22,12,17,15,15.719
+"PI-Teresina",2020-04-12,"nowcast",9,23,13,18,17,16.962
+"PI-Teresina",2020-04-13,"nowcast",9,24,13,19,18,18.159
+"PI-Teresina",2020-04-14,"nowcast",11,26,14,20,19,19.276
+"PI-Teresina",2020-04-15,"nowcast",13,29,17,23,21,21.143
+"PI-Teresina",2020-04-16,"nowcast",14,31,19,25,22,22.503
+"PI-Teresina",2020-04-17,"nowcast",14,32,20,27,25,24.722
+"PI-Teresina",2020-04-18,"nowcast",18,36,22,29,26,26.446
+"PI-Teresina",2020-04-19,"nowcast",19,37,24,31,29,28.917
+"PI-Teresina",2020-04-20,"nowcast",21,40,26,33,31,30.795
+"PI-Teresina",2020-04-21,"nowcast",24,44,27,35,33,33.727
+"PI-Teresina",2020-04-22,"nowcast",25,45,29,37,36,35.823
+"PI-Teresina",2020-04-23,"nowcast",27,49,33,41,38,38.106
+"PI-Teresina",2020-04-24,"nowcast",28,50,34,43,40,40.279
+"PI-Teresina",2020-04-25,"nowcast",31,54,38,46,43,42.935
+"PI-Teresina",2020-04-26,"nowcast",32,55,39,48,45,44.675
+"PI-Teresina",2020-04-27,"nowcast",34,57,39,48,46,46.053
+"PI-Teresina",2020-04-28,"nowcast",35,57,42,51,47,47.194
+"PI-Teresina",2020-04-29,"nowcast",34,58,42,51,48,48.568
+"PI-Teresina",2020-04-30,"nowcast",37,62,43,53,50,50.27
+"PI-Teresina",2020-05-01,"nowcast",40,64,47,56,51,51.856
+"PI-Teresina",2020-05-02,"nowcast",40,65,46,56,54,53.726
+"PI-Teresina",2020-05-03,"nowcast",43,68,50,60,55,55.415
+"PI-Teresina",2020-05-04,"nowcast",42,69,50,61,58,57.534
+"PI-Teresina",2020-05-05,"nowcast",44,72,52,63,60,60.102
+"PI-Teresina",2020-05-06,"nowcast",47,74,54,65,62,62.447
+"PI-Teresina",2020-05-07,"nowcast",50,78,58,69,65,65.298
+"PI-Teresina",2020-05-08,"nowcast",52,80,60,71,67,67.653
+"PI-Teresina",2020-05-09,"nowcast",55,82,60,71,68.5,68.777
+"PI-Teresina",2020-05-10,"nowcast",54,83,58,70,68,68.578
+"PI-Teresina",2020-05-11,"nowcast",54,84,59,71,69,69.247
+"PI-Teresina",2020-05-12,"nowcast",55,84,66,78,70,70.333
+"PI-Teresina",2020-05-13,"nowcast",53,85,64,76,71,71.777
+"PI-Teresina",2020-05-14,"nowcast",58,89,66,78,74,74.249
+"PI-Teresina",2020-05-15,"nowcast",57,91,68,81,77,76.733
+"PI-Teresina",2020-05-16,"nowcast",62,94,71,84,78,78.715
+"PI-Teresina",2020-05-17,"nowcast",64,98,71,85,82,81.706
+"PI-Teresina",2020-05-18,"nowcast",67,101,75,89,84,84.33
+"PI-Teresina",2020-05-19,"nowcast",68,104,78,92,88,88.075
+"PI-Teresina",2020-05-20,"nowcast",72,111,81,97,92,92.413
+"PI-Teresina",2020-05-21,"nowcast",75,117,86,102,97,97.589
+"PI-Teresina",2020-05-22,"nowcast",82,124,92,109,103,103.563
+"PI-Teresina",2020-05-23,"nowcast",88,131,99,117,110,110.161
+"PI-Teresina",2020-05-24,"nowcast",94,136,105,123,117,117.191
+"PI-Teresina",2020-05-25,"nowcast",101,144,112,130,124,124.095
+"PI-Teresina",2020-05-26,"nowcast",108,153,120,138,130,130.213
+"PI-Teresina",2020-05-27,"nowcast",113,159,127,146,137,137.344
+"PI-Teresina",2020-05-28,"nowcast",125,168,133,151,144,144.349
+"PI-Teresina",2020-05-29,"nowcast",127,172,140,158,151,150.742
+"PI-Teresina",2020-05-30,"nowcast",134,176,143,161,155,155.279
+"PI-Teresina",2020-05-31,"nowcast",136,180,147,165,158,158.242
+"PI-Teresina",2020-06-01,"nowcast",136,181,149,167,160,160.475
+"PI-Teresina",2020-06-02,"nowcast",137,185,152,170,163,162.641
+"PI-Teresina",2020-06-03,"nowcast",139,187,152,173,165,165.279
+"PI-Teresina",2020-06-04,"nowcast",143,195,156,177,170,169.826
+"PI-Teresina",2020-06-05,"nowcast",152,201,164,184,175,175.49
+"PI-Teresina",2020-06-06,"nowcast",156,206,170,192,182,182.102
+"PI-Teresina",2020-06-07,"nowcast",158,212,171,193,187,187.01
+"PI-Teresina",2020-06-08,"nowcast",159,215,178,199,191,190.961
+"PI-Teresina",2020-06-09,"nowcast",166,223,181,203,196,196.821
+"PI-Teresina",2020-06-10,"nowcast",173,230,189,212,202,202.784
+"PI-Teresina",2020-06-11,"nowcast",179,236,192,216,209,209.821
+"PI-Teresina",2020-06-12,"nowcast",188,247,205,228,218,218.113
+"PI-Teresina",2020-06-13,"nowcast",195,252,210,234,224,224.14
+"PI-Teresina",2020-06-14,"nowcast",201,258,210,235,229,229.451
+"PI-Teresina",2020-06-15,"nowcast",204,265,218,243,234,234.936
+"PI-Teresina",2020-06-16,"nowcast",204,267,224,249,240,239.954
+"PI-Teresina",2020-06-17,"nowcast",215,280,235,262,249,248.748
+"PI-Teresina",2020-06-18,"nowcast",218,285,243,269,255,255.468
+"PI-Teresina",2020-06-19,"nowcast",231,299,255,282,266,265.796
+"PI-Teresina",2020-06-20,"nowcast",243,307,263,288,276,275.954
+"PI-Teresina",2020-06-21,"nowcast",254,314,271,297,284,284.454
+"PI-Teresina",2020-06-22,"nowcast",259,321,276,301,293,292.52
+"PI-Teresina",2020-06-23,"nowcast",271,332,283,309,300,301.168
+"PI-Teresina",2020-06-24,"nowcast",275,338,287,313,306,306.262
+"PI-Teresina",2020-06-25,"nowcast",279,339,297,322,312,311.971
+"PI-Teresina",2020-06-26,"nowcast",279,341,298,323,313,313.014
+"PI-Teresina",2020-06-27,"nowcast",279,339,291,316,308,308.178
+"PI-Teresina",2020-06-28,"nowcast",271,327,279,302,297,297.408
+"PI-Teresina",2020-06-29,"nowcast",260,316,268,291,286,285.801
+"PI-Teresina",2020-06-30,"nowcast",252,306,269,290,279,278.609
+"PI-Teresina",2020-07-01,"nowcast",244,301,263,285,274,273.967
+"PI-Teresina",2020-07-02,"nowcast",247,301,258,280,273,272.603
+"PI-Teresina",2020-07-03,"nowcast",244,299,258,280,272,272.21
+"PI-Teresina",2020-07-04,"nowcast",239,293,256,277,267,268.094
+"PI-Teresina",2020-07-05,"nowcast",233,287,249,271,259,258.85
+"PI-Teresina",2020-07-06,"nowcast",219,269,235,255,247,247.069
+"PI-Teresina",2020-07-07,"nowcast",207,261,220,242,235,234.949
+"PI-Teresina",2020-07-08,"nowcast",199,253,214,237,227,228.401
+"PI-Teresina",2020-07-09,"nowcast",198,257,212,236,227,227.989
+"PI-Teresina",2020-07-10,"nowcast",201,259,216,241,233,233.411
+"PI-Teresina",2020-07-11,"nowcast",208,267,224,248,240,239.977
+"PI-Teresina",2020-07-12,"nowcast",210,274,230,254,245,245.61
+"PI-Teresina",2020-07-13,"nowcast",214,281,233,259,251,250.911
+"PI-Teresina",2020-07-14,"nowcast",225,290,248,273,260,260.23
+"PI-Teresina",2020-07-15,"nowcast",236,301,251,278,269,269.29
+"PI-Teresina",2020-07-16,"nowcast",246,307,260,286,278,277.991
+"PI-Teresina",2020-07-17,"nowcast",258,318,267,292,285,285.805
+"PI-Teresina",2020-07-18,"nowcast",259,323,281,305,290,290.698
+"PI-Teresina",2020-07-19,"nowcast",261,318,275,297,291,291.115
+"PI-Teresina",2020-07-20,"nowcast",252,314,270,297,286,286.153
+"PI-Teresina",2020-07-21,"nowcast",249,312,267,292,283,283.393
+"PI-Teresina",2020-07-22,"nowcast",259,316,274,298,286,286.237
+"PI-Teresina",2020-07-23,"nowcast",255,316,277,301,289,288.714
+"PI-Teresina",2020-07-24,"nowcast",255,318,271,296,287,288.246
+"PI-Teresina",2020-07-25,"nowcast",253,312,270,293,283,283.09
+"PI-Teresina",2020-07-26,"nowcast",236,300,257,282,271,270.013
 "PI-Teresina",2020-03-19,"observed",NA,NA,NA,NA,3,NA
 "PI-Teresina",2020-03-20,"observed",NA,NA,NA,NA,1,NA
 "PI-Teresina",2020-03-21,"observed",NA,NA,NA,NA,0,NA
@@ -5270,21 +5271,22 @@
 "PI-Teresina",2020-08-01,"observed",NA,NA,NA,NA,71,NA
 "PI-Teresina",2020-08-02,"observed",NA,NA,NA,NA,37,NA
 "PI-Teresina",2020-08-03,"observed",NA,NA,NA,NA,417,NA
-"PI-Teresina",2020-08-04,"observed",NA,NA,NA,NA,0,NA
-"PI-Teresina",2020-07-26,"forecast",224,320,249,287,273,272.5308
-"PI-Teresina",2020-07-27,"forecast",215,325,242,286,271,271.855
-"PI-Teresina",2020-07-28,"forecast",208,333,240,291,270,271.0076
-"PI-Teresina",2020-07-29,"forecast",197,335,236,291,269,270.4372
-"PI-Teresina",2020-07-30,"forecast",196,343,231,292,268,270.324
-"PI-Teresina",2020-07-31,"forecast",181,346,228,294,268,270.0866
-"PI-Teresina",2020-08-01,"forecast",181,359,233,305,268.5,270.549
-"PI-Teresina",2020-08-02,"forecast",180,371,219,294,267,270.5496
-"PI-Teresina",2020-08-03,"forecast",169,370,208,290,267,270.2774
-"PI-Teresina",2020-08-04,"forecast",151,368,209,295,265,270.1948
-"PI-Teresina",2020-08-05,"forecast",153,379,203,295,264,270.3278
-"PI-Teresina",2020-08-06,"forecast",153,394,208,302,266,272.875
-"PI-Teresina",2020-08-07,"forecast",147,399,205,305,264,271.1178
-"PI-Teresina",2020-08-08,"forecast",135,398,199,302,264,271.8426
+"PI-Teresina",2020-08-04,"observed",NA,NA,NA,NA,392,NA
+"PI-Teresina",2020-08-05,"observed",NA,NA,NA,NA,0,NA
+"PI-Teresina",2020-07-27,"forecast",223,322,260,299,278,277.9508
+"PI-Teresina",2020-07-28,"forecast",220,331,253,298,277,277.312
+"PI-Teresina",2020-07-29,"forecast",212,336,249,299,277,276.8424
+"PI-Teresina",2020-07-30,"forecast",207,346,242,297,277,276.8614
+"PI-Teresina",2020-07-31,"forecast",205,359,238,300,276.5,277.3336
+"PI-Teresina",2020-08-01,"forecast",190,357,234,301,274,275.777
+"PI-Teresina",2020-08-02,"forecast",186,359,239,308,274,275.4448
+"PI-Teresina",2020-08-03,"forecast",178,370,231,307,274,275.771
+"PI-Teresina",2020-08-04,"forecast",175,378,230,310,275,276.8286
+"PI-Teresina",2020-08-05,"forecast",172,389,219,304,275,278.2498
+"PI-Teresina",2020-08-06,"forecast",165,394,221,309,274,277.9288
+"PI-Teresina",2020-08-07,"forecast",152,386,215,308,274,277.8092
+"PI-Teresina",2020-08-08,"forecast",150,406,212,312,274,279.9394
+"PI-Teresina",2020-08-09,"forecast",146,412,204,307,273,279.0342
 "PI-União",2020-03-05,"nowcast",1,1,1,1,1,1
 "PI-União",2020-03-06,"nowcast",0,0,0,0,0,0
 "PI-União",2020-03-07,"nowcast",0,0,0,0,0,0
@@ -5546,130 +5548,133 @@
 "PI-União",2020-08-03,"forecast",0,33,0,11,11,16.6624
 "PI-União",2020-08-04,"forecast",0,36,0,11,11,17.614
 "PI-União",2020-08-05,"forecast",0,38,0,11,11,18.2792
-"PI-Uruçuí",2020-03-23,"nowcast",1,1,1,1,1,1
-"PI-Uruçuí",2020-03-24,"nowcast",0,1,0,1,0.5,0.5
-"PI-Uruçuí",2020-03-25,"nowcast",0,1,1,1,1,0.6
+"PI-Uruçuí",2020-03-21,"nowcast",1,1,1,1,1,1
+"PI-Uruçuí",2020-03-22,"nowcast",0,0,0,0,0,0
+"PI-Uruçuí",2020-03-23,"nowcast",0,1,0,0,0,0.333333333333333
+"PI-Uruçuí",2020-03-24,"nowcast",0,1,0,0,0,0.25
+"PI-Uruçuí",2020-03-25,"nowcast",0,1,0,0,0,0.2
 "PI-Uruçuí",2020-03-26,"nowcast",0,1,0,0,0,0.285714285714286
-"PI-Uruçuí",2020-03-27,"nowcast",0,0,0,0,0,0
-"PI-Uruçuí",2020-03-28,"nowcast",0,1,0,0,0,0.3
-"PI-Uruçuí",2020-03-29,"nowcast",0,1,0,0,0,0.4375
-"PI-Uruçuí",2020-03-30,"nowcast",0,1,0,0,0,0.315789473684211
-"PI-Uruçuí",2020-03-31,"nowcast",0,1,0,0,0,0.25
-"PI-Uruçuí",2020-04-01,"nowcast",0,1,0,0,0,0.3125
-"PI-Uruçuí",2020-04-02,"nowcast",0,1,0,0,0,0.428571428571429
-"PI-Uruçuí",2020-04-03,"nowcast",0,1,0,0,0,0.333333333333333
-"PI-Uruçuí",2020-04-04,"nowcast",0,1,0,0,0,0.185714285714286
-"PI-Uruçuí",2020-04-05,"nowcast",0,1,0,0,0,0.3
-"PI-Uruçuí",2020-04-06,"nowcast",0,1,0,0,0,0.324324324324324
-"PI-Uruçuí",2020-04-07,"nowcast",0,1,0,0,0,0.313868613138686
-"PI-Uruçuí",2020-04-08,"nowcast",0,1,0,0,0,0.327586206896552
-"PI-Uruçuí",2020-04-09,"nowcast",0,1,0,0,0,0.283720930232558
-"PI-Uruçuí",2020-04-10,"nowcast",0,1,0,0,0,0.359154929577465
-"PI-Uruçuí",2020-04-11,"nowcast",0,1,0,0,0,0.332352941176471
-"PI-Uruçuí",2020-04-12,"nowcast",0,1,0,0,0,0.351807228915663
-"PI-Uruçuí",2020-04-13,"nowcast",0,1,0,0,0,0.360824742268041
-"PI-Uruçuí",2020-04-14,"nowcast",0,1,0,0,0,0.311233885819521
-"PI-Uruçuí",2020-04-15,"nowcast",0,1,0,0,0,0.421647819063005
-"PI-Uruçuí",2020-04-16,"nowcast",0,1,0,0,0,0.452616690240453
-"PI-Uruçuí",2020-04-17,"nowcast",0,1,0,0,0,0.427284427284427
-"PI-Uruçuí",2020-04-18,"nowcast",0,1,0,0,0,0.50726392251816
-"PI-Uruçuí",2020-04-19,"nowcast",0,2,0,0,0,0.57757644394111
-"PI-Uruçuí",2020-04-20,"nowcast",0,2,0,1,1,0.674242424242424
-"PI-Uruçuí",2020-04-21,"nowcast",0,2,0,1,1,0.801670146137787
-"PI-Uruçuí",2020-04-22,"nowcast",0,2,0,1,1,0.835714285714286
-"PI-Uruçuí",2020-04-23,"nowcast",0,2,0,1,1,1.01717171717172
-"PI-Uruçuí",2020-04-24,"nowcast",0,3,0,1,1,1.15577889447236
-"PI-Uruçuí",2020-04-25,"nowcast",0,3,0,1,1,1.3259779338014
-"PI-Uruçuí",2020-04-26,"nowcast",0,3,0,1,1,1.42042042042042
-"PI-Uruçuí",2020-04-27,"nowcast",0,3,0,1,1,1.63363363363363
-"PI-Uruçuí",2020-04-28,"nowcast",0,4,1,2,2,1.77
-"PI-Uruçuí",2020-04-29,"nowcast",0,4,1,2,2,1.866
-"PI-Uruçuí",2020-04-30,"nowcast",0,4,1,2,2,2.004
-"PI-Uruçuí",2020-05-01,"nowcast",0,4,1,2,2,2.063
-"PI-Uruçuí",2020-05-02,"nowcast",0,4,1,2,2,2.199
-"PI-Uruçuí",2020-05-03,"nowcast",0,4,1,2,2,2.172
-"PI-Uruçuí",2020-05-04,"nowcast",0,4,0,2,2,2.395
-"PI-Uruçuí",2020-05-05,"nowcast",0,4,0,2,2,2.472
-"PI-Uruçuí",2020-05-06,"nowcast",1,5,0,2,2,2.553
-"PI-Uruçuí",2020-05-07,"nowcast",0,4,0,2,2,2.507
-"PI-Uruçuí",2020-05-08,"nowcast",0,4,0,2,2,2.398
-"PI-Uruçuí",2020-05-09,"nowcast",0,4,1,2,2,2.27
-"PI-Uruçuí",2020-05-10,"nowcast",0,4,0,2,2,2.133
-"PI-Uruçuí",2020-05-11,"nowcast",0,4,1,2,2,2.132
-"PI-Uruçuí",2020-05-12,"nowcast",0,4,1,2,2,2.197
-"PI-Uruçuí",2020-05-13,"nowcast",0,4,0,2,2,2.367
-"PI-Uruçuí",2020-05-14,"nowcast",0,4,0,2,2,2.408
-"PI-Uruçuí",2020-05-15,"nowcast",0,5,0,2,2,2.708
-"PI-Uruçuí",2020-05-16,"nowcast",1,5,1,3,3,2.827
-"PI-Uruçuí",2020-05-17,"nowcast",0,5,1,3,3,3.032
-"PI-Uruçuí",2020-05-18,"nowcast",1,6,1,3,3,3.171
-"PI-Uruçuí",2020-05-19,"nowcast",1,6,1,3,3,3.386
-"PI-Uruçuí",2020-05-20,"nowcast",1,6,2,4,3,3.477
-"PI-Uruçuí",2020-05-21,"nowcast",1,6,2,4,4,3.669
-"PI-Uruçuí",2020-05-22,"nowcast",0,6,2,4,4,3.806
-"PI-Uruçuí",2020-05-23,"nowcast",1,6,2,4,4,3.858
-"PI-Uruçuí",2020-05-24,"nowcast",1,7,2,4,4,3.997
-"PI-Uruçuí",2020-05-25,"nowcast",1,7,2,4,4,4.118
-"PI-Uruçuí",2020-05-26,"nowcast",1,7,2,4,4,4.196
-"PI-Uruçuí",2020-05-27,"nowcast",1,7,3,5,4,4.335
-"PI-Uruçuí",2020-05-28,"nowcast",1,7,3,5,4,4.382
-"PI-Uruçuí",2020-05-29,"nowcast",0,7,3,5,4,4.433
-"PI-Uruçuí",2020-05-30,"nowcast",1,7,3,5,4,4.448
-"PI-Uruçuí",2020-05-31,"nowcast",1,7,3,5,4,4.404
-"PI-Uruçuí",2020-06-01,"nowcast",1,7,3,5,4,4.488
-"PI-Uruçuí",2020-06-02,"nowcast",1,7,3,5,4,4.566
-"PI-Uruçuí",2020-06-03,"nowcast",2,8,3,5,5,4.757
-"PI-Uruçuí",2020-06-04,"nowcast",1,8,2,5,5,5.082
-"PI-Uruçuí",2020-06-05,"nowcast",2,9,2,5,5,5.34
-"PI-Uruçuí",2020-06-06,"nowcast",2,9,3,6,6,5.803
-"PI-Uruçuí",2020-06-07,"nowcast",2,10,3,6,6,6.207
-"PI-Uruçuí",2020-06-08,"nowcast",2,10,4,7,6.5,6.699
-"PI-Uruçuí",2020-06-09,"nowcast",3,11,4,7,7,7.001
-"PI-Uruçuí",2020-06-10,"nowcast",3,11,5,8,7,7.505
-"PI-Uruçuí",2020-06-11,"nowcast",4,12,5,8,8,7.92
-"PI-Uruçuí",2020-06-12,"nowcast",3,12,6,9,8,8.286
-"PI-Uruçuí",2020-06-13,"nowcast",5,13,6,9,8,8.422
-"PI-Uruçuí",2020-06-14,"nowcast",4,13,7,10,9,8.572
-"PI-Uruçuí",2020-06-15,"nowcast",3,12,7,10,8,8.441
-"PI-Uruçuí",2020-06-16,"nowcast",3,12,6,9,8,8.36
-"PI-Uruçuí",2020-06-17,"nowcast",3,12,7,10,8,8.466
-"PI-Uruçuí",2020-06-18,"nowcast",4,13,7,10,8,8.632
-"PI-Uruçuí",2020-06-19,"nowcast",5,14,7,10,9,9.305
-"PI-Uruçuí",2020-06-20,"nowcast",4,14,6,10,10,9.963
-"PI-Uruçuí",2020-06-21,"nowcast",6,16,7,11,10,10.54
-"PI-Uruçuí",2020-06-22,"nowcast",6,16,8,12,11,11.142
-"PI-Uruçuí",2020-06-23,"nowcast",5,16,8,12,11,11.521
-"PI-Uruçuí",2020-06-24,"nowcast",7,17,8,12,12,11.916
-"PI-Uruçuí",2020-06-25,"nowcast",6,17,9,13,12,12.365
-"PI-Uruçuí",2020-06-26,"nowcast",6,17,9,13,12,12.593
-"PI-Uruçuí",2020-06-27,"nowcast",7,18,10,14,13,12.779
-"PI-Uruçuí",2020-06-28,"nowcast",7,18,10,14,13,13.175
-"PI-Uruçuí",2020-06-29,"nowcast",8,19,11,15,14,13.791
-"PI-Uruçuí",2020-06-30,"nowcast",9,20,9,14,14,14.341
-"PI-Uruçuí",2020-07-01,"nowcast",8,20,10,15,14,14.611
-"PI-Uruçuí",2020-07-02,"nowcast",8,20,10,15,15,14.932
-"PI-Uruçuí",2020-07-03,"nowcast",9,21,11,16,15,15.238
-"PI-Uruçuí",2020-07-04,"nowcast",9,21,11,16,15,15.542
-"PI-Uruçuí",2020-07-05,"nowcast",10,22,11,16,16,15.748
-"PI-Uruçuí",2020-07-06,"nowcast",8,21,12,17,16,16.213
-"PI-Uruçuí",2020-07-07,"nowcast",10,22,12,17,16,16.583
-"PI-Uruçuí",2020-07-08,"nowcast",9,22,13,18,17,16.654
-"PI-Uruçuí",2020-07-09,"nowcast",10,22,12,17,17,16.794
-"PI-Uruçuí",2020-07-10,"nowcast",11,24,13,18,17,17.387
-"PI-Uruçuí",2020-07-11,"nowcast",11,25,15,20,18,18.118
-"PI-Uruçuí",2020-07-12,"nowcast",11,26,14,20,19,19.366
-"PI-Uruçuí",2020-07-13,"nowcast",12,27,16,22,20,20.622
-"PI-Uruçuí",2020-07-14,"nowcast",12,29,18,24,22,22.023
-"PI-Uruçuí",2020-07-15,"nowcast",16,32,20,26,24,24.168
-"PI-Uruçuí",2020-07-16,"nowcast",17,34,20,27,26,26.221
-"PI-Uruçuí",2020-07-17,"nowcast",20,39,25,32,29,29.116
-"PI-Uruçuí",2020-07-18,"nowcast",20,40,25,33,31,31.144
-"PI-Uruçuí",2020-07-19,"nowcast",23,44,28,36,34,33.87
-"PI-Uruçuí",2020-07-20,"nowcast",23,46,30,38,36,36.478
-"PI-Uruçuí",2020-07-21,"nowcast",26,50,31,41,39,39.547
-"PI-Uruçuí",2020-07-22,"nowcast",29,56,36,46,42,43.02
-"PI-Uruçuí",2020-07-23,"nowcast",29,59,35,47,45,45.867
-"PI-Uruçuí",2020-07-24,"nowcast",29,63,35,48,45,46.913
+"PI-Uruçuí",2020-03-27,"nowcast",0,1,0,0,0,0.125
+"PI-Uruçuí",2020-03-28,"nowcast",0,1,0,1,0.5,0.5
+"PI-Uruçuí",2020-03-29,"nowcast",0,1,0,0,0,0.1875
+"PI-Uruçuí",2020-03-30,"nowcast",0,1,0,0,0,0.166666666666667
+"PI-Uruçuí",2020-03-31,"nowcast",0,1,0,0,0,0.304347826086957
+"PI-Uruçuí",2020-04-01,"nowcast",0,1,0,0,0,0.178571428571429
+"PI-Uruçuí",2020-04-02,"nowcast",0,1,0,0,0,0.161290322580645
+"PI-Uruçuí",2020-04-03,"nowcast",0,1,0,0,0,0.341463414634146
+"PI-Uruçuí",2020-04-04,"nowcast",0,1,0,0,0,0.433333333333333
+"PI-Uruçuí",2020-04-05,"nowcast",0,1,0,0,0,0.373493975903614
+"PI-Uruçuí",2020-04-06,"nowcast",0,1,0,0,0,0.361111111111111
+"PI-Uruçuí",2020-04-07,"nowcast",0,1,0,0,0,0.340740740740741
+"PI-Uruçuí",2020-04-08,"nowcast",0,1,0,0,0,0.385964912280702
+"PI-Uruçuí",2020-04-09,"nowcast",0,1,0,0,0,0.323943661971831
+"PI-Uruçuí",2020-04-10,"nowcast",0,1,0,0,0,0.343511450381679
+"PI-Uruçuí",2020-04-11,"nowcast",0,1,0,0,0,0.310344827586207
+"PI-Uruçuí",2020-04-12,"nowcast",0,1,0,0,0,0.313513513513514
+"PI-Uruçuí",2020-04-13,"nowcast",0,1,0,0,0,0.325471698113208
+"PI-Uruçuí",2020-04-14,"nowcast",0,1,0,0,0,0.425531914893617
+"PI-Uruçuí",2020-04-15,"nowcast",0,1,0,0,0,0.415692821368948
+"PI-Uruçuí",2020-04-16,"nowcast",0,1,0,0,0,0.427299703264095
+"PI-Uruçuí",2020-04-17,"nowcast",0,1,0,0,0,0.515789473684211
+"PI-Uruçuí",2020-04-18,"nowcast",0,1,0,0,0,0.549397590361446
+"PI-Uruçuí",2020-04-19,"nowcast",0,1,0,0,0,0.572535991140642
+"PI-Uruçuí",2020-04-20,"nowcast",0,2,0,0,0,0.662090813093981
+"PI-Uruçuí",2020-04-21,"nowcast",0,2,0,1,1,0.808641975308642
+"PI-Uruçuí",2020-04-22,"nowcast",0,2,0,1,1,0.870182555780933
+"PI-Uruçuí",2020-04-23,"nowcast",0,2,0,1,1,0.987915407854985
+"PI-Uruçuí",2020-04-24,"nowcast",0,2,0,1,1,1.12048192771084
+"PI-Uruçuí",2020-04-25,"nowcast",0,3,0,1,1,1.30961923847695
+"PI-Uruçuí",2020-04-26,"nowcast",0,3,0,1,1,1.454
+"PI-Uruçuí",2020-04-27,"nowcast",0,3,0,1,1,1.603
+"PI-Uruçuí",2020-04-28,"nowcast",0,4,1,2,2,1.785
+"PI-Uruçuí",2020-04-29,"nowcast",0,4,1,2,2,1.937
+"PI-Uruçuí",2020-04-30,"nowcast",0,4,1,2,2,2.039
+"PI-Uruçuí",2020-05-01,"nowcast",0,4,1,2,2,2.026
+"PI-Uruçuí",2020-05-02,"nowcast",0,4,1,2,2,2.154
+"PI-Uruçuí",2020-05-03,"nowcast",0,4,1,2,2,2.24
+"PI-Uruçuí",2020-05-04,"nowcast",0,4,0,2,2,2.34
+"PI-Uruçuí",2020-05-05,"nowcast",0,4,0,2,2,2.445
+"PI-Uruçuí",2020-05-06,"nowcast",0,5,0,2,2,2.541
+"PI-Uruçuí",2020-05-07,"nowcast",0,4,0,2,2,2.509
+"PI-Uruçuí",2020-05-08,"nowcast",0,5,0,2,2,2.433
+"PI-Uruçuí",2020-05-09,"nowcast",0,4,1,2,2,2.236
+"PI-Uruçuí",2020-05-10,"nowcast",0,4,1,2,2,2.117
+"PI-Uruçuí",2020-05-11,"nowcast",0,4,1,2,2,2.153
+"PI-Uruçuí",2020-05-12,"nowcast",0,4,1,2,2,2.249
+"PI-Uruçuí",2020-05-13,"nowcast",0,4,1,2,2,2.281
+"PI-Uruçuí",2020-05-14,"nowcast",0,4,0,2,2,2.466
+"PI-Uruçuí",2020-05-15,"nowcast",0,5,0,2,2,2.695
+"PI-Uruçuí",2020-05-16,"nowcast",0,5,1,3,3,2.901
+"PI-Uruçuí",2020-05-17,"nowcast",0,5,1,3,3,2.992
+"PI-Uruçuí",2020-05-18,"nowcast",0,5,1,3,3,3.185
+"PI-Uruçuí",2020-05-19,"nowcast",1,6,1,3,3,3.387
+"PI-Uruçuí",2020-05-20,"nowcast",1,6,2,4,3,3.586
+"PI-Uruçuí",2020-05-21,"nowcast",1,6,2,4,4,3.72
+"PI-Uruçuí",2020-05-22,"nowcast",0,6,2,4,4,3.802
+"PI-Uruçuí",2020-05-23,"nowcast",0,6,2,4,4,3.837
+"PI-Uruçuí",2020-05-24,"nowcast",1,7,2,4,4,3.955
+"PI-Uruçuí",2020-05-25,"nowcast",1,7,2,4,4,4.131
+"PI-Uruçuí",2020-05-26,"nowcast",1,7,2,4,4,4.271
+"PI-Uruçuí",2020-05-27,"nowcast",1,7,2,4,4,4.192
+"PI-Uruçuí",2020-05-28,"nowcast",1,7,3,5,4,4.455
+"PI-Uruçuí",2020-05-29,"nowcast",1,7,2,4,4,4.338
+"PI-Uruçuí",2020-05-30,"nowcast",1,7,3,5,4,4.3
+"PI-Uruçuí",2020-05-31,"nowcast",0,7,3,5,4,4.508
+"PI-Uruçuí",2020-06-01,"nowcast",1,7,3,5,4,4.438
+"PI-Uruçuí",2020-06-02,"nowcast",2,8,3,5,4,4.645
+"PI-Uruçuí",2020-06-03,"nowcast",2,8,3,5,5,4.803
+"PI-Uruçuí",2020-06-04,"nowcast",1,8,2,5,5,5.182
+"PI-Uruçuí",2020-06-05,"nowcast",1,8,2,5,5,5.43
+"PI-Uruçuí",2020-06-06,"nowcast",2,9,3,6,6,5.84
+"PI-Uruçuí",2020-06-07,"nowcast",2,10,4,7,6,6.389
+"PI-Uruçuí",2020-06-08,"nowcast",2,10,4,7,7,6.77
+"PI-Uruçuí",2020-06-09,"nowcast",2,10,4,7,7,7.043
+"PI-Uruçuí",2020-06-10,"nowcast",3,11,5,8,7,7.359
+"PI-Uruçuí",2020-06-11,"nowcast",4,12,5,8,7,7.757
+"PI-Uruçuí",2020-06-12,"nowcast",4,12,6,9,8,8.094
+"PI-Uruçuí",2020-06-13,"nowcast",3,12,6,9,8,8.345
+"PI-Uruçuí",2020-06-14,"nowcast",4,13,6,9,8,8.528
+"PI-Uruçuí",2020-06-15,"nowcast",3,12,7,10,8,8.492
+"PI-Uruçuí",2020-06-16,"nowcast",3,12,6,9,8,8.18
+"PI-Uruçuí",2020-06-17,"nowcast",3,12,6,9,8,8.462
+"PI-Uruçuí",2020-06-18,"nowcast",4,13,7,10,9,8.85
+"PI-Uruçuí",2020-06-19,"nowcast",4,13,5,9,9,9.173
+"PI-Uruçuí",2020-06-20,"nowcast",4,14,6,10,10,9.813
+"PI-Uruçuí",2020-06-21,"nowcast",5,15,7,11,10,10.482
+"PI-Uruçuí",2020-06-22,"nowcast",6,16,8,12,11,11.087
+"PI-Uruçuí",2020-06-23,"nowcast",6,16,8,12,11,11.568
+"PI-Uruçuí",2020-06-24,"nowcast",7,17,8,12,12,11.982
+"PI-Uruçuí",2020-06-25,"nowcast",6,17,9,13,12,12.405
+"PI-Uruçuí",2020-06-26,"nowcast",6,17,9,13,12,12.528
+"PI-Uruçuí",2020-06-27,"nowcast",7,18,10,14,13,12.803
+"PI-Uruçuí",2020-06-28,"nowcast",7,18,10,14,13,13.377
+"PI-Uruçuí",2020-06-29,"nowcast",7,19,9,14,13,13.587
+"PI-Uruçuí",2020-06-30,"nowcast",8,19,12,16,14,14.033
+"PI-Uruçuí",2020-07-01,"nowcast",7,19,10,15,14,14.514
+"PI-Uruçuí",2020-07-02,"nowcast",8,20,10,15,15,14.839
+"PI-Uruçuí",2020-07-03,"nowcast",9,21,11,16,15,15.286
+"PI-Uruçuí",2020-07-04,"nowcast",8,20,11,16,15,15.465
+"PI-Uruçuí",2020-07-05,"nowcast",10,22,12,17,16,15.85
+"PI-Uruçuí",2020-07-06,"nowcast",8,21,12,17,16,15.998
+"PI-Uruçuí",2020-07-07,"nowcast",9,22,12,17,16,16.329
+"PI-Uruçuí",2020-07-08,"nowcast",9,22,12,17,16,16.508
+"PI-Uruçuí",2020-07-09,"nowcast",10,23,13,18,17,16.76
+"PI-Uruçuí",2020-07-10,"nowcast",11,24,12,18,18,17.538
+"PI-Uruçuí",2020-07-11,"nowcast",11,24,16,21,18,17.904
+"PI-Uruçuí",2020-07-12,"nowcast",11,25,16,21,19,18.96
+"PI-Uruçuí",2020-07-13,"nowcast",12,27,16,22,20,20.352
+"PI-Uruçuí",2020-07-14,"nowcast",14,29,17,23,22,21.884
+"PI-Uruçuí",2020-07-15,"nowcast",14,31,17,24,23,23.715
+"PI-Uruçuí",2020-07-16,"nowcast",15,33,23,29,26,25.802
+"PI-Uruçuí",2020-07-17,"nowcast",20,37,23,30,28,27.93
+"PI-Uruçuí",2020-07-18,"nowcast",20,37,24,31,30,29.669
+"PI-Uruçuí",2020-07-19,"nowcast",23,42,27,34,32,31.875
+"PI-Uruçuí",2020-07-20,"nowcast",25,44,27,35,34,34.139
+"PI-Uruçuí",2020-07-21,"nowcast",26,46,34,42,36.5,36.82
+"PI-Uruçuí",2020-07-22,"nowcast",27,48,32,40,38,38.346
+"PI-Uruçuí",2020-07-23,"nowcast",26,50,34,43,40,40.113
+"PI-Uruçuí",2020-07-24,"nowcast",27,52,31,41,39,39.841
+"PI-Uruçuí",2020-07-25,"nowcast",25,50,33,42,38,38.58
 "PI-Uruçuí",2020-04-27,"observed",NA,NA,NA,NA,1,NA
 "PI-Uruçuí",2020-04-28,"observed",NA,NA,NA,NA,0,NA
 "PI-Uruçuí",2020-04-29,"observed",NA,NA,NA,NA,0,NA
@@ -5769,21 +5774,22 @@
 "PI-Uruçuí",2020-08-01,"observed",NA,NA,NA,NA,15,NA
 "PI-Uruçuí",2020-08-02,"observed",NA,NA,NA,NA,7,NA
 "PI-Uruçuí",2020-08-03,"observed",NA,NA,NA,NA,9,NA
-"PI-Uruçuí",2020-08-04,"observed",NA,NA,NA,NA,0,NA
-"PI-Uruçuí",2020-07-25,"forecast",27,75,36,55,51,52.7818
-"PI-Uruçuí",2020-07-26,"forecast",25,83,37,59,54,56.8538
-"PI-Uruçuí",2020-07-27,"forecast",26,95,39,65,58.5,61.8134
-"PI-Uruçuí",2020-07-28,"forecast",27,106,39,69,62,66.8542
-"PI-Uruçuí",2020-07-29,"forecast",22,119,44,78,67,73.0894
-"PI-Uruçuí",2020-07-30,"forecast",22,132,41,81,72,79.0328
-"PI-Uruçuí",2020-07-31,"forecast",21,146,38,84,77,86.0946
-"PI-Uruçuí",2020-08-01,"forecast",22,167,41,93,83,93.7454
-"PI-Uruçuí",2020-08-02,"forecast",19,187,44,103,89,102.785
-"PI-Uruçuí",2020-08-03,"forecast",18,206,40,106,95,113.5854
-"PI-Uruçuí",2020-08-04,"forecast",17,230,40,113,102,124.04
-"PI-Uruçuí",2020-08-05,"forecast",16,254,38,119,109,136.289
-"PI-Uruçuí",2020-08-06,"forecast",12,290,46,134,116,151.5564
-"PI-Uruçuí",2020-08-07,"forecast",0,319,41,144,127,167.726
+"PI-Uruçuí",2020-08-04,"observed",NA,NA,NA,NA,17,NA
+"PI-Uruçuí",2020-08-05,"observed",NA,NA,NA,NA,0,NA
+"PI-Uruçuí",2020-07-26,"forecast",23,62,31,47,43,43.9948
+"PI-Uruçuí",2020-07-27,"forecast",21,67,30,48,45,45.9428
+"PI-Uruçuí",2020-07-28,"forecast",22,74,35,55,47,48.7056
+"PI-Uruçuí",2020-07-29,"forecast",19,79,33,56,49,51.5152
+"PI-Uruçuí",2020-07-30,"forecast",20,86,29,56,51,53.8236
+"PI-Uruçuí",2020-07-31,"forecast",17,93,32,61,53,56.938
+"PI-Uruçuí",2020-08-01,"forecast",16,101,31,63,56,60.4208
+"PI-Uruçuí",2020-08-02,"forecast",14,111,32,68,59,64.544
+"PI-Uruçuí",2020-08-03,"forecast",13,120,35,73,61,68.003
+"PI-Uruçuí",2020-08-04,"forecast",10,127,35,77,64,72.3202
+"PI-Uruçuí",2020-08-05,"forecast",11,142,31,78,67,77.1172
+"PI-Uruçuí",2020-08-06,"forecast",9,151,34,84,70,81.7228
+"PI-Uruçuí",2020-08-07,"forecast",0,158,31,86,74,87.4574
+"PI-Uruçuí",2020-08-08,"forecast",0,173,34,93,77,92.3372
 "PI-Valença do Piauí",2020-03-24,"nowcast",1,1,1,1,1,1
 "PI-Valença do Piauí",2020-03-25,"nowcast",0,0,0,0,0,0
 "PI-Valença do Piauí",2020-03-26,"nowcast",0,0,0,0,0,0
