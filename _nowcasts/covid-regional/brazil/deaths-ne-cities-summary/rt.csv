@@ -1,110 +1,111 @@
 region,date,type,median,lower_90,upper_90,lower_50,upper_50,prob_control
-BA-Salvador,2020-04-23,nowcast,1.2,0.7,1.7,1,1.4,0.21
-BA-Salvador,2020-04-24,nowcast,1.2,0.7,1.7,1,1.4,0.23
-BA-Salvador,2020-04-25,nowcast,1.2,0.7,1.7,1,1.4,0.23
-BA-Salvador,2020-04-26,nowcast,1.2,0.7,1.7,1,1.3,0.24
-BA-Salvador,2020-04-27,nowcast,1.2,0.7,1.7,1,1.3,0.23
+BA-Salvador,2020-04-23,nowcast,1.2,0.7,1.7,1,1.4,0.23
+BA-Salvador,2020-04-24,nowcast,1.2,0.7,1.7,1,1.4,0.22
+BA-Salvador,2020-04-25,nowcast,1.2,0.7,1.7,1,1.4,0.22
+BA-Salvador,2020-04-26,nowcast,1.2,0.8,1.7,1,1.4,0.23
+BA-Salvador,2020-04-27,nowcast,1.2,0.8,1.7,1,1.3,0.23
 BA-Salvador,2020-04-28,nowcast,1.2,0.7,1.7,1,1.3,0.23
-BA-Salvador,2020-04-29,nowcast,1.2,0.7,1.7,1,1.3,0.24
-BA-Salvador,2020-04-30,nowcast,1.2,0.8,1.6,1,1.3,0.22
-BA-Salvador,2020-05-01,nowcast,1.2,0.8,1.6,1,1.3,0.2
-BA-Salvador,2020-05-02,nowcast,1.2,0.8,1.6,1,1.3,0.18
+BA-Salvador,2020-04-29,nowcast,1.2,0.8,1.6,1,1.3,0.22
+BA-Salvador,2020-04-30,nowcast,1.2,0.8,1.6,1,1.3,0.2
+BA-Salvador,2020-05-01,nowcast,1.2,0.8,1.7,1,1.3,0.2
+BA-Salvador,2020-05-02,nowcast,1.2,0.8,1.6,1,1.4,0.19
 BA-Salvador,2020-05-03,nowcast,1.2,0.8,1.6,1,1.3,0.19
 BA-Salvador,2020-05-04,nowcast,1.2,0.8,1.6,1,1.3,0.18
 BA-Salvador,2020-05-05,nowcast,1.2,0.8,1.6,1,1.3,0.18
-BA-Salvador,2020-05-06,nowcast,1.2,0.8,1.6,1,1.3,0.18
-BA-Salvador,2020-05-07,nowcast,1.2,0.8,1.6,1,1.3,0.18
-BA-Salvador,2020-05-08,nowcast,1.2,0.8,1.6,1,1.3,0.17
-BA-Salvador,2020-05-09,nowcast,1.2,0.8,1.5,1,1.3,0.18
-BA-Salvador,2020-05-10,nowcast,1.2,0.8,1.5,1,1.3,0.19
+BA-Salvador,2020-05-06,nowcast,1.2,0.8,1.6,1,1.3,0.17
+BA-Salvador,2020-05-07,nowcast,1.2,0.8,1.6,1,1.3,0.17
+BA-Salvador,2020-05-08,nowcast,1.2,0.8,1.6,1,1.3,0.18
+BA-Salvador,2020-05-09,nowcast,1.2,0.8,1.6,1,1.3,0.18
+BA-Salvador,2020-05-10,nowcast,1.2,0.8,1.5,1,1.3,0.17
 BA-Salvador,2020-05-11,nowcast,1.2,0.8,1.5,1,1.3,0.18
-BA-Salvador,2020-05-12,nowcast,1.2,0.8,1.5,1,1.3,0.18
-BA-Salvador,2020-05-13,nowcast,1.2,0.8,1.5,1,1.3,0.17
-BA-Salvador,2020-05-14,nowcast,1.2,0.8,1.5,1,1.3,0.18
-BA-Salvador,2020-05-15,nowcast,1.1,0.8,1.5,1,1.3,0.19
-BA-Salvador,2020-05-16,nowcast,1.1,0.8,1.5,1,1.3,0.21
-BA-Salvador,2020-05-17,nowcast,1.1,0.8,1.4,1,1.2,0.22
-BA-Salvador,2020-05-18,nowcast,1.1,0.8,1.4,1,1.2,0.23
-BA-Salvador,2020-05-19,nowcast,1.1,0.8,1.4,1,1.2,0.25
-BA-Salvador,2020-05-20,nowcast,1.1,0.8,1.4,1,1.2,0.3
-BA-Salvador,2020-05-21,nowcast,1.1,0.8,1.4,1,1.2,0.31
-BA-Salvador,2020-05-22,nowcast,1.1,0.8,1.3,1,1.2,0.36
-BA-Salvador,2020-05-23,nowcast,1,0.7,1.3,0.9,1.1,0.38
-BA-Salvador,2020-05-24,nowcast,1,0.8,1.3,0.9,1.1,0.4
+BA-Salvador,2020-05-12,nowcast,1.2,0.8,1.6,1,1.3,0.18
+BA-Salvador,2020-05-13,nowcast,1.2,0.8,1.5,1,1.3,0.19
+BA-Salvador,2020-05-14,nowcast,1.2,0.8,1.5,1,1.3,0.2
+BA-Salvador,2020-05-15,nowcast,1.1,0.8,1.5,1,1.3,0.21
+BA-Salvador,2020-05-16,nowcast,1.1,0.8,1.5,1,1.3,0.2
+BA-Salvador,2020-05-17,nowcast,1.1,0.8,1.5,1,1.2,0.22
+BA-Salvador,2020-05-18,nowcast,1.1,0.8,1.4,1,1.2,0.24
+BA-Salvador,2020-05-19,nowcast,1.1,0.8,1.4,1,1.2,0.27
+BA-Salvador,2020-05-20,nowcast,1.1,0.8,1.4,1,1.2,0.28
+BA-Salvador,2020-05-21,nowcast,1.1,0.8,1.4,1,1.2,0.32
+BA-Salvador,2020-05-22,nowcast,1.1,0.8,1.4,1,1.2,0.35
+BA-Salvador,2020-05-23,nowcast,1.1,0.8,1.3,0.9,1.1,0.36
+BA-Salvador,2020-05-24,nowcast,1,0.8,1.3,0.9,1.2,0.4
 BA-Salvador,2020-05-25,nowcast,1,0.8,1.3,0.9,1.1,0.42
-BA-Salvador,2020-05-26,nowcast,1,0.7,1.3,0.9,1.1,0.45
-BA-Salvador,2020-05-27,nowcast,1,0.8,1.3,0.9,1.1,0.45
-BA-Salvador,2020-05-28,nowcast,1,0.8,1.3,0.9,1.1,0.46
-BA-Salvador,2020-05-29,nowcast,1,0.8,1.3,0.9,1.1,0.45
-BA-Salvador,2020-05-30,nowcast,1,0.8,1.3,0.9,1.1,0.45
+BA-Salvador,2020-05-26,nowcast,1,0.8,1.3,0.9,1.1,0.45
+BA-Salvador,2020-05-27,nowcast,1,0.7,1.3,0.9,1.1,0.45
+BA-Salvador,2020-05-28,nowcast,1,0.8,1.3,0.9,1.1,0.45
+BA-Salvador,2020-05-29,nowcast,1,0.8,1.3,0.9,1.1,0.44
+BA-Salvador,2020-05-30,nowcast,1,0.7,1.3,0.9,1.1,0.46
 BA-Salvador,2020-05-31,nowcast,1,0.8,1.3,0.9,1.1,0.44
-BA-Salvador,2020-06-01,nowcast,1,0.8,1.3,0.9,1.1,0.45
-BA-Salvador,2020-06-02,nowcast,1,0.8,1.3,0.9,1.1,0.44
-BA-Salvador,2020-06-03,nowcast,1,0.8,1.3,0.9,1.1,0.42
-BA-Salvador,2020-06-04,nowcast,1,0.8,1.3,0.9,1.1,0.42
-BA-Salvador,2020-06-05,nowcast,1,0.8,1.3,0.9,1.1,0.4
-BA-Salvador,2020-06-06,nowcast,1,0.8,1.3,0.9,1.1,0.41
-BA-Salvador,2020-06-07,nowcast,1,0.8,1.3,0.9,1.1,0.42
-BA-Salvador,2020-06-08,nowcast,1,0.8,1.3,0.9,1.1,0.39
-BA-Salvador,2020-06-09,nowcast,1,0.8,1.3,0.9,1.1,0.38
-BA-Salvador,2020-06-10,nowcast,1,0.8,1.3,0.9,1.1,0.36
-BA-Salvador,2020-06-11,nowcast,1,0.8,1.3,0.9,1.1,0.36
-BA-Salvador,2020-06-12,nowcast,1,0.8,1.3,0.9,1.1,0.36
-BA-Salvador,2020-06-13,nowcast,1,0.8,1.3,0.9,1.1,0.39
-BA-Salvador,2020-06-14,nowcast,1,0.8,1.3,0.9,1.1,0.39
-BA-Salvador,2020-06-15,nowcast,1,0.8,1.3,0.9,1.1,0.41
-BA-Salvador,2020-06-16,nowcast,1,0.8,1.3,0.9,1.1,0.44
-BA-Salvador,2020-06-17,nowcast,1,0.8,1.3,0.9,1.1,0.46
-BA-Salvador,2020-06-18,nowcast,1,0.8,1.2,0.9,1.1,0.5
-BA-Salvador,2020-06-19,nowcast,1,0.8,1.2,0.9,1.1,0.52
+BA-Salvador,2020-06-01,nowcast,1,0.7,1.3,0.9,1.1,0.43
+BA-Salvador,2020-06-02,nowcast,1,0.8,1.3,0.9,1.1,0.41
+BA-Salvador,2020-06-03,nowcast,1,0.8,1.3,0.9,1.1,0.41
+BA-Salvador,2020-06-04,nowcast,1,0.7,1.3,0.9,1.1,0.42
+BA-Salvador,2020-06-05,nowcast,1,0.8,1.3,0.9,1.1,0.43
+BA-Salvador,2020-06-06,nowcast,1,0.8,1.3,0.9,1.1,0.42
+BA-Salvador,2020-06-07,nowcast,1,0.8,1.3,0.9,1.1,0.4
+BA-Salvador,2020-06-08,nowcast,1,0.8,1.3,0.9,1.1,0.41
+BA-Salvador,2020-06-09,nowcast,1,0.8,1.3,0.9,1.1,0.39
+BA-Salvador,2020-06-10,nowcast,1,0.8,1.3,0.9,1.1,0.38
+BA-Salvador,2020-06-11,nowcast,1.1,0.8,1.3,0.9,1.1,0.34
+BA-Salvador,2020-06-12,nowcast,1.1,0.8,1.3,1,1.1,0.35
+BA-Salvador,2020-06-13,nowcast,1,0.8,1.3,0.9,1.1,0.38
+BA-Salvador,2020-06-14,nowcast,1,0.8,1.3,0.9,1.1,0.38
+BA-Salvador,2020-06-15,nowcast,1,0.8,1.3,0.9,1.1,0.42
+BA-Salvador,2020-06-16,nowcast,1,0.8,1.3,0.9,1.1,0.43
+BA-Salvador,2020-06-17,nowcast,1,0.8,1.3,0.9,1.1,0.48
+BA-Salvador,2020-06-18,nowcast,1,0.7,1.2,0.9,1.1,0.51
+BA-Salvador,2020-06-19,nowcast,1,0.7,1.2,0.9,1.1,0.54
 BA-Salvador,2020-06-20,nowcast,1,0.7,1.2,0.9,1.1,0.57
-BA-Salvador,2020-06-21,nowcast,1,0.7,1.2,0.9,1.1,0.59
+BA-Salvador,2020-06-21,nowcast,1,0.7,1.2,0.9,1,0.6
 BA-Salvador,2020-06-22,nowcast,1,0.7,1.2,0.9,1.1,0.61
-BA-Salvador,2020-06-23,nowcast,0.9,0.7,1.2,0.9,1,0.65
-BA-Salvador,2020-06-24,nowcast,0.9,0.7,1.2,0.9,1,0.67
-BA-Salvador,2020-06-25,nowcast,0.9,0.7,1.2,0.8,1,0.69
+BA-Salvador,2020-06-23,nowcast,1,0.7,1.2,0.9,1,0.64
+BA-Salvador,2020-06-24,nowcast,0.9,0.7,1.2,0.9,1,0.66
+BA-Salvador,2020-06-25,nowcast,0.9,0.7,1.2,0.9,1,0.68
 BA-Salvador,2020-06-26,nowcast,0.9,0.7,1.2,0.8,1,0.69
-BA-Salvador,2020-06-27,nowcast,0.9,0.7,1.2,0.8,1,0.72
-BA-Salvador,2020-06-28,nowcast,0.9,0.7,1.2,0.8,1,0.73
-BA-Salvador,2020-06-29,nowcast,0.9,0.7,1.2,0.8,1,0.73
-BA-Salvador,2020-06-30,nowcast,0.9,0.7,1.2,0.8,1,0.73
-BA-Salvador,2020-07-01,nowcast,0.9,0.6,1.2,0.8,1,0.71
-BA-Salvador,2020-07-02,nowcast,0.9,0.7,1.2,0.8,1,0.71
-BA-Salvador,2020-07-03,nowcast,0.9,0.6,1.2,0.8,1,0.71
-BA-Salvador,2020-07-04,nowcast,0.9,0.7,1.2,0.8,1,0.68
-BA-Salvador,2020-07-05,nowcast,0.9,0.7,1.2,0.8,1,0.66
-BA-Salvador,2020-07-06,nowcast,0.9,0.7,1.2,0.8,1,0.67
-BA-Salvador,2020-07-07,nowcast,1,0.7,1.2,0.8,1,0.61
-BA-Salvador,2020-07-08,nowcast,1,0.7,1.3,0.8,1.1,0.57
-BA-Salvador,2020-07-09,nowcast,1,0.7,1.3,0.9,1.1,0.55
-BA-Salvador,2020-07-10,nowcast,1,0.7,1.3,0.9,1.1,0.5
-BA-Salvador,2020-07-11,nowcast,1,0.7,1.4,0.9,1.1,0.46
-BA-Salvador,2020-07-12,nowcast,1,0.7,1.3,0.9,1.1,0.43
-BA-Salvador,2020-07-13,nowcast,1,0.8,1.4,0.9,1.1,0.39
-BA-Salvador,2020-07-14,nowcast,1.1,0.8,1.4,0.9,1.1,0.34
-BA-Salvador,2020-07-15,nowcast,1.1,0.8,1.4,0.9,1.2,0.3
-BA-Salvador,2020-07-16,nowcast,1.1,0.8,1.4,1,1.2,0.27
-BA-Salvador,2020-07-17,nowcast,1.1,0.8,1.4,1,1.2,0.22
-BA-Salvador,2020-07-18,nowcast,1.1,0.9,1.5,1,1.2,0.19
-BA-Salvador,2020-07-19,nowcast,1.2,0.9,1.5,1,1.2,0.17
-BA-Salvador,2020-07-20,nowcast,1.2,0.9,1.5,1,1.2,0.14
-BA-Salvador,2020-07-21,nowcast,1.2,0.9,1.5,1.1,1.3,0.14
-BA-Salvador,2020-07-22,nowcast,1.2,0.9,1.5,1,1.3,0.13
-BA-Salvador,2020-07-23,nowcast,1.2,0.9,1.5,1.1,1.3,0.1
-BA-Salvador,2020-07-24,forecast,1.2,0.8,1.6,1,1.3,0.17
-BA-Salvador,2020-07-25,forecast,1.2,0.8,1.6,1,1.4,0.19
-BA-Salvador,2020-07-26,forecast,1.2,0.7,1.7,1,1.4,0.2
-BA-Salvador,2020-07-27,forecast,1.2,0.8,1.7,1,1.3,0.22
-BA-Salvador,2020-07-28,forecast,1.2,0.7,1.7,1,1.4,0.23
-BA-Salvador,2020-07-29,forecast,1.2,0.7,1.8,1,1.4,0.23
-BA-Salvador,2020-07-30,forecast,1.2,0.7,1.8,0.9,1.4,0.24
-BA-Salvador,2020-07-31,forecast,1.2,0.6,1.8,1,1.4,0.25
-BA-Salvador,2020-08-01,forecast,1.2,0.6,1.8,1,1.5,0.25
-BA-Salvador,2020-08-02,forecast,1.2,0.6,1.9,0.9,1.4,0.26
-BA-Salvador,2020-08-03,forecast,1.2,0.6,1.9,0.9,1.4,0.26
-BA-Salvador,2020-08-04,forecast,1.2,0.6,2,1,1.5,0.25
-BA-Salvador,2020-08-05,forecast,1.2,0.6,2,0.9,1.5,0.28
-BA-Salvador,2020-08-06,forecast,1.2,0.5,2,1,1.5,0.28
+BA-Salvador,2020-06-27,nowcast,0.9,0.7,1.2,0.8,1,0.69
+BA-Salvador,2020-06-28,nowcast,0.9,0.7,1.2,0.8,1,0.72
+BA-Salvador,2020-06-29,nowcast,0.9,0.7,1.1,0.8,1,0.73
+BA-Salvador,2020-06-30,nowcast,0.9,0.7,1.2,0.8,1,0.71
+BA-Salvador,2020-07-01,nowcast,0.9,0.7,1.2,0.8,1,0.7
+BA-Salvador,2020-07-02,nowcast,0.9,0.7,1.2,0.8,1,0.69
+BA-Salvador,2020-07-03,nowcast,0.9,0.7,1.2,0.8,1,0.72
+BA-Salvador,2020-07-04,nowcast,0.9,0.6,1.2,0.8,1,0.71
+BA-Salvador,2020-07-05,nowcast,0.9,0.7,1.2,0.8,1,0.68
+BA-Salvador,2020-07-06,nowcast,0.9,0.7,1.2,0.8,1,0.64
+BA-Salvador,2020-07-07,nowcast,1,0.7,1.3,0.8,1,0.6
+BA-Salvador,2020-07-08,nowcast,1,0.7,1.3,0.8,1,0.6
+BA-Salvador,2020-07-09,nowcast,1,0.7,1.3,0.9,1.1,0.54
+BA-Salvador,2020-07-10,nowcast,1,0.7,1.3,0.9,1.1,0.51
+BA-Salvador,2020-07-11,nowcast,1,0.7,1.3,0.9,1.1,0.46
+BA-Salvador,2020-07-12,nowcast,1,0.8,1.4,0.9,1.1,0.42
+BA-Salvador,2020-07-13,nowcast,1,0.8,1.4,0.9,1.2,0.38
+BA-Salvador,2020-07-14,nowcast,1.1,0.8,1.4,0.9,1.1,0.35
+BA-Salvador,2020-07-15,nowcast,1.1,0.8,1.4,0.9,1.2,0.29
+BA-Salvador,2020-07-16,nowcast,1.1,0.8,1.4,1,1.2,0.25
+BA-Salvador,2020-07-17,nowcast,1.1,0.9,1.5,1,1.2,0.22
+BA-Salvador,2020-07-18,nowcast,1.1,0.9,1.5,1,1.2,0.2
+BA-Salvador,2020-07-19,nowcast,1.2,0.8,1.5,1,1.2,0.18
+BA-Salvador,2020-07-20,nowcast,1.2,0.9,1.5,1,1.3,0.15
+BA-Salvador,2020-07-21,nowcast,1.2,0.9,1.5,1.1,1.3,0.12
+BA-Salvador,2020-07-22,nowcast,1.2,0.9,1.5,1.1,1.3,0.12
+BA-Salvador,2020-07-23,nowcast,1.2,0.9,1.5,1.1,1.3,0.11
+BA-Salvador,2020-07-24,nowcast,1.2,0.9,1.5,1.1,1.3,0.11
+BA-Salvador,2020-07-25,forecast,1.2,0.8,1.6,1.1,1.4,0.18
+BA-Salvador,2020-07-26,forecast,1.2,0.8,1.6,1,1.4,0.2
+BA-Salvador,2020-07-27,forecast,1.2,0.7,1.6,1,1.4,0.22
+BA-Salvador,2020-07-28,forecast,1.2,0.7,1.7,1,1.4,0.24
+BA-Salvador,2020-07-29,forecast,1.2,0.7,1.7,1,1.4,0.25
+BA-Salvador,2020-07-30,forecast,1.2,0.6,1.8,1,1.4,0.25
+BA-Salvador,2020-07-31,forecast,1.2,0.7,1.8,1,1.4,0.25
+BA-Salvador,2020-08-01,forecast,1.2,0.6,1.8,1,1.4,0.27
+BA-Salvador,2020-08-02,forecast,1.2,0.6,1.8,1,1.5,0.26
+BA-Salvador,2020-08-03,forecast,1.2,0.6,1.9,1,1.4,0.26
+BA-Salvador,2020-08-04,forecast,1.2,0.6,1.9,1,1.5,0.28
+BA-Salvador,2020-08-05,forecast,1.2,0.5,1.9,0.9,1.5,0.28
+BA-Salvador,2020-08-06,forecast,1.2,0.6,2,0.9,1.5,0.29
+BA-Salvador,2020-08-07,forecast,1.2,0.5,2,0.9,1.5,0.29
 CE-Fortaleza,2020-04-03,nowcast,1.3,0.9,1.7,1.1,1.4,0.09
 CE-Fortaleza,2020-04-04,nowcast,1.3,0.9,1.7,1.1,1.4,0.09
 CE-Fortaleza,2020-04-05,nowcast,1.3,0.9,1.7,1.1,1.4,0.08
@@ -368,114 +369,115 @@ PB-Campina Grande,2020-07-15,forecast,1.3,0,2.2,0.8,1.6,0.34
 PB-Campina Grande,2020-07-16,forecast,1.3,0,2.2,0.9,1.7,0.33
 PB-Campina Grande,2020-07-17,forecast,1.2,0,2.2,0.8,1.7,0.35
 PB-Campina Grande,2020-07-18,forecast,1.2,0,2.2,0.7,1.7,0.36
-PB-João Pessoa,2020-04-21,nowcast,1.2,0.4,2.2,0.7,1.4,0.36
-PB-João Pessoa,2020-04-22,nowcast,1.2,0.4,2.2,0.8,1.4,0.35
-PB-João Pessoa,2020-04-23,nowcast,1.2,0.3,2.1,0.7,1.4,0.33
-PB-João Pessoa,2020-04-24,nowcast,1.2,0.4,2.1,0.8,1.5,0.34
-PB-João Pessoa,2020-04-25,nowcast,1.2,0.3,2.1,0.7,1.4,0.33
-PB-João Pessoa,2020-04-26,nowcast,1.2,0.4,2.1,0.8,1.4,0.34
-PB-João Pessoa,2020-04-27,nowcast,1.2,0.4,2.1,0.8,1.4,0.34
-PB-João Pessoa,2020-04-28,nowcast,1.2,0.4,2.1,0.8,1.4,0.33
+PB-João Pessoa,2020-04-21,nowcast,1.1,0.4,2.1,0.7,1.4,0.37
+PB-João Pessoa,2020-04-22,nowcast,1.2,0.3,2.2,0.7,1.4,0.36
+PB-João Pessoa,2020-04-23,nowcast,1.2,0.4,2.1,0.8,1.4,0.34
+PB-João Pessoa,2020-04-24,nowcast,1.2,0.3,2,0.8,1.4,0.36
+PB-João Pessoa,2020-04-25,nowcast,1.2,0.4,2.1,0.8,1.5,0.33
+PB-João Pessoa,2020-04-26,nowcast,1.2,0.3,2,0.8,1.4,0.34
+PB-João Pessoa,2020-04-27,nowcast,1.2,0.4,2,0.8,1.4,0.34
+PB-João Pessoa,2020-04-28,nowcast,1.2,0.4,2,0.8,1.4,0.35
 PB-João Pessoa,2020-04-29,nowcast,1.2,0.4,2,0.8,1.4,0.35
-PB-João Pessoa,2020-04-30,nowcast,1.2,0.4,2,0.8,1.4,0.34
-PB-João Pessoa,2020-05-01,nowcast,1.2,0.4,1.9,0.8,1.4,0.35
-PB-João Pessoa,2020-05-02,nowcast,1.1,0.5,2,0.8,1.3,0.36
-PB-João Pessoa,2020-05-03,nowcast,1.1,0.5,1.9,0.8,1.3,0.37
-PB-João Pessoa,2020-05-04,nowcast,1.1,0.4,1.8,0.8,1.3,0.38
-PB-João Pessoa,2020-05-05,nowcast,1.1,0.5,1.9,0.8,1.3,0.37
-PB-João Pessoa,2020-05-06,nowcast,1.1,0.5,1.8,0.9,1.4,0.37
-PB-João Pessoa,2020-05-07,nowcast,1.1,0.5,1.9,0.8,1.4,0.35
-PB-João Pessoa,2020-05-08,nowcast,1.2,0.5,1.9,0.8,1.3,0.34
-PB-João Pessoa,2020-05-09,nowcast,1.1,0.5,1.9,0.8,1.3,0.34
-PB-João Pessoa,2020-05-10,nowcast,1.1,0.5,1.9,0.8,1.4,0.34
-PB-João Pessoa,2020-05-11,nowcast,1.2,0.5,1.9,0.8,1.3,0.34
-PB-João Pessoa,2020-05-12,nowcast,1.2,0.5,1.9,0.9,1.4,0.33
-PB-João Pessoa,2020-05-13,nowcast,1.2,0.5,1.8,0.8,1.3,0.33
-PB-João Pessoa,2020-05-14,nowcast,1.1,0.5,1.9,0.8,1.3,0.32
-PB-João Pessoa,2020-05-15,nowcast,1.2,0.6,1.8,0.9,1.4,0.3
-PB-João Pessoa,2020-05-16,nowcast,1.2,0.6,1.8,0.9,1.4,0.3
-PB-João Pessoa,2020-05-17,nowcast,1.2,0.6,1.8,0.9,1.4,0.3
-PB-João Pessoa,2020-05-18,nowcast,1.2,0.6,1.8,0.9,1.4,0.27
-PB-João Pessoa,2020-05-19,nowcast,1.2,0.6,1.8,0.9,1.3,0.3
-PB-João Pessoa,2020-05-20,nowcast,1.2,0.6,1.8,0.9,1.3,0.29
-PB-João Pessoa,2020-05-21,nowcast,1.2,0.6,1.8,0.9,1.3,0.31
-PB-João Pessoa,2020-05-22,nowcast,1.2,0.6,1.7,0.9,1.3,0.3
-PB-João Pessoa,2020-05-23,nowcast,1.2,0.6,1.7,1,1.4,0.28
+PB-João Pessoa,2020-04-30,nowcast,1.1,0.4,1.9,0.8,1.4,0.36
+PB-João Pessoa,2020-05-01,nowcast,1.2,0.4,1.9,0.8,1.4,0.36
+PB-João Pessoa,2020-05-02,nowcast,1.2,0.4,1.9,0.8,1.3,0.35
+PB-João Pessoa,2020-05-03,nowcast,1.2,0.5,1.9,0.8,1.4,0.34
+PB-João Pessoa,2020-05-04,nowcast,1.2,0.4,1.9,0.8,1.4,0.35
+PB-João Pessoa,2020-05-05,nowcast,1.1,0.5,1.9,0.8,1.3,0.36
+PB-João Pessoa,2020-05-06,nowcast,1.2,0.5,1.9,0.8,1.3,0.34
+PB-João Pessoa,2020-05-07,nowcast,1.2,0.5,1.9,0.9,1.4,0.34
+PB-João Pessoa,2020-05-08,nowcast,1.2,0.5,1.8,0.9,1.4,0.33
+PB-João Pessoa,2020-05-09,nowcast,1.1,0.5,1.8,0.8,1.3,0.34
+PB-João Pessoa,2020-05-10,nowcast,1.2,0.5,1.9,0.9,1.4,0.33
+PB-João Pessoa,2020-05-11,nowcast,1.2,0.5,1.8,0.9,1.4,0.33
+PB-João Pessoa,2020-05-12,nowcast,1.2,0.5,1.9,0.8,1.3,0.32
+PB-João Pessoa,2020-05-13,nowcast,1.2,0.6,1.9,0.9,1.4,0.3
+PB-João Pessoa,2020-05-14,nowcast,1.2,0.6,1.8,0.9,1.4,0.32
+PB-João Pessoa,2020-05-15,nowcast,1.2,0.5,1.8,0.9,1.3,0.31
+PB-João Pessoa,2020-05-16,nowcast,1.2,0.5,1.8,0.9,1.3,0.33
+PB-João Pessoa,2020-05-17,nowcast,1.2,0.6,1.8,0.9,1.3,0.32
+PB-João Pessoa,2020-05-18,nowcast,1.2,0.6,1.9,0.9,1.3,0.29
+PB-João Pessoa,2020-05-19,nowcast,1.2,0.6,1.8,0.9,1.3,0.28
+PB-João Pessoa,2020-05-20,nowcast,1.2,0.6,1.7,0.9,1.4,0.3
+PB-João Pessoa,2020-05-21,nowcast,1.2,0.7,1.8,0.9,1.3,0.29
+PB-João Pessoa,2020-05-22,nowcast,1.2,0.6,1.7,0.9,1.4,0.29
+PB-João Pessoa,2020-05-23,nowcast,1.2,0.6,1.7,0.9,1.4,0.3
 PB-João Pessoa,2020-05-24,nowcast,1.1,0.6,1.7,0.9,1.3,0.31
-PB-João Pessoa,2020-05-25,nowcast,1.1,0.6,1.6,0.9,1.3,0.32
-PB-João Pessoa,2020-05-26,nowcast,1.1,0.6,1.6,0.9,1.3,0.33
-PB-João Pessoa,2020-05-27,nowcast,1.1,0.7,1.6,0.9,1.3,0.36
-PB-João Pessoa,2020-05-28,nowcast,1.1,0.7,1.6,0.9,1.2,0.36
-PB-João Pessoa,2020-05-29,nowcast,1.1,0.6,1.6,0.9,1.3,0.37
-PB-João Pessoa,2020-05-30,nowcast,1.1,0.6,1.6,0.9,1.2,0.39
-PB-João Pessoa,2020-05-31,nowcast,1.1,0.6,1.5,0.8,1.2,0.41
-PB-João Pessoa,2020-06-01,nowcast,1,0.6,1.5,0.9,1.2,0.43
-PB-João Pessoa,2020-06-02,nowcast,1,0.6,1.5,0.8,1.2,0.47
-PB-João Pessoa,2020-06-03,nowcast,1,0.6,1.5,0.8,1.2,0.48
-PB-João Pessoa,2020-06-04,nowcast,1,0.5,1.5,0.8,1.2,0.47
-PB-João Pessoa,2020-06-05,nowcast,1,0.6,1.5,0.8,1.1,0.48
-PB-João Pessoa,2020-06-06,nowcast,1,0.6,1.5,0.8,1.2,0.46
-PB-João Pessoa,2020-06-07,nowcast,1,0.6,1.5,0.8,1.1,0.47
-PB-João Pessoa,2020-06-08,nowcast,1,0.6,1.5,0.8,1.2,0.47
-PB-João Pessoa,2020-06-09,nowcast,1,0.6,1.6,0.8,1.2,0.44
-PB-João Pessoa,2020-06-10,nowcast,1,0.6,1.5,0.8,1.2,0.44
-PB-João Pessoa,2020-06-11,nowcast,1.1,0.6,1.5,0.8,1.2,0.41
-PB-João Pessoa,2020-06-12,nowcast,1.1,0.6,1.6,0.8,1.2,0.4
-PB-João Pessoa,2020-06-13,nowcast,1.1,0.6,1.5,0.9,1.2,0.39
-PB-João Pessoa,2020-06-14,nowcast,1.1,0.7,1.6,0.9,1.2,0.36
-PB-João Pessoa,2020-06-15,nowcast,1.1,0.7,1.5,0.9,1.2,0.35
-PB-João Pessoa,2020-06-16,nowcast,1.1,0.6,1.6,0.9,1.3,0.34
-PB-João Pessoa,2020-06-17,nowcast,1.1,0.7,1.6,0.9,1.2,0.33
+PB-João Pessoa,2020-05-25,nowcast,1.1,0.6,1.7,0.9,1.3,0.34
+PB-João Pessoa,2020-05-26,nowcast,1.1,0.6,1.7,0.9,1.3,0.33
+PB-João Pessoa,2020-05-27,nowcast,1.1,0.6,1.6,0.9,1.3,0.34
+PB-João Pessoa,2020-05-28,nowcast,1.1,0.6,1.6,0.9,1.2,0.37
+PB-João Pessoa,2020-05-29,nowcast,1.1,0.6,1.6,0.9,1.2,0.38
+PB-João Pessoa,2020-05-30,nowcast,1.1,0.6,1.5,0.8,1.2,0.41
+PB-João Pessoa,2020-05-31,nowcast,1.1,0.6,1.6,0.9,1.2,0.4
+PB-João Pessoa,2020-06-01,nowcast,1,0.6,1.5,0.8,1.2,0.44
+PB-João Pessoa,2020-06-02,nowcast,1,0.6,1.5,0.9,1.2,0.43
+PB-João Pessoa,2020-06-03,nowcast,1,0.6,1.5,0.9,1.2,0.46
+PB-João Pessoa,2020-06-04,nowcast,1,0.6,1.5,0.9,1.2,0.46
+PB-João Pessoa,2020-06-05,nowcast,1,0.6,1.5,0.8,1.2,0.47
+PB-João Pessoa,2020-06-06,nowcast,1,0.6,1.5,0.8,1.2,0.47
+PB-João Pessoa,2020-06-07,nowcast,1,0.6,1.5,0.9,1.2,0.46
+PB-João Pessoa,2020-06-08,nowcast,1,0.6,1.5,0.8,1.2,0.46
+PB-João Pessoa,2020-06-09,nowcast,1,0.6,1.5,0.9,1.2,0.44
+PB-João Pessoa,2020-06-10,nowcast,1,0.6,1.5,0.8,1.2,0.42
+PB-João Pessoa,2020-06-11,nowcast,1.1,0.6,1.6,0.8,1.2,0.42
+PB-João Pessoa,2020-06-12,nowcast,1.1,0.6,1.5,0.9,1.2,0.39
+PB-João Pessoa,2020-06-13,nowcast,1.1,0.6,1.6,0.9,1.2,0.38
+PB-João Pessoa,2020-06-14,nowcast,1.1,0.6,1.6,0.9,1.2,0.37
+PB-João Pessoa,2020-06-15,nowcast,1.1,0.7,1.6,0.9,1.2,0.36
+PB-João Pessoa,2020-06-16,nowcast,1.1,0.7,1.6,0.9,1.3,0.33
+PB-João Pessoa,2020-06-17,nowcast,1.1,0.7,1.6,0.9,1.2,0.35
 PB-João Pessoa,2020-06-18,nowcast,1.1,0.7,1.6,0.9,1.2,0.34
-PB-João Pessoa,2020-06-19,nowcast,1.1,0.7,1.6,0.9,1.2,0.32
-PB-João Pessoa,2020-06-20,nowcast,1.1,0.7,1.5,0.9,1.2,0.35
-PB-João Pessoa,2020-06-21,nowcast,1.1,0.7,1.6,0.9,1.2,0.35
-PB-João Pessoa,2020-06-22,nowcast,1.1,0.7,1.5,0.9,1.2,0.35
-PB-João Pessoa,2020-06-23,nowcast,1.1,0.7,1.5,0.9,1.2,0.36
+PB-João Pessoa,2020-06-19,nowcast,1.1,0.7,1.6,0.9,1.3,0.32
+PB-João Pessoa,2020-06-20,nowcast,1.1,0.7,1.5,0.9,1.3,0.34
+PB-João Pessoa,2020-06-21,nowcast,1.1,0.7,1.5,0.9,1.2,0.36
+PB-João Pessoa,2020-06-22,nowcast,1.1,0.7,1.5,0.9,1.2,0.36
+PB-João Pessoa,2020-06-23,nowcast,1.1,0.7,1.5,0.9,1.2,0.39
 PB-João Pessoa,2020-06-24,nowcast,1.1,0.7,1.5,0.9,1.2,0.38
-PB-João Pessoa,2020-06-25,nowcast,1.1,0.7,1.5,0.9,1.2,0.38
-PB-João Pessoa,2020-06-26,nowcast,1,0.6,1.4,0.9,1.2,0.42
+PB-João Pessoa,2020-06-25,nowcast,1.1,0.6,1.5,0.9,1.2,0.39
+PB-João Pessoa,2020-06-26,nowcast,1,0.6,1.5,0.9,1.2,0.41
 PB-João Pessoa,2020-06-27,nowcast,1,0.7,1.5,0.9,1.2,0.43
-PB-João Pessoa,2020-06-28,nowcast,1,0.6,1.5,0.8,1.1,0.42
-PB-João Pessoa,2020-06-29,nowcast,1,0.7,1.5,0.9,1.2,0.42
-PB-João Pessoa,2020-06-30,nowcast,1,0.6,1.4,0.9,1.1,0.42
+PB-João Pessoa,2020-06-28,nowcast,1,0.7,1.4,0.9,1.2,0.44
+PB-João Pessoa,2020-06-29,nowcast,1,0.7,1.4,0.9,1.2,0.43
+PB-João Pessoa,2020-06-30,nowcast,1,0.6,1.4,0.9,1.2,0.44
 PB-João Pessoa,2020-07-01,nowcast,1,0.7,1.5,0.9,1.2,0.42
-PB-João Pessoa,2020-07-02,nowcast,1,0.7,1.5,0.9,1.2,0.41
-PB-João Pessoa,2020-07-03,nowcast,1.1,0.7,1.5,0.9,1.2,0.4
+PB-João Pessoa,2020-07-02,nowcast,1,0.7,1.5,0.9,1.2,0.42
+PB-João Pessoa,2020-07-03,nowcast,1,0.7,1.5,0.9,1.2,0.41
 PB-João Pessoa,2020-07-04,nowcast,1,0.7,1.5,0.9,1.2,0.41
-PB-João Pessoa,2020-07-05,nowcast,1,0.7,1.5,0.9,1.2,0.42
-PB-João Pessoa,2020-07-06,nowcast,1,0.6,1.4,0.9,1.2,0.43
-PB-João Pessoa,2020-07-07,nowcast,1,0.7,1.4,0.8,1.1,0.47
-PB-João Pessoa,2020-07-08,nowcast,1,0.6,1.4,0.9,1.1,0.48
-PB-João Pessoa,2020-07-09,nowcast,1,0.6,1.4,0.9,1.1,0.49
-PB-João Pessoa,2020-07-10,nowcast,1,0.6,1.4,0.8,1.1,0.52
-PB-João Pessoa,2020-07-11,nowcast,1,0.6,1.4,0.9,1.1,0.52
-PB-João Pessoa,2020-07-12,nowcast,1,0.6,1.4,0.8,1.1,0.51
-PB-João Pessoa,2020-07-13,nowcast,1,0.6,1.4,0.8,1.1,0.51
-PB-João Pessoa,2020-07-14,nowcast,1,0.6,1.4,0.8,1.1,0.51
-PB-João Pessoa,2020-07-15,nowcast,1,0.6,1.4,0.8,1.1,0.49
-PB-João Pessoa,2020-07-16,nowcast,1,0.6,1.5,0.9,1.2,0.46
-PB-João Pessoa,2020-07-17,nowcast,1,0.6,1.5,0.9,1.2,0.45
-PB-João Pessoa,2020-07-18,nowcast,1,0.6,1.5,0.9,1.2,0.42
-PB-João Pessoa,2020-07-19,nowcast,1,0.6,1.5,0.8,1.2,0.43
-PB-João Pessoa,2020-07-20,nowcast,1,0.6,1.5,0.9,1.2,0.44
-PB-João Pessoa,2020-07-21,nowcast,1,0.6,1.5,0.8,1.2,0.42
-PB-João Pessoa,2020-07-22,nowcast,1.1,0.7,1.5,0.9,1.2,0.41
-PB-João Pessoa,2020-07-23,nowcast,1.1,0.6,1.5,0.9,1.2,0.41
-PB-João Pessoa,2020-07-24,forecast,1.1,0.6,1.6,0.9,1.3,0.41
-PB-João Pessoa,2020-07-25,forecast,1.1,0.5,1.6,0.8,1.2,0.42
-PB-João Pessoa,2020-07-26,forecast,1.1,0.6,1.7,0.8,1.3,0.43
-PB-João Pessoa,2020-07-27,forecast,1.1,0.5,1.7,0.8,1.3,0.42
-PB-João Pessoa,2020-07-28,forecast,1.1,0.4,1.7,0.8,1.3,0.44
-PB-João Pessoa,2020-07-29,forecast,1.1,0.4,1.7,0.8,1.2,0.44
-PB-João Pessoa,2020-07-30,forecast,1.1,0.4,1.7,0.8,1.3,0.44
-PB-João Pessoa,2020-07-31,forecast,1.1,0.4,1.8,0.8,1.3,0.44
-PB-João Pessoa,2020-08-01,forecast,1.1,0.4,1.8,0.7,1.3,0.44
-PB-João Pessoa,2020-08-02,forecast,1,0.3,1.9,0.7,1.3,0.46
-PB-João Pessoa,2020-08-03,forecast,1.1,0.3,1.9,0.8,1.4,0.44
-PB-João Pessoa,2020-08-04,forecast,1.1,0.3,1.8,0.7,1.3,0.45
-PB-João Pessoa,2020-08-05,forecast,1.1,0.2,1.9,0.7,1.3,0.45
-PB-João Pessoa,2020-08-06,forecast,1.1,0.2,1.8,0.7,1.3,0.45
+PB-João Pessoa,2020-07-05,nowcast,1,0.7,1.4,0.9,1.2,0.42
+PB-João Pessoa,2020-07-06,nowcast,1,0.6,1.4,0.9,1.1,0.45
+PB-João Pessoa,2020-07-07,nowcast,1,0.6,1.3,0.8,1.1,0.49
+PB-João Pessoa,2020-07-08,nowcast,1,0.6,1.4,0.8,1.1,0.49
+PB-João Pessoa,2020-07-09,nowcast,1,0.6,1.4,0.8,1.1,0.53
+PB-João Pessoa,2020-07-10,nowcast,1,0.6,1.4,0.8,1.1,0.53
+PB-João Pessoa,2020-07-11,nowcast,1,0.6,1.4,0.9,1.1,0.53
+PB-João Pessoa,2020-07-12,nowcast,1,0.6,1.4,0.8,1.1,0.52
+PB-João Pessoa,2020-07-13,nowcast,1,0.7,1.4,0.8,1.1,0.53
+PB-João Pessoa,2020-07-14,nowcast,1,0.6,1.4,0.8,1.1,0.5
+PB-João Pessoa,2020-07-15,nowcast,1,0.6,1.4,0.8,1.1,0.5
+PB-João Pessoa,2020-07-16,nowcast,1,0.7,1.4,0.8,1.1,0.47
+PB-João Pessoa,2020-07-17,nowcast,1,0.6,1.4,0.9,1.2,0.45
+PB-João Pessoa,2020-07-18,nowcast,1,0.7,1.5,0.9,1.2,0.44
+PB-João Pessoa,2020-07-19,nowcast,1,0.7,1.5,0.8,1.1,0.43
+PB-João Pessoa,2020-07-20,nowcast,1,0.7,1.5,0.9,1.1,0.45
+PB-João Pessoa,2020-07-21,nowcast,1,0.6,1.4,0.9,1.2,0.46
+PB-João Pessoa,2020-07-22,nowcast,1,0.6,1.5,0.9,1.2,0.44
+PB-João Pessoa,2020-07-23,nowcast,1,0.6,1.5,0.9,1.2,0.42
+PB-João Pessoa,2020-07-24,nowcast,1.1,0.6,1.5,0.9,1.2,0.41
+PB-João Pessoa,2020-07-25,forecast,1.1,0.6,1.6,0.8,1.2,0.43
+PB-João Pessoa,2020-07-26,forecast,1.1,0.6,1.6,0.8,1.2,0.42
+PB-João Pessoa,2020-07-27,forecast,1.1,0.5,1.6,0.8,1.2,0.42
+PB-João Pessoa,2020-07-28,forecast,1.1,0.5,1.7,0.8,1.2,0.43
+PB-João Pessoa,2020-07-29,forecast,1.1,0.5,1.7,0.8,1.3,0.43
+PB-João Pessoa,2020-07-30,forecast,1,0.4,1.7,0.8,1.2,0.45
+PB-João Pessoa,2020-07-31,forecast,1.1,0.4,1.7,0.8,1.3,0.44
+PB-João Pessoa,2020-08-01,forecast,1.1,0.4,1.7,0.8,1.3,0.44
+PB-João Pessoa,2020-08-02,forecast,1.1,0.4,1.8,0.8,1.3,0.44
+PB-João Pessoa,2020-08-03,forecast,1,0.3,1.7,0.7,1.3,0.46
+PB-João Pessoa,2020-08-04,forecast,1,0.4,1.8,0.8,1.3,0.45
+PB-João Pessoa,2020-08-05,forecast,1.1,0.3,1.8,0.7,1.3,0.45
+PB-João Pessoa,2020-08-06,forecast,1.1,0.3,1.8,0.8,1.3,0.44
+PB-João Pessoa,2020-08-07,forecast,1.1,0.3,1.9,0.8,1.3,0.45
 PE-Jaboatão dos Guararapes,2020-04-24,nowcast,1.1,0.7,1.7,0.9,1.3,0.31
 PE-Jaboatão dos Guararapes,2020-04-25,nowcast,1.1,0.6,1.7,0.9,1.3,0.3
 PE-Jaboatão dos Guararapes,2020-04-26,nowcast,1.2,0.7,1.7,0.9,1.3,0.29
@@ -745,171 +747,172 @@ PE-Recife,2020-07-17,forecast,1.1,0.4,1.8,0.7,1.3,0.44
 PE-Recife,2020-07-18,forecast,1.1,0.3,1.9,0.7,1.3,0.43
 PE-Recife,2020-07-19,forecast,1.1,0.3,1.9,0.7,1.3,0.44
 PE-Recife,2020-07-20,forecast,1.1,0.3,1.9,0.7,1.3,0.44
-PI-Teresina,2020-05-16,nowcast,1.2,0.6,1.9,1,1.4,0.24
-PI-Teresina,2020-05-17,nowcast,1.2,0.6,1.9,1,1.4,0.22
-PI-Teresina,2020-05-18,nowcast,1.2,0.6,1.8,1,1.4,0.25
-PI-Teresina,2020-05-19,nowcast,1.2,0.6,1.8,1,1.4,0.24
-PI-Teresina,2020-05-20,nowcast,1.2,0.7,1.8,0.9,1.4,0.24
-PI-Teresina,2020-05-21,nowcast,1.2,0.7,1.7,1,1.4,0.24
-PI-Teresina,2020-05-22,nowcast,1.2,0.7,1.7,1,1.4,0.25
-PI-Teresina,2020-05-23,nowcast,1.2,0.6,1.7,1,1.4,0.26
-PI-Teresina,2020-05-24,nowcast,1.2,0.7,1.7,0.9,1.3,0.28
-PI-Teresina,2020-05-25,nowcast,1.2,0.7,1.7,1,1.3,0.26
-PI-Teresina,2020-05-26,nowcast,1.2,0.7,1.7,1,1.3,0.27
-PI-Teresina,2020-05-27,nowcast,1.1,0.7,1.6,0.9,1.3,0.27
-PI-Teresina,2020-05-28,nowcast,1.2,0.7,1.6,1,1.3,0.25
-PI-Teresina,2020-05-29,nowcast,1.1,0.7,1.6,0.9,1.3,0.27
-PI-Teresina,2020-05-30,nowcast,1.2,0.7,1.6,1,1.3,0.27
-PI-Teresina,2020-05-31,nowcast,1.1,0.7,1.6,0.9,1.3,0.28
+PI-Teresina,2020-05-16,nowcast,1.2,0.6,1.9,0.9,1.4,0.25
+PI-Teresina,2020-05-17,nowcast,1.2,0.6,1.9,1,1.4,0.24
+PI-Teresina,2020-05-18,nowcast,1.2,0.6,1.8,1,1.4,0.24
+PI-Teresina,2020-05-19,nowcast,1.2,0.7,1.8,1,1.4,0.25
+PI-Teresina,2020-05-20,nowcast,1.2,0.6,1.8,0.9,1.4,0.24
+PI-Teresina,2020-05-21,nowcast,1.2,0.7,1.8,0.9,1.3,0.24
+PI-Teresina,2020-05-22,nowcast,1.2,0.7,1.8,1,1.4,0.26
+PI-Teresina,2020-05-23,nowcast,1.2,0.7,1.7,1,1.3,0.27
+PI-Teresina,2020-05-24,nowcast,1.2,0.7,1.7,0.9,1.3,0.26
+PI-Teresina,2020-05-25,nowcast,1.2,0.7,1.7,1,1.4,0.26
+PI-Teresina,2020-05-26,nowcast,1.2,0.7,1.7,0.9,1.3,0.26
+PI-Teresina,2020-05-27,nowcast,1.2,0.7,1.7,0.9,1.3,0.25
+PI-Teresina,2020-05-28,nowcast,1.1,0.7,1.6,1,1.3,0.27
+PI-Teresina,2020-05-29,nowcast,1.1,0.7,1.6,1,1.3,0.28
+PI-Teresina,2020-05-30,nowcast,1.1,0.7,1.6,1,1.3,0.28
+PI-Teresina,2020-05-31,nowcast,1.1,0.7,1.6,1,1.3,0.28
 PI-Teresina,2020-06-01,nowcast,1.1,0.7,1.6,1,1.3,0.27
-PI-Teresina,2020-06-02,nowcast,1.1,0.7,1.6,1,1.3,0.27
-PI-Teresina,2020-06-03,nowcast,1.1,0.7,1.6,0.9,1.3,0.31
-PI-Teresina,2020-06-04,nowcast,1.1,0.7,1.6,1,1.3,0.3
-PI-Teresina,2020-06-05,nowcast,1.1,0.7,1.5,0.9,1.2,0.33
+PI-Teresina,2020-06-02,nowcast,1.1,0.7,1.6,0.9,1.2,0.29
+PI-Teresina,2020-06-03,nowcast,1.1,0.7,1.5,1,1.3,0.29
+PI-Teresina,2020-06-04,nowcast,1.1,0.7,1.5,1,1.3,0.3
+PI-Teresina,2020-06-05,nowcast,1.1,0.7,1.5,0.9,1.2,0.32
 PI-Teresina,2020-06-06,nowcast,1.1,0.7,1.5,0.9,1.2,0.34
-PI-Teresina,2020-06-07,nowcast,1.1,0.7,1.5,0.9,1.2,0.35
-PI-Teresina,2020-06-08,nowcast,1.1,0.7,1.4,0.9,1.2,0.37
+PI-Teresina,2020-06-07,nowcast,1.1,0.7,1.5,0.9,1.2,0.36
+PI-Teresina,2020-06-08,nowcast,1.1,0.7,1.4,0.9,1.2,0.36
 PI-Teresina,2020-06-09,nowcast,1.1,0.7,1.4,0.9,1.2,0.39
-PI-Teresina,2020-06-10,nowcast,1,0.7,1.5,0.9,1.2,0.4
-PI-Teresina,2020-06-11,nowcast,1,0.7,1.4,0.9,1.2,0.4
-PI-Teresina,2020-06-12,nowcast,1,0.7,1.4,0.9,1.2,0.43
-PI-Teresina,2020-06-13,nowcast,1.1,0.7,1.4,0.9,1.2,0.4
-PI-Teresina,2020-06-14,nowcast,1,0.7,1.4,0.9,1.1,0.42
-PI-Teresina,2020-06-15,nowcast,1,0.7,1.4,0.9,1.1,0.43
-PI-Teresina,2020-06-16,nowcast,1,0.7,1.4,0.9,1.1,0.45
-PI-Teresina,2020-06-17,nowcast,1,0.7,1.4,0.9,1.2,0.45
-PI-Teresina,2020-06-18,nowcast,1,0.7,1.4,0.9,1.1,0.44
-PI-Teresina,2020-06-19,nowcast,1,0.7,1.4,0.9,1.1,0.43
-PI-Teresina,2020-06-20,nowcast,1,0.7,1.4,0.9,1.1,0.45
-PI-Teresina,2020-06-21,nowcast,1,0.7,1.4,0.9,1.1,0.45
-PI-Teresina,2020-06-22,nowcast,1,0.7,1.4,0.9,1.1,0.46
-PI-Teresina,2020-06-23,nowcast,1,0.7,1.4,0.9,1.1,0.48
-PI-Teresina,2020-06-24,nowcast,1,0.6,1.4,0.8,1.1,0.5
-PI-Teresina,2020-06-25,nowcast,1,0.7,1.3,0.9,1.1,0.51
-PI-Teresina,2020-06-26,nowcast,1,0.6,1.3,0.9,1.1,0.53
-PI-Teresina,2020-06-27,nowcast,1,0.6,1.3,0.8,1.1,0.56
-PI-Teresina,2020-06-28,nowcast,1,0.6,1.3,0.8,1.1,0.58
-PI-Teresina,2020-06-29,nowcast,0.9,0.6,1.3,0.8,1.1,0.61
-PI-Teresina,2020-06-30,nowcast,0.9,0.6,1.3,0.8,1,0.61
-PI-Teresina,2020-07-01,nowcast,0.9,0.6,1.3,0.8,1.1,0.63
-PI-Teresina,2020-07-02,nowcast,0.9,0.6,1.3,0.8,1,0.64
-PI-Teresina,2020-07-03,nowcast,0.9,0.6,1.3,0.8,1.1,0.62
-PI-Teresina,2020-07-04,nowcast,1,0.6,1.3,0.8,1.1,0.6
-PI-Teresina,2020-07-05,nowcast,1,0.6,1.3,0.8,1.1,0.58
-PI-Teresina,2020-07-06,nowcast,1,0.6,1.3,0.8,1.1,0.58
-PI-Teresina,2020-07-07,nowcast,1,0.6,1.4,0.8,1.1,0.54
-PI-Teresina,2020-07-08,nowcast,1,0.6,1.4,0.8,1.1,0.53
-PI-Teresina,2020-07-09,nowcast,1,0.6,1.4,0.9,1.1,0.5
-PI-Teresina,2020-07-10,nowcast,1,0.6,1.4,0.8,1.1,0.52
-PI-Teresina,2020-07-11,nowcast,1,0.6,1.4,0.8,1.1,0.52
-PI-Teresina,2020-07-12,nowcast,1,0.6,1.4,0.8,1.1,0.54
-PI-Teresina,2020-07-13,nowcast,1,0.6,1.4,0.8,1.1,0.53
-PI-Teresina,2020-07-14,nowcast,1,0.6,1.4,0.8,1.1,0.53
-PI-Teresina,2020-07-15,nowcast,1,0.6,1.4,0.8,1.1,0.52
-PI-Teresina,2020-07-16,nowcast,1,0.6,1.4,0.8,1.1,0.5
-PI-Teresina,2020-07-17,nowcast,1,0.6,1.5,0.8,1.1,0.49
-PI-Teresina,2020-07-18,nowcast,1,0.6,1.5,0.8,1.1,0.46
-PI-Teresina,2020-07-19,nowcast,1,0.6,1.5,0.8,1.2,0.44
-PI-Teresina,2020-07-20,nowcast,1.1,0.6,1.5,0.9,1.2,0.4
-PI-Teresina,2020-07-21,nowcast,1.1,0.7,1.5,0.9,1.2,0.38
-PI-Teresina,2020-07-22,nowcast,1.1,0.6,1.5,0.9,1.2,0.35
-PI-Teresina,2020-07-23,nowcast,1.1,0.7,1.6,1,1.3,0.32
-PI-Teresina,2020-07-24,forecast,1.1,0.6,1.6,0.9,1.3,0.37
-PI-Teresina,2020-07-25,forecast,1.1,0.6,1.7,0.9,1.3,0.38
-PI-Teresina,2020-07-26,forecast,1.1,0.5,1.7,0.9,1.3,0.41
-PI-Teresina,2020-07-27,forecast,1.1,0.5,1.7,0.8,1.3,0.41
-PI-Teresina,2020-07-28,forecast,1.1,0.5,1.8,0.8,1.3,0.4
-PI-Teresina,2020-07-29,forecast,1.1,0.5,1.8,0.8,1.3,0.42
-PI-Teresina,2020-07-30,forecast,1.1,0.4,1.8,0.8,1.3,0.4
-PI-Teresina,2020-07-31,forecast,1.1,0.4,1.9,0.8,1.3,0.41
-PI-Teresina,2020-08-01,forecast,1.1,0.3,1.8,0.8,1.4,0.42
-PI-Teresina,2020-08-02,forecast,1.1,0.3,1.8,0.8,1.4,0.41
-PI-Teresina,2020-08-03,forecast,1.1,0.3,1.9,0.8,1.4,0.42
-PI-Teresina,2020-08-04,forecast,1.1,0.3,1.9,0.8,1.4,0.42
-PI-Teresina,2020-08-05,forecast,1.1,0.3,2,0.7,1.4,0.41
-PI-Teresina,2020-08-06,forecast,1.1,0.3,2,0.7,1.3,0.41
-RN-Natal,2020-05-13,nowcast,1.2,0.6,1.9,0.9,1.4,0.26
-RN-Natal,2020-05-14,nowcast,1.2,0.6,1.8,0.9,1.4,0.25
-RN-Natal,2020-05-15,nowcast,1.2,0.6,1.8,1,1.4,0.25
-RN-Natal,2020-05-16,nowcast,1.2,0.7,1.9,1,1.4,0.23
-RN-Natal,2020-05-17,nowcast,1.2,0.7,1.8,1,1.4,0.24
-RN-Natal,2020-05-18,nowcast,1.2,0.7,1.8,1,1.4,0.26
-RN-Natal,2020-05-19,nowcast,1.2,0.6,1.7,1,1.4,0.25
-RN-Natal,2020-05-20,nowcast,1.2,0.7,1.7,0.9,1.3,0.25
-RN-Natal,2020-05-21,nowcast,1.2,0.7,1.7,1,1.3,0.27
-RN-Natal,2020-05-22,nowcast,1.1,0.7,1.7,0.9,1.3,0.28
-RN-Natal,2020-05-23,nowcast,1.1,0.7,1.7,0.9,1.3,0.3
-RN-Natal,2020-05-24,nowcast,1.1,0.6,1.6,0.9,1.3,0.3
-RN-Natal,2020-05-25,nowcast,1.1,0.6,1.6,0.9,1.3,0.31
+PI-Teresina,2020-06-10,nowcast,1.1,0.7,1.5,0.9,1.2,0.4
+PI-Teresina,2020-06-11,nowcast,1.1,0.7,1.4,0.9,1.2,0.4
+PI-Teresina,2020-06-12,nowcast,1,0.7,1.4,0.9,1.1,0.43
+PI-Teresina,2020-06-13,nowcast,1,0.6,1.4,0.9,1.2,0.42
+PI-Teresina,2020-06-14,nowcast,1,0.7,1.4,0.9,1.2,0.43
+PI-Teresina,2020-06-15,nowcast,1,0.7,1.4,0.9,1.1,0.41
+PI-Teresina,2020-06-16,nowcast,1,0.6,1.4,0.9,1.2,0.43
+PI-Teresina,2020-06-17,nowcast,1,0.7,1.4,0.9,1.2,0.41
+PI-Teresina,2020-06-18,nowcast,1,0.7,1.4,0.9,1.1,0.42
+PI-Teresina,2020-06-19,nowcast,1,0.7,1.4,0.9,1.2,0.43
+PI-Teresina,2020-06-20,nowcast,1,0.7,1.4,0.9,1.2,0.45
+PI-Teresina,2020-06-21,nowcast,1,0.7,1.4,0.9,1.1,0.47
+PI-Teresina,2020-06-22,nowcast,1,0.6,1.3,0.9,1.1,0.48
+PI-Teresina,2020-06-23,nowcast,1,0.7,1.4,0.8,1.1,0.5
+PI-Teresina,2020-06-24,nowcast,1,0.7,1.4,0.8,1.1,0.51
+PI-Teresina,2020-06-25,nowcast,1,0.6,1.3,0.8,1.1,0.52
+PI-Teresina,2020-06-26,nowcast,1,0.6,1.3,0.8,1.1,0.55
+PI-Teresina,2020-06-27,nowcast,1,0.6,1.3,0.8,1.1,0.58
+PI-Teresina,2020-06-28,nowcast,1,0.6,1.3,0.8,1.1,0.6
+PI-Teresina,2020-06-29,nowcast,1,0.6,1.3,0.8,1.1,0.6
+PI-Teresina,2020-06-30,nowcast,0.9,0.6,1.3,0.8,1.1,0.61
+PI-Teresina,2020-07-01,nowcast,0.9,0.6,1.3,0.8,1.1,0.61
+PI-Teresina,2020-07-02,nowcast,0.9,0.6,1.3,0.8,1.1,0.61
+PI-Teresina,2020-07-03,nowcast,1,0.6,1.3,0.8,1.1,0.6
+PI-Teresina,2020-07-04,nowcast,1,0.6,1.3,0.8,1.1,0.59
+PI-Teresina,2020-07-05,nowcast,1,0.6,1.3,0.8,1.1,0.56
+PI-Teresina,2020-07-06,nowcast,1,0.6,1.3,0.8,1.1,0.57
+PI-Teresina,2020-07-07,nowcast,1,0.6,1.4,0.8,1.1,0.56
+PI-Teresina,2020-07-08,nowcast,1,0.6,1.4,0.8,1.1,0.55
+PI-Teresina,2020-07-09,nowcast,1,0.6,1.3,0.8,1.1,0.56
+PI-Teresina,2020-07-10,nowcast,1,0.6,1.4,0.8,1.1,0.56
+PI-Teresina,2020-07-11,nowcast,1,0.6,1.4,0.8,1.1,0.54
+PI-Teresina,2020-07-12,nowcast,1,0.6,1.4,0.8,1.1,0.55
+PI-Teresina,2020-07-13,nowcast,1,0.6,1.4,0.8,1.1,0.54
+PI-Teresina,2020-07-14,nowcast,1,0.6,1.4,0.8,1.1,0.55
+PI-Teresina,2020-07-15,nowcast,1,0.6,1.4,0.8,1.1,0.54
+PI-Teresina,2020-07-16,nowcast,1,0.6,1.4,0.8,1.1,0.53
+PI-Teresina,2020-07-17,nowcast,1,0.6,1.4,0.8,1.1,0.51
+PI-Teresina,2020-07-18,nowcast,1,0.6,1.4,0.8,1.1,0.49
+PI-Teresina,2020-07-19,nowcast,1,0.6,1.5,0.9,1.2,0.45
+PI-Teresina,2020-07-20,nowcast,1,0.6,1.5,0.9,1.2,0.42
+PI-Teresina,2020-07-21,nowcast,1.1,0.7,1.5,0.9,1.2,0.4
+PI-Teresina,2020-07-22,nowcast,1.1,0.6,1.5,0.9,1.2,0.38
+PI-Teresina,2020-07-23,nowcast,1.1,0.7,1.6,0.9,1.2,0.37
+PI-Teresina,2020-07-24,nowcast,1.1,0.7,1.6,0.9,1.2,0.34
+PI-Teresina,2020-07-25,forecast,1.1,0.6,1.6,0.9,1.3,0.39
+PI-Teresina,2020-07-26,forecast,1.1,0.6,1.7,0.9,1.3,0.38
+PI-Teresina,2020-07-27,forecast,1.1,0.5,1.7,0.9,1.3,0.39
+PI-Teresina,2020-07-28,forecast,1.1,0.5,1.7,0.9,1.3,0.4
+PI-Teresina,2020-07-29,forecast,1.1,0.4,1.7,0.8,1.3,0.41
+PI-Teresina,2020-07-30,forecast,1.1,0.5,1.8,0.8,1.3,0.41
+PI-Teresina,2020-07-31,forecast,1.1,0.4,1.8,0.8,1.3,0.41
+PI-Teresina,2020-08-01,forecast,1.1,0.4,1.8,0.8,1.4,0.41
+PI-Teresina,2020-08-02,forecast,1.1,0.3,1.8,0.8,1.3,0.4
+PI-Teresina,2020-08-03,forecast,1.1,0.4,1.9,0.8,1.4,0.41
+PI-Teresina,2020-08-04,forecast,1.1,0.4,1.9,0.8,1.4,0.42
+PI-Teresina,2020-08-05,forecast,1.1,0.3,1.9,0.8,1.3,0.42
+PI-Teresina,2020-08-06,forecast,1.1,0.3,2,0.7,1.3,0.42
+PI-Teresina,2020-08-07,forecast,1.1,0.2,1.9,0.7,1.3,0.43
+RN-Natal,2020-05-13,nowcast,1.2,0.7,1.9,0.9,1.4,0.25
+RN-Natal,2020-05-14,nowcast,1.2,0.7,1.9,1,1.4,0.24
+RN-Natal,2020-05-15,nowcast,1.2,0.6,1.8,0.9,1.4,0.25
+RN-Natal,2020-05-16,nowcast,1.2,0.6,1.8,0.9,1.4,0.26
+RN-Natal,2020-05-17,nowcast,1.2,0.7,1.8,1,1.4,0.25
+RN-Natal,2020-05-18,nowcast,1.2,0.7,1.7,1,1.4,0.26
+RN-Natal,2020-05-19,nowcast,1.2,0.6,1.7,0.9,1.3,0.26
+RN-Natal,2020-05-20,nowcast,1.2,0.7,1.7,0.9,1.3,0.28
+RN-Natal,2020-05-21,nowcast,1.2,0.6,1.7,1,1.4,0.27
+RN-Natal,2020-05-22,nowcast,1.1,0.7,1.7,0.9,1.3,0.3
+RN-Natal,2020-05-23,nowcast,1.1,0.7,1.6,0.9,1.3,0.3
+RN-Natal,2020-05-24,nowcast,1.1,0.7,1.6,0.9,1.3,0.31
+RN-Natal,2020-05-25,nowcast,1.1,0.7,1.6,0.9,1.3,0.31
 RN-Natal,2020-05-26,nowcast,1.1,0.7,1.6,0.9,1.3,0.31
-RN-Natal,2020-05-27,nowcast,1.1,0.7,1.6,0.9,1.2,0.32
-RN-Natal,2020-05-28,nowcast,1.1,0.6,1.6,0.9,1.3,0.32
-RN-Natal,2020-05-29,nowcast,1.1,0.7,1.6,0.9,1.3,0.32
-RN-Natal,2020-05-30,nowcast,1.1,0.7,1.6,0.9,1.3,0.31
-RN-Natal,2020-05-31,nowcast,1.1,0.7,1.6,0.9,1.3,0.29
-RN-Natal,2020-06-01,nowcast,1.1,0.7,1.6,1,1.3,0.28
-RN-Natal,2020-06-02,nowcast,1.2,0.7,1.6,1,1.3,0.24
-RN-Natal,2020-06-03,nowcast,1.2,0.8,1.6,1,1.3,0.23
-RN-Natal,2020-06-04,nowcast,1.2,0.8,1.6,1,1.3,0.24
-RN-Natal,2020-06-05,nowcast,1.2,0.8,1.6,1,1.3,0.25
+RN-Natal,2020-05-27,nowcast,1.1,0.7,1.6,1,1.3,0.3
+RN-Natal,2020-05-28,nowcast,1.1,0.7,1.6,0.9,1.3,0.31
+RN-Natal,2020-05-29,nowcast,1.1,0.7,1.6,0.9,1.3,0.29
+RN-Natal,2020-05-30,nowcast,1.1,0.7,1.6,0.9,1.3,0.29
+RN-Natal,2020-05-31,nowcast,1.1,0.7,1.6,0.9,1.3,0.3
+RN-Natal,2020-06-01,nowcast,1.1,0.7,1.6,0.9,1.2,0.28
+RN-Natal,2020-06-02,nowcast,1.1,0.7,1.6,1,1.3,0.27
+RN-Natal,2020-06-03,nowcast,1.2,0.8,1.6,1,1.3,0.25
+RN-Natal,2020-06-04,nowcast,1.2,0.7,1.6,1,1.3,0.24
+RN-Natal,2020-06-05,nowcast,1.2,0.8,1.7,1,1.3,0.23
 RN-Natal,2020-06-06,nowcast,1.2,0.8,1.6,1,1.3,0.22
 RN-Natal,2020-06-07,nowcast,1.2,0.8,1.6,1,1.3,0.23
 RN-Natal,2020-06-08,nowcast,1.2,0.8,1.6,1,1.3,0.22
-RN-Natal,2020-06-09,nowcast,1.1,0.8,1.5,1,1.3,0.23
-RN-Natal,2020-06-10,nowcast,1.2,0.8,1.5,1,1.3,0.23
-RN-Natal,2020-06-11,nowcast,1.1,0.8,1.5,1,1.3,0.23
-RN-Natal,2020-06-12,nowcast,1.1,0.8,1.5,1,1.2,0.26
-RN-Natal,2020-06-13,nowcast,1.1,0.8,1.5,1,1.2,0.28
-RN-Natal,2020-06-14,nowcast,1.1,0.8,1.4,1,1.2,0.29
+RN-Natal,2020-06-09,nowcast,1.2,0.8,1.5,1,1.3,0.23
+RN-Natal,2020-06-10,nowcast,1.1,0.8,1.5,1,1.2,0.24
+RN-Natal,2020-06-11,nowcast,1.1,0.8,1.5,1,1.3,0.24
+RN-Natal,2020-06-12,nowcast,1.1,0.8,1.5,1,1.2,0.27
+RN-Natal,2020-06-13,nowcast,1.1,0.7,1.5,0.9,1.2,0.29
+RN-Natal,2020-06-14,nowcast,1.1,0.8,1.5,1,1.2,0.28
 RN-Natal,2020-06-15,nowcast,1.1,0.8,1.4,1,1.2,0.3
-RN-Natal,2020-06-16,nowcast,1.1,0.8,1.4,1,1.2,0.33
-RN-Natal,2020-06-17,nowcast,1.1,0.7,1.4,0.9,1.2,0.34
-RN-Natal,2020-06-18,nowcast,1.1,0.7,1.4,0.9,1.1,0.38
-RN-Natal,2020-06-19,nowcast,1,0.7,1.4,0.9,1.2,0.41
-RN-Natal,2020-06-20,nowcast,1,0.7,1.3,0.9,1.2,0.44
-RN-Natal,2020-06-21,nowcast,1,0.7,1.3,0.9,1.1,0.49
+RN-Natal,2020-06-16,nowcast,1.1,0.8,1.4,0.9,1.2,0.32
+RN-Natal,2020-06-17,nowcast,1.1,0.7,1.4,0.9,1.2,0.35
+RN-Natal,2020-06-18,nowcast,1.1,0.7,1.4,0.9,1.2,0.37
+RN-Natal,2020-06-19,nowcast,1.1,0.7,1.4,0.9,1.2,0.39
+RN-Natal,2020-06-20,nowcast,1,0.7,1.3,0.9,1.1,0.44
+RN-Natal,2020-06-21,nowcast,1,0.7,1.3,0.9,1.1,0.48
 RN-Natal,2020-06-22,nowcast,1,0.7,1.3,0.9,1.1,0.54
-RN-Natal,2020-06-23,nowcast,1,0.6,1.3,0.8,1.1,0.61
-RN-Natal,2020-06-24,nowcast,0.9,0.6,1.3,0.8,1,0.64
+RN-Natal,2020-06-23,nowcast,1,0.6,1.3,0.8,1.1,0.59
+RN-Natal,2020-06-24,nowcast,0.9,0.6,1.2,0.8,1,0.66
 RN-Natal,2020-06-25,nowcast,0.9,0.6,1.2,0.8,1,0.7
-RN-Natal,2020-06-26,nowcast,0.9,0.6,1.2,0.8,1,0.74
+RN-Natal,2020-06-26,nowcast,0.9,0.6,1.2,0.8,1,0.75
 RN-Natal,2020-06-27,nowcast,0.9,0.6,1.2,0.8,1,0.78
-RN-Natal,2020-06-28,nowcast,0.9,0.5,1.2,0.7,1,0.79
-RN-Natal,2020-06-29,nowcast,0.9,0.5,1.2,0.8,1,0.78
-RN-Natal,2020-06-30,nowcast,0.9,0.5,1.2,0.8,1,0.76
-RN-Natal,2020-07-01,nowcast,0.9,0.6,1.3,0.7,1,0.73
-RN-Natal,2020-07-02,nowcast,0.9,0.6,1.3,0.7,1,0.72
-RN-Natal,2020-07-03,nowcast,0.9,0.6,1.3,0.7,1,0.68
-RN-Natal,2020-07-04,nowcast,0.9,0.6,1.3,0.8,1,0.66
-RN-Natal,2020-07-05,nowcast,0.9,0.6,1.3,0.8,1,0.62
+RN-Natal,2020-06-28,nowcast,0.9,0.6,1.2,0.8,1,0.78
+RN-Natal,2020-06-29,nowcast,0.9,0.6,1.2,0.7,1,0.78
+RN-Natal,2020-06-30,nowcast,0.9,0.6,1.2,0.7,1,0.76
+RN-Natal,2020-07-01,nowcast,0.9,0.6,1.2,0.8,1,0.75
+RN-Natal,2020-07-02,nowcast,0.9,0.6,1.2,0.7,1,0.73
+RN-Natal,2020-07-03,nowcast,0.9,0.6,1.3,0.8,1,0.67
+RN-Natal,2020-07-04,nowcast,0.9,0.6,1.3,0.8,1,0.65
+RN-Natal,2020-07-05,nowcast,0.9,0.6,1.3,0.8,1.1,0.6
 RN-Natal,2020-07-06,nowcast,1,0.6,1.4,0.8,1.1,0.56
-RN-Natal,2020-07-07,nowcast,1,0.7,1.4,0.8,1.1,0.52
-RN-Natal,2020-07-08,nowcast,1,0.6,1.4,0.8,1.1,0.51
-RN-Natal,2020-07-09,nowcast,1,0.7,1.4,0.9,1.1,0.47
-RN-Natal,2020-07-10,nowcast,1,0.7,1.4,0.9,1.2,0.43
-RN-Natal,2020-07-11,nowcast,1.1,0.7,1.5,0.9,1.2,0.39
-RN-Natal,2020-07-12,nowcast,1.1,0.7,1.5,0.9,1.2,0.36
-RN-Natal,2020-07-13,nowcast,1.1,0.7,1.5,0.9,1.2,0.32
-RN-Natal,2020-07-14,nowcast,1.1,0.7,1.5,1,1.3,0.28
-RN-Natal,2020-07-15,nowcast,1.1,0.8,1.6,1,1.3,0.25
-RN-Natal,2020-07-16,nowcast,1.2,0.8,1.7,1,1.3,0.22
-RN-Natal,2020-07-17,nowcast,1.2,0.8,1.7,1,1.4,0.17
-RN-Natal,2020-07-18,nowcast,1.2,0.9,1.7,1,1.4,0.13
-RN-Natal,2020-07-19,nowcast,1.3,0.9,1.7,1.1,1.4,0.11
-RN-Natal,2020-07-20,forecast,1.3,0.7,1.8,1,1.4,0.19
-RN-Natal,2020-07-21,forecast,1.3,0.7,1.8,1,1.5,0.2
-RN-Natal,2020-07-22,forecast,1.3,0.7,1.9,1,1.5,0.23
-RN-Natal,2020-07-23,forecast,1.3,0.6,2,0.9,1.5,0.25
-RN-Natal,2020-07-24,forecast,1.3,0.6,2,1,1.5,0.24
-RN-Natal,2020-07-25,forecast,1.3,0.5,2,1,1.6,0.24
-RN-Natal,2020-07-26,forecast,1.3,0.6,2.1,1,1.5,0.25
-RN-Natal,2020-07-27,forecast,1.3,0.5,2.1,1,1.6,0.25
+RN-Natal,2020-07-07,nowcast,1,0.6,1.4,0.8,1.1,0.52
+RN-Natal,2020-07-08,nowcast,1,0.6,1.4,0.8,1.1,0.48
+RN-Natal,2020-07-09,nowcast,1,0.7,1.4,0.9,1.1,0.46
+RN-Natal,2020-07-10,nowcast,1,0.7,1.5,0.9,1.2,0.45
+RN-Natal,2020-07-11,nowcast,1.1,0.6,1.5,0.9,1.2,0.41
+RN-Natal,2020-07-12,nowcast,1.1,0.7,1.5,0.9,1.2,0.37
+RN-Natal,2020-07-13,nowcast,1.1,0.7,1.5,0.9,1.2,0.33
+RN-Natal,2020-07-14,nowcast,1.1,0.7,1.6,0.9,1.2,0.32
+RN-Natal,2020-07-15,nowcast,1.1,0.7,1.6,1,1.3,0.25
+RN-Natal,2020-07-16,nowcast,1.2,0.8,1.6,1,1.3,0.23
+RN-Natal,2020-07-17,nowcast,1.2,0.8,1.7,1,1.3,0.18
+RN-Natal,2020-07-18,nowcast,1.2,0.8,1.7,1,1.3,0.14
+RN-Natal,2020-07-19,nowcast,1.3,0.9,1.8,1.1,1.4,0.1
+RN-Natal,2020-07-20,forecast,1.3,0.8,1.8,1,1.4,0.18
+RN-Natal,2020-07-21,forecast,1.3,0.7,1.9,1,1.5,0.2
+RN-Natal,2020-07-22,forecast,1.3,0.6,1.9,1,1.5,0.21
+RN-Natal,2020-07-23,forecast,1.3,0.6,2,1,1.5,0.24
+RN-Natal,2020-07-24,forecast,1.3,0.6,2,1,1.5,0.22
+RN-Natal,2020-07-25,forecast,1.3,0.5,2,1,1.5,0.24
+RN-Natal,2020-07-26,forecast,1.3,0.5,2.1,1,1.6,0.26
+RN-Natal,2020-07-27,forecast,1.3,0.5,2.1,0.9,1.5,0.26
 RN-Natal,2020-07-28,forecast,1.3,0.5,2.2,0.9,1.6,0.26
-RN-Natal,2020-07-29,forecast,1.3,0.5,2.2,0.9,1.6,0.26
-RN-Natal,2020-07-30,forecast,1.3,0.4,2.2,0.9,1.5,0.28
-RN-Natal,2020-07-31,forecast,1.3,0.4,2.3,0.8,1.5,0.28
-RN-Natal,2020-08-01,forecast,1.3,0.3,2.3,1,1.7,0.28
-RN-Natal,2020-08-02,forecast,1.3,0.4,2.4,0.9,1.6,0.29
+RN-Natal,2020-07-29,forecast,1.3,0.4,2.2,1,1.6,0.26
+RN-Natal,2020-07-30,forecast,1.3,0.5,2.3,0.9,1.6,0.27
+RN-Natal,2020-07-31,forecast,1.3,0.4,2.3,0.9,1.6,0.28
+RN-Natal,2020-08-01,forecast,1.3,0.3,2.3,0.9,1.6,0.29
+RN-Natal,2020-08-02,forecast,1.3,0.3,2.3,0.9,1.6,0.28
 SE-Aracaju,2020-05-22,nowcast,1.1,0.6,1.8,0.9,1.3,0.33
 SE-Aracaju,2020-05-23,nowcast,1.1,0.6,1.7,0.9,1.3,0.34
 SE-Aracaju,2020-05-24,nowcast,1.1,0.6,1.7,0.9,1.3,0.36
