@@ -1,179 +1,179 @@
 "region","date","type","bottom","top","lower","upper","median","mean"
-"BA-Salvador",2020-01-30,"nowcast",1,1,1,1,1,1
-"BA-Salvador",2020-01-31,"nowcast",0,0,0,0,0,0
-"BA-Salvador",2020-02-01,"nowcast",0,1,0,1,0.5,0.5
+"BA-Salvador",2020-01-31,"nowcast",1,1,1,1,1,1
+"BA-Salvador",2020-02-01,"nowcast",0,0,0,0,0,0
 "BA-Salvador",2020-02-02,"nowcast",0,0,0,0,0,0
-"BA-Salvador",2020-02-03,"nowcast",0,1,0,0,0,0.333333333333333
-"BA-Salvador",2020-02-04,"nowcast",0,1,0,0,0,0.333333333333333
-"BA-Salvador",2020-02-05,"nowcast",0,0,0,0,0,0
-"BA-Salvador",2020-02-06,"nowcast",0,1,0,0,0,0.25
-"BA-Salvador",2020-02-07,"nowcast",0,1,1,1,1,0.571428571428571
-"BA-Salvador",2020-02-08,"nowcast",0,1,1,1,1,0.545454545454545
-"BA-Salvador",2020-02-09,"nowcast",0,1,0,0,0,0.230769230769231
-"BA-Salvador",2020-02-10,"nowcast",0,1,0,0,0,0.214285714285714
-"BA-Salvador",2020-02-11,"nowcast",0,1,0,0,0,0.333333333333333
-"BA-Salvador",2020-02-12,"nowcast",0,1,0,0,0,0.4
-"BA-Salvador",2020-02-13,"nowcast",0,1,0,0,0,0.363636363636364
-"BA-Salvador",2020-02-14,"nowcast",0,1,0,0,0,0.216216216216216
-"BA-Salvador",2020-02-15,"nowcast",0,1,0,0,0,0.291666666666667
-"BA-Salvador",2020-02-16,"nowcast",0,1,0,0,0,0.232142857142857
-"BA-Salvador",2020-02-17,"nowcast",0,1,0,0,0,0.184615384615385
-"BA-Salvador",2020-02-18,"nowcast",0,1,0,0,0,0.138888888888889
-"BA-Salvador",2020-02-19,"nowcast",0,1,0,0,0,0.204545454545455
-"BA-Salvador",2020-02-20,"nowcast",0,1,0,0,0,0.211538461538462
-"BA-Salvador",2020-02-21,"nowcast",0,1,0,0,0,0.258064516129032
-"BA-Salvador",2020-02-22,"nowcast",0,1,0,0,0,0.231292517006803
-"BA-Salvador",2020-02-23,"nowcast",0,1,0,0,0,0.232142857142857
-"BA-Salvador",2020-02-24,"nowcast",0,1,0,0,0,0.196808510638298
-"BA-Salvador",2020-02-25,"nowcast",0,1,0,0,0,0.244444444444444
-"BA-Salvador",2020-02-26,"nowcast",0,1,0,0,0,0.227450980392157
-"BA-Salvador",2020-02-27,"nowcast",0,1,0,0,0,0.276450511945392
-"BA-Salvador",2020-02-28,"nowcast",0,1,0,0,0,0.237951807228916
-"BA-Salvador",2020-02-29,"nowcast",0,1,0,0,0,0.260162601626016
-"BA-Salvador",2020-03-01,"nowcast",0,1,0,0,0,0.242130750605327
-"BA-Salvador",2020-03-02,"nowcast",0,1,0,0,0,0.195505617977528
-"BA-Salvador",2020-03-03,"nowcast",0,1,0,0,0,0.25
-"BA-Salvador",2020-03-04,"nowcast",0,1,0,0,0,0.283088235294118
-"BA-Salvador",2020-03-05,"nowcast",0,1,0,0,0,0.300664451827243
-"BA-Salvador",2020-03-06,"nowcast",0,1,0,0,0,0.302003081664099
-"BA-Salvador",2020-03-07,"nowcast",0,1,0,0,0,0.3001443001443
-"BA-Salvador",2020-03-08,"nowcast",0,1,0,0,0,0.314363143631436
-"BA-Salvador",2020-03-09,"nowcast",0,1,0,0,0,0.360759493670886
-"BA-Salvador",2020-03-10,"nowcast",0,1,0,0,0,0.390625
-"BA-Salvador",2020-03-11,"nowcast",0,1,0,0,0,0.397435897435897
-"BA-Salvador",2020-03-12,"nowcast",0,1,0,0,0,0.51
-"BA-Salvador",2020-03-13,"nowcast",0,1,0,0,0,0.490850376749193
-"BA-Salvador",2020-03-14,"nowcast",0,1,0,0,0,0.552160168598525
-"BA-Salvador",2020-03-15,"nowcast",0,2,0,0,0,0.601851851851852
-"BA-Salvador",2020-03-16,"nowcast",0,2,0,0,0,0.637755102040816
-"BA-Salvador",2020-03-17,"nowcast",0,2,0,0,0,0.670707070707071
-"BA-Salvador",2020-03-18,"nowcast",0,2,0,1,1,0.740927419354839
-"BA-Salvador",2020-03-19,"nowcast",0,2,0,1,1,0.812248995983936
-"BA-Salvador",2020-03-20,"nowcast",0,2,0,1,1,0.915747241725176
-"BA-Salvador",2020-03-21,"nowcast",0,2,0,1,1,1.02905811623247
-"BA-Salvador",2020-03-22,"nowcast",0,3,0,1,1,1.09109109109109
-"BA-Salvador",2020-03-23,"nowcast",0,3,0,1,1,1.25225225225225
-"BA-Salvador",2020-03-24,"nowcast",0,3,0,1,1,1.2
-"BA-Salvador",2020-03-25,"nowcast",0,3,0,1,1,1.379
-"BA-Salvador",2020-03-26,"nowcast",0,3,0,1,1,1.506
-"BA-Salvador",2020-03-27,"nowcast",0,3,0,1,1,1.515
-"BA-Salvador",2020-03-28,"nowcast",0,4,0,1,1,1.689
-"BA-Salvador",2020-03-29,"nowcast",0,3,1,2,2,1.69
-"BA-Salvador",2020-03-30,"nowcast",0,4,1,2,2,1.9
-"BA-Salvador",2020-03-31,"nowcast",0,4,1,2,2,1.977
-"BA-Salvador",2020-04-01,"nowcast",0,4,1,2,2,2.185
-"BA-Salvador",2020-04-02,"nowcast",0,4,0,2,2,2.314
-"BA-Salvador",2020-04-03,"nowcast",0,5,0,2,2,2.482
-"BA-Salvador",2020-04-04,"nowcast",0,5,0,2,2,2.635
-"BA-Salvador",2020-04-05,"nowcast",0,5,1,3,3,2.772
-"BA-Salvador",2020-04-06,"nowcast",0,5,1,3,3,3.064
-"BA-Salvador",2020-04-07,"nowcast",1,6,1,3,3,3.317
-"BA-Salvador",2020-04-08,"nowcast",0,6,2,4,3,3.651
-"BA-Salvador",2020-04-09,"nowcast",1,7,2,4,4,3.949
-"BA-Salvador",2020-04-10,"nowcast",1,7,2,4,4,4.265
-"BA-Salvador",2020-04-11,"nowcast",1,7,1,4,4,4.531
-"BA-Salvador",2020-04-12,"nowcast",1,8,3,5,5,4.864
-"BA-Salvador",2020-04-13,"nowcast",1,8,2,5,5,5.227
-"BA-Salvador",2020-04-14,"nowcast",2,9,2,5,5,5.413
-"BA-Salvador",2020-04-15,"nowcast",2,9,3,6,6,5.77
-"BA-Salvador",2020-04-16,"nowcast",1,9,3,6,6,6.038
-"BA-Salvador",2020-04-17,"nowcast",3,11,4,7,6,6.588
-"BA-Salvador",2020-04-18,"nowcast",2,10,4,7,7,6.85
-"BA-Salvador",2020-04-19,"nowcast",3,11,4,7,7,7.076
-"BA-Salvador",2020-04-20,"nowcast",2,11,5,8,7,7.525
-"BA-Salvador",2020-04-21,"nowcast",3,12,5,8,8,7.771
-"BA-Salvador",2020-04-22,"nowcast",3,12,6,9,8,8.089
-"BA-Salvador",2020-04-23,"nowcast",4,13,6,9,8,8.354
-"BA-Salvador",2020-04-24,"nowcast",4,13,6,9,8,8.679
-"BA-Salvador",2020-04-25,"nowcast",3,13,7,10,9,9.193
-"BA-Salvador",2020-04-26,"nowcast",4,14,5,9,9,9.489
-"BA-Salvador",2020-04-27,"nowcast",4,14,6,10,10,9.778
-"BA-Salvador",2020-04-28,"nowcast",5,15,7,11,10,10.422
-"BA-Salvador",2020-04-29,"nowcast",6,16,7,11,10,10.822
-"BA-Salvador",2020-04-30,"nowcast",5,16,8,12,11,11.549
-"BA-Salvador",2020-05-01,"nowcast",6,17,9,13,12,11.839
-"BA-Salvador",2020-05-02,"nowcast",7,18,9,13,12,12.522
-"BA-Salvador",2020-05-03,"nowcast",7,18,10,14,13,12.834
-"BA-Salvador",2020-05-04,"nowcast",8,19,9,14,13,13.298
-"BA-Salvador",2020-05-05,"nowcast",7,20,10,15,14,14.279
-"BA-Salvador",2020-05-06,"nowcast",7,20,11,16,15,14.742
-"BA-Salvador",2020-05-07,"nowcast",9,21,11,16,15,15.491
-"BA-Salvador",2020-05-08,"nowcast",8,21,12,17,16,16.224
-"BA-Salvador",2020-05-09,"nowcast",10,23,12,17,16,16.638
-"BA-Salvador",2020-05-10,"nowcast",10,23,14,19,17,17.494
-"BA-Salvador",2020-05-11,"nowcast",10,24,14,19,18,18.246
-"BA-Salvador",2020-05-12,"nowcast",11,25,16,21,19,18.892
-"BA-Salvador",2020-05-13,"nowcast",12,26,15,20,19,19.461
-"BA-Salvador",2020-05-14,"nowcast",14,27,16,21,20,19.886
-"BA-Salvador",2020-05-15,"nowcast",12,26,17,22,20,20.219
-"BA-Salvador",2020-05-16,"nowcast",13,27,17,22,21,20.763
-"BA-Salvador",2020-05-17,"nowcast",13,27,15,21,21,21.106
-"BA-Salvador",2020-05-18,"nowcast",13,27,19,24,21,21.308
-"BA-Salvador",2020-05-19,"nowcast",14,29,17,23,22,22.122
-"BA-Salvador",2020-05-20,"nowcast",13,28,17,23,22,21.802
-"BA-Salvador",2020-05-21,"nowcast",14,29,17,23,22,21.966
-"BA-Salvador",2020-05-22,"nowcast",14,29,17,23,22,22.026
-"BA-Salvador",2020-05-23,"nowcast",15,29,17,23,22,21.937
-"BA-Salvador",2020-05-24,"nowcast",15,29,16,22,22,21.893
-"BA-Salvador",2020-05-25,"nowcast",14,28,18,23,22,21.69
-"BA-Salvador",2020-05-26,"nowcast",15,29,17,23,22,21.937
-"BA-Salvador",2020-05-27,"nowcast",14,29,17,23,22,22.09
-"BA-Salvador",2020-05-28,"nowcast",14,28,18,23,22,21.958
-"BA-Salvador",2020-05-29,"nowcast",14,29,18,24,22,22.394
-"BA-Salvador",2020-05-30,"nowcast",15,29,17,23,22,22.553
-"BA-Salvador",2020-05-31,"nowcast",16,30,17,23,22,22.49
-"BA-Salvador",2020-06-01,"nowcast",14,29,17,23,22,22.454
-"BA-Salvador",2020-06-02,"nowcast",14,29,18,24,23,22.922
-"BA-Salvador",2020-06-03,"nowcast",14,30,18,24,23,23.05
-"BA-Salvador",2020-06-04,"nowcast",15,30,19,25,23,23.202
-"BA-Salvador",2020-06-05,"nowcast",14,29,18,24,23,23.271
-"BA-Salvador",2020-06-06,"nowcast",15,30,18,24,23,23.425
-"BA-Salvador",2020-06-07,"nowcast",17,33,20,26,24,24.04
-"BA-Salvador",2020-06-08,"nowcast",15,30,19,25,24,23.835
-"BA-Salvador",2020-06-09,"nowcast",15,31,20,26,24,24.45
-"BA-Salvador",2020-06-10,"nowcast",16,31,19,25,24,24.555
-"BA-Salvador",2020-06-11,"nowcast",16,32,20,26,25,24.811
-"BA-Salvador",2020-06-12,"nowcast",17,32,20,26,25,25.383
-"BA-Salvador",2020-06-13,"nowcast",17,33,21,27,25,25.573
-"BA-Salvador",2020-06-14,"nowcast",17,33,21,27,25,25.541
-"BA-Salvador",2020-06-15,"nowcast",17,33,19,26,25,25.214
-"BA-Salvador",2020-06-16,"nowcast",16,32,21,27,25,25.001
-"BA-Salvador",2020-06-17,"nowcast",17,32,20,26,25,24.617
-"BA-Salvador",2020-06-18,"nowcast",16,31,19,25,24,24.405
-"BA-Salvador",2020-06-19,"nowcast",16,31,20,26,24,24.222
-"BA-Salvador",2020-06-20,"nowcast",16,31,20,26,24,23.602
-"BA-Salvador",2020-06-21,"nowcast",14,29,18,24,23,23.08
-"BA-Salvador",2020-06-22,"nowcast",16,30,18,24,23,22.866
-"BA-Salvador",2020-06-23,"nowcast",13,28,17,23,22,22.038
-"BA-Salvador",2020-06-24,"nowcast",14,28,16,22,22,21.694
-"BA-Salvador",2020-06-25,"nowcast",13,27,17,22,21,21.064
-"BA-Salvador",2020-06-26,"nowcast",14,28,16,22,20,20.695
-"BA-Salvador",2020-06-27,"nowcast",13,27,18,23,20,20.368
-"BA-Salvador",2020-06-28,"nowcast",13,26,16,21,19,19.632
-"BA-Salvador",2020-06-29,"nowcast",12,26,13,19,19,19.122
-"BA-Salvador",2020-06-30,"nowcast",12,25,15,20,19,18.925
-"BA-Salvador",2020-07-01,"nowcast",12,25,13,19,18,18.326
-"BA-Salvador",2020-07-02,"nowcast",11,24,14,19,18,18.214
-"BA-Salvador",2020-07-03,"nowcast",11,24,14,19,18,17.975
-"BA-Salvador",2020-07-04,"nowcast",10,23,14,19,17,17.207
-"BA-Salvador",2020-07-05,"nowcast",10,23,14,19,17,17.563
-"BA-Salvador",2020-07-06,"nowcast",10,23,13,18,17,17.302
-"BA-Salvador",2020-07-07,"nowcast",10,23,14,19,17,17.717
-"BA-Salvador",2020-07-08,"nowcast",10,24,14,19,18,17.823
-"BA-Salvador",2020-07-09,"nowcast",11,24,14,19,18,17.95
-"BA-Salvador",2020-07-10,"nowcast",10,24,15,20,18,18.11
-"BA-Salvador",2020-07-11,"nowcast",11,25,14,19,18,18.531
-"BA-Salvador",2020-07-12,"nowcast",12,26,16,21,19,18.909
-"BA-Salvador",2020-07-13,"nowcast",12,26,14,20,19,19.457
-"BA-Salvador",2020-07-14,"nowcast",12,27,15,21,20,20.184
-"BA-Salvador",2020-07-15,"nowcast",13,28,16,22,21,20.894
-"BA-Salvador",2020-07-16,"nowcast",13,29,15,22,22,21.958
-"BA-Salvador",2020-07-17,"nowcast",14,31,19,25,23,23.334
-"BA-Salvador",2020-07-18,"nowcast",14,32,18,25,24,24.266
-"BA-Salvador",2020-07-19,"nowcast",14,33,20,27,25,25.28
-"BA-Salvador",2020-07-20,"nowcast",16,36,20,28,27,26.975
-"BA-Salvador",2020-07-21,"nowcast",16,38,23,31,28,28.474
-"BA-Salvador",2020-07-22,"nowcast",18,42,22,31,30,30.309
+"BA-Salvador",2020-02-03,"nowcast",0,1,1,1,1,0.666666666666667
+"BA-Salvador",2020-02-04,"nowcast",0,1,0,0,0,0.25
+"BA-Salvador",2020-02-05,"nowcast",0,1,0,0,0,0.428571428571429
+"BA-Salvador",2020-02-06,"nowcast",0,1,0,0,0,0.125
+"BA-Salvador",2020-02-07,"nowcast",0,1,0,0,0,0.222222222222222
+"BA-Salvador",2020-02-08,"nowcast",0,1,0,0,0,0.333333333333333
+"BA-Salvador",2020-02-09,"nowcast",0,0,0,0,0,0
+"BA-Salvador",2020-02-10,"nowcast",0,1,0,0,0,0.285714285714286
+"BA-Salvador",2020-02-11,"nowcast",0,1,0,0,0,0.352941176470588
+"BA-Salvador",2020-02-12,"nowcast",0,1,0,0,0,0.3
+"BA-Salvador",2020-02-13,"nowcast",0,1,0,0,0,0.333333333333333
+"BA-Salvador",2020-02-14,"nowcast",0,1,0,0,0,0.2
+"BA-Salvador",2020-02-15,"nowcast",0,1,0,0,0,0.194444444444444
+"BA-Salvador",2020-02-16,"nowcast",0,1,0,0,0,0.195121951219512
+"BA-Salvador",2020-02-17,"nowcast",0,1,0,0,0,0.133333333333333
+"BA-Salvador",2020-02-18,"nowcast",0,1,0,0,0,0.271186440677966
+"BA-Salvador",2020-02-19,"nowcast",0,1,0,0,0,0.253521126760563
+"BA-Salvador",2020-02-20,"nowcast",0,1,0,0,0,0.192771084337349
+"BA-Salvador",2020-02-21,"nowcast",0,1,0,0,0,0.289719626168224
+"BA-Salvador",2020-02-22,"nowcast",0,1,0,0,0,0.24
+"BA-Salvador",2020-02-23,"nowcast",0,1,0,0,0,0.198630136986301
+"BA-Salvador",2020-02-24,"nowcast",0,1,0,0,0,0.260355029585799
+"BA-Salvador",2020-02-25,"nowcast",0,1,0,0,0,0.189473684210526
+"BA-Salvador",2020-02-26,"nowcast",0,1,0,0,0,0.270642201834862
+"BA-Salvador",2020-02-27,"nowcast",0,1,0,0,0,0.25
+"BA-Salvador",2020-02-28,"nowcast",0,1,0,0,0,0.276666666666667
+"BA-Salvador",2020-02-29,"nowcast",0,1,0,0,0,0.223564954682779
+"BA-Salvador",2020-03-01,"nowcast",0,1,0,0,0,0.278514588859416
+"BA-Salvador",2020-03-02,"nowcast",0,1,0,0,0,0.27803738317757
+"BA-Salvador",2020-03-03,"nowcast",0,1,0,0,0,0.267893660531697
+"BA-Salvador",2020-03-04,"nowcast",0,1,0,0,0,0.257518796992481
+"BA-Salvador",2020-03-05,"nowcast",0,1,0,0,0,0.312393887945671
+"BA-Salvador",2020-03-06,"nowcast",0,1,0,0,0,0.318110236220472
+"BA-Salvador",2020-03-07,"nowcast",0,1,0,0,0,0.289665211062591
+"BA-Salvador",2020-03-08,"nowcast",0,1,0,0,0,0.336054421768707
+"BA-Salvador",2020-03-09,"nowcast",0,1,0,0,0,0.364690721649485
+"BA-Salvador",2020-03-10,"nowcast",0,1,0,0,0,0.374549819927971
+"BA-Salvador",2020-03-11,"nowcast",0,1,0,0,0,0.417927823050058
+"BA-Salvador",2020-03-12,"nowcast",0,1,0,0,0,0.488789237668161
+"BA-Salvador",2020-03-13,"nowcast",0,1,0,0,0,0.49618320610687
+"BA-Salvador",2020-03-14,"nowcast",0,1,0,0,0,0.503719447396387
+"BA-Salvador",2020-03-15,"nowcast",0,2,0,0,0,0.583857442348008
+"BA-Salvador",2020-03-16,"nowcast",0,2,0,0,0,0.658057851239669
+"BA-Salvador",2020-03-17,"nowcast",0,2,0,1,1,0.734358974358974
+"BA-Salvador",2020-03-18,"nowcast",0,2,0,1,1,0.772819472616633
+"BA-Salvador",2020-03-19,"nowcast",0,2,0,1,1,0.907070707070707
+"BA-Salvador",2020-03-20,"nowcast",0,2,0,1,1,0.916666666666667
+"BA-Salvador",2020-03-21,"nowcast",0,2,0,1,1,1.05705705705706
+"BA-Salvador",2020-03-22,"nowcast",0,2,0,1,1,1.04004004004004
+"BA-Salvador",2020-03-23,"nowcast",0,3,0,1,1,1.23123123123123
+"BA-Salvador",2020-03-24,"nowcast",0,3,0,1,1,1.26526526526527
+"BA-Salvador",2020-03-25,"nowcast",0,3,0,1,1,1.39439439439439
+"BA-Salvador",2020-03-26,"nowcast",0,3,0,1,1,1.468
+"BA-Salvador",2020-03-27,"nowcast",0,3,0,1,1,1.508
+"BA-Salvador",2020-03-28,"nowcast",0,3,0,1,1,1.625
+"BA-Salvador",2020-03-29,"nowcast",0,3,0,1,1,1.678
+"BA-Salvador",2020-03-30,"nowcast",0,4,1,2,2,1.863
+"BA-Salvador",2020-03-31,"nowcast",0,4,1,2,2,1.99
+"BA-Salvador",2020-04-01,"nowcast",0,4,1,2,2,2.143
+"BA-Salvador",2020-04-02,"nowcast",0,4,1,2,2,2.328
+"BA-Salvador",2020-04-03,"nowcast",0,4,1,2,2,2.357
+"BA-Salvador",2020-04-04,"nowcast",0,5,0,2,2,2.569
+"BA-Salvador",2020-04-05,"nowcast",0,5,1,3,3,2.926
+"BA-Salvador",2020-04-06,"nowcast",1,6,1,3,3,3.033
+"BA-Salvador",2020-04-07,"nowcast",1,6,1,3,3,3.439
+"BA-Salvador",2020-04-08,"nowcast",0,6,2,4,4,3.712
+"BA-Salvador",2020-04-09,"nowcast",0,6,2,4,4,3.834
+"BA-Salvador",2020-04-10,"nowcast",1,7,3,5,4,4.309
+"BA-Salvador",2020-04-11,"nowcast",1,8,3,5,4,4.546
+"BA-Salvador",2020-04-12,"nowcast",1,8,2,5,5,4.857
+"BA-Salvador",2020-04-13,"nowcast",1,8,2,5,5,5.184
+"BA-Salvador",2020-04-14,"nowcast",2,9,3,6,5,5.502
+"BA-Salvador",2020-04-15,"nowcast",2,9,3,6,6,5.825
+"BA-Salvador",2020-04-16,"nowcast",2,10,3,6,6,6.103
+"BA-Salvador",2020-04-17,"nowcast",2,10,4,7,6,6.417
+"BA-Salvador",2020-04-18,"nowcast",2,10,4,7,7,6.873
+"BA-Salvador",2020-04-19,"nowcast",3,11,5,8,7,7.126
+"BA-Salvador",2020-04-20,"nowcast",2,11,5,8,7,7.375
+"BA-Salvador",2020-04-21,"nowcast",4,12,5,8,7,7.752
+"BA-Salvador",2020-04-22,"nowcast",3,12,6,9,8,8.152
+"BA-Salvador",2020-04-23,"nowcast",3,12,7,10,8,8.483
+"BA-Salvador",2020-04-24,"nowcast",3,12,6,9,9,8.624
+"BA-Salvador",2020-04-25,"nowcast",3,13,5,9,9,9.052
+"BA-Salvador",2020-04-26,"nowcast",4,14,6,10,9,9.34
+"BA-Salvador",2020-04-27,"nowcast",4,14,6,10,10,9.836
+"BA-Salvador",2020-04-28,"nowcast",5,15,7,11,10,10.304
+"BA-Salvador",2020-04-29,"nowcast",5,16,7,11,11,10.748
+"BA-Salvador",2020-04-30,"nowcast",5,16,8,12,11,11.285
+"BA-Salvador",2020-05-01,"nowcast",6,17,8,12,12,11.942
+"BA-Salvador",2020-05-02,"nowcast",7,18,9,13,13,12.604
+"BA-Salvador",2020-05-03,"nowcast",7,19,10,14,13,12.942
+"BA-Salvador",2020-05-04,"nowcast",7,19,9,14,13,13.554
+"BA-Salvador",2020-05-05,"nowcast",8,20,9,14,14,14.084
+"BA-Salvador",2020-05-06,"nowcast",9,21,10,15,14.5,14.825
+"BA-Salvador",2020-05-07,"nowcast",9,22,11,16,15,15.672
+"BA-Salvador",2020-05-08,"nowcast",9,22,12,17,16,16.123
+"BA-Salvador",2020-05-09,"nowcast",11,24,12,17,16,16.5
+"BA-Salvador",2020-05-10,"nowcast",10,23,13,18,17,17.369
+"BA-Salvador",2020-05-11,"nowcast",11,24,15,20,18,17.936
+"BA-Salvador",2020-05-12,"nowcast",11,25,14,20,19,18.722
+"BA-Salvador",2020-05-13,"nowcast",11,25,16,21,19,19.384
+"BA-Salvador",2020-05-14,"nowcast",12,26,14,20,20,19.82
+"BA-Salvador",2020-05-15,"nowcast",13,27,17,22,20,20.465
+"BA-Salvador",2020-05-16,"nowcast",12,27,18,23,21,20.99
+"BA-Salvador",2020-05-17,"nowcast",13,28,16,22,21,21.376
+"BA-Salvador",2020-05-18,"nowcast",15,29,16,22,21,21.355
+"BA-Salvador",2020-05-19,"nowcast",13,28,17,23,22,22.024
+"BA-Salvador",2020-05-20,"nowcast",14,29,16,22,22,21.728
+"BA-Salvador",2020-05-21,"nowcast",15,29,19,24,22,22.086
+"BA-Salvador",2020-05-22,"nowcast",13,28,17,23,22,21.768
+"BA-Salvador",2020-05-23,"nowcast",13,28,18,24,22,22.014
+"BA-Salvador",2020-05-24,"nowcast",14,29,17,23,22,21.881
+"BA-Salvador",2020-05-25,"nowcast",14,28,16,22,22,21.81
+"BA-Salvador",2020-05-26,"nowcast",14,28,16,22,21,21.477
+"BA-Salvador",2020-05-27,"nowcast",13,28,17,23,22,21.732
+"BA-Salvador",2020-05-28,"nowcast",13,28,17,23,22,22.026
+"BA-Salvador",2020-05-29,"nowcast",15,29,19,24,22,22.214
+"BA-Salvador",2020-05-30,"nowcast",13,28,17,23,22,22.134
+"BA-Salvador",2020-05-31,"nowcast",16,30,19,24,22,22.387
+"BA-Salvador",2020-06-01,"nowcast",14,29,20,25,22,22.622
+"BA-Salvador",2020-06-02,"nowcast",15,30,18,24,22,22.678
+"BA-Salvador",2020-06-03,"nowcast",14,29,17,23,23,22.768
+"BA-Salvador",2020-06-04,"nowcast",15,30,18,24,23,23.205
+"BA-Salvador",2020-06-05,"nowcast",16,31,19,25,23,23.542
+"BA-Salvador",2020-06-06,"nowcast",16,31,19,25,23,23.311
+"BA-Salvador",2020-06-07,"nowcast",15,30,19,25,24,23.649
+"BA-Salvador",2020-06-08,"nowcast",15,31,19,25,24,24.222
+"BA-Salvador",2020-06-09,"nowcast",17,32,20,26,24,24.49
+"BA-Salvador",2020-06-10,"nowcast",18,33,20,26,25,24.928
+"BA-Salvador",2020-06-11,"nowcast",18,33,21,27,25,25.232
+"BA-Salvador",2020-06-12,"nowcast",17,32,21,27,25,25.392
+"BA-Salvador",2020-06-13,"nowcast",18,33,20,26,25,25.192
+"BA-Salvador",2020-06-14,"nowcast",17,32,20,26,25,25.24
+"BA-Salvador",2020-06-15,"nowcast",16,32,21,27,25,25.313
+"BA-Salvador",2020-06-16,"nowcast",17,32,21,27,25,25.135
+"BA-Salvador",2020-06-17,"nowcast",16,32,20,26,25,24.772
+"BA-Salvador",2020-06-18,"nowcast",16,32,20,26,24,24.659
+"BA-Salvador",2020-06-19,"nowcast",16,31,19,25,24,24.222
+"BA-Salvador",2020-06-20,"nowcast",16,32,19,25,23.5,23.835
+"BA-Salvador",2020-06-21,"nowcast",14,30,19,25,23,23.213
+"BA-Salvador",2020-06-22,"nowcast",15,29,18,24,23,22.829
+"BA-Salvador",2020-06-23,"nowcast",14,29,17,23,22,22.17
+"BA-Salvador",2020-06-24,"nowcast",15,29,16,22,21,21.711
+"BA-Salvador",2020-06-25,"nowcast",14,28,16,22,21,21.309
+"BA-Salvador",2020-06-26,"nowcast",14,28,16,22,20,20.788
+"BA-Salvador",2020-06-27,"nowcast",13,26,18,23,20,19.923
+"BA-Salvador",2020-06-28,"nowcast",13,26,16,21,19,19.587
+"BA-Salvador",2020-06-29,"nowcast",12,26,15,20,19,19.232
+"BA-Salvador",2020-06-30,"nowcast",11,25,15,20,18,18.733
+"BA-Salvador",2020-07-01,"nowcast",11,25,15,20,18,18.379
+"BA-Salvador",2020-07-02,"nowcast",11,24,14,19,18,18.17
+"BA-Salvador",2020-07-03,"nowcast",10,24,14,19,18,17.746
+"BA-Salvador",2020-07-04,"nowcast",10,24,15,20,18,17.851
+"BA-Salvador",2020-07-05,"nowcast",11,24,13,18,17,17.549
+"BA-Salvador",2020-07-06,"nowcast",10,23,13,18,17,17.372
+"BA-Salvador",2020-07-07,"nowcast",11,24,13,19,18,17.785
+"BA-Salvador",2020-07-08,"nowcast",10,24,14,19,18,18.014
+"BA-Salvador",2020-07-09,"nowcast",11,24,14,19,18,17.924
+"BA-Salvador",2020-07-10,"nowcast",11,25,15,20,18,18.422
+"BA-Salvador",2020-07-11,"nowcast",11,25,14,20,18,18.754
+"BA-Salvador",2020-07-12,"nowcast",12,25,16,21,19,19.035
+"BA-Salvador",2020-07-13,"nowcast",11,26,17,22,19,19.47
+"BA-Salvador",2020-07-14,"nowcast",13,27,15,21,20,20.457
+"BA-Salvador",2020-07-15,"nowcast",13,28,16,22,21,21.103
+"BA-Salvador",2020-07-16,"nowcast",13,29,18,24,22,22.271
+"BA-Salvador",2020-07-17,"nowcast",15,31,19,25,23,23.294
+"BA-Salvador",2020-07-18,"nowcast",16,33,18,25,24,24.307
+"BA-Salvador",2020-07-19,"nowcast",15,34,19,27,25,25.724
+"BA-Salvador",2020-07-20,"nowcast",17,36,20,28,26,27.054
+"BA-Salvador",2020-07-21,"nowcast",17,39,24,32,28,28.709
+"BA-Salvador",2020-07-22,"nowcast",19,42,22,31,30,30.306
+"BA-Salvador",2020-07-23,"nowcast",21,44,25,34,32,32.578
 "BA-Salvador",2020-03-13,"observed",NA,NA,NA,NA,0,NA
 "BA-Salvador",2020-03-14,"observed",NA,NA,NA,NA,0,NA
 "BA-Salvador",2020-03-15,"observed",NA,NA,NA,NA,0,NA
@@ -320,21 +320,22 @@
 "BA-Salvador",2020-08-03,"observed",NA,NA,NA,NA,26,NA
 "BA-Salvador",2020-08-04,"observed",NA,NA,NA,NA,27,NA
 "BA-Salvador",2020-08-05,"observed",NA,NA,NA,NA,31,NA
-"BA-Salvador",2020-08-06,"observed",NA,NA,NA,NA,0,NA
-"BA-Salvador",2020-07-23,"forecast",14,47,20,33,31,31.7316
-"BA-Salvador",2020-07-24,"forecast",15,53,20,35,32,33.6516
-"BA-Salvador",2020-07-25,"forecast",13,57,18,35,33,35.4216
-"BA-Salvador",2020-07-26,"forecast",12,61,19,38,35,37.7322
-"BA-Salvador",2020-07-27,"forecast",12,69,21,42,37,40.485
-"BA-Salvador",2020-07-28,"forecast",10,73,23,46,39,42.9998
-"BA-Salvador",2020-07-29,"forecast",11,82,19,44,40,45.6672
-"BA-Salvador",2020-07-30,"forecast",9,89,17,45,42,48.75
-"BA-Salvador",2020-07-31,"forecast",7,98,18,49,45,52.6778
-"BA-Salvador",2020-08-01,"forecast",5,105,17,51,46,56.431
-"BA-Salvador",2020-08-02,"forecast",4,115,15,52,48,60.6372
-"BA-Salvador",2020-08-03,"forecast",0,124,14,55,51,65.1724
-"BA-Salvador",2020-08-04,"forecast",0,137,16,59,53,70.6954
-"BA-Salvador",2020-08-05,"forecast",0,155,16,63,56,78.1964
+"BA-Salvador",2020-08-06,"observed",NA,NA,NA,NA,37,NA
+"BA-Salvador",2020-08-07,"observed",NA,NA,NA,NA,0,NA
+"BA-Salvador",2020-07-24,"forecast",16,51,23,36,33,34.0712
+"BA-Salvador",2020-07-25,"forecast",13,54,23,39,35,36.3522
+"BA-Salvador",2020-07-26,"forecast",13,61,23,41,37,38.7614
+"BA-Salvador",2020-07-27,"forecast",13,67,23,43,38,41.2928
+"BA-Salvador",2020-07-28,"forecast",10,72,20,43,40,43.8556
+"BA-Salvador",2020-07-29,"forecast",11,81,21,46,42,47.2384
+"BA-Salvador",2020-07-30,"forecast",10,89,24,51,44,50.8342
+"BA-Salvador",2020-07-31,"forecast",9,98,22,53,46,54.062
+"BA-Salvador",2020-08-01,"forecast",6,104,20,54,49,58.479
+"BA-Salvador",2020-08-02,"forecast",3,115,25,62,52,63.3728
+"BA-Salvador",2020-08-03,"forecast",0,124,17,58,53,68.7304
+"BA-Salvador",2020-08-04,"forecast",6,144,20,64,57,74.5908
+"BA-Salvador",2020-08-05,"forecast",0,151,16,65,60,80.609
+"BA-Salvador",2020-08-06,"forecast",0,169,19,71,62,90.0092
 "CE-Fortaleza",2020-01-28,"nowcast",1,1,1,1,1,1
 "CE-Fortaleza",2020-01-29,"nowcast",0,1,0,0,0,0.25
 "CE-Fortaleza",2020-01-30,"nowcast",0,1,0,0,0,0.4
@@ -1193,169 +1194,172 @@
 "PB-Campina Grande",2020-07-16,"forecast",0,69,0,17,17,31.757
 "PB-Campina Grande",2020-07-17,"forecast",0,78,0,18,18,35.5372
 "PB-Campina Grande",2020-07-18,"forecast",0,88,0,19,19,40.5558
-"PB-João Pessoa",2020-02-11,"nowcast",1,1,1,1,1,1
-"PB-João Pessoa",2020-02-12,"nowcast",0,1,1,1,1,0.666666666666667
-"PB-João Pessoa",2020-02-13,"nowcast",0,1,0,0,0,0.4
-"PB-João Pessoa",2020-02-14,"nowcast",0,1,1,1,1,0.555555555555556
+"PB-João Pessoa",2020-02-09,"nowcast",1,1,1,1,1,1
+"PB-João Pessoa",2020-02-10,"nowcast",0,1,1,1,1,0.6
+"PB-João Pessoa",2020-02-11,"nowcast",0,0,0,0,0,0
+"PB-João Pessoa",2020-02-12,"nowcast",0,1,0,0,0,0.375
+"PB-João Pessoa",2020-02-13,"nowcast",0,1,0,0,0,0.222222222222222
+"PB-João Pessoa",2020-02-14,"nowcast",0,1,0,0,0,0.1
 "PB-João Pessoa",2020-02-15,"nowcast",0,1,0,0,0,0.333333333333333
-"PB-João Pessoa",2020-02-16,"nowcast",0,1,0,0,0,0.285714285714286
-"PB-João Pessoa",2020-02-17,"nowcast",0,1,0,0,0,0.294117647058824
-"PB-João Pessoa",2020-02-18,"nowcast",0,1,0,0,0,0.2
-"PB-João Pessoa",2020-02-19,"nowcast",0,1,0,0,0,0.357142857142857
-"PB-João Pessoa",2020-02-20,"nowcast",0,1,0,0,0,0.361111111111111
-"PB-João Pessoa",2020-02-21,"nowcast",0,1,0,0,0,0.302325581395349
-"PB-João Pessoa",2020-02-22,"nowcast",0,1,0,0,0,0.224489795918367
-"PB-João Pessoa",2020-02-23,"nowcast",0,1,0,0,0,0.25
-"PB-João Pessoa",2020-02-24,"nowcast",0,1,0,0,0,0.25
-"PB-João Pessoa",2020-02-25,"nowcast",0,1,0,0,0,0.274725274725275
-"PB-João Pessoa",2020-02-26,"nowcast",0,1,0,0,0,0.292035398230089
-"PB-João Pessoa",2020-02-27,"nowcast",0,1,0,0,0,0.216417910447761
-"PB-João Pessoa",2020-02-28,"nowcast",0,1,0,0,0,0.238993710691824
-"PB-João Pessoa",2020-02-29,"nowcast",0,1,0,0,0,0.314432989690722
-"PB-João Pessoa",2020-03-01,"nowcast",0,1,0,0,0,0.172897196261682
-"PB-João Pessoa",2020-03-02,"nowcast",0,1,0,0,0,0.277551020408163
-"PB-João Pessoa",2020-03-03,"nowcast",0,1,0,0,0,0.206521739130435
-"PB-João Pessoa",2020-03-04,"nowcast",0,1,0,0,0,0.264516129032258
-"PB-João Pessoa",2020-03-05,"nowcast",0,1,0,0,0,0.26
-"PB-João Pessoa",2020-03-06,"nowcast",0,1,0,0,0,0.265822784810127
-"PB-João Pessoa",2020-03-07,"nowcast",0,1,0,0,0,0.27212389380531
-"PB-João Pessoa",2020-03-08,"nowcast",0,1,0,0,0,0.250501002004008
-"PB-João Pessoa",2020-03-09,"nowcast",0,1,0,0,0,0.258181818181818
-"PB-João Pessoa",2020-03-10,"nowcast",0,1,0,0,0,0.285478547854785
-"PB-João Pessoa",2020-03-11,"nowcast",0,1,0,0,0,0.304545454545455
-"PB-João Pessoa",2020-03-12,"nowcast",0,1,0,0,0,0.339385474860335
-"PB-João Pessoa",2020-03-13,"nowcast",0,1,0,0,0,0.310252996005326
-"PB-João Pessoa",2020-03-14,"nowcast",0,1,0,0,0,0.329161451814768
-"PB-João Pessoa",2020-03-15,"nowcast",0,1,0,0,0,0.370414201183432
-"PB-João Pessoa",2020-03-16,"nowcast",0,1,0,0,0,0.37542662116041
-"PB-João Pessoa",2020-03-17,"nowcast",0,1,0,0,0,0.484083424807903
-"PB-João Pessoa",2020-03-18,"nowcast",0,1,0,0,0,0.491397849462366
-"PB-João Pessoa",2020-03-19,"nowcast",0,1,0,0,0,0.518046709129512
-"PB-João Pessoa",2020-03-20,"nowcast",0,2,0,0,0,0.561586638830898
-"PB-João Pessoa",2020-03-21,"nowcast",0,2,0,0,0,0.649284253578732
-"PB-João Pessoa",2020-03-22,"nowcast",0,2,0,1,1,0.751765893037336
-"PB-João Pessoa",2020-03-23,"nowcast",0,2,0,1,1,0.783132530120482
-"PB-João Pessoa",2020-03-24,"nowcast",0,2,0,1,1,0.866599799398195
-"PB-João Pessoa",2020-03-25,"nowcast",0,2,0,1,1,0.86258776328987
-"PB-João Pessoa",2020-03-26,"nowcast",0,2,0,1,1,1.03803803803804
-"PB-João Pessoa",2020-03-27,"nowcast",0,2,0,1,1,1.057
-"PB-João Pessoa",2020-03-28,"nowcast",0,3,0,1,1,1.196
-"PB-João Pessoa",2020-03-29,"nowcast",0,3,0,1,1,1.24
-"PB-João Pessoa",2020-03-30,"nowcast",0,3,0,1,1,1.291
-"PB-João Pessoa",2020-03-31,"nowcast",0,3,0,1,1,1.357
-"PB-João Pessoa",2020-04-01,"nowcast",0,3,0,1,1,1.352
-"PB-João Pessoa",2020-04-02,"nowcast",0,3,0,1,1,1.412
-"PB-João Pessoa",2020-04-03,"nowcast",0,3,0,1,1,1.445
-"PB-João Pessoa",2020-04-04,"nowcast",0,3,0,1,1,1.48
-"PB-João Pessoa",2020-04-05,"nowcast",0,3,0,1,1,1.519
-"PB-João Pessoa",2020-04-06,"nowcast",0,3,0,1,1,1.409
-"PB-João Pessoa",2020-04-07,"nowcast",0,3,0,1,1,1.559
-"PB-João Pessoa",2020-04-08,"nowcast",0,3,0,1,1,1.564
-"PB-João Pessoa",2020-04-09,"nowcast",0,3,0,1,1,1.538
-"PB-João Pessoa",2020-04-10,"nowcast",0,3,0,1,1,1.564
-"PB-João Pessoa",2020-04-11,"nowcast",0,3,0,1,1,1.621
-"PB-João Pessoa",2020-04-12,"nowcast",0,3,0,1,1,1.639
-"PB-João Pessoa",2020-04-13,"nowcast",0,3,0,1,1,1.625
-"PB-João Pessoa",2020-04-14,"nowcast",0,4,1,2,2,1.776
-"PB-João Pessoa",2020-04-15,"nowcast",0,4,1,2,2,1.786
-"PB-João Pessoa",2020-04-16,"nowcast",0,4,1,2,2,1.79
-"PB-João Pessoa",2020-04-17,"nowcast",0,4,1,2,2,1.893
-"PB-João Pessoa",2020-04-18,"nowcast",0,4,1,2,2,1.894
-"PB-João Pessoa",2020-04-19,"nowcast",0,4,1,2,2,1.978
-"PB-João Pessoa",2020-04-20,"nowcast",0,4,1,2,2,2.116
-"PB-João Pessoa",2020-04-21,"nowcast",0,4,1,2,2,2.117
-"PB-João Pessoa",2020-04-22,"nowcast",0,4,0,2,2,2.305
-"PB-João Pessoa",2020-04-23,"nowcast",0,5,0,2,2,2.519
-"PB-João Pessoa",2020-04-24,"nowcast",0,5,0,2,2,2.592
-"PB-João Pessoa",2020-04-25,"nowcast",0,5,1,3,3,2.694
-"PB-João Pessoa",2020-04-26,"nowcast",0,5,1,3,2.5,2.663
-"PB-João Pessoa",2020-04-27,"nowcast",0,5,0,2,2,2.668
-"PB-João Pessoa",2020-04-28,"nowcast",0,5,1,3,3,2.842
-"PB-João Pessoa",2020-04-29,"nowcast",0,5,1,3,3,3
-"PB-João Pessoa",2020-04-30,"nowcast",0,5,1,3,3,3.015
-"PB-João Pessoa",2020-05-01,"nowcast",0,5,1,3,3,3.072
-"PB-João Pessoa",2020-05-02,"nowcast",0,5,1,3,3,3.04
-"PB-João Pessoa",2020-05-03,"nowcast",1,6,1,3,3,3.289
-"PB-João Pessoa",2020-05-04,"nowcast",1,6,1,3,3,3.239
-"PB-João Pessoa",2020-05-05,"nowcast",0,6,2,4,3,3.564
-"PB-João Pessoa",2020-05-06,"nowcast",1,6,2,4,3,3.671
-"PB-João Pessoa",2020-05-07,"nowcast",0,6,2,4,4,3.761
-"PB-João Pessoa",2020-05-08,"nowcast",0,6,2,4,4,3.789
-"PB-João Pessoa",2020-05-09,"nowcast",0,6,2,4,4,3.985
-"PB-João Pessoa",2020-05-10,"nowcast",1,7,2,4,4,4.31
-"PB-João Pessoa",2020-05-11,"nowcast",1,7,2,4,4,4.32
-"PB-João Pessoa",2020-05-12,"nowcast",1,7,3,5,4,4.513
-"PB-João Pessoa",2020-05-13,"nowcast",1,8,2,5,5,4.717
-"PB-João Pessoa",2020-05-14,"nowcast",2,8,4,6,5,4.923
-"PB-João Pessoa",2020-05-15,"nowcast",1,8,4,6,5,4.881
-"PB-João Pessoa",2020-05-16,"nowcast",1,8,2,5,5,5.086
-"PB-João Pessoa",2020-05-17,"nowcast",2,9,3,6,5,5.41
-"PB-João Pessoa",2020-05-18,"nowcast",2,9,3,6,5,5.579
-"PB-João Pessoa",2020-05-19,"nowcast",2,9,3,6,6,5.746
-"PB-João Pessoa",2020-05-20,"nowcast",2,9,3,6,6,6.044
-"PB-João Pessoa",2020-05-21,"nowcast",3,10,3,6,6,6.262
-"PB-João Pessoa",2020-05-22,"nowcast",3,10,3,6,6,6.27
-"PB-João Pessoa",2020-05-23,"nowcast",2,10,3,6,6,6.444
-"PB-João Pessoa",2020-05-24,"nowcast",2,10,4,7,6,6.66
-"PB-João Pessoa",2020-05-25,"nowcast",2,10,4,7,7,6.877
-"PB-João Pessoa",2020-05-26,"nowcast",2,10,4,7,7,6.872
-"PB-João Pessoa",2020-05-27,"nowcast",2,10,4,7,7,6.906
-"PB-João Pessoa",2020-05-28,"nowcast",2,10,4,7,7,6.817
-"PB-João Pessoa",2020-05-29,"nowcast",2,10,4,7,7,6.842
-"PB-João Pessoa",2020-05-30,"nowcast",3,11,4,7,7,6.831
-"PB-João Pessoa",2020-05-31,"nowcast",2,10,4,7,7,6.917
-"PB-João Pessoa",2020-06-01,"nowcast",2,10,4,7,7,6.861
-"PB-João Pessoa",2020-06-02,"nowcast",2,10,4,7,7,6.835
-"PB-João Pessoa",2020-06-03,"nowcast",3,11,4,7,7,6.859
-"PB-João Pessoa",2020-06-04,"nowcast",2,10,4,7,7,6.896
-"PB-João Pessoa",2020-06-05,"nowcast",3,11,4,7,7,6.981
-"PB-João Pessoa",2020-06-06,"nowcast",3,11,4,7,7,6.868
-"PB-João Pessoa",2020-06-07,"nowcast",3,11,4,7,7,6.961
-"PB-João Pessoa",2020-06-08,"nowcast",3,11,5,8,7,7.056
-"PB-João Pessoa",2020-06-09,"nowcast",3,11,4,7,7,7.241
-"PB-João Pessoa",2020-06-10,"nowcast",3,11,5,8,7,7.408
-"PB-João Pessoa",2020-06-11,"nowcast",4,12,5,8,7,7.421
-"PB-João Pessoa",2020-06-12,"nowcast",2,11,5,8,8,7.635
-"PB-João Pessoa",2020-06-13,"nowcast",4,12,6,9,8,8.051
-"PB-João Pessoa",2020-06-14,"nowcast",4,12,6,9,8,8.267
+"PB-João Pessoa",2020-02-16,"nowcast",0,1,0,0,0,0.25
+"PB-João Pessoa",2020-02-17,"nowcast",0,1,0,0,0,0.307692307692308
+"PB-João Pessoa",2020-02-18,"nowcast",0,1,0,0,0,0.225806451612903
+"PB-João Pessoa",2020-02-19,"nowcast",0,1,0,0,0,0.264705882352941
+"PB-João Pessoa",2020-02-20,"nowcast",0,1,0,0,0,0.205128205128205
+"PB-João Pessoa",2020-02-21,"nowcast",0,1,0,0,0,0.346938775510204
+"PB-João Pessoa",2020-02-22,"nowcast",0,1,0,0,0,0.172413793103448
+"PB-João Pessoa",2020-02-23,"nowcast",0,1,0,0,0,0.263888888888889
+"PB-João Pessoa",2020-02-24,"nowcast",0,1,0,0,0,0.229885057471264
+"PB-João Pessoa",2020-02-25,"nowcast",0,1,0,0,0,0.308411214953271
+"PB-João Pessoa",2020-02-26,"nowcast",0,1,0,0,0,0.236220472440945
+"PB-João Pessoa",2020-02-27,"nowcast",0,1,0,0,0,0.236486486486486
+"PB-João Pessoa",2020-02-28,"nowcast",0,1,0,0,0,0.220238095238095
+"PB-João Pessoa",2020-02-29,"nowcast",0,1,0,0,0,0.159574468085106
+"PB-João Pessoa",2020-03-01,"nowcast",0,1,0,0,0,0.261261261261261
+"PB-João Pessoa",2020-03-02,"nowcast",0,1,0,0,0,0.228
+"PB-João Pessoa",2020-03-03,"nowcast",0,1,0,0,0,0.247386759581882
+"PB-João Pessoa",2020-03-04,"nowcast",0,1,0,0,0,0.212025316455696
+"PB-João Pessoa",2020-03-05,"nowcast",0,1,0,0,0,0.214285714285714
+"PB-João Pessoa",2020-03-06,"nowcast",0,1,0,0,0,0.229591836734694
+"PB-João Pessoa",2020-03-07,"nowcast",0,1,0,0,0,0.247113163972286
+"PB-João Pessoa",2020-03-08,"nowcast",0,1,0,0,0,0.274058577405858
+"PB-João Pessoa",2020-03-09,"nowcast",0,1,0,0,0,0.300184162062615
+"PB-João Pessoa",2020-03-10,"nowcast",0,1,0,0,0,0.316053511705686
+"PB-João Pessoa",2020-03-11,"nowcast",0,1,0,0,0,0.329230769230769
+"PB-João Pessoa",2020-03-12,"nowcast",0,1,0,0,0,0.335235378031384
+"PB-João Pessoa",2020-03-13,"nowcast",0,1,0,0,0,0.32573726541555
+"PB-João Pessoa",2020-03-14,"nowcast",0,1,0,0,0,0.426616915422886
+"PB-João Pessoa",2020-03-15,"nowcast",0,1,0,0,0,0.383981154299176
+"PB-João Pessoa",2020-03-16,"nowcast",0,1,0,0,0,0.410430839002268
+"PB-João Pessoa",2020-03-17,"nowcast",0,1,0,0,0,0.445295404814004
+"PB-João Pessoa",2020-03-18,"nowcast",0,1,0,0,0,0.480769230769231
+"PB-João Pessoa",2020-03-19,"nowcast",0,1,0,0,0,0.505759162303665
+"PB-João Pessoa",2020-03-20,"nowcast",0,2,0,0,0,0.563655030800821
+"PB-João Pessoa",2020-03-21,"nowcast",0,2,0,0,0,0.667342799188641
+"PB-João Pessoa",2020-03-22,"nowcast",0,2,0,0,0,0.690140845070423
+"PB-João Pessoa",2020-03-23,"nowcast",0,2,0,1,1,0.842211055276382
+"PB-João Pessoa",2020-03-24,"nowcast",0,2,0,1,1,0.824473420260782
+"PB-João Pessoa",2020-03-25,"nowcast",0,2,0,1,1,0.90990990990991
+"PB-João Pessoa",2020-03-26,"nowcast",0,2,0,1,1,0.985
+"PB-João Pessoa",2020-03-27,"nowcast",0,2,0,1,1,1.073
+"PB-João Pessoa",2020-03-28,"nowcast",0,3,0,1,1,1.175
+"PB-João Pessoa",2020-03-29,"nowcast",0,3,0,1,1,1.166
+"PB-João Pessoa",2020-03-30,"nowcast",0,3,0,1,1,1.282
+"PB-João Pessoa",2020-03-31,"nowcast",0,3,0,1,1,1.361
+"PB-João Pessoa",2020-04-01,"nowcast",0,3,0,1,1,1.423
+"PB-João Pessoa",2020-04-02,"nowcast",0,3,0,1,1,1.387
+"PB-João Pessoa",2020-04-03,"nowcast",0,3,0,1,1,1.454
+"PB-João Pessoa",2020-04-04,"nowcast",0,3,0,1,1,1.584
+"PB-João Pessoa",2020-04-05,"nowcast",0,3,0,1,1,1.48
+"PB-João Pessoa",2020-04-06,"nowcast",0,3,0,1,1,1.46
+"PB-João Pessoa",2020-04-07,"nowcast",0,3,0,1,1,1.467
+"PB-João Pessoa",2020-04-08,"nowcast",0,3,0,1,1,1.529
+"PB-João Pessoa",2020-04-09,"nowcast",0,3,0,1,1,1.53
+"PB-João Pessoa",2020-04-10,"nowcast",0,3,0,1,1,1.615
+"PB-João Pessoa",2020-04-11,"nowcast",0,3,0,1,1,1.583
+"PB-João Pessoa",2020-04-12,"nowcast",0,3,1,2,2,1.638
+"PB-João Pessoa",2020-04-13,"nowcast",0,3,0,1,1,1.645
+"PB-João Pessoa",2020-04-14,"nowcast",0,3,1,2,2,1.688
+"PB-João Pessoa",2020-04-15,"nowcast",0,3,1,2,2,1.715
+"PB-João Pessoa",2020-04-16,"nowcast",0,4,1,2,2,1.865
+"PB-João Pessoa",2020-04-17,"nowcast",0,4,1,2,2,1.864
+"PB-João Pessoa",2020-04-18,"nowcast",0,4,1,2,2,1.929
+"PB-João Pessoa",2020-04-19,"nowcast",0,4,1,2,2,2.05
+"PB-João Pessoa",2020-04-20,"nowcast",0,4,1,2,2,2.083
+"PB-João Pessoa",2020-04-21,"nowcast",0,4,1,2,2,2.212
+"PB-João Pessoa",2020-04-22,"nowcast",0,4,0,2,2,2.339
+"PB-João Pessoa",2020-04-23,"nowcast",0,4,0,2,2,2.474
+"PB-João Pessoa",2020-04-24,"nowcast",0,5,0,2,2,2.563
+"PB-João Pessoa",2020-04-25,"nowcast",0,5,1,3,3,2.62
+"PB-João Pessoa",2020-04-26,"nowcast",0,5,1,3,3,2.775
+"PB-João Pessoa",2020-04-27,"nowcast",0,5,1,3,3,2.887
+"PB-João Pessoa",2020-04-28,"nowcast",0,5,1,3,3,2.909
+"PB-João Pessoa",2020-04-29,"nowcast",0,5,1,3,3,2.971
+"PB-João Pessoa",2020-04-30,"nowcast",0,5,1,3,3,3.071
+"PB-João Pessoa",2020-05-01,"nowcast",0,5,1,3,3,3.068
+"PB-João Pessoa",2020-05-02,"nowcast",1,6,1,3,3,3.204
+"PB-João Pessoa",2020-05-03,"nowcast",1,6,1,3,3,3.273
+"PB-João Pessoa",2020-05-04,"nowcast",1,6,1,3,3,3.262
+"PB-João Pessoa",2020-05-05,"nowcast",1,6,1,3,3,3.408
+"PB-João Pessoa",2020-05-06,"nowcast",1,6,1,3,3,3.554
+"PB-João Pessoa",2020-05-07,"nowcast",1,6,2,4,4,3.746
+"PB-João Pessoa",2020-05-08,"nowcast",0,6,2,4,4,3.862
+"PB-João Pessoa",2020-05-09,"nowcast",0,6,2,4,4,3.96
+"PB-João Pessoa",2020-05-10,"nowcast",1,7,2,4,4,4.143
+"PB-João Pessoa",2020-05-11,"nowcast",1,7,3,5,4,4.249
+"PB-João Pessoa",2020-05-12,"nowcast",1,7,3,5,4,4.483
+"PB-João Pessoa",2020-05-13,"nowcast",1,7,3,5,4,4.533
+"PB-João Pessoa",2020-05-14,"nowcast",2,8,2,5,5,4.834
+"PB-João Pessoa",2020-05-15,"nowcast",1,8,4,6,5,5.007
+"PB-João Pessoa",2020-05-16,"nowcast",2,8,4,6,5,5.172
+"PB-João Pessoa",2020-05-17,"nowcast",1,8,4,6,5,5.474
+"PB-João Pessoa",2020-05-18,"nowcast",2,9,3,6,6,5.662
+"PB-João Pessoa",2020-05-19,"nowcast",2,9,3,6,6,5.823
+"PB-João Pessoa",2020-05-20,"nowcast",2,9,3,6,6,6.102
+"PB-João Pessoa",2020-05-21,"nowcast",3,10,3,6,6,6.251
+"PB-João Pessoa",2020-05-22,"nowcast",3,10,3,6,6,6.434
+"PB-João Pessoa",2020-05-23,"nowcast",2,10,4,7,6,6.618
+"PB-João Pessoa",2020-05-24,"nowcast",2,10,4,7,7,6.765
+"PB-João Pessoa",2020-05-25,"nowcast",2,10,4,7,7,6.753
+"PB-João Pessoa",2020-05-26,"nowcast",2,10,4,7,7,6.89
+"PB-João Pessoa",2020-05-27,"nowcast",2,10,4,7,7,6.969
+"PB-João Pessoa",2020-05-28,"nowcast",2,10,4,7,7,6.823
+"PB-João Pessoa",2020-05-29,"nowcast",3,11,4,7,7,7.171
+"PB-João Pessoa",2020-05-30,"nowcast",2,10,5,8,7,6.999
+"PB-João Pessoa",2020-05-31,"nowcast",3,11,4,7,7,7.057
+"PB-João Pessoa",2020-06-01,"nowcast",2,10,4,7,7,6.994
+"PB-João Pessoa",2020-06-02,"nowcast",2,10,4,7,7,6.824
+"PB-João Pessoa",2020-06-03,"nowcast",2,10,4,7,7,6.854
+"PB-João Pessoa",2020-06-04,"nowcast",2,10,4,7,7,6.917
+"PB-João Pessoa",2020-06-05,"nowcast",2,10,4,7,7,6.871
+"PB-João Pessoa",2020-06-06,"nowcast",3,11,4,7,7,7.071
+"PB-João Pessoa",2020-06-07,"nowcast",2,10,4,7,7,6.995
+"PB-João Pessoa",2020-06-08,"nowcast",3,11,4,7,7,7.105
+"PB-João Pessoa",2020-06-09,"nowcast",2,11,5,8,7,7.408
+"PB-João Pessoa",2020-06-10,"nowcast",3,11,4,7,7,7.243
+"PB-João Pessoa",2020-06-11,"nowcast",2,11,5,8,7,7.563
+"PB-João Pessoa",2020-06-12,"nowcast",4,12,5,8,8,7.697
+"PB-João Pessoa",2020-06-13,"nowcast",4,12,5,8,8,7.827
+"PB-João Pessoa",2020-06-14,"nowcast",4,12,6,9,8,8.135
 "PB-João Pessoa",2020-06-15,"nowcast",3,12,6,9,8,8.305
-"PB-João Pessoa",2020-06-16,"nowcast",3,12,6,9,9,8.597
-"PB-João Pessoa",2020-06-17,"nowcast",4,12,7,10,9,8.696
-"PB-João Pessoa",2020-06-18,"nowcast",4,13,6,9,9,8.808
-"PB-João Pessoa",2020-06-19,"nowcast",4,13,8,11,9,9.165
-"PB-João Pessoa",2020-06-20,"nowcast",5,14,5,9,9,9.158
-"PB-João Pessoa",2020-06-21,"nowcast",4,13,7,10,9,9.128
-"PB-João Pessoa",2020-06-22,"nowcast",5,14,6,10,9,9.417
-"PB-João Pessoa",2020-06-23,"nowcast",5,14,6,10,9,9.473
-"PB-João Pessoa",2020-06-24,"nowcast",5,14,8,11,10,9.586
-"PB-João Pessoa",2020-06-25,"nowcast",4,14,6,10,10,9.661
-"PB-João Pessoa",2020-06-26,"nowcast",5,14,6,10,10,9.644
-"PB-João Pessoa",2020-06-27,"nowcast",4,14,7,10,9,9.648
-"PB-João Pessoa",2020-06-28,"nowcast",5,14,6,10,10,9.861
-"PB-João Pessoa",2020-06-29,"nowcast",4,14,8,11,10,9.906
-"PB-João Pessoa",2020-06-30,"nowcast",4,14,6,10,10,10.005
-"PB-João Pessoa",2020-07-01,"nowcast",5,15,7,11,10,10.233
-"PB-João Pessoa",2020-07-02,"nowcast",6,16,7,11,10,10.49
-"PB-João Pessoa",2020-07-03,"nowcast",5,15,7,11,10,10.394
-"PB-João Pessoa",2020-07-04,"nowcast",5,15,7,11,11,10.687
-"PB-João Pessoa",2020-07-05,"nowcast",5,15,7,11,10,10.608
-"PB-João Pessoa",2020-07-06,"nowcast",4,14,7,11,10,10.308
-"PB-João Pessoa",2020-07-07,"nowcast",5,15,7,11,10,10.254
-"PB-João Pessoa",2020-07-08,"nowcast",5,14,6,10,10,10.072
-"PB-João Pessoa",2020-07-09,"nowcast",6,15,6,10,10,9.985
-"PB-João Pessoa",2020-07-10,"nowcast",4,14,6,10,10,10.099
-"PB-João Pessoa",2020-07-11,"nowcast",5,15,6,10,10,9.916
-"PB-João Pessoa",2020-07-12,"nowcast",4,14,6,10,10,9.983
-"PB-João Pessoa",2020-07-13,"nowcast",4,15,6,10,10,10.228
-"PB-João Pessoa",2020-07-14,"nowcast",4,15,7,11,10,10.498
-"PB-João Pessoa",2020-07-15,"nowcast",4,15,7,11,10,10.476
-"PB-João Pessoa",2020-07-16,"nowcast",5,16,7,11,10,10.834
-"PB-João Pessoa",2020-07-17,"nowcast",4,16,8,12,11,11.088
-"PB-João Pessoa",2020-07-18,"nowcast",5,17,6,11,11,11.242
-"PB-João Pessoa",2020-07-19,"nowcast",4,17,7,12,11,11.504
-"PB-João Pessoa",2020-07-20,"nowcast",4,17,7,12,11,11.727
-"PB-João Pessoa",2020-07-21,"nowcast",5,18,7,12,11,11.852
-"PB-João Pessoa",2020-07-22,"nowcast",3,18,8,13,11,12.127
+"PB-João Pessoa",2020-06-16,"nowcast",4,13,5,9,9,8.619
+"PB-João Pessoa",2020-06-17,"nowcast",4,13,7,10,9,8.752
+"PB-João Pessoa",2020-06-18,"nowcast",4,13,6,9,9,8.883
+"PB-João Pessoa",2020-06-19,"nowcast",4,13,7,10,9,9.136
+"PB-João Pessoa",2020-06-20,"nowcast",5,14,7,10,9,9.248
+"PB-João Pessoa",2020-06-21,"nowcast",4,14,6,10,9,9.378
+"PB-João Pessoa",2020-06-22,"nowcast",5,14,6,10,9,9.44
+"PB-João Pessoa",2020-06-23,"nowcast",5,14,6,10,9,9.463
+"PB-João Pessoa",2020-06-24,"nowcast",5,14,8,11,9,9.528
+"PB-João Pessoa",2020-06-25,"nowcast",5,14,6,10,10,9.752
+"PB-João Pessoa",2020-06-26,"nowcast",3,13,6,10,9,9.516
+"PB-João Pessoa",2020-06-27,"nowcast",5,14,6,10,10,9.68
+"PB-João Pessoa",2020-06-28,"nowcast",4,14,6,10,10,9.707
+"PB-João Pessoa",2020-06-29,"nowcast",5,14,6,10,10,9.79
+"PB-João Pessoa",2020-06-30,"nowcast",4,14,6,10,10,9.992
+"PB-João Pessoa",2020-07-01,"nowcast",4,14,6,10,10,10.136
+"PB-João Pessoa",2020-07-02,"nowcast",5,15,7,11,10,10.406
+"PB-João Pessoa",2020-07-03,"nowcast",5,15,7,11,10,10.417
+"PB-João Pessoa",2020-07-04,"nowcast",5,15,7,11,10,10.509
+"PB-João Pessoa",2020-07-05,"nowcast",5,15,7,11,10,10.37
+"PB-João Pessoa",2020-07-06,"nowcast",4,14,7,11,10,10.2
+"PB-João Pessoa",2020-07-07,"nowcast",5,15,6,10,10,10.135
+"PB-João Pessoa",2020-07-08,"nowcast",4,14,6,10,10,10.009
+"PB-João Pessoa",2020-07-09,"nowcast",4,14,8,11,10,9.904
+"PB-João Pessoa",2020-07-10,"nowcast",4,14,6,10,10,9.9
+"PB-João Pessoa",2020-07-11,"nowcast",4,14,6,10,10,9.87
+"PB-João Pessoa",2020-07-12,"nowcast",4,14,6,10,10,9.811
+"PB-João Pessoa",2020-07-13,"nowcast",5,15,6,10,10,9.803
+"PB-João Pessoa",2020-07-14,"nowcast",5,15,6,10,10,10.008
+"PB-João Pessoa",2020-07-15,"nowcast",4,15,7,11,10,10.364
+"PB-João Pessoa",2020-07-16,"nowcast",4,15,7,11,10,10.516
+"PB-João Pessoa",2020-07-17,"nowcast",5,16,7,11,10,10.472
+"PB-João Pessoa",2020-07-18,"nowcast",5,16,8,12,11,10.78
+"PB-João Pessoa",2020-07-19,"nowcast",4,16,7,11,10,10.714
+"PB-João Pessoa",2020-07-20,"nowcast",5,17,6,11,10,10.849
+"PB-João Pessoa",2020-07-21,"nowcast",5,17,6,11,11,11.092
+"PB-João Pessoa",2020-07-22,"nowcast",3,17,7,12,11,11.339
+"PB-João Pessoa",2020-07-23,"nowcast",5,19,7,12,11,11.645
 "PB-João Pessoa",2020-03-18,"observed",NA,NA,NA,NA,0,NA
 "PB-João Pessoa",2020-03-19,"observed",NA,NA,NA,NA,0,NA
 "PB-João Pessoa",2020-03-20,"observed",NA,NA,NA,NA,0,NA
@@ -1497,21 +1501,22 @@
 "PB-João Pessoa",2020-08-03,"observed",NA,NA,NA,NA,4,NA
 "PB-João Pessoa",2020-08-04,"observed",NA,NA,NA,NA,10,NA
 "PB-João Pessoa",2020-08-05,"observed",NA,NA,NA,NA,5,NA
-"PB-João Pessoa",2020-08-06,"observed",NA,NA,NA,NA,0,NA
-"PB-João Pessoa",2020-07-23,"forecast",2,21,6,13,12,12.704
-"PB-João Pessoa",2020-07-24,"forecast",3,23,5,13,12,13.04
-"PB-João Pessoa",2020-07-25,"forecast",2,24,5,13,12,13.4534
-"PB-João Pessoa",2020-07-26,"forecast",0,25,4,13,12,14.0068
-"PB-João Pessoa",2020-07-27,"forecast",0,26,5,14,12,14.2588
-"PB-João Pessoa",2020-07-28,"forecast",0,28,3,13,12,15.1216
-"PB-João Pessoa",2020-07-29,"forecast",0,30,4,14,12,15.3748
-"PB-João Pessoa",2020-07-30,"forecast",0,32,2,13,12,16.2944
-"PB-João Pessoa",2020-07-31,"forecast",0,34,3,14,12,17.1708
-"PB-João Pessoa",2020-08-01,"forecast",0,34,1,13,13,17.67
-"PB-João Pessoa",2020-08-02,"forecast",0,37,1,13,13,18.7344
-"PB-João Pessoa",2020-08-03,"forecast",0,39,3,15,13,19.5354
-"PB-João Pessoa",2020-08-04,"forecast",0,42,0,13,13,21.5436
-"PB-João Pessoa",2020-08-05,"forecast",0,44,0,13,13,22.062
+"PB-João Pessoa",2020-08-06,"observed",NA,NA,NA,NA,7,NA
+"PB-João Pessoa",2020-08-07,"observed",NA,NA,NA,NA,0,NA
+"PB-João Pessoa",2020-07-24,"forecast",1,20,5,12,11,12.1582
+"PB-João Pessoa",2020-07-25,"forecast",2,22,6,13,11,12.5124
+"PB-João Pessoa",2020-07-26,"forecast",1,23,4,12,11,12.7516
+"PB-João Pessoa",2020-07-27,"forecast",1,25,3,12,11,13.294
+"PB-João Pessoa",2020-07-28,"forecast",0,26,4,13,12,13.6632
+"PB-João Pessoa",2020-07-29,"forecast",0,27,2,12,12,14.1972
+"PB-João Pessoa",2020-07-30,"forecast",0,29,2,12,12,14.7046
+"PB-João Pessoa",2020-07-31,"forecast",0,32,1,12,12,15.549
+"PB-João Pessoa",2020-08-01,"forecast",0,32,2,13,12,16.01
+"PB-João Pessoa",2020-08-02,"forecast",0,35,2,13,12,16.8906
+"PB-João Pessoa",2020-08-03,"forecast",0,36,0,12,12,17.6506
+"PB-João Pessoa",2020-08-04,"forecast",0,38,0,12,12,18.5794
+"PB-João Pessoa",2020-08-05,"forecast",0,41,0,12,12,19.724
+"PB-João Pessoa",2020-08-06,"forecast",0,43,0,12,12,20.9618
 "PE-Jaboatão dos Guararapes",2020-02-12,"nowcast",1,1,1,1,1,1
 "PE-Jaboatão dos Guararapes",2020-02-13,"nowcast",0,1,0,1,0.5,0.5
 "PE-Jaboatão dos Guararapes",2020-02-14,"nowcast",0,1,0,1,0.5,0.5
@@ -2381,180 +2386,177 @@
 "PE-Recife",2020-07-18,"forecast",0,55,0,16,16,28.9508
 "PE-Recife",2020-07-19,"forecast",0,58,3,18,16,32.2256
 "PE-Recife",2020-07-20,"forecast",0,64,0,16,16,36.9316
-"PI-Teresina",2020-01-31,"nowcast",1,1,1,1,1,1
-"PI-Teresina",2020-02-01,"nowcast",0,0,0,0,0,0
-"PI-Teresina",2020-02-02,"nowcast",0,0,0,0,0,0
-"PI-Teresina",2020-02-03,"nowcast",0,0,0,0,0,0
-"PI-Teresina",2020-02-04,"nowcast",0,0,0,0,0,0
-"PI-Teresina",2020-02-05,"nowcast",0,0,0,0,0,0
-"PI-Teresina",2020-02-06,"nowcast",0,1,0,1,0.5,0.5
-"PI-Teresina",2020-02-07,"nowcast",0,0,0,0,0,0
-"PI-Teresina",2020-02-08,"nowcast",0,0,0,0,0,0
-"PI-Teresina",2020-02-09,"nowcast",0,1,0,0,0,0.333333333333333
-"PI-Teresina",2020-02-10,"nowcast",0,1,0,0,0,0.4
-"PI-Teresina",2020-02-11,"nowcast",0,1,0,0,0,0.444444444444444
-"PI-Teresina",2020-02-12,"nowcast",0,1,0,0,0,0.2
-"PI-Teresina",2020-02-13,"nowcast",0,1,0,0,0,0.181818181818182
-"PI-Teresina",2020-02-14,"nowcast",0,1,0,0,0,0.214285714285714
-"PI-Teresina",2020-02-15,"nowcast",0,1,0,0,0,0.176470588235294
-"PI-Teresina",2020-02-16,"nowcast",0,1,0,0,0,0.238095238095238
-"PI-Teresina",2020-02-17,"nowcast",0,1,0,0,0,0.307692307692308
-"PI-Teresina",2020-02-18,"nowcast",0,1,0,0,0,0.21875
-"PI-Teresina",2020-02-19,"nowcast",0,1,0,0,0,0.111111111111111
-"PI-Teresina",2020-02-20,"nowcast",0,1,0,0,0,0.204545454545455
-"PI-Teresina",2020-02-21,"nowcast",0,1,0,0,0,0.26
-"PI-Teresina",2020-02-22,"nowcast",0,1,0,0,0,0.12962962962963
-"PI-Teresina",2020-02-23,"nowcast",0,1,0,0,0,0.294117647058824
-"PI-Teresina",2020-02-24,"nowcast",0,1,0,0,0,0.284090909090909
-"PI-Teresina",2020-02-25,"nowcast",0,1,0,0,0,0.213592233009709
-"PI-Teresina",2020-02-26,"nowcast",0,1,0,0,0,0.146788990825688
-"PI-Teresina",2020-02-27,"nowcast",0,1,0,0,0,0.220472440944882
-"PI-Teresina",2020-02-28,"nowcast",0,1,0,0,0,0.194444444444444
-"PI-Teresina",2020-02-29,"nowcast",0,1,0,0,0,0.167701863354037
-"PI-Teresina",2020-03-01,"nowcast",0,1,0,0,0,0.219895287958115
-"PI-Teresina",2020-03-02,"nowcast",0,1,0,0,0,0.218604651162791
-"PI-Teresina",2020-03-03,"nowcast",0,1,0,0,0,0.195833333333333
-"PI-Teresina",2020-03-04,"nowcast",0,1,0,0,0,0.20532319391635
-"PI-Teresina",2020-03-05,"nowcast",0,1,0,0,0,0.204013377926421
-"PI-Teresina",2020-03-06,"nowcast",0,1,0,0,0,0.180981595092025
-"PI-Teresina",2020-03-07,"nowcast",0,1,0,0,0,0.206611570247934
-"PI-Teresina",2020-03-08,"nowcast",0,1,0,0,0,0.227602905569007
-"PI-Teresina",2020-03-09,"nowcast",0,1,0,0,0,0.182628062360802
-"PI-Teresina",2020-03-10,"nowcast",0,1,0,0,0,0.219066937119675
-"PI-Teresina",2020-03-11,"nowcast",0,1,0,0,0,0.220149253731343
-"PI-Teresina",2020-03-12,"nowcast",0,1,0,0,0,0.246644295302013
-"PI-Teresina",2020-03-13,"nowcast",0,1,0,0,0,0.2328125
-"PI-Teresina",2020-03-14,"nowcast",0,1,0,0,0,0.248175182481752
-"PI-Teresina",2020-03-15,"nowcast",0,1,0,0,0,0.243055555555556
-"PI-Teresina",2020-03-16,"nowcast",0,1,0,0,0,0.2734375
-"PI-Teresina",2020-03-17,"nowcast",0,1,0,0,0,0.289570552147239
-"PI-Teresina",2020-03-18,"nowcast",0,1,0,0,0,0.253239104829211
-"PI-Teresina",2020-03-19,"nowcast",0,1,0,0,0,0.281179138321995
-"PI-Teresina",2020-03-20,"nowcast",0,1,0,0,0,0.310989010989011
-"PI-Teresina",2020-03-21,"nowcast",0,1,0,0,0,0.266953713670614
-"PI-Teresina",2020-03-22,"nowcast",0,1,0,0,0,0.315733896515312
-"PI-Teresina",2020-03-23,"nowcast",0,1,0,0,0,0.339248434237996
-"PI-Teresina",2020-03-24,"nowcast",0,1,0,0,0,0.320288362512873
-"PI-Teresina",2020-03-25,"nowcast",0,1,0,0,0,0.286442405708461
-"PI-Teresina",2020-03-26,"nowcast",0,1,0,0,0,0.304878048780488
-"PI-Teresina",2020-03-27,"nowcast",0,1,0,0,0,0.314083080040527
-"PI-Teresina",2020-03-28,"nowcast",0,1,0,0,0,0.300303336703741
-"PI-Teresina",2020-03-29,"nowcast",0,1,0,0,0,0.331987891019173
-"PI-Teresina",2020-03-30,"nowcast",0,1,0,0,0,0.349094567404427
-"PI-Teresina",2020-03-31,"nowcast",0,1,0,0,0,0.340361445783133
-"PI-Teresina",2020-04-01,"nowcast",0,1,0,0,0,0.346038114343029
-"PI-Teresina",2020-04-02,"nowcast",0,1,0,0,0,0.357715430861723
-"PI-Teresina",2020-04-03,"nowcast",0,1,0,0,0,0.4004004004004
-"PI-Teresina",2020-04-04,"nowcast",0,1,0,0,0,0.42042042042042
-"PI-Teresina",2020-04-05,"nowcast",0,1,0,0,0,0.458458458458458
-"PI-Teresina",2020-04-06,"nowcast",0,1,0,0,0,0.427427427427427
-"PI-Teresina",2020-04-07,"nowcast",0,1,0,0,0,0.468468468468468
-"PI-Teresina",2020-04-08,"nowcast",0,2,0,0,0,0.547547547547548
-"PI-Teresina",2020-04-09,"nowcast",0,2,0,0,0,0.624624624624625
-"PI-Teresina",2020-04-10,"nowcast",0,2,0,0,0,0.611611611611612
-"PI-Teresina",2020-04-11,"nowcast",0,2,0,0,0,0.701
-"PI-Teresina",2020-04-12,"nowcast",0,2,0,1,1,0.736
-"PI-Teresina",2020-04-13,"nowcast",0,2,0,1,1,0.843
-"PI-Teresina",2020-04-14,"nowcast",0,2,0,1,1,0.864
-"PI-Teresina",2020-04-15,"nowcast",0,2,0,1,1,1.009
-"PI-Teresina",2020-04-16,"nowcast",0,2,0,1,1,1.009
-"PI-Teresina",2020-04-17,"nowcast",0,3,0,1,1,1.123
-"PI-Teresina",2020-04-18,"nowcast",0,3,0,1,1,1.15
-"PI-Teresina",2020-04-19,"nowcast",0,3,0,1,1,1.188
-"PI-Teresina",2020-04-20,"nowcast",0,3,0,1,1,1.286
-"PI-Teresina",2020-04-21,"nowcast",0,3,0,1,1,1.45
-"PI-Teresina",2020-04-22,"nowcast",0,3,0,1,1,1.468
-"PI-Teresina",2020-04-23,"nowcast",0,3,0,1,1,1.562
-"PI-Teresina",2020-04-24,"nowcast",0,3,1,2,2,1.673
-"PI-Teresina",2020-04-25,"nowcast",0,4,1,2,2,1.779
-"PI-Teresina",2020-04-26,"nowcast",0,4,1,2,2,1.947
-"PI-Teresina",2020-04-27,"nowcast",0,4,1,2,2,2.03
-"PI-Teresina",2020-04-28,"nowcast",0,4,1,2,2,2.224
-"PI-Teresina",2020-04-29,"nowcast",0,4,0,2,2,2.312
-"PI-Teresina",2020-04-30,"nowcast",0,5,0,2,2,2.555
-"PI-Teresina",2020-05-01,"nowcast",0,5,1,3,3,2.703
-"PI-Teresina",2020-05-02,"nowcast",0,5,1,3,3,2.856
-"PI-Teresina",2020-05-03,"nowcast",0,5,1,3,3,2.898
-"PI-Teresina",2020-05-04,"nowcast",1,6,1,3,3,3.145
-"PI-Teresina",2020-05-05,"nowcast",1,6,1,3,3,3.321
-"PI-Teresina",2020-05-06,"nowcast",0,6,2,4,3,3.542
-"PI-Teresina",2020-05-07,"nowcast",1,7,2,4,4,3.875
-"PI-Teresina",2020-05-08,"nowcast",1,7,2,4,4,3.963
-"PI-Teresina",2020-05-09,"nowcast",1,7,2,4,4,4.108
-"PI-Teresina",2020-05-10,"nowcast",1,7,3,5,4,4.428
-"PI-Teresina",2020-05-11,"nowcast",1,8,3,5,4,4.533
-"PI-Teresina",2020-05-12,"nowcast",1,8,3,5,5,4.877
-"PI-Teresina",2020-05-13,"nowcast",1,8,2,5,5,5.154
-"PI-Teresina",2020-05-14,"nowcast",2,9,2,5,5,5.389
-"PI-Teresina",2020-05-15,"nowcast",2,9,3,6,5,5.652
-"PI-Teresina",2020-05-16,"nowcast",2,9,3,6,6,5.919
-"PI-Teresina",2020-05-17,"nowcast",3,10,3,6,6,6.289
-"PI-Teresina",2020-05-18,"nowcast",2,10,4,7,6,6.47
-"PI-Teresina",2020-05-19,"nowcast",2,10,4,7,7,6.716
-"PI-Teresina",2020-05-20,"nowcast",3,11,4,7,7,7.054
-"PI-Teresina",2020-05-21,"nowcast",3,11,5,8,7,7.456
-"PI-Teresina",2020-05-22,"nowcast",3,11,5,8,7,7.589
-"PI-Teresina",2020-05-23,"nowcast",3,12,5,8,8,7.928
-"PI-Teresina",2020-05-24,"nowcast",4,12,6,9,8,8.029
-"PI-Teresina",2020-05-25,"nowcast",3,12,6,9,8,8.457
-"PI-Teresina",2020-05-26,"nowcast",4,13,6,9,9,8.762
-"PI-Teresina",2020-05-27,"nowcast",5,14,5,9,9,9.112
-"PI-Teresina",2020-05-28,"nowcast",4,13,5,9,9,9.261
-"PI-Teresina",2020-05-29,"nowcast",5,14,6,10,10,9.672
-"PI-Teresina",2020-05-30,"nowcast",4,14,6,10,10,9.875
-"PI-Teresina",2020-05-31,"nowcast",5,15,6,10,10,10.281
-"PI-Teresina",2020-06-01,"nowcast",6,15,7,11,10,10.475
-"PI-Teresina",2020-06-02,"nowcast",5,15,7,11,10,10.479
-"PI-Teresina",2020-06-03,"nowcast",5,15,7,11,10,10.596
-"PI-Teresina",2020-06-04,"nowcast",6,16,7,11,11,10.909
-"PI-Teresina",2020-06-05,"nowcast",6,16,7,11,11,10.949
-"PI-Teresina",2020-06-06,"nowcast",6,16,8,12,11,11.076
-"PI-Teresina",2020-06-07,"nowcast",6,16,7,11,11,11.242
-"PI-Teresina",2020-06-08,"nowcast",6,16,8,12,11,11.12
-"PI-Teresina",2020-06-09,"nowcast",6,16,8,12,11,11.332
-"PI-Teresina",2020-06-10,"nowcast",5,16,8,12,11,11.316
-"PI-Teresina",2020-06-11,"nowcast",6,16,8,12,11,11.414
-"PI-Teresina",2020-06-12,"nowcast",6,16,9,13,11.5,11.618
-"PI-Teresina",2020-06-13,"nowcast",7,17,8,12,12,11.774
-"PI-Teresina",2020-06-14,"nowcast",7,17,8,12,12,11.669
-"PI-Teresina",2020-06-15,"nowcast",5,16,9,13,12,11.714
-"PI-Teresina",2020-06-16,"nowcast",6,16,8,12,12,11.878
-"PI-Teresina",2020-06-17,"nowcast",7,17,9,13,12,11.873
-"PI-Teresina",2020-06-18,"nowcast",6,17,9,13,12,12.032
-"PI-Teresina",2020-06-19,"nowcast",7,17,9,13,12,12.134
-"PI-Teresina",2020-06-20,"nowcast",6,16,8,12,12,11.974
-"PI-Teresina",2020-06-21,"nowcast",6,17,8,12,12,11.888
-"PI-Teresina",2020-06-22,"nowcast",6,17,9,13,12,11.956
-"PI-Teresina",2020-06-23,"nowcast",6,17,8,12,12,11.766
-"PI-Teresina",2020-06-24,"nowcast",5,16,8,12,11.5,11.613
-"PI-Teresina",2020-06-25,"nowcast",6,16,8,12,11,11.524
-"PI-Teresina",2020-06-26,"nowcast",6,16,8,12,11,11.268
-"PI-Teresina",2020-06-27,"nowcast",6,16,7,11,11,11.039
-"PI-Teresina",2020-06-28,"nowcast",6,15,7,11,11,10.872
-"PI-Teresina",2020-06-29,"nowcast",5,15,7,11,10,10.561
-"PI-Teresina",2020-06-30,"nowcast",4,14,7,11,10,10.284
-"PI-Teresina",2020-07-01,"nowcast",4,14,6,10,10,10.204
-"PI-Teresina",2020-07-02,"nowcast",5,14,6,10,10,9.974
-"PI-Teresina",2020-07-03,"nowcast",4,14,7,11,10,10.002
-"PI-Teresina",2020-07-04,"nowcast",4,14,6,10,10,9.998
-"PI-Teresina",2020-07-05,"nowcast",4,14,6,10,10,9.971
-"PI-Teresina",2020-07-06,"nowcast",5,14,6,10,10,9.873
-"PI-Teresina",2020-07-07,"nowcast",4,14,8,11,10,9.957
-"PI-Teresina",2020-07-08,"nowcast",4,14,8,11,10,9.789
-"PI-Teresina",2020-07-09,"nowcast",4,14,8,11,9,9.582
-"PI-Teresina",2020-07-10,"nowcast",4,14,6,10,10,9.825
-"PI-Teresina",2020-07-11,"nowcast",4,14,6,10,10,9.739
-"PI-Teresina",2020-07-12,"nowcast",4,14,6,10,9,9.663
-"PI-Teresina",2020-07-13,"nowcast",4,14,6,10,9,9.571
-"PI-Teresina",2020-07-14,"nowcast",3,14,6,10,9,9.773
-"PI-Teresina",2020-07-15,"nowcast",4,15,6,10,10,9.971
-"PI-Teresina",2020-07-16,"nowcast",4,15,6,10,10,10.054
-"PI-Teresina",2020-07-17,"nowcast",4,16,5,10,10,10.461
-"PI-Teresina",2020-07-18,"nowcast",5,16,6,11,10,10.759
-"PI-Teresina",2020-07-19,"nowcast",4,17,6,11,10,10.986
-"PI-Teresina",2020-07-20,"nowcast",4,17,8,12,11,11.178
-"PI-Teresina",2020-07-21,"nowcast",4,18,8,13,11,11.94
-"PI-Teresina",2020-07-22,"nowcast",5,20,9,14,12,12.282
+"PI-Teresina",2020-02-04,"nowcast",1,1,1,1,1,1
+"PI-Teresina",2020-02-05,"nowcast",0,1,0,1,0.5,0.5
+"PI-Teresina",2020-02-06,"nowcast",0,1,0,0,0,0.333333333333333
+"PI-Teresina",2020-02-07,"nowcast",0,1,0,0,0,0.4
+"PI-Teresina",2020-02-08,"nowcast",0,1,0,0,0,0.166666666666667
+"PI-Teresina",2020-02-09,"nowcast",0,1,0,0,0,0.166666666666667
+"PI-Teresina",2020-02-10,"nowcast",0,0,0,0,0,0
+"PI-Teresina",2020-02-11,"nowcast",0,1,0,1,0.5,0.5
+"PI-Teresina",2020-02-12,"nowcast",0,0,0,0,0,0.0833333333333333
+"PI-Teresina",2020-02-13,"nowcast",0,1,0,0,0,0.214285714285714
+"PI-Teresina",2020-02-14,"nowcast",0,1,0,0,0,0.1875
+"PI-Teresina",2020-02-15,"nowcast",0,1,0,0,0,0.222222222222222
+"PI-Teresina",2020-02-16,"nowcast",0,1,0,0,0,0.260869565217391
+"PI-Teresina",2020-02-17,"nowcast",0,1,0,0,0,0.233333333333333
+"PI-Teresina",2020-02-18,"nowcast",0,1,0,0,0,0.151515151515152
+"PI-Teresina",2020-02-19,"nowcast",0,1,0,0,0,0.216216216216216
+"PI-Teresina",2020-02-20,"nowcast",0,1,0,0,0,0.15
+"PI-Teresina",2020-02-21,"nowcast",0,1,0,0,0,0.148936170212766
+"PI-Teresina",2020-02-22,"nowcast",0,1,0,0,0,0.185185185185185
+"PI-Teresina",2020-02-23,"nowcast",0,1,0,0,0,0.120689655172414
+"PI-Teresina",2020-02-24,"nowcast",0,1,0,0,0,0.2
+"PI-Teresina",2020-02-25,"nowcast",0,1,0,0,0,0.261363636363636
+"PI-Teresina",2020-02-26,"nowcast",0,1,0,0,0,0.186274509803922
+"PI-Teresina",2020-02-27,"nowcast",0,1,0,0,0,0.221311475409836
+"PI-Teresina",2020-02-28,"nowcast",0,1,0,0,0,0.176056338028169
+"PI-Teresina",2020-02-29,"nowcast",0,1,0,0,0,0.233532934131737
+"PI-Teresina",2020-03-01,"nowcast",0,1,0,0,0,0.202072538860104
+"PI-Teresina",2020-03-02,"nowcast",0,1,0,0,0,0.15962441314554
+"PI-Teresina",2020-03-03,"nowcast",0,1,0,0,0,0.201646090534979
+"PI-Teresina",2020-03-04,"nowcast",0,1,0,0,0,0.18978102189781
+"PI-Teresina",2020-03-05,"nowcast",0,1,0,0,0,0.203333333333333
+"PI-Teresina",2020-03-06,"nowcast",0,1,0,0,0,0.184848484848485
+"PI-Teresina",2020-03-07,"nowcast",0,1,0,0,0,0.232189973614776
+"PI-Teresina",2020-03-08,"nowcast",0,1,0,0,0,0.20952380952381
+"PI-Teresina",2020-03-09,"nowcast",0,1,0,0,0,0.191208791208791
+"PI-Teresina",2020-03-10,"nowcast",0,1,0,0,0,0.212981744421907
+"PI-Teresina",2020-03-11,"nowcast",0,1,0,0,0,0.194495412844037
+"PI-Teresina",2020-03-12,"nowcast",0,1,0,0,0,0.243781094527363
+"PI-Teresina",2020-03-13,"nowcast",0,1,0,0,0,0.203703703703704
+"PI-Teresina",2020-03-14,"nowcast",0,1,0,0,0,0.225108225108225
+"PI-Teresina",2020-03-15,"nowcast",0,1,0,0,0,0.236588720770289
+"PI-Teresina",2020-03-16,"nowcast",0,1,0,0,0,0.246753246753247
+"PI-Teresina",2020-03-17,"nowcast",0,1,0,0,0,0.242274412855377
+"PI-Teresina",2020-03-18,"nowcast",0,1,0,0,0,0.257756563245823
+"PI-Teresina",2020-03-19,"nowcast",0,1,0,0,0,0.243986254295533
+"PI-Teresina",2020-03-20,"nowcast",0,1,0,0,0,0.277348066298343
+"PI-Teresina",2020-03-21,"nowcast",0,1,0,0,0,0.289558665231432
+"PI-Teresina",2020-03-22,"nowcast",0,1,0,0,0,0.307610993657505
+"PI-Teresina",2020-03-23,"nowcast",0,1,0,0,0,0.29149377593361
+"PI-Teresina",2020-03-24,"nowcast",0,1,0,0,0,0.290853031860226
+"PI-Teresina",2020-03-25,"nowcast",0,1,0,0,0,0.317671092951992
+"PI-Teresina",2020-03-26,"nowcast",0,1,0,0,0,0.28469387755102
+"PI-Teresina",2020-03-27,"nowcast",0,1,0,0,0,0.284842319430315
+"PI-Teresina",2020-03-28,"nowcast",0,1,0,0,0,0.315096251266464
+"PI-Teresina",2020-03-29,"nowcast",0,1,0,0,0,0.334343434343434
+"PI-Teresina",2020-03-30,"nowcast",0,1,0,0,0,0.355846774193548
+"PI-Teresina",2020-03-31,"nowcast",0,1,0,0,0,0.384692849949648
+"PI-Teresina",2020-04-01,"nowcast",0,1,0,0,0,0.381909547738693
+"PI-Teresina",2020-04-02,"nowcast",0,1,0,0,0,0.401005025125628
+"PI-Teresina",2020-04-03,"nowcast",0,1,0,0,0,0.384152457372116
+"PI-Teresina",2020-04-04,"nowcast",0,1,0,0,0,0.413827655310621
+"PI-Teresina",2020-04-05,"nowcast",0,1,0,0,0,0.446446446446446
+"PI-Teresina",2020-04-06,"nowcast",0,1,0,0,0,0.485485485485485
+"PI-Teresina",2020-04-07,"nowcast",0,1,0,0,0,0.525
+"PI-Teresina",2020-04-08,"nowcast",0,1,0,0,0,0.534
+"PI-Teresina",2020-04-09,"nowcast",0,2,0,0,0,0.584
+"PI-Teresina",2020-04-10,"nowcast",0,2,0,0,0,0.664
+"PI-Teresina",2020-04-11,"nowcast",0,2,0,1,1,0.71
+"PI-Teresina",2020-04-12,"nowcast",0,2,0,1,1,0.76
+"PI-Teresina",2020-04-13,"nowcast",0,2,0,1,1,0.782
+"PI-Teresina",2020-04-14,"nowcast",0,2,0,1,1,0.794
+"PI-Teresina",2020-04-15,"nowcast",0,2,0,1,1,0.923
+"PI-Teresina",2020-04-16,"nowcast",0,2,0,1,1,0.933
+"PI-Teresina",2020-04-17,"nowcast",0,2,0,1,1,0.992
+"PI-Teresina",2020-04-18,"nowcast",0,3,0,1,1,1.096
+"PI-Teresina",2020-04-19,"nowcast",0,2,0,1,1,1.13
+"PI-Teresina",2020-04-20,"nowcast",0,3,0,1,1,1.295
+"PI-Teresina",2020-04-21,"nowcast",0,3,0,1,1,1.427
+"PI-Teresina",2020-04-22,"nowcast",0,3,0,1,1,1.439
+"PI-Teresina",2020-04-23,"nowcast",0,3,0,1,1,1.594
+"PI-Teresina",2020-04-24,"nowcast",0,3,1,2,2,1.72
+"PI-Teresina",2020-04-25,"nowcast",0,4,1,2,2,1.794
+"PI-Teresina",2020-04-26,"nowcast",0,4,1,2,2,1.919
+"PI-Teresina",2020-04-27,"nowcast",0,4,1,2,2,2.032
+"PI-Teresina",2020-04-28,"nowcast",0,4,0,2,2,2.296
+"PI-Teresina",2020-04-29,"nowcast",0,4,0,2,2,2.299
+"PI-Teresina",2020-04-30,"nowcast",0,5,0,2,2,2.563
+"PI-Teresina",2020-05-01,"nowcast",0,5,0,2,2,2.536
+"PI-Teresina",2020-05-02,"nowcast",0,5,1,3,3,2.678
+"PI-Teresina",2020-05-03,"nowcast",0,5,1,3,3,2.906
+"PI-Teresina",2020-05-04,"nowcast",0,6,1,3,3,3.136
+"PI-Teresina",2020-05-05,"nowcast",1,6,1,3,3,3.349
+"PI-Teresina",2020-05-06,"nowcast",1,6,2,4,3,3.618
+"PI-Teresina",2020-05-07,"nowcast",0,6,2,4,4,3.75
+"PI-Teresina",2020-05-08,"nowcast",1,7,2,4,4,4.057
+"PI-Teresina",2020-05-09,"nowcast",1,7,3,5,4,4.237
+"PI-Teresina",2020-05-10,"nowcast",1,7,3,5,4,4.425
+"PI-Teresina",2020-05-11,"nowcast",2,8,3,5,5,4.708
+"PI-Teresina",2020-05-12,"nowcast",1,8,3,5,5,4.78
+"PI-Teresina",2020-05-13,"nowcast",1,8,4,6,5,5.16
+"PI-Teresina",2020-05-14,"nowcast",2,9,4,6,5,5.349
+"PI-Teresina",2020-05-15,"nowcast",2,9,3,6,5,5.514
+"PI-Teresina",2020-05-16,"nowcast",3,10,3,6,6,6.004
+"PI-Teresina",2020-05-17,"nowcast",2,10,4,7,6,6.371
+"PI-Teresina",2020-05-18,"nowcast",2,10,4,7,6,6.509
+"PI-Teresina",2020-05-19,"nowcast",2,10,4,7,7,6.838
+"PI-Teresina",2020-05-20,"nowcast",3,11,5,8,7,7.084
+"PI-Teresina",2020-05-21,"nowcast",3,11,4,7,7,7.408
+"PI-Teresina",2020-05-22,"nowcast",3,11,5,8,8,7.61
+"PI-Teresina",2020-05-23,"nowcast",3,12,5,8,8,7.816
+"PI-Teresina",2020-05-24,"nowcast",3,12,6,9,8,8.01
+"PI-Teresina",2020-05-25,"nowcast",3,12,5,9,8,8.574
+"PI-Teresina",2020-05-26,"nowcast",4,13,6,9,9,8.707
+"PI-Teresina",2020-05-27,"nowcast",4,13,7,10,9,8.907
+"PI-Teresina",2020-05-28,"nowcast",4,13,7,10,9,9.28
+"PI-Teresina",2020-05-29,"nowcast",4,14,6,10,9,9.682
+"PI-Teresina",2020-05-30,"nowcast",5,15,7,11,10,9.977
+"PI-Teresina",2020-05-31,"nowcast",4,14,7,11,10,10.148
+"PI-Teresina",2020-06-01,"nowcast",5,15,7,11,10,10.342
+"PI-Teresina",2020-06-02,"nowcast",5,15,7,11,11,10.676
+"PI-Teresina",2020-06-03,"nowcast",5,15,7,11,11,10.731
+"PI-Teresina",2020-06-04,"nowcast",6,16,7,11,11,11.063
+"PI-Teresina",2020-06-05,"nowcast",5,16,8,12,11,11.083
+"PI-Teresina",2020-06-06,"nowcast",6,16,7,11,11,11.189
+"PI-Teresina",2020-06-07,"nowcast",6,16,8,12,11,11.42
+"PI-Teresina",2020-06-08,"nowcast",5,16,8,12,11,11.36
+"PI-Teresina",2020-06-09,"nowcast",6,16,8,12,11,11.304
+"PI-Teresina",2020-06-10,"nowcast",7,17,8,12,11,11.543
+"PI-Teresina",2020-06-11,"nowcast",6,16,8,12,12,11.526
+"PI-Teresina",2020-06-12,"nowcast",6,16,9,13,11,11.611
+"PI-Teresina",2020-06-13,"nowcast",7,17,9,13,12,11.762
+"PI-Teresina",2020-06-14,"nowcast",5,16,8,12,11,11.643
+"PI-Teresina",2020-06-15,"nowcast",6,17,8,12,12,11.889
+"PI-Teresina",2020-06-16,"nowcast",7,17,9,13,12,11.827
+"PI-Teresina",2020-06-17,"nowcast",7,17,8,12,12,11.63
+"PI-Teresina",2020-06-18,"nowcast",7,17,8,12,12,11.998
+"PI-Teresina",2020-06-19,"nowcast",6,17,9,13,12,12.032
+"PI-Teresina",2020-06-20,"nowcast",6,17,9,13,12,11.972
+"PI-Teresina",2020-06-21,"nowcast",5,16,9,13,12,11.901
+"PI-Teresina",2020-06-22,"nowcast",5,16,8,12,12,11.855
+"PI-Teresina",2020-06-23,"nowcast",5,16,8,12,12,11.853
+"PI-Teresina",2020-06-24,"nowcast",5,16,9,13,12,11.603
+"PI-Teresina",2020-06-25,"nowcast",5,16,8,12,11,11.533
+"PI-Teresina",2020-06-26,"nowcast",6,16,8,12,11,11.288
+"PI-Teresina",2020-06-27,"nowcast",6,16,8,12,11,10.961
+"PI-Teresina",2020-06-28,"nowcast",5,15,7,11,11,10.651
+"PI-Teresina",2020-06-29,"nowcast",5,15,7,11,10,10.433
+"PI-Teresina",2020-06-30,"nowcast",5,15,6,10,10,10.374
+"PI-Teresina",2020-07-01,"nowcast",5,14,6,10,10,10.004
+"PI-Teresina",2020-07-02,"nowcast",4,14,6,10,10,9.988
+"PI-Teresina",2020-07-03,"nowcast",4,14,6,10,10,9.876
+"PI-Teresina",2020-07-04,"nowcast",5,14,6,10,10,9.777
+"PI-Teresina",2020-07-05,"nowcast",5,14,6,10,10,9.834
+"PI-Teresina",2020-07-06,"nowcast",5,14,6,10,10,9.84
+"PI-Teresina",2020-07-07,"nowcast",4,14,6,10,10,9.914
+"PI-Teresina",2020-07-08,"nowcast",5,15,7,11,10,10.068
+"PI-Teresina",2020-07-09,"nowcast",4,14,6,10,10,9.939
+"PI-Teresina",2020-07-10,"nowcast",4,14,6,10,10,9.674
+"PI-Teresina",2020-07-11,"nowcast",4,14,8,11,10,9.675
+"PI-Teresina",2020-07-12,"nowcast",5,14,5,9,9,9.438
+"PI-Teresina",2020-07-13,"nowcast",3,14,6,10,9,9.549
+"PI-Teresina",2020-07-14,"nowcast",3,13,5,9,9,9.385
+"PI-Teresina",2020-07-15,"nowcast",4,14,6,10,9,9.696
+"PI-Teresina",2020-07-16,"nowcast",4,14,6,10,9,9.774
+"PI-Teresina",2020-07-17,"nowcast",4,15,6,10,10,9.91
+"PI-Teresina",2020-07-18,"nowcast",5,16,7,11,10,10.138
+"PI-Teresina",2020-07-19,"nowcast",4,16,8,12,10,10.493
+"PI-Teresina",2020-07-20,"nowcast",4,16,6,11,10,10.76
+"PI-Teresina",2020-07-21,"nowcast",4,17,6,11,11,11.189
+"PI-Teresina",2020-07-22,"nowcast",5,18,8,13,11,11.653
+"PI-Teresina",2020-07-23,"nowcast",3,18,6,12,11.5,12.104
 "PI-Teresina",2020-03-19,"observed",NA,NA,NA,NA,0,NA
 "PI-Teresina",2020-03-20,"observed",NA,NA,NA,NA,0,NA
 "PI-Teresina",2020-03-21,"observed",NA,NA,NA,NA,0,NA
@@ -2695,188 +2697,189 @@
 "PI-Teresina",2020-08-03,"observed",NA,NA,NA,NA,4,NA
 "PI-Teresina",2020-08-04,"observed",NA,NA,NA,NA,8,NA
 "PI-Teresina",2020-08-05,"observed",NA,NA,NA,NA,7,NA
-"PI-Teresina",2020-08-06,"observed",NA,NA,NA,NA,0,NA
-"PI-Teresina",2020-07-23,"forecast",1,21,6,13,11,12.6418
-"PI-Teresina",2020-07-24,"forecast",1,23,5,13,12,13.2218
-"PI-Teresina",2020-07-25,"forecast",1,25,4,13,12,13.8072
-"PI-Teresina",2020-07-26,"forecast",1,27,4,13,12,14.4774
-"PI-Teresina",2020-07-27,"forecast",0,29,5,14,12,15.1604
-"PI-Teresina",2020-07-28,"forecast",1,31,3,13,12,15.7744
-"PI-Teresina",2020-07-29,"forecast",0,33,3,14,13,16.7868
-"PI-Teresina",2020-07-30,"forecast",0,36,3,14,13,17.9092
-"PI-Teresina",2020-07-31,"forecast",0,39,1,13,13,19.0916
-"PI-Teresina",2020-08-01,"forecast",0,41,2,14,13,20.26
-"PI-Teresina",2020-08-02,"forecast",0,44,0,13,13,22.3524
-"PI-Teresina",2020-08-03,"forecast",0,49,2,15,14,24.7424
-"PI-Teresina",2020-08-04,"forecast",0,53,0,14,14,28.0756
-"PI-Teresina",2020-08-05,"forecast",0,56,0,14,14,31.6246
+"PI-Teresina",2020-08-06,"observed",NA,NA,NA,NA,7,NA
+"PI-Teresina",2020-08-07,"observed",NA,NA,NA,NA,0,NA
+"PI-Teresina",2020-07-24,"forecast",2,21,5,12,11,12.3718
+"PI-Teresina",2020-07-25,"forecast",2,23,5,13,12,13.029
+"PI-Teresina",2020-07-26,"forecast",1,24,5,13,12,13.3306
+"PI-Teresina",2020-07-27,"forecast",0,26,3,12,12,13.9228
+"PI-Teresina",2020-07-28,"forecast",0,28,3,13,12,14.6388
+"PI-Teresina",2020-07-29,"forecast",0,30,3,13,12,15.3082
+"PI-Teresina",2020-07-30,"forecast",0,32,2,13,12,16.357
+"PI-Teresina",2020-07-31,"forecast",0,35,2,13,12,17.458
+"PI-Teresina",2020-08-01,"forecast",0,36,1,13,13,18.3274
+"PI-Teresina",2020-08-02,"forecast",0,39,1,13,13,19.8168
+"PI-Teresina",2020-08-03,"forecast",0,43,0,13,13,21.5508
+"PI-Teresina",2020-08-04,"forecast",0,46,0,13,13,23.4764
+"PI-Teresina",2020-08-05,"forecast",0,50,0,13,13,25.8424
+"PI-Teresina",2020-08-06,"forecast",0,55,0,13,13,29.9856
 "RN-Natal",2020-02-04,"nowcast",1,1,1,1,1,1
-"RN-Natal",2020-02-05,"nowcast",0,1,0,1,0.5,0.5
+"RN-Natal",2020-02-05,"nowcast",0,0,0,0,0,0
 "RN-Natal",2020-02-06,"nowcast",0,0,0,0,0,0
 "RN-Natal",2020-02-07,"nowcast",0,0,0,0,0,0
-"RN-Natal",2020-02-08,"nowcast",0,0,0,0,0,0
-"RN-Natal",2020-02-09,"nowcast",0,0,0,0,0,0
-"RN-Natal",2020-02-10,"nowcast",0,1,0,1,0.5,0.5
-"RN-Natal",2020-02-11,"nowcast",0,1,0,0,0,0.2
-"RN-Natal",2020-02-12,"nowcast",0,1,0,0,0,0.166666666666667
-"RN-Natal",2020-02-13,"nowcast",0,0,0,0,0,0
-"RN-Natal",2020-02-14,"nowcast",0,1,0,0,0,0.375
-"RN-Natal",2020-02-15,"nowcast",0,1,0,0,0,0.363636363636364
-"RN-Natal",2020-02-16,"nowcast",0,0,0,0,0,0.0833333333333333
-"RN-Natal",2020-02-17,"nowcast",0,1,0,0,0,0.266666666666667
-"RN-Natal",2020-02-18,"nowcast",0,1,0,0,0,0.3
-"RN-Natal",2020-02-19,"nowcast",0,1,0,0,0,0.32
-"RN-Natal",2020-02-20,"nowcast",0,0,0,0,0,0.0384615384615385
-"RN-Natal",2020-02-21,"nowcast",0,1,0,0,0,0.206896551724138
-"RN-Natal",2020-02-22,"nowcast",0,1,0,0,0,0.151515151515152
-"RN-Natal",2020-02-23,"nowcast",0,1,0,0,0,0.263157894736842
-"RN-Natal",2020-02-24,"nowcast",0,1,0,0,0,0.239130434782609
-"RN-Natal",2020-02-25,"nowcast",0,1,0,0,0,0.211538461538462
-"RN-Natal",2020-02-26,"nowcast",0,1,0,0,0,0.222222222222222
-"RN-Natal",2020-02-27,"nowcast",0,1,0,0,0,0.159420289855072
-"RN-Natal",2020-02-28,"nowcast",0,1,0,0,0,0.246913580246914
-"RN-Natal",2020-02-29,"nowcast",0,1,0,0,0,0.24
-"RN-Natal",2020-03-01,"nowcast",0,1,0,0,0,0.273504273504274
-"RN-Natal",2020-03-02,"nowcast",0,1,0,0,0,0.239130434782609
-"RN-Natal",2020-03-03,"nowcast",0,1,0,0,0,0.208588957055215
-"RN-Natal",2020-03-04,"nowcast",0,1,0,0,0,0.151685393258427
-"RN-Natal",2020-03-05,"nowcast",0,1,0,0,0,0.20873786407767
-"RN-Natal",2020-03-06,"nowcast",0,1,0,0,0,0.216101694915254
-"RN-Natal",2020-03-07,"nowcast",0,1,0,0,0,0.247272727272727
-"RN-Natal",2020-03-08,"nowcast",0,1,0,0,0,0.214983713355049
-"RN-Natal",2020-03-09,"nowcast",0,1,0,0,0,0.205357142857143
-"RN-Natal",2020-03-10,"nowcast",0,1,0,0,0,0.192
-"RN-Natal",2020-03-11,"nowcast",0,1,0,0,0,0.24578313253012
-"RN-Natal",2020-03-12,"nowcast",0,1,0,0,0,0.247311827956989
-"RN-Natal",2020-03-13,"nowcast",0,1,0,0,0,0.2109375
-"RN-Natal",2020-03-14,"nowcast",0,1,0,0,0,0.221428571428571
-"RN-Natal",2020-03-15,"nowcast",0,1,0,0,0,0.212020033388982
-"RN-Natal",2020-03-16,"nowcast",0,1,0,0,0,0.253846153846154
-"RN-Natal",2020-03-17,"nowcast",0,1,0,0,0,0.262247838616715
-"RN-Natal",2020-03-18,"nowcast",0,1,0,0,0,0.2710027100271
-"RN-Natal",2020-03-19,"nowcast",0,1,0,0,0,0.277848911651729
-"RN-Natal",2020-03-20,"nowcast",0,1,0,0,0,0.289731051344743
-"RN-Natal",2020-03-21,"nowcast",0,1,0,0,0,0.315483119906868
-"RN-Natal",2020-03-22,"nowcast",0,1,0,0,0,0.325056433408578
-"RN-Natal",2020-03-23,"nowcast",0,1,0,0,0,0.356435643564356
-"RN-Natal",2020-03-24,"nowcast",0,1,0,0,0,0.357905982905983
-"RN-Natal",2020-03-25,"nowcast",0,1,0,0,0,0.359081419624217
-"RN-Natal",2020-03-26,"nowcast",0,1,0,0,0,0.317476732161324
-"RN-Natal",2020-03-27,"nowcast",0,1,0,0,0,0.394279877425945
-"RN-Natal",2020-03-28,"nowcast",0,1,0,0,0,0.386018237082067
-"RN-Natal",2020-03-29,"nowcast",0,1,0,0,0,0.402217741935484
-"RN-Natal",2020-03-30,"nowcast",0,1,0,0,0,0.412060301507538
-"RN-Natal",2020-03-31,"nowcast",0,1,0,0,0,0.402610441767068
-"RN-Natal",2020-04-01,"nowcast",0,1,0,0,0,0.436436436436436
-"RN-Natal",2020-04-02,"nowcast",0,1,0,0,0,0.492492492492492
-"RN-Natal",2020-04-03,"nowcast",0,1,0,0,0,0.474
-"RN-Natal",2020-04-04,"nowcast",0,2,0,0,0,0.524
-"RN-Natal",2020-04-05,"nowcast",0,1,0,0,0,0.545
-"RN-Natal",2020-04-06,"nowcast",0,2,0,0,0,0.576
-"RN-Natal",2020-04-07,"nowcast",0,2,0,0,0,0.602
-"RN-Natal",2020-04-08,"nowcast",0,2,0,0,0,0.664
-"RN-Natal",2020-04-09,"nowcast",0,2,0,1,1,0.72
-"RN-Natal",2020-04-10,"nowcast",0,2,0,1,1,0.744
-"RN-Natal",2020-04-11,"nowcast",0,2,0,1,1,0.771
-"RN-Natal",2020-04-12,"nowcast",0,2,0,1,1,0.864
-"RN-Natal",2020-04-13,"nowcast",0,2,0,1,1,0.897
-"RN-Natal",2020-04-14,"nowcast",0,2,0,1,1,0.928
-"RN-Natal",2020-04-15,"nowcast",0,2,0,1,1,1.01
-"RN-Natal",2020-04-16,"nowcast",0,3,0,1,1,1.113
-"RN-Natal",2020-04-17,"nowcast",0,3,0,1,1,1.151
-"RN-Natal",2020-04-18,"nowcast",0,3,0,1,1,1.252
-"RN-Natal",2020-04-19,"nowcast",0,3,0,1,1,1.312
-"RN-Natal",2020-04-20,"nowcast",0,3,0,1,1,1.36
-"RN-Natal",2020-04-21,"nowcast",0,3,0,1,1,1.457
-"RN-Natal",2020-04-22,"nowcast",0,3,0,1,1,1.625
-"RN-Natal",2020-04-23,"nowcast",0,3,0,1,1,1.691
-"RN-Natal",2020-04-24,"nowcast",0,4,1,2,2,1.915
-"RN-Natal",2020-04-25,"nowcast",0,4,1,2,2,1.995
-"RN-Natal",2020-04-26,"nowcast",0,4,0,2,2,2.211
-"RN-Natal",2020-04-27,"nowcast",0,4,0,2,2,2.392
-"RN-Natal",2020-04-28,"nowcast",0,5,0,2,2,2.584
-"RN-Natal",2020-04-29,"nowcast",0,5,1,3,3,2.765
-"RN-Natal",2020-04-30,"nowcast",0,5,1,3,3,2.888
-"RN-Natal",2020-05-01,"nowcast",1,6,1,3,3,3.143
-"RN-Natal",2020-05-02,"nowcast",1,6,1,3,3,3.329
-"RN-Natal",2020-05-03,"nowcast",1,6,1,3,3,3.443
-"RN-Natal",2020-05-04,"nowcast",0,6,2,4,4,3.776
-"RN-Natal",2020-05-05,"nowcast",0,6,2,4,4,3.858
-"RN-Natal",2020-05-06,"nowcast",1,7,2,4,4,4.044
-"RN-Natal",2020-05-07,"nowcast",1,7,2,4,4,4.283
-"RN-Natal",2020-05-08,"nowcast",1,7,2,4,4,4.345
-"RN-Natal",2020-05-09,"nowcast",1,7,3,5,4,4.592
-"RN-Natal",2020-05-10,"nowcast",1,8,3,5,5,4.748
-"RN-Natal",2020-05-11,"nowcast",1,8,2,5,5,5.019
-"RN-Natal",2020-05-12,"nowcast",1,8,2,5,5,5.345
-"RN-Natal",2020-05-13,"nowcast",2,9,4,6,5,5.701
-"RN-Natal",2020-05-14,"nowcast",1,9,3,6,6,6.006
-"RN-Natal",2020-05-15,"nowcast",1,9,3,6,6,6.134
-"RN-Natal",2020-05-16,"nowcast",2,10,4,7,6,6.366
-"RN-Natal",2020-05-17,"nowcast",2,10,4,7,7,6.687
-"RN-Natal",2020-05-18,"nowcast",2,10,4,7,7,6.82
-"RN-Natal",2020-05-19,"nowcast",3,11,5,8,7,7.242
-"RN-Natal",2020-05-20,"nowcast",2,11,5,8,7,7.367
-"RN-Natal",2020-05-21,"nowcast",2,11,5,8,7,7.669
-"RN-Natal",2020-05-22,"nowcast",3,12,6,9,8,7.871
-"RN-Natal",2020-05-23,"nowcast",4,12,6,9,8,7.899
-"RN-Natal",2020-05-24,"nowcast",4,12,6,9,8,8.203
-"RN-Natal",2020-05-25,"nowcast",3,12,7,10,8,8.281
-"RN-Natal",2020-05-26,"nowcast",3,12,6,9,8,8.38
-"RN-Natal",2020-05-27,"nowcast",4,13,7,10,9,8.898
-"RN-Natal",2020-05-28,"nowcast",4,13,5,9,9,9.037
-"RN-Natal",2020-05-29,"nowcast",3,13,5,9,9,9.388
-"RN-Natal",2020-05-30,"nowcast",4,14,6,10,9,9.563
-"RN-Natal",2020-05-31,"nowcast",5,15,6,10,10,10.14
-"RN-Natal",2020-06-01,"nowcast",5,15,7,11,10,10.529
-"RN-Natal",2020-06-02,"nowcast",4,15,8,12,11,11.018
-"RN-Natal",2020-06-03,"nowcast",5,16,8,12,11,11.428
-"RN-Natal",2020-06-04,"nowcast",6,17,8,12,12,11.991
-"RN-Natal",2020-06-05,"nowcast",7,18,10,14,12,12.427
-"RN-Natal",2020-06-06,"nowcast",7,18,10,14,13,13.015
-"RN-Natal",2020-06-07,"nowcast",6,18,10,14,13,13.091
-"RN-Natal",2020-06-08,"nowcast",9,20,9,14,14,14.044
-"RN-Natal",2020-06-09,"nowcast",8,19,11,15,14,14.024
-"RN-Natal",2020-06-10,"nowcast",8,20,12,16,14,14.476
-"RN-Natal",2020-06-11,"nowcast",8,20,11,16,15,14.745
-"RN-Natal",2020-06-12,"nowcast",9,21,11,16,15,14.999
-"RN-Natal",2020-06-13,"nowcast",8,21,11,16,15,15.278
-"RN-Natal",2020-06-14,"nowcast",9,21,11,16,15,15.352
-"RN-Natal",2020-06-15,"nowcast",9,21,13,17,15,15.537
-"RN-Natal",2020-06-16,"nowcast",9,21,11,16,16,15.599
-"RN-Natal",2020-06-17,"nowcast",8,21,11,16,15,15.646
-"RN-Natal",2020-06-18,"nowcast",9,22,12,17,16,15.961
-"RN-Natal",2020-06-19,"nowcast",9,21,11,16,15,15.561
-"RN-Natal",2020-06-20,"nowcast",8,21,11,16,15,15.008
-"RN-Natal",2020-06-21,"nowcast",8,20,10,15,14.5,14.752
-"RN-Natal",2020-06-22,"nowcast",8,20,10,15,14,14.511
-"RN-Natal",2020-06-23,"nowcast",7,19,12,16,14,13.97
-"RN-Natal",2020-06-24,"nowcast",7,18,10,14,13,13.085
-"RN-Natal",2020-06-25,"nowcast",6,17,9,13,12,12.506
-"RN-Natal",2020-06-26,"nowcast",5,16,8,12,12,11.72
-"RN-Natal",2020-06-27,"nowcast",6,16,8,12,11,11.091
-"RN-Natal",2020-06-28,"nowcast",5,15,7,11,10,10.695
-"RN-Natal",2020-06-29,"nowcast",5,15,7,11,10,10.532
-"RN-Natal",2020-06-30,"nowcast",5,15,7,11,11,10.597
-"RN-Natal",2020-07-01,"nowcast",5,15,7,11,10,10.325
-"RN-Natal",2020-07-02,"nowcast",4,14,6,10,10,10.068
-"RN-Natal",2020-07-03,"nowcast",5,15,7,11,10,10.198
-"RN-Natal",2020-07-04,"nowcast",4,14,6,10,10,10.217
-"RN-Natal",2020-07-05,"nowcast",5,15,7,11,10,10.366
-"RN-Natal",2020-07-06,"nowcast",5,15,7,11,10,10.364
-"RN-Natal",2020-07-07,"nowcast",5,15,7,11,10,10.605
-"RN-Natal",2020-07-08,"nowcast",5,15,7,11,11,10.871
-"RN-Natal",2020-07-09,"nowcast",5,16,8,12,11,11.06
-"RN-Natal",2020-07-10,"nowcast",5,16,8,12,11,11.411
-"RN-Natal",2020-07-11,"nowcast",6,17,8,12,11,11.579
-"RN-Natal",2020-07-12,"nowcast",6,18,8,13,12,12.148
-"RN-Natal",2020-07-13,"nowcast",6,18,8,13,12,12.635
-"RN-Natal",2020-07-14,"nowcast",6,19,9,14,13,13.356
-"RN-Natal",2020-07-15,"nowcast",7,21,10,15,14,14.355
-"RN-Natal",2020-07-16,"nowcast",8,23,10,16,15,15.494
-"RN-Natal",2020-07-17,"nowcast",8,24,11,17,16,16.743
-"RN-Natal",2020-07-18,"nowcast",10,26,14,20,18,18.348
-"RN-Natal",2020-07-19,"nowcast",11,29,16,23,20,20.286
+"RN-Natal",2020-02-08,"nowcast",0,1,0,1,0.5,0.5
+"RN-Natal",2020-02-09,"nowcast",0,1,0,0,0,0.333333333333333
+"RN-Natal",2020-02-10,"nowcast",0,1,0,0,0,0.333333333333333
+"RN-Natal",2020-02-11,"nowcast",0,1,0,1,0.5,0.5
+"RN-Natal",2020-02-12,"nowcast",0,1,0,0,0,0.2
+"RN-Natal",2020-02-13,"nowcast",0,1,0,0,0,0.166666666666667
+"RN-Natal",2020-02-14,"nowcast",0,1,0,0,0,0.333333333333333
+"RN-Natal",2020-02-15,"nowcast",0,0,0,0,0,0
+"RN-Natal",2020-02-16,"nowcast",0,1,0,0,0,0.111111111111111
+"RN-Natal",2020-02-17,"nowcast",0,1,0,0,0,0.333333333333333
+"RN-Natal",2020-02-18,"nowcast",0,0,0,0,0,0
+"RN-Natal",2020-02-19,"nowcast",0,1,0,0,0,0.411764705882353
+"RN-Natal",2020-02-20,"nowcast",0,1,0,0,0,0.157894736842105
+"RN-Natal",2020-02-21,"nowcast",0,1,0,0,0,0.346153846153846
+"RN-Natal",2020-02-22,"nowcast",0,1,0,0,0,0.272727272727273
+"RN-Natal",2020-02-23,"nowcast",0,1,0,0,0,0.219512195121951
+"RN-Natal",2020-02-24,"nowcast",0,1,0,0,0,0.229166666666667
+"RN-Natal",2020-02-25,"nowcast",0,1,0,0,0,0.175438596491228
+"RN-Natal",2020-02-26,"nowcast",0,1,0,0,0,0.277777777777778
+"RN-Natal",2020-02-27,"nowcast",0,1,0,0,0,0.180722891566265
+"RN-Natal",2020-02-28,"nowcast",0,1,0,0,0,0.252525252525253
+"RN-Natal",2020-02-29,"nowcast",0,1,0,0,0,0.192660550458716
+"RN-Natal",2020-03-01,"nowcast",0,1,0,0,0,0.216666666666667
+"RN-Natal",2020-03-02,"nowcast",0,1,0,0,0,0.176470588235294
+"RN-Natal",2020-03-03,"nowcast",0,1,0,0,0,0.2125
+"RN-Natal",2020-03-04,"nowcast",0,1,0,0,0,0.213114754098361
+"RN-Natal",2020-03-05,"nowcast",0,1,0,0,0,0.202898550724638
+"RN-Natal",2020-03-06,"nowcast",0,1,0,0,0,0.195744680851064
+"RN-Natal",2020-03-07,"nowcast",0,1,0,0,0,0.191570881226054
+"RN-Natal",2020-03-08,"nowcast",0,1,0,0,0,0.247491638795987
+"RN-Natal",2020-03-09,"nowcast",0,1,0,0,0,0.208955223880597
+"RN-Natal",2020-03-10,"nowcast",0,1,0,0,0,0.22554347826087
+"RN-Natal",2020-03-11,"nowcast",0,1,0,0,0,0.197007481296758
+"RN-Natal",2020-03-12,"nowcast",0,1,0,0,0,0.201357466063348
+"RN-Natal",2020-03-13,"nowcast",0,1,0,0,0,0.220164609053498
+"RN-Natal",2020-03-14,"nowcast",0,1,0,0,0,0.215500945179584
+"RN-Natal",2020-03-15,"nowcast",0,1,0,0,0,0.221830985915493
+"RN-Natal",2020-03-16,"nowcast",0,1,0,0,0,0.25487012987013
+"RN-Natal",2020-03-17,"nowcast",0,1,0,0,0,0.235649546827795
+"RN-Natal",2020-03-18,"nowcast",0,1,0,0,0,0.275766016713092
+"RN-Natal",2020-03-19,"nowcast",0,1,0,0,0,0.264473684210526
+"RN-Natal",2020-03-20,"nowcast",0,1,0,0,0,0.340768277571252
+"RN-Natal",2020-03-21,"nowcast",0,1,0,0,0,0.289473684210526
+"RN-Natal",2020-03-22,"nowcast",0,1,0,0,0,0.319540229885057
+"RN-Natal",2020-03-23,"nowcast",0,1,0,0,0,0.343333333333333
+"RN-Natal",2020-03-24,"nowcast",0,1,0,0,0,0.338378378378378
+"RN-Natal",2020-03-25,"nowcast",0,1,0,0,0,0.368532206969377
+"RN-Natal",2020-03-26,"nowcast",0,1,0,0,0,0.355949895615866
+"RN-Natal",2020-03-27,"nowcast",0,1,0,0,0,0.360082304526749
+"RN-Natal",2020-03-28,"nowcast",0,1,0,0,0,0.423901940755873
+"RN-Natal",2020-03-29,"nowcast",0,1,0,0,0,0.411167512690355
+"RN-Natal",2020-03-30,"nowcast",0,1,0,0,0,0.414141414141414
+"RN-Natal",2020-03-31,"nowcast",0,1,0,0,0,0.421105527638191
+"RN-Natal",2020-04-01,"nowcast",0,1,0,0,0,0.459839357429719
+"RN-Natal",2020-04-02,"nowcast",0,1,0,0,0,0.439879759519038
+"RN-Natal",2020-04-03,"nowcast",0,1,0,0,0,0.51503006012024
+"RN-Natal",2020-04-04,"nowcast",0,1,0,0,0,0.492492492492492
+"RN-Natal",2020-04-05,"nowcast",0,1,0,0,0,0.537
+"RN-Natal",2020-04-06,"nowcast",0,2,0,0,0,0.562
+"RN-Natal",2020-04-07,"nowcast",0,2,0,0,0,0.57
+"RN-Natal",2020-04-08,"nowcast",0,2,0,0,0,0.651
+"RN-Natal",2020-04-09,"nowcast",0,2,0,0,0,0.679
+"RN-Natal",2020-04-10,"nowcast",0,2,0,1,1,0.745
+"RN-Natal",2020-04-11,"nowcast",0,2,0,1,1,0.747
+"RN-Natal",2020-04-12,"nowcast",0,2,0,1,1,0.851
+"RN-Natal",2020-04-13,"nowcast",0,2,0,1,1,0.895
+"RN-Natal",2020-04-14,"nowcast",0,2,0,1,1,0.954
+"RN-Natal",2020-04-15,"nowcast",0,2,0,1,1,1.06
+"RN-Natal",2020-04-16,"nowcast",0,3,0,1,1,1.087
+"RN-Natal",2020-04-17,"nowcast",0,3,0,1,1,1.143
+"RN-Natal",2020-04-18,"nowcast",0,2,0,1,1,1.155
+"RN-Natal",2020-04-19,"nowcast",0,3,0,1,1,1.226
+"RN-Natal",2020-04-20,"nowcast",0,3,0,1,1,1.349
+"RN-Natal",2020-04-21,"nowcast",0,3,0,1,1,1.422
+"RN-Natal",2020-04-22,"nowcast",0,3,0,1,1,1.631
+"RN-Natal",2020-04-23,"nowcast",0,4,1,2,2,1.773
+"RN-Natal",2020-04-24,"nowcast",0,4,1,2,2,1.916
+"RN-Natal",2020-04-25,"nowcast",0,4,1,2,2,2.023
+"RN-Natal",2020-04-26,"nowcast",0,4,1,2,2,2.236
+"RN-Natal",2020-04-27,"nowcast",0,5,0,2,2,2.435
+"RN-Natal",2020-04-28,"nowcast",0,5,0,2,2,2.536
+"RN-Natal",2020-04-29,"nowcast",0,5,1,3,3,2.696
+"RN-Natal",2020-04-30,"nowcast",0,5,1,3,3,2.905
+"RN-Natal",2020-05-01,"nowcast",0,5,1,3,3,3.002
+"RN-Natal",2020-05-02,"nowcast",0,5,1,3,3,3.161
+"RN-Natal",2020-05-03,"nowcast",1,6,1,3,3,3.485
+"RN-Natal",2020-05-04,"nowcast",0,6,2,4,3,3.685
+"RN-Natal",2020-05-05,"nowcast",0,6,2,4,4,3.845
+"RN-Natal",2020-05-06,"nowcast",1,7,2,4,4,4.023
+"RN-Natal",2020-05-07,"nowcast",1,7,2,4,4,4.203
+"RN-Natal",2020-05-08,"nowcast",1,7,3,5,4,4.428
+"RN-Natal",2020-05-09,"nowcast",1,8,3,5,5,4.683
+"RN-Natal",2020-05-10,"nowcast",1,8,2,5,5,4.814
+"RN-Natal",2020-05-11,"nowcast",1,8,4,6,5,5.057
+"RN-Natal",2020-05-12,"nowcast",1,8,2,5,5,5.353
+"RN-Natal",2020-05-13,"nowcast",2,9,3,6,5,5.628
+"RN-Natal",2020-05-14,"nowcast",2,9,3,6,6,5.878
+"RN-Natal",2020-05-15,"nowcast",2,10,3,6,6,6.203
+"RN-Natal",2020-05-16,"nowcast",2,10,4,7,6,6.607
+"RN-Natal",2020-05-17,"nowcast",2,10,4,7,7,6.766
+"RN-Natal",2020-05-18,"nowcast",3,11,4,7,7,7.015
+"RN-Natal",2020-05-19,"nowcast",3,11,4,7,7,7.234
+"RN-Natal",2020-05-20,"nowcast",3,11,5,8,7,7.631
+"RN-Natal",2020-05-21,"nowcast",4,12,5,8,7,7.654
+"RN-Natal",2020-05-22,"nowcast",3,12,5,8,8,7.801
+"RN-Natal",2020-05-23,"nowcast",3,12,6,9,8,8.014
+"RN-Natal",2020-05-24,"nowcast",3,12,5,8,8,8.063
+"RN-Natal",2020-05-25,"nowcast",3,12,5,9,8,8.414
+"RN-Natal",2020-05-26,"nowcast",4,13,6,9,8,8.564
+"RN-Natal",2020-05-27,"nowcast",4,13,7,10,9,8.787
+"RN-Natal",2020-05-28,"nowcast",4,13,5,9,9,8.902
+"RN-Natal",2020-05-29,"nowcast",5,14,6,10,9,9.322
+"RN-Natal",2020-05-30,"nowcast",4,14,6,10,10,9.744
+"RN-Natal",2020-05-31,"nowcast",4,15,6,10,10,10.216
+"RN-Natal",2020-06-01,"nowcast",5,15,7,11,10,10.485
+"RN-Natal",2020-06-02,"nowcast",6,16,8,12,11,11.228
+"RN-Natal",2020-06-03,"nowcast",6,16,8,12,11,11.414
+"RN-Natal",2020-06-04,"nowcast",6,17,9,13,12,11.81
+"RN-Natal",2020-06-05,"nowcast",6,17,9,13,12,12.204
+"RN-Natal",2020-06-06,"nowcast",7,18,10,14,13,12.882
+"RN-Natal",2020-06-07,"nowcast",7,18,10,14,13,13.027
+"RN-Natal",2020-06-08,"nowcast",7,19,11,15,14,13.801
+"RN-Natal",2020-06-09,"nowcast",9,20,11,15,14,13.996
+"RN-Natal",2020-06-10,"nowcast",9,20,12,16,14,14.564
+"RN-Natal",2020-06-11,"nowcast",9,20,12,16,15,14.81
+"RN-Natal",2020-06-12,"nowcast",9,21,11,16,15,15.113
+"RN-Natal",2020-06-13,"nowcast",8,21,11,16,15,15.198
+"RN-Natal",2020-06-14,"nowcast",9,21,11,16,15,15.312
+"RN-Natal",2020-06-15,"nowcast",9,21,11,16,16,15.561
+"RN-Natal",2020-06-16,"nowcast",9,21,13,17,15,15.546
+"RN-Natal",2020-06-17,"nowcast",9,21,12,17,16,15.84
+"RN-Natal",2020-06-18,"nowcast",9,21,11,16,15,15.551
+"RN-Natal",2020-06-19,"nowcast",9,21,11,16,16,15.617
+"RN-Natal",2020-06-20,"nowcast",8,20,13,17,15,15.348
+"RN-Natal",2020-06-21,"nowcast",8,20,12,16,15,14.745
+"RN-Natal",2020-06-22,"nowcast",8,20,12,16,14,14.378
+"RN-Natal",2020-06-23,"nowcast",7,19,9,14,14,13.77
+"RN-Natal",2020-06-24,"nowcast",8,19,8,13,13,13.275
+"RN-Natal",2020-06-25,"nowcast",6,17,9,13,12,12.376
+"RN-Natal",2020-06-26,"nowcast",6,16,9,13,12,11.729
+"RN-Natal",2020-06-27,"nowcast",6,16,7,11,11,11.178
+"RN-Natal",2020-06-28,"nowcast",5,15,7,11,10,10.668
+"RN-Natal",2020-06-29,"nowcast",5,15,7,11,10,10.514
+"RN-Natal",2020-06-30,"nowcast",5,15,7,11,10,10.405
+"RN-Natal",2020-07-01,"nowcast",5,15,7,11,10,10.288
+"RN-Natal",2020-07-02,"nowcast",4,14,6,10,10,10.054
+"RN-Natal",2020-07-03,"nowcast",4,14,7,11,10,10.038
+"RN-Natal",2020-07-04,"nowcast",4,14,6,10,10,10.006
+"RN-Natal",2020-07-05,"nowcast",5,15,7,11,10,10.364
+"RN-Natal",2020-07-06,"nowcast",4,14,6,10,10,10.359
+"RN-Natal",2020-07-07,"nowcast",5,15,7,11,10,10.657
+"RN-Natal",2020-07-08,"nowcast",4,15,7,11,11,10.696
+"RN-Natal",2020-07-09,"nowcast",6,16,7,11,11,11.047
+"RN-Natal",2020-07-10,"nowcast",5,16,8,12,11,11.263
+"RN-Natal",2020-07-11,"nowcast",6,17,9,13,11,11.663
+"RN-Natal",2020-07-12,"nowcast",5,17,8,13,12,12.101
+"RN-Natal",2020-07-13,"nowcast",6,18,8,13,12.5,12.78
+"RN-Natal",2020-07-14,"nowcast",6,19,9,14,13,13.336
+"RN-Natal",2020-07-15,"nowcast",6,20,9,14,14,14.2
+"RN-Natal",2020-07-16,"nowcast",8,23,10,16,15,15.403
+"RN-Natal",2020-07-17,"nowcast",8,24,12,18,16,16.79
+"RN-Natal",2020-07-18,"nowcast",10,27,14,20,18,18.299
+"RN-Natal",2020-07-19,"nowcast",9,28,14,21,19,20.078
 "RN-Natal",2020-03-12,"observed",NA,NA,NA,NA,0,NA
 "RN-Natal",2020-03-13,"observed",NA,NA,NA,NA,0,NA
 "RN-Natal",2020-03-14,"observed",NA,NA,NA,NA,0,NA
@@ -3025,20 +3028,21 @@
 "RN-Natal",2020-08-04,"observed",NA,NA,NA,NA,0,NA
 "RN-Natal",2020-08-05,"observed",NA,NA,NA,NA,0,NA
 "RN-Natal",2020-08-06,"observed",NA,NA,NA,NA,0,NA
-"RN-Natal",2020-07-20,"forecast",7,34,11,22,20,21.444
-"RN-Natal",2020-07-21,"forecast",6,38,11,24,22,23.2496
-"RN-Natal",2020-07-22,"forecast",4,42,11,25,23,25.1084
-"RN-Natal",2020-07-23,"forecast",6,49,12,28,24,27.3476
-"RN-Natal",2020-07-24,"forecast",2,54,12,30,26,30.399
-"RN-Natal",2020-07-25,"forecast",3,63,9,30,28,33.167
-"RN-Natal",2020-07-26,"forecast",3,71,7,31,30,36.7772
-"RN-Natal",2020-07-27,"forecast",0,79,9,35,32,40.903
-"RN-Natal",2020-07-28,"forecast",0,92,7,36,33,45.853
-"RN-Natal",2020-07-29,"forecast",0,104,8,40,36,51.1686
-"RN-Natal",2020-07-30,"forecast",0,119,7,42,38,57.979
-"RN-Natal",2020-07-31,"forecast",0,137,3,42,41,64.95
-"RN-Natal",2020-08-01,"forecast",0,156,6,47,43,74.8182
-"RN-Natal",2020-08-02,"forecast",0,178,4,49,46,84.7742
+"RN-Natal",2020-08-07,"observed",NA,NA,NA,NA,0,NA
+"RN-Natal",2020-07-20,"forecast",6,34,10,21,20,21.2068
+"RN-Natal",2020-07-21,"forecast",6,38,12,24,21,22.8966
+"RN-Natal",2020-07-22,"forecast",4,43,11,25,22,24.9132
+"RN-Natal",2020-07-23,"forecast",3,48,9,26,24,27.1282
+"RN-Natal",2020-07-24,"forecast",4,55,11,29,25,29.8032
+"RN-Natal",2020-07-25,"forecast",1,61,12,32,27,32.691
+"RN-Natal",2020-07-26,"forecast",3,70,8,31,29,36.243
+"RN-Natal",2020-07-27,"forecast",0,76,7,33,31,40.3794
+"RN-Natal",2020-07-28,"forecast",0,88,6,35,33,44.5482
+"RN-Natal",2020-07-29,"forecast",0,101,9,40,35,50.9368
+"RN-Natal",2020-07-30,"forecast",0,114,7,41,37,58.1794
+"RN-Natal",2020-07-31,"forecast",0,127,4,41,39,66.094
+"RN-Natal",2020-08-01,"forecast",0,153,3,44,42,81.4764
+"RN-Natal",2020-08-02,"forecast",0,171,4,47,44,95.5134
 "SE-Aracaju",2020-02-04,"nowcast",1,1,1,1,1,1
 "SE-Aracaju",2020-02-05,"nowcast",0,0,0,0,0,0
 "SE-Aracaju",2020-02-06,"nowcast",0,0,0,0,0,0
