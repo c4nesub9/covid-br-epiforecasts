@@ -471,137 +471,127 @@
 "PE-Águas Belas",2020-08-04,"forecast",0,61,0,14,14,28.2024
 "PE-Águas Belas",2020-08-05,"forecast",0,67,0,15,14.5,32.9716
 "PE-Águas Belas",2020-08-06,"forecast",0,77,0,15,15,37.1904
-"PE-Araripina",2020-03-20,"nowcast",1,1,1,1,1,1
-"PE-Araripina",2020-03-21,"nowcast",0,0,0,0,0,0
-"PE-Araripina",2020-03-22,"nowcast",0,0,0,0,0,0
-"PE-Araripina",2020-03-23,"nowcast",0,0,0,0,0,0
-"PE-Araripina",2020-03-24,"nowcast",0,0,0,0,0,0
-"PE-Araripina",2020-03-25,"nowcast",0,0,0,0,0,0
-"PE-Araripina",2020-03-26,"nowcast",0,0,0,0,0,0
-"PE-Araripina",2020-03-27,"nowcast",0,0,0,0,0,0
-"PE-Araripina",2020-03-28,"nowcast",0,1,0,1,0.5,0.5
-"PE-Araripina",2020-03-29,"nowcast",0,0,0,0,0,0
-"PE-Araripina",2020-03-30,"nowcast",1,1,1,1,1,1
-"PE-Araripina",2020-03-31,"nowcast",0,1,1,1,1,0.571428571428571
-"PE-Araripina",2020-04-01,"nowcast",0,1,0,0,0,0.142857142857143
-"PE-Araripina",2020-04-02,"nowcast",0,1,0,0,0,0.125
-"PE-Araripina",2020-04-03,"nowcast",0,1,0,0,0,0.272727272727273
-"PE-Araripina",2020-04-04,"nowcast",0,1,0,0,0,0.166666666666667
-"PE-Araripina",2020-04-05,"nowcast",0,1,0,0,0,0.428571428571429
-"PE-Araripina",2020-04-06,"nowcast",0,1,0,0,0,0.192307692307692
-"PE-Araripina",2020-04-07,"nowcast",0,1,0,0,0,0.5
-"PE-Araripina",2020-04-08,"nowcast",0,1,0,0,0,0.25
-"PE-Araripina",2020-04-09,"nowcast",0,1,0,0,0,0.386666666666667
-"PE-Araripina",2020-04-10,"nowcast",0,1,0,0,0,0.3125
-"PE-Araripina",2020-04-11,"nowcast",0,1,0,0,0,0.312
-"PE-Araripina",2020-04-12,"nowcast",0,1,0,0,0,0.33974358974359
-"PE-Araripina",2020-04-13,"nowcast",0,1,0,0,0,0.319587628865979
-"PE-Araripina",2020-04-14,"nowcast",0,1,0,0,0,0.334782608695652
-"PE-Araripina",2020-04-15,"nowcast",0,1,0,0,0,0.308510638297872
-"PE-Araripina",2020-04-16,"nowcast",0,1,0,0,0,0.311377245508982
-"PE-Araripina",2020-04-17,"nowcast",0,1,0,0,0,0.334158415841584
-"PE-Araripina",2020-04-18,"nowcast",0,1,0,0,0,0.331210191082803
-"PE-Araripina",2020-04-19,"nowcast",0,1,0,0,0,0.396296296296296
-"PE-Araripina",2020-04-20,"nowcast",0,1,0,0,0,0.374376039933444
-"PE-Araripina",2020-04-21,"nowcast",0,1,0,0,0,0.440875912408759
-"PE-Araripina",2020-04-22,"nowcast",0,1,0,0,0,0.452535760728218
-"PE-Araripina",2020-04-23,"nowcast",0,1,0,0,0,0.537259615384615
-"PE-Araripina",2020-04-24,"nowcast",0,2,0,0,0,0.59297052154195
-"PE-Araripina",2020-04-25,"nowcast",0,2,0,0,0,0.6529284164859
-"PE-Araripina",2020-04-26,"nowcast",0,2,0,1,1,0.77027027027027
-"PE-Araripina",2020-04-27,"nowcast",0,2,0,1,1,0.861648016276704
-"PE-Araripina",2020-04-28,"nowcast",0,2,0,1,1,0.977889447236181
-"PE-Araripina",2020-04-29,"nowcast",0,2,0,1,1,1.09428284854564
-"PE-Araripina",2020-04-30,"nowcast",0,3,0,1,1,1.261
-"PE-Araripina",2020-05-01,"nowcast",0,3,0,1,1,1.354
-"PE-Araripina",2020-05-02,"nowcast",0,3,0,1,1,1.472
-"PE-Araripina",2020-05-03,"nowcast",0,3,0,1,1,1.497
-"PE-Araripina",2020-05-04,"nowcast",0,3,0,1,1,1.666
-"PE-Araripina",2020-05-05,"nowcast",0,3,0,1,1,1.606
-"PE-Araripina",2020-05-06,"nowcast",0,3,1,2,1.5,1.652
-"PE-Araripina",2020-05-07,"nowcast",0,3,0,1,1,1.528
-"PE-Araripina",2020-05-08,"nowcast",0,3,0,1,1,1.451
-"PE-Araripina",2020-05-09,"nowcast",0,3,0,1,1,1.467
-"PE-Araripina",2020-05-10,"nowcast",0,3,0,1,1,1.517
-"PE-Araripina",2020-05-11,"nowcast",0,3,0,1,1,1.655
-"PE-Araripina",2020-05-12,"nowcast",0,4,1,2,2,1.954
-"PE-Araripina",2020-05-13,"nowcast",0,4,1,2,2,2.104
-"PE-Araripina",2020-05-14,"nowcast",0,5,0,2,2,2.409
-"PE-Araripina",2020-05-15,"nowcast",0,5,0,2,2,2.609
-"PE-Araripina",2020-05-16,"nowcast",0,5,1,3,3,2.926
-"PE-Araripina",2020-05-17,"nowcast",0,5,1,3,3,3.037
-"PE-Araripina",2020-05-18,"nowcast",1,6,1,3,3,3.245
-"PE-Araripina",2020-05-19,"nowcast",1,6,1,3,3,3.397
-"PE-Araripina",2020-05-20,"nowcast",1,6,1,3,3,3.358
-"PE-Araripina",2020-05-21,"nowcast",1,6,1,3,3,3.52
-"PE-Araripina",2020-05-22,"nowcast",1,6,2,4,3,3.656
-"PE-Araripina",2020-05-23,"nowcast",0,6,2,4,4,3.782
-"PE-Araripina",2020-05-24,"nowcast",0,6,2,4,4,3.883
-"PE-Araripina",2020-05-25,"nowcast",0,6,2,4,4,3.926
-"PE-Araripina",2020-05-26,"nowcast",1,7,2,4,4,4.001
-"PE-Araripina",2020-05-27,"nowcast",1,7,2,4,4,4.107
-"PE-Araripina",2020-05-28,"nowcast",1,7,2,4,4,3.93
-"PE-Araripina",2020-05-29,"nowcast",1,7,2,4,4,3.944
-"PE-Araripina",2020-05-30,"nowcast",0,6,2,4,4,3.823
-"PE-Araripina",2020-05-31,"nowcast",0,6,2,4,4,3.881
-"PE-Araripina",2020-06-01,"nowcast",0,6,2,4,4,3.97
-"PE-Araripina",2020-06-02,"nowcast",1,7,2,4,4,4.094
-"PE-Araripina",2020-06-03,"nowcast",1,7,3,5,4,4.304
-"PE-Araripina",2020-06-04,"nowcast",1,7,3,5,4,4.655
-"PE-Araripina",2020-06-05,"nowcast",2,8,3,5,5,4.931
-"PE-Araripina",2020-06-06,"nowcast",1,8,4,6,5,5.428
-"PE-Araripina",2020-06-07,"nowcast",2,9,3,6,6,5.818
-"PE-Araripina",2020-06-08,"nowcast",3,10,4,7,6,6.47
-"PE-Araripina",2020-06-09,"nowcast",2,10,4,7,7,7
-"PE-Araripina",2020-06-10,"nowcast",3,11,5,8,7,7.223
-"PE-Araripina",2020-06-11,"nowcast",3,11,5,8,7.5,7.726
-"PE-Araripina",2020-06-12,"nowcast",3,12,5,8,8,7.828
-"PE-Araripina",2020-06-13,"nowcast",4,12,5,8,7,7.517
-"PE-Araripina",2020-06-14,"nowcast",3,11,5,8,7,7.559
-"PE-Araripina",2020-06-15,"nowcast",3,11,4,7,7,7.066
-"PE-Araripina",2020-06-16,"nowcast",3,10,3,6,6,6.478
-"PE-Araripina",2020-06-17,"nowcast",2,10,4,7,6,6.415
-"PE-Araripina",2020-06-18,"nowcast",3,10,3,6,6,6.269
-"PE-Araripina",2020-06-19,"nowcast",2,9,3,6,6,6.139
-"PE-Araripina",2020-06-20,"nowcast",2,9,3,6,6,6.079
-"PE-Araripina",2020-06-21,"nowcast",2,9,3,6,6,6.002
-"PE-Araripina",2020-06-22,"nowcast",2,9,3,6,6,6.044
-"PE-Araripina",2020-06-23,"nowcast",1,9,3,6,6,6.064
-"PE-Araripina",2020-06-24,"nowcast",2,10,3,6,6,6.235
-"PE-Araripina",2020-06-25,"nowcast",2,10,4,7,6,6.465
-"PE-Araripina",2020-06-26,"nowcast",2,10,4,7,6,6.695
-"PE-Araripina",2020-06-27,"nowcast",3,11,4,7,7,7.064
-"PE-Araripina",2020-06-28,"nowcast",2,11,5,8,7,7.591
-"PE-Araripina",2020-06-29,"nowcast",3,12,6,9,8,7.903
-"PE-Araripina",2020-06-30,"nowcast",4,13,7,10,8,8.483
-"PE-Araripina",2020-07-01,"nowcast",5,14,5,9,9,9.131
-"PE-Araripina",2020-07-02,"nowcast",4,14,7,10,9,9.657
-"PE-Araripina",2020-07-03,"nowcast",6,16,7,11,10,10.537
-"PE-Araripina",2020-07-04,"nowcast",5,16,8,12,11,11.063
-"PE-Araripina",2020-07-05,"nowcast",6,17,9,13,12,11.856
-"PE-Araripina",2020-07-06,"nowcast",7,18,9,13,13,12.705
-"PE-Araripina",2020-07-07,"nowcast",8,19,11,15,13,13.559
-"PE-Araripina",2020-07-08,"nowcast",8,20,10,15,15,14.756
-"PE-Araripina",2020-07-09,"nowcast",9,21,13,17,15,15.528
-"PE-Araripina",2020-07-10,"nowcast",9,22,12,17,16,16.327
-"PE-Araripina",2020-07-11,"nowcast",10,24,13,18,17,17.343
-"PE-Araripina",2020-07-12,"nowcast",10,24,15,20,18,18.442
-"PE-Araripina",2020-07-13,"nowcast",12,26,16,21,19,19.481
-"PE-Araripina",2020-07-14,"nowcast",13,27,15,21,21,20.764
-"PE-Araripina",2020-07-15,"nowcast",14,29,17,23,22,22.048
-"PE-Araripina",2020-07-16,"nowcast",15,30,18,24,23,23.427
-"PE-Araripina",2020-07-17,"nowcast",15,31,20,26,24,24.178
-"PE-Araripina",2020-07-18,"nowcast",16,32,22,28,25,25.228
-"PE-Araripina",2020-07-19,"nowcast",16,32,21,27,26,25.62
-"PE-Araripina",2020-07-20,"nowcast",17,33,21,27,25,25.385
-"PE-Araripina",2020-07-21,"nowcast",18,33,21,27,25,25.689
-"PE-Araripina",2020-07-22,"nowcast",16,33,20,27,26,26.181
-"PE-Araripina",2020-07-23,"nowcast",18,34,22,28,27,26.738
-"PE-Araripina",2020-07-24,"nowcast",19,35,21,28,27,27.057
-"PE-Araripina",2020-07-25,"nowcast",18,36,24,31,27,27.514
-"PE-Araripina",2020-07-26,"nowcast",19,36,24,30,28,27.651
-"PE-Araripina",2020-07-27,"nowcast",19,37,22,29,27.5,27.992
-"PE-Araripina",2020-07-28,"nowcast",20,38,23,30,28,28.791
+"PE-Araripina",2020-03-31,"nowcast",1,1,1,1,1,1
+"PE-Araripina",2020-04-01,"nowcast",0,1,1,1,1,0.6
+"PE-Araripina",2020-04-02,"nowcast",0,1,0,0,0,0.285714285714286
+"PE-Araripina",2020-04-03,"nowcast",0,1,0,0,0,0.333333333333333
+"PE-Araripina",2020-04-04,"nowcast",0,1,0,0,0,0.428571428571429
+"PE-Araripina",2020-04-05,"nowcast",0,1,0,0,0,0.4
+"PE-Araripina",2020-04-06,"nowcast",0,1,0,0,0,0.419354838709677
+"PE-Araripina",2020-04-07,"nowcast",0,1,0,0,0,0.326086956521739
+"PE-Araripina",2020-04-08,"nowcast",0,1,0,0,0,0.254545454545455
+"PE-Araripina",2020-04-09,"nowcast",0,1,0,0,0,0.203125
+"PE-Araripina",2020-04-10,"nowcast",0,1,0,0,0,0.296296296296296
+"PE-Araripina",2020-04-11,"nowcast",0,1,0,0,0,0.357798165137615
+"PE-Araripina",2020-04-12,"nowcast",0,1,0,0,0,0.272058823529412
+"PE-Araripina",2020-04-13,"nowcast",0,1,0,0,0,0.377906976744186
+"PE-Araripina",2020-04-14,"nowcast",0,1,0,0,0,0.349056603773585
+"PE-Araripina",2020-04-15,"nowcast",0,1,0,0,0,0.337209302325581
+"PE-Araripina",2020-04-16,"nowcast",0,1,0,0,0,0.38125
+"PE-Araripina",2020-04-17,"nowcast",0,1,0,0,0,0.306666666666667
+"PE-Araripina",2020-04-18,"nowcast",0,1,0,0,0,0.334862385321101
+"PE-Araripina",2020-04-19,"nowcast",0,1,0,0,0,0.377862595419847
+"PE-Araripina",2020-04-20,"nowcast",0,1,0,0,0,0.414191419141914
+"PE-Araripina",2020-04-21,"nowcast",0,1,0,0,0,0.41799709724238
+"PE-Araripina",2020-04-22,"nowcast",0,1,0,0,0,0.453002610966057
+"PE-Araripina",2020-04-23,"nowcast",0,1,0,0,0,0.512135922330097
+"PE-Araripina",2020-04-24,"nowcast",0,2,0,0,0,0.613816534541336
+"PE-Araripina",2020-04-25,"nowcast",0,2,0,0,0,0.647442872687704
+"PE-Araripina",2020-04-26,"nowcast",0,2,0,1,1,0.719409282700422
+"PE-Araripina",2020-04-27,"nowcast",0,2,0,1,1,0.871399176954732
+"PE-Araripina",2020-04-28,"nowcast",0,2,0,1,1,0.988888888888889
+"PE-Araripina",2020-04-29,"nowcast",0,2,0,1,1,1.11523046092184
+"PE-Araripina",2020-04-30,"nowcast",0,3,0,1,1,1.27227227227227
+"PE-Araripina",2020-05-01,"nowcast",0,3,0,1,1,1.42142142142142
+"PE-Araripina",2020-05-02,"nowcast",0,3,0,1,1,1.495
+"PE-Araripina",2020-05-03,"nowcast",0,3,0,1,1,1.638
+"PE-Araripina",2020-05-04,"nowcast",0,3,0,1,1,1.565
+"PE-Araripina",2020-05-05,"nowcast",0,3,0,1,1,1.656
+"PE-Araripina",2020-05-06,"nowcast",0,3,0,1,1,1.558
+"PE-Araripina",2020-05-07,"nowcast",0,3,0,1,1,1.473
+"PE-Araripina",2020-05-08,"nowcast",0,3,0,1,1,1.49
+"PE-Araripina",2020-05-09,"nowcast",0,3,0,1,1,1.461
+"PE-Araripina",2020-05-10,"nowcast",0,3,0,1,1,1.531
+"PE-Araripina",2020-05-11,"nowcast",0,3,0,1,1,1.662
+"PE-Araripina",2020-05-12,"nowcast",0,4,1,2,2,1.824
+"PE-Araripina",2020-05-13,"nowcast",0,4,1,2,2,2.065
+"PE-Araripina",2020-05-14,"nowcast",0,4,1,2,2,2.35
+"PE-Araripina",2020-05-15,"nowcast",0,5,2,3,2,2.597
+"PE-Araripina",2020-05-16,"nowcast",0,5,1,3,3,2.851
+"PE-Araripina",2020-05-17,"nowcast",0,5,1,3,3,3.1
+"PE-Araripina",2020-05-18,"nowcast",1,6,1,3,3,3.265
+"PE-Araripina",2020-05-19,"nowcast",1,6,1,3,3,3.486
+"PE-Araripina",2020-05-20,"nowcast",1,6,1,3,3,3.48
+"PE-Araripina",2020-05-21,"nowcast",1,6,1,3,3,3.496
+"PE-Araripina",2020-05-22,"nowcast",1,6,2,4,3,3.679
+"PE-Araripina",2020-05-23,"nowcast",0,6,2,4,4,3.792
+"PE-Araripina",2020-05-24,"nowcast",0,6,2,4,4,3.827
+"PE-Araripina",2020-05-25,"nowcast",0,6,2,4,4,3.913
+"PE-Araripina",2020-05-26,"nowcast",1,7,2,4,4,4.093
+"PE-Araripina",2020-05-27,"nowcast",1,7,2,4,4,4.049
+"PE-Araripina",2020-05-28,"nowcast",0,6,2,4,4,3.969
+"PE-Araripina",2020-05-29,"nowcast",0,6,2,4,4,3.891
+"PE-Araripina",2020-05-30,"nowcast",0,6,2,4,4,3.807
+"PE-Araripina",2020-05-31,"nowcast",0,6,2,4,4,3.796
+"PE-Araripina",2020-06-01,"nowcast",1,7,2,4,4,4.007
+"PE-Araripina",2020-06-02,"nowcast",1,7,2,4,4,4.097
+"PE-Araripina",2020-06-03,"nowcast",1,7,3,5,4,4.443
+"PE-Araripina",2020-06-04,"nowcast",2,8,3,5,5,4.673
+"PE-Araripina",2020-06-05,"nowcast",1,8,2,5,5,5.032
+"PE-Araripina",2020-06-06,"nowcast",1,8,2,5,5,5.443
+"PE-Araripina",2020-06-07,"nowcast",2,9,3,6,6,6.099
+"PE-Araripina",2020-06-08,"nowcast",3,10,3,6,6,6.392
+"PE-Araripina",2020-06-09,"nowcast",2,10,4,7,7,6.91
+"PE-Araripina",2020-06-10,"nowcast",2,11,5,8,7,7.508
+"PE-Araripina",2020-06-11,"nowcast",3,11,5,8,7,7.49
+"PE-Araripina",2020-06-12,"nowcast",4,12,5,8,8,7.696
+"PE-Araripina",2020-06-13,"nowcast",4,12,5,8,8,7.693
+"PE-Araripina",2020-06-14,"nowcast",3,11,5,8,7,7.401
+"PE-Araripina",2020-06-15,"nowcast",2,10,4,7,7,7.033
+"PE-Araripina",2020-06-16,"nowcast",3,10,4,7,7,6.751
+"PE-Araripina",2020-06-17,"nowcast",3,10,4,7,6,6.51
+"PE-Araripina",2020-06-18,"nowcast",2,9,3,6,6,6.2
+"PE-Araripina",2020-06-19,"nowcast",1,9,3,6,6,5.964
+"PE-Araripina",2020-06-20,"nowcast",3,10,3,6,6,5.879
+"PE-Araripina",2020-06-21,"nowcast",2,9,3,6,6,5.803
+"PE-Araripina",2020-06-22,"nowcast",2,9,3,6,6,5.857
+"PE-Araripina",2020-06-23,"nowcast",3,10,5,7,6,6.139
+"PE-Araripina",2020-06-24,"nowcast",2,10,3,6,6,6.184
+"PE-Araripina",2020-06-25,"nowcast",2,10,4,7,6,6.477
+"PE-Araripina",2020-06-26,"nowcast",2,10,4,7,7,6.796
+"PE-Araripina",2020-06-27,"nowcast",3,11,5,8,7,7.117
+"PE-Araripina",2020-06-28,"nowcast",2,11,5,8,7.5,7.574
+"PE-Araripina",2020-06-29,"nowcast",3,12,6,9,8,8.139
+"PE-Araripina",2020-06-30,"nowcast",3,12,6,9,8,8.472
+"PE-Araripina",2020-07-01,"nowcast",3,13,5,9,9,9.058
+"PE-Araripina",2020-07-02,"nowcast",4,14,6,10,9,9.538
+"PE-Araripina",2020-07-03,"nowcast",4,15,7,11,10,10.487
+"PE-Araripina",2020-07-04,"nowcast",6,16,8,12,11,11.142
+"PE-Araripina",2020-07-05,"nowcast",6,17,9,13,12,11.893
+"PE-Araripina",2020-07-06,"nowcast",7,18,10,14,13,12.838
+"PE-Araripina",2020-07-07,"nowcast",8,19,9,14,14,13.853
+"PE-Araripina",2020-07-08,"nowcast",8,20,11,16,15,14.548
+"PE-Araripina",2020-07-09,"nowcast",8,21,11,16,15,15.602
+"PE-Araripina",2020-07-10,"nowcast",9,22,12,17,16,16.5
+"PE-Araripina",2020-07-11,"nowcast",9,23,14,19,17,17.491
+"PE-Araripina",2020-07-12,"nowcast",12,25,14,19,18,18.598
+"PE-Araripina",2020-07-13,"nowcast",12,26,17,22,20,19.898
+"PE-Araripina",2020-07-14,"nowcast",13,28,16,22,21,21.106
+"PE-Araripina",2020-07-15,"nowcast",15,29,19,24,22,22.55
+"PE-Araripina",2020-07-16,"nowcast",16,31,18,24,23,23.696
+"PE-Araripina",2020-07-17,"nowcast",16,31,20,26,24,24.468
+"PE-Araripina",2020-07-18,"nowcast",17,32,20,26,25,25.299
+"PE-Araripina",2020-07-19,"nowcast",18,34,21,27,26,25.995
+"PE-Araripina",2020-07-20,"nowcast",18,34,22,28,26,26.144
+"PE-Araripina",2020-07-21,"nowcast",16,33,22,28,26,26.197
+"PE-Araripina",2020-07-22,"nowcast",18,34,22,28,26,26.721
+"PE-Araripina",2020-07-23,"nowcast",19,36,22,29,27,27.241
+"PE-Araripina",2020-07-24,"nowcast",20,37,23,30,28,28.246
+"PE-Araripina",2020-07-25,"nowcast",20,37,23,30,29,28.795
+"PE-Araripina",2020-07-26,"nowcast",19,37,23,30,29,29.121
+"PE-Araripina",2020-07-27,"nowcast",20,38,25,32,30,30.208
+"PE-Araripina",2020-07-28,"nowcast",21,40,24,32,31,31.006
+"PE-Araripina",2020-07-29,"nowcast",22,44,27,35,32,33.083
 "PE-Araripina",2020-05-03,"observed",NA,NA,NA,NA,1,NA
 "PE-Araripina",2020-05-04,"observed",NA,NA,NA,NA,0,NA
 "PE-Araripina",2020-05-05,"observed",NA,NA,NA,NA,0,NA
@@ -699,21 +689,22 @@
 "PE-Araripina",2020-08-05,"observed",NA,NA,NA,NA,43,NA
 "PE-Araripina",2020-08-06,"observed",NA,NA,NA,NA,19,NA
 "PE-Araripina",2020-08-07,"observed",NA,NA,NA,NA,56,NA
-"PE-Araripina",2020-08-08,"observed",NA,NA,NA,NA,0,NA
-"PE-Araripina",2020-07-29,"forecast",15,43,21,32,29,29.7064
-"PE-Araripina",2020-07-30,"forecast",13,45,19,32,30,30.58
-"PE-Araripina",2020-07-31,"forecast",12,48,20,34,30,31.2724
-"PE-Araripina",2020-08-01,"forecast",12,51,20,35,30,31.7422
-"PE-Araripina",2020-08-02,"forecast",10,54,18,35,31,32.612
-"PE-Araripina",2020-08-03,"forecast",8,56,17,36,32,33.7282
-"PE-Araripina",2020-08-04,"forecast",7,60,16,36,32,34.3556
-"PE-Araripina",2020-08-05,"forecast",6,61,14,36,32,35.1964
-"PE-Araripina",2020-08-06,"forecast",4,66,18,40,32,35.9912
-"PE-Araripina",2020-08-07,"forecast",4,69,11,36,33,37.0744
-"PE-Araripina",2020-08-08,"forecast",0,67,10,36,33,37.8732
-"PE-Araripina",2020-08-09,"forecast",0,72,12,39,33,38.9472
-"PE-Araripina",2020-08-10,"forecast",0,76,11,39,33,40.0696
-"PE-Araripina",2020-08-11,"forecast",0,77,9,39,34,40.4204
+"PE-Araripina",2020-08-08,"observed",NA,NA,NA,NA,50,NA
+"PE-Araripina",2020-08-09,"observed",NA,NA,NA,NA,0,NA
+"PE-Araripina",2020-07-30,"forecast",17,48,26,38,33,33.6774
+"PE-Araripina",2020-07-31,"forecast",16,52,24,38,34,34.8472
+"PE-Araripina",2020-08-01,"forecast",14,55,22,38,35,36.1976
+"PE-Araripina",2020-08-02,"forecast",12,58,22,40,36,37.4594
+"PE-Araripina",2020-08-03,"forecast",14,64,22,41,37,38.7796
+"PE-Araripina",2020-08-04,"forecast",10,65,23,44,38,40.0474
+"PE-Araripina",2020-08-05,"forecast",9,69,21,44,38,41.1118
+"PE-Araripina",2020-08-06,"forecast",8,74,19,44,39,42.5216
+"PE-Araripina",2020-08-07,"forecast",8,80,18,45,40,44.1772
+"PE-Araripina",2020-08-08,"forecast",5,82,18,47,41,45.858
+"PE-Araripina",2020-08-09,"forecast",4,88,19,50,42,47.6976
+"PE-Araripina",2020-08-10,"forecast",0,90,18,50,42,49.4772
+"PE-Araripina",2020-08-11,"forecast",0,95,14,49,43,51.7802
+"PE-Araripina",2020-08-12,"forecast",0,102,13,50,44,53.9798
 "PE-Arcoverde",2020-02-27,"nowcast",1,1,1,1,1,1
 "PE-Arcoverde",2020-02-28,"nowcast",0,0,0,0,0,0
 "PE-Arcoverde",2020-02-29,"nowcast",0,0,0,0,0,0
@@ -3453,170 +3444,166 @@
 "PE-Carpina",2020-08-03,"forecast",0,130,0,28,28,61.8842
 "PE-Carpina",2020-08-04,"forecast",0,153,0,30,30,76.2992
 "PE-Carpina",2020-08-05,"forecast",0,189,0,32,32,91.172
-"PE-Caruaru",2020-02-16,"nowcast",1,1,1,1,1,1
-"PE-Caruaru",2020-02-17,"nowcast",0,1,1,1,1,0.666666666666667
-"PE-Caruaru",2020-02-18,"nowcast",0,0,0,0,0,0
-"PE-Caruaru",2020-02-19,"nowcast",0,0,0,0,0,0
-"PE-Caruaru",2020-02-20,"nowcast",0,1,0,0,0,0.25
-"PE-Caruaru",2020-02-21,"nowcast",0,1,0,0,0,0.4
-"PE-Caruaru",2020-02-22,"nowcast",0,1,1,1,1,0.571428571428571
-"PE-Caruaru",2020-02-23,"nowcast",0,1,0,0,0,0.142857142857143
-"PE-Caruaru",2020-02-24,"nowcast",0,1,0,0,0,0.125
-"PE-Caruaru",2020-02-25,"nowcast",0,1,0,0,0,0.111111111111111
-"PE-Caruaru",2020-02-26,"nowcast",0,1,0,0,0,0.181818181818182
-"PE-Caruaru",2020-02-27,"nowcast",0,1,0,0,0,0.230769230769231
-"PE-Caruaru",2020-02-28,"nowcast",0,1,0,0,0,0.428571428571429
-"PE-Caruaru",2020-02-29,"nowcast",0,1,0,0,0,0.3
-"PE-Caruaru",2020-03-01,"nowcast",0,1,0,0,0,0.147058823529412
-"PE-Caruaru",2020-03-02,"nowcast",0,1,0,0,0,0.311111111111111
-"PE-Caruaru",2020-03-03,"nowcast",0,1,0,0,0,0.218181818181818
-"PE-Caruaru",2020-03-04,"nowcast",0,1,0,0,0,0.319444444444444
-"PE-Caruaru",2020-03-05,"nowcast",0,1,0,0,0,0.244444444444444
-"PE-Caruaru",2020-03-06,"nowcast",0,1,0,0,0,0.365079365079365
-"PE-Caruaru",2020-03-07,"nowcast",0,1,0,0,0,0.269736842105263
-"PE-Caruaru",2020-03-08,"nowcast",0,1,0,0,0,0.24
-"PE-Caruaru",2020-03-09,"nowcast",0,1,0,0,0,0.263888888888889
-"PE-Caruaru",2020-03-10,"nowcast",0,1,0,0,0,0.240458015267176
-"PE-Caruaru",2020-03-11,"nowcast",0,1,0,0,0,0.250825082508251
-"PE-Caruaru",2020-03-12,"nowcast",0,1,0,0,0,0.241379310344828
-"PE-Caruaru",2020-03-13,"nowcast",0,1,0,0,0,0.24384236453202
-"PE-Caruaru",2020-03-14,"nowcast",0,1,0,0,0,0.249466950959488
-"PE-Caruaru",2020-03-15,"nowcast",0,1,0,0,0,0.244402985074627
-"PE-Caruaru",2020-03-16,"nowcast",0,1,0,0,0,0.222961730449251
-"PE-Caruaru",2020-03-17,"nowcast",0,1,0,0,0,0.219879518072289
-"PE-Caruaru",2020-03-18,"nowcast",0,1,0,0,0,0.209335219236209
-"PE-Caruaru",2020-03-19,"nowcast",0,1,0,0,0,0.212401055408971
-"PE-Caruaru",2020-03-20,"nowcast",0,1,0,0,0,0.221238938053097
-"PE-Caruaru",2020-03-21,"nowcast",0,1,0,0,0,0.221271393643032
-"PE-Caruaru",2020-03-22,"nowcast",0,1,0,0,0,0.225768321513002
-"PE-Caruaru",2020-03-23,"nowcast",0,1,0,0,0,0.258064516129032
-"PE-Caruaru",2020-03-24,"nowcast",0,1,0,0,0,0.308211473565804
-"PE-Caruaru",2020-03-25,"nowcast",0,1,0,0,0,0.354803493449782
-"PE-Caruaru",2020-03-26,"nowcast",0,1,0,0,0,0.39304531085353
-"PE-Caruaru",2020-03-27,"nowcast",0,1,0,0,0,0.461220268872802
-"PE-Caruaru",2020-03-28,"nowcast",0,1,0,0,0,0.543679342240493
-"PE-Caruaru",2020-03-29,"nowcast",0,2,0,0,0,0.6082995951417
-"PE-Caruaru",2020-03-30,"nowcast",0,2,0,0,0,0.607645875251509
-"PE-Caruaru",2020-03-31,"nowcast",0,2,0,1,1,0.705823293172691
-"PE-Caruaru",2020-04-01,"nowcast",0,2,0,1,1,0.770541082164329
-"PE-Caruaru",2020-04-02,"nowcast",0,2,0,1,1,0.758
-"PE-Caruaru",2020-04-03,"nowcast",0,2,0,1,1,0.819
-"PE-Caruaru",2020-04-04,"nowcast",0,2,0,1,1,0.844
-"PE-Caruaru",2020-04-05,"nowcast",0,2,0,1,1,0.933
-"PE-Caruaru",2020-04-06,"nowcast",0,2,0,1,1,0.972
-"PE-Caruaru",2020-04-07,"nowcast",0,2,0,1,1,1.054
-"PE-Caruaru",2020-04-08,"nowcast",0,2,0,1,1,1.091
-"PE-Caruaru",2020-04-09,"nowcast",0,2,0,1,1,1.125
-"PE-Caruaru",2020-04-10,"nowcast",0,3,0,1,1,1.298
-"PE-Caruaru",2020-04-11,"nowcast",0,3,0,1,1,1.268
-"PE-Caruaru",2020-04-12,"nowcast",0,3,0,1,1,1.269
-"PE-Caruaru",2020-04-13,"nowcast",0,3,0,1,1,1.38
-"PE-Caruaru",2020-04-14,"nowcast",0,3,0,1,1,1.339
-"PE-Caruaru",2020-04-15,"nowcast",0,3,0,1,1,1.512
-"PE-Caruaru",2020-04-16,"nowcast",0,3,0,1,1,1.543
-"PE-Caruaru",2020-04-17,"nowcast",0,4,1,2,2,1.808
-"PE-Caruaru",2020-04-18,"nowcast",0,4,0,2,2,2.123
-"PE-Caruaru",2020-04-19,"nowcast",0,4,0,2,2,2.397
-"PE-Caruaru",2020-04-20,"nowcast",0,5,0,2,2,2.686
-"PE-Caruaru",2020-04-21,"nowcast",0,5,1,3,3,2.991
-"PE-Caruaru",2020-04-22,"nowcast",0,5,1,3,3,3.227
-"PE-Caruaru",2020-04-23,"nowcast",1,6,2,4,3,3.555
-"PE-Caruaru",2020-04-24,"nowcast",1,7,2,4,4,3.956
-"PE-Caruaru",2020-04-25,"nowcast",1,7,2,4,4,4.228
-"PE-Caruaru",2020-04-26,"nowcast",1,8,4,6,5,4.829
-"PE-Caruaru",2020-04-27,"nowcast",1,8,2,5,5,5.213
-"PE-Caruaru",2020-04-28,"nowcast",2,9,2,5,5,5.705
-"PE-Caruaru",2020-04-29,"nowcast",2,10,4,7,6,6.305
-"PE-Caruaru",2020-04-30,"nowcast",3,11,5,8,7,6.945
-"PE-Caruaru",2020-05-01,"nowcast",3,12,5,8,8,7.705
-"PE-Caruaru",2020-05-02,"nowcast",3,12,6,9,8,8.19
-"PE-Caruaru",2020-05-03,"nowcast",4,13,7,10,9,9.082
-"PE-Caruaru",2020-05-04,"nowcast",4,14,6,10,10,10.061
-"PE-Caruaru",2020-05-05,"nowcast",5,15,7,11,11,10.849
-"PE-Caruaru",2020-05-06,"nowcast",6,17,9,13,12,11.755
-"PE-Caruaru",2020-05-07,"nowcast",7,18,10,14,13,12.702
-"PE-Caruaru",2020-05-08,"nowcast",6,18,9,14,13,13.563
-"PE-Caruaru",2020-05-09,"nowcast",9,21,10,15,14,14.638
-"PE-Caruaru",2020-05-10,"nowcast",9,21,11,16,15,15.498
-"PE-Caruaru",2020-05-11,"nowcast",9,22,12,17,16,16.304
-"PE-Caruaru",2020-05-12,"nowcast",10,23,13,18,17,16.886
-"PE-Caruaru",2020-05-13,"nowcast",11,23,13,18,17,17.332
-"PE-Caruaru",2020-05-14,"nowcast",9,23,14,19,18,17.847
-"PE-Caruaru",2020-05-15,"nowcast",11,24,14,19,18,18.068
-"PE-Caruaru",2020-05-16,"nowcast",11,24,15,20,18,18.739
-"PE-Caruaru",2020-05-17,"nowcast",12,26,16,21,19,19.14
-"PE-Caruaru",2020-05-18,"nowcast",13,26,16,21,19,19.683
-"PE-Caruaru",2020-05-19,"nowcast",12,26,17,22,20,19.991
-"PE-Caruaru",2020-05-20,"nowcast",14,27,17,22,20,20.591
-"PE-Caruaru",2020-05-21,"nowcast",15,29,16,22,21,21.361
-"PE-Caruaru",2020-05-22,"nowcast",14,29,17,23,22,22.189
-"PE-Caruaru",2020-05-23,"nowcast",14,30,18,24,23,23.441
-"PE-Caruaru",2020-05-24,"nowcast",16,32,21,27,24,24.41
-"PE-Caruaru",2020-05-25,"nowcast",18,34,19,26,26,25.787
-"PE-Caruaru",2020-05-26,"nowcast",18,35,24,30,27,27.376
-"PE-Caruaru",2020-05-27,"nowcast",20,37,23,30,28,28.52
-"PE-Caruaru",2020-05-28,"nowcast",20,38,25,32,30,30.194
-"PE-Caruaru",2020-05-29,"nowcast",21,40,26,33,31,31.178
-"PE-Caruaru",2020-05-30,"nowcast",23,42,28,35,33,33.065
-"PE-Caruaru",2020-05-31,"nowcast",26,44,28,36,34,34.586
-"PE-Caruaru",2020-06-01,"nowcast",25,46,31,39,36,36.829
-"PE-Caruaru",2020-06-02,"nowcast",27,49,34,42,39,39.07
-"PE-Caruaru",2020-06-03,"nowcast",29,51,35,44,41,41.457
-"PE-Caruaru",2020-06-04,"nowcast",32,55,38,47,45,44.96
-"PE-Caruaru",2020-06-05,"nowcast",36,59,41,50,47,47.621
-"PE-Caruaru",2020-06-06,"nowcast",38,61,44,53,51,50.924
-"PE-Caruaru",2020-06-07,"nowcast",42,66,47,56,53,53.778
-"PE-Caruaru",2020-06-08,"nowcast",44,68,49,59,56,56.514
-"PE-Caruaru",2020-06-09,"nowcast",47,70,53,62,58,58.555
-"PE-Caruaru",2020-06-10,"nowcast",47,71,53,63,60,60.273
-"PE-Caruaru",2020-06-11,"nowcast",49,73,57,66,61,61.483
-"PE-Caruaru",2020-06-12,"nowcast",51,75,54,64,62,62.461
-"PE-Caruaru",2020-06-13,"nowcast",50,74,54,64,62,62.661
-"PE-Caruaru",2020-06-14,"nowcast",49,73,54,64,63,62.659
-"PE-Caruaru",2020-06-15,"nowcast",49,74,58,67,63,62.635
-"PE-Caruaru",2020-06-16,"nowcast",50,74,55,65,62,62.519
-"PE-Caruaru",2020-06-17,"nowcast",50,74,55,65,62,62.488
-"PE-Caruaru",2020-06-18,"nowcast",49,75,57,67,64,63.536
-"PE-Caruaru",2020-06-19,"nowcast",52,77,58,68,65,64.761
-"PE-Caruaru",2020-06-20,"nowcast",54,79,61,71,67,66.631
-"PE-Caruaru",2020-06-21,"nowcast",53,79,61,71,68,68.27
-"PE-Caruaru",2020-06-22,"nowcast",55,81,62,73,70,70.039
-"PE-Caruaru",2020-06-23,"nowcast",58,84,64,74,71,71.755
-"PE-Caruaru",2020-06-24,"nowcast",60,86,69,79,73,73.102
-"PE-Caruaru",2020-06-25,"nowcast",61,89,69,80,74,74.392
-"PE-Caruaru",2020-06-26,"nowcast",61,87,67,78,75,75.136
-"PE-Caruaru",2020-06-27,"nowcast",61,89,69,81,75,75.543
-"PE-Caruaru",2020-06-28,"nowcast",60,88,65,77,74,74.583
-"PE-Caruaru",2020-06-29,"nowcast",57,85,65,76,72,72.761
-"PE-Caruaru",2020-06-30,"nowcast",56,82,61,72,69,69.379
-"PE-Caruaru",2020-07-01,"nowcast",51,77,61,71,66,66.365
-"PE-Caruaru",2020-07-02,"nowcast",51,76,57,67,64,64.346
-"PE-Caruaru",2020-07-03,"nowcast",50,75,56,66,63,63.521
-"PE-Caruaru",2020-07-04,"nowcast",53,76,55,65,63,63.28
-"PE-Caruaru",2020-07-05,"nowcast",49,75,56,66,64,63.683
-"PE-Caruaru",2020-07-06,"nowcast",51,76,56,67,65,64.863
-"PE-Caruaru",2020-07-07,"nowcast",52,78,60,70,66,65.768
-"PE-Caruaru",2020-07-08,"nowcast",55,81,59,70,67,67.303
-"PE-Caruaru",2020-07-09,"nowcast",55,81,62,72,68,68.127
-"PE-Caruaru",2020-07-10,"nowcast",55,82,61,72,70,69.894
-"PE-Caruaru",2020-07-11,"nowcast",56,83,62,73,70,70.498
-"PE-Caruaru",2020-07-12,"nowcast",58,86,64,75,71,71.148
-"PE-Caruaru",2020-07-13,"nowcast",58,86,65,76,72,71.919
-"PE-Caruaru",2020-07-14,"nowcast",59,87,63,75,73,73.007
-"PE-Caruaru",2020-07-15,"nowcast",59,88,70,80,75,75.158
-"PE-Caruaru",2020-07-16,"nowcast",61,91,70,82,79,78.563
-"PE-Caruaru",2020-07-17,"nowcast",66,97,76,88,83,82.809
-"PE-Caruaru",2020-07-18,"nowcast",69,100,78,90,87,86.98
-"PE-Caruaru",2020-07-19,"nowcast",74,104,80,93,90,90.541
-"PE-Caruaru",2020-07-20,"nowcast",76,107,85,98,94,93.76
-"PE-Caruaru",2020-07-21,"nowcast",80,111,89,101,96,95.806
-"PE-Caruaru",2020-07-22,"nowcast",81,113,87,100,95,95.852
-"PE-Caruaru",2020-07-23,"nowcast",78,109,85,98,95,94.938
-"PE-Caruaru",2020-07-24,"nowcast",77,110,86,99,94,94.185
-"PE-Caruaru",2020-07-25,"nowcast",75,106,83,96,92,91.712
-"PE-Caruaru",2020-07-26,"nowcast",70,104,81,94,89,88.97
-"PE-Caruaru",2020-07-27,"nowcast",69,102,77,90,85,85.2
-"PE-Caruaru",2020-07-28,"nowcast",61,96,73,85,81,81.917
+"PE-Caruaru",2020-02-21,"nowcast",1,1,1,1,1,1
+"PE-Caruaru",2020-02-22,"nowcast",0,1,1,1,1,0.666666666666667
+"PE-Caruaru",2020-02-23,"nowcast",0,1,1,1,1,0.666666666666667
+"PE-Caruaru",2020-02-24,"nowcast",0,1,0,0,0,0.142857142857143
+"PE-Caruaru",2020-02-25,"nowcast",0,1,0,0,0,0.3
+"PE-Caruaru",2020-02-26,"nowcast",0,1,1,1,1,0.611111111111111
+"PE-Caruaru",2020-02-27,"nowcast",0,1,0,0,0,0.19047619047619
+"PE-Caruaru",2020-02-28,"nowcast",0,1,0,0,0,0.16
+"PE-Caruaru",2020-02-29,"nowcast",0,1,0,0,0,0.266666666666667
+"PE-Caruaru",2020-03-01,"nowcast",0,1,0,0,0,0.194444444444444
+"PE-Caruaru",2020-03-02,"nowcast",0,1,0,0,0,0.214285714285714
+"PE-Caruaru",2020-03-03,"nowcast",0,1,0,0,0,0.183673469387755
+"PE-Caruaru",2020-03-04,"nowcast",0,1,0,0,0,0.290322580645161
+"PE-Caruaru",2020-03-05,"nowcast",0,1,0,0,0,0.352941176470588
+"PE-Caruaru",2020-03-06,"nowcast",0,1,0,0,0,0.25
+"PE-Caruaru",2020-03-07,"nowcast",0,1,0,0,0,0.26984126984127
+"PE-Caruaru",2020-03-08,"nowcast",0,1,0,0,0,0.221476510067114
+"PE-Caruaru",2020-03-09,"nowcast",0,1,0,0,0,0.252747252747253
+"PE-Caruaru",2020-03-10,"nowcast",0,1,0,0,0,0.192488262910798
+"PE-Caruaru",2020-03-11,"nowcast",0,1,0,0,0,0.269230769230769
+"PE-Caruaru",2020-03-12,"nowcast",0,1,0,0,0,0.249211356466877
+"PE-Caruaru",2020-03-13,"nowcast",0,1,0,0,0,0.26246719160105
+"PE-Caruaru",2020-03-14,"nowcast",0,1,0,0,0,0.226327944572748
+"PE-Caruaru",2020-03-15,"nowcast",0,1,0,0,0,0.238568588469185
+"PE-Caruaru",2020-03-16,"nowcast",0,1,0,0,0,0.23943661971831
+"PE-Caruaru",2020-03-17,"nowcast",0,1,0,0,0,0.23015873015873
+"PE-Caruaru",2020-03-18,"nowcast",0,1,0,0,0,0.223529411764706
+"PE-Caruaru",2020-03-19,"nowcast",0,1,0,0,0,0.210095497953615
+"PE-Caruaru",2020-03-20,"nowcast",0,1,0,0,0,0.204398447606727
+"PE-Caruaru",2020-03-21,"nowcast",0,1,0,0,0,0.210656753407683
+"PE-Caruaru",2020-03-22,"nowcast",0,1,0,0,0,0.22289156626506
+"PE-Caruaru",2020-03-23,"nowcast",0,1,0,0,0,0.28587962962963
+"PE-Caruaru",2020-03-24,"nowcast",0,1,0,0,0,0.312849162011173
+"PE-Caruaru",2020-03-25,"nowcast",0,1,0,0,0,0.339149400218103
+"PE-Caruaru",2020-03-26,"nowcast",0,1,0,0,0,0.39186295503212
+"PE-Caruaru",2020-03-27,"nowcast",0,1,0,0,0,0.459430979978925
+"PE-Caruaru",2020-03-28,"nowcast",0,1,0,0,0,0.543298969072165
+"PE-Caruaru",2020-03-29,"nowcast",0,1,0,0,0,0.571573604060914
+"PE-Caruaru",2020-03-30,"nowcast",0,2,0,0,0,0.611111111111111
+"PE-Caruaru",2020-03-31,"nowcast",0,2,0,1,1,0.736895161290323
+"PE-Caruaru",2020-04-01,"nowcast",0,2,0,1,1,0.688064192577733
+"PE-Caruaru",2020-04-02,"nowcast",0,2,0,1,1,0.74248496993988
+"PE-Caruaru",2020-04-03,"nowcast",0,2,0,1,1,0.846846846846847
+"PE-Caruaru",2020-04-04,"nowcast",0,2,0,1,1,0.948948948948949
+"PE-Caruaru",2020-04-05,"nowcast",0,2,0,1,1,0.957
+"PE-Caruaru",2020-04-06,"nowcast",0,2,0,1,1,0.955
+"PE-Caruaru",2020-04-07,"nowcast",0,2,0,1,1,1.013
+"PE-Caruaru",2020-04-08,"nowcast",0,2,0,1,1,1.053
+"PE-Caruaru",2020-04-09,"nowcast",0,2,0,1,1,1.101
+"PE-Caruaru",2020-04-10,"nowcast",0,3,0,1,1,1.23
+"PE-Caruaru",2020-04-11,"nowcast",0,3,0,1,1,1.263
+"PE-Caruaru",2020-04-12,"nowcast",0,3,0,1,1,1.275
+"PE-Caruaru",2020-04-13,"nowcast",0,3,0,1,1,1.34
+"PE-Caruaru",2020-04-14,"nowcast",0,3,0,1,1,1.343
+"PE-Caruaru",2020-04-15,"nowcast",0,3,0,1,1,1.479
+"PE-Caruaru",2020-04-16,"nowcast",0,3,0,1,1,1.622
+"PE-Caruaru",2020-04-17,"nowcast",0,4,1,2,2,1.814
+"PE-Caruaru",2020-04-18,"nowcast",0,4,1,2,2,2.115
+"PE-Caruaru",2020-04-19,"nowcast",0,4,0,2,2,2.316
+"PE-Caruaru",2020-04-20,"nowcast",0,5,0,2,2,2.667
+"PE-Caruaru",2020-04-21,"nowcast",0,5,1,3,3,3.014
+"PE-Caruaru",2020-04-22,"nowcast",1,6,1,3,3,3.299
+"PE-Caruaru",2020-04-23,"nowcast",0,6,2,4,3,3.504
+"PE-Caruaru",2020-04-24,"nowcast",0,6,2,4,4,3.902
+"PE-Caruaru",2020-04-25,"nowcast",1,7,2,4,4,4.224
+"PE-Caruaru",2020-04-26,"nowcast",1,8,3,5,4,4.645
+"PE-Caruaru",2020-04-27,"nowcast",1,8,2,5,5,5.13
+"PE-Caruaru",2020-04-28,"nowcast",2,9,3,6,6,5.716
+"PE-Caruaru",2020-04-29,"nowcast",2,10,3,6,6,6.157
+"PE-Caruaru",2020-04-30,"nowcast",2,10,4,7,7,6.792
+"PE-Caruaru",2020-05-01,"nowcast",3,12,5,8,7,7.611
+"PE-Caruaru",2020-05-02,"nowcast",3,12,6,9,8,8.237
+"PE-Caruaru",2020-05-03,"nowcast",5,14,7,10,9,9.124
+"PE-Caruaru",2020-05-04,"nowcast",4,14,7,11,10,9.936
+"PE-Caruaru",2020-05-05,"nowcast",5,15,7,11,11,10.82
+"PE-Caruaru",2020-05-06,"nowcast",5,16,8,12,12,11.654
+"PE-Caruaru",2020-05-07,"nowcast",7,18,9,13,12,12.501
+"PE-Caruaru",2020-05-08,"nowcast",8,19,11,15,14,13.777
+"PE-Caruaru",2020-05-09,"nowcast",8,20,10,15,14.5,14.62
+"PE-Caruaru",2020-05-10,"nowcast",9,21,11,16,15,15.542
+"PE-Caruaru",2020-05-11,"nowcast",10,22,11,16,16,16.214
+"PE-Caruaru",2020-05-12,"nowcast",10,23,13,18,17,16.955
+"PE-Caruaru",2020-05-13,"nowcast",11,23,13,18,17,17.226
+"PE-Caruaru",2020-05-14,"nowcast",10,23,14,19,18,17.747
+"PE-Caruaru",2020-05-15,"nowcast",10,23,14,19,18,18.217
+"PE-Caruaru",2020-05-16,"nowcast",12,25,15,20,19,18.773
+"PE-Caruaru",2020-05-17,"nowcast",11,25,16,21,19,19.198
+"PE-Caruaru",2020-05-18,"nowcast",13,26,16,21,19,19.509
+"PE-Caruaru",2020-05-19,"nowcast",12,26,17,22,20,19.96
+"PE-Caruaru",2020-05-20,"nowcast",14,28,15,21,21,20.758
+"PE-Caruaru",2020-05-21,"nowcast",13,28,16,22,21,21.109
+"PE-Caruaru",2020-05-22,"nowcast",15,29,17,23,22,22.026
+"PE-Caruaru",2020-05-23,"nowcast",14,30,17,24,23,23.245
+"PE-Caruaru",2020-05-24,"nowcast",15,32,21,27,24,24.654
+"PE-Caruaru",2020-05-25,"nowcast",18,34,20,27,26,25.979
+"PE-Caruaru",2020-05-26,"nowcast",19,36,21,28,27,27.538
+"PE-Caruaru",2020-05-27,"nowcast",19,36,26,32,28,28.625
+"PE-Caruaru",2020-05-28,"nowcast",20,38,24,31,30,30.234
+"PE-Caruaru",2020-05-29,"nowcast",22,40,27,34,31,31.505
+"PE-Caruaru",2020-05-30,"nowcast",24,43,25,33,32.5,32.732
+"PE-Caruaru",2020-05-31,"nowcast",23,43,31,38,35,34.551
+"PE-Caruaru",2020-06-01,"nowcast",25,45,30,38,36,36.591
+"PE-Caruaru",2020-06-02,"nowcast",28,49,32,40,38,38.164
+"PE-Caruaru",2020-06-03,"nowcast",30,51,37,45,41,41.548
+"PE-Caruaru",2020-06-04,"nowcast",33,54,37,46,44,44.336
+"PE-Caruaru",2020-06-05,"nowcast",36,58,42,51,47,47.555
+"PE-Caruaru",2020-06-06,"nowcast",38,62,44,53,51,51.175
+"PE-Caruaru",2020-06-07,"nowcast",42,64,47,56,54,54.153
+"PE-Caruaru",2020-06-08,"nowcast",44,68,49,59,56,56.633
+"PE-Caruaru",2020-06-09,"nowcast",46,70,55,64,59,58.964
+"PE-Caruaru",2020-06-10,"nowcast",46,71,52,62,60,60.325
+"PE-Caruaru",2020-06-11,"nowcast",47,72,53,63,61,61.305
+"PE-Caruaru",2020-06-12,"nowcast",48,73,56,66,62,62.199
+"PE-Caruaru",2020-06-13,"nowcast",49,74,55,65,62.5,62.617
+"PE-Caruaru",2020-06-14,"nowcast",49,74,56,66,62,62.534
+"PE-Caruaru",2020-06-15,"nowcast",50,75,55,65,62,62.459
+"PE-Caruaru",2020-06-16,"nowcast",50,75,56,66,63,63.253
+"PE-Caruaru",2020-06-17,"nowcast",50,75,55,65,63,62.786
+"PE-Caruaru",2020-06-18,"nowcast",51,76,58,67,63,63.375
+"PE-Caruaru",2020-06-19,"nowcast",53,79,58,68,65,64.797
+"PE-Caruaru",2020-06-20,"nowcast",53,78,59,69,67,66.973
+"PE-Caruaru",2020-06-21,"nowcast",56,81,63,73,68,68.584
+"PE-Caruaru",2020-06-22,"nowcast",57,84,66,76,70,70.334
+"PE-Caruaru",2020-06-23,"nowcast",58,84,66,76,71,71.758
+"PE-Caruaru",2020-06-24,"nowcast",59,86,66,77,73,73.138
+"PE-Caruaru",2020-06-25,"nowcast",58,86,67,78,74,74.082
+"PE-Caruaru",2020-06-26,"nowcast",63,90,67,78,75,75.389
+"PE-Caruaru",2020-06-27,"nowcast",61,88,69,80,76,75.8
+"PE-Caruaru",2020-06-28,"nowcast",60,89,67,78,74,74.505
+"PE-Caruaru",2020-06-29,"nowcast",58,85,65,76,72,72.194
+"PE-Caruaru",2020-06-30,"nowcast",55,81,61,72,69,69.172
+"PE-Caruaru",2020-07-01,"nowcast",52,77,58,68,66,66.204
+"PE-Caruaru",2020-07-02,"nowcast",50,75,57,67,64,64.249
+"PE-Caruaru",2020-07-03,"nowcast",50,75,57,66,63,63.158
+"PE-Caruaru",2020-07-04,"nowcast",50,74,57,67,63,63.156
+"PE-Caruaru",2020-07-05,"nowcast",50,76,59,69,64,64.295
+"PE-Caruaru",2020-07-06,"nowcast",51,76,57,67,64,64.36
+"PE-Caruaru",2020-07-07,"nowcast",54,79,57,68,66,66.288
+"PE-Caruaru",2020-07-08,"nowcast",54,80,58,69,67,67.459
+"PE-Caruaru",2020-07-09,"nowcast",53,80,62,72,68,68.531
+"PE-Caruaru",2020-07-10,"nowcast",55,82,61,72,70,69.822
+"PE-Caruaru",2020-07-11,"nowcast",56,83,63,74,70,70.411
+"PE-Caruaru",2020-07-12,"nowcast",57,83,61,72,71,71.02
+"PE-Caruaru",2020-07-13,"nowcast",57,86,62,74,72,72.053
+"PE-Caruaru",2020-07-14,"nowcast",57,85,68,79,73,73.358
+"PE-Caruaru",2020-07-15,"nowcast",59,89,67,79,76,75.839
+"PE-Caruaru",2020-07-16,"nowcast",62,91,70,82,78,78.359
+"PE-Caruaru",2020-07-17,"nowcast",66,96,77,89,82,82.518
+"PE-Caruaru",2020-07-18,"nowcast",70,101,80,92,86,86.85
+"PE-Caruaru",2020-07-19,"nowcast",74,106,84,96,91,90.731
+"PE-Caruaru",2020-07-20,"nowcast",78,107,88,99,93,93.412
+"PE-Caruaru",2020-07-21,"nowcast",79,111,86,99,95,95.225
+"PE-Caruaru",2020-07-22,"nowcast",80,110,86,99,95,95.547
+"PE-Caruaru",2020-07-23,"nowcast",76,109,85,98,94,94.739
+"PE-Caruaru",2020-07-24,"nowcast",77,109,85,98,93,93.797
+"PE-Caruaru",2020-07-25,"nowcast",75,106,85,97,91,91.556
+"PE-Caruaru",2020-07-26,"nowcast",73,105,82,95,89,88.754
+"PE-Caruaru",2020-07-27,"nowcast",70,100,75,88,85,85.323
+"PE-Caruaru",2020-07-28,"nowcast",66,99,72,85,82,81.969
+"PE-Caruaru",2020-07-29,"nowcast",65,97,68,81,79,80.173
 "PE-Caruaru",2020-03-23,"observed",NA,NA,NA,NA,1,NA
 "PE-Caruaru",2020-03-24,"observed",NA,NA,NA,NA,0,NA
 "PE-Caruaru",2020-03-25,"observed",NA,NA,NA,NA,0,NA
@@ -3755,21 +3742,22 @@
 "PE-Caruaru",2020-08-05,"observed",NA,NA,NA,NA,106,NA
 "PE-Caruaru",2020-08-06,"observed",NA,NA,NA,NA,108,NA
 "PE-Caruaru",2020-08-07,"observed",NA,NA,NA,NA,70,NA
-"PE-Caruaru",2020-08-08,"observed",NA,NA,NA,NA,0,NA
-"PE-Caruaru",2020-07-29,"forecast",59,110,71,92,86,85.7934
-"PE-Caruaru",2020-07-30,"forecast",56,112,70,92,85,85.3916
-"PE-Caruaru",2020-07-31,"forecast",52,115,69,94,85,85.1288
-"PE-Caruaru",2020-08-01,"forecast",51,118,66,93,84,84.8624
-"PE-Caruaru",2020-08-02,"forecast",49,120,66,94,84,84.6794
-"PE-Caruaru",2020-08-03,"forecast",43,120,61,93,83,84.6586
-"PE-Caruaru",2020-08-04,"forecast",42,124,60,93,83,84.7196
-"PE-Caruaru",2020-08-05,"forecast",37,123,60,95,83,84.2386
-"PE-Caruaru",2020-08-06,"forecast",37,128,56,93,82,84.126
-"PE-Caruaru",2020-08-07,"forecast",32,128,54,93,82,83.904
-"PE-Caruaru",2020-08-08,"forecast",34,132,55,95,82,83.8972
-"PE-Caruaru",2020-08-09,"forecast",32,136,58,99,81,83.9718
-"PE-Caruaru",2020-08-10,"forecast",31,137,52,96,81,83.6638
-"PE-Caruaru",2020-08-11,"forecast",21,133,50,95,80,83.41
+"PE-Caruaru",2020-08-08,"observed",NA,NA,NA,NA,84,NA
+"PE-Caruaru",2020-08-09,"observed",NA,NA,NA,NA,0,NA
+"PE-Caruaru",2020-07-30,"forecast",59,107,67,87,82,82.348
+"PE-Caruaru",2020-07-31,"forecast",52,107,66,88,81,81.6946
+"PE-Caruaru",2020-08-01,"forecast",50,109,65,89,81,81.3554
+"PE-Caruaru",2020-08-02,"forecast",48,112,61,87,79,80.337
+"PE-Caruaru",2020-08-03,"forecast",44,113,59,87,79,80.4058
+"PE-Caruaru",2020-08-04,"forecast",41,114,59,88,78,79.8274
+"PE-Caruaru",2020-08-05,"forecast",40,115,55,86,77,79.0336
+"PE-Caruaru",2020-08-06,"forecast",37,118,56,89,77,78.556
+"PE-Caruaru",2020-08-07,"forecast",34,118,51,85,76,78.0998
+"PE-Caruaru",2020-08-08,"forecast",34,121,49,85,75,77.6092
+"PE-Caruaru",2020-08-09,"forecast",27,121,52,89,75,77.3098
+"PE-Caruaru",2020-08-10,"forecast",28,123,45,84,73,76.6924
+"PE-Caruaru",2020-08-11,"forecast",23,123,43,84,73,76.663
+"PE-Caruaru",2020-08-12,"forecast",23,126,40,81,72,76.1284
 "PE-Cupira",2020-03-10,"nowcast",1,1,1,1,1,1
 "PE-Cupira",2020-03-11,"nowcast",0,0,0,0,0,0
 "PE-Cupira",2020-03-12,"nowcast",0,0,0,0,0,0
@@ -5118,177 +5106,174 @@
 "PE-Ipojuca",2020-08-03,"forecast",0,27,0,9,9,13.1514
 "PE-Ipojuca",2020-08-04,"forecast",0,29,0,9,9,13.7014
 "PE-Ipojuca",2020-08-05,"forecast",0,31,0,9,9,14.252
-"PE-Jaboatão dos Guararapes",2020-02-09,"nowcast",1,1,1,1,1,1
-"PE-Jaboatão dos Guararapes",2020-02-10,"nowcast",0,1,1,1,1,0.666666666666667
-"PE-Jaboatão dos Guararapes",2020-02-11,"nowcast",0,1,0,0,0,0.4
-"PE-Jaboatão dos Guararapes",2020-02-12,"nowcast",0,1,0,0,0,0.285714285714286
-"PE-Jaboatão dos Guararapes",2020-02-13,"nowcast",0,1,0,0,0,0.125
-"PE-Jaboatão dos Guararapes",2020-02-14,"nowcast",0,1,0,0,0,0.2
-"PE-Jaboatão dos Guararapes",2020-02-15,"nowcast",0,1,0,0,0,0.272727272727273
-"PE-Jaboatão dos Guararapes",2020-02-16,"nowcast",0,1,0,0,0,0.3125
-"PE-Jaboatão dos Guararapes",2020-02-17,"nowcast",0,1,0,0,0,0.380952380952381
-"PE-Jaboatão dos Guararapes",2020-02-18,"nowcast",0,1,0,0,0,0.291666666666667
-"PE-Jaboatão dos Guararapes",2020-02-19,"nowcast",0,1,0,0,0,0.416666666666667
-"PE-Jaboatão dos Guararapes",2020-02-20,"nowcast",0,1,0,0,0,0.30952380952381
-"PE-Jaboatão dos Guararapes",2020-02-21,"nowcast",0,1,0,0,0,0.215686274509804
-"PE-Jaboatão dos Guararapes",2020-02-22,"nowcast",0,1,0,0,0,0.371428571428571
-"PE-Jaboatão dos Guararapes",2020-02-23,"nowcast",0,1,0,0,0,0.238095238095238
-"PE-Jaboatão dos Guararapes",2020-02-24,"nowcast",0,1,0,0,0,0.348623853211009
-"PE-Jaboatão dos Guararapes",2020-02-25,"nowcast",0,1,0,0,0,0.204918032786885
-"PE-Jaboatão dos Guararapes",2020-02-26,"nowcast",0,1,0,0,0,0.235714285714286
-"PE-Jaboatão dos Guararapes",2020-02-27,"nowcast",0,1,0,0,0,0.307692307692308
-"PE-Jaboatão dos Guararapes",2020-02-28,"nowcast",0,1,0,0,0,0.295238095238095
-"PE-Jaboatão dos Guararapes",2020-02-29,"nowcast",0,1,0,0,0,0.258064516129032
-"PE-Jaboatão dos Guararapes",2020-03-01,"nowcast",0,1,0,0,0,0.333333333333333
-"PE-Jaboatão dos Guararapes",2020-03-02,"nowcast",0,1,0,0,0,0.351063829787234
-"PE-Jaboatão dos Guararapes",2020-03-03,"nowcast",0,1,0,0,0,0.309954751131222
-"PE-Jaboatão dos Guararapes",2020-03-04,"nowcast",0,1,0,0,0,0.383018867924528
-"PE-Jaboatão dos Guararapes",2020-03-05,"nowcast",0,1,0,0,0,0.365
-"PE-Jaboatão dos Guararapes",2020-03-06,"nowcast",0,1,0,0,0,0.405882352941176
-"PE-Jaboatão dos Guararapes",2020-03-07,"nowcast",0,1,0,0,0,0.445623342175066
-"PE-Jaboatão dos Guararapes",2020-03-08,"nowcast",0,1,0,0,0,0.465770171149144
-"PE-Jaboatão dos Guararapes",2020-03-09,"nowcast",0,1,0,0,0,0.504
-"PE-Jaboatão dos Guararapes",2020-03-10,"nowcast",0,1,0,0,0,0.538876889848812
-"PE-Jaboatão dos Guararapes",2020-03-11,"nowcast",0,2,0,0,0,0.612330198537095
-"PE-Jaboatão dos Guararapes",2020-03-12,"nowcast",0,2,0,0,0,0.634419551934827
-"PE-Jaboatão dos Guararapes",2020-03-13,"nowcast",0,2,0,0,0,0.664646464646465
-"PE-Jaboatão dos Guararapes",2020-03-14,"nowcast",0,2,0,1,1,0.771859296482412
-"PE-Jaboatão dos Guararapes",2020-03-15,"nowcast",0,2,0,1,1,0.778335005015045
-"PE-Jaboatão dos Guararapes",2020-03-16,"nowcast",0,2,0,1,1,0.88376753507014
-"PE-Jaboatão dos Guararapes",2020-03-17,"nowcast",0,2,0,1,1,1.00500500500501
-"PE-Jaboatão dos Guararapes",2020-03-18,"nowcast",0,3,0,1,1,1.10510510510511
-"PE-Jaboatão dos Guararapes",2020-03-19,"nowcast",0,3,0,1,1,1.349
-"PE-Jaboatão dos Guararapes",2020-03-20,"nowcast",0,3,0,1,1,1.619
-"PE-Jaboatão dos Guararapes",2020-03-21,"nowcast",0,4,1,2,2,1.927
-"PE-Jaboatão dos Guararapes",2020-03-22,"nowcast",0,4,0,2,2,2.258
-"PE-Jaboatão dos Guararapes",2020-03-23,"nowcast",0,5,0,2,2,2.69
-"PE-Jaboatão dos Guararapes",2020-03-24,"nowcast",0,6,1,3,3,3.134
-"PE-Jaboatão dos Guararapes",2020-03-25,"nowcast",0,6,2,4,3.5,3.738
-"PE-Jaboatão dos Guararapes",2020-03-26,"nowcast",1,8,3,5,4,4.391
-"PE-Jaboatão dos Guararapes",2020-03-27,"nowcast",0,8,2,5,5,5.204
-"PE-Jaboatão dos Guararapes",2020-03-28,"nowcast",2,10,3,6,6,6.365
-"PE-Jaboatão dos Guararapes",2020-03-29,"nowcast",2,11,6,9,7,7.212
-"PE-Jaboatão dos Guararapes",2020-03-30,"nowcast",3,13,4,8,8,8.41
-"PE-Jaboatão dos Guararapes",2020-03-31,"nowcast",4,14,6,10,9,9.639
-"PE-Jaboatão dos Guararapes",2020-04-01,"nowcast",5,16,8,12,11,10.961
-"PE-Jaboatão dos Guararapes",2020-04-02,"nowcast",5,17,8,13,12,12.262
-"PE-Jaboatão dos Guararapes",2020-04-03,"nowcast",6,19,9,14,13,13.597
-"PE-Jaboatão dos Guararapes",2020-04-04,"nowcast",8,21,11,16,15,14.983
-"PE-Jaboatão dos Guararapes",2020-04-05,"nowcast",8,22,13,18,16,16.222
-"PE-Jaboatão dos Guararapes",2020-04-06,"nowcast",11,24,13,19,18,17.927
-"PE-Jaboatão dos Guararapes",2020-04-07,"nowcast",11,26,14,20,19,19.337
-"PE-Jaboatão dos Guararapes",2020-04-08,"nowcast",13,28,17,23,21,21.302
-"PE-Jaboatão dos Guararapes",2020-04-09,"nowcast",13,30,17,24,22.5,22.859
-"PE-Jaboatão dos Guararapes",2020-04-10,"nowcast",16,33,20,27,25,25.119
-"PE-Jaboatão dos Guararapes",2020-04-11,"nowcast",17,35,22,29,27,27.289
-"PE-Jaboatão dos Guararapes",2020-04-12,"nowcast",18,37,25,32,29,29.351
-"PE-Jaboatão dos Guararapes",2020-04-13,"nowcast",21,40,27,34,32,31.897
-"PE-Jaboatão dos Guararapes",2020-04-14,"nowcast",23,43,29,37,34,34.331
-"PE-Jaboatão dos Guararapes",2020-04-15,"nowcast",25,46,30,38,37,36.916
-"PE-Jaboatão dos Guararapes",2020-04-16,"nowcast",29,50,33,41,39,39.455
-"PE-Jaboatão dos Guararapes",2020-04-17,"nowcast",32,53,35,44,42,42.29
-"PE-Jaboatão dos Guararapes",2020-04-18,"nowcast",32,55,38,47,45,45.219
-"PE-Jaboatão dos Guararapes",2020-04-19,"nowcast",37,59,42,51,48,48.133
-"PE-Jaboatão dos Guararapes",2020-04-20,"nowcast",38,60,43,52,50,50.325
-"PE-Jaboatão dos Guararapes",2020-04-21,"nowcast",41,63,46,55,52,52.327
-"PE-Jaboatão dos Guararapes",2020-04-22,"nowcast",42,65,47,56,54,53.958
-"PE-Jaboatão dos Guararapes",2020-04-23,"nowcast",44,68,48,58,55,55.546
-"PE-Jaboatão dos Guararapes",2020-04-24,"nowcast",42,68,48,59,56,56.223
-"PE-Jaboatão dos Guararapes",2020-04-25,"nowcast",44,70,50,60,58,57.916
-"PE-Jaboatão dos Guararapes",2020-04-26,"nowcast",46,74,53,64,60,60.446
-"PE-Jaboatão dos Guararapes",2020-04-27,"nowcast",49,77,57,68,64,63.765
-"PE-Jaboatão dos Guararapes",2020-04-28,"nowcast",51,80,58,70,67,67.109
-"PE-Jaboatão dos Guararapes",2020-04-29,"nowcast",56,85,64,75,71,71.27
-"PE-Jaboatão dos Guararapes",2020-04-30,"nowcast",59,89,68,80,75,75.518
-"PE-Jaboatão dos Guararapes",2020-05-01,"nowcast",66,96,73,85,81,81.2
-"PE-Jaboatão dos Guararapes",2020-05-02,"nowcast",68,98,80,91,86,85.565
-"PE-Jaboatão dos Guararapes",2020-05-03,"nowcast",74,103,82,93,89,88.983
-"PE-Jaboatão dos Guararapes",2020-05-04,"nowcast",74,104,81,93,90,90.763
-"PE-Jaboatão dos Guararapes",2020-05-05,"nowcast",76,106,82,94,91,91.809
-"PE-Jaboatão dos Guararapes",2020-05-06,"nowcast",77,108,85,96,92,92.444
-"PE-Jaboatão dos Guararapes",2020-05-07,"nowcast",80,109,86,98,94,94.272
-"PE-Jaboatão dos Guararapes",2020-05-08,"nowcast",79,110,90,101,97,96.746
-"PE-Jaboatão dos Guararapes",2020-05-09,"nowcast",83,114,94,106,99,99.622
-"PE-Jaboatão dos Guararapes",2020-05-10,"nowcast",84,117,92,106,101,101.521
-"PE-Jaboatão dos Guararapes",2020-05-11,"nowcast",83,117,90,104,101,101.398
-"PE-Jaboatão dos Guararapes",2020-05-12,"nowcast",84,116,90,104,100,100.501
-"PE-Jaboatão dos Guararapes",2020-05-13,"nowcast",79,112,89,102,98,98.168
-"PE-Jaboatão dos Guararapes",2020-05-14,"nowcast",80,111,87,99,95,95.022
-"PE-Jaboatão dos Guararapes",2020-05-15,"nowcast",74,105,85,97,91,91.332
-"PE-Jaboatão dos Guararapes",2020-05-16,"nowcast",72,102,80,92,88,88.381
-"PE-Jaboatão dos Guararapes",2020-05-17,"nowcast",70,99,79,90,86,85.96
-"PE-Jaboatão dos Guararapes",2020-05-18,"nowcast",67,95,76,87,82,82.725
-"PE-Jaboatão dos Guararapes",2020-05-19,"nowcast",65,93,72,83,80,79.837
-"PE-Jaboatão dos Guararapes",2020-05-20,"nowcast",62,90,69,80,77,77.591
-"PE-Jaboatão dos Guararapes",2020-05-21,"nowcast",62,89,69,80,76,76.516
-"PE-Jaboatão dos Guararapes",2020-05-22,"nowcast",60,88,68,79,76,75.935
-"PE-Jaboatão dos Guararapes",2020-05-23,"nowcast",61,89,67,78,75,75.601
-"PE-Jaboatão dos Guararapes",2020-05-24,"nowcast",59,86,66,77,74,73.915
-"PE-Jaboatão dos Guararapes",2020-05-25,"nowcast",58,85,63,74,72,72.013
-"PE-Jaboatão dos Guararapes",2020-05-26,"nowcast",54,81,63,73,69,68.617
-"PE-Jaboatão dos Guararapes",2020-05-27,"nowcast",51,77,59,69,66,66.073
-"PE-Jaboatão dos Guararapes",2020-05-28,"nowcast",52,76,56,66,64,63.806
-"PE-Jaboatão dos Guararapes",2020-05-29,"nowcast",50,76,53,64,62,62.018
-"PE-Jaboatão dos Guararapes",2020-05-30,"nowcast",48,72,51,61,60,60.114
-"PE-Jaboatão dos Guararapes",2020-05-31,"nowcast",45,70,50,61,59,58.909
-"PE-Jaboatão dos Guararapes",2020-06-01,"nowcast",45,67,52,61,56,56.533
-"PE-Jaboatão dos Guararapes",2020-06-02,"nowcast",41,66,47,57,55,54.65
-"PE-Jaboatão dos Guararapes",2020-06-03,"nowcast",41,64,46,55,52,52.81
-"PE-Jaboatão dos Guararapes",2020-06-04,"nowcast",39,61,45,54,52,51.918
-"PE-Jaboatão dos Guararapes",2020-06-05,"nowcast",40,62,45,54,52,51.838
-"PE-Jaboatão dos Guararapes",2020-06-06,"nowcast",40,62,45,54,52,52.307
-"PE-Jaboatão dos Guararapes",2020-06-07,"nowcast",40,64,47,56,54,53.561
-"PE-Jaboatão dos Guararapes",2020-06-08,"nowcast",43,66,49,58,55,54.46
-"PE-Jaboatão dos Guararapes",2020-06-09,"nowcast",43,66,50,59,55,55.149
-"PE-Jaboatão dos Guararapes",2020-06-10,"nowcast",45,68,50,59,56,55.938
-"PE-Jaboatão dos Guararapes",2020-06-11,"nowcast",45,69,50,60,57,57.412
-"PE-Jaboatão dos Guararapes",2020-06-12,"nowcast",46,69,52,61,58,58.211
-"PE-Jaboatão dos Guararapes",2020-06-13,"nowcast",44,68,51,60,58,58.102
-"PE-Jaboatão dos Guararapes",2020-06-14,"nowcast",43,68,51,60,57,56.994
-"PE-Jaboatão dos Guararapes",2020-06-15,"nowcast",43,67,48,58,55,55.267
-"PE-Jaboatão dos Guararapes",2020-06-16,"nowcast",39,61,46,55,52,52.109
-"PE-Jaboatão dos Guararapes",2020-06-17,"nowcast",40,62,44,53,51,51.428
-"PE-Jaboatão dos Guararapes",2020-06-18,"nowcast",39,61,44,53,51,50.779
-"PE-Jaboatão dos Guararapes",2020-06-19,"nowcast",39,61,46,55,51,51.249
-"PE-Jaboatão dos Guararapes",2020-06-20,"nowcast",39,62,47,56,52,52.278
-"PE-Jaboatão dos Guararapes",2020-06-21,"nowcast",40,63,46,55,52,52.391
-"PE-Jaboatão dos Guararapes",2020-06-22,"nowcast",40,63,45,54,51,51.52
-"PE-Jaboatão dos Guararapes",2020-06-23,"nowcast",39,60,44,53,51,51.291
-"PE-Jaboatão dos Guararapes",2020-06-24,"nowcast",38,61,45,54,51,50.795
-"PE-Jaboatão dos Guararapes",2020-06-25,"nowcast",38,61,46,54,51,51.174
-"PE-Jaboatão dos Guararapes",2020-06-26,"nowcast",39,62,46,55,51,51.401
-"PE-Jaboatão dos Guararapes",2020-06-27,"nowcast",40,63,49,57,52,52
-"PE-Jaboatão dos Guararapes",2020-06-28,"nowcast",40,62,46,55,51,51.702
-"PE-Jaboatão dos Guararapes",2020-06-29,"nowcast",39,60,47,55,51,50.593
-"PE-Jaboatão dos Guararapes",2020-06-30,"nowcast",36,59,43,52,49,49.692
-"PE-Jaboatão dos Guararapes",2020-07-01,"nowcast",38,60,44,52,49,48.799
-"PE-Jaboatão dos Guararapes",2020-07-02,"nowcast",37,57,43,51,48,48.263
-"PE-Jaboatão dos Guararapes",2020-07-03,"nowcast",37,58,42,51,49,48.678
-"PE-Jaboatão dos Guararapes",2020-07-04,"nowcast",37,59,44,52,49,48.769
-"PE-Jaboatão dos Guararapes",2020-07-05,"nowcast",37,59,41,50,49,49.223
-"PE-Jaboatão dos Guararapes",2020-07-06,"nowcast",38,60,46,54,49,49.602
-"PE-Jaboatão dos Guararapes",2020-07-07,"nowcast",37,59,43,52,50,50.113
-"PE-Jaboatão dos Guararapes",2020-07-08,"nowcast",41,61,47,55,51,50.88
-"PE-Jaboatão dos Guararapes",2020-07-09,"nowcast",40,62,46,55,51,51.538
-"PE-Jaboatão dos Guararapes",2020-07-10,"nowcast",40,62,45,54,52,52.508
-"PE-Jaboatão dos Guararapes",2020-07-11,"nowcast",42,65,46,55,53,53.137
-"PE-Jaboatão dos Guararapes",2020-07-12,"nowcast",43,66,48,58,55,54.676
-"PE-Jaboatão dos Guararapes",2020-07-13,"nowcast",42,65,48,57,55,55.004
-"PE-Jaboatão dos Guararapes",2020-07-14,"nowcast",42,66,50,59,55,55.422
-"PE-Jaboatão dos Guararapes",2020-07-15,"nowcast",42,66,50,59,56,55.929
-"PE-Jaboatão dos Guararapes",2020-07-16,"nowcast",44,67,50,59,56,56.256
-"PE-Jaboatão dos Guararapes",2020-07-17,"nowcast",43,67,49,59,56,56.521
-"PE-Jaboatão dos Guararapes",2020-07-18,"nowcast",43,67,50,59,56,56.764
-"PE-Jaboatão dos Guararapes",2020-07-19,"nowcast",44,67,51,60,57,57.027
-"PE-Jaboatão dos Guararapes",2020-07-20,"nowcast",46,69,51,60,57,56.97
-"PE-Jaboatão dos Guararapes",2020-07-21,"nowcast",42,66,49,58,55,55.446
-"PE-Jaboatão dos Guararapes",2020-07-22,"nowcast",42,66,47,57,55,54.721
-"PE-Jaboatão dos Guararapes",2020-07-23,"nowcast",42,66,47,57,54,53.801
-"PE-Jaboatão dos Guararapes",2020-07-24,"nowcast",41,66,46,56,54,53.736
-"PE-Jaboatão dos Guararapes",2020-07-25,"nowcast",41,65,44,54,53,53.147
-"PE-Jaboatão dos Guararapes",2020-07-26,"nowcast",37,61,44,54,51,51.346
-"PE-Jaboatão dos Guararapes",2020-07-27,"nowcast",36,61,42,52,50,49.757
-"PE-Jaboatão dos Guararapes",2020-07-28,"nowcast",33,58,40,49,46,46.923
+"PE-Jaboatão dos Guararapes",2020-02-13,"nowcast",1,1,1,1,1,1
+"PE-Jaboatão dos Guararapes",2020-02-14,"nowcast",0,1,1,1,1,0.571428571428571
+"PE-Jaboatão dos Guararapes",2020-02-15,"nowcast",0,1,0,0,0,0.333333333333333
+"PE-Jaboatão dos Guararapes",2020-02-16,"nowcast",0,1,0,0,0,0.272727272727273
+"PE-Jaboatão dos Guararapes",2020-02-17,"nowcast",0,1,0,0,0,0.166666666666667
+"PE-Jaboatão dos Guararapes",2020-02-18,"nowcast",0,1,0,0,0,0.45
+"PE-Jaboatão dos Guararapes",2020-02-19,"nowcast",0,1,0,0,0,0.481481481481481
+"PE-Jaboatão dos Guararapes",2020-02-20,"nowcast",0,1,0,0,0,0.21875
+"PE-Jaboatão dos Guararapes",2020-02-21,"nowcast",0,1,0,0,0,0.263157894736842
+"PE-Jaboatão dos Guararapes",2020-02-22,"nowcast",0,1,0,0,0,0.25
+"PE-Jaboatão dos Guararapes",2020-02-23,"nowcast",0,1,0,0,0,0.28125
+"PE-Jaboatão dos Guararapes",2020-02-24,"nowcast",0,1,0,0,0,0.313953488372093
+"PE-Jaboatão dos Guararapes",2020-02-25,"nowcast",0,1,0,0,0,0.297297297297297
+"PE-Jaboatão dos Guararapes",2020-02-26,"nowcast",0,1,0,0,0,0.321428571428571
+"PE-Jaboatão dos Guararapes",2020-02-27,"nowcast",0,1,0,0,0,0.226415094339623
+"PE-Jaboatão dos Guararapes",2020-02-28,"nowcast",0,1,0,0,0,0.366336633663366
+"PE-Jaboatão dos Guararapes",2020-02-29,"nowcast",0,1,0,0,0,0.319502074688797
+"PE-Jaboatão dos Guararapes",2020-03-01,"nowcast",0,1,0,0,0,0.324137931034483
+"PE-Jaboatão dos Guararapes",2020-03-02,"nowcast",0,1,0,0,0,0.335243553008596
+"PE-Jaboatão dos Guararapes",2020-03-03,"nowcast",0,1,0,0,0,0.374149659863946
+"PE-Jaboatão dos Guararapes",2020-03-04,"nowcast",0,1,0,0,0,0.326732673267327
+"PE-Jaboatão dos Guararapes",2020-03-05,"nowcast",0,1,0,0,0,0.379661016949153
+"PE-Jaboatão dos Guararapes",2020-03-06,"nowcast",0,1,0,0,0,0.44
+"PE-Jaboatão dos Guararapes",2020-03-07,"nowcast",0,1,0,0,0,0.403743315508021
+"PE-Jaboatão dos Guararapes",2020-03-08,"nowcast",0,1,0,0,0,0.451770451770452
+"PE-Jaboatão dos Guararapes",2020-03-09,"nowcast",0,1,0,0,0,0.456100342075257
+"PE-Jaboatão dos Guararapes",2020-03-10,"nowcast",0,2,0,0,0,0.553145336225597
+"PE-Jaboatão dos Guararapes",2020-03-11,"nowcast",0,1,0,0,0,0.558792924037461
+"PE-Jaboatão dos Guararapes",2020-03-12,"nowcast",0,2,0,0,0,0.6289500509684
+"PE-Jaboatão dos Guararapes",2020-03-13,"nowcast",0,2,0,0,0,0.688888888888889
+"PE-Jaboatão dos Guararapes",2020-03-14,"nowcast",0,2,0,0,0,0.681772406847935
+"PE-Jaboatão dos Guararapes",2020-03-15,"nowcast",0,2,0,1,1,0.768611670020121
+"PE-Jaboatão dos Guararapes",2020-03-16,"nowcast",0,2,0,1,1,0.856425702811245
+"PE-Jaboatão dos Guararapes",2020-03-17,"nowcast",0,2,0,1,1,1.01101101101101
+"PE-Jaboatão dos Guararapes",2020-03-18,"nowcast",0,3,0,1,1,1.135
+"PE-Jaboatão dos Guararapes",2020-03-19,"nowcast",0,3,0,1,1,1.259
+"PE-Jaboatão dos Guararapes",2020-03-20,"nowcast",0,3,0,1,1,1.61
+"PE-Jaboatão dos Guararapes",2020-03-21,"nowcast",0,4,1,2,2,1.924
+"PE-Jaboatão dos Guararapes",2020-03-22,"nowcast",0,4,0,2,2,2.222
+"PE-Jaboatão dos Guararapes",2020-03-23,"nowcast",0,5,1,3,3,2.694
+"PE-Jaboatão dos Guararapes",2020-03-24,"nowcast",0,6,1,3,3,3.207
+"PE-Jaboatão dos Guararapes",2020-03-25,"nowcast",1,7,2,4,4,3.792
+"PE-Jaboatão dos Guararapes",2020-03-26,"nowcast",1,8,1,4,4,4.504
+"PE-Jaboatão dos Guararapes",2020-03-27,"nowcast",1,9,2,5,5,5.326
+"PE-Jaboatão dos Guararapes",2020-03-28,"nowcast",2,10,3,6,6,6.297
+"PE-Jaboatão dos Guararapes",2020-03-29,"nowcast",2,11,5,8,7,7.383
+"PE-Jaboatão dos Guararapes",2020-03-30,"nowcast",3,13,5,9,8,8.497
+"PE-Jaboatão dos Guararapes",2020-03-31,"nowcast",4,14,6,10,9,9.638
+"PE-Jaboatão dos Guararapes",2020-04-01,"nowcast",5,16,8,12,11,10.928
+"PE-Jaboatão dos Guararapes",2020-04-02,"nowcast",6,18,7,12,12,12.18
+"PE-Jaboatão dos Guararapes",2020-04-03,"nowcast",7,19,9,14,14,13.675
+"PE-Jaboatão dos Guararapes",2020-04-04,"nowcast",8,21,11,16,15,15.066
+"PE-Jaboatão dos Guararapes",2020-04-05,"nowcast",10,23,12,17,16,16.466
+"PE-Jaboatão dos Guararapes",2020-04-06,"nowcast",10,24,14,19,17,17.699
+"PE-Jaboatão dos Guararapes",2020-04-07,"nowcast",11,26,15,21,20,19.78
+"PE-Jaboatão dos Guararapes",2020-04-08,"nowcast",13,28,16,22,21,20.996
+"PE-Jaboatão dos Guararapes",2020-04-09,"nowcast",14,31,17,24,23,23.239
+"PE-Jaboatão dos Guararapes",2020-04-10,"nowcast",17,33,22,28,25,25.266
+"PE-Jaboatão dos Guararapes",2020-04-11,"nowcast",17,35,22,29,27,27.363
+"PE-Jaboatão dos Guararapes",2020-04-12,"nowcast",20,38,25,32,29,29.518
+"PE-Jaboatão dos Guararapes",2020-04-13,"nowcast",20,40,25,33,32,31.955
+"PE-Jaboatão dos Guararapes",2020-04-14,"nowcast",23,44,27,36,34,34.531
+"PE-Jaboatão dos Guararapes",2020-04-15,"nowcast",25,46,32,40,37,36.975
+"PE-Jaboatão dos Guararapes",2020-04-16,"nowcast",28,49,33,41,39,39.573
+"PE-Jaboatão dos Guararapes",2020-04-17,"nowcast",33,55,34,43,42,42.268
+"PE-Jaboatão dos Guararapes",2020-04-18,"nowcast",34,55,39,47,45,44.822
+"PE-Jaboatão dos Guararapes",2020-04-19,"nowcast",36,58,42,51,48,47.987
+"PE-Jaboatão dos Guararapes",2020-04-20,"nowcast",37,60,44,53,50,50.666
+"PE-Jaboatão dos Guararapes",2020-04-21,"nowcast",40,63,46,55,53,52.678
+"PE-Jaboatão dos Guararapes",2020-04-22,"nowcast",41,65,46,56,54,54.069
+"PE-Jaboatão dos Guararapes",2020-04-23,"nowcast",41,65,50,59,55,55.263
+"PE-Jaboatão dos Guararapes",2020-04-24,"nowcast",44,68,48,58,56,56.329
+"PE-Jaboatão dos Guararapes",2020-04-25,"nowcast",45,71,51,61,58,58.148
+"PE-Jaboatão dos Guararapes",2020-04-26,"nowcast",46,74,52,63,61,61.198
+"PE-Jaboatão dos Guararapes",2020-04-27,"nowcast",51,78,57,67,63,63.92
+"PE-Jaboatão dos Guararapes",2020-04-28,"nowcast",53,82,59,71,67,67.126
+"PE-Jaboatão dos Guararapes",2020-04-29,"nowcast",58,86,64,75,72,71.811
+"PE-Jaboatão dos Guararapes",2020-04-30,"nowcast",62,91,67,79,76,76.209
+"PE-Jaboatão dos Guararapes",2020-05-01,"nowcast",67,96,72,85,81,81.141
+"PE-Jaboatão dos Guararapes",2020-05-02,"nowcast",70,100,80,91,86,85.537
+"PE-Jaboatão dos Guararapes",2020-05-03,"nowcast",72,102,81,93,89,89.343
+"PE-Jaboatão dos Guararapes",2020-05-04,"nowcast",74,104,81,93,91,91.153
+"PE-Jaboatão dos Guararapes",2020-05-05,"nowcast",75,106,81,94,91,91.116
+"PE-Jaboatão dos Guararapes",2020-05-06,"nowcast",76,106,83,96,92.5,92.917
+"PE-Jaboatão dos Guararapes",2020-05-07,"nowcast",78,109,90,102,95,94.577
+"PE-Jaboatão dos Guararapes",2020-05-08,"nowcast",80,112,87,100,97,97.091
+"PE-Jaboatão dos Guararapes",2020-05-09,"nowcast",83,115,88,102,99,98.76
+"PE-Jaboatão dos Guararapes",2020-05-10,"nowcast",84,116,92,105,100,100.989
+"PE-Jaboatão dos Guararapes",2020-05-11,"nowcast",86,118,92,105,101,101.871
+"PE-Jaboatão dos Guararapes",2020-05-12,"nowcast",82,114,91,104,100,99.768
+"PE-Jaboatão dos Guararapes",2020-05-13,"nowcast",79,111,89,101,97,97.296
+"PE-Jaboatão dos Guararapes",2020-05-14,"nowcast",77,109,84,97,94,94.856
+"PE-Jaboatão dos Guararapes",2020-05-15,"nowcast",74,106,82,95,91,91.311
+"PE-Jaboatão dos Guararapes",2020-05-16,"nowcast",73,103,81,93,89,88.786
+"PE-Jaboatão dos Guararapes",2020-05-17,"nowcast",69,99,77,89,85,86.048
+"PE-Jaboatão dos Guararapes",2020-05-18,"nowcast",66,95,76,87,82,82.658
+"PE-Jaboatão dos Guararapes",2020-05-19,"nowcast",65,93,73,84,80,80.001
+"PE-Jaboatão dos Guararapes",2020-05-20,"nowcast",61,89,69,80,77.5,77.811
+"PE-Jaboatão dos Guararapes",2020-05-21,"nowcast",60,88,68,79,76.5,76.542
+"PE-Jaboatão dos Guararapes",2020-05-22,"nowcast",60,88,68,79,76,75.987
+"PE-Jaboatão dos Guararapes",2020-05-23,"nowcast",59,86,67,78,75,74.797
+"PE-Jaboatão dos Guararapes",2020-05-24,"nowcast",60,88,67,78,74,74.141
+"PE-Jaboatão dos Guararapes",2020-05-25,"nowcast",57,84,63,74,71,71.448
+"PE-Jaboatão dos Guararapes",2020-05-26,"nowcast",55,82,61,71,68,68.671
+"PE-Jaboatão dos Guararapes",2020-05-27,"nowcast",51,78,60,70,66,66.29
+"PE-Jaboatão dos Guararapes",2020-05-28,"nowcast",50,76,59,69,63,63.276
+"PE-Jaboatão dos Guararapes",2020-05-29,"nowcast",50,74,56,65,62,61.742
+"PE-Jaboatão dos Guararapes",2020-05-30,"nowcast",48,73,55,65,61,60.638
+"PE-Jaboatão dos Guararapes",2020-05-31,"nowcast",46,71,53,63,59,59.07
+"PE-Jaboatão dos Guararapes",2020-06-01,"nowcast",43,67,50,59,56,56.699
+"PE-Jaboatão dos Guararapes",2020-06-02,"nowcast",43,66,48,57,54,54.565
+"PE-Jaboatão dos Guararapes",2020-06-03,"nowcast",43,65,46,55,53,53.006
+"PE-Jaboatão dos Guararapes",2020-06-04,"nowcast",40,62,48,56,52,52.194
+"PE-Jaboatão dos Guararapes",2020-06-05,"nowcast",41,64,46,55,52,52.298
+"PE-Jaboatão dos Guararapes",2020-06-06,"nowcast",40,63,47,56,53,52.785
+"PE-Jaboatão dos Guararapes",2020-06-07,"nowcast",41,63,47,56,54,53.786
+"PE-Jaboatão dos Guararapes",2020-06-08,"nowcast",43,66,48,57,54,54.164
+"PE-Jaboatão dos Guararapes",2020-06-09,"nowcast",41,65,47,57,55,54.808
+"PE-Jaboatão dos Guararapes",2020-06-10,"nowcast",44,68,47,57,55,55.866
+"PE-Jaboatão dos Guararapes",2020-06-11,"nowcast",45,68,51,60,57,57.318
+"PE-Jaboatão dos Guararapes",2020-06-12,"nowcast",45,69,52,61,58,58.466
+"PE-Jaboatão dos Guararapes",2020-06-13,"nowcast",44,68,50,60,58,57.744
+"PE-Jaboatão dos Guararapes",2020-06-14,"nowcast",43,68,50,60,57,56.875
+"PE-Jaboatão dos Guararapes",2020-06-15,"nowcast",42,65,49,58,55,54.696
+"PE-Jaboatão dos Guararapes",2020-06-16,"nowcast",39,63,46,56,53,52.575
+"PE-Jaboatão dos Guararapes",2020-06-17,"nowcast",38,62,46,55,51,50.973
+"PE-Jaboatão dos Guararapes",2020-06-18,"nowcast",39,61,45,53,51,50.876
+"PE-Jaboatão dos Guararapes",2020-06-19,"nowcast",40,62,44,53,51,51.447
+"PE-Jaboatão dos Guararapes",2020-06-20,"nowcast",40,62,45,54,52,51.872
+"PE-Jaboatão dos Guararapes",2020-06-21,"nowcast",41,63,47,56,52,52.22
+"PE-Jaboatão dos Guararapes",2020-06-22,"nowcast",40,62,44,53,51,51.547
+"PE-Jaboatão dos Guararapes",2020-06-23,"nowcast",39,61,43,52,51,50.773
+"PE-Jaboatão dos Guararapes",2020-06-24,"nowcast",41,62,45,53,51,50.679
+"PE-Jaboatão dos Guararapes",2020-06-25,"nowcast",39,61,47,55,51,50.961
+"PE-Jaboatão dos Guararapes",2020-06-26,"nowcast",39,62,46,55,51,51.641
+"PE-Jaboatão dos Guararapes",2020-06-27,"nowcast",39,61,48,57,52,51.925
+"PE-Jaboatão dos Guararapes",2020-06-28,"nowcast",39,61,45,54,52,51.88
+"PE-Jaboatão dos Guararapes",2020-06-29,"nowcast",38,62,45,54,50,50.75
+"PE-Jaboatão dos Guararapes",2020-06-30,"nowcast",38,61,43,52,49,49.591
+"PE-Jaboatão dos Guararapes",2020-07-01,"nowcast",37,59,45,53,49,48.77
+"PE-Jaboatão dos Guararapes",2020-07-02,"nowcast",37,58,43,51,47,48.021
+"PE-Jaboatão dos Guararapes",2020-07-03,"nowcast",39,61,42,50,48,48.539
+"PE-Jaboatão dos Guararapes",2020-07-04,"nowcast",37,59,42,51,49,49.003
+"PE-Jaboatão dos Guararapes",2020-07-05,"nowcast",37,59,45,53,49,49.263
+"PE-Jaboatão dos Guararapes",2020-07-06,"nowcast",38,60,43,52,49,49.469
+"PE-Jaboatão dos Guararapes",2020-07-07,"nowcast",38,60,43,52,50,49.986
+"PE-Jaboatão dos Guararapes",2020-07-08,"nowcast",37,60,44,53,51,50.567
+"PE-Jaboatão dos Guararapes",2020-07-09,"nowcast",39,61,44,53,51,51.417
+"PE-Jaboatão dos Guararapes",2020-07-10,"nowcast",41,64,44,54,53,52.874
+"PE-Jaboatão dos Guararapes",2020-07-11,"nowcast",40,64,45,55,53,53.674
+"PE-Jaboatão dos Guararapes",2020-07-12,"nowcast",40,64,49,58,54,54.401
+"PE-Jaboatão dos Guararapes",2020-07-13,"nowcast",42,65,50,59,55,54.977
+"PE-Jaboatão dos Guararapes",2020-07-14,"nowcast",41,65,48,57,55,54.848
+"PE-Jaboatão dos Guararapes",2020-07-15,"nowcast",45,68,49,58,56,56.024
+"PE-Jaboatão dos Guararapes",2020-07-16,"nowcast",44,67,50,59,56,56.098
+"PE-Jaboatão dos Guararapes",2020-07-17,"nowcast",43,67,50,59,56,56.18
+"PE-Jaboatão dos Guararapes",2020-07-18,"nowcast",45,68,51,60,57,57.161
+"PE-Jaboatão dos Guararapes",2020-07-19,"nowcast",46,68,49,59,57,57.046
+"PE-Jaboatão dos Guararapes",2020-07-20,"nowcast",44,67,53,62,56.5,56.269
+"PE-Jaboatão dos Guararapes",2020-07-21,"nowcast",42,66,49,58,55,55.705
+"PE-Jaboatão dos Guararapes",2020-07-22,"nowcast",43,66,48,57,54,54.45
+"PE-Jaboatão dos Guararapes",2020-07-23,"nowcast",41,65,49,58,54,53.829
+"PE-Jaboatão dos Guararapes",2020-07-24,"nowcast",40,64,49,58,54,53.428
+"PE-Jaboatão dos Guararapes",2020-07-25,"nowcast",39,63,48,57,52,52.391
+"PE-Jaboatão dos Guararapes",2020-07-26,"nowcast",36,61,47,56,51,51.232
+"PE-Jaboatão dos Guararapes",2020-07-27,"nowcast",37,60,42,51,48,48.582
+"PE-Jaboatão dos Guararapes",2020-07-28,"nowcast",34,58,39,49,46,46.41
+"PE-Jaboatão dos Guararapes",2020-07-29,"nowcast",34,59,40,50,45,45.618
 "PE-Jaboatão dos Guararapes",2020-03-17,"observed",NA,NA,NA,NA,2,NA
 "PE-Jaboatão dos Guararapes",2020-03-18,"observed",NA,NA,NA,NA,0,NA
 "PE-Jaboatão dos Guararapes",2020-03-19,"observed",NA,NA,NA,NA,0,NA
@@ -5433,21 +5418,22 @@
 "PE-Jaboatão dos Guararapes",2020-08-05,"observed",NA,NA,NA,NA,57,NA
 "PE-Jaboatão dos Guararapes",2020-08-06,"observed",NA,NA,NA,NA,46,NA
 "PE-Jaboatão dos Guararapes",2020-08-07,"observed",NA,NA,NA,NA,54,NA
-"PE-Jaboatão dos Guararapes",2020-08-08,"observed",NA,NA,NA,NA,0,NA
-"PE-Jaboatão dos Guararapes",2020-07-29,"forecast",29,65,38,52,48,48.9406
-"PE-Jaboatão dos Guararapes",2020-07-30,"forecast",28,66,39,54,48,48.32
-"PE-Jaboatão dos Guararapes",2020-07-31,"forecast",27,67,36,52,47,47.5452
-"PE-Jaboatão dos Guararapes",2020-08-01,"forecast",25,67,35,52,46,47.1782
-"PE-Jaboatão dos Guararapes",2020-08-02,"forecast",22,67,34,52,46,46.5332
-"PE-Jaboatão dos Guararapes",2020-08-03,"forecast",20,67,30,49,45,45.8456
-"PE-Jaboatão dos Guararapes",2020-08-04,"forecast",20,69,29,49,45,45.7352
-"PE-Jaboatão dos Guararapes",2020-08-05,"forecast",16,67,26,47,43,44.758
-"PE-Jaboatão dos Guararapes",2020-08-06,"forecast",16,69,28,49,43,44.5596
-"PE-Jaboatão dos Guararapes",2020-08-07,"forecast",14,70,28,50,43,43.9812
-"PE-Jaboatão dos Guararapes",2020-08-08,"forecast",12,70,25,48,42,43.9526
-"PE-Jaboatão dos Guararapes",2020-08-09,"forecast",13,71,22,46,41,43.367
-"PE-Jaboatão dos Guararapes",2020-08-10,"forecast",11,71,22,47,41,43.0654
-"PE-Jaboatão dos Guararapes",2020-08-11,"forecast",11,72,21,46,40,42.5268
+"PE-Jaboatão dos Guararapes",2020-08-08,"observed",NA,NA,NA,NA,40,NA
+"PE-Jaboatão dos Guararapes",2020-08-09,"observed",NA,NA,NA,NA,0,NA
+"PE-Jaboatão dos Guararapes",2020-07-30,"forecast",28,62,35,49,46,46.1084
+"PE-Jaboatão dos Guararapes",2020-07-31,"forecast",24,62,33,48,44,44.9992
+"PE-Jaboatão dos Guararapes",2020-08-01,"forecast",23,63,33,49,44,44.688
+"PE-Jaboatão dos Guararapes",2020-08-02,"forecast",20,63,34,50,43,43.699
+"PE-Jaboatão dos Guararapes",2020-08-03,"forecast",19,63,31,48,42,42.916
+"PE-Jaboatão dos Guararapes",2020-08-04,"forecast",16,63,27,46,41,42.426
+"PE-Jaboatão dos Guararapes",2020-08-05,"forecast",14,63,28,47,40,41.6902
+"PE-Jaboatão dos Guararapes",2020-08-06,"forecast",15,65,25,45,40,41.2256
+"PE-Jaboatão dos Guararapes",2020-08-07,"forecast",12,64,25,45,39,40.69
+"PE-Jaboatão dos Guararapes",2020-08-08,"forecast",12,65,23,44,38,39.989
+"PE-Jaboatão dos Guararapes",2020-08-09,"forecast",11,65,20,42,37,39.0942
+"PE-Jaboatão dos Guararapes",2020-08-10,"forecast",9,66,21,43,36,38.665
+"PE-Jaboatão dos Guararapes",2020-08-11,"forecast",7,65,17,40,36,38.2262
+"PE-Jaboatão dos Guararapes",2020-08-12,"forecast",6,64,16,39,35,37.5104
 "PE-Limoeiro",2020-03-05,"nowcast",1,1,1,1,1,1
 "PE-Limoeiro",2020-03-06,"nowcast",0,0,0,0,0,0
 "PE-Limoeiro",2020-03-07,"nowcast",0,1,0,1,0.5,0.5
@@ -5718,168 +5704,181 @@
 "PE-Limoeiro",2020-08-03,"forecast",0,63,0,17,17,29.1414
 "PE-Limoeiro",2020-08-04,"forecast",0,67,0,18,18,31.0748
 "PE-Limoeiro",2020-08-05,"forecast",0,73,0,18,18,34.3176
-"PE-Olinda",2020-02-18,"nowcast",1,1,1,1,1,1
-"PE-Olinda",2020-02-19,"nowcast",0,1,1,1,1,0.666666666666667
-"PE-Olinda",2020-02-20,"nowcast",0,1,0,0,0,0.4
-"PE-Olinda",2020-02-21,"nowcast",0,1,0,1,0.5,0.5
-"PE-Olinda",2020-02-22,"nowcast",0,1,0,0,0,0.533333333333333
-"PE-Olinda",2020-02-23,"nowcast",0,1,0,1,0.5,0.5
-"PE-Olinda",2020-02-24,"nowcast",0,1,0,0,0,0.241379310344828
-"PE-Olinda",2020-02-25,"nowcast",0,1,0,0,0,0.378378378378378
-"PE-Olinda",2020-02-26,"nowcast",0,1,0,0,0,0.209302325581395
-"PE-Olinda",2020-02-27,"nowcast",0,1,0,0,0,0.4
-"PE-Olinda",2020-02-28,"nowcast",0,1,0,0,0,0.345679012345679
-"PE-Olinda",2020-02-29,"nowcast",0,1,0,0,0,0.314285714285714
-"PE-Olinda",2020-03-01,"nowcast",0,1,0,0,0,0.2578125
-"PE-Olinda",2020-03-02,"nowcast",0,1,0,0,0,0.294871794871795
-"PE-Olinda",2020-03-03,"nowcast",0,1,0,0,0,0.313829787234043
-"PE-Olinda",2020-03-04,"nowcast",0,1,0,0,0,0.327510917030568
-"PE-Olinda",2020-03-05,"nowcast",0,1,0,0,0,0.305755395683453
-"PE-Olinda",2020-03-06,"nowcast",0,1,0,0,0,0.308383233532934
-"PE-Olinda",2020-03-07,"nowcast",0,1,0,0,0,0.364303178484108
-"PE-Olinda",2020-03-08,"nowcast",0,1,0,0,0,0.412121212121212
-"PE-Olinda",2020-03-09,"nowcast",0,1,0,0,0,0.435087719298246
-"PE-Olinda",2020-03-10,"nowcast",0,1,0,0,0,0.43125
-"PE-Olinda",2020-03-11,"nowcast",0,1,0,0,0,0.529166666666667
-"PE-Olinda",2020-03-12,"nowcast",0,1,0,0,0,0.530510585305106
-"PE-Olinda",2020-03-13,"nowcast",0,2,0,0,0,0.609501738122827
-"PE-Olinda",2020-03-14,"nowcast",0,2,0,1,1,0.73471615720524
-"PE-Olinda",2020-03-15,"nowcast",0,2,0,1,1,0.823100936524454
-"PE-Olinda",2020-03-16,"nowcast",0,2,0,1,1,0.929519918283963
-"PE-Olinda",2020-03-17,"nowcast",0,2,0,1,1,1.06066734074823
-"PE-Olinda",2020-03-18,"nowcast",0,3,0,1,1,1.17925478348439
-"PE-Olinda",2020-03-19,"nowcast",0,3,0,1,1,1.40421263791374
-"PE-Olinda",2020-03-20,"nowcast",0,3,0,1,1,1.63163163163163
-"PE-Olinda",2020-03-21,"nowcast",0,4,1,2,2,1.897
-"PE-Olinda",2020-03-22,"nowcast",0,5,0,2,2,2.278
-"PE-Olinda",2020-03-23,"nowcast",0,5,1,3,2.5,2.723
-"PE-Olinda",2020-03-24,"nowcast",0,6,1,3,3,3.26
-"PE-Olinda",2020-03-25,"nowcast",0,7,2,4,4,3.988
-"PE-Olinda",2020-03-26,"nowcast",0,8,2,5,4,4.763
-"PE-Olinda",2020-03-27,"nowcast",1,9,3,6,5,5.721
-"PE-Olinda",2020-03-28,"nowcast",2,11,5,8,7,6.809
-"PE-Olinda",2020-03-29,"nowcast",2,12,4,8,8,7.945
-"PE-Olinda",2020-03-30,"nowcast",3,14,6,10,9,9.433
-"PE-Olinda",2020-03-31,"nowcast",5,16,7,11,11,10.851
-"PE-Olinda",2020-04-01,"nowcast",7,19,8,13,12,12.413
-"PE-Olinda",2020-04-02,"nowcast",8,20,12,16,14,14.209
-"PE-Olinda",2020-04-03,"nowcast",8,22,12,17,16,15.974
-"PE-Olinda",2020-04-04,"nowcast",10,24,12,18,17,17.744
-"PE-Olinda",2020-04-05,"nowcast",11,26,14,20,19,19.272
-"PE-Olinda",2020-04-06,"nowcast",13,28,17,23,21,21.044
-"PE-Olinda",2020-04-07,"nowcast",14,30,18,24,23,22.808
-"PE-Olinda",2020-04-08,"nowcast",15,32,21,27,24,24.63
-"PE-Olinda",2020-04-09,"nowcast",16,33,20,27,26,25.833
-"PE-Olinda",2020-04-10,"nowcast",18,36,22,29,27,27.7
-"PE-Olinda",2020-04-11,"nowcast",20,39,24,31,29,29.436
-"PE-Olinda",2020-04-12,"nowcast",20,39,26,33,31,30.978
-"PE-Olinda",2020-04-13,"nowcast",23,43,26,34,33,33.565
-"PE-Olinda",2020-04-14,"nowcast",24,44,29,37,35,35.531
-"PE-Olinda",2020-04-15,"nowcast",25,47,32,40,38,37.84
-"PE-Olinda",2020-04-16,"nowcast",29,50,33,42,40,40.331
-"PE-Olinda",2020-04-17,"nowcast",31,53,36,45,43,43.424
-"PE-Olinda",2020-04-18,"nowcast",33,56,39,48,46,46.275
-"PE-Olinda",2020-04-19,"nowcast",38,60,42,51,49,48.985
-"PE-Olinda",2020-04-20,"nowcast",38,61,44,53,51,51.209
-"PE-Olinda",2020-04-21,"nowcast",42,65,48,57,54,53.608
-"PE-Olinda",2020-04-22,"nowcast",41,65,49,58,54.5,54.447
-"PE-Olinda",2020-04-23,"nowcast",42,65,47,56,54.5,54.766
-"PE-Olinda",2020-04-24,"nowcast",44,67,47,57,55,54.93
-"PE-Olinda",2020-04-25,"nowcast",42,66,50,59,55,55.068
-"PE-Olinda",2020-04-26,"nowcast",43,67,52,61,57,56.445
-"PE-Olinda",2020-04-27,"nowcast",44,68,52,61,56,57.007
-"PE-Olinda",2020-04-28,"nowcast",45,69,50,60,58,58.524
-"PE-Olinda",2020-04-29,"nowcast",47,72,54,64,60,59.848
-"PE-Olinda",2020-04-30,"nowcast",50,75,57,66,61,61.689
-"PE-Olinda",2020-05-01,"nowcast",50,75,57,67,64,63.773
-"PE-Olinda",2020-05-02,"nowcast",52,78,61,71,66,65.92
-"PE-Olinda",2020-05-03,"nowcast",55,80,62,72,68,67.535
-"PE-Olinda",2020-05-04,"nowcast",54,80,61,71,68,68.032
-"PE-Olinda",2020-05-05,"nowcast",55,80,61,71,68,67.901
-"PE-Olinda",2020-05-06,"nowcast",54,80,60,71,68,68.106
-"PE-Olinda",2020-05-07,"nowcast",55,81,62,72,68,68.37
-"PE-Olinda",2020-05-08,"nowcast",55,82,62,73,70,70.172
-"PE-Olinda",2020-05-09,"nowcast",57,85,63,74,72,72.239
-"PE-Olinda",2020-05-10,"nowcast",59,86,67,77,74,73.908
-"PE-Olinda",2020-05-11,"nowcast",59,87,67,78,75,74.48
-"PE-Olinda",2020-05-12,"nowcast",62,89,68,79,75,75.145
-"PE-Olinda",2020-05-13,"nowcast",58,86,68,79,74,73.715
-"PE-Olinda",2020-05-14,"nowcast",57,84,63,74,71,70.731
-"PE-Olinda",2020-05-15,"nowcast",54,82,63,74,68,68.529
-"PE-Olinda",2020-05-16,"nowcast",51,78,58,69,65,65.067
-"PE-Olinda",2020-05-17,"nowcast",47,74,55,65,62,61.927
-"PE-Olinda",2020-05-18,"nowcast",45,69,53,62,58,58.472
-"PE-Olinda",2020-05-19,"nowcast",42,66,49,58,55,55.263
-"PE-Olinda",2020-05-20,"nowcast",41,64,46,55,53,52.888
-"PE-Olinda",2020-05-21,"nowcast",41,63,44,53,52,51.935
-"PE-Olinda",2020-05-22,"nowcast",38,61,44,53,51,50.823
-"PE-Olinda",2020-05-23,"nowcast",39,62,43,52,50,50.53
-"PE-Olinda",2020-05-24,"nowcast",37,59,42,51,49,49.001
-"PE-Olinda",2020-05-25,"nowcast",36,58,42,50,47,46.933
-"PE-Olinda",2020-05-26,"nowcast",33,54,41,49,45,45.162
-"PE-Olinda",2020-05-27,"nowcast",33,53,37,45,43,42.91
-"PE-Olinda",2020-05-28,"nowcast",29,49,35,43,40,40.478
-"PE-Olinda",2020-05-29,"nowcast",28,48,33,41,38,38.627
-"PE-Olinda",2020-05-30,"nowcast",28,47,34,41,37,37.254
-"PE-Olinda",2020-05-31,"nowcast",26,44,30,37,35,35.411
-"PE-Olinda",2020-06-01,"nowcast",23,42,30,37,34,34.069
-"PE-Olinda",2020-06-02,"nowcast",23,42,29,36,33,33.625
-"PE-Olinda",2020-06-03,"nowcast",22,41,29,36,33,33.42
-"PE-Olinda",2020-06-04,"nowcast",23,42,30,37,34,33.727
-"PE-Olinda",2020-06-05,"nowcast",25,43,27,35,34,34.528
-"PE-Olinda",2020-06-06,"nowcast",24,44,31,38,36,35.744
-"PE-Olinda",2020-06-07,"nowcast",27,46,32,39,37,37.473
-"PE-Olinda",2020-06-08,"nowcast",30,49,33,41,39,39.163
-"PE-Olinda",2020-06-09,"nowcast",30,49,34,42,40,40.424
-"PE-Olinda",2020-06-10,"nowcast",30,51,37,45,43,42.727
-"PE-Olinda",2020-06-11,"nowcast",33,53,38,46,43,43.738
-"PE-Olinda",2020-06-12,"nowcast",33,54,39,47,44,44.409
-"PE-Olinda",2020-06-13,"nowcast",34,54,40,48,45,44.994
-"PE-Olinda",2020-06-14,"nowcast",32,54,37,46,44,44.245
-"PE-Olinda",2020-06-15,"nowcast",31,52,37,45,43,42.612
-"PE-Olinda",2020-06-16,"nowcast",30,50,33,41,40,40.343
-"PE-Olinda",2020-06-17,"nowcast",27,47,34,41,38,38.661
-"PE-Olinda",2020-06-18,"nowcast",26,46,31,39,38,37.475
-"PE-Olinda",2020-06-19,"nowcast",27,45,33,40,37,36.757
-"PE-Olinda",2020-06-20,"nowcast",28,47,30,38,37,36.794
-"PE-Olinda",2020-06-21,"nowcast",25,44,29,37,36,36.674
-"PE-Olinda",2020-06-22,"nowcast",26,44,32,39,36,35.86
-"PE-Olinda",2020-06-23,"nowcast",26,44,30,37,35,35.366
-"PE-Olinda",2020-06-24,"nowcast",25,43,30,37,35,34.728
-"PE-Olinda",2020-06-25,"nowcast",24,42,29,36,34,34.73
-"PE-Olinda",2020-06-26,"nowcast",25,44,31,38,35,35.188
-"PE-Olinda",2020-06-27,"nowcast",26,45,31,38,36,35.743
-"PE-Olinda",2020-06-28,"nowcast",27,46,33,40,37,36.965
-"PE-Olinda",2020-06-29,"nowcast",26,45,30,38,37,37.273
-"PE-Olinda",2020-06-30,"nowcast",29,48,34,41,38,37.967
-"PE-Olinda",2020-07-01,"nowcast",28,47,32,40,38,38.176
-"PE-Olinda",2020-07-02,"nowcast",28,48,32,40,39,39.479
-"PE-Olinda",2020-07-03,"nowcast",29,49,34,42,40,39.63
-"PE-Olinda",2020-07-04,"nowcast",30,49,34,42,40,40.441
-"PE-Olinda",2020-07-05,"nowcast",30,50,34,42,40,40.418
-"PE-Olinda",2020-07-06,"nowcast",30,49,34,42,40,39.932
-"PE-Olinda",2020-07-07,"nowcast",28,48,33,41,39,38.989
-"PE-Olinda",2020-07-08,"nowcast",27,47,34,41,38,37.817
-"PE-Olinda",2020-07-09,"nowcast",28,47,30,38,37,37.032
-"PE-Olinda",2020-07-10,"nowcast",25,44,32,39,36,36.148
-"PE-Olinda",2020-07-11,"nowcast",26,44,31,38,35,35.513
-"PE-Olinda",2020-07-12,"nowcast",25,44,31,38,35,35.348
-"PE-Olinda",2020-07-13,"nowcast",25,43,29,36,35,34.735
-"PE-Olinda",2020-07-14,"nowcast",24,42,28,35,34,33.875
-"PE-Olinda",2020-07-15,"nowcast",24,42,29,36,34,33.98
-"PE-Olinda",2020-07-16,"nowcast",24,43,30,37,35,34.695
-"PE-Olinda",2020-07-17,"nowcast",25,44,29,37,35,35.432
-"PE-Olinda",2020-07-18,"nowcast",24,44,30,38,36,35.883
-"PE-Olinda",2020-07-19,"nowcast",27,45,32,39,36,36.34
-"PE-Olinda",2020-07-20,"nowcast",26,44,30,37,35,35.778
-"PE-Olinda",2020-07-21,"nowcast",23,42,30,37,34,34.525
-"PE-Olinda",2020-07-22,"nowcast",23,42,29,36,33,33.354
-"PE-Olinda",2020-07-23,"nowcast",22,41,27,34,32,31.998
-"PE-Olinda",2020-07-24,"nowcast",22,40,26,33,32,31.778
-"PE-Olinda",2020-07-25,"nowcast",21,40,26,33,31,31.644
-"PE-Olinda",2020-07-26,"nowcast",21,40,26,33,31,30.826
-"PE-Olinda",2020-07-27,"nowcast",19,38,25,32,29,29.407
-"PE-Olinda",2020-07-28,"nowcast",18,37,21,29,27,27.805
+"PE-Olinda",2020-02-06,"nowcast",1,1,1,1,1,1
+"PE-Olinda",2020-02-07,"nowcast",1,1,1,1,1,1
+"PE-Olinda",2020-02-08,"nowcast",1,1,1,1,1,1
+"PE-Olinda",2020-02-09,"nowcast",0,0,0,0,0,0
+"PE-Olinda",2020-02-10,"nowcast",0,0,0,0,0,0
+"PE-Olinda",2020-02-11,"nowcast",0,0,0,0,0,0
+"PE-Olinda",2020-02-12,"nowcast",0,0,0,0,0,0
+"PE-Olinda",2020-02-13,"nowcast",0,0,0,0,0,0
+"PE-Olinda",2020-02-14,"nowcast",0,0,0,0,0,0
+"PE-Olinda",2020-02-15,"nowcast",0,1,1,1,1,0.666666666666667
+"PE-Olinda",2020-02-16,"nowcast",0,1,0,1,0.5,0.5
+"PE-Olinda",2020-02-17,"nowcast",0,1,0,0,0,0.375
+"PE-Olinda",2020-02-18,"nowcast",0,1,0,0,0,0.272727272727273
+"PE-Olinda",2020-02-19,"nowcast",0,1,0,0,0,0.357142857142857
+"PE-Olinda",2020-02-20,"nowcast",0,1,0,0,0,0.176470588235294
+"PE-Olinda",2020-02-21,"nowcast",0,1,0,0,0,0.25
+"PE-Olinda",2020-02-22,"nowcast",0,1,0,0,0,0.25
+"PE-Olinda",2020-02-23,"nowcast",0,1,0,0,0,0.290322580645161
+"PE-Olinda",2020-02-24,"nowcast",0,1,0,0,0,0.117647058823529
+"PE-Olinda",2020-02-25,"nowcast",0,1,0,0,0,0.219512195121951
+"PE-Olinda",2020-02-26,"nowcast",0,1,0,0,0,0.224489795918367
+"PE-Olinda",2020-02-27,"nowcast",0,1,0,0,0,0.276923076923077
+"PE-Olinda",2020-02-28,"nowcast",0,1,0,0,0,0.36046511627907
+"PE-Olinda",2020-02-29,"nowcast",0,1,0,0,0,0.242718446601942
+"PE-Olinda",2020-03-01,"nowcast",0,1,0,0,0,0.307692307692308
+"PE-Olinda",2020-03-02,"nowcast",0,1,0,0,0,0.303571428571429
+"PE-Olinda",2020-03-03,"nowcast",0,1,0,0,0,0.296650717703349
+"PE-Olinda",2020-03-04,"nowcast",0,1,0,0,0,0.317647058823529
+"PE-Olinda",2020-03-05,"nowcast",0,1,0,0,0,0.286195286195286
+"PE-Olinda",2020-03-06,"nowcast",0,1,0,0,0,0.326923076923077
+"PE-Olinda",2020-03-07,"nowcast",0,1,0,0,0,0.347319347319347
+"PE-Olinda",2020-03-08,"nowcast",0,1,0,0,0,0.3687374749499
+"PE-Olinda",2020-03-09,"nowcast",0,1,0,0,0,0.425862068965517
+"PE-Olinda",2020-03-10,"nowcast",0,1,0,0,0,0.433482810164425
+"PE-Olinda",2020-03-11,"nowcast",0,1,0,0,0,0.499339498018494
+"PE-Olinda",2020-03-12,"nowcast",0,1,0,0,0,0.549636803874092
+"PE-Olinda",2020-03-13,"nowcast",0,2,0,1,1,0.668941979522184
+"PE-Olinda",2020-03-14,"nowcast",0,2,0,1,1,0.733549083063646
+"PE-Olinda",2020-03-15,"nowcast",0,2,0,1,1,0.834910620399579
+"PE-Olinda",2020-03-16,"nowcast",0,2,0,1,1,0.975435005117707
+"PE-Olinda",2020-03-17,"nowcast",0,2,0,1,1,1.07505070993915
+"PE-Olinda",2020-03-18,"nowcast",0,3,0,1,1,1.22736418511066
+"PE-Olinda",2020-03-19,"nowcast",0,3,0,1,1,1.43743743743744
+"PE-Olinda",2020-03-20,"nowcast",0,3,0,1,1,1.64464464464464
+"PE-Olinda",2020-03-21,"nowcast",0,4,1,2,2,2.013
+"PE-Olinda",2020-03-22,"nowcast",0,4,0,2,2,2.27
+"PE-Olinda",2020-03-23,"nowcast",0,5,1,3,3,2.884
+"PE-Olinda",2020-03-24,"nowcast",0,6,1,3,3,3.287
+"PE-Olinda",2020-03-25,"nowcast",0,7,2,4,4,4.007
+"PE-Olinda",2020-03-26,"nowcast",1,8,2,5,4,4.762
+"PE-Olinda",2020-03-27,"nowcast",2,10,3,6,5,5.665
+"PE-Olinda",2020-03-28,"nowcast",2,11,4,7,7,6.786
+"PE-Olinda",2020-03-29,"nowcast",2,12,4,8,8,8.074
+"PE-Olinda",2020-03-30,"nowcast",3,14,6,10,9,9.486
+"PE-Olinda",2020-03-31,"nowcast",4,16,8,12,11,11.079
+"PE-Olinda",2020-04-01,"nowcast",6,18,8,13,12,12.494
+"PE-Olinda",2020-04-02,"nowcast",8,21,10,15,14,14.239
+"PE-Olinda",2020-04-03,"nowcast",9,22,12,17,16,15.815
+"PE-Olinda",2020-04-04,"nowcast",11,25,14,19,18,18.023
+"PE-Olinda",2020-04-05,"nowcast",11,26,15,21,19,19.621
+"PE-Olinda",2020-04-06,"nowcast",13,28,17,23,21,21.407
+"PE-Olinda",2020-04-07,"nowcast",14,29,17,23,23,22.719
+"PE-Olinda",2020-04-08,"nowcast",16,32,21,27,24,24.503
+"PE-Olinda",2020-04-09,"nowcast",18,35,21,28,26,26.365
+"PE-Olinda",2020-04-10,"nowcast",19,36,23,30,28,27.806
+"PE-Olinda",2020-04-11,"nowcast",19,38,24,31,29,29.461
+"PE-Olinda",2020-04-12,"nowcast",21,40,28,35,31,31.487
+"PE-Olinda",2020-04-13,"nowcast",23,43,26,34,33,33.43
+"PE-Olinda",2020-04-14,"nowcast",24,45,29,37,35,35.174
+"PE-Olinda",2020-04-15,"nowcast",27,48,30,39,38,37.834
+"PE-Olinda",2020-04-16,"nowcast",29,50,36,44,41,40.722
+"PE-Olinda",2020-04-17,"nowcast",31,53,37,46,44,43.567
+"PE-Olinda",2020-04-18,"nowcast",36,58,40,49,46,46.129
+"PE-Olinda",2020-04-19,"nowcast",38,60,42,51,48.5,48.837
+"PE-Olinda",2020-04-20,"nowcast",39,62,43,52,51,51.239
+"PE-Olinda",2020-04-21,"nowcast",41,64,46,55,53,53.144
+"PE-Olinda",2020-04-22,"nowcast",43,66,47,57,55,55.098
+"PE-Olinda",2020-04-23,"nowcast",42,66,47,57,55,54.818
+"PE-Olinda",2020-04-24,"nowcast",43,66,50,59,55,55.039
+"PE-Olinda",2020-04-25,"nowcast",43,66,48,57,55,55.08
+"PE-Olinda",2020-04-26,"nowcast",44,67,51,60,56,56.324
+"PE-Olinda",2020-04-27,"nowcast",44,69,50,60,57,57.502
+"PE-Olinda",2020-04-28,"nowcast",45,70,51,61,58,58.386
+"PE-Olinda",2020-04-29,"nowcast",47,72,54,63,60,60.234
+"PE-Olinda",2020-04-30,"nowcast",48,72,57,66,61,61.209
+"PE-Olinda",2020-05-01,"nowcast",51,75,56,66,63,63.449
+"PE-Olinda",2020-05-02,"nowcast",51,76,59,69,66,65.627
+"PE-Olinda",2020-05-03,"nowcast",54,80,61,71,68,67.637
+"PE-Olinda",2020-05-04,"nowcast",54,80,62,72,68,67.855
+"PE-Olinda",2020-05-05,"nowcast",53,80,61,71,67,67.854
+"PE-Olinda",2020-05-06,"nowcast",53,79,60,70,67.5,67.674
+"PE-Olinda",2020-05-07,"nowcast",54,80,62,72,68,68.302
+"PE-Olinda",2020-05-08,"nowcast",54,81,65,75,70,69.832
+"PE-Olinda",2020-05-09,"nowcast",59,86,66,76,72,72.159
+"PE-Olinda",2020-05-10,"nowcast",60,88,68,79,74,74.062
+"PE-Olinda",2020-05-11,"nowcast",60,87,67,78,75,75.05
+"PE-Olinda",2020-05-12,"nowcast",61,88,68,79,75,75.128
+"PE-Olinda",2020-05-13,"nowcast",59,87,64,76,73.5,73.92
+"PE-Olinda",2020-05-14,"nowcast",56,84,62,73,71,71.24
+"PE-Olinda",2020-05-15,"nowcast",53,81,63,73,68,68.473
+"PE-Olinda",2020-05-16,"nowcast",51,78,60,70,65,65.051
+"PE-Olinda",2020-05-17,"nowcast",47,74,54,64,61,61.586
+"PE-Olinda",2020-05-18,"nowcast",44,70,52,62,57,57.864
+"PE-Olinda",2020-05-19,"nowcast",43,66,49,58,55,55.073
+"PE-Olinda",2020-05-20,"nowcast",40,63,48,57,53,52.801
+"PE-Olinda",2020-05-21,"nowcast",39,62,45,54,51,51.468
+"PE-Olinda",2020-05-22,"nowcast",39,62,45,54,51,51.073
+"PE-Olinda",2020-05-23,"nowcast",37,60,45,53,50,50.27
+"PE-Olinda",2020-05-24,"nowcast",36,59,44,52,49,49.062
+"PE-Olinda",2020-05-25,"nowcast",35,58,40,49,47,47.305
+"PE-Olinda",2020-05-26,"nowcast",32,54,38,47,45,44.806
+"PE-Olinda",2020-05-27,"nowcast",33,53,38,45,42,42.578
+"PE-Olinda",2020-05-28,"nowcast",29,49,35,43,40,40.406
+"PE-Olinda",2020-05-29,"nowcast",28,48,32,40,38,38.696
+"PE-Olinda",2020-05-30,"nowcast",26,45,32,39,37,36.824
+"PE-Olinda",2020-05-31,"nowcast",25,44,31,38,36,35.489
+"PE-Olinda",2020-06-01,"nowcast",25,43,29,36,34,34.264
+"PE-Olinda",2020-06-02,"nowcast",24,42,30,37,33,33.296
+"PE-Olinda",2020-06-03,"nowcast",23,41,27,34,33,33.266
+"PE-Olinda",2020-06-04,"nowcast",23,42,28,35,33,33.531
+"PE-Olinda",2020-06-05,"nowcast",24,43,30,37,34,34.577
+"PE-Olinda",2020-06-06,"nowcast",26,45,29,37,36,36.189
+"PE-Olinda",2020-06-07,"nowcast",26,46,32,39,37,37.386
+"PE-Olinda",2020-06-08,"nowcast",29,48,32,40,39,39.083
+"PE-Olinda",2020-06-09,"nowcast",31,51,35,43,41,41.04
+"PE-Olinda",2020-06-10,"nowcast",30,50,36,44,42,42.331
+"PE-Olinda",2020-06-11,"nowcast",32,53,35,44,43,43.453
+"PE-Olinda",2020-06-12,"nowcast",34,55,38,47,45,44.977
+"PE-Olinda",2020-06-13,"nowcast",34,55,37,46,44,44.883
+"PE-Olinda",2020-06-14,"nowcast",35,55,37,45,44,43.893
+"PE-Olinda",2020-06-15,"nowcast",32,52,39,46,43,42.743
+"PE-Olinda",2020-06-16,"nowcast",31,51,33,42,40.5,40.746
+"PE-Olinda",2020-06-17,"nowcast",28,47,33,41,38,38.663
+"PE-Olinda",2020-06-18,"nowcast",27,46,30,38,37,37.304
+"PE-Olinda",2020-06-19,"nowcast",26,45,30,38,36.5,36.82
+"PE-Olinda",2020-06-20,"nowcast",25,45,31,39,37,36.975
+"PE-Olinda",2020-06-21,"nowcast",27,46,32,39,37,36.605
+"PE-Olinda",2020-06-22,"nowcast",26,45,30,38,36,36.111
+"PE-Olinda",2020-06-23,"nowcast",25,44,31,38,36,35.392
+"PE-Olinda",2020-06-24,"nowcast",25,43,28,36,35,34.862
+"PE-Olinda",2020-06-25,"nowcast",25,43,30,37,35,34.901
+"PE-Olinda",2020-06-26,"nowcast",26,44,30,37,35,34.906
+"PE-Olinda",2020-06-27,"nowcast",25,44,29,37,36,36.049
+"PE-Olinda",2020-06-28,"nowcast",27,46,30,38,37,36.768
+"PE-Olinda",2020-06-29,"nowcast",26,45,30,38,37,37.025
+"PE-Olinda",2020-06-30,"nowcast",27,46,33,40,37,37.701
+"PE-Olinda",2020-07-01,"nowcast",29,47,34,41,38,38.355
+"PE-Olinda",2020-07-02,"nowcast",29,48,34,41,39,39.06
+"PE-Olinda",2020-07-03,"nowcast",30,49,33,41,40,40.118
+"PE-Olinda",2020-07-04,"nowcast",29,49,34,42,41,40.738
+"PE-Olinda",2020-07-05,"nowcast",30,50,34,42,40,40.319
+"PE-Olinda",2020-07-06,"nowcast",30,49,34,42,39.5,39.665
+"PE-Olinda",2020-07-07,"nowcast",29,48,35,42,39,39.263
+"PE-Olinda",2020-07-08,"nowcast",26,47,32,40,38,38.03
+"PE-Olinda",2020-07-09,"nowcast",26,45,30,38,37,36.784
+"PE-Olinda",2020-07-10,"nowcast",27,46,29,37,36,36.088
+"PE-Olinda",2020-07-11,"nowcast",25,44,31,38,36,35.664
+"PE-Olinda",2020-07-12,"nowcast",24,43,30,37,35,35.165
+"PE-Olinda",2020-07-13,"nowcast",25,43,30,37,34.5,34.672
+"PE-Olinda",2020-07-14,"nowcast",25,42,28,35,34,33.913
+"PE-Olinda",2020-07-15,"nowcast",23,41,29,36,34,33.677
+"PE-Olinda",2020-07-16,"nowcast",25,43,30,37,34,34.028
+"PE-Olinda",2020-07-17,"nowcast",26,44,30,37,35,35.03
+"PE-Olinda",2020-07-18,"nowcast",26,45,31,38,36,36.084
+"PE-Olinda",2020-07-19,"nowcast",25,44,32,39,36,35.944
+"PE-Olinda",2020-07-20,"nowcast",25,44,31,38,35,35.752
+"PE-Olinda",2020-07-21,"nowcast",24,43,28,36,34,34.391
+"PE-Olinda",2020-07-22,"nowcast",24,42,26,34,33,33.069
+"PE-Olinda",2020-07-23,"nowcast",23,41,27,34,32,32.171
+"PE-Olinda",2020-07-24,"nowcast",22,40,26,33,32,31.795
+"PE-Olinda",2020-07-25,"nowcast",22,40,26,33,31,30.861
+"PE-Olinda",2020-07-26,"nowcast",20,38,25,32,29,29.816
+"PE-Olinda",2020-07-27,"nowcast",20,38,23,30,29,29.084
+"PE-Olinda",2020-07-28,"nowcast",16,35,20,28,27,27.349
+"PE-Olinda",2020-07-29,"nowcast",16,36,19,27,25.5,26.144
 "PE-Olinda",2020-03-22,"observed",NA,NA,NA,NA,1,NA
 "PE-Olinda",2020-03-23,"observed",NA,NA,NA,NA,1,NA
 "PE-Olinda",2020-03-24,"observed",NA,NA,NA,NA,0,NA
@@ -6019,21 +6018,22 @@
 "PE-Olinda",2020-08-05,"observed",NA,NA,NA,NA,29,NA
 "PE-Olinda",2020-08-06,"observed",NA,NA,NA,NA,26,NA
 "PE-Olinda",2020-08-07,"observed",NA,NA,NA,NA,27,NA
-"PE-Olinda",2020-08-08,"observed",NA,NA,NA,NA,0,NA
-"PE-Olinda",2020-07-29,"forecast",14,40,21,31,28,28.724
-"PE-Olinda",2020-07-30,"forecast",12,40,19,30,28,28.2392
-"PE-Olinda",2020-07-31,"forecast",13,41,19,30,27,27.7136
-"PE-Olinda",2020-08-01,"forecast",11,41,16,28,26,27.244
-"PE-Olinda",2020-08-02,"forecast",10,41,14,27,26,26.828
-"PE-Olinda",2020-08-03,"forecast",10,42,15,28,26,26.5768
-"PE-Olinda",2020-08-04,"forecast",7,41,16,29,25,26.1616
-"PE-Olinda",2020-08-05,"forecast",7,42,13,27,25,25.887
-"PE-Olinda",2020-08-06,"forecast",5,41,13,27,24,25.3932
-"PE-Olinda",2020-08-07,"forecast",6,42,13,27,23,24.9208
-"PE-Olinda",2020-08-08,"forecast",4,41,11,26,23,24.6824
-"PE-Olinda",2020-08-09,"forecast",4,42,10,25,22,24.417
-"PE-Olinda",2020-08-10,"forecast",4,42,10,25,22,23.991
-"PE-Olinda",2020-08-11,"forecast",3,42,10,25,22,23.7524
+"PE-Olinda",2020-08-08,"observed",NA,NA,NA,NA,21,NA
+"PE-Olinda",2020-08-09,"observed",NA,NA,NA,NA,0,NA
+"PE-Olinda",2020-07-30,"forecast",14,39,19,29,26,26.7658
+"PE-Olinda",2020-07-31,"forecast",13,40,16,27,26,26.208
+"PE-Olinda",2020-08-01,"forecast",11,39,16,27,25,25.6064
+"PE-Olinda",2020-08-02,"forecast",9,39,15,27,24,25.3724
+"PE-Olinda",2020-08-03,"forecast",8,39,15,27,24,24.7834
+"PE-Olinda",2020-08-04,"forecast",8,39,15,27,23,24.0982
+"PE-Olinda",2020-08-05,"forecast",5,39,12,25,23,23.842
+"PE-Olinda",2020-08-06,"forecast",5,39,12,25,22,23.4068
+"PE-Olinda",2020-08-07,"forecast",3,38,12,25,21,23.0652
+"PE-Olinda",2020-08-08,"forecast",3,38,9,23,21,22.5964
+"PE-Olinda",2020-08-09,"forecast",3,39,8,22,20,22.1178
+"PE-Olinda",2020-08-10,"forecast",2,38,8,22,20,21.816
+"PE-Olinda",2020-08-11,"forecast",1,38,7,21,19,21.5388
+"PE-Olinda",2020-08-12,"forecast",2,39,7,21,19,21.231
 "PE-Palmares",2020-02-25,"nowcast",1,1,1,1,1,1
 "PE-Palmares",2020-02-26,"nowcast",0,1,0,1,0.5,0.5
 "PE-Palmares",2020-02-27,"nowcast",0,1,0,0,0,0.333333333333333
@@ -6877,167 +6877,165 @@
 "PE-Paudalho",2020-07-31,"forecast",0,51,0,12,12,25.2182
 "PE-Paudalho",2020-08-01,"forecast",0,59,0,12,12,29.868
 "PE-Paudalho",2020-08-02,"forecast",0,62,0,12,12,32.64
-"PE-Paulista",2020-02-19,"nowcast",1,1,1,1,1,1
-"PE-Paulista",2020-02-20,"nowcast",0,0,0,0,0,0
-"PE-Paulista",2020-02-21,"nowcast",1,1,1,1,1,1
-"PE-Paulista",2020-02-22,"nowcast",0,0,0,0,0,0
-"PE-Paulista",2020-02-23,"nowcast",0,1,1,1,1,0.75
-"PE-Paulista",2020-02-24,"nowcast",0,1,0,0,0,0.25
-"PE-Paulista",2020-02-25,"nowcast",0,0,0,0,0,0
-"PE-Paulista",2020-02-26,"nowcast",0,0,0,0,0,0
-"PE-Paulista",2020-02-27,"nowcast",0,1,0,0,0,0.2
+"PE-Paulista",2020-02-22,"nowcast",1,1,1,1,1,1
+"PE-Paulista",2020-02-23,"nowcast",0,1,0,1,0.5,0.5
+"PE-Paulista",2020-02-24,"nowcast",0,1,0,0,0,0.333333333333333
+"PE-Paulista",2020-02-25,"nowcast",0,1,0,0,0,0.4
+"PE-Paulista",2020-02-26,"nowcast",0,1,0,0,0,0.375
+"PE-Paulista",2020-02-27,"nowcast",0,1,0,0,0,0.222222222222222
 "PE-Paulista",2020-02-28,"nowcast",0,1,0,1,0.5,0.5
-"PE-Paulista",2020-02-29,"nowcast",0,1,0,0,0,0.466666666666667
-"PE-Paulista",2020-03-01,"nowcast",0,1,0,0,0,0.391304347826087
-"PE-Paulista",2020-03-02,"nowcast",0,1,0,0,0,0.185185185185185
-"PE-Paulista",2020-03-03,"nowcast",0,1,0,0,0,0.378378378378378
-"PE-Paulista",2020-03-04,"nowcast",0,1,0,0,0,0.3
-"PE-Paulista",2020-03-05,"nowcast",0,1,0,0,0,0.357142857142857
-"PE-Paulista",2020-03-06,"nowcast",0,1,0,0,0,0.414141414141414
-"PE-Paulista",2020-03-07,"nowcast",0,1,0,0,0,0.30952380952381
-"PE-Paulista",2020-03-08,"nowcast",0,1,0,0,0,0.327380952380952
-"PE-Paulista",2020-03-09,"nowcast",0,1,0,0,0,0.350710900473934
-"PE-Paulista",2020-03-10,"nowcast",0,1,0,0,0,0.414448669201521
-"PE-Paulista",2020-03-11,"nowcast",0,1,0,0,0,0.378787878787879
-"PE-Paulista",2020-03-12,"nowcast",0,1,0,0,0,0.36
-"PE-Paulista",2020-03-13,"nowcast",0,1,0,0,0,0.439655172413793
-"PE-Paulista",2020-03-14,"nowcast",0,1,0,0,0,0.477941176470588
-"PE-Paulista",2020-03-15,"nowcast",0,1,0,0,0,0.551779935275081
-"PE-Paulista",2020-03-16,"nowcast",0,1,0,0,0,0.594900849858357
-"PE-Paulista",2020-03-17,"nowcast",0,2,0,0,0,0.664112388250319
-"PE-Paulista",2020-03-18,"nowcast",0,2,0,1,1,0.705812574139976
-"PE-Paulista",2020-03-19,"nowcast",0,2,0,1,1,0.885809312638581
-"PE-Paulista",2020-03-20,"nowcast",0,3,0,1,1,1.09023354564756
-"PE-Paulista",2020-03-21,"nowcast",0,3,0,1,1,1.38549222797927
-"PE-Paulista",2020-03-22,"nowcast",0,3,0,1,1,1.61686991869919
-"PE-Paulista",2020-03-23,"nowcast",0,4,1,2,2,1.95564516129032
-"PE-Paulista",2020-03-24,"nowcast",0,5,0,2,2,2.40180360721443
-"PE-Paulista",2020-03-25,"nowcast",0,5,0,2,2,2.776
-"PE-Paulista",2020-03-26,"nowcast",0,6,1,3,3,3.495
-"PE-Paulista",2020-03-27,"nowcast",1,7,2,4,4,4.097
-"PE-Paulista",2020-03-28,"nowcast",1,8,2,5,5,4.859
-"PE-Paulista",2020-03-29,"nowcast",2,9,3,6,5,5.677
-"PE-Paulista",2020-03-30,"nowcast",2,11,4,7,6,6.607
-"PE-Paulista",2020-03-31,"nowcast",3,12,5,8,7,7.717
-"PE-Paulista",2020-04-01,"nowcast",4,13,5,9,9,8.81
-"PE-Paulista",2020-04-02,"nowcast",4,14,6,10,10,9.824
-"PE-Paulista",2020-04-03,"nowcast",5,16,7,11,11,10.863
-"PE-Paulista",2020-04-04,"nowcast",6,17,10,14,12,12.191
-"PE-Paulista",2020-04-05,"nowcast",6,18,8,13,13,13.155
-"PE-Paulista",2020-04-06,"nowcast",8,20,10,15,14,14.272
-"PE-Paulista",2020-04-07,"nowcast",8,21,11,16,15,15.277
-"PE-Paulista",2020-04-08,"nowcast",9,22,12,17,16,16.097
-"PE-Paulista",2020-04-09,"nowcast",10,23,13,18,17,17.199
-"PE-Paulista",2020-04-10,"nowcast",10,24,15,20,18,18.379
-"PE-Paulista",2020-04-11,"nowcast",11,26,14,20,19,19.58
-"PE-Paulista",2020-04-12,"nowcast",13,28,18,23,21,20.88
-"PE-Paulista",2020-04-13,"nowcast",15,30,18,24,22,22.71
-"PE-Paulista",2020-04-14,"nowcast",16,32,20,26,24,24.579
-"PE-Paulista",2020-04-15,"nowcast",18,33,22,28,26,26.029
-"PE-Paulista",2020-04-16,"nowcast",20,37,23,30,29,28.507
-"PE-Paulista",2020-04-17,"nowcast",20,39,26,33,31,30.703
-"PE-Paulista",2020-04-18,"nowcast",24,42,28,35,33,33.01
-"PE-Paulista",2020-04-19,"nowcast",24,43,30,37,35,34.821
-"PE-Paulista",2020-04-20,"nowcast",27,46,31,39,36,36.442
-"PE-Paulista",2020-04-21,"nowcast",27,46,32,40,38,37.684
-"PE-Paulista",2020-04-22,"nowcast",28,48,32,40,38,38.482
-"PE-Paulista",2020-04-23,"nowcast",29,48,31,39,38,38.561
-"PE-Paulista",2020-04-24,"nowcast",28,48,32,40,38,38.537
-"PE-Paulista",2020-04-25,"nowcast",29,48,33,40,38,38.459
-"PE-Paulista",2020-04-26,"nowcast",28,48,34,41,39,39.162
-"PE-Paulista",2020-04-27,"nowcast",30,49,34,42,40,40.064
-"PE-Paulista",2020-04-28,"nowcast",30,50,35,43,40.5,40.801
-"PE-Paulista",2020-04-29,"nowcast",30,51,37,45,42,41.992
-"PE-Paulista",2020-04-30,"nowcast",31,52,38,46,43,43.052
-"PE-Paulista",2020-05-01,"nowcast",33,55,38,47,45,45.47
-"PE-Paulista",2020-05-02,"nowcast",35,57,41,50,47,47.271
-"PE-Paulista",2020-05-03,"nowcast",36,58,45,53,49,48.818
-"PE-Paulista",2020-05-04,"nowcast",38,61,44,53,50,49.539
-"PE-Paulista",2020-05-05,"nowcast",39,60,43,52,50,49.92
-"PE-Paulista",2020-05-06,"nowcast",38,60,44,53,50,49.568
-"PE-Paulista",2020-05-07,"nowcast",40,61,43,52,50,50.209
-"PE-Paulista",2020-05-08,"nowcast",40,62,46,54,51,50.727
-"PE-Paulista",2020-05-09,"nowcast",41,63,46,55,52,52.586
-"PE-Paulista",2020-05-10,"nowcast",39,63,46,55,53,53.09
-"PE-Paulista",2020-05-11,"nowcast",41,64,47,56,54,54.423
-"PE-Paulista",2020-05-12,"nowcast",43,66,47,56,54,53.793
-"PE-Paulista",2020-05-13,"nowcast",41,65,47,56,53,53.071
-"PE-Paulista",2020-05-14,"nowcast",40,64,47,56,52,52.002
-"PE-Paulista",2020-05-15,"nowcast",36,60,46,55,50,49.973
-"PE-Paulista",2020-05-16,"nowcast",37,58,44,52,48,48.026
-"PE-Paulista",2020-05-17,"nowcast",34,57,38,47,45,45.927
-"PE-Paulista",2020-05-18,"nowcast",32,53,39,47,44,43.649
-"PE-Paulista",2020-05-19,"nowcast",32,52,36,44,42,41.688
-"PE-Paulista",2020-05-20,"nowcast",31,50,34,42,40,40.267
-"PE-Paulista",2020-05-21,"nowcast",28,48,33,41,39,38.968
-"PE-Paulista",2020-05-22,"nowcast",29,48,32,40,38,38.474
-"PE-Paulista",2020-05-23,"nowcast",27,47,32,40,38,38.269
-"PE-Paulista",2020-05-24,"nowcast",27,46,30,38,36,36.839
-"PE-Paulista",2020-05-25,"nowcast",26,44,31,38,35,35.311
-"PE-Paulista",2020-05-26,"nowcast",23,42,29,36,33,33.682
-"PE-Paulista",2020-05-27,"nowcast",22,40,27,34,32,32.357
-"PE-Paulista",2020-05-28,"nowcast",22,39,26,33,31,31.079
-"PE-Paulista",2020-05-29,"nowcast",19,37,24,31,30,29.877
-"PE-Paulista",2020-05-30,"nowcast",20,36,25,31,29,28.865
-"PE-Paulista",2020-05-31,"nowcast",20,36,24,30,28,27.95
-"PE-Paulista",2020-06-01,"nowcast",20,35,25,31,27,26.997
-"PE-Paulista",2020-06-02,"nowcast",17,33,22,28,26,26.243
-"PE-Paulista",2020-06-03,"nowcast",18,33,21,27,26,25.812
-"PE-Paulista",2020-06-04,"nowcast",17,32,21,27,26,25.476
-"PE-Paulista",2020-06-05,"nowcast",16,32,20,26,25,25.226
-"PE-Paulista",2020-06-06,"nowcast",17,32,20,26,25,24.993
-"PE-Paulista",2020-06-07,"nowcast",16,32,19,25,24,24.04
-"PE-Paulista",2020-06-08,"nowcast",15,30,18,24,23,23.313
-"PE-Paulista",2020-06-09,"nowcast",16,30,20,25,22,22.638
-"PE-Paulista",2020-06-10,"nowcast",14,28,16,22,21,21.583
-"PE-Paulista",2020-06-11,"nowcast",13,27,15,21,20,20.665
-"PE-Paulista",2020-06-12,"nowcast",12,27,16,22,21,20.721
-"PE-Paulista",2020-06-13,"nowcast",13,27,15,21,20,20.162
-"PE-Paulista",2020-06-14,"nowcast",14,27,17,22,20,20.051
-"PE-Paulista",2020-06-15,"nowcast",12,26,16,21,19,19.606
-"PE-Paulista",2020-06-16,"nowcast",12,25,16,21,19,19.077
-"PE-Paulista",2020-06-17,"nowcast",11,25,15,20,18,18.653
-"PE-Paulista",2020-06-18,"nowcast",11,24,15,20,19,18.575
-"PE-Paulista",2020-06-19,"nowcast",11,24,15,20,18,18.505
-"PE-Paulista",2020-06-20,"nowcast",11,24,14,19,18,18.509
-"PE-Paulista",2020-06-21,"nowcast",11,24,14,19,18,17.968
-"PE-Paulista",2020-06-22,"nowcast",10,23,13,18,18,17.874
-"PE-Paulista",2020-06-23,"nowcast",10,23,13,18,17,17.45
-"PE-Paulista",2020-06-24,"nowcast",10,23,13,18,17,17.075
-"PE-Paulista",2020-06-25,"nowcast",10,23,13,18,17,17.13
-"PE-Paulista",2020-06-26,"nowcast",10,23,13,18,17,17.047
-"PE-Paulista",2020-06-27,"nowcast",11,24,13,18,17,17.488
-"PE-Paulista",2020-06-28,"nowcast",10,23,15,19,18,17.774
-"PE-Paulista",2020-06-29,"nowcast",11,24,14,19,18,18.097
-"PE-Paulista",2020-06-30,"nowcast",12,25,14,19,18,18.351
-"PE-Paulista",2020-07-01,"nowcast",11,25,16,21,18.5,18.738
-"PE-Paulista",2020-07-02,"nowcast",12,25,14,20,19,19.079
-"PE-Paulista",2020-07-03,"nowcast",13,26,14,20,19,19.493
-"PE-Paulista",2020-07-04,"nowcast",13,26,15,20,19,19.539
-"PE-Paulista",2020-07-05,"nowcast",12,25,16,21,20,19.566
-"PE-Paulista",2020-07-06,"nowcast",12,26,16,21,20,19.643
-"PE-Paulista",2020-07-07,"nowcast",12,26,17,22,20,19.797
-"PE-Paulista",2020-07-08,"nowcast",12,26,15,20,20,19.771
-"PE-Paulista",2020-07-09,"nowcast",13,26,16,21,20,20.29
-"PE-Paulista",2020-07-10,"nowcast",13,27,17,22,20,20.507
-"PE-Paulista",2020-07-11,"nowcast",14,28,15,21,21,20.802
-"PE-Paulista",2020-07-12,"nowcast",14,27,17,22,20,20.577
-"PE-Paulista",2020-07-13,"nowcast",13,27,17,22,20,20.71
-"PE-Paulista",2020-07-14,"nowcast",13,27,17,22,21,20.684
-"PE-Paulista",2020-07-15,"nowcast",13,27,18,23,20.5,20.772
-"PE-Paulista",2020-07-16,"nowcast",14,27,18,23,21,20.946
-"PE-Paulista",2020-07-17,"nowcast",14,28,16,22,21,21.296
-"PE-Paulista",2020-07-18,"nowcast",14,29,17,23,21,21.556
-"PE-Paulista",2020-07-19,"nowcast",13,28,16,22,21,21.458
-"PE-Paulista",2020-07-20,"nowcast",14,28,16,22,21,21.296
-"PE-Paulista",2020-07-21,"nowcast",12,27,18,23,21,20.773
-"PE-Paulista",2020-07-22,"nowcast",12,27,16,22,20,20.514
-"PE-Paulista",2020-07-23,"nowcast",12,27,18,23,20,20.316
-"PE-Paulista",2020-07-24,"nowcast",13,27,15,21,20,20.445
-"PE-Paulista",2020-07-25,"nowcast",12,27,15,21,20,20.397
-"PE-Paulista",2020-07-26,"nowcast",11,27,16,22,20,20.524
-"PE-Paulista",2020-07-27,"nowcast",13,29,16,22,20,20.772
-"PE-Paulista",2020-07-28,"nowcast",11,29,15,22,21,20.959
+"PE-Paulista",2020-02-29,"nowcast",0,1,0,0,0,0.428571428571429
+"PE-Paulista",2020-03-01,"nowcast",0,1,0,0,0,0.2
+"PE-Paulista",2020-03-02,"nowcast",0,1,0,0,0,0.272727272727273
+"PE-Paulista",2020-03-03,"nowcast",0,1,0,0,0,0.348837209302326
+"PE-Paulista",2020-03-04,"nowcast",0,1,0,0,0,0.272727272727273
+"PE-Paulista",2020-03-05,"nowcast",0,1,0,0,0,0.434210526315789
+"PE-Paulista",2020-03-06,"nowcast",0,1,0,0,0,0.333333333333333
+"PE-Paulista",2020-03-07,"nowcast",0,1,0,0,0,0.286885245901639
+"PE-Paulista",2020-03-08,"nowcast",0,1,0,0,0,0.318181818181818
+"PE-Paulista",2020-03-09,"nowcast",0,1,0,0,0,0.401041666666667
+"PE-Paulista",2020-03-10,"nowcast",0,1,0,0,0,0.400826446280992
+"PE-Paulista",2020-03-11,"nowcast",0,1,0,0,0,0.419795221843003
+"PE-Paulista",2020-03-12,"nowcast",0,1,0,0,0,0.431318681318681
+"PE-Paulista",2020-03-13,"nowcast",0,1,0,0,0,0.495454545454545
+"PE-Paulista",2020-03-14,"nowcast",0,1,0,0,0,0.487571701720841
+"PE-Paulista",2020-03-15,"nowcast",0,2,0,0,0,0.604651162790698
+"PE-Paulista",2020-03-16,"nowcast",0,1,0,0,0,0.5
+"PE-Paulista",2020-03-17,"nowcast",0,2,0,0,0,0.671087533156499
+"PE-Paulista",2020-03-18,"nowcast",0,2,0,1,1,0.772058823529412
+"PE-Paulista",2020-03-19,"nowcast",0,2,0,1,1,0.896825396825397
+"PE-Paulista",2020-03-20,"nowcast",0,2,0,1,1,1.08886509635974
+"PE-Paulista",2020-03-21,"nowcast",0,3,0,1,1,1.26131687242798
+"PE-Paulista",2020-03-22,"nowcast",0,3,0,1,1,1.61507128309572
+"PE-Paulista",2020-03-23,"nowcast",0,4,1,2,2,1.94561933534743
+"PE-Paulista",2020-03-24,"nowcast",0,5,0,2,2,2.34569138276553
+"PE-Paulista",2020-03-25,"nowcast",0,5,0,2,2,2.818
+"PE-Paulista",2020-03-26,"nowcast",0,6,1,3,3,3.421
+"PE-Paulista",2020-03-27,"nowcast",0,7,2,4,4,4.062
+"PE-Paulista",2020-03-28,"nowcast",1,8,2,5,5,4.736
+"PE-Paulista",2020-03-29,"nowcast",2,9,3,6,6,5.744
+"PE-Paulista",2020-03-30,"nowcast",2,11,4,7,6,6.627
+"PE-Paulista",2020-03-31,"nowcast",2,11,6,9,7,7.637
+"PE-Paulista",2020-04-01,"nowcast",3,13,5,9,8,8.623
+"PE-Paulista",2020-04-02,"nowcast",5,15,7,11,10,9.897
+"PE-Paulista",2020-04-03,"nowcast",5,16,7,11,11,11.028
+"PE-Paulista",2020-04-04,"nowcast",6,17,10,14,12,12.095
+"PE-Paulista",2020-04-05,"nowcast",7,19,10,14,13,13.375
+"PE-Paulista",2020-04-06,"nowcast",7,20,10,15,14,14.388
+"PE-Paulista",2020-04-07,"nowcast",8,21,11,16,15,15.155
+"PE-Paulista",2020-04-08,"nowcast",9,22,12,17,16,16.129
+"PE-Paulista",2020-04-09,"nowcast",9,23,13,18,17,17.006
+"PE-Paulista",2020-04-10,"nowcast",12,26,15,20,18,18.329
+"PE-Paulista",2020-04-11,"nowcast",12,27,15,21,20,19.751
+"PE-Paulista",2020-04-12,"nowcast",12,27,15,21,20,20.783
+"PE-Paulista",2020-04-13,"nowcast",13,29,17,23,22,22.413
+"PE-Paulista",2020-04-14,"nowcast",16,32,18,25,24,24.194
+"PE-Paulista",2020-04-15,"nowcast",19,35,22,28,26,26.478
+"PE-Paulista",2020-04-16,"nowcast",19,36,24,31,28,28.294
+"PE-Paulista",2020-04-17,"nowcast",20,38,25,32,30,30.594
+"PE-Paulista",2020-04-18,"nowcast",24,41,27,34,33,33.08
+"PE-Paulista",2020-04-19,"nowcast",24,43,28,36,35,34.909
+"PE-Paulista",2020-04-20,"nowcast",28,47,30,38,37,36.528
+"PE-Paulista",2020-04-21,"nowcast",27,47,33,40,37,37.636
+"PE-Paulista",2020-04-22,"nowcast",27,47,34,41,38,38.692
+"PE-Paulista",2020-04-23,"nowcast",27,46,34,41,38,38.608
+"PE-Paulista",2020-04-24,"nowcast",29,48,33,40,38,38.539
+"PE-Paulista",2020-04-25,"nowcast",29,48,35,42,38,38.461
+"PE-Paulista",2020-04-26,"nowcast",29,48,34,41,39,39.26
+"PE-Paulista",2020-04-27,"nowcast",28,48,33,41,39,39.543
+"PE-Paulista",2020-04-28,"nowcast",29,49,34,42,40,40.677
+"PE-Paulista",2020-04-29,"nowcast",31,51,36,44,42,42.068
+"PE-Paulista",2020-04-30,"nowcast",31,53,38,46,43,43.179
+"PE-Paulista",2020-05-01,"nowcast",33,55,40,48,45,45.42
+"PE-Paulista",2020-05-02,"nowcast",36,58,43,51,47,47.391
+"PE-Paulista",2020-05-03,"nowcast",38,60,42,51,48,48.767
+"PE-Paulista",2020-05-04,"nowcast",36,59,44,53,49,49.278
+"PE-Paulista",2020-05-05,"nowcast",38,60,42,51,49,49.237
+"PE-Paulista",2020-05-06,"nowcast",37,59,43,52,49,49.556
+"PE-Paulista",2020-05-07,"nowcast",37,59,44,53,50,50.223
+"PE-Paulista",2020-05-08,"nowcast",41,62,43,52,51,50.762
+"PE-Paulista",2020-05-09,"nowcast",42,64,45,54,52,52.416
+"PE-Paulista",2020-05-10,"nowcast",40,63,46,55,53,53.208
+"PE-Paulista",2020-05-11,"nowcast",42,64,47,56,54,54.308
+"PE-Paulista",2020-05-12,"nowcast",40,64,48,57,54,54.205
+"PE-Paulista",2020-05-13,"nowcast",42,65,47,56,54,53.523
+"PE-Paulista",2020-05-14,"nowcast",38,62,47,56,52,52.028
+"PE-Paulista",2020-05-15,"nowcast",39,61,43,52,50,49.87
+"PE-Paulista",2020-05-16,"nowcast",36,59,40,50,48,48.249
+"PE-Paulista",2020-05-17,"nowcast",34,56,41,49,46,46.007
+"PE-Paulista",2020-05-18,"nowcast",34,54,40,48,44,44.228
+"PE-Paulista",2020-05-19,"nowcast",33,53,38,45,42,41.879
+"PE-Paulista",2020-05-20,"nowcast",30,50,34,42,40,40.631
+"PE-Paulista",2020-05-21,"nowcast",28,48,32,40,39,38.795
+"PE-Paulista",2020-05-22,"nowcast",28,47,34,41,38,38.5
+"PE-Paulista",2020-05-23,"nowcast",27,47,35,42,38,37.893
+"PE-Paulista",2020-05-24,"nowcast",27,46,30,38,37,37.119
+"PE-Paulista",2020-05-25,"nowcast",25,44,29,37,35,35.17
+"PE-Paulista",2020-05-26,"nowcast",23,42,29,36,34,33.765
+"PE-Paulista",2020-05-27,"nowcast",23,40,26,33,32,31.687
+"PE-Paulista",2020-05-28,"nowcast",21,38,25,32,30.5,30.741
+"PE-Paulista",2020-05-29,"nowcast",21,38,24,31,30,29.515
+"PE-Paulista",2020-05-30,"nowcast",19,36,24,30,28,28.878
+"PE-Paulista",2020-05-31,"nowcast",18,35,24,30,28,27.882
+"PE-Paulista",2020-06-01,"nowcast",19,35,24,30,27,27.148
+"PE-Paulista",2020-06-02,"nowcast",19,34,22,28,26,26.473
+"PE-Paulista",2020-06-03,"nowcast",17,33,22,28,26,26.026
+"PE-Paulista",2020-06-04,"nowcast",16,32,21,27,25,25.495
+"PE-Paulista",2020-06-05,"nowcast",17,32,20,26,25,25.119
+"PE-Paulista",2020-06-06,"nowcast",18,34,21,27,25,25.277
+"PE-Paulista",2020-06-07,"nowcast",15,31,20,26,24,24.302
+"PE-Paulista",2020-06-08,"nowcast",14,29,21,26,23,23.309
+"PE-Paulista",2020-06-09,"nowcast",14,29,17,23,22,22.303
+"PE-Paulista",2020-06-10,"nowcast",13,28,16,22,21,21.453
+"PE-Paulista",2020-06-11,"nowcast",13,27,17,22,21,20.824
+"PE-Paulista",2020-06-12,"nowcast",12,26,17,22,20,20.232
+"PE-Paulista",2020-06-13,"nowcast",12,26,18,23,20,20.08
+"PE-Paulista",2020-06-14,"nowcast",13,26,16,21,20,19.907
+"PE-Paulista",2020-06-15,"nowcast",13,26,16,21,20,19.745
+"PE-Paulista",2020-06-16,"nowcast",12,25,15,20,19,19.132
+"PE-Paulista",2020-06-17,"nowcast",12,25,15,20,19,18.914
+"PE-Paulista",2020-06-18,"nowcast",13,26,15,20,19,18.847
+"PE-Paulista",2020-06-19,"nowcast",12,25,15,20,19,18.706
+"PE-Paulista",2020-06-20,"nowcast",12,24,15,20,18,18.55
+"PE-Paulista",2020-06-21,"nowcast",11,24,14,19,18,18.259
+"PE-Paulista",2020-06-22,"nowcast",11,23,14,19,18,17.629
+"PE-Paulista",2020-06-23,"nowcast",10,23,13,18,17,17.157
+"PE-Paulista",2020-06-24,"nowcast",9,22,13,18,17,17.174
+"PE-Paulista",2020-06-25,"nowcast",9,22,13,18,17,17.07
+"PE-Paulista",2020-06-26,"nowcast",10,23,14,19,17,17.299
+"PE-Paulista",2020-06-27,"nowcast",11,23,13,18,17,17.469
+"PE-Paulista",2020-06-28,"nowcast",11,24,14,19,18,17.719
+"PE-Paulista",2020-06-29,"nowcast",11,24,14,19,18,18.089
+"PE-Paulista",2020-06-30,"nowcast",11,24,16,21,18,18.443
+"PE-Paulista",2020-07-01,"nowcast",12,25,15,20,19,18.757
+"PE-Paulista",2020-07-02,"nowcast",11,25,17,22,19,19.159
+"PE-Paulista",2020-07-03,"nowcast",12,25,15,20,19,19.138
+"PE-Paulista",2020-07-04,"nowcast",13,26,15,21,19,19.474
+"PE-Paulista",2020-07-05,"nowcast",13,26,15,20,19,19.499
+"PE-Paulista",2020-07-06,"nowcast",12,26,16,21,19,19.547
+"PE-Paulista",2020-07-07,"nowcast",13,26,17,22,20,19.885
+"PE-Paulista",2020-07-08,"nowcast",12,26,17,22,20,19.767
+"PE-Paulista",2020-07-09,"nowcast",12,26,17,22,20,20.21
+"PE-Paulista",2020-07-10,"nowcast",12,27,16,22,20,20.603
+"PE-Paulista",2020-07-11,"nowcast",13,27,17,22,21,20.907
+"PE-Paulista",2020-07-12,"nowcast",13,27,17,22,20,20.611
+"PE-Paulista",2020-07-13,"nowcast",13,27,18,23,20,20.567
+"PE-Paulista",2020-07-14,"nowcast",13,27,17,22,20,20.705
+"PE-Paulista",2020-07-15,"nowcast",14,27,17,22,20,20.581
+"PE-Paulista",2020-07-16,"nowcast",13,27,17,22,21,21.068
+"PE-Paulista",2020-07-17,"nowcast",14,28,16,22,21,21.319
+"PE-Paulista",2020-07-18,"nowcast",14,28,16,22,21,21.55
+"PE-Paulista",2020-07-19,"nowcast",13,28,16,22,21,21.578
+"PE-Paulista",2020-07-20,"nowcast",13,27,17,22,21,21.167
+"PE-Paulista",2020-07-21,"nowcast",13,27,18,23,21,20.946
+"PE-Paulista",2020-07-22,"nowcast",12,26,16,22,21,20.551
+"PE-Paulista",2020-07-23,"nowcast",13,27,17,22,20,20.361
+"PE-Paulista",2020-07-24,"nowcast",13,27,15,21,20,20.185
+"PE-Paulista",2020-07-25,"nowcast",13,27,16,21,20,20.29
+"PE-Paulista",2020-07-26,"nowcast",12,27,15,21,20,20.351
+"PE-Paulista",2020-07-27,"nowcast",12,27,15,21,20,19.905
+"PE-Paulista",2020-07-28,"nowcast",12,27,17,22,20,20.386
+"PE-Paulista",2020-07-29,"nowcast",11,28,16,22,20,20.469
 "PE-Paulista",2020-04-03,"observed",NA,NA,NA,NA,3,NA
 "PE-Paulista",2020-04-04,"observed",NA,NA,NA,NA,0,NA
 "PE-Paulista",2020-04-05,"observed",NA,NA,NA,NA,2,NA
@@ -7165,21 +7163,22 @@
 "PE-Paulista",2020-08-05,"observed",NA,NA,NA,NA,17,NA
 "PE-Paulista",2020-08-06,"observed",NA,NA,NA,NA,22,NA
 "PE-Paulista",2020-08-07,"observed",NA,NA,NA,NA,16,NA
-"PE-Paulista",2020-08-08,"observed",NA,NA,NA,NA,0,NA
-"PE-Paulista",2020-07-29,"forecast",9,32,13,22,21,21.2178
-"PE-Paulista",2020-07-30,"forecast",8,33,13,23,20,21.492
-"PE-Paulista",2020-07-31,"forecast",6,33,13,23,20,21.4964
-"PE-Paulista",2020-08-01,"forecast",6,35,12,23,20,21.7572
-"PE-Paulista",2020-08-02,"forecast",4,35,12,23,21,22.078
-"PE-Paulista",2020-08-03,"forecast",5,37,10,22,20,22.1792
-"PE-Paulista",2020-08-04,"forecast",3,38,10,23,21,22.6088
-"PE-Paulista",2020-08-05,"forecast",2,39,11,24,21,22.9202
-"PE-Paulista",2020-08-06,"forecast",2,41,9,23,20,23.148
-"PE-Paulista",2020-08-07,"forecast",1,41,7,22,20,23.4656
-"PE-Paulista",2020-08-08,"forecast",0,42,8,23,20,23.516
-"PE-Paulista",2020-08-09,"forecast",0,43,6,22,20,24.016
-"PE-Paulista",2020-08-10,"forecast",0,45,6,22,20,24.3668
-"PE-Paulista",2020-08-11,"forecast",0,46,8,24,20,25.1264
+"PE-Paulista",2020-08-08,"observed",NA,NA,NA,NA,24,NA
+"PE-Paulista",2020-08-09,"observed",NA,NA,NA,NA,0,NA
+"PE-Paulista",2020-07-30,"forecast",9,31,13,22,20,20.7908
+"PE-Paulista",2020-07-31,"forecast",7,31,13,22,20,20.8208
+"PE-Paulista",2020-08-01,"forecast",8,33,11,21,20,20.8036
+"PE-Paulista",2020-08-02,"forecast",6,33,12,22,20,20.9068
+"PE-Paulista",2020-08-03,"forecast",5,34,10,21,20,21.0924
+"PE-Paulista",2020-08-04,"forecast",5,35,12,23,20,21.2404
+"PE-Paulista",2020-08-05,"forecast",3,35,10,22,20,21.3422
+"PE-Paulista",2020-08-06,"forecast",3,37,11,23,20,21.5906
+"PE-Paulista",2020-08-07,"forecast",3,38,9,22,20,21.92
+"PE-Paulista",2020-08-08,"forecast",3,38,10,23,20,21.955
+"PE-Paulista",2020-08-09,"forecast",1,39,7,21,19,22.0316
+"PE-Paulista",2020-08-10,"forecast",0,39,7,21,19,22.1846
+"PE-Paulista",2020-08-11,"forecast",1,41,6,21,19,22.5706
+"PE-Paulista",2020-08-12,"forecast",0,41,6,21,19,22.5832
 "PE-Pesqueira",2020-03-11,"nowcast",1,1,1,1,1,1
 "PE-Pesqueira",2020-03-12,"nowcast",0,0,0,0,0,0
 "PE-Pesqueira",2020-03-13,"nowcast",0,0,0,0,0,0
@@ -7444,179 +7443,171 @@
 "PE-Pesqueira",2020-08-07,"forecast",0,42,0,15,15,19.7092
 "PE-Pesqueira",2020-08-08,"forecast",0,44,0,14,14,20.0402
 "PE-Pesqueira",2020-08-09,"forecast",0,42,0,14,14,19.5778
-"PE-Petrolina",2020-02-07,"nowcast",1,1,1,1,1,1
-"PE-Petrolina",2020-02-08,"nowcast",0,0,0,0,0,0
-"PE-Petrolina",2020-02-09,"nowcast",0,0,0,0,0,0
-"PE-Petrolina",2020-02-10,"nowcast",0,0,0,0,0,0
-"PE-Petrolina",2020-02-11,"nowcast",0,0,0,0,0,0
-"PE-Petrolina",2020-02-12,"nowcast",0,0,0,0,0,0
-"PE-Petrolina",2020-02-13,"nowcast",0,0,0,0,0,0
-"PE-Petrolina",2020-02-14,"nowcast",0,0,0,0,0,0
-"PE-Petrolina",2020-02-15,"nowcast",0,0,0,0,0,0
-"PE-Petrolina",2020-02-16,"nowcast",0,0,0,0,0,0
-"PE-Petrolina",2020-02-17,"nowcast",1,1,1,1,1,1
+"PE-Petrolina",2020-02-16,"nowcast",1,1,1,1,1,1
+"PE-Petrolina",2020-02-17,"nowcast",0,0,0,0,0,0
 "PE-Petrolina",2020-02-18,"nowcast",0,0,0,0,0,0
 "PE-Petrolina",2020-02-19,"nowcast",0,1,0,1,0.5,0.5
-"PE-Petrolina",2020-02-20,"nowcast",0,1,0,0,0,0.333333333333333
-"PE-Petrolina",2020-02-21,"nowcast",0,1,0,0,0,0.25
-"PE-Petrolina",2020-02-22,"nowcast",0,0,0,0,0,0
-"PE-Petrolina",2020-02-23,"nowcast",0,1,0,0,0,0.428571428571429
-"PE-Petrolina",2020-02-24,"nowcast",0,1,0,0,0,0.363636363636364
-"PE-Petrolina",2020-02-25,"nowcast",0,1,0,0,0,0.153846153846154
-"PE-Petrolina",2020-02-26,"nowcast",0,1,0,0,0,0.142857142857143
-"PE-Petrolina",2020-02-27,"nowcast",0,1,0,0,0,0.333333333333333
-"PE-Petrolina",2020-02-28,"nowcast",0,1,0,0,0,0.260869565217391
-"PE-Petrolina",2020-02-29,"nowcast",0,1,0,0,0,0.4
-"PE-Petrolina",2020-03-01,"nowcast",0,1,0,0,0,0.325
-"PE-Petrolina",2020-03-02,"nowcast",0,1,0,0,0,0.170212765957447
-"PE-Petrolina",2020-03-03,"nowcast",0,1,0,0,0,0.360655737704918
-"PE-Petrolina",2020-03-04,"nowcast",0,1,0,0,0,0.320512820512821
-"PE-Petrolina",2020-03-05,"nowcast",0,1,0,0,0,0.282828282828283
-"PE-Petrolina",2020-03-06,"nowcast",0,1,0,0,0,0.3203125
-"PE-Petrolina",2020-03-07,"nowcast",0,1,0,0,0,0.314465408805031
-"PE-Petrolina",2020-03-08,"nowcast",0,1,0,0,0,0.305825242718447
-"PE-Petrolina",2020-03-09,"nowcast",0,1,0,0,0,0.313953488372093
-"PE-Petrolina",2020-03-10,"nowcast",0,1,0,0,0,0.279365079365079
-"PE-Petrolina",2020-03-11,"nowcast",0,1,0,0,0,0.278820375335121
-"PE-Petrolina",2020-03-12,"nowcast",0,1,0,0,0,0.31447963800905
-"PE-Petrolina",2020-03-13,"nowcast",0,1,0,0,0,0.293774319066148
-"PE-Petrolina",2020-03-14,"nowcast",0,1,0,0,0,0.259896729776248
-"PE-Petrolina",2020-03-15,"nowcast",0,1,0,0,0,0.273006134969325
-"PE-Petrolina",2020-03-16,"nowcast",0,1,0,0,0,0.274755927475593
-"PE-Petrolina",2020-03-17,"nowcast",0,1,0,0,0,0.244501940491591
-"PE-Petrolina",2020-03-18,"nowcast",0,1,0,0,0,0.215950920245399
-"PE-Petrolina",2020-03-19,"nowcast",0,1,0,0,0,0.220140515222482
-"PE-Petrolina",2020-03-20,"nowcast",0,1,0,0,0,0.170842824601367
-"PE-Petrolina",2020-03-21,"nowcast",0,1,0,0,0,0.126116071428571
-"PE-Petrolina",2020-03-22,"nowcast",0,1,0,0,0,0.137016574585635
-"PE-Petrolina",2020-03-23,"nowcast",0,1,0,0,0,0.139913232104121
-"PE-Petrolina",2020-03-24,"nowcast",0,1,0,0,0,0.120430107526882
-"PE-Petrolina",2020-03-25,"nowcast",0,1,0,0,0,0.151871657754011
-"PE-Petrolina",2020-03-26,"nowcast",0,1,0,0,0,0.180658873538789
-"PE-Petrolina",2020-03-27,"nowcast",0,1,0,0,0,0.195353748680042
-"PE-Petrolina",2020-03-28,"nowcast",0,1,0,0,0,0.219562955254943
-"PE-Petrolina",2020-03-29,"nowcast",0,1,0,0,0,0.283213182286303
-"PE-Petrolina",2020-03-30,"nowcast",0,1,0,0,0,0.32446264073695
-"PE-Petrolina",2020-03-31,"nowcast",0,1,0,0,0,0.393476044852192
-"PE-Petrolina",2020-04-01,"nowcast",0,1,0,0,0,0.445344129554656
-"PE-Petrolina",2020-04-02,"nowcast",0,2,0,0,0,0.523138832997988
-"PE-Petrolina",2020-04-03,"nowcast",0,1,0,0,0,0.510552763819095
-"PE-Petrolina",2020-04-04,"nowcast",0,2,0,0,0,0.547642928786359
-"PE-Petrolina",2020-04-05,"nowcast",0,2,0,0,0,0.598196392785571
-"PE-Petrolina",2020-04-06,"nowcast",0,2,0,0,0,0.616616616616617
-"PE-Petrolina",2020-04-07,"nowcast",0,2,0,1,1,0.707
-"PE-Petrolina",2020-04-08,"nowcast",0,2,0,1,1,0.834
-"PE-Petrolina",2020-04-09,"nowcast",0,2,0,1,1,0.873
-"PE-Petrolina",2020-04-10,"nowcast",0,2,0,1,1,0.956
-"PE-Petrolina",2020-04-11,"nowcast",0,2,0,1,1,1.08
-"PE-Petrolina",2020-04-12,"nowcast",0,3,0,1,1,1.146
-"PE-Petrolina",2020-04-13,"nowcast",0,3,0,1,1,1.292
-"PE-Petrolina",2020-04-14,"nowcast",0,3,0,1,1,1.435
-"PE-Petrolina",2020-04-15,"nowcast",0,3,0,1,1,1.579
-"PE-Petrolina",2020-04-16,"nowcast",0,3,1,2,2,1.726
-"PE-Petrolina",2020-04-17,"nowcast",0,3,1,2,2,1.768
-"PE-Petrolina",2020-04-18,"nowcast",0,4,1,2,2,1.833
-"PE-Petrolina",2020-04-19,"nowcast",0,4,1,2,2,2.037
-"PE-Petrolina",2020-04-20,"nowcast",0,4,1,2,2,2.118
-"PE-Petrolina",2020-04-21,"nowcast",0,4,1,2,2,2.361
-"PE-Petrolina",2020-04-22,"nowcast",0,5,0,2,2,2.63
-"PE-Petrolina",2020-04-23,"nowcast",0,5,1,3,3,2.828
-"PE-Petrolina",2020-04-24,"nowcast",0,5,1,3,3,3.113
-"PE-Petrolina",2020-04-25,"nowcast",1,6,1,3,3,3.403
-"PE-Petrolina",2020-04-26,"nowcast",0,6,2,4,4,3.796
-"PE-Petrolina",2020-04-27,"nowcast",1,7,2,4,4,4.223
-"PE-Petrolina",2020-04-28,"nowcast",1,7,3,5,4,4.556
-"PE-Petrolina",2020-04-29,"nowcast",1,8,3,5,5,4.778
-"PE-Petrolina",2020-04-30,"nowcast",1,8,3,5,5,4.862
-"PE-Petrolina",2020-05-01,"nowcast",1,8,3,5,5,5.086
-"PE-Petrolina",2020-05-02,"nowcast",2,8,3,5,5,4.809
-"PE-Petrolina",2020-05-03,"nowcast",1,7,3,5,4,4.369
-"PE-Petrolina",2020-05-04,"nowcast",1,7,2,4,4,3.867
-"PE-Petrolina",2020-05-05,"nowcast",1,6,1,3,3,3.396
-"PE-Petrolina",2020-05-06,"nowcast",0,5,1,3,3,3.083
-"PE-Petrolina",2020-05-07,"nowcast",1,6,1,3,3,3.368
-"PE-Petrolina",2020-05-08,"nowcast",1,6,2,4,4,3.686
-"PE-Petrolina",2020-05-09,"nowcast",1,7,2,4,4,4.008
-"PE-Petrolina",2020-05-10,"nowcast",1,7,2,4,4,4.169
-"PE-Petrolina",2020-05-11,"nowcast",1,7,3,5,4,4.431
-"PE-Petrolina",2020-05-12,"nowcast",1,7,3,5,4,4.555
-"PE-Petrolina",2020-05-13,"nowcast",2,8,3,5,5,4.692
-"PE-Petrolina",2020-05-14,"nowcast",2,8,3,5,5,4.741
-"PE-Petrolina",2020-05-15,"nowcast",1,8,3,5,5,4.867
-"PE-Petrolina",2020-05-16,"nowcast",1,8,2,5,5,5.059
-"PE-Petrolina",2020-05-17,"nowcast",1,8,3,5,5,5.01
-"PE-Petrolina",2020-05-18,"nowcast",1,8,2,5,5,5.2
-"PE-Petrolina",2020-05-19,"nowcast",2,9,2,5,5,5.259
-"PE-Petrolina",2020-05-20,"nowcast",2,9,3,6,5,5.506
-"PE-Petrolina",2020-05-21,"nowcast",2,9,5,7,6,5.868
-"PE-Petrolina",2020-05-22,"nowcast",3,10,3,6,6,6.167
-"PE-Petrolina",2020-05-23,"nowcast",2,10,4,7,6,6.341
-"PE-Petrolina",2020-05-24,"nowcast",2,10,4,7,6,6.683
-"PE-Petrolina",2020-05-25,"nowcast",2,10,4,7,7,6.906
-"PE-Petrolina",2020-05-26,"nowcast",3,11,5,8,7,7.223
-"PE-Petrolina",2020-05-27,"nowcast",3,11,5,8,7,7.327
-"PE-Petrolina",2020-05-28,"nowcast",3,12,5,8,8,7.771
-"PE-Petrolina",2020-05-29,"nowcast",3,12,6,9,8,8.417
-"PE-Petrolina",2020-05-30,"nowcast",3,13,5,9,9,8.893
-"PE-Petrolina",2020-05-31,"nowcast",4,14,6,10,10,9.716
-"PE-Petrolina",2020-06-01,"nowcast",4,15,7,11,10,10.533
-"PE-Petrolina",2020-06-02,"nowcast",5,17,8,12,11,11.416
-"PE-Petrolina",2020-06-03,"nowcast",5,17,8,13,12,12.283
-"PE-Petrolina",2020-06-04,"nowcast",6,19,9,14,13,13.674
-"PE-Petrolina",2020-06-05,"nowcast",8,21,11,16,15,15.046
-"PE-Petrolina",2020-06-06,"nowcast",9,24,11,17,17,16.983
-"PE-Petrolina",2020-06-07,"nowcast",11,26,14,20,19,19.17
-"PE-Petrolina",2020-06-08,"nowcast",12,28,17,23,21,21.641
-"PE-Petrolina",2020-06-09,"nowcast",14,31,21,27,24,24.294
-"PE-Petrolina",2020-06-10,"nowcast",18,34,21,28,27,26.953
-"PE-Petrolina",2020-06-11,"nowcast",22,39,24,31,30,29.827
-"PE-Petrolina",2020-06-12,"nowcast",23,41,26,33,32,32.273
-"PE-Petrolina",2020-06-13,"nowcast",26,43,28,35,33,33.533
-"PE-Petrolina",2020-06-14,"nowcast",25,43,28,36,34,34.389
-"PE-Petrolina",2020-06-15,"nowcast",25,43,30,37,34,34.058
-"PE-Petrolina",2020-06-16,"nowcast",21,40,28,35,32,32.297
-"PE-Petrolina",2020-06-17,"nowcast",20,38,24,31,30,30.199
-"PE-Petrolina",2020-06-18,"nowcast",18,35,24,30,28,28.229
-"PE-Petrolina",2020-06-19,"nowcast",19,35,24,30,28,27.963
-"PE-Petrolina",2020-06-20,"nowcast",19,36,22,29,28,28.342
-"PE-Petrolina",2020-06-21,"nowcast",20,37,24,31,29,29.238
-"PE-Petrolina",2020-06-22,"nowcast",20,38,26,32,30,30.227
-"PE-Petrolina",2020-06-23,"nowcast",21,38,25,32,31,30.64
-"PE-Petrolina",2020-06-24,"nowcast",21,38,25,32,30,30.766
-"PE-Petrolina",2020-06-25,"nowcast",22,39,27,33,31,31.075
-"PE-Petrolina",2020-06-26,"nowcast",22,39,26,33,31,31.859
-"PE-Petrolina",2020-06-27,"nowcast",24,40,26,33,32,32.078
-"PE-Petrolina",2020-06-28,"nowcast",22,40,27,34,32,31.851
-"PE-Petrolina",2020-06-29,"nowcast",21,39,26,33,31,31.621
-"PE-Petrolina",2020-06-30,"nowcast",20,39,26,33,31,31.221
-"PE-Petrolina",2020-07-01,"nowcast",20,38,26,33,31,31.319
-"PE-Petrolina",2020-07-02,"nowcast",23,40,26,33,31,31.439
-"PE-Petrolina",2020-07-03,"nowcast",22,41,27,34,32,32.265
-"PE-Petrolina",2020-07-04,"nowcast",24,43,27,35,33,33.434
-"PE-Petrolina",2020-07-05,"nowcast",25,44,31,38,35,35.004
-"PE-Petrolina",2020-07-06,"nowcast",27,47,30,38,36,36.283
-"PE-Petrolina",2020-07-07,"nowcast",26,47,31,39,38,38.147
-"PE-Petrolina",2020-07-08,"nowcast",29,51,33,42,40,40.361
-"PE-Petrolina",2020-07-09,"nowcast",30,53,35,44,42,42.662
-"PE-Petrolina",2020-07-10,"nowcast",32,56,37,47,45,45.389
-"PE-Petrolina",2020-07-11,"nowcast",34,59,41,51,48,48.582
-"PE-Petrolina",2020-07-12,"nowcast",37,64,43,54,51,51.449
-"PE-Petrolina",2020-07-13,"nowcast",42,70,44,56,54,54.719
-"PE-Petrolina",2020-07-14,"nowcast",43,74,50,62,59,59.227
-"PE-Petrolina",2020-07-15,"nowcast",48,81,55,68,64,64.937
-"PE-Petrolina",2020-07-16,"nowcast",53,87,61,75,70,70.712
-"PE-Petrolina",2020-07-17,"nowcast",61,95,69,83,78,78.137
-"PE-Petrolina",2020-07-18,"nowcast",70,103,77,91,87,87.202
-"PE-Petrolina",2020-07-19,"nowcast",78,111,88,101,95,95.014
-"PE-Petrolina",2020-07-20,"nowcast",83,117,92,105,102,102.172
-"PE-Petrolina",2020-07-21,"nowcast",90,124,99,112,107,107.36
-"PE-Petrolina",2020-07-22,"nowcast",92,125,104,117,110,110.692
-"PE-Petrolina",2020-07-23,"nowcast",93,127,100,114,112,111.687
-"PE-Petrolina",2020-07-24,"nowcast",92,128,99,114,110,110.281
-"PE-Petrolina",2020-07-25,"nowcast",88,123,99,113,106,106.575
-"PE-Petrolina",2020-07-26,"nowcast",82,116,90,104,101,100.839
-"PE-Petrolina",2020-07-27,"nowcast",77,110,88,101,94,93.966
-"PE-Petrolina",2020-07-28,"nowcast",69,102,80,93,88,87.796
+"PE-Petrolina",2020-02-20,"nowcast",0,1,0,1,0.5,0.5
+"PE-Petrolina",2020-02-21,"nowcast",0,1,0,0,0,0.2
+"PE-Petrolina",2020-02-22,"nowcast",0,1,0,1,0.5,0.5
+"PE-Petrolina",2020-02-23,"nowcast",0,1,0,0,0,0.333333333333333
+"PE-Petrolina",2020-02-24,"nowcast",0,1,0,0,0,0.153846153846154
+"PE-Petrolina",2020-02-25,"nowcast",0,1,0,0,0,0.4
+"PE-Petrolina",2020-02-26,"nowcast",0,0,0,0,0,0.0909090909090909
+"PE-Petrolina",2020-02-27,"nowcast",0,1,0,0,0,0.185185185185185
+"PE-Petrolina",2020-02-28,"nowcast",0,1,0,0,0,0.212121212121212
+"PE-Petrolina",2020-02-29,"nowcast",0,1,0,0,0,0.255813953488372
+"PE-Petrolina",2020-03-01,"nowcast",0,1,0,0,0,0.298245614035088
+"PE-Petrolina",2020-03-02,"nowcast",0,1,0,0,0,0.241935483870968
+"PE-Petrolina",2020-03-03,"nowcast",0,1,0,0,0,0.272727272727273
+"PE-Petrolina",2020-03-04,"nowcast",0,1,0,0,0,0.295918367346939
+"PE-Petrolina",2020-03-05,"nowcast",0,1,0,0,0,0.30327868852459
+"PE-Petrolina",2020-03-06,"nowcast",0,1,0,0,0,0.246666666666667
+"PE-Petrolina",2020-03-07,"nowcast",0,1,0,0,0,0.271276595744681
+"PE-Petrolina",2020-03-08,"nowcast",0,1,0,0,0,0.251101321585903
+"PE-Petrolina",2020-03-09,"nowcast",0,1,0,0,0,0.244444444444444
+"PE-Petrolina",2020-03-10,"nowcast",0,1,0,0,0,0.275964391691395
+"PE-Petrolina",2020-03-11,"nowcast",0,1,0,0,0,0.248062015503876
+"PE-Petrolina",2020-03-12,"nowcast",0,1,0,0,0,0.269230769230769
+"PE-Petrolina",2020-03-13,"nowcast",0,1,0,0,0,0.251968503937008
+"PE-Petrolina",2020-03-14,"nowcast",0,1,0,0,0,0.277003484320557
+"PE-Petrolina",2020-03-15,"nowcast",0,1,0,0,0,0.272024729520866
+"PE-Petrolina",2020-03-16,"nowcast",0,1,0,0,0,0.254571026722925
+"PE-Petrolina",2020-03-17,"nowcast",0,1,0,0,0,0.242857142857143
+"PE-Petrolina",2020-03-18,"nowcast",0,1,0,0,0,0.21142162818955
+"PE-Petrolina",2020-03-19,"nowcast",0,1,0,0,0,0.19906868451688
+"PE-Petrolina",2020-03-20,"nowcast",0,1,0,0,0,0.181614349775785
+"PE-Petrolina",2020-03-21,"nowcast",0,1,0,0,0,0.150984682713348
+"PE-Petrolina",2020-03-22,"nowcast",0,1,0,0,0,0.138228941684665
+"PE-Petrolina",2020-03-23,"nowcast",0,1,0,0,0,0.12847965738758
+"PE-Petrolina",2020-03-24,"nowcast",0,1,0,0,0,0.125531914893617
+"PE-Petrolina",2020-03-25,"nowcast",0,1,0,0,0,0.139830508474576
+"PE-Petrolina",2020-03-26,"nowcast",0,1,0,0,0,0.189727463312369
+"PE-Petrolina",2020-03-27,"nowcast",0,1,0,0,0,0.220145379023884
+"PE-Petrolina",2020-03-28,"nowcast",0,1,0,0,0,0.245614035087719
+"PE-Petrolina",2020-03-29,"nowcast",0,1,0,0,0,0.30082135523614
+"PE-Petrolina",2020-03-30,"nowcast",0,1,0,0,0,0.330612244897959
+"PE-Petrolina",2020-03-31,"nowcast",0,1,0,0,0,0.40973630831643
+"PE-Petrolina",2020-04-01,"nowcast",0,1,0,0,0,0.414560161779575
+"PE-Petrolina",2020-04-02,"nowcast",0,1,0,0,0,0.481331987891019
+"PE-Petrolina",2020-04-03,"nowcast",0,1,0,0,0,0.512096774193548
+"PE-Petrolina",2020-04-04,"nowcast",0,1,0,0,0,0.511557788944724
+"PE-Petrolina",2020-04-05,"nowcast",0,2,0,0,0,0.614228456913828
+"PE-Petrolina",2020-04-06,"nowcast",0,2,0,0,0,0.637274549098196
+"PE-Petrolina",2020-04-07,"nowcast",0,2,0,0,0,0.672344689378757
+"PE-Petrolina",2020-04-08,"nowcast",0,2,0,1,1,0.768768768768769
+"PE-Petrolina",2020-04-09,"nowcast",0,2,0,1,1,0.868
+"PE-Petrolina",2020-04-10,"nowcast",0,2,0,1,1,0.947
+"PE-Petrolina",2020-04-11,"nowcast",0,3,0,1,1,1.126
+"PE-Petrolina",2020-04-12,"nowcast",0,3,0,1,1,1.143
+"PE-Petrolina",2020-04-13,"nowcast",0,3,0,1,1,1.285
+"PE-Petrolina",2020-04-14,"nowcast",0,3,0,1,1,1.452
+"PE-Petrolina",2020-04-15,"nowcast",0,3,0,1,1,1.452
+"PE-Petrolina",2020-04-16,"nowcast",0,3,1,2,2,1.67
+"PE-Petrolina",2020-04-17,"nowcast",0,4,1,2,2,1.796
+"PE-Petrolina",2020-04-18,"nowcast",0,4,1,2,2,1.882
+"PE-Petrolina",2020-04-19,"nowcast",0,4,1,2,2,1.984
+"PE-Petrolina",2020-04-20,"nowcast",0,4,1,2,2,2.177
+"PE-Petrolina",2020-04-21,"nowcast",0,4,1,2,2,2.271
+"PE-Petrolina",2020-04-22,"nowcast",0,5,0,2,2,2.498
+"PE-Petrolina",2020-04-23,"nowcast",0,5,1,3,3,2.761
+"PE-Petrolina",2020-04-24,"nowcast",0,5,1,3,3,3.107
+"PE-Petrolina",2020-04-25,"nowcast",1,6,1,3,3,3.474
+"PE-Petrolina",2020-04-26,"nowcast",0,6,2,4,4,3.737
+"PE-Petrolina",2020-04-27,"nowcast",1,7,2,4,4,4.128
+"PE-Petrolina",2020-04-28,"nowcast",1,7,3,5,4,4.5
+"PE-Petrolina",2020-04-29,"nowcast",1,7,3,5,5,4.641
+"PE-Petrolina",2020-04-30,"nowcast",2,8,3,5,5,4.96
+"PE-Petrolina",2020-05-01,"nowcast",2,8,4,6,5,4.938
+"PE-Petrolina",2020-05-02,"nowcast",1,8,3,5,4,4.764
+"PE-Petrolina",2020-05-03,"nowcast",1,7,2,4,4,4.368
+"PE-Petrolina",2020-05-04,"nowcast",0,6,2,4,4,3.901
+"PE-Petrolina",2020-05-05,"nowcast",1,6,1,3,3,3.309
+"PE-Petrolina",2020-05-06,"nowcast",0,5,1,3,3,3.248
+"PE-Petrolina",2020-05-07,"nowcast",1,6,1,3,3,3.328
+"PE-Petrolina",2020-05-08,"nowcast",0,6,2,4,4,3.741
+"PE-Petrolina",2020-05-09,"nowcast",1,7,2,4,4,3.964
+"PE-Petrolina",2020-05-10,"nowcast",1,7,2,4,4,4.29
+"PE-Petrolina",2020-05-11,"nowcast",1,7,3,5,4,4.502
+"PE-Petrolina",2020-05-12,"nowcast",2,8,3,5,4,4.634
+"PE-Petrolina",2020-05-13,"nowcast",1,7,3,5,4,4.617
+"PE-Petrolina",2020-05-14,"nowcast",2,8,4,6,5,4.761
+"PE-Petrolina",2020-05-15,"nowcast",1,8,2,5,5,4.843
+"PE-Petrolina",2020-05-16,"nowcast",2,8,4,6,5,4.985
+"PE-Petrolina",2020-05-17,"nowcast",2,8,4,6,5,5.105
+"PE-Petrolina",2020-05-18,"nowcast",1,8,2,5,5,5.177
+"PE-Petrolina",2020-05-19,"nowcast",1,8,3,5,5,5.145
+"PE-Petrolina",2020-05-20,"nowcast",1,8,2,5,5,5.444
+"PE-Petrolina",2020-05-21,"nowcast",2,9,3,6,6,5.678
+"PE-Petrolina",2020-05-22,"nowcast",1,9,3,6,6,6.193
+"PE-Petrolina",2020-05-23,"nowcast",3,10,4,7,6,6.482
+"PE-Petrolina",2020-05-24,"nowcast",2,10,4,7,7,6.788
+"PE-Petrolina",2020-05-25,"nowcast",2,10,4,7,7,6.778
+"PE-Petrolina",2020-05-26,"nowcast",3,11,4,7,7,6.972
+"PE-Petrolina",2020-05-27,"nowcast",4,12,5,8,7,7.434
+"PE-Petrolina",2020-05-28,"nowcast",3,12,6,9,8,7.978
+"PE-Petrolina",2020-05-29,"nowcast",3,12,5,9,8,8.48
+"PE-Petrolina",2020-05-30,"nowcast",5,14,5,9,9,9.186
+"PE-Petrolina",2020-05-31,"nowcast",4,14,6,10,10,9.766
+"PE-Petrolina",2020-06-01,"nowcast",5,16,7,11,10,10.602
+"PE-Petrolina",2020-06-02,"nowcast",4,16,7,12,11,11.452
+"PE-Petrolina",2020-06-03,"nowcast",6,18,8,13,12,12.33
+"PE-Petrolina",2020-06-04,"nowcast",7,20,9,14,13,13.38
+"PE-Petrolina",2020-06-05,"nowcast",7,21,12,17,15,15.106
+"PE-Petrolina",2020-06-06,"nowcast",8,23,12,18,17,16.934
+"PE-Petrolina",2020-06-07,"nowcast",10,25,14,20,19,18.951
+"PE-Petrolina",2020-06-08,"nowcast",13,29,17,23,21,21.55
+"PE-Petrolina",2020-06-09,"nowcast",16,32,18,25,24,24.325
+"PE-Petrolina",2020-06-10,"nowcast",18,35,21,28,27,26.848
+"PE-Petrolina",2020-06-11,"nowcast",19,37,25,32,29,29.306
+"PE-Petrolina",2020-06-12,"nowcast",21,40,26,33,32,31.9
+"PE-Petrolina",2020-06-13,"nowcast",24,42,28,35,34,33.612
+"PE-Petrolina",2020-06-14,"nowcast",25,43,30,37,34,34.395
+"PE-Petrolina",2020-06-15,"nowcast",24,42,28,35,34,33.686
+"PE-Petrolina",2020-06-16,"nowcast",21,40,27,34,32,32.148
+"PE-Petrolina",2020-06-17,"nowcast",22,39,25,32,30,30.415
+"PE-Petrolina",2020-06-18,"nowcast",20,37,23,30,29,28.607
+"PE-Petrolina",2020-06-19,"nowcast",19,35,25,31,28,28.03
+"PE-Petrolina",2020-06-20,"nowcast",20,36,23,29,28,28.339
+"PE-Petrolina",2020-06-21,"nowcast",20,37,24,31,30,29.588
+"PE-Petrolina",2020-06-22,"nowcast",20,37,24,31,30,30.011
+"PE-Petrolina",2020-06-23,"nowcast",20,38,25,32,30,30.622
+"PE-Petrolina",2020-06-24,"nowcast",21,39,26,33,32,31.34
+"PE-Petrolina",2020-06-25,"nowcast",22,39,26,33,31,31.516
+"PE-Petrolina",2020-06-26,"nowcast",22,40,27,34,32,31.958
+"PE-Petrolina",2020-06-27,"nowcast",23,41,27,34,32,31.979
+"PE-Petrolina",2020-06-28,"nowcast",23,41,27,34,32,32.165
+"PE-Petrolina",2020-06-29,"nowcast",23,41,26,33,32,32.006
+"PE-Petrolina",2020-06-30,"nowcast",22,40,26,33,32,31.544
+"PE-Petrolina",2020-07-01,"nowcast",22,40,26,33,31,31.15
+"PE-Petrolina",2020-07-02,"nowcast",22,40,26,33,31,31.503
+"PE-Petrolina",2020-07-03,"nowcast",23,42,27,34,32,32.505
+"PE-Petrolina",2020-07-04,"nowcast",22,42,28,36,33,33.587
+"PE-Petrolina",2020-07-05,"nowcast",25,45,29,37,35,34.996
+"PE-Petrolina",2020-07-06,"nowcast",25,45,32,40,36,36.498
+"PE-Petrolina",2020-07-07,"nowcast",26,48,31,40,38,38.192
+"PE-Petrolina",2020-07-08,"nowcast",29,52,33,42,40,40.245
+"PE-Petrolina",2020-07-09,"nowcast",30,52,39,47,42,42.6
+"PE-Petrolina",2020-07-10,"nowcast",32,56,40,49,45,45.483
+"PE-Petrolina",2020-07-11,"nowcast",37,61,42,52,48,48.651
+"PE-Petrolina",2020-07-12,"nowcast",37,65,44,55,52,51.914
+"PE-Petrolina",2020-07-13,"nowcast",39,68,45,57,55,55.338
+"PE-Petrolina",2020-07-14,"nowcast",44,74,51,63,59,59.349
+"PE-Petrolina",2020-07-15,"nowcast",47,79,55,68,64,64.356
+"PE-Petrolina",2020-07-16,"nowcast",54,87,61,74,70.5,70.745
+"PE-Petrolina",2020-07-17,"nowcast",61,96,70,84,79,78.764
+"PE-Petrolina",2020-07-18,"nowcast",69,104,79,93,87,87.56
+"PE-Petrolina",2020-07-19,"nowcast",79,112,88,100,95,95.527
+"PE-Petrolina",2020-07-20,"nowcast",85,117,94,107,102,102.014
+"PE-Petrolina",2020-07-21,"nowcast",87,122,97,111,108,107.385
+"PE-Petrolina",2020-07-22,"nowcast",92,125,102,114,110,110.251
+"PE-Petrolina",2020-07-23,"nowcast",93,128,102,116,112,112.182
+"PE-Petrolina",2020-07-24,"nowcast",93,127,102,115,110,110.286
+"PE-Petrolina",2020-07-25,"nowcast",89,125,95,110,106,107.041
+"PE-Petrolina",2020-07-26,"nowcast",83,118,95,109,102,101.777
+"PE-Petrolina",2020-07-27,"nowcast",78,113,85,99,94,94.827
+"PE-Petrolina",2020-07-28,"nowcast",71,106,82,95,90,89.923
+"PE-Petrolina",2020-07-29,"nowcast",68,103,76,89,87,87.637
 "PE-Petrolina",2020-03-23,"observed",NA,NA,NA,NA,1,NA
 "PE-Petrolina",2020-03-24,"observed",NA,NA,NA,NA,0,NA
 "PE-Petrolina",2020-03-25,"observed",NA,NA,NA,NA,1,NA
@@ -7755,203 +7746,202 @@
 "PE-Petrolina",2020-08-05,"observed",NA,NA,NA,NA,156,NA
 "PE-Petrolina",2020-08-06,"observed",NA,NA,NA,NA,80,NA
 "PE-Petrolina",2020-08-07,"observed",NA,NA,NA,NA,136,NA
-"PE-Petrolina",2020-08-08,"observed",NA,NA,NA,NA,0,NA
-"PE-Petrolina",2020-07-29,"forecast",59,122,79,104,92,92.8166
-"PE-Petrolina",2020-07-30,"forecast",54,128,73,102,91,91.9248
-"PE-Petrolina",2020-07-31,"forecast",50,133,70,103,90,90.8698
-"PE-Petrolina",2020-08-01,"forecast",41,132,63,100,89,90.5588
-"PE-Petrolina",2020-08-02,"forecast",38,135,61,100,88,89.8426
-"PE-Petrolina",2020-08-03,"forecast",29,137,62,104,88,89.537
-"PE-Petrolina",2020-08-04,"forecast",28,144,60,106,87,89.071
-"PE-Petrolina",2020-08-05,"forecast",28,150,50,100,86,89.0884
-"PE-Petrolina",2020-08-06,"forecast",18,147,50,101,85,87.9092
-"PE-Petrolina",2020-08-07,"forecast",13,152,52,106,83,87.9592
-"PE-Petrolina",2020-08-08,"forecast",9,154,41,98,82,87.6612
-"PE-Petrolina",2020-08-09,"forecast",0,150,41,100,81,86.7506
-"PE-Petrolina",2020-08-10,"forecast",0,154,37,99,81,87.3296
-"PE-Petrolina",2020-08-11,"forecast",0,159,35,98,80,86.975
-"PE-Recife",2020-01-30,"nowcast",1,1,1,1,1,1
-"PE-Recife",2020-01-31,"nowcast",0,1,0,1,0.5,0.5
-"PE-Recife",2020-02-01,"nowcast",0,0,0,0,0,0
-"PE-Recife",2020-02-02,"nowcast",0,0,0,0,0,0
+"PE-Petrolina",2020-08-08,"observed",NA,NA,NA,NA,98,NA
+"PE-Petrolina",2020-08-09,"observed",NA,NA,NA,NA,0,NA
+"PE-Petrolina",2020-07-30,"forecast",59,119,76,100,89,89.5266
+"PE-Petrolina",2020-07-31,"forecast",51,123,71,99,87,88.2926
+"PE-Petrolina",2020-08-01,"forecast",44,124,64,96,86,86.9328
+"PE-Petrolina",2020-08-02,"forecast",40,129,59,95,85,86.2906
+"PE-Petrolina",2020-08-03,"forecast",33,129,57,95,82,84.4544
+"PE-Petrolina",2020-08-04,"forecast",30,132,55,96,82,84.2294
+"PE-Petrolina",2020-08-05,"forecast",26,135,50,93,80,82.7542
+"PE-Petrolina",2020-08-06,"forecast",20,137,53,98,78,81.6386
+"PE-Petrolina",2020-08-07,"forecast",18,141,50,97,76,81.0632
+"PE-Petrolina",2020-08-08,"forecast",13,141,38,88,75,80.3912
+"PE-Petrolina",2020-08-09,"forecast",9,142,38,90,74,79.3258
+"PE-Petrolina",2020-08-10,"forecast",0,138,32,86,72,78.3518
+"PE-Petrolina",2020-08-11,"forecast",0,139,30,85,71,77.5354
+"PE-Petrolina",2020-08-12,"forecast",0,141,25,82,69,76.9056
+"PE-Recife",2020-02-02,"nowcast",1,1,1,1,1,1
 "PE-Recife",2020-02-03,"nowcast",0,0,0,0,0,0
-"PE-Recife",2020-02-04,"nowcast",0,0,0,0,0,0
-"PE-Recife",2020-02-05,"nowcast",0,0,0,0,0,0
-"PE-Recife",2020-02-06,"nowcast",0,1,1,1,1,0.666666666666667
-"PE-Recife",2020-02-07,"nowcast",0,2,0,0,0,0.555555555555556
-"PE-Recife",2020-02-08,"nowcast",0,1,0,0,0,0.111111111111111
-"PE-Recife",2020-02-09,"nowcast",0,1,1,1,1,0.692307692307692
-"PE-Recife",2020-02-10,"nowcast",0,1,0,0,0,0.235294117647059
-"PE-Recife",2020-02-11,"nowcast",0,1,0,0,0,0.481481481481481
-"PE-Recife",2020-02-12,"nowcast",0,1,0,0,0,0.294117647058824
-"PE-Recife",2020-02-13,"nowcast",0,1,0,0,0,0.408163265306122
-"PE-Recife",2020-02-14,"nowcast",0,1,0,0,0,0.369230769230769
-"PE-Recife",2020-02-15,"nowcast",0,1,0,0,0,0.325
-"PE-Recife",2020-02-16,"nowcast",0,1,0,0,0,0.333333333333333
-"PE-Recife",2020-02-17,"nowcast",0,1,0,0,0,0.254098360655738
-"PE-Recife",2020-02-18,"nowcast",0,1,0,0,0,0.398809523809524
-"PE-Recife",2020-02-19,"nowcast",0,1,0,0,0,0.230769230769231
-"PE-Recife",2020-02-20,"nowcast",0,1,0,0,0,0.352
-"PE-Recife",2020-02-21,"nowcast",0,1,0,0,0,0.337792642140468
-"PE-Recife",2020-02-22,"nowcast",0,1,0,0,0,0.379781420765027
-"PE-Recife",2020-02-23,"nowcast",0,1,0,0,0,0.347319347319347
-"PE-Recife",2020-02-24,"nowcast",0,1,0,0,0,0.413793103448276
-"PE-Recife",2020-02-25,"nowcast",0,1,0,0,0,0.425569176882662
-"PE-Recife",2020-02-26,"nowcast",0,1,0,0,0,0.444954128440367
-"PE-Recife",2020-02-27,"nowcast",0,1,0,0,0,0.500697350069735
-"PE-Recife",2020-02-28,"nowcast",0,2,0,0,0,0.646464646464647
-"PE-Recife",2020-02-29,"nowcast",0,2,0,1,1,0.684883720930233
-"PE-Recife",2020-03-01,"nowcast",0,2,0,1,1,0.86438809261301
-"PE-Recife",2020-03-02,"nowcast",0,2,0,1,1,0.990516332982086
-"PE-Recife",2020-03-03,"nowcast",0,3,0,1,1,1.16053169734151
-"PE-Recife",2020-03-04,"nowcast",0,3,0,1,1,1.38508064516129
-"PE-Recife",2020-03-05,"nowcast",0,3,0,1,1,1.61083249749248
-"PE-Recife",2020-03-06,"nowcast",0,4,1,2,2,1.85785785785786
-"PE-Recife",2020-03-07,"nowcast",0,4,0,2,2,2.19419419419419
-"PE-Recife",2020-03-08,"nowcast",0,5,0,2,2,2.577
-"PE-Recife",2020-03-09,"nowcast",0,5,1,3,3,2.844
-"PE-Recife",2020-03-10,"nowcast",0,6,1,3,3,3.169
-"PE-Recife",2020-03-11,"nowcast",0,6,2,4,3,3.641
-"PE-Recife",2020-03-12,"nowcast",1,7,2,4,4,3.926
-"PE-Recife",2020-03-13,"nowcast",1,8,3,5,4,4.368
-"PE-Recife",2020-03-14,"nowcast",1,9,2,5,5,5.234
-"PE-Recife",2020-03-15,"nowcast",0,9,2,5,5,5.623
-"PE-Recife",2020-03-16,"nowcast",1,11,4,7,6,6.567
-"PE-Recife",2020-03-17,"nowcast",2,12,3,7,7,7.461
-"PE-Recife",2020-03-18,"nowcast",3,14,6,10,8,8.605
-"PE-Recife",2020-03-19,"nowcast",3,16,5,10,9,9.929
-"PE-Recife",2020-03-20,"nowcast",3,18,6,12,11,11.397
-"PE-Recife",2020-03-21,"nowcast",4,20,7,14,13,13.466
-"PE-Recife",2020-03-22,"nowcast",5,24,9,16,15,15.907
-"PE-Recife",2020-03-23,"nowcast",8,29,12,20,18,19.071
-"PE-Recife",2020-03-24,"nowcast",11,33,16,24,21,22.187
-"PE-Recife",2020-03-25,"nowcast",11,36,18,28,25,25.967
-"PE-Recife",2020-03-26,"nowcast",17,44,23,34,30,30.981
-"PE-Recife",2020-03-27,"nowcast",19,49,26,38,35,36.056
-"PE-Recife",2020-03-28,"nowcast",25,58,34,47,42,42.258
-"PE-Recife",2020-03-29,"nowcast",31,66,39,51,47,48.535
-"PE-Recife",2020-03-30,"nowcast",34,72,44,58,55,55.268
-"PE-Recife",2020-03-31,"nowcast",42,81,52,67,62,62.678
-"PE-Recife",2020-04-01,"nowcast",51,92,61,77,70,71.005
-"PE-Recife",2020-04-02,"nowcast",56,99,66,83,79,79.498
-"PE-Recife",2020-04-03,"nowcast",66,110,79,96,87,87.641
-"PE-Recife",2020-04-04,"nowcast",71,118,85,102,96,96.467
-"PE-Recife",2020-04-05,"nowcast",80,128,90,110,105,105.132
-"PE-Recife",2020-04-06,"nowcast",85,137,97,118,113.5,114.356
-"PE-Recife",2020-04-07,"nowcast",96,145,109,129,122,122.401
-"PE-Recife",2020-04-08,"nowcast",103,160,116,139,133,133.075
-"PE-Recife",2020-04-09,"nowcast",109,167,125,149,142,142.203
-"PE-Recife",2020-04-10,"nowcast",121,179,139,162,153,153.144
-"PE-Recife",2020-04-11,"nowcast",131,193,146,171,163,164.536
-"PE-Recife",2020-04-12,"nowcast",144,205,157,183,175.5,175.844
-"PE-Recife",2020-04-13,"nowcast",154,220,171,197,187,187.878
-"PE-Recife",2020-04-14,"nowcast",164,231,181,209,200,200.246
-"PE-Recife",2020-04-15,"nowcast",179,243,197,224,213,212.523
-"PE-Recife",2020-04-16,"nowcast",188,257,213,242,228,226.724
-"PE-Recife",2020-04-17,"nowcast",205,274,222,250,241,240.754
-"PE-Recife",2020-04-18,"nowcast",216,286,242,270,255,254.616
-"PE-Recife",2020-04-19,"nowcast",228,298,251,279,269,268.865
-"PE-Recife",2020-04-20,"nowcast",249,313,262,289,281,280.932
-"PE-Recife",2020-04-21,"nowcast",259,318,272,296,289,289.678
-"PE-Recife",2020-04-22,"nowcast",262,322,277,302,296,296.392
-"PE-Recife",2020-04-23,"nowcast",267,327,281,306,296,296.236
-"PE-Recife",2020-04-24,"nowcast",258,321,270,297,291,291.555
-"PE-Recife",2020-04-25,"nowcast",249,320,271,298,287,287.736
-"PE-Recife",2020-04-26,"nowcast",255,326,273,303,289,289.436
-"PE-Recife",2020-04-27,"nowcast",254,330,275,306,294,294.588
-"PE-Recife",2020-04-28,"nowcast",265,343,286,319,300.5,301.15
-"PE-Recife",2020-04-29,"nowcast",271,353,292,326,311,311.283
-"PE-Recife",2020-04-30,"nowcast",277,363,304,338,324,323.6
-"PE-Recife",2020-05-01,"nowcast",298,385,322,356,339,340.802
-"PE-Recife",2020-05-02,"nowcast",317,401,339,374,361,359.935
-"PE-Recife",2020-05-03,"nowcast",341,420,362,394,379,378.703
-"PE-Recife",2020-05-04,"nowcast",347,423,373,402,391,391.086
-"PE-Recife",2020-05-05,"nowcast",358,429,373,403,393,394.149
-"PE-Recife",2020-05-06,"nowcast",355,431,373,404,395,395.474
-"PE-Recife",2020-05-07,"nowcast",363,438,386,417,400,398.797
-"PE-Recife",2020-05-08,"nowcast",365,441,385,416,406,405.022
-"PE-Recife",2020-05-09,"nowcast",377,452,393,424,412,412.807
-"PE-Recife",2020-05-10,"nowcast",386,460,406,437,426,426.242
-"PE-Recife",2020-05-11,"nowcast",392,470,414,446,432,432.482
-"PE-Recife",2020-05-12,"nowcast",396,472,417,448,433,433.675
-"PE-Recife",2020-05-13,"nowcast",392,469,409,440,427,427.06
-"PE-Recife",2020-05-14,"nowcast",377,453,394,424,415,415.126
-"PE-Recife",2020-05-15,"nowcast",356,437,383,416,398,398.823
-"PE-Recife",2020-05-16,"nowcast",344,424,373,405,385,385.104
-"PE-Recife",2020-05-17,"nowcast",328,404,345,377,366,366.196
-"PE-Recife",2020-05-18,"nowcast",307,383,328,358,344,344.011
-"PE-Recife",2020-05-19,"nowcast",280,350,299,328,317,316.673
-"PE-Recife",2020-05-20,"nowcast",259,319,276,301,290,290.16
-"PE-Recife",2020-05-21,"nowcast",241,297,254,278,270,270.025
-"PE-Recife",2020-05-22,"nowcast",228,283,243,265,257,256.463
-"PE-Recife",2020-05-23,"nowcast",220,275,240,262,251,250.468
-"PE-Recife",2020-05-24,"nowcast",213,265,227,249,243,243.02
-"PE-Recife",2020-05-25,"nowcast",207,261,224,245,234,234.051
-"PE-Recife",2020-05-26,"nowcast",194,245,208,229,222,222.494
-"PE-Recife",2020-05-27,"nowcast",182,232,195,215,210,210.388
-"PE-Recife",2020-05-28,"nowcast",174,221,187,206,200.5,201.024
-"PE-Recife",2020-05-29,"nowcast",169,216,185,203,195,195.423
-"PE-Recife",2020-05-30,"nowcast",168,213,179,197,191,192.024
-"PE-Recife",2020-05-31,"nowcast",168,214,179,197,190,190.581
-"PE-Recife",2020-06-01,"nowcast",165,209,175,193,188,188.168
-"PE-Recife",2020-06-02,"nowcast",162,206,171,189,184,183.912
-"PE-Recife",2020-06-03,"nowcast",157,202,167,185,180,180.462
-"PE-Recife",2020-06-04,"nowcast",155,200,169,187,180,179.633
-"PE-Recife",2020-06-05,"nowcast",156,199,169,187,179,179.022
-"PE-Recife",2020-06-06,"nowcast",156,202,170,188,179,179.226
-"PE-Recife",2020-06-07,"nowcast",159,203,165,183,178,178.671
-"PE-Recife",2020-06-08,"nowcast",151,196,163,181,176,175.943
-"PE-Recife",2020-06-09,"nowcast",150,192,159,177,172,171.914
-"PE-Recife",2020-06-10,"nowcast",144,188,157,174,168,167.681
-"PE-Recife",2020-06-11,"nowcast",145,186,155,172,165,165.529
-"PE-Recife",2020-06-12,"nowcast",143,184,158,174,164,164.387
-"PE-Recife",2020-06-13,"nowcast",139,181,155,172,161,161.905
-"PE-Recife",2020-06-14,"nowcast",136,179,147,164,159,159.151
-"PE-Recife",2020-06-15,"nowcast",134,174,143,159,154,154.866
-"PE-Recife",2020-06-16,"nowcast",129,166,141,156,148,148.705
-"PE-Recife",2020-06-17,"nowcast",124,164,133,149,144,144.801
-"PE-Recife",2020-06-18,"nowcast",119,160,134,149,142,141.919
-"PE-Recife",2020-06-19,"nowcast",122,161,132,148,142,141.899
-"PE-Recife",2020-06-20,"nowcast",122,162,133,149,143,142.616
-"PE-Recife",2020-06-21,"nowcast",124,165,129,147,144,143.622
-"PE-Recife",2020-06-22,"nowcast",125,166,129,147,144,144.491
-"PE-Recife",2020-06-23,"nowcast",122,165,135,153,145,145.097
-"PE-Recife",2020-06-24,"nowcast",123,168,133,151,147,147.633
-"PE-Recife",2020-06-25,"nowcast",129,173,142,159,152,151.999
-"PE-Recife",2020-06-26,"nowcast",131,177,142,160,156,156.066
-"PE-Recife",2020-06-27,"nowcast",136,182,151,169,162,161.46
-"PE-Recife",2020-06-28,"nowcast",143,188,152,171,167,166.728
-"PE-Recife",2020-06-29,"nowcast",146,192,158,177,170,170.298
-"PE-Recife",2020-06-30,"nowcast",148,195,161,180,172,172.399
-"PE-Recife",2020-07-01,"nowcast",151,194,163,180,173,173.173
-"PE-Recife",2020-07-02,"nowcast",153,199,164,182,175,175.285
-"PE-Recife",2020-07-03,"nowcast",155,200,164,182,177,177.566
-"PE-Recife",2020-07-04,"nowcast",155,200,170,188,180,179.873
-"PE-Recife",2020-07-05,"nowcast",156,200,173,190,181,180.883
-"PE-Recife",2020-07-06,"nowcast",156,202,169,188,181,181.198
-"PE-Recife",2020-07-07,"nowcast",159,205,168,186,179,179.48
-"PE-Recife",2020-07-08,"nowcast",154,200,167,185,176,177.055
-"PE-Recife",2020-07-09,"nowcast",150,197,164,183,176,175.764
-"PE-Recife",2020-07-10,"nowcast",155,201,166,185,178,177.878
-"PE-Recife",2020-07-11,"nowcast",156,205,166,186,180,179.71
-"PE-Recife",2020-07-12,"nowcast",157,206,173,192,183,182.645
-"PE-Recife",2020-07-13,"nowcast",161,211,174,194,187,186.837
-"PE-Recife",2020-07-14,"nowcast",161,212,181,201,190,190.01
-"PE-Recife",2020-07-15,"nowcast",168,219,180,200,194,193.76
-"PE-Recife",2020-07-16,"nowcast",172,222,187,207,198,198.271
-"PE-Recife",2020-07-17,"nowcast",178,228,190,210,204,204.195
-"PE-Recife",2020-07-18,"nowcast",182,232,199,218,210,209.788
-"PE-Recife",2020-07-19,"nowcast",187,236,197,218,213,212.806
-"PE-Recife",2020-07-20,"nowcast",186,236,200,220,213,212.91
-"PE-Recife",2020-07-21,"nowcast",184,231,197,216,208,208.53
-"PE-Recife",2020-07-22,"nowcast",175,223,188,207,201,201.343
-"PE-Recife",2020-07-23,"nowcast",173,218,185,203,195,195.452
-"PE-Recife",2020-07-24,"nowcast",164,212,178,197,190,190.002
-"PE-Recife",2020-07-25,"nowcast",159,207,175,194,186,186.155
-"PE-Recife",2020-07-26,"nowcast",157,202,170,188,182,182.506
-"PE-Recife",2020-07-27,"nowcast",153,199,166,184,177,177.132
-"PE-Recife",2020-07-28,"nowcast",147,191,164,182,170,169.936
-"PE-Recife",2020-07-29,"nowcast",134,183,150,169,162,162.102
+"PE-Recife",2020-02-04,"nowcast",0,1,1,1,1,0.666666666666667
+"PE-Recife",2020-02-05,"nowcast",0,1,0,0,0,0.4
+"PE-Recife",2020-02-06,"nowcast",0,1,0,0,0,0.428571428571429
+"PE-Recife",2020-02-07,"nowcast",0,1,0,0,0,0.3
+"PE-Recife",2020-02-08,"nowcast",0,1,0,0,0,0.230769230769231
+"PE-Recife",2020-02-09,"nowcast",0,1,0,0,0,0.25
+"PE-Recife",2020-02-10,"nowcast",0,1,0,0,0,0.36
+"PE-Recife",2020-02-11,"nowcast",0,1,0,0,0,0.411764705882353
+"PE-Recife",2020-02-12,"nowcast",0,1,0,0,0,0.195121951219512
+"PE-Recife",2020-02-13,"nowcast",0,1,0,0,0,0.338983050847458
+"PE-Recife",2020-02-14,"nowcast",0,1,0,0,0,0.26027397260274
+"PE-Recife",2020-02-15,"nowcast",0,1,0,0,0,0.296703296703297
+"PE-Recife",2020-02-16,"nowcast",0,1,0,0,0,0.256637168141593
+"PE-Recife",2020-02-17,"nowcast",0,1,0,0,0,0.257575757575758
+"PE-Recife",2020-02-18,"nowcast",0,1,0,0,0,0.329341317365269
+"PE-Recife",2020-02-19,"nowcast",0,1,0,0,0,0.333333333333333
+"PE-Recife",2020-02-20,"nowcast",0,1,0,0,0,0.273858921161826
+"PE-Recife",2020-02-21,"nowcast",0,1,0,0,0,0.350993377483444
+"PE-Recife",2020-02-22,"nowcast",0,1,0,0,0,0.34435261707989
+"PE-Recife",2020-02-23,"nowcast",0,1,0,0,0,0.339578454332553
+"PE-Recife",2020-02-24,"nowcast",0,1,0,0,0,0.396825396825397
+"PE-Recife",2020-02-25,"nowcast",0,1,0,0,0,0.464594127806563
+"PE-Recife",2020-02-26,"nowcast",0,1,0,0,0,0.473118279569892
+"PE-Recife",2020-02-27,"nowcast",0,2,0,0,0,0.588555858310627
+"PE-Recife",2020-02-28,"nowcast",0,2,0,1,1,0.651851851851852
+"PE-Recife",2020-02-29,"nowcast",0,2,0,1,1,0.703534777651083
+"PE-Recife",2020-03-01,"nowcast",0,2,0,1,1,0.831509846827133
+"PE-Recife",2020-03-02,"nowcast",0,2,0,1,1,0.976744186046512
+"PE-Recife",2020-03-03,"nowcast",0,3,0,1,1,1.15345005149331
+"PE-Recife",2020-03-04,"nowcast",0,3,0,1,1,1.38967611336032
+"PE-Recife",2020-03-05,"nowcast",0,3,0,1,1,1.56596173212487
+"PE-Recife",2020-03-06,"nowcast",0,4,1,2,2,1.89289289289289
+"PE-Recife",2020-03-07,"nowcast",0,4,1,2,2,2.18418418418418
+"PE-Recife",2020-03-08,"nowcast",0,5,0,2,2,2.544
+"PE-Recife",2020-03-09,"nowcast",0,5,1,3,3,2.802
+"PE-Recife",2020-03-10,"nowcast",1,6,1,3,3,3.117
+"PE-Recife",2020-03-11,"nowcast",0,6,2,4,3,3.578
+"PE-Recife",2020-03-12,"nowcast",0,7,2,4,4,3.989
+"PE-Recife",2020-03-13,"nowcast",1,8,3,5,4,4.431
+"PE-Recife",2020-03-14,"nowcast",0,8,2,5,4,4.908
+"PE-Recife",2020-03-15,"nowcast",2,10,2,5,5,5.615
+"PE-Recife",2020-03-16,"nowcast",2,11,3,6,6,6.431
+"PE-Recife",2020-03-17,"nowcast",1,12,3,7,7,7.402
+"PE-Recife",2020-03-18,"nowcast",2,14,5,9,8,8.521
+"PE-Recife",2020-03-19,"nowcast",3,17,5,10,9,9.924
+"PE-Recife",2020-03-20,"nowcast",4,19,5,11,11,11.661
+"PE-Recife",2020-03-21,"nowcast",4,21,8,14,13,13.619
+"PE-Recife",2020-03-22,"nowcast",6,25,10,17,16,16.124
+"PE-Recife",2020-03-23,"nowcast",7,28,11,20,19,19.491
+"PE-Recife",2020-03-24,"nowcast",10,33,15,24,22,22.894
+"PE-Recife",2020-03-25,"nowcast",12,38,18,28,26,26.906
+"PE-Recife",2020-03-26,"nowcast",16,45,21,32,30,31.348
+"PE-Recife",2020-03-27,"nowcast",20,50,28,39,35,36.308
+"PE-Recife",2020-03-28,"nowcast",26,58,34,46,41,41.864
+"PE-Recife",2020-03-29,"nowcast",29,64,37,51,48,48.394
+"PE-Recife",2020-03-30,"nowcast",36,73,45,59,55,55.998
+"PE-Recife",2020-03-31,"nowcast",44,83,51,66,63,63.509
+"PE-Recife",2020-04-01,"nowcast",51,92,60,75,70,71.602
+"PE-Recife",2020-04-02,"nowcast",55,100,70,87,79,79.667
+"PE-Recife",2020-04-03,"nowcast",63,108,73,92,88,88.372
+"PE-Recife",2020-04-04,"nowcast",72,118,84,103,97,97.316
+"PE-Recife",2020-04-05,"nowcast",76,125,91,111,104,105.427
+"PE-Recife",2020-04-06,"nowcast",88,138,100,120,113,114.273
+"PE-Recife",2020-04-07,"nowcast",94,147,111,132,122,123.499
+"PE-Recife",2020-04-08,"nowcast",103,157,117,138,132,132.29
+"PE-Recife",2020-04-09,"nowcast",113,169,125,147,141.5,142.554
+"PE-Recife",2020-04-10,"nowcast",125,183,135,159,151,153.132
+"PE-Recife",2020-04-11,"nowcast",135,194,146,170,163,164.225
+"PE-Recife",2020-04-12,"nowcast",147,210,157,183,176,176.581
+"PE-Recife",2020-04-13,"nowcast",154,219,170,195,187,188.066
+"PE-Recife",2020-04-14,"nowcast",164,231,187,213,200,200.195
+"PE-Recife",2020-04-15,"nowcast",175,243,202,229,213,212.747
+"PE-Recife",2020-04-16,"nowcast",191,259,208,235,226,226.589
+"PE-Recife",2020-04-17,"nowcast",205,275,220,248,240,240.295
+"PE-Recife",2020-04-18,"nowcast",222,289,242,268,255,255.266
+"PE-Recife",2020-04-19,"nowcast",237,301,256,283,269,269.415
+"PE-Recife",2020-04-20,"nowcast",251,314,273,298,283,282.335
+"PE-Recife",2020-04-21,"nowcast",257,320,278,303,292,291.549
+"PE-Recife",2020-04-22,"nowcast",267,326,280,304,296,296.183
+"PE-Recife",2020-04-23,"nowcast",263,324,284,308,297,296.657
+"PE-Recife",2020-04-24,"nowcast",261,323,275,301,291,291.949
+"PE-Recife",2020-04-25,"nowcast",254,322,272,300,288,288.039
+"PE-Recife",2020-04-26,"nowcast",252,324,267,297,289,288.82
+"PE-Recife",2020-04-27,"nowcast",262,338,279,311,294,294.906
+"PE-Recife",2020-04-28,"nowcast",263,342,280,312,302,302.4
+"PE-Recife",2020-04-29,"nowcast",269,353,295,328,311,311.813
+"PE-Recife",2020-04-30,"nowcast",277,360,307,342,324,324.125
+"PE-Recife",2020-05-01,"nowcast",297,383,315,353,341,341.124
+"PE-Recife",2020-05-02,"nowcast",317,401,348,381,362,360.889
+"PE-Recife",2020-05-03,"nowcast",344,423,356,388,378.5,378.877
+"PE-Recife",2020-05-04,"nowcast",350,425,374,403,392,391.533
+"PE-Recife",2020-05-05,"nowcast",356,430,382,412,396,395.454
+"PE-Recife",2020-05-06,"nowcast",354,428,376,405,395,395.101
+"PE-Recife",2020-05-07,"nowcast",357,432,381,410,398,397.867
+"PE-Recife",2020-05-08,"nowcast",364,439,393,423,403,403.106
+"PE-Recife",2020-05-09,"nowcast",380,457,395,426,415,414.505
+"PE-Recife",2020-05-10,"nowcast",383,463,406,439,427,425.562
+"PE-Recife",2020-05-11,"nowcast",393,472,413,443,433,433.126
+"PE-Recife",2020-05-12,"nowcast",389,467,411,444,433,432.98
+"PE-Recife",2020-05-13,"nowcast",384,462,407,439,427,426.845
+"PE-Recife",2020-05-14,"nowcast",373,454,390,423,415,414.413
+"PE-Recife",2020-05-15,"nowcast",359,441,380,411,398,397.657
+"PE-Recife",2020-05-16,"nowcast",342,421,360,392,383,383.098
+"PE-Recife",2020-05-17,"nowcast",321,401,346,376,364,364.223
+"PE-Recife",2020-05-18,"nowcast",301,380,320,352,341,341.689
+"PE-Recife",2020-05-19,"nowcast",279,351,296,325,315,315.517
+"PE-Recife",2020-05-20,"nowcast",259,325,275,301,291,290.839
+"PE-Recife",2020-05-21,"nowcast",240,300,253,278,271,270.248
+"PE-Recife",2020-05-22,"nowcast",230,284,244,267,257,257.625
+"PE-Recife",2020-05-23,"nowcast",220,275,234,257,250,249.696
+"PE-Recife",2020-05-24,"nowcast",214,269,228,250,242,242.117
+"PE-Recife",2020-05-25,"nowcast",203,255,221,241,233,233.265
+"PE-Recife",2020-05-26,"nowcast",194,245,213,232,222,222.464
+"PE-Recife",2020-05-27,"nowcast",184,233,200,220,209,209.849
+"PE-Recife",2020-05-28,"nowcast",175,221,189,208,200,200.021
+"PE-Recife",2020-05-29,"nowcast",172,219,180,200,194,194.292
+"PE-Recife",2020-05-30,"nowcast",168,215,181,199,192,192.127
+"PE-Recife",2020-05-31,"nowcast",165,212,176,195,191,190.855
+"PE-Recife",2020-06-01,"nowcast",165,209,179,196,188,188.584
+"PE-Recife",2020-06-02,"nowcast",159,205,170,188,182,182.702
+"PE-Recife",2020-06-03,"nowcast",157,203,169,189,181,181.434
+"PE-Recife",2020-06-04,"nowcast",156,200,168,187,179,179.58
+"PE-Recife",2020-06-05,"nowcast",155,203,167,185,179,179.684
+"PE-Recife",2020-06-06,"nowcast",157,204,165,184,179,179.232
+"PE-Recife",2020-06-07,"nowcast",154,199,167,186,178,177.913
+"PE-Recife",2020-06-08,"nowcast",151,195,167,184,175,175.012
+"PE-Recife",2020-06-09,"nowcast",151,193,158,176,172,171.359
+"PE-Recife",2020-06-10,"nowcast",147,189,156,173,167,167.373
+"PE-Recife",2020-06-11,"nowcast",142,186,153,171,165,164.755
+"PE-Recife",2020-06-12,"nowcast",142,182,155,170,163,163.6
+"PE-Recife",2020-06-13,"nowcast",141,183,151,169,162,162.493
+"PE-Recife",2020-06-14,"nowcast",136,178,150,167,159.5,159.567
+"PE-Recife",2020-06-15,"nowcast",133,174,144,160,154,154.765
+"PE-Recife",2020-06-16,"nowcast",129,168,141,156,149,149.063
+"PE-Recife",2020-06-17,"nowcast",123,164,134,150,145,144.991
+"PE-Recife",2020-06-18,"nowcast",120,163,133,150,143,142.747
+"PE-Recife",2020-06-19,"nowcast",117,159,130,145,141,141.447
+"PE-Recife",2020-06-20,"nowcast",121,163,134,150,143,142.405
+"PE-Recife",2020-06-21,"nowcast",121,162,132,148,143,143.827
+"PE-Recife",2020-06-22,"nowcast",123,167,137,153,145,144.867
+"PE-Recife",2020-06-23,"nowcast",124,167,134,151,145,144.782
+"PE-Recife",2020-06-24,"nowcast",123,168,140,157,147,147.599
+"PE-Recife",2020-06-25,"nowcast",129,176,138,157,151,151.116
+"PE-Recife",2020-06-26,"nowcast",134,180,146,164,156,156.24
+"PE-Recife",2020-06-27,"nowcast",139,185,152,170,162,162.635
+"PE-Recife",2020-06-28,"nowcast",142,188,159,176,167,166.51
+"PE-Recife",2020-06-29,"nowcast",148,192,156,175,170,170.311
+"PE-Recife",2020-06-30,"nowcast",151,193,160,177,172,172.285
+"PE-Recife",2020-07-01,"nowcast",148,194,160,178,173,173.284
+"PE-Recife",2020-07-02,"nowcast",150,195,166,184,176,175.383
+"PE-Recife",2020-07-03,"nowcast",152,199,165,184,177,177.491
+"PE-Recife",2020-07-04,"nowcast",157,201,170,189,181,179.735
+"PE-Recife",2020-07-05,"nowcast",156,201,169,187,180,180.547
+"PE-Recife",2020-07-06,"nowcast",155,200,170,188,181,180.75
+"PE-Recife",2020-07-07,"nowcast",159,202,166,184,179,178.666
+"PE-Recife",2020-07-08,"nowcast",152,196,167,185,177,176.551
+"PE-Recife",2020-07-09,"nowcast",150,197,164,183,175,175.925
+"PE-Recife",2020-07-10,"nowcast",151,199,165,185,178,178.245
+"PE-Recife",2020-07-11,"nowcast",154,201,168,188,179,179.693
+"PE-Recife",2020-07-12,"nowcast",157,204,169,188,183,183.067
+"PE-Recife",2020-07-13,"nowcast",161,210,173,193,186,185.952
+"PE-Recife",2020-07-14,"nowcast",162,213,178,199,191,189.814
+"PE-Recife",2020-07-15,"nowcast",167,219,178,199,193,193.539
+"PE-Recife",2020-07-16,"nowcast",173,221,187,206,199,198.814
+"PE-Recife",2020-07-17,"nowcast",177,227,191,211,204,204.295
+"PE-Recife",2020-07-18,"nowcast",181,232,194,216,209,208.802
+"PE-Recife",2020-07-19,"nowcast",189,237,200,219,213,212.762
+"PE-Recife",2020-07-20,"nowcast",187,235,203,222,212,212.021
+"PE-Recife",2020-07-21,"nowcast",184,229,192,212,207,207.284
+"PE-Recife",2020-07-22,"nowcast",175,222,189,207,200,200.557
+"PE-Recife",2020-07-23,"nowcast",168,217,185,204,195,195.328
+"PE-Recife",2020-07-24,"nowcast",165,210,182,200,189,189.398
+"PE-Recife",2020-07-25,"nowcast",162,210,173,191,185,185.635
+"PE-Recife",2020-07-26,"nowcast",159,205,173,191,183,183.111
+"PE-Recife",2020-07-27,"nowcast",156,201,168,186,177,178.033
+"PE-Recife",2020-07-28,"nowcast",147,194,163,181,172,171.294
+"PE-Recife",2020-07-29,"nowcast",141,186,152,170,164,164.737
+"PE-Recife",2020-07-30,"nowcast",134,183,144,163,158,158.63
 "PE-Recife",2020-03-12,"observed",NA,NA,NA,NA,2,NA
 "PE-Recife",2020-03-13,"observed",NA,NA,NA,NA,0,NA
 "PE-Recife",2020-03-14,"observed",NA,NA,NA,NA,4,NA
@@ -8101,21 +8091,22 @@
 "PE-Recife",2020-08-05,"observed",NA,NA,NA,NA,218,NA
 "PE-Recife",2020-08-06,"observed",NA,NA,NA,NA,162,NA
 "PE-Recife",2020-08-07,"observed",NA,NA,NA,NA,209,NA
-"PE-Recife",2020-08-08,"observed",NA,NA,NA,NA,0,NA
-"PE-Recife",2020-07-30,"forecast",129,198,146,174,163,163.3818
-"PE-Recife",2020-07-31,"forecast",120,195,141,171,160,159.8402
-"PE-Recife",2020-08-01,"forecast",115,197,137,170,156,156.093
-"PE-Recife",2020-08-02,"forecast",109,196,129,164,152,152.8348
-"PE-Recife",2020-08-03,"forecast",103,196,125,162,149,149.3564
-"PE-Recife",2020-08-04,"forecast",96,193,121,160,145,146.191
-"PE-Recife",2020-08-05,"forecast",92,195,118,159,142,142.889
-"PE-Recife",2020-08-06,"forecast",86,193,113,156,138,139.5852
-"PE-Recife",2020-08-07,"forecast",79,193,106,151,136,137.0186
-"PE-Recife",2020-08-08,"forecast",74,189,108,154,133,134.0566
-"PE-Recife",2020-08-09,"forecast",69,188,103,150,130,130.9628
-"PE-Recife",2020-08-10,"forecast",67,191,95,144,126,128.2528
-"PE-Recife",2020-08-11,"forecast",62,187,90,141,123,125.0708
-"PE-Recife",2020-08-12,"forecast",58,185,86,137,119,122.1072
+"PE-Recife",2020-08-08,"observed",NA,NA,NA,NA,185,NA
+"PE-Recife",2020-08-09,"observed",NA,NA,NA,NA,0,NA
+"PE-Recife",2020-07-31,"forecast",122,190,139,167,157,157.9856
+"PE-Recife",2020-08-01,"forecast",113,189,135,165,154,154.7876
+"PE-Recife",2020-08-02,"forecast",107,189,130,163,150,150.585
+"PE-Recife",2020-08-03,"forecast",102,188,124,159,147,146.87
+"PE-Recife",2020-08-04,"forecast",93,187,119,157,143,143.6792
+"PE-Recife",2020-08-05,"forecast",87,186,115,154,139,140.1954
+"PE-Recife",2020-08-06,"forecast",86,186,110,151,136,137.086
+"PE-Recife",2020-08-07,"forecast",81,186,110,152,133,133.7034
+"PE-Recife",2020-08-08,"forecast",70,182,103,147,129,130.8046
+"PE-Recife",2020-08-09,"forecast",68,182,104,150,126,127.2158
+"PE-Recife",2020-08-10,"forecast",64,181,90,139,123,124.2814
+"PE-Recife",2020-08-11,"forecast",58,179,83,133,120,121.1798
+"PE-Recife",2020-08-12,"forecast",52,176,91,141,117,118.4766
+"PE-Recife",2020-08-13,"forecast",44,170,82,133,114,116.264
 "PE-Salgueiro",2020-02-26,"nowcast",1,1,1,1,1,1
 "PE-Salgueiro",2020-02-27,"nowcast",0,0,0,0,0,0
 "PE-Salgueiro",2020-02-28,"nowcast",0,0,0,0,0,0
@@ -8647,149 +8638,150 @@
 "PE-Sanharó",2020-08-02,"forecast",0,42,0,10,10,18.4352
 "PE-Sanharó",2020-08-03,"forecast",0,44,0,10,10,20.1844
 "PE-Santa Cruz do Capibaribe",2020-03-07,"nowcast",1,1,1,1,1,1
-"PE-Santa Cruz do Capibaribe",2020-03-08,"nowcast",0,1,1,1,1,0.666666666666667
-"PE-Santa Cruz do Capibaribe",2020-03-09,"nowcast",0,1,0,0,0,0.333333333333333
-"PE-Santa Cruz do Capibaribe",2020-03-10,"nowcast",0,1,0,0,0,0.4
-"PE-Santa Cruz do Capibaribe",2020-03-11,"nowcast",0,1,0,0,0,0.2
-"PE-Santa Cruz do Capibaribe",2020-03-12,"nowcast",0,0,0,0,0,0
-"PE-Santa Cruz do Capibaribe",2020-03-13,"nowcast",0,1,0,0,0,0.166666666666667
-"PE-Santa Cruz do Capibaribe",2020-03-14,"nowcast",0,1,0,0,0,0.4
-"PE-Santa Cruz do Capibaribe",2020-03-15,"nowcast",0,0,0,0,0,0
-"PE-Santa Cruz do Capibaribe",2020-03-16,"nowcast",0,1,0,0,0,0.375
-"PE-Santa Cruz do Capibaribe",2020-03-17,"nowcast",0,1,0,0,0,0.272727272727273
-"PE-Santa Cruz do Capibaribe",2020-03-18,"nowcast",0,1,0,0,0,0.214285714285714
-"PE-Santa Cruz do Capibaribe",2020-03-19,"nowcast",0,1,0,0,0,0.25
-"PE-Santa Cruz do Capibaribe",2020-03-20,"nowcast",0,1,0,0,0,0.333333333333333
-"PE-Santa Cruz do Capibaribe",2020-03-21,"nowcast",0,1,0,0,0,0.142857142857143
-"PE-Santa Cruz do Capibaribe",2020-03-22,"nowcast",0,1,0,0,0,0.142857142857143
-"PE-Santa Cruz do Capibaribe",2020-03-23,"nowcast",0,1,0,0,0,0.35632183908046
-"PE-Santa Cruz do Capibaribe",2020-03-24,"nowcast",0,1,0,0,0,0.324324324324324
-"PE-Santa Cruz do Capibaribe",2020-03-25,"nowcast",0,1,0,0,0,0.279411764705882
-"PE-Santa Cruz do Capibaribe",2020-03-26,"nowcast",0,1,0,0,0,0.234567901234568
+"PE-Santa Cruz do Capibaribe",2020-03-08,"nowcast",0,0,0,0,0,0
+"PE-Santa Cruz do Capibaribe",2020-03-09,"nowcast",0,1,0,1,0.5,0.5
+"PE-Santa Cruz do Capibaribe",2020-03-10,"nowcast",0,0,0,0,0,0
+"PE-Santa Cruz do Capibaribe",2020-03-11,"nowcast",0,1,0,1,0.5,0.5
+"PE-Santa Cruz do Capibaribe",2020-03-12,"nowcast",0,1,0,0,0,0.333333333333333
+"PE-Santa Cruz do Capibaribe",2020-03-13,"nowcast",0,1,0,0,0,0.333333333333333
+"PE-Santa Cruz do Capibaribe",2020-03-14,"nowcast",0,1,1,1,1,0.666666666666667
+"PE-Santa Cruz do Capibaribe",2020-03-15,"nowcast",0,1,0,0,0,0.25
+"PE-Santa Cruz do Capibaribe",2020-03-16,"nowcast",0,1,1,1,1,0.555555555555556
+"PE-Santa Cruz do Capibaribe",2020-03-17,"nowcast",0,1,0,0,0,0.1
+"PE-Santa Cruz do Capibaribe",2020-03-18,"nowcast",0,1,0,0,0,0.285714285714286
+"PE-Santa Cruz do Capibaribe",2020-03-19,"nowcast",0,1,0,0,0,0.428571428571429
+"PE-Santa Cruz do Capibaribe",2020-03-20,"nowcast",0,1,0,0,0,0.321428571428571
+"PE-Santa Cruz do Capibaribe",2020-03-21,"nowcast",0,1,0,0,0,0.41025641025641
+"PE-Santa Cruz do Capibaribe",2020-03-22,"nowcast",0,1,0,0,0,0.270833333333333
+"PE-Santa Cruz do Capibaribe",2020-03-23,"nowcast",0,1,0,0,0,0.338461538461538
+"PE-Santa Cruz do Capibaribe",2020-03-24,"nowcast",0,1,0,0,0,0.321428571428571
+"PE-Santa Cruz do Capibaribe",2020-03-25,"nowcast",0,1,0,0,0,0.262135922330097
+"PE-Santa Cruz do Capibaribe",2020-03-26,"nowcast",0,1,0,0,0,0.286764705882353
 "PE-Santa Cruz do Capibaribe",2020-03-27,"nowcast",0,1,0,0,0,0.3125
-"PE-Santa Cruz do Capibaribe",2020-03-28,"nowcast",0,1,0,0,0,0.269076305220884
-"PE-Santa Cruz do Capibaribe",2020-03-29,"nowcast",0,1,0,0,0,0.195035460992908
-"PE-Santa Cruz do Capibaribe",2020-03-30,"nowcast",0,1,0,0,0,0.247787610619469
-"PE-Santa Cruz do Capibaribe",2020-03-31,"nowcast",0,1,0,0,0,0.27970297029703
-"PE-Santa Cruz do Capibaribe",2020-04-01,"nowcast",0,1,0,0,0,0.239316239316239
-"PE-Santa Cruz do Capibaribe",2020-04-02,"nowcast",0,1,0,0,0,0.251417769376181
-"PE-Santa Cruz do Capibaribe",2020-04-03,"nowcast",0,1,0,0,0,0.225969645868465
-"PE-Santa Cruz do Capibaribe",2020-04-04,"nowcast",0,1,0,0,0,0.235023041474654
-"PE-Santa Cruz do Capibaribe",2020-04-05,"nowcast",0,1,0,0,0,0.254545454545455
-"PE-Santa Cruz do Capibaribe",2020-04-06,"nowcast",0,1,0,0,0,0.243101182654402
-"PE-Santa Cruz do Capibaribe",2020-04-07,"nowcast",0,1,0,0,0,0.22
-"PE-Santa Cruz do Capibaribe",2020-04-08,"nowcast",0,1,0,0,0,0.215311004784689
-"PE-Santa Cruz do Capibaribe",2020-04-09,"nowcast",0,1,0,0,0,0.188524590163934
-"PE-Santa Cruz do Capibaribe",2020-04-10,"nowcast",0,1,0,0,0,0.178694158075601
-"PE-Santa Cruz do Capibaribe",2020-04-11,"nowcast",0,1,0,0,0,0.204494382022472
-"PE-Santa Cruz do Capibaribe",2020-04-12,"nowcast",0,1,0,0,0,0.195121951219512
-"PE-Santa Cruz do Capibaribe",2020-04-13,"nowcast",0,1,0,0,0,0.214676889375685
-"PE-Santa Cruz do Capibaribe",2020-04-14,"nowcast",0,1,0,0,0,0.21551724137931
-"PE-Santa Cruz do Capibaribe",2020-04-15,"nowcast",0,1,0,0,0,0.250800426894344
-"PE-Santa Cruz do Capibaribe",2020-04-16,"nowcast",0,1,0,0,0,0.205913410770855
-"PE-Santa Cruz do Capibaribe",2020-04-17,"nowcast",0,1,0,0,0,0.260188087774295
-"PE-Santa Cruz do Capibaribe",2020-04-18,"nowcast",0,1,0,0,0,0.254658385093168
-"PE-Santa Cruz do Capibaribe",2020-04-19,"nowcast",0,1,0,0,0,0.279713114754098
-"PE-Santa Cruz do Capibaribe",2020-04-20,"nowcast",0,1,0,0,0,0.321138211382114
-"PE-Santa Cruz do Capibaribe",2020-04-21,"nowcast",0,1,0,0,0,0.320887991927346
-"PE-Santa Cruz do Capibaribe",2020-04-22,"nowcast",0,1,0,0,0,0.32897384305835
-"PE-Santa Cruz do Capibaribe",2020-04-23,"nowcast",0,1,0,0,0,0.366834170854271
-"PE-Santa Cruz do Capibaribe",2020-04-24,"nowcast",0,1,0,0,0,0.397191574724172
-"PE-Santa Cruz do Capibaribe",2020-04-25,"nowcast",0,1,0,0,0,0.401203610832498
-"PE-Santa Cruz do Capibaribe",2020-04-26,"nowcast",0,1,0,0,0,0.497995991983968
-"PE-Santa Cruz do Capibaribe",2020-04-27,"nowcast",0,2,0,0,0,0.575
-"PE-Santa Cruz do Capibaribe",2020-04-28,"nowcast",0,2,0,0,0,0.665
-"PE-Santa Cruz do Capibaribe",2020-04-29,"nowcast",0,2,0,1,1,0.717
-"PE-Santa Cruz do Capibaribe",2020-04-30,"nowcast",0,2,0,1,1,0.84
-"PE-Santa Cruz do Capibaribe",2020-05-01,"nowcast",0,2,0,1,1,0.871
-"PE-Santa Cruz do Capibaribe",2020-05-02,"nowcast",0,2,0,1,1,0.897
-"PE-Santa Cruz do Capibaribe",2020-05-03,"nowcast",0,2,0,1,1,0.825
-"PE-Santa Cruz do Capibaribe",2020-05-04,"nowcast",0,2,0,1,1,0.821
-"PE-Santa Cruz do Capibaribe",2020-05-05,"nowcast",0,2,0,1,1,0.766
-"PE-Santa Cruz do Capibaribe",2020-05-06,"nowcast",0,2,0,1,1,0.777
-"PE-Santa Cruz do Capibaribe",2020-05-07,"nowcast",0,2,0,1,1,0.695
-"PE-Santa Cruz do Capibaribe",2020-05-08,"nowcast",0,2,0,1,1,0.714
-"PE-Santa Cruz do Capibaribe",2020-05-09,"nowcast",0,2,0,1,1,0.817
-"PE-Santa Cruz do Capibaribe",2020-05-10,"nowcast",0,2,0,1,1,0.872
-"PE-Santa Cruz do Capibaribe",2020-05-11,"nowcast",0,2,0,1,1,0.822
-"PE-Santa Cruz do Capibaribe",2020-05-12,"nowcast",0,2,0,1,1,0.849
-"PE-Santa Cruz do Capibaribe",2020-05-13,"nowcast",0,2,0,1,1,0.885
-"PE-Santa Cruz do Capibaribe",2020-05-14,"nowcast",0,2,0,1,1,0.883
-"PE-Santa Cruz do Capibaribe",2020-05-15,"nowcast",0,2,0,1,1,0.834
-"PE-Santa Cruz do Capibaribe",2020-05-16,"nowcast",0,2,0,1,1,0.878
-"PE-Santa Cruz do Capibaribe",2020-05-17,"nowcast",0,2,0,1,1,0.858
-"PE-Santa Cruz do Capibaribe",2020-05-18,"nowcast",0,2,0,1,1,0.883
-"PE-Santa Cruz do Capibaribe",2020-05-19,"nowcast",0,2,0,1,1,1.053
-"PE-Santa Cruz do Capibaribe",2020-05-20,"nowcast",0,3,0,1,1,1.18
-"PE-Santa Cruz do Capibaribe",2020-05-21,"nowcast",0,3,0,1,1,1.416
-"PE-Santa Cruz do Capibaribe",2020-05-22,"nowcast",0,4,0,1,1,1.675
-"PE-Santa Cruz do Capibaribe",2020-05-23,"nowcast",0,4,1,2,2,1.942
-"PE-Santa Cruz do Capibaribe",2020-05-24,"nowcast",0,5,0,2,2,2.428
-"PE-Santa Cruz do Capibaribe",2020-05-25,"nowcast",0,5,1,3,3,2.691
-"PE-Santa Cruz do Capibaribe",2020-05-26,"nowcast",1,6,1,3,3,3.239
-"PE-Santa Cruz do Capibaribe",2020-05-27,"nowcast",0,6,2,4,4,3.763
-"PE-Santa Cruz do Capibaribe",2020-05-28,"nowcast",1,7,3,5,4,4.313
-"PE-Santa Cruz do Capibaribe",2020-05-29,"nowcast",1,8,3,5,5,4.821
-"PE-Santa Cruz do Capibaribe",2020-05-30,"nowcast",2,9,2,5,5,5.251
-"PE-Santa Cruz do Capibaribe",2020-05-31,"nowcast",1,9,3,6,6,5.734
-"PE-Santa Cruz do Capibaribe",2020-06-01,"nowcast",2,10,4,7,6,6.423
-"PE-Santa Cruz do Capibaribe",2020-06-02,"nowcast",2,11,4,7,7,6.853
-"PE-Santa Cruz do Capibaribe",2020-06-03,"nowcast",3,12,5,8,8,7.834
-"PE-Santa Cruz do Capibaribe",2020-06-04,"nowcast",3,13,5,9,8,8.66
-"PE-Santa Cruz do Capibaribe",2020-06-05,"nowcast",4,14,8,11,9,9.625
-"PE-Santa Cruz do Capibaribe",2020-06-06,"nowcast",6,16,7,11,10,10.558
-"PE-Santa Cruz do Capibaribe",2020-06-07,"nowcast",6,17,9,13,12,11.91
-"PE-Santa Cruz do Capibaribe",2020-06-08,"nowcast",6,19,8,13,12,12.743
-"PE-Santa Cruz do Capibaribe",2020-06-09,"nowcast",6,19,9,14,14,13.971
-"PE-Santa Cruz do Capibaribe",2020-06-10,"nowcast",8,21,11,16,15,15.362
-"PE-Santa Cruz do Capibaribe",2020-06-11,"nowcast",9,23,14,19,17,16.921
-"PE-Santa Cruz do Capibaribe",2020-06-12,"nowcast",10,26,14,20,19,19.089
-"PE-Santa Cruz do Capibaribe",2020-06-13,"nowcast",12,28,16,22,21,20.925
-"PE-Santa Cruz do Capibaribe",2020-06-14,"nowcast",14,31,18,25,23,23.43
-"PE-Santa Cruz do Capibaribe",2020-06-15,"nowcast",15,34,20,27,26,25.923
-"PE-Santa Cruz do Capibaribe",2020-06-16,"nowcast",20,38,24,31,29,28.945
-"PE-Santa Cruz do Capibaribe",2020-06-17,"nowcast",20,40,28,35,32,32.189
-"PE-Santa Cruz do Capibaribe",2020-06-18,"nowcast",24,44,29,37,35,35.405
-"PE-Santa Cruz do Capibaribe",2020-06-19,"nowcast",28,48,32,40,38,38.297
-"PE-Santa Cruz do Capibaribe",2020-06-20,"nowcast",32,51,34,42,41,40.926
-"PE-Santa Cruz do Capibaribe",2020-06-21,"nowcast",33,52,39,46,43,42.81
-"PE-Santa Cruz do Capibaribe",2020-06-22,"nowcast",33,54,37,45,43,43.698
-"PE-Santa Cruz do Capibaribe",2020-06-23,"nowcast",33,53,40,48,44,43.74
-"PE-Santa Cruz do Capibaribe",2020-06-24,"nowcast",33,53,37,45,44,43.826
-"PE-Santa Cruz do Capibaribe",2020-06-25,"nowcast",33,53,38,46,44,43.782
-"PE-Santa Cruz do Capibaribe",2020-06-26,"nowcast",34,55,38,47,45,45.344
-"PE-Santa Cruz do Capibaribe",2020-06-27,"nowcast",35,57,42,50,46,46.308
-"PE-Santa Cruz do Capibaribe",2020-06-28,"nowcast",36,57,40,49,47,47.168
-"PE-Santa Cruz do Capibaribe",2020-06-29,"nowcast",36,57,43,51,47,47.39
-"PE-Santa Cruz do Capibaribe",2020-06-30,"nowcast",37,57,41,49,47,46.89
-"PE-Santa Cruz do Capibaribe",2020-07-01,"nowcast",34,56,39,48,46,45.898
-"PE-Santa Cruz do Capibaribe",2020-07-02,"nowcast",33,54,41,49,45,44.673
-"PE-Santa Cruz do Capibaribe",2020-07-03,"nowcast",33,54,40,48,44,43.924
-"PE-Santa Cruz do Capibaribe",2020-07-04,"nowcast",34,54,38,46,43,43.638
-"PE-Santa Cruz do Capibaribe",2020-07-05,"nowcast",32,52,37,45,43,42.979
-"PE-Santa Cruz do Capibaribe",2020-07-06,"nowcast",31,51,36,44,43,42.854
-"PE-Santa Cruz do Capibaribe",2020-07-07,"nowcast",32,52,36,44,42,41.973
-"PE-Santa Cruz do Capibaribe",2020-07-08,"nowcast",31,51,36,44,41,41.658
-"PE-Santa Cruz do Capibaribe",2020-07-09,"nowcast",30,51,37,45,42,42.016
-"PE-Santa Cruz do Capibaribe",2020-07-10,"nowcast",31,52,36,44,42,42.675
-"PE-Santa Cruz do Capibaribe",2020-07-11,"nowcast",32,52,38,46,43,42.785
-"PE-Santa Cruz do Capibaribe",2020-07-12,"nowcast",33,54,37,45,43,43.422
-"PE-Santa Cruz do Capibaribe",2020-07-13,"nowcast",32,54,38,46,44,44.142
-"PE-Santa Cruz do Capibaribe",2020-07-14,"nowcast",34,55,38,47,45,44.936
-"PE-Santa Cruz do Capibaribe",2020-07-15,"nowcast",35,57,40,49,46,46.667
-"PE-Santa Cruz do Capibaribe",2020-07-16,"nowcast",38,60,42,51,48,48.504
-"PE-Santa Cruz do Capibaribe",2020-07-17,"nowcast",40,63,44,53,51,51.116
-"PE-Santa Cruz do Capibaribe",2020-07-18,"nowcast",41,63,45,54,52,52.127
-"PE-Santa Cruz do Capibaribe",2020-07-19,"nowcast",42,64,47,56,52,52.58
-"PE-Santa Cruz do Capibaribe",2020-07-20,"nowcast",39,63,43,53,51.5,51.533
-"PE-Santa Cruz do Capibaribe",2020-07-21,"nowcast",35,58,43,52,49,48.805
-"PE-Santa Cruz do Capibaribe",2020-07-22,"nowcast",36,57,42,50,47,47.066
-"PE-Santa Cruz do Capibaribe",2020-07-23,"nowcast",35,56,40,48,45,45.327
-"PE-Santa Cruz do Capibaribe",2020-07-24,"nowcast",34,56,37,46,44,44.344
-"PE-Santa Cruz do Capibaribe",2020-07-25,"nowcast",32,54,40,48,44,44.056
-"PE-Santa Cruz do Capibaribe",2020-07-26,"nowcast",32,54,36,45,43,42.965
-"PE-Santa Cruz do Capibaribe",2020-07-27,"nowcast",30,52,37,45,41,41.502
-"PE-Santa Cruz do Capibaribe",2020-07-28,"nowcast",26,51,33,42,40,40.32
+"PE-Santa Cruz do Capibaribe",2020-03-28,"nowcast",0,1,0,0,0,0.238317757009346
+"PE-Santa Cruz do Capibaribe",2020-03-29,"nowcast",0,1,0,0,0,0.314814814814815
+"PE-Santa Cruz do Capibaribe",2020-03-30,"nowcast",0,1,0,0,0,0.249221183800623
+"PE-Santa Cruz do Capibaribe",2020-03-31,"nowcast",0,1,0,0,0,0.301790281329923
+"PE-Santa Cruz do Capibaribe",2020-04-01,"nowcast",0,1,0,0,0,0.221218961625282
+"PE-Santa Cruz do Capibaribe",2020-04-02,"nowcast",0,1,0,0,0,0.268627450980392
+"PE-Santa Cruz do Capibaribe",2020-04-03,"nowcast",0,1,0,0,0,0.262608695652174
+"PE-Santa Cruz do Capibaribe",2020-04-04,"nowcast",0,1,0,0,0,0.255417956656347
+"PE-Santa Cruz do Capibaribe",2020-04-05,"nowcast",0,1,0,0,0,0.244252873563218
+"PE-Santa Cruz do Capibaribe",2020-04-06,"nowcast",0,1,0,0,0,0.220588235294118
+"PE-Santa Cruz do Capibaribe",2020-04-07,"nowcast",0,1,0,0,0,0.236641221374046
+"PE-Santa Cruz do Capibaribe",2020-04-08,"nowcast",0,1,0,0,0,0.21219512195122
+"PE-Santa Cruz do Capibaribe",2020-04-09,"nowcast",0,1,0,0,0,0.190082644628099
+"PE-Santa Cruz do Capibaribe",2020-04-10,"nowcast",0,1,0,0,0,0.168981481481481
+"PE-Santa Cruz do Capibaribe",2020-04-11,"nowcast",0,1,0,0,0,0.220865704772475
+"PE-Santa Cruz do Capibaribe",2020-04-12,"nowcast",0,1,0,0,0,0.229685807150596
+"PE-Santa Cruz do Capibaribe",2020-04-13,"nowcast",0,1,0,0,0,0.205944798301486
+"PE-Santa Cruz do Capibaribe",2020-04-14,"nowcast",0,1,0,0,0,0.200841219768665
+"PE-Santa Cruz do Capibaribe",2020-04-15,"nowcast",0,1,0,0,0,0.218295218295218
+"PE-Santa Cruz do Capibaribe",2020-04-16,"nowcast",0,1,0,0,0,0.22680412371134
+"PE-Santa Cruz do Capibaribe",2020-04-17,"nowcast",0,1,0,0,0,0.252298263534219
+"PE-Santa Cruz do Capibaribe",2020-04-18,"nowcast",0,1,0,0,0,0.294715447154472
+"PE-Santa Cruz do Capibaribe",2020-04-19,"nowcast",0,1,0,0,0,0.313447927199191
+"PE-Santa Cruz do Capibaribe",2020-04-20,"nowcast",0,1,0,0,0,0.306143001007049
+"PE-Santa Cruz do Capibaribe",2020-04-21,"nowcast",0,1,0,0,0,0.309547738693467
+"PE-Santa Cruz do Capibaribe",2020-04-22,"nowcast",0,1,0,0,0,0.329659318637275
+"PE-Santa Cruz do Capibaribe",2020-04-23,"nowcast",0,1,0,0,0,0.366733466933868
+"PE-Santa Cruz do Capibaribe",2020-04-24,"nowcast",0,1,0,0,0,0.364729458917836
+"PE-Santa Cruz do Capibaribe",2020-04-25,"nowcast",0,1,0,0,0,0.419839679358717
+"PE-Santa Cruz do Capibaribe",2020-04-26,"nowcast",0,1,0,0,0,0.465465465465465
+"PE-Santa Cruz do Capibaribe",2020-04-27,"nowcast",0,2,0,0,0,0.555555555555556
+"PE-Santa Cruz do Capibaribe",2020-04-28,"nowcast",0,2,0,0,0,0.594
+"PE-Santa Cruz do Capibaribe",2020-04-29,"nowcast",0,2,0,0,0,0.666
+"PE-Santa Cruz do Capibaribe",2020-04-30,"nowcast",0,2,0,1,1,0.759
+"PE-Santa Cruz do Capibaribe",2020-05-01,"nowcast",0,2,0,1,1,0.804
+"PE-Santa Cruz do Capibaribe",2020-05-02,"nowcast",0,2,0,1,1,0.853
+"PE-Santa Cruz do Capibaribe",2020-05-03,"nowcast",0,2,0,1,1,0.839
+"PE-Santa Cruz do Capibaribe",2020-05-04,"nowcast",0,2,0,1,1,0.809
+"PE-Santa Cruz do Capibaribe",2020-05-05,"nowcast",0,2,0,1,1,0.744
+"PE-Santa Cruz do Capibaribe",2020-05-06,"nowcast",0,2,0,0,0,0.661
+"PE-Santa Cruz do Capibaribe",2020-05-07,"nowcast",0,2,0,1,1,0.719
+"PE-Santa Cruz do Capibaribe",2020-05-08,"nowcast",0,2,0,1,1,0.71
+"PE-Santa Cruz do Capibaribe",2020-05-09,"nowcast",0,2,0,1,1,0.802
+"PE-Santa Cruz do Capibaribe",2020-05-10,"nowcast",0,2,0,1,1,0.833
+"PE-Santa Cruz do Capibaribe",2020-05-11,"nowcast",0,2,0,1,1,0.854
+"PE-Santa Cruz do Capibaribe",2020-05-12,"nowcast",0,2,0,1,1,0.847
+"PE-Santa Cruz do Capibaribe",2020-05-13,"nowcast",0,2,0,1,1,0.874
+"PE-Santa Cruz do Capibaribe",2020-05-14,"nowcast",0,2,0,1,1,0.85
+"PE-Santa Cruz do Capibaribe",2020-05-15,"nowcast",0,2,0,1,1,0.857
+"PE-Santa Cruz do Capibaribe",2020-05-16,"nowcast",0,2,0,1,1,0.806
+"PE-Santa Cruz do Capibaribe",2020-05-17,"nowcast",0,2,0,1,1,0.837
+"PE-Santa Cruz do Capibaribe",2020-05-18,"nowcast",0,2,0,1,1,0.924
+"PE-Santa Cruz do Capibaribe",2020-05-19,"nowcast",0,2,0,1,1,1.026
+"PE-Santa Cruz do Capibaribe",2020-05-20,"nowcast",0,3,0,1,1,1.234
+"PE-Santa Cruz do Capibaribe",2020-05-21,"nowcast",0,3,0,1,1,1.415
+"PE-Santa Cruz do Capibaribe",2020-05-22,"nowcast",0,3,0,1,1,1.674
+"PE-Santa Cruz do Capibaribe",2020-05-23,"nowcast",0,4,1,2,2,1.944
+"PE-Santa Cruz do Capibaribe",2020-05-24,"nowcast",0,4,0,2,2,2.299
+"PE-Santa Cruz do Capibaribe",2020-05-25,"nowcast",0,5,1,3,3,2.807
+"PE-Santa Cruz do Capibaribe",2020-05-26,"nowcast",1,6,1,3,3,3.217
+"PE-Santa Cruz do Capibaribe",2020-05-27,"nowcast",0,6,2,4,3,3.58
+"PE-Santa Cruz do Capibaribe",2020-05-28,"nowcast",1,7,3,5,4,4.247
+"PE-Santa Cruz do Capibaribe",2020-05-29,"nowcast",1,8,3,5,5,4.828
+"PE-Santa Cruz do Capibaribe",2020-05-30,"nowcast",1,8,2,5,5,5.319
+"PE-Santa Cruz do Capibaribe",2020-05-31,"nowcast",2,9,3,6,6,5.788
+"PE-Santa Cruz do Capibaribe",2020-06-01,"nowcast",2,10,4,7,6,6.316
+"PE-Santa Cruz do Capibaribe",2020-06-02,"nowcast",1,10,4,7,7,6.913
+"PE-Santa Cruz do Capibaribe",2020-06-03,"nowcast",3,12,6,9,8,7.871
+"PE-Santa Cruz do Capibaribe",2020-06-04,"nowcast",4,13,5,9,8,8.595
+"PE-Santa Cruz do Capibaribe",2020-06-05,"nowcast",3,14,6,10,9,9.638
+"PE-Santa Cruz do Capibaribe",2020-06-06,"nowcast",5,16,7,11,10,10.648
+"PE-Santa Cruz do Capibaribe",2020-06-07,"nowcast",5,17,7,12,12,11.864
+"PE-Santa Cruz do Capibaribe",2020-06-08,"nowcast",6,18,8,13,13,12.806
+"PE-Santa Cruz do Capibaribe",2020-06-09,"nowcast",8,20,10,15,14,14.029
+"PE-Santa Cruz do Capibaribe",2020-06-10,"nowcast",9,22,12,17,16,15.711
+"PE-Santa Cruz do Capibaribe",2020-06-11,"nowcast",9,24,12,18,17,17.15
+"PE-Santa Cruz do Capibaribe",2020-06-12,"nowcast",11,26,14,20,19,18.894
+"PE-Santa Cruz do Capibaribe",2020-06-13,"nowcast",12,28,16,22,21,21.054
+"PE-Santa Cruz do Capibaribe",2020-06-14,"nowcast",16,33,20,26,23,23.537
+"PE-Santa Cruz do Capibaribe",2020-06-15,"nowcast",17,35,20,27,26,25.931
+"PE-Santa Cruz do Capibaribe",2020-06-16,"nowcast",17,37,22,30,29,28.891
+"PE-Santa Cruz do Capibaribe",2020-06-17,"nowcast",21,41,26,34,32,31.968
+"PE-Santa Cruz do Capibaribe",2020-06-18,"nowcast",25,45,29,37,35,35.421
+"PE-Santa Cruz do Capibaribe",2020-06-19,"nowcast",28,47,35,42,38,38.24
+"PE-Santa Cruz do Capibaribe",2020-06-20,"nowcast",30,50,34,42,40,40.59
+"PE-Santa Cruz do Capibaribe",2020-06-21,"nowcast",33,53,36,44,43,42.694
+"PE-Santa Cruz do Capibaribe",2020-06-22,"nowcast",34,53,37,45,43,43.46
+"PE-Santa Cruz do Capibaribe",2020-06-23,"nowcast",32,53,41,49,44,43.657
+"PE-Santa Cruz do Capibaribe",2020-06-24,"nowcast",31,52,37,45,43,43.418
+"PE-Santa Cruz do Capibaribe",2020-06-25,"nowcast",33,53,38,46,44,44.014
+"PE-Santa Cruz do Capibaribe",2020-06-26,"nowcast",32,53,39,47,45,44.637
+"PE-Santa Cruz do Capibaribe",2020-06-27,"nowcast",34,56,42,50,46,46.374
+"PE-Santa Cruz do Capibaribe",2020-06-28,"nowcast",36,58,41,50,47,47.224
+"PE-Santa Cruz do Capibaribe",2020-06-29,"nowcast",37,59,41,50,48,47.628
+"PE-Santa Cruz do Capibaribe",2020-06-30,"nowcast",34,56,40,49,46,46.58
+"PE-Santa Cruz do Capibaribe",2020-07-01,"nowcast",35,56,42,50,45.5,45.747
+"PE-Santa Cruz do Capibaribe",2020-07-02,"nowcast",33,54,36,45,45,44.942
+"PE-Santa Cruz do Capibaribe",2020-07-03,"nowcast",32,53,39,47,44,43.941
+"PE-Santa Cruz do Capibaribe",2020-07-04,"nowcast",31,52,37,45,44,43.764
+"PE-Santa Cruz do Capibaribe",2020-07-05,"nowcast",33,53,37,45,43,43.042
+"PE-Santa Cruz do Capibaribe",2020-07-06,"nowcast",31,51,37,45,43,42.49
+"PE-Santa Cruz do Capibaribe",2020-07-07,"nowcast",31,51,36,44,42,42.092
+"PE-Santa Cruz do Capibaribe",2020-07-08,"nowcast",31,52,37,45,42,41.9
+"PE-Santa Cruz do Capibaribe",2020-07-09,"nowcast",32,52,36,44,42,42.328
+"PE-Santa Cruz do Capibaribe",2020-07-10,"nowcast",31,51,36,44,42,42.852
+"PE-Santa Cruz do Capibaribe",2020-07-11,"nowcast",32,52,37,45,43,43.162
+"PE-Santa Cruz do Capibaribe",2020-07-12,"nowcast",31,53,40,48,44,43.927
+"PE-Santa Cruz do Capibaribe",2020-07-13,"nowcast",31,53,39,47,44,44.209
+"PE-Santa Cruz do Capibaribe",2020-07-14,"nowcast",33,54,38,47,45,45.216
+"PE-Santa Cruz do Capibaribe",2020-07-15,"nowcast",34,55,42,50,46,46.372
+"PE-Santa Cruz do Capibaribe",2020-07-16,"nowcast",38,59,42,51,49,48.941
+"PE-Santa Cruz do Capibaribe",2020-07-17,"nowcast",38,61,45,53,50,50.776
+"PE-Santa Cruz do Capibaribe",2020-07-18,"nowcast",40,62,47,56,52,52.433
+"PE-Santa Cruz do Capibaribe",2020-07-19,"nowcast",38,62,47,56,52,52.6
+"PE-Santa Cruz do Capibaribe",2020-07-20,"nowcast",39,62,45,54,51,51.55
+"PE-Santa Cruz do Capibaribe",2020-07-21,"nowcast",39,60,42,51,49,49.285
+"PE-Santa Cruz do Capibaribe",2020-07-22,"nowcast",35,57,40,49,47,47.39
+"PE-Santa Cruz do Capibaribe",2020-07-23,"nowcast",36,57,39,48,46,46.004
+"PE-Santa Cruz do Capibaribe",2020-07-24,"nowcast",34,55,41,49,46,45.681
+"PE-Santa Cruz do Capibaribe",2020-07-25,"nowcast",33,54,39,47,45,45.235
+"PE-Santa Cruz do Capibaribe",2020-07-26,"nowcast",33,55,40,48,45,44.858
+"PE-Santa Cruz do Capibaribe",2020-07-27,"nowcast",33,55,37,46,44,44.1
+"PE-Santa Cruz do Capibaribe",2020-07-28,"nowcast",32,55,37,46,44,44.25
+"PE-Santa Cruz do Capibaribe",2020-07-29,"nowcast",32,56,39,48,44,44.746
 "PE-Santa Cruz do Capibaribe",2020-04-11,"observed",NA,NA,NA,NA,1,NA
 "PE-Santa Cruz do Capibaribe",2020-04-12,"observed",NA,NA,NA,NA,0,NA
 "PE-Santa Cruz do Capibaribe",2020-04-13,"observed",NA,NA,NA,NA,0,NA
@@ -8909,21 +8901,22 @@
 "PE-Santa Cruz do Capibaribe",2020-08-05,"observed",NA,NA,NA,NA,49,NA
 "PE-Santa Cruz do Capibaribe",2020-08-06,"observed",NA,NA,NA,NA,35,NA
 "PE-Santa Cruz do Capibaribe",2020-08-07,"observed",NA,NA,NA,NA,54,NA
-"PE-Santa Cruz do Capibaribe",2020-08-08,"observed",NA,NA,NA,NA,0,NA
-"PE-Santa Cruz do Capibaribe",2020-07-29,"forecast",24,56,31,44,41,40.935
-"PE-Santa Cruz do Capibaribe",2020-07-30,"forecast",23,57,29,43,40,40.5908
-"PE-Santa Cruz do Capibaribe",2020-07-31,"forecast",19,56,28,43,39,39.9786
-"PE-Santa Cruz do Capibaribe",2020-08-01,"forecast",17,57,27,43,39,39.3186
-"PE-Santa Cruz do Capibaribe",2020-08-02,"forecast",17,59,24,41,38,38.8146
-"PE-Santa Cruz do Capibaribe",2020-08-03,"forecast",14,57,25,42,37,38.3356
-"PE-Santa Cruz do Capibaribe",2020-08-04,"forecast",14,59,23,41,37,37.8858
-"PE-Santa Cruz do Capibaribe",2020-08-05,"forecast",10,58,21,40,36,37.4044
-"PE-Santa Cruz do Capibaribe",2020-08-06,"forecast",9,59,22,41,36,37.248
-"PE-Santa Cruz do Capibaribe",2020-08-07,"forecast",10,61,20,40,35,36.7358
-"PE-Santa Cruz do Capibaribe",2020-08-08,"forecast",8,59,19,39,34,36.0968
-"PE-Santa Cruz do Capibaribe",2020-08-09,"forecast",8,61,21,41,33,35.7626
-"PE-Santa Cruz do Capibaribe",2020-08-10,"forecast",5,60,17,38,33,35.7292
-"PE-Santa Cruz do Capibaribe",2020-08-11,"forecast",6,61,15,37,32,35.1208
+"PE-Santa Cruz do Capibaribe",2020-08-08,"observed",NA,NA,NA,NA,71,NA
+"PE-Santa Cruz do Capibaribe",2020-08-09,"observed",NA,NA,NA,NA,0,NA
+"PE-Santa Cruz do Capibaribe",2020-07-30,"forecast",26,59,34,47,44,44.335
+"PE-Santa Cruz do Capibaribe",2020-07-31,"forecast",24,60,34,48,43,44.01
+"PE-Santa Cruz do Capibaribe",2020-08-01,"forecast",23,62,30,46,43,43.9252
+"PE-Santa Cruz do Capibaribe",2020-08-02,"forecast",21,63,33,49,43,43.7586
+"PE-Santa Cruz do Capibaribe",2020-08-03,"forecast",21,65,31,48,42,43.7272
+"PE-Santa Cruz do Capibaribe",2020-08-04,"forecast",19,65,27,46,42,43.6454
+"PE-Santa Cruz do Capibaribe",2020-08-05,"forecast",17,66,27,46,42,43.4422
+"PE-Santa Cruz do Capibaribe",2020-08-06,"forecast",16,67,29,48,41,43.127
+"PE-Santa Cruz do Capibaribe",2020-08-07,"forecast",15,68,24,45,41,43.2146
+"PE-Santa Cruz do Capibaribe",2020-08-08,"forecast",14,69,24,46,41,43.139
+"PE-Santa Cruz do Capibaribe",2020-08-09,"forecast",11,69,23,45,40,42.8908
+"PE-Santa Cruz do Capibaribe",2020-08-10,"forecast",11,71,21,44,40,42.722
+"PE-Santa Cruz do Capibaribe",2020-08-11,"forecast",8,71,21,45,40,42.8028
+"PE-Santa Cruz do Capibaribe",2020-08-12,"forecast",7,72,24,48,39,42.6456
 "PE-São Bento do Una",2020-03-10,"nowcast",1,1,1,1,1,1
 "PE-São Bento do Una",2020-03-11,"nowcast",0,0,0,0,0,0
 "PE-São Bento do Una",2020-03-12,"nowcast",1,1,1,1,1,1
@@ -9469,153 +9462,160 @@
 "PE-São Caitano",2020-08-04,"forecast",0,96,4,32,29,45.6082
 "PE-São Caitano",2020-08-05,"forecast",0,103,0,30,30,51.123
 "PE-São Caitano",2020-08-06,"forecast",0,121,0,31,31,57.5396
-"PE-Serra Talhada",2020-03-04,"nowcast",1,1,1,1,1,1
+"PE-Serra Talhada",2020-02-27,"nowcast",1,1,1,1,1,1
+"PE-Serra Talhada",2020-02-28,"nowcast",0,0,0,0,0,0
+"PE-Serra Talhada",2020-02-29,"nowcast",0,0,0,0,0,0
+"PE-Serra Talhada",2020-03-01,"nowcast",0,0,0,0,0,0
+"PE-Serra Talhada",2020-03-02,"nowcast",0,0,0,0,0,0
+"PE-Serra Talhada",2020-03-03,"nowcast",0,0,0,0,0,0
+"PE-Serra Talhada",2020-03-04,"nowcast",0,1,0,1,0.5,0.5
 "PE-Serra Talhada",2020-03-05,"nowcast",0,0,0,0,0,0
-"PE-Serra Talhada",2020-03-06,"nowcast",0,0,0,0,0,0
-"PE-Serra Talhada",2020-03-07,"nowcast",0,0,0,0,0,0
+"PE-Serra Talhada",2020-03-06,"nowcast",0,1,0,1,0.5,0.5
+"PE-Serra Talhada",2020-03-07,"nowcast",0,1,0,0,0,0.25
 "PE-Serra Talhada",2020-03-08,"nowcast",0,0,0,0,0,0
-"PE-Serra Talhada",2020-03-09,"nowcast",0,1,0,1,0.5,0.5
-"PE-Serra Talhada",2020-03-10,"nowcast",0,1,1,1,1,0.6
-"PE-Serra Talhada",2020-03-11,"nowcast",0,1,0,0,0,0.444444444444444
-"PE-Serra Talhada",2020-03-12,"nowcast",0,1,0,0,0,0.181818181818182
-"PE-Serra Talhada",2020-03-13,"nowcast",0,1,0,0,0,0.466666666666667
-"PE-Serra Talhada",2020-03-14,"nowcast",0,1,0,0,0,0.210526315789474
-"PE-Serra Talhada",2020-03-15,"nowcast",0,1,0,0,0,0.217391304347826
-"PE-Serra Talhada",2020-03-16,"nowcast",0,1,0,0,0,0.266666666666667
-"PE-Serra Talhada",2020-03-17,"nowcast",0,1,0,0,0,0.275
-"PE-Serra Talhada",2020-03-18,"nowcast",0,1,0,0,0,0.285714285714286
-"PE-Serra Talhada",2020-03-19,"nowcast",0,1,0,0,0,0.274193548387097
-"PE-Serra Talhada",2020-03-20,"nowcast",0,1,0,0,0,0.333333333333333
-"PE-Serra Talhada",2020-03-21,"nowcast",0,1,0,0,0,0.277777777777778
-"PE-Serra Talhada",2020-03-22,"nowcast",0,1,0,0,0,0.307142857142857
-"PE-Serra Talhada",2020-03-23,"nowcast",0,1,0,0,0,0.248484848484848
-"PE-Serra Talhada",2020-03-24,"nowcast",0,1,0,0,0,0.316326530612245
-"PE-Serra Talhada",2020-03-25,"nowcast",0,1,0,0,0,0.315789473684211
-"PE-Serra Talhada",2020-03-26,"nowcast",0,1,0,0,0,0.31
-"PE-Serra Talhada",2020-03-27,"nowcast",0,1,0,0,0,0.340425531914894
-"PE-Serra Talhada",2020-03-28,"nowcast",0,1,0,0,0,0.296629213483146
-"PE-Serra Talhada",2020-03-29,"nowcast",0,1,0,0,0,0.316602316602317
-"PE-Serra Talhada",2020-03-30,"nowcast",0,1,0,0,0,0.346089850249584
-"PE-Serra Talhada",2020-03-31,"nowcast",0,1,0,0,0,0.397080291970803
-"PE-Serra Talhada",2020-04-01,"nowcast",0,1,0,0,0,0.377135348226018
-"PE-Serra Talhada",2020-04-02,"nowcast",0,1,0,0,0,0.382671480144404
-"PE-Serra Talhada",2020-04-03,"nowcast",0,1,0,0,0,0.409297052154195
-"PE-Serra Talhada",2020-04-04,"nowcast",0,1,0,0,0,0.416304347826087
-"PE-Serra Talhada",2020-04-05,"nowcast",0,1,0,0,0,0.456177402323126
-"PE-Serra Talhada",2020-04-06,"nowcast",0,1,0,0,0,0.480947476828012
-"PE-Serra Talhada",2020-04-07,"nowcast",0,1,0,0,0,0.483214649033571
-"PE-Serra Talhada",2020-04-08,"nowcast",0,1,0,0,0,0.518181818181818
-"PE-Serra Talhada",2020-04-09,"nowcast",0,1,0,0,0,0.491951710261569
-"PE-Serra Talhada",2020-04-10,"nowcast",0,1,0,0,0,0.485456369107322
-"PE-Serra Talhada",2020-04-11,"nowcast",0,1,0,0,0,0.502507522567703
-"PE-Serra Talhada",2020-04-12,"nowcast",0,1,0,0,0,0.493493493493493
-"PE-Serra Talhada",2020-04-13,"nowcast",0,1,0,0,0,0.516516516516517
-"PE-Serra Talhada",2020-04-14,"nowcast",0,1,0,0,0,0.545
-"PE-Serra Talhada",2020-04-15,"nowcast",0,2,0,0,0,0.612
-"PE-Serra Talhada",2020-04-16,"nowcast",0,2,0,0,0,0.644
-"PE-Serra Talhada",2020-04-17,"nowcast",0,2,0,1,1,0.741
-"PE-Serra Talhada",2020-04-18,"nowcast",0,2,0,1,1,0.781
-"PE-Serra Talhada",2020-04-19,"nowcast",0,2,0,1,1,0.81
-"PE-Serra Talhada",2020-04-20,"nowcast",0,2,0,1,1,0.89
-"PE-Serra Talhada",2020-04-21,"nowcast",0,2,0,1,1,0.912
-"PE-Serra Talhada",2020-04-22,"nowcast",0,2,0,1,1,0.914
-"PE-Serra Talhada",2020-04-23,"nowcast",0,2,0,1,1,0.943
-"PE-Serra Talhada",2020-04-24,"nowcast",0,2,0,1,1,1.006
-"PE-Serra Talhada",2020-04-25,"nowcast",0,2,0,1,1,0.97
-"PE-Serra Talhada",2020-04-26,"nowcast",0,2,0,1,1,1.032
-"PE-Serra Talhada",2020-04-27,"nowcast",0,3,0,1,1,1.18
-"PE-Serra Talhada",2020-04-28,"nowcast",0,3,0,1,1,1.2
-"PE-Serra Talhada",2020-04-29,"nowcast",0,3,0,1,1,1.271
-"PE-Serra Talhada",2020-04-30,"nowcast",0,3,0,1,1,1.572
-"PE-Serra Talhada",2020-05-01,"nowcast",0,4,1,2,2,1.699
-"PE-Serra Talhada",2020-05-02,"nowcast",0,4,1,2,2,1.928
-"PE-Serra Talhada",2020-05-03,"nowcast",0,4,1,2,2,2.167
-"PE-Serra Talhada",2020-05-04,"nowcast",0,4,0,2,2,2.383
-"PE-Serra Talhada",2020-05-05,"nowcast",0,5,0,2,2,2.632
-"PE-Serra Talhada",2020-05-06,"nowcast",0,5,1,3,3,3.021
-"PE-Serra Talhada",2020-05-07,"nowcast",1,6,1,3,3,3.375
-"PE-Serra Talhada",2020-05-08,"nowcast",1,7,2,4,4,3.924
-"PE-Serra Talhada",2020-05-09,"nowcast",1,7,3,5,4,4.241
-"PE-Serra Talhada",2020-05-10,"nowcast",0,7,3,5,5,4.852
-"PE-Serra Talhada",2020-05-11,"nowcast",1,8,2,5,5,5.376
-"PE-Serra Talhada",2020-05-12,"nowcast",2,9,3,6,6,5.804
-"PE-Serra Talhada",2020-05-13,"nowcast",3,10,3,6,6,6.316
-"PE-Serra Talhada",2020-05-14,"nowcast",2,10,4,7,7,6.594
-"PE-Serra Talhada",2020-05-15,"nowcast",2,10,4,7,7,6.948
-"PE-Serra Talhada",2020-05-16,"nowcast",2,10,4,7,7,6.91
-"PE-Serra Talhada",2020-05-17,"nowcast",3,10,4,7,7,6.808
-"PE-Serra Talhada",2020-05-18,"nowcast",3,11,4,7,7,6.737
-"PE-Serra Talhada",2020-05-19,"nowcast",2,10,4,7,7,6.771
-"PE-Serra Talhada",2020-05-20,"nowcast",2,10,4,7,7,6.867
-"PE-Serra Talhada",2020-05-21,"nowcast",2,10,4,7,7,6.94
-"PE-Serra Talhada",2020-05-22,"nowcast",3,11,5,8,7,7.324
-"PE-Serra Talhada",2020-05-23,"nowcast",4,12,5,8,8,7.755
-"PE-Serra Talhada",2020-05-24,"nowcast",4,12,5,8,8,7.89
-"PE-Serra Talhada",2020-05-25,"nowcast",4,12,6,9,8,8.225
-"PE-Serra Talhada",2020-05-26,"nowcast",3,12,6,9,8,8.563
-"PE-Serra Talhada",2020-05-27,"nowcast",4,13,6,9,8,8.707
-"PE-Serra Talhada",2020-05-28,"nowcast",4,13,7,10,9,9.059
-"PE-Serra Talhada",2020-05-29,"nowcast",5,14,7,10,9,9.42
-"PE-Serra Talhada",2020-05-30,"nowcast",4,14,7,10,9,9.656
-"PE-Serra Talhada",2020-05-31,"nowcast",5,14,8,11,10,9.962
-"PE-Serra Talhada",2020-06-01,"nowcast",4,14,6,10,10,10.217
-"PE-Serra Talhada",2020-06-02,"nowcast",5,15,6,10,10,10.205
-"PE-Serra Talhada",2020-06-03,"nowcast",5,15,7,11,10,10.502
-"PE-Serra Talhada",2020-06-04,"nowcast",6,16,7,11,11,10.909
-"PE-Serra Talhada",2020-06-05,"nowcast",5,16,8,12,12,11.614
-"PE-Serra Talhada",2020-06-06,"nowcast",7,17,9,13,12,12.117
-"PE-Serra Talhada",2020-06-07,"nowcast",7,18,11,15,13,13.289
-"PE-Serra Talhada",2020-06-08,"nowcast",7,19,10,15,14,14.135
-"PE-Serra Talhada",2020-06-09,"nowcast",8,21,11,16,15,15.581
-"PE-Serra Talhada",2020-06-10,"nowcast",10,23,13,18,17,16.621
-"PE-Serra Talhada",2020-06-11,"nowcast",11,24,14,19,18,18.08
-"PE-Serra Talhada",2020-06-12,"nowcast",11,25,16,21,19,18.873
-"PE-Serra Talhada",2020-06-13,"nowcast",11,25,16,21,19,19.168
-"PE-Serra Talhada",2020-06-14,"nowcast",13,26,15,20,19,19.223
-"PE-Serra Talhada",2020-06-15,"nowcast",11,25,16,21,19,19.494
-"PE-Serra Talhada",2020-06-16,"nowcast",12,26,16,21,19,19.536
-"PE-Serra Talhada",2020-06-17,"nowcast",12,26,17,22,20,19.958
-"PE-Serra Talhada",2020-06-18,"nowcast",13,27,17,22,21,20.728
-"PE-Serra Talhada",2020-06-19,"nowcast",14,29,17,23,22,21.92
-"PE-Serra Talhada",2020-06-20,"nowcast",16,31,18,24,23,23.043
-"PE-Serra Talhada",2020-06-21,"nowcast",17,31,19,25,24,23.986
-"PE-Serra Talhada",2020-06-22,"nowcast",17,33,21,27,25,25.062
-"PE-Serra Talhada",2020-06-23,"nowcast",19,34,21,27,26,26.223
-"PE-Serra Talhada",2020-06-24,"nowcast",18,34,22,28,27,26.969
-"PE-Serra Talhada",2020-06-25,"nowcast",19,35,22,28,27,27.422
-"PE-Serra Talhada",2020-06-26,"nowcast",19,35,22,29,28,28.056
-"PE-Serra Talhada",2020-06-27,"nowcast",19,35,25,31,28,28.249
-"PE-Serra Talhada",2020-06-28,"nowcast",18,34,23,29,27,27.442
-"PE-Serra Talhada",2020-06-29,"nowcast",18,34,22,28,26,26.618
-"PE-Serra Talhada",2020-06-30,"nowcast",18,34,23,29,26,26.025
-"PE-Serra Talhada",2020-07-01,"nowcast",16,33,19,26,25,25.67
-"PE-Serra Talhada",2020-07-02,"nowcast",17,33,21,27,25,25.529
-"PE-Serra Talhada",2020-07-03,"nowcast",18,33,22,28,26,25.787
-"PE-Serra Talhada",2020-07-04,"nowcast",18,33,21,27,25,25.468
-"PE-Serra Talhada",2020-07-05,"nowcast",17,33,21,27,25,25.479
-"PE-Serra Talhada",2020-07-06,"nowcast",16,33,22,28,25,25.227
-"PE-Serra Talhada",2020-07-07,"nowcast",15,32,19,26,25,24.744
-"PE-Serra Talhada",2020-07-08,"nowcast",15,34,19,27,26,26.049
-"PE-Serra Talhada",2020-07-09,"nowcast",18,38,22,30,28,28.211
-"PE-Serra Talhada",2020-07-10,"nowcast",20,41,25,33,31,31.608
-"PE-Serra Talhada",2020-07-11,"nowcast",23,45,29,38,35,35.212
-"PE-Serra Talhada",2020-07-12,"nowcast",26,49,32,41,39,39.22
-"PE-Serra Talhada",2020-07-13,"nowcast",32,55,38,47,43,43.656
-"PE-Serra Talhada",2020-07-14,"nowcast",34,59,40,50,48,48.167
-"PE-Serra Talhada",2020-07-15,"nowcast",40,65,48,58,53,53.323
-"PE-Serra Talhada",2020-07-16,"nowcast",45,69,53,62,58,58.235
-"PE-Serra Talhada",2020-07-17,"nowcast",49,76,56,67,63,63.069
-"PE-Serra Talhada",2020-07-18,"nowcast",52,79,62,72,67,67.606
-"PE-Serra Talhada",2020-07-19,"nowcast",57,84,67,77,71,71.595
-"PE-Serra Talhada",2020-07-20,"nowcast",61,87,67,78,74,74.335
-"PE-Serra Talhada",2020-07-21,"nowcast",60,87,69,79,74,74.44
-"PE-Serra Talhada",2020-07-22,"nowcast",58,85,66,77,74,74.472
-"PE-Serra Talhada",2020-07-23,"nowcast",59,87,65,77,74,74.392
-"PE-Serra Talhada",2020-07-24,"nowcast",60,88,69,80,74,74.435
-"PE-Serra Talhada",2020-07-25,"nowcast",59,88,65,77,74,74.384
-"PE-Serra Talhada",2020-07-26,"nowcast",57,86,64,75,73,72.481
-"PE-Serra Talhada",2020-07-27,"nowcast",55,85,60,72,69,69.347
-"PE-Serra Talhada",2020-07-28,"nowcast",50,79,56,67,65,65.433
+"PE-Serra Talhada",2020-03-09,"nowcast",0,1,0,0,0,0.428571428571429
+"PE-Serra Talhada",2020-03-10,"nowcast",0,1,0,0,0,0.3
+"PE-Serra Talhada",2020-03-11,"nowcast",0,1,0,0,0,0.307692307692308
+"PE-Serra Talhada",2020-03-12,"nowcast",0,1,0,0,0,0.133333333333333
+"PE-Serra Talhada",2020-03-13,"nowcast",0,1,0,0,0,0.176470588235294
+"PE-Serra Talhada",2020-03-14,"nowcast",0,1,0,0,0,0.157894736842105
+"PE-Serra Talhada",2020-03-15,"nowcast",0,1,0,0,0,0.25
+"PE-Serra Talhada",2020-03-16,"nowcast",0,1,0,0,0,0.294117647058824
+"PE-Serra Talhada",2020-03-17,"nowcast",0,1,0,0,0,0.225
+"PE-Serra Talhada",2020-03-18,"nowcast",0,1,0,0,0,0.283018867924528
+"PE-Serra Talhada",2020-03-19,"nowcast",0,1,0,0,0,0.26865671641791
+"PE-Serra Talhada",2020-03-20,"nowcast",0,1,0,0,0,0.238095238095238
+"PE-Serra Talhada",2020-03-21,"nowcast",0,1,0,0,0,0.415254237288136
+"PE-Serra Talhada",2020-03-22,"nowcast",0,1,0,0,0,0.287671232876712
+"PE-Serra Talhada",2020-03-23,"nowcast",0,1,0,0,0,0.27683615819209
+"PE-Serra Talhada",2020-03-24,"nowcast",0,1,0,0,0,0.241545893719807
+"PE-Serra Talhada",2020-03-25,"nowcast",0,1,0,0,0,0.35632183908046
+"PE-Serra Talhada",2020-03-26,"nowcast",0,1,0,0,0,0.270967741935484
+"PE-Serra Talhada",2020-03-27,"nowcast",0,1,0,0,0,0.298666666666667
+"PE-Serra Talhada",2020-03-28,"nowcast",0,1,0,0,0,0.288683602771363
+"PE-Serra Talhada",2020-03-29,"nowcast",0,1,0,0,0,0.303212851405622
+"PE-Serra Talhada",2020-03-30,"nowcast",0,1,0,0,0,0.366666666666667
+"PE-Serra Talhada",2020-03-31,"nowcast",0,1,0,0,0,0.405731523378582
+"PE-Serra Talhada",2020-04-01,"nowcast",0,1,0,0,0,0.365229110512129
+"PE-Serra Talhada",2020-04-02,"nowcast",0,1,0,0,0,0.393788819875776
+"PE-Serra Talhada",2020-04-03,"nowcast",0,1,0,0,0,0.428074245939675
+"PE-Serra Talhada",2020-04-04,"nowcast",0,1,0,0,0,0.447280799112098
+"PE-Serra Talhada",2020-04-05,"nowcast",0,1,0,0,0,0.453074433656958
+"PE-Serra Talhada",2020-04-06,"nowcast",0,1,0,0,0,0.501577287066246
+"PE-Serra Talhada",2020-04-07,"nowcast",0,1,0,0,0,0.487046632124352
+"PE-Serra Talhada",2020-04-08,"nowcast",0,1,0,0,0,0.496951219512195
+"PE-Serra Talhada",2020-04-09,"nowcast",0,1,0,0,0,0.48335015136226
+"PE-Serra Talhada",2020-04-10,"nowcast",0,1,0,0,0,0.518592964824121
+"PE-Serra Talhada",2020-04-11,"nowcast",0,1,0,0,0,0.510531594784353
+"PE-Serra Talhada",2020-04-12,"nowcast",0,1,0,0,0,0.487462387161484
+"PE-Serra Talhada",2020-04-13,"nowcast",0,1,0,0,0,0.496993987975952
+"PE-Serra Talhada",2020-04-14,"nowcast",0,2,0,0,0,0.536
+"PE-Serra Talhada",2020-04-15,"nowcast",0,2,0,0,0,0.619
+"PE-Serra Talhada",2020-04-16,"nowcast",0,2,0,0,0,0.679
+"PE-Serra Talhada",2020-04-17,"nowcast",0,2,0,1,1,0.705
+"PE-Serra Talhada",2020-04-18,"nowcast",0,2,0,1,1,0.772
+"PE-Serra Talhada",2020-04-19,"nowcast",0,2,0,1,1,0.763
+"PE-Serra Talhada",2020-04-20,"nowcast",0,2,0,1,1,0.87
+"PE-Serra Talhada",2020-04-21,"nowcast",0,2,0,1,1,0.956
+"PE-Serra Talhada",2020-04-22,"nowcast",0,2,0,1,1,0.892
+"PE-Serra Talhada",2020-04-23,"nowcast",0,2,0,1,1,0.97
+"PE-Serra Talhada",2020-04-24,"nowcast",0,2,0,1,1,0.932
+"PE-Serra Talhada",2020-04-25,"nowcast",0,2,0,1,1,1.027
+"PE-Serra Talhada",2020-04-26,"nowcast",0,2,0,1,1,1.001
+"PE-Serra Talhada",2020-04-27,"nowcast",0,2,0,1,1,1.064
+"PE-Serra Talhada",2020-04-28,"nowcast",0,3,0,1,1,1.234
+"PE-Serra Talhada",2020-04-29,"nowcast",0,3,0,1,1,1.345
+"PE-Serra Talhada",2020-04-30,"nowcast",0,3,0,1,1,1.54
+"PE-Serra Talhada",2020-05-01,"nowcast",0,3,1,2,2,1.673
+"PE-Serra Talhada",2020-05-02,"nowcast",0,4,1,2,2,1.889
+"PE-Serra Talhada",2020-05-03,"nowcast",0,4,1,2,2,2.151
+"PE-Serra Talhada",2020-05-04,"nowcast",0,4,0,2,2,2.397
+"PE-Serra Talhada",2020-05-05,"nowcast",0,5,1,3,3,2.75
+"PE-Serra Talhada",2020-05-06,"nowcast",0,5,1,3,3,2.911
+"PE-Serra Talhada",2020-05-07,"nowcast",0,6,1,3,3,3.311
+"PE-Serra Talhada",2020-05-08,"nowcast",0,6,2,4,4,3.824
+"PE-Serra Talhada",2020-05-09,"nowcast",1,7,3,5,4,4.341
+"PE-Serra Talhada",2020-05-10,"nowcast",1,8,3,5,5,4.868
+"PE-Serra Talhada",2020-05-11,"nowcast",1,8,2,5,5,5.339
+"PE-Serra Talhada",2020-05-12,"nowcast",2,9,3,6,6,5.858
+"PE-Serra Talhada",2020-05-13,"nowcast",2,10,3,6,6,6.434
+"PE-Serra Talhada",2020-05-14,"nowcast",2,10,4,7,7,6.683
+"PE-Serra Talhada",2020-05-15,"nowcast",2,10,4,7,7,6.841
+"PE-Serra Talhada",2020-05-16,"nowcast",2,10,4,7,7,7.058
+"PE-Serra Talhada",2020-05-17,"nowcast",2,10,4,7,7,6.895
+"PE-Serra Talhada",2020-05-18,"nowcast",2,10,4,7,7,6.813
+"PE-Serra Talhada",2020-05-19,"nowcast",2,10,4,7,7,6.9
+"PE-Serra Talhada",2020-05-20,"nowcast",2,10,4,7,7,6.817
+"PE-Serra Talhada",2020-05-21,"nowcast",3,11,4,7,7,7.02
+"PE-Serra Talhada",2020-05-22,"nowcast",2,10,4,7,7,7.219
+"PE-Serra Talhada",2020-05-23,"nowcast",3,11,5,8,7,7.588
+"PE-Serra Talhada",2020-05-24,"nowcast",3,12,6,9,8,8.111
+"PE-Serra Talhada",2020-05-25,"nowcast",3,12,6,9,8,8.321
+"PE-Serra Talhada",2020-05-26,"nowcast",3,12,7,10,8.5,8.591
+"PE-Serra Talhada",2020-05-27,"nowcast",4,13,5,9,9,8.958
+"PE-Serra Talhada",2020-05-28,"nowcast",4,13,7,10,9,9.018
+"PE-Serra Talhada",2020-05-29,"nowcast",5,14,5,9,9,9.383
+"PE-Serra Talhada",2020-05-30,"nowcast",5,14,8,11,10,9.851
+"PE-Serra Talhada",2020-05-31,"nowcast",4,14,6,10,10,9.888
+"PE-Serra Talhada",2020-06-01,"nowcast",5,14,8,11,10,10.057
+"PE-Serra Talhada",2020-06-02,"nowcast",4,14,6,10,10,10.045
+"PE-Serra Talhada",2020-06-03,"nowcast",5,15,7,11,10,10.397
+"PE-Serra Talhada",2020-06-04,"nowcast",5,16,8,12,11,11.091
+"PE-Serra Talhada",2020-06-05,"nowcast",6,17,8,12,12,11.727
+"PE-Serra Talhada",2020-06-06,"nowcast",5,17,10,14,12,12.371
+"PE-Serra Talhada",2020-06-07,"nowcast",7,19,9,14,13,13.255
+"PE-Serra Talhada",2020-06-08,"nowcast",7,19,10,15,14,14.356
+"PE-Serra Talhada",2020-06-09,"nowcast",9,21,11,16,15,15.431
+"PE-Serra Talhada",2020-06-10,"nowcast",11,23,13,18,17,16.778
+"PE-Serra Talhada",2020-06-11,"nowcast",10,24,13,18,18,17.958
+"PE-Serra Talhada",2020-06-12,"nowcast",10,24,15,20,19,18.871
+"PE-Serra Talhada",2020-06-13,"nowcast",11,25,16,21,19,19.411
+"PE-Serra Talhada",2020-06-14,"nowcast",13,26,17,22,19,19.258
+"PE-Serra Talhada",2020-06-15,"nowcast",11,25,14,20,19,19.264
+"PE-Serra Talhada",2020-06-16,"nowcast",11,25,16,21,19,19.304
+"PE-Serra Talhada",2020-06-17,"nowcast",13,27,17,22,20,19.872
+"PE-Serra Talhada",2020-06-18,"nowcast",13,28,16,22,21,20.811
+"PE-Serra Talhada",2020-06-19,"nowcast",13,28,16,22,22,21.928
+"PE-Serra Talhada",2020-06-20,"nowcast",16,30,18,24,23,23.044
+"PE-Serra Talhada",2020-06-21,"nowcast",16,31,20,26,24,24.22
+"PE-Serra Talhada",2020-06-22,"nowcast",17,32,21,27,25,25.406
+"PE-Serra Talhada",2020-06-23,"nowcast",18,34,22,28,26,26.27
+"PE-Serra Talhada",2020-06-24,"nowcast",18,34,23,29,27,26.982
+"PE-Serra Talhada",2020-06-25,"nowcast",19,36,22,29,27,27.263
+"PE-Serra Talhada",2020-06-26,"nowcast",19,35,24,30,28,27.871
+"PE-Serra Talhada",2020-06-27,"nowcast",19,35,23,29,27,27.702
+"PE-Serra Talhada",2020-06-28,"nowcast",18,35,23,29,28,27.506
+"PE-Serra Talhada",2020-06-29,"nowcast",18,34,23,29,27,26.798
+"PE-Serra Talhada",2020-06-30,"nowcast",17,33,23,29,26,25.838
+"PE-Serra Talhada",2020-07-01,"nowcast",18,33,20,26,25,25.358
+"PE-Serra Talhada",2020-07-02,"nowcast",17,33,22,28,25,25.57
+"PE-Serra Talhada",2020-07-03,"nowcast",17,32,21,27,25,25.555
+"PE-Serra Talhada",2020-07-04,"nowcast",16,32,21,27,25,25.441
+"PE-Serra Talhada",2020-07-05,"nowcast",17,33,19,26,25,25.271
+"PE-Serra Talhada",2020-07-06,"nowcast",16,33,19,26,24,24.845
+"PE-Serra Talhada",2020-07-07,"nowcast",16,34,21,28,25,25.175
+"PE-Serra Talhada",2020-07-08,"nowcast",16,34,21,28,26,26.223
+"PE-Serra Talhada",2020-07-09,"nowcast",17,38,21,30,28,28.345
+"PE-Serra Talhada",2020-07-10,"nowcast",19,41,27,35,31,31.423
+"PE-Serra Talhada",2020-07-11,"nowcast",23,47,28,38,35,35.423
+"PE-Serra Talhada",2020-07-12,"nowcast",28,52,34,43,39,39.361
+"PE-Serra Talhada",2020-07-13,"nowcast",33,57,37,47,44,43.846
+"PE-Serra Talhada",2020-07-14,"nowcast",35,60,44,54,48,48.201
+"PE-Serra Talhada",2020-07-15,"nowcast",39,65,49,59,53,53.286
+"PE-Serra Talhada",2020-07-16,"nowcast",43,71,52,63,58,57.912
+"PE-Serra Talhada",2020-07-17,"nowcast",49,76,56,67,63.5,63.61
+"PE-Serra Talhada",2020-07-18,"nowcast",54,80,64,74,68,68.147
+"PE-Serra Talhada",2020-07-19,"nowcast",59,85,62,73,71,71.343
+"PE-Serra Talhada",2020-07-20,"nowcast",59,86,68,78,74,74.193
+"PE-Serra Talhada",2020-07-21,"nowcast",61,88,70,81,76,75.477
+"PE-Serra Talhada",2020-07-22,"nowcast",60,87,69,79,75,74.878
+"PE-Serra Talhada",2020-07-23,"nowcast",59,86,68,79,75,74.682
+"PE-Serra Talhada",2020-07-24,"nowcast",59,86,67,78,74,74.275
+"PE-Serra Talhada",2020-07-25,"nowcast",60,88,66,78,74,74.362
+"PE-Serra Talhada",2020-07-26,"nowcast",56,86,65,77,73,73.067
+"PE-Serra Talhada",2020-07-27,"nowcast",55,84,61,73,70,70.188
+"PE-Serra Talhada",2020-07-28,"nowcast",52,81,60,71,67,66.756
+"PE-Serra Talhada",2020-07-29,"nowcast",48,77,56,67,64,64.265
 "PE-Serra Talhada",2020-04-10,"observed",NA,NA,NA,NA,1,NA
 "PE-Serra Talhada",2020-04-11,"observed",NA,NA,NA,NA,0,NA
 "PE-Serra Talhada",2020-04-12,"observed",NA,NA,NA,NA,0,NA
@@ -9736,21 +9736,22 @@
 "PE-Serra Talhada",2020-08-05,"observed",NA,NA,NA,NA,110,NA
 "PE-Serra Talhada",2020-08-06,"observed",NA,NA,NA,NA,32,NA
 "PE-Serra Talhada",2020-08-07,"observed",NA,NA,NA,NA,85,NA
-"PE-Serra Talhada",2020-08-08,"observed",NA,NA,NA,NA,0,NA
-"PE-Serra Talhada",2020-07-29,"forecast",41,93,53,74,68,69.1626
-"PE-Serra Talhada",2020-07-30,"forecast",35,96,53,77,68,68.7666
-"PE-Serra Talhada",2020-07-31,"forecast",32,101,53,80,68,69.5532
-"PE-Serra Talhada",2020-08-01,"forecast",32,107,51,81,68,69.799
-"PE-Serra Talhada",2020-08-02,"forecast",25,109,49,82,68,69.8588
-"PE-Serra Talhada",2020-08-03,"forecast",24,113,42,78,68,69.1952
-"PE-Serra Talhada",2020-08-04,"forecast",21,118,38,77,67,70.2304
-"PE-Serra Talhada",2020-08-05,"forecast",16,120,40,81,67,69.9684
-"PE-Serra Talhada",2020-08-06,"forecast",12,123,39,82,66,70.6514
-"PE-Serra Talhada",2020-08-07,"forecast",10,124,34,80,66,70.712
-"PE-Serra Talhada",2020-08-08,"forecast",9,132,29,77,66,71.4002
-"PE-Serra Talhada",2020-08-09,"forecast",0,126,28,79,66,71.5072
-"PE-Serra Talhada",2020-08-10,"forecast",0,132,25,78,65,72.6744
-"PE-Serra Talhada",2020-08-11,"forecast",0,133,22,77,65,72.5122
+"PE-Serra Talhada",2020-08-08,"observed",NA,NA,NA,NA,76,NA
+"PE-Serra Talhada",2020-08-09,"observed",NA,NA,NA,NA,0,NA
+"PE-Serra Talhada",2020-07-30,"forecast",41,91,52,72,66,66.9746
+"PE-Serra Talhada",2020-07-31,"forecast",37,95,51,74,65,66.2706
+"PE-Serra Talhada",2020-08-01,"forecast",34,101,52,78,65,66.5376
+"PE-Serra Talhada",2020-08-02,"forecast",25,100,44,73,64,65.615
+"PE-Serra Talhada",2020-08-03,"forecast",27,107,41,72,63,65.6774
+"PE-Serra Talhada",2020-08-04,"forecast",21,109,38,73,63,65.1424
+"PE-Serra Talhada",2020-08-05,"forecast",14,109,36,74,62,64.9072
+"PE-Serra Talhada",2020-08-06,"forecast",13,114,35,74,62,64.6964
+"PE-Serra Talhada",2020-08-07,"forecast",6,111,36,76,60,64.112
+"PE-Serra Talhada",2020-08-08,"forecast",0,110,26,69,59,63.822
+"PE-Serra Talhada",2020-08-09,"forecast",0,114,25,70,58,63.4916
+"PE-Serra Talhada",2020-08-10,"forecast",0,115,21,68,57,63.182
+"PE-Serra Talhada",2020-08-11,"forecast",0,116,23,70,56,63.0776
+"PE-Serra Talhada",2020-08-12,"forecast",0,118,22,71,55,62.5148
 "PE-Surubim",2020-03-14,"nowcast",1,1,1,1,1,1
 "PE-Surubim",2020-03-15,"nowcast",0,0,0,0,0,0
 "PE-Surubim",2020-03-16,"nowcast",0,1,1,1,1,0.75

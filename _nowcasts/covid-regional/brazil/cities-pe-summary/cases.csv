@@ -247,19 +247,8 @@ PE-Águas Belas,2020-07-20,8,2,12,4,8,0.88
 PE-Águas Belas,2020-07-21,8,4,14,5,9,0.85
 PE-Águas Belas,2020-07-22,9,4,15,6,10,0.81
 PE-Águas Belas,2020-07-23,10,3,16,5,10,0.75
-PE-Araripina,2020-03-20,1,1,1,1,1,1
-PE-Araripina,2020-03-21,0,0,0,0,0,1
-PE-Araripina,2020-03-22,0,0,0,0,0,1
-PE-Araripina,2020-03-23,0,0,0,0,0,1
-PE-Araripina,2020-03-24,0,0,0,0,0,1
-PE-Araripina,2020-03-25,0,0,0,0,0,1
-PE-Araripina,2020-03-26,0,0,0,0,0,1
-PE-Araripina,2020-03-27,0,0,0,0,0,1
-PE-Araripina,2020-03-28,0.5,0,1,0,1,1
-PE-Araripina,2020-03-29,0,0,0,0,0,1
-PE-Araripina,2020-03-30,1,1,1,1,1,1
-PE-Araripina,2020-03-31,1,0,1,1,1,1
-PE-Araripina,2020-04-01,0,0,1,0,0,1
+PE-Araripina,2020-03-31,1,1,1,1,1,1
+PE-Araripina,2020-04-01,1,0,1,1,1,1
 PE-Araripina,2020-04-02,0,0,1,0,0,1
 PE-Araripina,2020-04-03,0,0,1,0,0,1
 PE-Araripina,2020-04-04,0,0,1,0,0,1
@@ -294,7 +283,7 @@ PE-Araripina,2020-05-02,1,0,3,0,1,1
 PE-Araripina,2020-05-03,1,0,3,0,1,1
 PE-Araripina,2020-05-04,1,0,3,0,1,1
 PE-Araripina,2020-05-05,1,0,3,0,1,1
-PE-Araripina,2020-05-06,1.5,0,3,1,2,1
+PE-Araripina,2020-05-06,1,0,3,0,1,1
 PE-Araripina,2020-05-07,1,0,3,0,1,1
 PE-Araripina,2020-05-08,1,0,3,0,1,1
 PE-Araripina,2020-05-09,1,0,3,0,1,1
@@ -302,8 +291,8 @@ PE-Araripina,2020-05-10,1,0,3,0,1,1
 PE-Araripina,2020-05-11,1,0,3,0,1,1
 PE-Araripina,2020-05-12,2,0,4,1,2,1
 PE-Araripina,2020-05-13,2,0,4,1,2,1
-PE-Araripina,2020-05-14,2,0,5,0,2,1
-PE-Araripina,2020-05-15,2,0,5,0,2,1
+PE-Araripina,2020-05-14,2,0,4,1,2,1
+PE-Araripina,2020-05-15,2,0,5,2,3,1
 PE-Araripina,2020-05-16,3,0,5,1,3,1
 PE-Araripina,2020-05-17,3,0,5,1,3,1
 PE-Araripina,2020-05-18,3,1,6,1,3,1
@@ -316,68 +305,69 @@ PE-Araripina,2020-05-24,4,0,6,2,4,1
 PE-Araripina,2020-05-25,4,0,6,2,4,1
 PE-Araripina,2020-05-26,4,1,7,2,4,1
 PE-Araripina,2020-05-27,4,1,7,2,4,1
-PE-Araripina,2020-05-28,4,1,7,2,4,1
-PE-Araripina,2020-05-29,4,1,7,2,4,1
+PE-Araripina,2020-05-28,4,0,6,2,4,1
+PE-Araripina,2020-05-29,4,0,6,2,4,1
 PE-Araripina,2020-05-30,4,0,6,2,4,1
 PE-Araripina,2020-05-31,4,0,6,2,4,1
-PE-Araripina,2020-06-01,4,0,6,2,4,1
+PE-Araripina,2020-06-01,4,1,7,2,4,1
 PE-Araripina,2020-06-02,4,1,7,2,4,1
 PE-Araripina,2020-06-03,4,1,7,3,5,1
-PE-Araripina,2020-06-04,4,1,7,3,5,1
-PE-Araripina,2020-06-05,5,2,8,3,5,1
-PE-Araripina,2020-06-06,5,1,8,4,6,1
+PE-Araripina,2020-06-04,5,2,8,3,5,1
+PE-Araripina,2020-06-05,5,1,8,2,5,1
+PE-Araripina,2020-06-06,5,1,8,2,5,1
 PE-Araripina,2020-06-07,6,2,9,3,6,1
-PE-Araripina,2020-06-08,6,3,10,4,7,1
+PE-Araripina,2020-06-08,6,3,10,3,6,1
 PE-Araripina,2020-06-09,7,2,10,4,7,1
-PE-Araripina,2020-06-10,7,3,11,5,8,1
-PE-Araripina,2020-06-11,7.5,3,11,5,8,1
-PE-Araripina,2020-06-12,8,3,12,5,8,1
-PE-Araripina,2020-06-13,7,4,12,5,8,1
+PE-Araripina,2020-06-10,7,2,11,5,8,1
+PE-Araripina,2020-06-11,7,3,11,5,8,1
+PE-Araripina,2020-06-12,8,4,12,5,8,1
+PE-Araripina,2020-06-13,8,4,12,5,8,1
 PE-Araripina,2020-06-14,7,3,11,5,8,1
-PE-Araripina,2020-06-15,7,3,11,4,7,1
-PE-Araripina,2020-06-16,6,3,10,3,6,1
-PE-Araripina,2020-06-17,6,2,10,4,7,1
-PE-Araripina,2020-06-18,6,3,10,3,6,1
-PE-Araripina,2020-06-19,6,2,9,3,6,1
-PE-Araripina,2020-06-20,6,2,9,3,6,1
+PE-Araripina,2020-06-15,7,2,10,4,7,1
+PE-Araripina,2020-06-16,7,3,10,4,7,1
+PE-Araripina,2020-06-17,6,3,10,4,7,1
+PE-Araripina,2020-06-18,6,2,9,3,6,1
+PE-Araripina,2020-06-19,6,1,9,3,6,1
+PE-Araripina,2020-06-20,6,3,10,3,6,1
 PE-Araripina,2020-06-21,6,2,9,3,6,1
 PE-Araripina,2020-06-22,6,2,9,3,6,1
-PE-Araripina,2020-06-23,6,1,9,3,6,1
+PE-Araripina,2020-06-23,6,3,10,5,7,1
 PE-Araripina,2020-06-24,6,2,10,3,6,1
 PE-Araripina,2020-06-25,6,2,10,4,7,1
-PE-Araripina,2020-06-26,6,2,10,4,7,1
-PE-Araripina,2020-06-27,7,3,11,4,7,1
-PE-Araripina,2020-06-28,7,2,11,5,8,1
+PE-Araripina,2020-06-26,7,2,10,4,7,1
+PE-Araripina,2020-06-27,7,3,11,5,8,1
+PE-Araripina,2020-06-28,7.5,2,11,5,8,1
 PE-Araripina,2020-06-29,8,3,12,6,9,1
-PE-Araripina,2020-06-30,8,4,13,7,10,1
-PE-Araripina,2020-07-01,9,5,14,5,9,1
-PE-Araripina,2020-07-02,9,4,14,7,10,1
-PE-Araripina,2020-07-03,10,6,16,7,11,1
-PE-Araripina,2020-07-04,11,5,16,8,12,1
+PE-Araripina,2020-06-30,8,3,12,6,9,1
+PE-Araripina,2020-07-01,9,3,13,5,9,1
+PE-Araripina,2020-07-02,9,4,14,6,10,1
+PE-Araripina,2020-07-03,10,4,15,7,11,1
+PE-Araripina,2020-07-04,11,6,16,8,12,1
 PE-Araripina,2020-07-05,12,6,17,9,13,1
-PE-Araripina,2020-07-06,13,7,18,9,13,1
-PE-Araripina,2020-07-07,13,8,19,11,15,1
-PE-Araripina,2020-07-08,15,8,20,10,15,1
-PE-Araripina,2020-07-09,15,9,21,13,17,1
+PE-Araripina,2020-07-06,13,7,18,10,14,1
+PE-Araripina,2020-07-07,14,8,19,9,14,1
+PE-Araripina,2020-07-08,15,8,20,11,16,1
+PE-Araripina,2020-07-09,15,8,21,11,16,1
 PE-Araripina,2020-07-10,16,9,22,12,17,1
-PE-Araripina,2020-07-11,17,10,24,13,18,1
-PE-Araripina,2020-07-12,18,10,24,15,20,1
-PE-Araripina,2020-07-13,19,12,26,16,21,1
-PE-Araripina,2020-07-14,21,13,27,15,21,0.99
-PE-Araripina,2020-07-15,22,14,29,17,23,0.99
-PE-Araripina,2020-07-16,23,15,30,18,24,0.99
-PE-Araripina,2020-07-17,24,15,31,20,26,0.99
-PE-Araripina,2020-07-18,25,16,32,22,28,0.98
-PE-Araripina,2020-07-19,26,16,32,21,27,0.98
-PE-Araripina,2020-07-20,25,17,33,21,27,0.97
-PE-Araripina,2020-07-21,25,18,33,21,27,0.97
-PE-Araripina,2020-07-22,26,16,33,20,27,0.96
-PE-Araripina,2020-07-23,27,18,34,22,28,0.94
-PE-Araripina,2020-07-24,27,19,35,21,28,0.93
-PE-Araripina,2020-07-25,27,18,36,24,31,0.91
-PE-Araripina,2020-07-26,28,19,36,24,30,0.88
-PE-Araripina,2020-07-27,27.5,19,37,22,29,0.85
-PE-Araripina,2020-07-28,28,20,38,23,30,0.81
+PE-Araripina,2020-07-11,17,9,23,14,19,1
+PE-Araripina,2020-07-12,18,12,25,14,19,1
+PE-Araripina,2020-07-13,20,12,26,17,22,1
+PE-Araripina,2020-07-14,21,13,28,16,22,1
+PE-Araripina,2020-07-15,22,15,29,19,24,0.99
+PE-Araripina,2020-07-16,23,16,31,18,24,0.99
+PE-Araripina,2020-07-17,24,16,31,20,26,0.99
+PE-Araripina,2020-07-18,25,17,32,20,26,0.99
+PE-Araripina,2020-07-19,26,18,34,21,27,0.98
+PE-Araripina,2020-07-20,26,18,34,22,28,0.98
+PE-Araripina,2020-07-21,26,16,33,22,28,0.97
+PE-Araripina,2020-07-22,26,18,34,22,28,0.96
+PE-Araripina,2020-07-23,27,19,36,22,29,0.95
+PE-Araripina,2020-07-24,28,20,37,23,30,0.94
+PE-Araripina,2020-07-25,29,20,37,23,30,0.93
+PE-Araripina,2020-07-26,29,19,37,23,30,0.91
+PE-Araripina,2020-07-27,30,20,38,25,32,0.88
+PE-Araripina,2020-07-28,31,21,40,24,32,0.84
+PE-Araripina,2020-07-29,32,22,44,27,35,0.8
 PE-Arcoverde,2020-02-27,1,1,1,1,1,1
 PE-Arcoverde,2020-02-28,0,0,0,0,0,1
 PE-Arcoverde,2020-02-29,0,0,0,0,0,1
@@ -1810,17 +1800,12 @@ PE-Carpina,2020-07-19,7,2,11,5,8,0.88
 PE-Carpina,2020-07-20,8,3,13,5,9,0.84
 PE-Carpina,2020-07-21,9,3,15,5,9,0.8
 PE-Carpina,2020-07-22,10,3,16,5,10,0.74
-PE-Caruaru,2020-02-16,1,1,1,1,1,1
-PE-Caruaru,2020-02-17,1,0,1,1,1,1
-PE-Caruaru,2020-02-18,0,0,0,0,0,1
-PE-Caruaru,2020-02-19,0,0,0,0,0,1
-PE-Caruaru,2020-02-20,0,0,1,0,0,1
-PE-Caruaru,2020-02-21,0,0,1,0,0,1
+PE-Caruaru,2020-02-21,1,1,1,1,1,1
 PE-Caruaru,2020-02-22,1,0,1,1,1,1
-PE-Caruaru,2020-02-23,0,0,1,0,0,1
+PE-Caruaru,2020-02-23,1,0,1,1,1,1
 PE-Caruaru,2020-02-24,0,0,1,0,0,1
 PE-Caruaru,2020-02-25,0,0,1,0,0,1
-PE-Caruaru,2020-02-26,0,0,1,0,0,1
+PE-Caruaru,2020-02-26,1,0,1,1,1,1
 PE-Caruaru,2020-02-27,0,0,1,0,0,1
 PE-Caruaru,2020-02-28,0,0,1,0,0,1
 PE-Caruaru,2020-02-29,0,0,1,0,0,1
@@ -1852,7 +1837,7 @@ PE-Caruaru,2020-03-25,0,0,1,0,0,1
 PE-Caruaru,2020-03-26,0,0,1,0,0,1
 PE-Caruaru,2020-03-27,0,0,1,0,0,1
 PE-Caruaru,2020-03-28,0,0,1,0,0,1
-PE-Caruaru,2020-03-29,0,0,2,0,0,1
+PE-Caruaru,2020-03-29,0,0,1,0,0,1
 PE-Caruaru,2020-03-30,0,0,2,0,0,1
 PE-Caruaru,2020-03-31,1,0,2,0,1,1
 PE-Caruaru,2020-04-01,1,0,2,0,1,1
@@ -1872,108 +1857,109 @@ PE-Caruaru,2020-04-14,1,0,3,0,1,1
 PE-Caruaru,2020-04-15,1,0,3,0,1,1
 PE-Caruaru,2020-04-16,1,0,3,0,1,1
 PE-Caruaru,2020-04-17,2,0,4,1,2,1
-PE-Caruaru,2020-04-18,2,0,4,0,2,1
+PE-Caruaru,2020-04-18,2,0,4,1,2,1
 PE-Caruaru,2020-04-19,2,0,4,0,2,1
 PE-Caruaru,2020-04-20,2,0,5,0,2,1
 PE-Caruaru,2020-04-21,3,0,5,1,3,1
-PE-Caruaru,2020-04-22,3,0,5,1,3,1
-PE-Caruaru,2020-04-23,3,1,6,2,4,1
-PE-Caruaru,2020-04-24,4,1,7,2,4,1
+PE-Caruaru,2020-04-22,3,1,6,1,3,1
+PE-Caruaru,2020-04-23,3,0,6,2,4,1
+PE-Caruaru,2020-04-24,4,0,6,2,4,1
 PE-Caruaru,2020-04-25,4,1,7,2,4,1
-PE-Caruaru,2020-04-26,5,1,8,4,6,1
+PE-Caruaru,2020-04-26,4,1,8,3,5,1
 PE-Caruaru,2020-04-27,5,1,8,2,5,1
-PE-Caruaru,2020-04-28,5,2,9,2,5,1
-PE-Caruaru,2020-04-29,6,2,10,4,7,1
-PE-Caruaru,2020-04-30,7,3,11,5,8,1
-PE-Caruaru,2020-05-01,8,3,12,5,8,1
+PE-Caruaru,2020-04-28,6,2,9,3,6,1
+PE-Caruaru,2020-04-29,6,2,10,3,6,1
+PE-Caruaru,2020-04-30,7,2,10,4,7,1
+PE-Caruaru,2020-05-01,7,3,12,5,8,1
 PE-Caruaru,2020-05-02,8,3,12,6,9,1
-PE-Caruaru,2020-05-03,9,4,13,7,10,1
-PE-Caruaru,2020-05-04,10,4,14,6,10,1
+PE-Caruaru,2020-05-03,9,5,14,7,10,1
+PE-Caruaru,2020-05-04,10,4,14,7,11,1
 PE-Caruaru,2020-05-05,11,5,15,7,11,1
-PE-Caruaru,2020-05-06,12,6,17,9,13,1
-PE-Caruaru,2020-05-07,13,7,18,10,14,1
-PE-Caruaru,2020-05-08,13,6,18,9,14,1
-PE-Caruaru,2020-05-09,14,9,21,10,15,1
+PE-Caruaru,2020-05-06,12,5,16,8,12,1
+PE-Caruaru,2020-05-07,12,7,18,9,13,1
+PE-Caruaru,2020-05-08,14,8,19,11,15,1
+PE-Caruaru,2020-05-09,14.5,8,20,10,15,1
 PE-Caruaru,2020-05-10,15,9,21,11,16,1
-PE-Caruaru,2020-05-11,16,9,22,12,17,1
+PE-Caruaru,2020-05-11,16,10,22,11,16,1
 PE-Caruaru,2020-05-12,17,10,23,13,18,1
 PE-Caruaru,2020-05-13,17,11,23,13,18,1
-PE-Caruaru,2020-05-14,18,9,23,14,19,1
-PE-Caruaru,2020-05-15,18,11,24,14,19,1
-PE-Caruaru,2020-05-16,18,11,24,15,20,1
-PE-Caruaru,2020-05-17,19,12,26,16,21,1
+PE-Caruaru,2020-05-14,18,10,23,14,19,1
+PE-Caruaru,2020-05-15,18,10,23,14,19,1
+PE-Caruaru,2020-05-16,19,12,25,15,20,1
+PE-Caruaru,2020-05-17,19,11,25,16,21,1
 PE-Caruaru,2020-05-18,19,13,26,16,21,1
 PE-Caruaru,2020-05-19,20,12,26,17,22,1
-PE-Caruaru,2020-05-20,20,14,27,17,22,1
-PE-Caruaru,2020-05-21,21,15,29,16,22,1
-PE-Caruaru,2020-05-22,22,14,29,17,23,1
-PE-Caruaru,2020-05-23,23,14,30,18,24,1
-PE-Caruaru,2020-05-24,24,16,32,21,27,1
-PE-Caruaru,2020-05-25,26,18,34,19,26,1
-PE-Caruaru,2020-05-26,27,18,35,24,30,1
-PE-Caruaru,2020-05-27,28,20,37,23,30,1
-PE-Caruaru,2020-05-28,30,20,38,25,32,1
-PE-Caruaru,2020-05-29,31,21,40,26,33,1
-PE-Caruaru,2020-05-30,33,23,42,28,35,1
-PE-Caruaru,2020-05-31,34,26,44,28,36,1
-PE-Caruaru,2020-06-01,36,25,46,31,39,1
-PE-Caruaru,2020-06-02,39,27,49,34,42,1
-PE-Caruaru,2020-06-03,41,29,51,35,44,1
-PE-Caruaru,2020-06-04,45,32,55,38,47,1
-PE-Caruaru,2020-06-05,47,36,59,41,50,1
-PE-Caruaru,2020-06-06,51,38,61,44,53,1
-PE-Caruaru,2020-06-07,53,42,66,47,56,1
+PE-Caruaru,2020-05-20,21,14,28,15,21,1
+PE-Caruaru,2020-05-21,21,13,28,16,22,1
+PE-Caruaru,2020-05-22,22,15,29,17,23,1
+PE-Caruaru,2020-05-23,23,14,30,17,24,1
+PE-Caruaru,2020-05-24,24,15,32,21,27,1
+PE-Caruaru,2020-05-25,26,18,34,20,27,1
+PE-Caruaru,2020-05-26,27,19,36,21,28,1
+PE-Caruaru,2020-05-27,28,19,36,26,32,1
+PE-Caruaru,2020-05-28,30,20,38,24,31,1
+PE-Caruaru,2020-05-29,31,22,40,27,34,1
+PE-Caruaru,2020-05-30,32.5,24,43,25,33,1
+PE-Caruaru,2020-05-31,35,23,43,31,38,1
+PE-Caruaru,2020-06-01,36,25,45,30,38,1
+PE-Caruaru,2020-06-02,38,28,49,32,40,1
+PE-Caruaru,2020-06-03,41,30,51,37,45,1
+PE-Caruaru,2020-06-04,44,33,54,37,46,1
+PE-Caruaru,2020-06-05,47,36,58,42,51,1
+PE-Caruaru,2020-06-06,51,38,62,44,53,1
+PE-Caruaru,2020-06-07,54,42,64,47,56,1
 PE-Caruaru,2020-06-08,56,44,68,49,59,1
-PE-Caruaru,2020-06-09,58,47,70,53,62,1
-PE-Caruaru,2020-06-10,60,47,71,53,63,1
-PE-Caruaru,2020-06-11,61,49,73,57,66,1
-PE-Caruaru,2020-06-12,62,51,75,54,64,1
-PE-Caruaru,2020-06-13,62,50,74,54,64,1
-PE-Caruaru,2020-06-14,63,49,73,54,64,1
-PE-Caruaru,2020-06-15,63,49,74,58,67,1
-PE-Caruaru,2020-06-16,62,50,74,55,65,1
-PE-Caruaru,2020-06-17,62,50,74,55,65,1
-PE-Caruaru,2020-06-18,64,49,75,57,67,1
-PE-Caruaru,2020-06-19,65,52,77,58,68,1
-PE-Caruaru,2020-06-20,67,54,79,61,71,1
-PE-Caruaru,2020-06-21,68,53,79,61,71,1
-PE-Caruaru,2020-06-22,70,55,81,62,73,1
-PE-Caruaru,2020-06-23,71,58,84,64,74,1
-PE-Caruaru,2020-06-24,73,60,86,69,79,1
-PE-Caruaru,2020-06-25,74,61,89,69,80,1
-PE-Caruaru,2020-06-26,75,61,87,67,78,1
-PE-Caruaru,2020-06-27,75,61,89,69,81,1
-PE-Caruaru,2020-06-28,74,60,88,65,77,1
-PE-Caruaru,2020-06-29,72,57,85,65,76,1
-PE-Caruaru,2020-06-30,69,56,82,61,72,1
-PE-Caruaru,2020-07-01,66,51,77,61,71,1
-PE-Caruaru,2020-07-02,64,51,76,57,67,1
-PE-Caruaru,2020-07-03,63,50,75,56,66,1
-PE-Caruaru,2020-07-04,63,53,76,55,65,1
-PE-Caruaru,2020-07-05,64,49,75,56,66,1
-PE-Caruaru,2020-07-06,65,51,76,56,67,1
-PE-Caruaru,2020-07-07,66,52,78,60,70,1
-PE-Caruaru,2020-07-08,67,55,81,59,70,1
-PE-Caruaru,2020-07-09,68,55,81,62,72,1
+PE-Caruaru,2020-06-09,59,46,70,55,64,1
+PE-Caruaru,2020-06-10,60,46,71,52,62,1
+PE-Caruaru,2020-06-11,61,47,72,53,63,1
+PE-Caruaru,2020-06-12,62,48,73,56,66,1
+PE-Caruaru,2020-06-13,62.5,49,74,55,65,1
+PE-Caruaru,2020-06-14,62,49,74,56,66,1
+PE-Caruaru,2020-06-15,62,50,75,55,65,1
+PE-Caruaru,2020-06-16,63,50,75,56,66,1
+PE-Caruaru,2020-06-17,63,50,75,55,65,1
+PE-Caruaru,2020-06-18,63,51,76,58,67,1
+PE-Caruaru,2020-06-19,65,53,79,58,68,1
+PE-Caruaru,2020-06-20,67,53,78,59,69,1
+PE-Caruaru,2020-06-21,68,56,81,63,73,1
+PE-Caruaru,2020-06-22,70,57,84,66,76,1
+PE-Caruaru,2020-06-23,71,58,84,66,76,1
+PE-Caruaru,2020-06-24,73,59,86,66,77,1
+PE-Caruaru,2020-06-25,74,58,86,67,78,1
+PE-Caruaru,2020-06-26,75,63,90,67,78,1
+PE-Caruaru,2020-06-27,76,61,88,69,80,1
+PE-Caruaru,2020-06-28,74,60,89,67,78,1
+PE-Caruaru,2020-06-29,72,58,85,65,76,1
+PE-Caruaru,2020-06-30,69,55,81,61,72,1
+PE-Caruaru,2020-07-01,66,52,77,58,68,1
+PE-Caruaru,2020-07-02,64,50,75,57,67,1
+PE-Caruaru,2020-07-03,63,50,75,57,66,1
+PE-Caruaru,2020-07-04,63,50,74,57,67,1
+PE-Caruaru,2020-07-05,64,50,76,59,69,1
+PE-Caruaru,2020-07-06,64,51,76,57,67,1
+PE-Caruaru,2020-07-07,66,54,79,57,68,1
+PE-Caruaru,2020-07-08,67,54,80,58,69,1
+PE-Caruaru,2020-07-09,68,53,80,62,72,1
 PE-Caruaru,2020-07-10,70,55,82,61,72,1
-PE-Caruaru,2020-07-11,70,56,83,62,73,1
-PE-Caruaru,2020-07-12,71,58,86,64,75,1
-PE-Caruaru,2020-07-13,72,58,86,65,76,1
-PE-Caruaru,2020-07-14,73,59,87,63,75,0.99
-PE-Caruaru,2020-07-15,75,59,88,70,80,0.99
-PE-Caruaru,2020-07-16,79,61,91,70,82,0.99
-PE-Caruaru,2020-07-17,83,66,97,76,88,0.99
-PE-Caruaru,2020-07-18,87,69,100,78,90,0.98
-PE-Caruaru,2020-07-19,90,74,104,80,93,0.98
-PE-Caruaru,2020-07-20,94,76,107,85,98,0.97
-PE-Caruaru,2020-07-21,96,80,111,89,101,0.97
-PE-Caruaru,2020-07-22,95,81,113,87,100,0.96
-PE-Caruaru,2020-07-23,95,78,109,85,98,0.94
-PE-Caruaru,2020-07-24,94,77,110,86,99,0.93
-PE-Caruaru,2020-07-25,92,75,106,83,96,0.91
-PE-Caruaru,2020-07-26,89,70,104,81,94,0.88
-PE-Caruaru,2020-07-27,85,69,102,77,90,0.85
-PE-Caruaru,2020-07-28,81,61,96,73,85,0.81
+PE-Caruaru,2020-07-11,70,56,83,63,74,1
+PE-Caruaru,2020-07-12,71,57,83,61,72,1
+PE-Caruaru,2020-07-13,72,57,86,62,74,1
+PE-Caruaru,2020-07-14,73,57,85,68,79,1
+PE-Caruaru,2020-07-15,76,59,89,67,79,0.99
+PE-Caruaru,2020-07-16,78,62,91,70,82,0.99
+PE-Caruaru,2020-07-17,82,66,96,77,89,0.99
+PE-Caruaru,2020-07-18,86,70,101,80,92,0.99
+PE-Caruaru,2020-07-19,91,74,106,84,96,0.98
+PE-Caruaru,2020-07-20,93,78,107,88,99,0.98
+PE-Caruaru,2020-07-21,95,79,111,86,99,0.97
+PE-Caruaru,2020-07-22,95,80,110,86,99,0.97
+PE-Caruaru,2020-07-23,94,76,109,85,98,0.96
+PE-Caruaru,2020-07-24,93,77,109,85,98,0.94
+PE-Caruaru,2020-07-25,91,75,106,85,97,0.93
+PE-Caruaru,2020-07-26,89,73,105,82,95,0.91
+PE-Caruaru,2020-07-27,85,70,100,75,88,0.88
+PE-Caruaru,2020-07-28,82,66,99,72,85,0.85
+PE-Caruaru,2020-07-29,79,65,97,68,81,0.81
 PE-Cupira,2020-03-10,1,1,1,1,1,1
 PE-Cupira,2020-03-11,0,0,0,0,0,1
 PE-Cupira,2020-03-12,0,0,0,0,0,1
@@ -2681,12 +2667,8 @@ PE-Ipojuca,2020-07-19,10,4,15,7,11,0.88
 PE-Ipojuca,2020-07-20,10,4,15,6,10,0.85
 PE-Ipojuca,2020-07-21,9,3,15,6,10,0.81
 PE-Ipojuca,2020-07-22,9,3,15,6,10,0.75
-PE-Jaboatão dos Guararapes,2020-02-09,1,1,1,1,1,1
-PE-Jaboatão dos Guararapes,2020-02-10,1,0,1,1,1,1
-PE-Jaboatão dos Guararapes,2020-02-11,0,0,1,0,0,1
-PE-Jaboatão dos Guararapes,2020-02-12,0,0,1,0,0,1
-PE-Jaboatão dos Guararapes,2020-02-13,0,0,1,0,0,1
-PE-Jaboatão dos Guararapes,2020-02-14,0,0,1,0,0,1
+PE-Jaboatão dos Guararapes,2020-02-13,1,1,1,1,1,1
+PE-Jaboatão dos Guararapes,2020-02-14,1,0,1,1,1,1
 PE-Jaboatão dos Guararapes,2020-02-15,0,0,1,0,0,1
 PE-Jaboatão dos Guararapes,2020-02-16,0,0,1,0,0,1
 PE-Jaboatão dos Guararapes,2020-02-17,0,0,1,0,0,1
@@ -2711,11 +2693,11 @@ PE-Jaboatão dos Guararapes,2020-03-06,0,0,1,0,0,1
 PE-Jaboatão dos Guararapes,2020-03-07,0,0,1,0,0,1
 PE-Jaboatão dos Guararapes,2020-03-08,0,0,1,0,0,1
 PE-Jaboatão dos Guararapes,2020-03-09,0,0,1,0,0,1
-PE-Jaboatão dos Guararapes,2020-03-10,0,0,1,0,0,1
-PE-Jaboatão dos Guararapes,2020-03-11,0,0,2,0,0,1
+PE-Jaboatão dos Guararapes,2020-03-10,0,0,2,0,0,1
+PE-Jaboatão dos Guararapes,2020-03-11,0,0,1,0,0,1
 PE-Jaboatão dos Guararapes,2020-03-12,0,0,2,0,0,1
 PE-Jaboatão dos Guararapes,2020-03-13,0,0,2,0,0,1
-PE-Jaboatão dos Guararapes,2020-03-14,1,0,2,0,1,1
+PE-Jaboatão dos Guararapes,2020-03-14,0,0,2,0,0,1
 PE-Jaboatão dos Guararapes,2020-03-15,1,0,2,0,1,1
 PE-Jaboatão dos Guararapes,2020-03-16,1,0,2,0,1,1
 PE-Jaboatão dos Guararapes,2020-03-17,1,0,2,0,1,1
@@ -2724,134 +2706,135 @@ PE-Jaboatão dos Guararapes,2020-03-19,1,0,3,0,1,1
 PE-Jaboatão dos Guararapes,2020-03-20,1,0,3,0,1,1
 PE-Jaboatão dos Guararapes,2020-03-21,2,0,4,1,2,1
 PE-Jaboatão dos Guararapes,2020-03-22,2,0,4,0,2,1
-PE-Jaboatão dos Guararapes,2020-03-23,2,0,5,0,2,1
+PE-Jaboatão dos Guararapes,2020-03-23,3,0,5,1,3,1
 PE-Jaboatão dos Guararapes,2020-03-24,3,0,6,1,3,1
-PE-Jaboatão dos Guararapes,2020-03-25,3.5,0,6,2,4,1
-PE-Jaboatão dos Guararapes,2020-03-26,4,1,8,3,5,1
-PE-Jaboatão dos Guararapes,2020-03-27,5,0,8,2,5,1
+PE-Jaboatão dos Guararapes,2020-03-25,4,1,7,2,4,1
+PE-Jaboatão dos Guararapes,2020-03-26,4,1,8,1,4,1
+PE-Jaboatão dos Guararapes,2020-03-27,5,1,9,2,5,1
 PE-Jaboatão dos Guararapes,2020-03-28,6,2,10,3,6,1
-PE-Jaboatão dos Guararapes,2020-03-29,7,2,11,6,9,1
-PE-Jaboatão dos Guararapes,2020-03-30,8,3,13,4,8,1
+PE-Jaboatão dos Guararapes,2020-03-29,7,2,11,5,8,1
+PE-Jaboatão dos Guararapes,2020-03-30,8,3,13,5,9,1
 PE-Jaboatão dos Guararapes,2020-03-31,9,4,14,6,10,1
 PE-Jaboatão dos Guararapes,2020-04-01,11,5,16,8,12,1
-PE-Jaboatão dos Guararapes,2020-04-02,12,5,17,8,13,1
-PE-Jaboatão dos Guararapes,2020-04-03,13,6,19,9,14,1
+PE-Jaboatão dos Guararapes,2020-04-02,12,6,18,7,12,1
+PE-Jaboatão dos Guararapes,2020-04-03,14,7,19,9,14,1
 PE-Jaboatão dos Guararapes,2020-04-04,15,8,21,11,16,1
-PE-Jaboatão dos Guararapes,2020-04-05,16,8,22,13,18,1
-PE-Jaboatão dos Guararapes,2020-04-06,18,11,24,13,19,1
-PE-Jaboatão dos Guararapes,2020-04-07,19,11,26,14,20,1
-PE-Jaboatão dos Guararapes,2020-04-08,21,13,28,17,23,1
-PE-Jaboatão dos Guararapes,2020-04-09,22.5,13,30,17,24,1
-PE-Jaboatão dos Guararapes,2020-04-10,25,16,33,20,27,1
+PE-Jaboatão dos Guararapes,2020-04-05,16,10,23,12,17,1
+PE-Jaboatão dos Guararapes,2020-04-06,17,10,24,14,19,1
+PE-Jaboatão dos Guararapes,2020-04-07,20,11,26,15,21,1
+PE-Jaboatão dos Guararapes,2020-04-08,21,13,28,16,22,1
+PE-Jaboatão dos Guararapes,2020-04-09,23,14,31,17,24,1
+PE-Jaboatão dos Guararapes,2020-04-10,25,17,33,22,28,1
 PE-Jaboatão dos Guararapes,2020-04-11,27,17,35,22,29,1
-PE-Jaboatão dos Guararapes,2020-04-12,29,18,37,25,32,1
-PE-Jaboatão dos Guararapes,2020-04-13,32,21,40,27,34,1
-PE-Jaboatão dos Guararapes,2020-04-14,34,23,43,29,37,1
-PE-Jaboatão dos Guararapes,2020-04-15,37,25,46,30,38,1
-PE-Jaboatão dos Guararapes,2020-04-16,39,29,50,33,41,1
-PE-Jaboatão dos Guararapes,2020-04-17,42,32,53,35,44,1
-PE-Jaboatão dos Guararapes,2020-04-18,45,32,55,38,47,1
-PE-Jaboatão dos Guararapes,2020-04-19,48,37,59,42,51,1
-PE-Jaboatão dos Guararapes,2020-04-20,50,38,60,43,52,1
-PE-Jaboatão dos Guararapes,2020-04-21,52,41,63,46,55,1
-PE-Jaboatão dos Guararapes,2020-04-22,54,42,65,47,56,1
-PE-Jaboatão dos Guararapes,2020-04-23,55,44,68,48,58,1
-PE-Jaboatão dos Guararapes,2020-04-24,56,42,68,48,59,1
-PE-Jaboatão dos Guararapes,2020-04-25,58,44,70,50,60,1
-PE-Jaboatão dos Guararapes,2020-04-26,60,46,74,53,64,1
-PE-Jaboatão dos Guararapes,2020-04-27,64,49,77,57,68,1
-PE-Jaboatão dos Guararapes,2020-04-28,67,51,80,58,70,1
-PE-Jaboatão dos Guararapes,2020-04-29,71,56,85,64,75,1
-PE-Jaboatão dos Guararapes,2020-04-30,75,59,89,68,80,1
-PE-Jaboatão dos Guararapes,2020-05-01,81,66,96,73,85,1
-PE-Jaboatão dos Guararapes,2020-05-02,86,68,98,80,91,1
-PE-Jaboatão dos Guararapes,2020-05-03,89,74,103,82,93,1
-PE-Jaboatão dos Guararapes,2020-05-04,90,74,104,81,93,1
-PE-Jaboatão dos Guararapes,2020-05-05,91,76,106,82,94,1
-PE-Jaboatão dos Guararapes,2020-05-06,92,77,108,85,96,1
-PE-Jaboatão dos Guararapes,2020-05-07,94,80,109,86,98,1
-PE-Jaboatão dos Guararapes,2020-05-08,97,79,110,90,101,1
-PE-Jaboatão dos Guararapes,2020-05-09,99,83,114,94,106,1
-PE-Jaboatão dos Guararapes,2020-05-10,101,84,117,92,106,1
-PE-Jaboatão dos Guararapes,2020-05-11,101,83,117,90,104,1
-PE-Jaboatão dos Guararapes,2020-05-12,100,84,116,90,104,1
-PE-Jaboatão dos Guararapes,2020-05-13,98,79,112,89,102,1
-PE-Jaboatão dos Guararapes,2020-05-14,95,80,111,87,99,1
-PE-Jaboatão dos Guararapes,2020-05-15,91,74,105,85,97,1
-PE-Jaboatão dos Guararapes,2020-05-16,88,72,102,80,92,1
-PE-Jaboatão dos Guararapes,2020-05-17,86,70,99,79,90,1
-PE-Jaboatão dos Guararapes,2020-05-18,82,67,95,76,87,1
-PE-Jaboatão dos Guararapes,2020-05-19,80,65,93,72,83,1
-PE-Jaboatão dos Guararapes,2020-05-20,77,62,90,69,80,1
-PE-Jaboatão dos Guararapes,2020-05-21,76,62,89,69,80,1
+PE-Jaboatão dos Guararapes,2020-04-12,29,20,38,25,32,1
+PE-Jaboatão dos Guararapes,2020-04-13,32,20,40,25,33,1
+PE-Jaboatão dos Guararapes,2020-04-14,34,23,44,27,36,1
+PE-Jaboatão dos Guararapes,2020-04-15,37,25,46,32,40,1
+PE-Jaboatão dos Guararapes,2020-04-16,39,28,49,33,41,1
+PE-Jaboatão dos Guararapes,2020-04-17,42,33,55,34,43,1
+PE-Jaboatão dos Guararapes,2020-04-18,45,34,55,39,47,1
+PE-Jaboatão dos Guararapes,2020-04-19,48,36,58,42,51,1
+PE-Jaboatão dos Guararapes,2020-04-20,50,37,60,44,53,1
+PE-Jaboatão dos Guararapes,2020-04-21,53,40,63,46,55,1
+PE-Jaboatão dos Guararapes,2020-04-22,54,41,65,46,56,1
+PE-Jaboatão dos Guararapes,2020-04-23,55,41,65,50,59,1
+PE-Jaboatão dos Guararapes,2020-04-24,56,44,68,48,58,1
+PE-Jaboatão dos Guararapes,2020-04-25,58,45,71,51,61,1
+PE-Jaboatão dos Guararapes,2020-04-26,61,46,74,52,63,1
+PE-Jaboatão dos Guararapes,2020-04-27,63,51,78,57,67,1
+PE-Jaboatão dos Guararapes,2020-04-28,67,53,82,59,71,1
+PE-Jaboatão dos Guararapes,2020-04-29,72,58,86,64,75,1
+PE-Jaboatão dos Guararapes,2020-04-30,76,62,91,67,79,1
+PE-Jaboatão dos Guararapes,2020-05-01,81,67,96,72,85,1
+PE-Jaboatão dos Guararapes,2020-05-02,86,70,100,80,91,1
+PE-Jaboatão dos Guararapes,2020-05-03,89,72,102,81,93,1
+PE-Jaboatão dos Guararapes,2020-05-04,91,74,104,81,93,1
+PE-Jaboatão dos Guararapes,2020-05-05,91,75,106,81,94,1
+PE-Jaboatão dos Guararapes,2020-05-06,92.5,76,106,83,96,1
+PE-Jaboatão dos Guararapes,2020-05-07,95,78,109,90,102,1
+PE-Jaboatão dos Guararapes,2020-05-08,97,80,112,87,100,1
+PE-Jaboatão dos Guararapes,2020-05-09,99,83,115,88,102,1
+PE-Jaboatão dos Guararapes,2020-05-10,100,84,116,92,105,1
+PE-Jaboatão dos Guararapes,2020-05-11,101,86,118,92,105,1
+PE-Jaboatão dos Guararapes,2020-05-12,100,82,114,91,104,1
+PE-Jaboatão dos Guararapes,2020-05-13,97,79,111,89,101,1
+PE-Jaboatão dos Guararapes,2020-05-14,94,77,109,84,97,1
+PE-Jaboatão dos Guararapes,2020-05-15,91,74,106,82,95,1
+PE-Jaboatão dos Guararapes,2020-05-16,89,73,103,81,93,1
+PE-Jaboatão dos Guararapes,2020-05-17,85,69,99,77,89,1
+PE-Jaboatão dos Guararapes,2020-05-18,82,66,95,76,87,1
+PE-Jaboatão dos Guararapes,2020-05-19,80,65,93,73,84,1
+PE-Jaboatão dos Guararapes,2020-05-20,77.5,61,89,69,80,1
+PE-Jaboatão dos Guararapes,2020-05-21,76.5,60,88,68,79,1
 PE-Jaboatão dos Guararapes,2020-05-22,76,60,88,68,79,1
-PE-Jaboatão dos Guararapes,2020-05-23,75,61,89,67,78,1
-PE-Jaboatão dos Guararapes,2020-05-24,74,59,86,66,77,1
-PE-Jaboatão dos Guararapes,2020-05-25,72,58,85,63,74,1
-PE-Jaboatão dos Guararapes,2020-05-26,69,54,81,63,73,1
-PE-Jaboatão dos Guararapes,2020-05-27,66,51,77,59,69,1
-PE-Jaboatão dos Guararapes,2020-05-28,64,52,76,56,66,1
-PE-Jaboatão dos Guararapes,2020-05-29,62,50,76,53,64,1
-PE-Jaboatão dos Guararapes,2020-05-30,60,48,72,51,61,1
-PE-Jaboatão dos Guararapes,2020-05-31,59,45,70,50,61,1
-PE-Jaboatão dos Guararapes,2020-06-01,56,45,67,52,61,1
-PE-Jaboatão dos Guararapes,2020-06-02,55,41,66,47,57,1
-PE-Jaboatão dos Guararapes,2020-06-03,52,41,64,46,55,1
-PE-Jaboatão dos Guararapes,2020-06-04,52,39,61,45,54,1
-PE-Jaboatão dos Guararapes,2020-06-05,52,40,62,45,54,1
-PE-Jaboatão dos Guararapes,2020-06-06,52,40,62,45,54,1
-PE-Jaboatão dos Guararapes,2020-06-07,54,40,64,47,56,1
-PE-Jaboatão dos Guararapes,2020-06-08,55,43,66,49,58,1
-PE-Jaboatão dos Guararapes,2020-06-09,55,43,66,50,59,1
-PE-Jaboatão dos Guararapes,2020-06-10,56,45,68,50,59,1
-PE-Jaboatão dos Guararapes,2020-06-11,57,45,69,50,60,1
-PE-Jaboatão dos Guararapes,2020-06-12,58,46,69,52,61,1
-PE-Jaboatão dos Guararapes,2020-06-13,58,44,68,51,60,1
-PE-Jaboatão dos Guararapes,2020-06-14,57,43,68,51,60,1
-PE-Jaboatão dos Guararapes,2020-06-15,55,43,67,48,58,1
-PE-Jaboatão dos Guararapes,2020-06-16,52,39,61,46,55,1
-PE-Jaboatão dos Guararapes,2020-06-17,51,40,62,44,53,1
-PE-Jaboatão dos Guararapes,2020-06-18,51,39,61,44,53,1
-PE-Jaboatão dos Guararapes,2020-06-19,51,39,61,46,55,1
-PE-Jaboatão dos Guararapes,2020-06-20,52,39,62,47,56,1
-PE-Jaboatão dos Guararapes,2020-06-21,52,40,63,46,55,1
-PE-Jaboatão dos Guararapes,2020-06-22,51,40,63,45,54,1
-PE-Jaboatão dos Guararapes,2020-06-23,51,39,60,44,53,1
-PE-Jaboatão dos Guararapes,2020-06-24,51,38,61,45,54,1
-PE-Jaboatão dos Guararapes,2020-06-25,51,38,61,46,54,1
+PE-Jaboatão dos Guararapes,2020-05-23,75,59,86,67,78,1
+PE-Jaboatão dos Guararapes,2020-05-24,74,60,88,67,78,1
+PE-Jaboatão dos Guararapes,2020-05-25,71,57,84,63,74,1
+PE-Jaboatão dos Guararapes,2020-05-26,68,55,82,61,71,1
+PE-Jaboatão dos Guararapes,2020-05-27,66,51,78,60,70,1
+PE-Jaboatão dos Guararapes,2020-05-28,63,50,76,59,69,1
+PE-Jaboatão dos Guararapes,2020-05-29,62,50,74,56,65,1
+PE-Jaboatão dos Guararapes,2020-05-30,61,48,73,55,65,1
+PE-Jaboatão dos Guararapes,2020-05-31,59,46,71,53,63,1
+PE-Jaboatão dos Guararapes,2020-06-01,56,43,67,50,59,1
+PE-Jaboatão dos Guararapes,2020-06-02,54,43,66,48,57,1
+PE-Jaboatão dos Guararapes,2020-06-03,53,43,65,46,55,1
+PE-Jaboatão dos Guararapes,2020-06-04,52,40,62,48,56,1
+PE-Jaboatão dos Guararapes,2020-06-05,52,41,64,46,55,1
+PE-Jaboatão dos Guararapes,2020-06-06,53,40,63,47,56,1
+PE-Jaboatão dos Guararapes,2020-06-07,54,41,63,47,56,1
+PE-Jaboatão dos Guararapes,2020-06-08,54,43,66,48,57,1
+PE-Jaboatão dos Guararapes,2020-06-09,55,41,65,47,57,1
+PE-Jaboatão dos Guararapes,2020-06-10,55,44,68,47,57,1
+PE-Jaboatão dos Guararapes,2020-06-11,57,45,68,51,60,1
+PE-Jaboatão dos Guararapes,2020-06-12,58,45,69,52,61,1
+PE-Jaboatão dos Guararapes,2020-06-13,58,44,68,50,60,1
+PE-Jaboatão dos Guararapes,2020-06-14,57,43,68,50,60,1
+PE-Jaboatão dos Guararapes,2020-06-15,55,42,65,49,58,1
+PE-Jaboatão dos Guararapes,2020-06-16,53,39,63,46,56,1
+PE-Jaboatão dos Guararapes,2020-06-17,51,38,62,46,55,1
+PE-Jaboatão dos Guararapes,2020-06-18,51,39,61,45,53,1
+PE-Jaboatão dos Guararapes,2020-06-19,51,40,62,44,53,1
+PE-Jaboatão dos Guararapes,2020-06-20,52,40,62,45,54,1
+PE-Jaboatão dos Guararapes,2020-06-21,52,41,63,47,56,1
+PE-Jaboatão dos Guararapes,2020-06-22,51,40,62,44,53,1
+PE-Jaboatão dos Guararapes,2020-06-23,51,39,61,43,52,1
+PE-Jaboatão dos Guararapes,2020-06-24,51,41,62,45,53,1
+PE-Jaboatão dos Guararapes,2020-06-25,51,39,61,47,55,1
 PE-Jaboatão dos Guararapes,2020-06-26,51,39,62,46,55,1
-PE-Jaboatão dos Guararapes,2020-06-27,52,40,63,49,57,1
-PE-Jaboatão dos Guararapes,2020-06-28,51,40,62,46,55,1
-PE-Jaboatão dos Guararapes,2020-06-29,51,39,60,47,55,1
-PE-Jaboatão dos Guararapes,2020-06-30,49,36,59,43,52,1
-PE-Jaboatão dos Guararapes,2020-07-01,49,38,60,44,52,1
-PE-Jaboatão dos Guararapes,2020-07-02,48,37,57,43,51,1
-PE-Jaboatão dos Guararapes,2020-07-03,49,37,58,42,51,1
-PE-Jaboatão dos Guararapes,2020-07-04,49,37,59,44,52,1
-PE-Jaboatão dos Guararapes,2020-07-05,49,37,59,41,50,1
-PE-Jaboatão dos Guararapes,2020-07-06,49,38,60,46,54,1
-PE-Jaboatão dos Guararapes,2020-07-07,50,37,59,43,52,1
-PE-Jaboatão dos Guararapes,2020-07-08,51,41,61,47,55,1
-PE-Jaboatão dos Guararapes,2020-07-09,51,40,62,46,55,1
-PE-Jaboatão dos Guararapes,2020-07-10,52,40,62,45,54,1
-PE-Jaboatão dos Guararapes,2020-07-11,53,42,65,46,55,1
-PE-Jaboatão dos Guararapes,2020-07-12,55,43,66,48,58,1
-PE-Jaboatão dos Guararapes,2020-07-13,55,42,65,48,57,1
-PE-Jaboatão dos Guararapes,2020-07-14,55,42,66,50,59,0.99
-PE-Jaboatão dos Guararapes,2020-07-15,56,42,66,50,59,0.99
+PE-Jaboatão dos Guararapes,2020-06-27,52,39,61,48,57,1
+PE-Jaboatão dos Guararapes,2020-06-28,52,39,61,45,54,1
+PE-Jaboatão dos Guararapes,2020-06-29,50,38,62,45,54,1
+PE-Jaboatão dos Guararapes,2020-06-30,49,38,61,43,52,1
+PE-Jaboatão dos Guararapes,2020-07-01,49,37,59,45,53,1
+PE-Jaboatão dos Guararapes,2020-07-02,47,37,58,43,51,1
+PE-Jaboatão dos Guararapes,2020-07-03,48,39,61,42,50,1
+PE-Jaboatão dos Guararapes,2020-07-04,49,37,59,42,51,1
+PE-Jaboatão dos Guararapes,2020-07-05,49,37,59,45,53,1
+PE-Jaboatão dos Guararapes,2020-07-06,49,38,60,43,52,1
+PE-Jaboatão dos Guararapes,2020-07-07,50,38,60,43,52,1
+PE-Jaboatão dos Guararapes,2020-07-08,51,37,60,44,53,1
+PE-Jaboatão dos Guararapes,2020-07-09,51,39,61,44,53,1
+PE-Jaboatão dos Guararapes,2020-07-10,53,41,64,44,54,1
+PE-Jaboatão dos Guararapes,2020-07-11,53,40,64,45,55,1
+PE-Jaboatão dos Guararapes,2020-07-12,54,40,64,49,58,1
+PE-Jaboatão dos Guararapes,2020-07-13,55,42,65,50,59,1
+PE-Jaboatão dos Guararapes,2020-07-14,55,41,65,48,57,1
+PE-Jaboatão dos Guararapes,2020-07-15,56,45,68,49,58,0.99
 PE-Jaboatão dos Guararapes,2020-07-16,56,44,67,50,59,0.99
-PE-Jaboatão dos Guararapes,2020-07-17,56,43,67,49,59,0.99
-PE-Jaboatão dos Guararapes,2020-07-18,56,43,67,50,59,0.98
-PE-Jaboatão dos Guararapes,2020-07-19,57,44,67,51,60,0.98
-PE-Jaboatão dos Guararapes,2020-07-20,57,46,69,51,60,0.97
-PE-Jaboatão dos Guararapes,2020-07-21,55,42,66,49,58,0.96
-PE-Jaboatão dos Guararapes,2020-07-22,55,42,66,47,57,0.95
-PE-Jaboatão dos Guararapes,2020-07-23,54,42,66,47,57,0.94
-PE-Jaboatão dos Guararapes,2020-07-24,54,41,66,46,56,0.93
-PE-Jaboatão dos Guararapes,2020-07-25,53,41,65,44,54,0.91
-PE-Jaboatão dos Guararapes,2020-07-26,51,37,61,44,54,0.88
-PE-Jaboatão dos Guararapes,2020-07-27,50,36,61,42,52,0.85
-PE-Jaboatão dos Guararapes,2020-07-28,46,33,58,40,49,0.8
+PE-Jaboatão dos Guararapes,2020-07-17,56,43,67,50,59,0.99
+PE-Jaboatão dos Guararapes,2020-07-18,57,45,68,51,60,0.99
+PE-Jaboatão dos Guararapes,2020-07-19,57,46,68,49,59,0.98
+PE-Jaboatão dos Guararapes,2020-07-20,56.5,44,67,53,62,0.98
+PE-Jaboatão dos Guararapes,2020-07-21,55,42,66,49,58,0.97
+PE-Jaboatão dos Guararapes,2020-07-22,54,43,66,48,57,0.96
+PE-Jaboatão dos Guararapes,2020-07-23,54,41,65,49,58,0.95
+PE-Jaboatão dos Guararapes,2020-07-24,54,40,64,49,58,0.94
+PE-Jaboatão dos Guararapes,2020-07-25,52,39,63,48,57,0.92
+PE-Jaboatão dos Guararapes,2020-07-26,51,36,61,47,56,0.9
+PE-Jaboatão dos Guararapes,2020-07-27,48,37,60,42,51,0.88
+PE-Jaboatão dos Guararapes,2020-07-28,46,34,58,39,49,0.84
+PE-Jaboatão dos Guararapes,2020-07-29,45,34,59,40,50,0.8
 PE-Limoeiro,2020-03-05,1,1,1,1,1,1
 PE-Limoeiro,2020-03-06,0,0,0,0,0,1
 PE-Limoeiro,2020-03-07,0.5,0,1,0,1,1
@@ -2992,12 +2975,24 @@ PE-Limoeiro,2020-07-19,12,7,18,9,13,0.88
 PE-Limoeiro,2020-07-20,12,6,18,8,13,0.84
 PE-Limoeiro,2020-07-21,12,6,19,8,13,0.8
 PE-Limoeiro,2020-07-22,11,4,18,7,12,0.75
-PE-Olinda,2020-02-18,1,1,1,1,1,1
-PE-Olinda,2020-02-19,1,0,1,1,1,1
+PE-Olinda,2020-02-06,1,1,1,1,1,1
+PE-Olinda,2020-02-07,1,1,1,1,1,1
+PE-Olinda,2020-02-08,1,1,1,1,1,1
+PE-Olinda,2020-02-09,0,0,0,0,0,1
+PE-Olinda,2020-02-10,0,0,0,0,0,1
+PE-Olinda,2020-02-11,0,0,0,0,0,1
+PE-Olinda,2020-02-12,0,0,0,0,0,1
+PE-Olinda,2020-02-13,0,0,0,0,0,1
+PE-Olinda,2020-02-14,0,0,0,0,0,1
+PE-Olinda,2020-02-15,1,0,1,1,1,1
+PE-Olinda,2020-02-16,0.5,0,1,0,1,1
+PE-Olinda,2020-02-17,0,0,1,0,0,1
+PE-Olinda,2020-02-18,0,0,1,0,0,1
+PE-Olinda,2020-02-19,0,0,1,0,0,1
 PE-Olinda,2020-02-20,0,0,1,0,0,1
-PE-Olinda,2020-02-21,0.5,0,1,0,1,1
+PE-Olinda,2020-02-21,0,0,1,0,0,1
 PE-Olinda,2020-02-22,0,0,1,0,0,1
-PE-Olinda,2020-02-23,0.5,0,1,0,1,1
+PE-Olinda,2020-02-23,0,0,1,0,0,1
 PE-Olinda,2020-02-24,0,0,1,0,0,1
 PE-Olinda,2020-02-25,0,0,1,0,0,1
 PE-Olinda,2020-02-26,0,0,1,0,0,1
@@ -3016,7 +3011,7 @@ PE-Olinda,2020-03-09,0,0,1,0,0,1
 PE-Olinda,2020-03-10,0,0,1,0,0,1
 PE-Olinda,2020-03-11,0,0,1,0,0,1
 PE-Olinda,2020-03-12,0,0,1,0,0,1
-PE-Olinda,2020-03-13,0,0,2,0,0,1
+PE-Olinda,2020-03-13,1,0,2,0,1,1
 PE-Olinda,2020-03-14,1,0,2,0,1,1
 PE-Olinda,2020-03-15,1,0,2,0,1,1
 PE-Olinda,2020-03-16,1,0,2,0,1,1
@@ -3025,135 +3020,136 @@ PE-Olinda,2020-03-18,1,0,3,0,1,1
 PE-Olinda,2020-03-19,1,0,3,0,1,1
 PE-Olinda,2020-03-20,1,0,3,0,1,1
 PE-Olinda,2020-03-21,2,0,4,1,2,1
-PE-Olinda,2020-03-22,2,0,5,0,2,1
-PE-Olinda,2020-03-23,2.5,0,5,1,3,1
+PE-Olinda,2020-03-22,2,0,4,0,2,1
+PE-Olinda,2020-03-23,3,0,5,1,3,1
 PE-Olinda,2020-03-24,3,0,6,1,3,1
 PE-Olinda,2020-03-25,4,0,7,2,4,1
-PE-Olinda,2020-03-26,4,0,8,2,5,1
-PE-Olinda,2020-03-27,5,1,9,3,6,1
-PE-Olinda,2020-03-28,7,2,11,5,8,1
+PE-Olinda,2020-03-26,4,1,8,2,5,1
+PE-Olinda,2020-03-27,5,2,10,3,6,1
+PE-Olinda,2020-03-28,7,2,11,4,7,1
 PE-Olinda,2020-03-29,8,2,12,4,8,1
 PE-Olinda,2020-03-30,9,3,14,6,10,1
-PE-Olinda,2020-03-31,11,5,16,7,11,1
-PE-Olinda,2020-04-01,12,7,19,8,13,1
-PE-Olinda,2020-04-02,14,8,20,12,16,1
-PE-Olinda,2020-04-03,16,8,22,12,17,1
-PE-Olinda,2020-04-04,17,10,24,12,18,1
-PE-Olinda,2020-04-05,19,11,26,14,20,1
+PE-Olinda,2020-03-31,11,4,16,8,12,1
+PE-Olinda,2020-04-01,12,6,18,8,13,1
+PE-Olinda,2020-04-02,14,8,21,10,15,1
+PE-Olinda,2020-04-03,16,9,22,12,17,1
+PE-Olinda,2020-04-04,18,11,25,14,19,1
+PE-Olinda,2020-04-05,19,11,26,15,21,1
 PE-Olinda,2020-04-06,21,13,28,17,23,1
-PE-Olinda,2020-04-07,23,14,30,18,24,1
-PE-Olinda,2020-04-08,24,15,32,21,27,1
-PE-Olinda,2020-04-09,26,16,33,20,27,1
-PE-Olinda,2020-04-10,27,18,36,22,29,1
-PE-Olinda,2020-04-11,29,20,39,24,31,1
-PE-Olinda,2020-04-12,31,20,39,26,33,1
+PE-Olinda,2020-04-07,23,14,29,17,23,1
+PE-Olinda,2020-04-08,24,16,32,21,27,1
+PE-Olinda,2020-04-09,26,18,35,21,28,1
+PE-Olinda,2020-04-10,28,19,36,23,30,1
+PE-Olinda,2020-04-11,29,19,38,24,31,1
+PE-Olinda,2020-04-12,31,21,40,28,35,1
 PE-Olinda,2020-04-13,33,23,43,26,34,1
-PE-Olinda,2020-04-14,35,24,44,29,37,1
-PE-Olinda,2020-04-15,38,25,47,32,40,1
-PE-Olinda,2020-04-16,40,29,50,33,42,1
-PE-Olinda,2020-04-17,43,31,53,36,45,1
-PE-Olinda,2020-04-18,46,33,56,39,48,1
-PE-Olinda,2020-04-19,49,38,60,42,51,1
-PE-Olinda,2020-04-20,51,38,61,44,53,1
-PE-Olinda,2020-04-21,54,42,65,48,57,1
-PE-Olinda,2020-04-22,54.5,41,65,49,58,1
-PE-Olinda,2020-04-23,54.5,42,65,47,56,1
-PE-Olinda,2020-04-24,55,44,67,47,57,1
-PE-Olinda,2020-04-25,55,42,66,50,59,1
-PE-Olinda,2020-04-26,57,43,67,52,61,1
-PE-Olinda,2020-04-27,56,44,68,52,61,1
-PE-Olinda,2020-04-28,58,45,69,50,60,1
-PE-Olinda,2020-04-29,60,47,72,54,64,1
-PE-Olinda,2020-04-30,61,50,75,57,66,1
-PE-Olinda,2020-05-01,64,50,75,57,67,1
-PE-Olinda,2020-05-02,66,52,78,61,71,1
-PE-Olinda,2020-05-03,68,55,80,62,72,1
-PE-Olinda,2020-05-04,68,54,80,61,71,1
-PE-Olinda,2020-05-05,68,55,80,61,71,1
-PE-Olinda,2020-05-06,68,54,80,60,71,1
-PE-Olinda,2020-05-07,68,55,81,62,72,1
-PE-Olinda,2020-05-08,70,55,82,62,73,1
-PE-Olinda,2020-05-09,72,57,85,63,74,1
-PE-Olinda,2020-05-10,74,59,86,67,77,1
-PE-Olinda,2020-05-11,75,59,87,67,78,1
-PE-Olinda,2020-05-12,75,62,89,68,79,1
-PE-Olinda,2020-05-13,74,58,86,68,79,1
-PE-Olinda,2020-05-14,71,57,84,63,74,1
-PE-Olinda,2020-05-15,68,54,82,63,74,1
-PE-Olinda,2020-05-16,65,51,78,58,69,1
-PE-Olinda,2020-05-17,62,47,74,55,65,1
-PE-Olinda,2020-05-18,58,45,69,53,62,1
-PE-Olinda,2020-05-19,55,42,66,49,58,1
-PE-Olinda,2020-05-20,53,41,64,46,55,1
-PE-Olinda,2020-05-21,52,41,63,44,53,1
-PE-Olinda,2020-05-22,51,38,61,44,53,1
-PE-Olinda,2020-05-23,50,39,62,43,52,1
-PE-Olinda,2020-05-24,49,37,59,42,51,1
-PE-Olinda,2020-05-25,47,36,58,42,50,1
-PE-Olinda,2020-05-26,45,33,54,41,49,1
-PE-Olinda,2020-05-27,43,33,53,37,45,1
+PE-Olinda,2020-04-14,35,24,45,29,37,1
+PE-Olinda,2020-04-15,38,27,48,30,39,1
+PE-Olinda,2020-04-16,41,29,50,36,44,1
+PE-Olinda,2020-04-17,44,31,53,37,46,1
+PE-Olinda,2020-04-18,46,36,58,40,49,1
+PE-Olinda,2020-04-19,48.5,38,60,42,51,1
+PE-Olinda,2020-04-20,51,39,62,43,52,1
+PE-Olinda,2020-04-21,53,41,64,46,55,1
+PE-Olinda,2020-04-22,55,43,66,47,57,1
+PE-Olinda,2020-04-23,55,42,66,47,57,1
+PE-Olinda,2020-04-24,55,43,66,50,59,1
+PE-Olinda,2020-04-25,55,43,66,48,57,1
+PE-Olinda,2020-04-26,56,44,67,51,60,1
+PE-Olinda,2020-04-27,57,44,69,50,60,1
+PE-Olinda,2020-04-28,58,45,70,51,61,1
+PE-Olinda,2020-04-29,60,47,72,54,63,1
+PE-Olinda,2020-04-30,61,48,72,57,66,1
+PE-Olinda,2020-05-01,63,51,75,56,66,1
+PE-Olinda,2020-05-02,66,51,76,59,69,1
+PE-Olinda,2020-05-03,68,54,80,61,71,1
+PE-Olinda,2020-05-04,68,54,80,62,72,1
+PE-Olinda,2020-05-05,67,53,80,61,71,1
+PE-Olinda,2020-05-06,67.5,53,79,60,70,1
+PE-Olinda,2020-05-07,68,54,80,62,72,1
+PE-Olinda,2020-05-08,70,54,81,65,75,1
+PE-Olinda,2020-05-09,72,59,86,66,76,1
+PE-Olinda,2020-05-10,74,60,88,68,79,1
+PE-Olinda,2020-05-11,75,60,87,67,78,1
+PE-Olinda,2020-05-12,75,61,88,68,79,1
+PE-Olinda,2020-05-13,73.5,59,87,64,76,1
+PE-Olinda,2020-05-14,71,56,84,62,73,1
+PE-Olinda,2020-05-15,68,53,81,63,73,1
+PE-Olinda,2020-05-16,65,51,78,60,70,1
+PE-Olinda,2020-05-17,61,47,74,54,64,1
+PE-Olinda,2020-05-18,57,44,70,52,62,1
+PE-Olinda,2020-05-19,55,43,66,49,58,1
+PE-Olinda,2020-05-20,53,40,63,48,57,1
+PE-Olinda,2020-05-21,51,39,62,45,54,1
+PE-Olinda,2020-05-22,51,39,62,45,54,1
+PE-Olinda,2020-05-23,50,37,60,45,53,1
+PE-Olinda,2020-05-24,49,36,59,44,52,1
+PE-Olinda,2020-05-25,47,35,58,40,49,1
+PE-Olinda,2020-05-26,45,32,54,38,47,1
+PE-Olinda,2020-05-27,42,33,53,38,45,1
 PE-Olinda,2020-05-28,40,29,49,35,43,1
-PE-Olinda,2020-05-29,38,28,48,33,41,1
-PE-Olinda,2020-05-30,37,28,47,34,41,1
-PE-Olinda,2020-05-31,35,26,44,30,37,1
-PE-Olinda,2020-06-01,34,23,42,30,37,1
-PE-Olinda,2020-06-02,33,23,42,29,36,1
-PE-Olinda,2020-06-03,33,22,41,29,36,1
-PE-Olinda,2020-06-04,34,23,42,30,37,1
-PE-Olinda,2020-06-05,34,25,43,27,35,1
-PE-Olinda,2020-06-06,36,24,44,31,38,1
-PE-Olinda,2020-06-07,37,27,46,32,39,1
-PE-Olinda,2020-06-08,39,30,49,33,41,1
-PE-Olinda,2020-06-09,40,30,49,34,42,1
-PE-Olinda,2020-06-10,43,30,51,37,45,1
-PE-Olinda,2020-06-11,43,33,53,38,46,1
-PE-Olinda,2020-06-12,44,33,54,39,47,1
-PE-Olinda,2020-06-13,45,34,54,40,48,1
-PE-Olinda,2020-06-14,44,32,54,37,46,1
-PE-Olinda,2020-06-15,43,31,52,37,45,1
-PE-Olinda,2020-06-16,40,30,50,33,41,1
-PE-Olinda,2020-06-17,38,27,47,34,41,1
-PE-Olinda,2020-06-18,38,26,46,31,39,1
-PE-Olinda,2020-06-19,37,27,45,33,40,1
-PE-Olinda,2020-06-20,37,28,47,30,38,1
-PE-Olinda,2020-06-21,36,25,44,29,37,1
-PE-Olinda,2020-06-22,36,26,44,32,39,1
-PE-Olinda,2020-06-23,35,26,44,30,37,1
-PE-Olinda,2020-06-24,35,25,43,30,37,1
-PE-Olinda,2020-06-25,34,24,42,29,36,1
-PE-Olinda,2020-06-26,35,25,44,31,38,1
-PE-Olinda,2020-06-27,36,26,45,31,38,1
-PE-Olinda,2020-06-28,37,27,46,33,40,1
+PE-Olinda,2020-05-29,38,28,48,32,40,1
+PE-Olinda,2020-05-30,37,26,45,32,39,1
+PE-Olinda,2020-05-31,36,25,44,31,38,1
+PE-Olinda,2020-06-01,34,25,43,29,36,1
+PE-Olinda,2020-06-02,33,24,42,30,37,1
+PE-Olinda,2020-06-03,33,23,41,27,34,1
+PE-Olinda,2020-06-04,33,23,42,28,35,1
+PE-Olinda,2020-06-05,34,24,43,30,37,1
+PE-Olinda,2020-06-06,36,26,45,29,37,1
+PE-Olinda,2020-06-07,37,26,46,32,39,1
+PE-Olinda,2020-06-08,39,29,48,32,40,1
+PE-Olinda,2020-06-09,41,31,51,35,43,1
+PE-Olinda,2020-06-10,42,30,50,36,44,1
+PE-Olinda,2020-06-11,43,32,53,35,44,1
+PE-Olinda,2020-06-12,45,34,55,38,47,1
+PE-Olinda,2020-06-13,44,34,55,37,46,1
+PE-Olinda,2020-06-14,44,35,55,37,45,1
+PE-Olinda,2020-06-15,43,32,52,39,46,1
+PE-Olinda,2020-06-16,40.5,31,51,33,42,1
+PE-Olinda,2020-06-17,38,28,47,33,41,1
+PE-Olinda,2020-06-18,37,27,46,30,38,1
+PE-Olinda,2020-06-19,36.5,26,45,30,38,1
+PE-Olinda,2020-06-20,37,25,45,31,39,1
+PE-Olinda,2020-06-21,37,27,46,32,39,1
+PE-Olinda,2020-06-22,36,26,45,30,38,1
+PE-Olinda,2020-06-23,36,25,44,31,38,1
+PE-Olinda,2020-06-24,35,25,43,28,36,1
+PE-Olinda,2020-06-25,35,25,43,30,37,1
+PE-Olinda,2020-06-26,35,26,44,30,37,1
+PE-Olinda,2020-06-27,36,25,44,29,37,1
+PE-Olinda,2020-06-28,37,27,46,30,38,1
 PE-Olinda,2020-06-29,37,26,45,30,38,1
-PE-Olinda,2020-06-30,38,29,48,34,41,1
-PE-Olinda,2020-07-01,38,28,47,32,40,1
-PE-Olinda,2020-07-02,39,28,48,32,40,1
-PE-Olinda,2020-07-03,40,29,49,34,42,1
-PE-Olinda,2020-07-04,40,30,49,34,42,1
+PE-Olinda,2020-06-30,37,27,46,33,40,1
+PE-Olinda,2020-07-01,38,29,47,34,41,1
+PE-Olinda,2020-07-02,39,29,48,34,41,1
+PE-Olinda,2020-07-03,40,30,49,33,41,1
+PE-Olinda,2020-07-04,41,29,49,34,42,1
 PE-Olinda,2020-07-05,40,30,50,34,42,1
-PE-Olinda,2020-07-06,40,30,49,34,42,1
-PE-Olinda,2020-07-07,39,28,48,33,41,1
-PE-Olinda,2020-07-08,38,27,47,34,41,1
-PE-Olinda,2020-07-09,37,28,47,30,38,1
-PE-Olinda,2020-07-10,36,25,44,32,39,1
-PE-Olinda,2020-07-11,35,26,44,31,38,1
-PE-Olinda,2020-07-12,35,25,44,31,38,1
-PE-Olinda,2020-07-13,35,25,43,29,36,1
-PE-Olinda,2020-07-14,34,24,42,28,35,0.99
-PE-Olinda,2020-07-15,34,24,42,29,36,0.99
-PE-Olinda,2020-07-16,35,24,43,30,37,0.99
-PE-Olinda,2020-07-17,35,25,44,29,37,0.99
-PE-Olinda,2020-07-18,36,24,44,30,38,0.98
-PE-Olinda,2020-07-19,36,27,45,32,39,0.98
-PE-Olinda,2020-07-20,35,26,44,30,37,0.97
-PE-Olinda,2020-07-21,34,23,42,30,37,0.96
-PE-Olinda,2020-07-22,33,23,42,29,36,0.95
-PE-Olinda,2020-07-23,32,22,41,27,34,0.94
-PE-Olinda,2020-07-24,32,22,40,26,33,0.92
-PE-Olinda,2020-07-25,31,21,40,26,33,0.9
-PE-Olinda,2020-07-26,31,21,40,26,33,0.87
-PE-Olinda,2020-07-27,29,19,38,25,32,0.84
-PE-Olinda,2020-07-28,27,18,37,21,29,0.79
+PE-Olinda,2020-07-06,39.5,30,49,34,42,1
+PE-Olinda,2020-07-07,39,29,48,35,42,1
+PE-Olinda,2020-07-08,38,26,47,32,40,1
+PE-Olinda,2020-07-09,37,26,45,30,38,1
+PE-Olinda,2020-07-10,36,27,46,29,37,1
+PE-Olinda,2020-07-11,36,25,44,31,38,1
+PE-Olinda,2020-07-12,35,24,43,30,37,1
+PE-Olinda,2020-07-13,34.5,25,43,30,37,1
+PE-Olinda,2020-07-14,34,25,42,28,35,1
+PE-Olinda,2020-07-15,34,23,41,29,36,0.99
+PE-Olinda,2020-07-16,34,25,43,30,37,0.99
+PE-Olinda,2020-07-17,35,26,44,30,37,0.99
+PE-Olinda,2020-07-18,36,26,45,31,38,0.99
+PE-Olinda,2020-07-19,36,25,44,32,39,0.98
+PE-Olinda,2020-07-20,35,25,44,31,38,0.98
+PE-Olinda,2020-07-21,34,24,43,28,36,0.97
+PE-Olinda,2020-07-22,33,24,42,26,34,0.96
+PE-Olinda,2020-07-23,32,23,41,27,34,0.95
+PE-Olinda,2020-07-24,32,22,40,26,33,0.94
+PE-Olinda,2020-07-25,31,22,40,26,33,0.92
+PE-Olinda,2020-07-26,29,20,38,25,32,0.9
+PE-Olinda,2020-07-27,29,20,38,23,30,0.87
+PE-Olinda,2020-07-28,27,16,35,20,28,0.83
+PE-Olinda,2020-07-29,25.5,16,36,19,27,0.78
 PE-Palmares,2020-02-25,1,1,1,1,1,1
 PE-Palmares,2020-02-26,0.5,0,1,0,1,1
 PE-Palmares,2020-02-27,0,0,1,0,0,1
@@ -3597,14 +3593,11 @@ PE-Paudalho,2020-07-16,8,3,13,4,8,0.86
 PE-Paudalho,2020-07-17,8,3,14,5,9,0.82
 PE-Paudalho,2020-07-18,9,2,15,4,9,0.77
 PE-Paudalho,2020-07-19,9,3,17,5,10,0.71
-PE-Paulista,2020-02-19,1,1,1,1,1,1
-PE-Paulista,2020-02-20,0,0,0,0,0,1
-PE-Paulista,2020-02-21,1,1,1,1,1,1
-PE-Paulista,2020-02-22,0,0,0,0,0,1
-PE-Paulista,2020-02-23,1,0,1,1,1,1
+PE-Paulista,2020-02-22,1,1,1,1,1,1
+PE-Paulista,2020-02-23,0.5,0,1,0,1,1
 PE-Paulista,2020-02-24,0,0,1,0,0,1
-PE-Paulista,2020-02-25,0,0,0,0,0,1
-PE-Paulista,2020-02-26,0,0,0,0,0,1
+PE-Paulista,2020-02-25,0,0,1,0,0,1
+PE-Paulista,2020-02-26,0,0,1,0,0,1
 PE-Paulista,2020-02-27,0,0,1,0,0,1
 PE-Paulista,2020-02-28,0.5,0,1,0,1,1
 PE-Paulista,2020-02-29,0,0,1,0,0,1
@@ -3622,142 +3615,143 @@ PE-Paulista,2020-03-11,0,0,1,0,0,1
 PE-Paulista,2020-03-12,0,0,1,0,0,1
 PE-Paulista,2020-03-13,0,0,1,0,0,1
 PE-Paulista,2020-03-14,0,0,1,0,0,1
-PE-Paulista,2020-03-15,0,0,1,0,0,1
+PE-Paulista,2020-03-15,0,0,2,0,0,1
 PE-Paulista,2020-03-16,0,0,1,0,0,1
 PE-Paulista,2020-03-17,0,0,2,0,0,1
 PE-Paulista,2020-03-18,1,0,2,0,1,1
 PE-Paulista,2020-03-19,1,0,2,0,1,1
-PE-Paulista,2020-03-20,1,0,3,0,1,1
+PE-Paulista,2020-03-20,1,0,2,0,1,1
 PE-Paulista,2020-03-21,1,0,3,0,1,1
 PE-Paulista,2020-03-22,1,0,3,0,1,1
 PE-Paulista,2020-03-23,2,0,4,1,2,1
 PE-Paulista,2020-03-24,2,0,5,0,2,1
 PE-Paulista,2020-03-25,2,0,5,0,2,1
 PE-Paulista,2020-03-26,3,0,6,1,3,1
-PE-Paulista,2020-03-27,4,1,7,2,4,1
+PE-Paulista,2020-03-27,4,0,7,2,4,1
 PE-Paulista,2020-03-28,5,1,8,2,5,1
-PE-Paulista,2020-03-29,5,2,9,3,6,1
+PE-Paulista,2020-03-29,6,2,9,3,6,1
 PE-Paulista,2020-03-30,6,2,11,4,7,1
-PE-Paulista,2020-03-31,7,3,12,5,8,1
-PE-Paulista,2020-04-01,9,4,13,5,9,1
-PE-Paulista,2020-04-02,10,4,14,6,10,1
+PE-Paulista,2020-03-31,7,2,11,6,9,1
+PE-Paulista,2020-04-01,8,3,13,5,9,1
+PE-Paulista,2020-04-02,10,5,15,7,11,1
 PE-Paulista,2020-04-03,11,5,16,7,11,1
 PE-Paulista,2020-04-04,12,6,17,10,14,1
-PE-Paulista,2020-04-05,13,6,18,8,13,1
-PE-Paulista,2020-04-06,14,8,20,10,15,1
+PE-Paulista,2020-04-05,13,7,19,10,14,1
+PE-Paulista,2020-04-06,14,7,20,10,15,1
 PE-Paulista,2020-04-07,15,8,21,11,16,1
 PE-Paulista,2020-04-08,16,9,22,12,17,1
-PE-Paulista,2020-04-09,17,10,23,13,18,1
-PE-Paulista,2020-04-10,18,10,24,15,20,1
-PE-Paulista,2020-04-11,19,11,26,14,20,1
-PE-Paulista,2020-04-12,21,13,28,18,23,1
-PE-Paulista,2020-04-13,22,15,30,18,24,1
-PE-Paulista,2020-04-14,24,16,32,20,26,1
-PE-Paulista,2020-04-15,26,18,33,22,28,1
-PE-Paulista,2020-04-16,29,20,37,23,30,1
-PE-Paulista,2020-04-17,31,20,39,26,33,1
-PE-Paulista,2020-04-18,33,24,42,28,35,1
-PE-Paulista,2020-04-19,35,24,43,30,37,1
-PE-Paulista,2020-04-20,36,27,46,31,39,1
-PE-Paulista,2020-04-21,38,27,46,32,40,1
-PE-Paulista,2020-04-22,38,28,48,32,40,1
-PE-Paulista,2020-04-23,38,29,48,31,39,1
-PE-Paulista,2020-04-24,38,28,48,32,40,1
-PE-Paulista,2020-04-25,38,29,48,33,40,1
-PE-Paulista,2020-04-26,39,28,48,34,41,1
-PE-Paulista,2020-04-27,40,30,49,34,42,1
-PE-Paulista,2020-04-28,40.5,30,50,35,43,1
-PE-Paulista,2020-04-29,42,30,51,37,45,1
-PE-Paulista,2020-04-30,43,31,52,38,46,1
-PE-Paulista,2020-05-01,45,33,55,38,47,1
-PE-Paulista,2020-05-02,47,35,57,41,50,1
-PE-Paulista,2020-05-03,49,36,58,45,53,1
-PE-Paulista,2020-05-04,50,38,61,44,53,1
-PE-Paulista,2020-05-05,50,39,60,43,52,1
-PE-Paulista,2020-05-06,50,38,60,44,53,1
-PE-Paulista,2020-05-07,50,40,61,43,52,1
-PE-Paulista,2020-05-08,51,40,62,46,54,1
-PE-Paulista,2020-05-09,52,41,63,46,55,1
-PE-Paulista,2020-05-10,53,39,63,46,55,1
-PE-Paulista,2020-05-11,54,41,64,47,56,1
-PE-Paulista,2020-05-12,54,43,66,47,56,1
-PE-Paulista,2020-05-13,53,41,65,47,56,1
-PE-Paulista,2020-05-14,52,40,64,47,56,1
-PE-Paulista,2020-05-15,50,36,60,46,55,1
-PE-Paulista,2020-05-16,48,37,58,44,52,1
-PE-Paulista,2020-05-17,45,34,57,38,47,1
-PE-Paulista,2020-05-18,44,32,53,39,47,1
-PE-Paulista,2020-05-19,42,32,52,36,44,1
-PE-Paulista,2020-05-20,40,31,50,34,42,1
-PE-Paulista,2020-05-21,39,28,48,33,41,1
-PE-Paulista,2020-05-22,38,29,48,32,40,1
-PE-Paulista,2020-05-23,38,27,47,32,40,1
-PE-Paulista,2020-05-24,36,27,46,30,38,1
-PE-Paulista,2020-05-25,35,26,44,31,38,1
-PE-Paulista,2020-05-26,33,23,42,29,36,1
-PE-Paulista,2020-05-27,32,22,40,27,34,1
-PE-Paulista,2020-05-28,31,22,39,26,33,1
-PE-Paulista,2020-05-29,30,19,37,24,31,1
-PE-Paulista,2020-05-30,29,20,36,25,31,1
-PE-Paulista,2020-05-31,28,20,36,24,30,1
-PE-Paulista,2020-06-01,27,20,35,25,31,1
-PE-Paulista,2020-06-02,26,17,33,22,28,1
-PE-Paulista,2020-06-03,26,18,33,21,27,1
-PE-Paulista,2020-06-04,26,17,32,21,27,1
-PE-Paulista,2020-06-05,25,16,32,20,26,1
-PE-Paulista,2020-06-06,25,17,32,20,26,1
-PE-Paulista,2020-06-07,24,16,32,19,25,1
-PE-Paulista,2020-06-08,23,15,30,18,24,1
-PE-Paulista,2020-06-09,22,16,30,20,25,1
-PE-Paulista,2020-06-10,21,14,28,16,22,1
-PE-Paulista,2020-06-11,20,13,27,15,21,1
-PE-Paulista,2020-06-12,21,12,27,16,22,1
-PE-Paulista,2020-06-13,20,13,27,15,21,1
-PE-Paulista,2020-06-14,20,14,27,17,22,1
-PE-Paulista,2020-06-15,19,12,26,16,21,1
-PE-Paulista,2020-06-16,19,12,25,16,21,1
-PE-Paulista,2020-06-17,18,11,25,15,20,1
-PE-Paulista,2020-06-18,19,11,24,15,20,1
-PE-Paulista,2020-06-19,18,11,24,15,20,1
-PE-Paulista,2020-06-20,18,11,24,14,19,1
+PE-Paulista,2020-04-09,17,9,23,13,18,1
+PE-Paulista,2020-04-10,18,12,26,15,20,1
+PE-Paulista,2020-04-11,20,12,27,15,21,1
+PE-Paulista,2020-04-12,20,12,27,15,21,1
+PE-Paulista,2020-04-13,22,13,29,17,23,1
+PE-Paulista,2020-04-14,24,16,32,18,25,1
+PE-Paulista,2020-04-15,26,19,35,22,28,1
+PE-Paulista,2020-04-16,28,19,36,24,31,1
+PE-Paulista,2020-04-17,30,20,38,25,32,1
+PE-Paulista,2020-04-18,33,24,41,27,34,1
+PE-Paulista,2020-04-19,35,24,43,28,36,1
+PE-Paulista,2020-04-20,37,28,47,30,38,1
+PE-Paulista,2020-04-21,37,27,47,33,40,1
+PE-Paulista,2020-04-22,38,27,47,34,41,1
+PE-Paulista,2020-04-23,38,27,46,34,41,1
+PE-Paulista,2020-04-24,38,29,48,33,40,1
+PE-Paulista,2020-04-25,38,29,48,35,42,1
+PE-Paulista,2020-04-26,39,29,48,34,41,1
+PE-Paulista,2020-04-27,39,28,48,33,41,1
+PE-Paulista,2020-04-28,40,29,49,34,42,1
+PE-Paulista,2020-04-29,42,31,51,36,44,1
+PE-Paulista,2020-04-30,43,31,53,38,46,1
+PE-Paulista,2020-05-01,45,33,55,40,48,1
+PE-Paulista,2020-05-02,47,36,58,43,51,1
+PE-Paulista,2020-05-03,48,38,60,42,51,1
+PE-Paulista,2020-05-04,49,36,59,44,53,1
+PE-Paulista,2020-05-05,49,38,60,42,51,1
+PE-Paulista,2020-05-06,49,37,59,43,52,1
+PE-Paulista,2020-05-07,50,37,59,44,53,1
+PE-Paulista,2020-05-08,51,41,62,43,52,1
+PE-Paulista,2020-05-09,52,42,64,45,54,1
+PE-Paulista,2020-05-10,53,40,63,46,55,1
+PE-Paulista,2020-05-11,54,42,64,47,56,1
+PE-Paulista,2020-05-12,54,40,64,48,57,1
+PE-Paulista,2020-05-13,54,42,65,47,56,1
+PE-Paulista,2020-05-14,52,38,62,47,56,1
+PE-Paulista,2020-05-15,50,39,61,43,52,1
+PE-Paulista,2020-05-16,48,36,59,40,50,1
+PE-Paulista,2020-05-17,46,34,56,41,49,1
+PE-Paulista,2020-05-18,44,34,54,40,48,1
+PE-Paulista,2020-05-19,42,33,53,38,45,1
+PE-Paulista,2020-05-20,40,30,50,34,42,1
+PE-Paulista,2020-05-21,39,28,48,32,40,1
+PE-Paulista,2020-05-22,38,28,47,34,41,1
+PE-Paulista,2020-05-23,38,27,47,35,42,1
+PE-Paulista,2020-05-24,37,27,46,30,38,1
+PE-Paulista,2020-05-25,35,25,44,29,37,1
+PE-Paulista,2020-05-26,34,23,42,29,36,1
+PE-Paulista,2020-05-27,32,23,40,26,33,1
+PE-Paulista,2020-05-28,30.5,21,38,25,32,1
+PE-Paulista,2020-05-29,30,21,38,24,31,1
+PE-Paulista,2020-05-30,28,19,36,24,30,1
+PE-Paulista,2020-05-31,28,18,35,24,30,1
+PE-Paulista,2020-06-01,27,19,35,24,30,1
+PE-Paulista,2020-06-02,26,19,34,22,28,1
+PE-Paulista,2020-06-03,26,17,33,22,28,1
+PE-Paulista,2020-06-04,25,16,32,21,27,1
+PE-Paulista,2020-06-05,25,17,32,20,26,1
+PE-Paulista,2020-06-06,25,18,34,21,27,1
+PE-Paulista,2020-06-07,24,15,31,20,26,1
+PE-Paulista,2020-06-08,23,14,29,21,26,1
+PE-Paulista,2020-06-09,22,14,29,17,23,1
+PE-Paulista,2020-06-10,21,13,28,16,22,1
+PE-Paulista,2020-06-11,21,13,27,17,22,1
+PE-Paulista,2020-06-12,20,12,26,17,22,1
+PE-Paulista,2020-06-13,20,12,26,18,23,1
+PE-Paulista,2020-06-14,20,13,26,16,21,1
+PE-Paulista,2020-06-15,20,13,26,16,21,1
+PE-Paulista,2020-06-16,19,12,25,15,20,1
+PE-Paulista,2020-06-17,19,12,25,15,20,1
+PE-Paulista,2020-06-18,19,13,26,15,20,1
+PE-Paulista,2020-06-19,19,12,25,15,20,1
+PE-Paulista,2020-06-20,18,12,24,15,20,1
 PE-Paulista,2020-06-21,18,11,24,14,19,1
-PE-Paulista,2020-06-22,18,10,23,13,18,1
+PE-Paulista,2020-06-22,18,11,23,14,19,1
 PE-Paulista,2020-06-23,17,10,23,13,18,1
-PE-Paulista,2020-06-24,17,10,23,13,18,1
-PE-Paulista,2020-06-25,17,10,23,13,18,1
-PE-Paulista,2020-06-26,17,10,23,13,18,1
-PE-Paulista,2020-06-27,17,11,24,13,18,1
-PE-Paulista,2020-06-28,18,10,23,15,19,1
+PE-Paulista,2020-06-24,17,9,22,13,18,1
+PE-Paulista,2020-06-25,17,9,22,13,18,1
+PE-Paulista,2020-06-26,17,10,23,14,19,1
+PE-Paulista,2020-06-27,17,11,23,13,18,1
+PE-Paulista,2020-06-28,18,11,24,14,19,1
 PE-Paulista,2020-06-29,18,11,24,14,19,1
-PE-Paulista,2020-06-30,18,12,25,14,19,1
-PE-Paulista,2020-07-01,18.5,11,25,16,21,1
-PE-Paulista,2020-07-02,19,12,25,14,20,1
-PE-Paulista,2020-07-03,19,13,26,14,20,1
-PE-Paulista,2020-07-04,19,13,26,15,20,1
-PE-Paulista,2020-07-05,20,12,25,16,21,1
-PE-Paulista,2020-07-06,20,12,26,16,21,1
-PE-Paulista,2020-07-07,20,12,26,17,22,1
-PE-Paulista,2020-07-08,20,12,26,15,20,1
-PE-Paulista,2020-07-09,20,13,26,16,21,1
-PE-Paulista,2020-07-10,20,13,27,17,22,1
-PE-Paulista,2020-07-11,21,14,28,15,21,1
-PE-Paulista,2020-07-12,20,14,27,17,22,1
-PE-Paulista,2020-07-13,20,13,27,17,22,1
-PE-Paulista,2020-07-14,21,13,27,17,22,0.99
-PE-Paulista,2020-07-15,20.5,13,27,18,23,0.99
-PE-Paulista,2020-07-16,21,14,27,18,23,0.99
+PE-Paulista,2020-06-30,18,11,24,16,21,1
+PE-Paulista,2020-07-01,19,12,25,15,20,1
+PE-Paulista,2020-07-02,19,11,25,17,22,1
+PE-Paulista,2020-07-03,19,12,25,15,20,1
+PE-Paulista,2020-07-04,19,13,26,15,21,1
+PE-Paulista,2020-07-05,19,13,26,15,20,1
+PE-Paulista,2020-07-06,19,12,26,16,21,1
+PE-Paulista,2020-07-07,20,13,26,17,22,1
+PE-Paulista,2020-07-08,20,12,26,17,22,1
+PE-Paulista,2020-07-09,20,12,26,17,22,1
+PE-Paulista,2020-07-10,20,12,27,16,22,1
+PE-Paulista,2020-07-11,21,13,27,17,22,1
+PE-Paulista,2020-07-12,20,13,27,17,22,1
+PE-Paulista,2020-07-13,20,13,27,18,23,1
+PE-Paulista,2020-07-14,20,13,27,17,22,1
+PE-Paulista,2020-07-15,20,14,27,17,22,0.99
+PE-Paulista,2020-07-16,21,13,27,17,22,0.99
 PE-Paulista,2020-07-17,21,14,28,16,22,0.99
-PE-Paulista,2020-07-18,21,14,29,17,23,0.98
+PE-Paulista,2020-07-18,21,14,28,16,22,0.99
 PE-Paulista,2020-07-19,21,13,28,16,22,0.98
-PE-Paulista,2020-07-20,21,14,28,16,22,0.97
-PE-Paulista,2020-07-21,21,12,27,18,23,0.96
-PE-Paulista,2020-07-22,20,12,27,16,22,0.95
-PE-Paulista,2020-07-23,20,12,27,18,23,0.94
-PE-Paulista,2020-07-24,20,13,27,15,21,0.92
-PE-Paulista,2020-07-25,20,12,27,15,21,0.89
-PE-Paulista,2020-07-26,20,11,27,16,22,0.86
-PE-Paulista,2020-07-27,20,13,29,16,22,0.83
-PE-Paulista,2020-07-28,21,11,29,15,22,0.78
+PE-Paulista,2020-07-20,21,13,27,17,22,0.98
+PE-Paulista,2020-07-21,21,13,27,18,23,0.97
+PE-Paulista,2020-07-22,21,12,26,16,22,0.96
+PE-Paulista,2020-07-23,20,13,27,17,22,0.95
+PE-Paulista,2020-07-24,20,13,27,15,21,0.94
+PE-Paulista,2020-07-25,20,13,27,16,21,0.92
+PE-Paulista,2020-07-26,20,12,27,15,21,0.9
+PE-Paulista,2020-07-27,20,12,27,15,21,0.87
+PE-Paulista,2020-07-28,20,12,27,17,22,0.83
+PE-Paulista,2020-07-29,20,11,28,16,22,0.79
 PE-Pesqueira,2020-03-11,1,1,1,1,1,1
 PE-Pesqueira,2020-03-12,0,0,0,0,0,1
 PE-Pesqueira,2020-03-13,0,0,0,0,0,1
@@ -3896,26 +3890,17 @@ PE-Pesqueira,2020-07-23,21,13,28,17,23,0.89
 PE-Pesqueira,2020-07-24,20,12,27,15,21,0.85
 PE-Pesqueira,2020-07-25,20,12,28,15,21,0.81
 PE-Pesqueira,2020-07-26,18,9,26,12,19,0.76
-PE-Petrolina,2020-02-07,1,1,1,1,1,1
-PE-Petrolina,2020-02-08,0,0,0,0,0,1
-PE-Petrolina,2020-02-09,0,0,0,0,0,1
-PE-Petrolina,2020-02-10,0,0,0,0,0,1
-PE-Petrolina,2020-02-11,0,0,0,0,0,1
-PE-Petrolina,2020-02-12,0,0,0,0,0,1
-PE-Petrolina,2020-02-13,0,0,0,0,0,1
-PE-Petrolina,2020-02-14,0,0,0,0,0,1
-PE-Petrolina,2020-02-15,0,0,0,0,0,1
-PE-Petrolina,2020-02-16,0,0,0,0,0,1
-PE-Petrolina,2020-02-17,1,1,1,1,1,1
+PE-Petrolina,2020-02-16,1,1,1,1,1,1
+PE-Petrolina,2020-02-17,0,0,0,0,0,1
 PE-Petrolina,2020-02-18,0,0,0,0,0,1
 PE-Petrolina,2020-02-19,0.5,0,1,0,1,1
-PE-Petrolina,2020-02-20,0,0,1,0,0,1
+PE-Petrolina,2020-02-20,0.5,0,1,0,1,1
 PE-Petrolina,2020-02-21,0,0,1,0,0,1
-PE-Petrolina,2020-02-22,0,0,0,0,0,1
+PE-Petrolina,2020-02-22,0.5,0,1,0,1,1
 PE-Petrolina,2020-02-23,0,0,1,0,0,1
 PE-Petrolina,2020-02-24,0,0,1,0,0,1
 PE-Petrolina,2020-02-25,0,0,1,0,0,1
-PE-Petrolina,2020-02-26,0,0,1,0,0,1
+PE-Petrolina,2020-02-26,0,0,0,0,0,1
 PE-Petrolina,2020-02-27,0,0,1,0,0,1
 PE-Petrolina,2020-02-28,0,0,1,0,0,1
 PE-Petrolina,2020-02-29,0,0,1,0,0,1
@@ -3951,22 +3936,22 @@ PE-Petrolina,2020-03-29,0,0,1,0,0,1
 PE-Petrolina,2020-03-30,0,0,1,0,0,1
 PE-Petrolina,2020-03-31,0,0,1,0,0,1
 PE-Petrolina,2020-04-01,0,0,1,0,0,1
-PE-Petrolina,2020-04-02,0,0,2,0,0,1
+PE-Petrolina,2020-04-02,0,0,1,0,0,1
 PE-Petrolina,2020-04-03,0,0,1,0,0,1
-PE-Petrolina,2020-04-04,0,0,2,0,0,1
+PE-Petrolina,2020-04-04,0,0,1,0,0,1
 PE-Petrolina,2020-04-05,0,0,2,0,0,1
 PE-Petrolina,2020-04-06,0,0,2,0,0,1
-PE-Petrolina,2020-04-07,1,0,2,0,1,1
+PE-Petrolina,2020-04-07,0,0,2,0,0,1
 PE-Petrolina,2020-04-08,1,0,2,0,1,1
 PE-Petrolina,2020-04-09,1,0,2,0,1,1
 PE-Petrolina,2020-04-10,1,0,2,0,1,1
-PE-Petrolina,2020-04-11,1,0,2,0,1,1
+PE-Petrolina,2020-04-11,1,0,3,0,1,1
 PE-Petrolina,2020-04-12,1,0,3,0,1,1
 PE-Petrolina,2020-04-13,1,0,3,0,1,1
 PE-Petrolina,2020-04-14,1,0,3,0,1,1
 PE-Petrolina,2020-04-15,1,0,3,0,1,1
 PE-Petrolina,2020-04-16,2,0,3,1,2,1
-PE-Petrolina,2020-04-17,2,0,3,1,2,1
+PE-Petrolina,2020-04-17,2,0,4,1,2,1
 PE-Petrolina,2020-04-18,2,0,4,1,2,1
 PE-Petrolina,2020-04-19,2,0,4,1,2,1
 PE-Petrolina,2020-04-20,2,0,4,1,2,1
@@ -3978,108 +3963,106 @@ PE-Petrolina,2020-04-25,3,1,6,1,3,1
 PE-Petrolina,2020-04-26,4,0,6,2,4,1
 PE-Petrolina,2020-04-27,4,1,7,2,4,1
 PE-Petrolina,2020-04-28,4,1,7,3,5,1
-PE-Petrolina,2020-04-29,5,1,8,3,5,1
-PE-Petrolina,2020-04-30,5,1,8,3,5,1
-PE-Petrolina,2020-05-01,5,1,8,3,5,1
-PE-Petrolina,2020-05-02,5,2,8,3,5,1
-PE-Petrolina,2020-05-03,4,1,7,3,5,1
-PE-Petrolina,2020-05-04,4,1,7,2,4,1
+PE-Petrolina,2020-04-29,5,1,7,3,5,1
+PE-Petrolina,2020-04-30,5,2,8,3,5,1
+PE-Petrolina,2020-05-01,5,2,8,4,6,1
+PE-Petrolina,2020-05-02,4,1,8,3,5,1
+PE-Petrolina,2020-05-03,4,1,7,2,4,1
+PE-Petrolina,2020-05-04,4,0,6,2,4,1
 PE-Petrolina,2020-05-05,3,1,6,1,3,1
 PE-Petrolina,2020-05-06,3,0,5,1,3,1
 PE-Petrolina,2020-05-07,3,1,6,1,3,1
-PE-Petrolina,2020-05-08,4,1,6,2,4,1
+PE-Petrolina,2020-05-08,4,0,6,2,4,1
 PE-Petrolina,2020-05-09,4,1,7,2,4,1
 PE-Petrolina,2020-05-10,4,1,7,2,4,1
 PE-Petrolina,2020-05-11,4,1,7,3,5,1
-PE-Petrolina,2020-05-12,4,1,7,3,5,1
-PE-Petrolina,2020-05-13,5,2,8,3,5,1
-PE-Petrolina,2020-05-14,5,2,8,3,5,1
-PE-Petrolina,2020-05-15,5,1,8,3,5,1
-PE-Petrolina,2020-05-16,5,1,8,2,5,1
-PE-Petrolina,2020-05-17,5,1,8,3,5,1
+PE-Petrolina,2020-05-12,4,2,8,3,5,1
+PE-Petrolina,2020-05-13,4,1,7,3,5,1
+PE-Petrolina,2020-05-14,5,2,8,4,6,1
+PE-Petrolina,2020-05-15,5,1,8,2,5,1
+PE-Petrolina,2020-05-16,5,2,8,4,6,1
+PE-Petrolina,2020-05-17,5,2,8,4,6,1
 PE-Petrolina,2020-05-18,5,1,8,2,5,1
-PE-Petrolina,2020-05-19,5,2,9,2,5,1
-PE-Petrolina,2020-05-20,5,2,9,3,6,1
-PE-Petrolina,2020-05-21,6,2,9,5,7,1
-PE-Petrolina,2020-05-22,6,3,10,3,6,1
-PE-Petrolina,2020-05-23,6,2,10,4,7,1
-PE-Petrolina,2020-05-24,6,2,10,4,7,1
+PE-Petrolina,2020-05-19,5,1,8,3,5,1
+PE-Petrolina,2020-05-20,5,1,8,2,5,1
+PE-Petrolina,2020-05-21,6,2,9,3,6,1
+PE-Petrolina,2020-05-22,6,1,9,3,6,1
+PE-Petrolina,2020-05-23,6,3,10,4,7,1
+PE-Petrolina,2020-05-24,7,2,10,4,7,1
 PE-Petrolina,2020-05-25,7,2,10,4,7,1
-PE-Petrolina,2020-05-26,7,3,11,5,8,1
-PE-Petrolina,2020-05-27,7,3,11,5,8,1
-PE-Petrolina,2020-05-28,8,3,12,5,8,1
-PE-Petrolina,2020-05-29,8,3,12,6,9,1
-PE-Petrolina,2020-05-30,9,3,13,5,9,1
+PE-Petrolina,2020-05-26,7,3,11,4,7,1
+PE-Petrolina,2020-05-27,7,4,12,5,8,1
+PE-Petrolina,2020-05-28,8,3,12,6,9,1
+PE-Petrolina,2020-05-29,8,3,12,5,9,1
+PE-Petrolina,2020-05-30,9,5,14,5,9,1
 PE-Petrolina,2020-05-31,10,4,14,6,10,1
-PE-Petrolina,2020-06-01,10,4,15,7,11,1
-PE-Petrolina,2020-06-02,11,5,17,8,12,1
-PE-Petrolina,2020-06-03,12,5,17,8,13,1
-PE-Petrolina,2020-06-04,13,6,19,9,14,1
-PE-Petrolina,2020-06-05,15,8,21,11,16,1
-PE-Petrolina,2020-06-06,17,9,24,11,17,1
-PE-Petrolina,2020-06-07,19,11,26,14,20,1
-PE-Petrolina,2020-06-08,21,12,28,17,23,1
-PE-Petrolina,2020-06-09,24,14,31,21,27,1
-PE-Petrolina,2020-06-10,27,18,34,21,28,1
-PE-Petrolina,2020-06-11,30,22,39,24,31,1
-PE-Petrolina,2020-06-12,32,23,41,26,33,1
-PE-Petrolina,2020-06-13,33,26,43,28,35,1
-PE-Petrolina,2020-06-14,34,25,43,28,36,1
-PE-Petrolina,2020-06-15,34,25,43,30,37,1
-PE-Petrolina,2020-06-16,32,21,40,28,35,1
-PE-Petrolina,2020-06-17,30,20,38,24,31,1
-PE-Petrolina,2020-06-18,28,18,35,24,30,1
-PE-Petrolina,2020-06-19,28,19,35,24,30,1
-PE-Petrolina,2020-06-20,28,19,36,22,29,1
-PE-Petrolina,2020-06-21,29,20,37,24,31,1
-PE-Petrolina,2020-06-22,30,20,38,26,32,1
-PE-Petrolina,2020-06-23,31,21,38,25,32,1
-PE-Petrolina,2020-06-24,30,21,38,25,32,1
-PE-Petrolina,2020-06-25,31,22,39,27,33,1
-PE-Petrolina,2020-06-26,31,22,39,26,33,1
-PE-Petrolina,2020-06-27,32,24,40,26,33,1
-PE-Petrolina,2020-06-28,32,22,40,27,34,1
-PE-Petrolina,2020-06-29,31,21,39,26,33,1
-PE-Petrolina,2020-06-30,31,20,39,26,33,1
-PE-Petrolina,2020-07-01,31,20,38,26,33,1
-PE-Petrolina,2020-07-02,31,23,40,26,33,1
-PE-Petrolina,2020-07-03,32,22,41,27,34,1
-PE-Petrolina,2020-07-04,33,24,43,27,35,1
-PE-Petrolina,2020-07-05,35,25,44,31,38,1
-PE-Petrolina,2020-07-06,36,27,47,30,38,1
-PE-Petrolina,2020-07-07,38,26,47,31,39,1
-PE-Petrolina,2020-07-08,40,29,51,33,42,1
-PE-Petrolina,2020-07-09,42,30,53,35,44,1
-PE-Petrolina,2020-07-10,45,32,56,37,47,1
-PE-Petrolina,2020-07-11,48,34,59,41,51,1
-PE-Petrolina,2020-07-12,51,37,64,43,54,1
-PE-Petrolina,2020-07-13,54,42,70,44,56,1
-PE-Petrolina,2020-07-14,59,43,74,50,62,0.99
-PE-Petrolina,2020-07-15,64,48,81,55,68,0.99
-PE-Petrolina,2020-07-16,70,53,87,61,75,0.99
-PE-Petrolina,2020-07-17,78,61,95,69,83,0.99
-PE-Petrolina,2020-07-18,87,70,103,77,91,0.98
-PE-Petrolina,2020-07-19,95,78,111,88,101,0.98
-PE-Petrolina,2020-07-20,102,83,117,92,105,0.97
-PE-Petrolina,2020-07-21,107,90,124,99,112,0.97
-PE-Petrolina,2020-07-22,110,92,125,104,117,0.96
-PE-Petrolina,2020-07-23,112,93,127,100,114,0.94
-PE-Petrolina,2020-07-24,110,92,128,99,114,0.93
-PE-Petrolina,2020-07-25,106,88,123,99,113,0.91
-PE-Petrolina,2020-07-26,101,82,116,90,104,0.88
-PE-Petrolina,2020-07-27,94,77,110,88,101,0.85
-PE-Petrolina,2020-07-28,88,69,102,80,93,0.81
-PE-Recife,2020-01-30,1,1,1,1,1,1
-PE-Recife,2020-01-31,0.5,0,1,0,1,1
-PE-Recife,2020-02-01,0,0,0,0,0,1
-PE-Recife,2020-02-02,0,0,0,0,0,1
+PE-Petrolina,2020-06-01,10,5,16,7,11,1
+PE-Petrolina,2020-06-02,11,4,16,7,12,1
+PE-Petrolina,2020-06-03,12,6,18,8,13,1
+PE-Petrolina,2020-06-04,13,7,20,9,14,1
+PE-Petrolina,2020-06-05,15,7,21,12,17,1
+PE-Petrolina,2020-06-06,17,8,23,12,18,1
+PE-Petrolina,2020-06-07,19,10,25,14,20,1
+PE-Petrolina,2020-06-08,21,13,29,17,23,1
+PE-Petrolina,2020-06-09,24,16,32,18,25,1
+PE-Petrolina,2020-06-10,27,18,35,21,28,1
+PE-Petrolina,2020-06-11,29,19,37,25,32,1
+PE-Petrolina,2020-06-12,32,21,40,26,33,1
+PE-Petrolina,2020-06-13,34,24,42,28,35,1
+PE-Petrolina,2020-06-14,34,25,43,30,37,1
+PE-Petrolina,2020-06-15,34,24,42,28,35,1
+PE-Petrolina,2020-06-16,32,21,40,27,34,1
+PE-Petrolina,2020-06-17,30,22,39,25,32,1
+PE-Petrolina,2020-06-18,29,20,37,23,30,1
+PE-Petrolina,2020-06-19,28,19,35,25,31,1
+PE-Petrolina,2020-06-20,28,20,36,23,29,1
+PE-Petrolina,2020-06-21,30,20,37,24,31,1
+PE-Petrolina,2020-06-22,30,20,37,24,31,1
+PE-Petrolina,2020-06-23,30,20,38,25,32,1
+PE-Petrolina,2020-06-24,32,21,39,26,33,1
+PE-Petrolina,2020-06-25,31,22,39,26,33,1
+PE-Petrolina,2020-06-26,32,22,40,27,34,1
+PE-Petrolina,2020-06-27,32,23,41,27,34,1
+PE-Petrolina,2020-06-28,32,23,41,27,34,1
+PE-Petrolina,2020-06-29,32,23,41,26,33,1
+PE-Petrolina,2020-06-30,32,22,40,26,33,1
+PE-Petrolina,2020-07-01,31,22,40,26,33,1
+PE-Petrolina,2020-07-02,31,22,40,26,33,1
+PE-Petrolina,2020-07-03,32,23,42,27,34,1
+PE-Petrolina,2020-07-04,33,22,42,28,36,1
+PE-Petrolina,2020-07-05,35,25,45,29,37,1
+PE-Petrolina,2020-07-06,36,25,45,32,40,1
+PE-Petrolina,2020-07-07,38,26,48,31,40,1
+PE-Petrolina,2020-07-08,40,29,52,33,42,1
+PE-Petrolina,2020-07-09,42,30,52,39,47,1
+PE-Petrolina,2020-07-10,45,32,56,40,49,1
+PE-Petrolina,2020-07-11,48,37,61,42,52,1
+PE-Petrolina,2020-07-12,52,37,65,44,55,1
+PE-Petrolina,2020-07-13,55,39,68,45,57,1
+PE-Petrolina,2020-07-14,59,44,74,51,63,1
+PE-Petrolina,2020-07-15,64,47,79,55,68,0.99
+PE-Petrolina,2020-07-16,70.5,54,87,61,74,0.99
+PE-Petrolina,2020-07-17,79,61,96,70,84,0.99
+PE-Petrolina,2020-07-18,87,69,104,79,93,0.99
+PE-Petrolina,2020-07-19,95,79,112,88,100,0.98
+PE-Petrolina,2020-07-20,102,85,117,94,107,0.98
+PE-Petrolina,2020-07-21,108,87,122,97,111,0.97
+PE-Petrolina,2020-07-22,110,92,125,102,114,0.97
+PE-Petrolina,2020-07-23,112,93,128,102,116,0.96
+PE-Petrolina,2020-07-24,110,93,127,102,115,0.94
+PE-Petrolina,2020-07-25,106,89,125,95,110,0.93
+PE-Petrolina,2020-07-26,102,83,118,95,109,0.91
+PE-Petrolina,2020-07-27,94,78,113,85,99,0.88
+PE-Petrolina,2020-07-28,90,71,106,82,95,0.85
+PE-Petrolina,2020-07-29,87,68,103,76,89,0.81
+PE-Recife,2020-02-02,1,1,1,1,1,1
 PE-Recife,2020-02-03,0,0,0,0,0,1
-PE-Recife,2020-02-04,0,0,0,0,0,1
-PE-Recife,2020-02-05,0,0,0,0,0,1
-PE-Recife,2020-02-06,1,0,1,1,1,1
-PE-Recife,2020-02-07,0,0,2,0,0,1
+PE-Recife,2020-02-04,1,0,1,1,1,1
+PE-Recife,2020-02-05,0,0,1,0,0,1
+PE-Recife,2020-02-06,0,0,1,0,0,1
+PE-Recife,2020-02-07,0,0,1,0,0,1
 PE-Recife,2020-02-08,0,0,1,0,0,1
-PE-Recife,2020-02-09,1,0,1,1,1,1
+PE-Recife,2020-02-09,0,0,1,0,0,1
 PE-Recife,2020-02-10,0,0,1,0,0,1
 PE-Recife,2020-02-11,0,0,1,0,0,1
 PE-Recife,2020-02-12,0,0,1,0,0,1
@@ -4097,8 +4080,8 @@ PE-Recife,2020-02-23,0,0,1,0,0,1
 PE-Recife,2020-02-24,0,0,1,0,0,1
 PE-Recife,2020-02-25,0,0,1,0,0,1
 PE-Recife,2020-02-26,0,0,1,0,0,1
-PE-Recife,2020-02-27,0,0,1,0,0,1
-PE-Recife,2020-02-28,0,0,2,0,0,1
+PE-Recife,2020-02-27,0,0,2,0,0,1
+PE-Recife,2020-02-28,1,0,2,0,1,1
 PE-Recife,2020-02-29,1,0,2,0,1,1
 PE-Recife,2020-03-01,1,0,2,0,1,1
 PE-Recife,2020-03-02,1,0,2,0,1,1
@@ -4106,151 +4089,152 @@ PE-Recife,2020-03-03,1,0,3,0,1,1
 PE-Recife,2020-03-04,1,0,3,0,1,1
 PE-Recife,2020-03-05,1,0,3,0,1,1
 PE-Recife,2020-03-06,2,0,4,1,2,1
-PE-Recife,2020-03-07,2,0,4,0,2,1
+PE-Recife,2020-03-07,2,0,4,1,2,1
 PE-Recife,2020-03-08,2,0,5,0,2,1
 PE-Recife,2020-03-09,3,0,5,1,3,1
-PE-Recife,2020-03-10,3,0,6,1,3,1
+PE-Recife,2020-03-10,3,1,6,1,3,1
 PE-Recife,2020-03-11,3,0,6,2,4,1
-PE-Recife,2020-03-12,4,1,7,2,4,1
+PE-Recife,2020-03-12,4,0,7,2,4,1
 PE-Recife,2020-03-13,4,1,8,3,5,1
-PE-Recife,2020-03-14,5,1,9,2,5,1
-PE-Recife,2020-03-15,5,0,9,2,5,1
-PE-Recife,2020-03-16,6,1,11,4,7,1
-PE-Recife,2020-03-17,7,2,12,3,7,1
-PE-Recife,2020-03-18,8,3,14,6,10,1
-PE-Recife,2020-03-19,9,3,16,5,10,1
-PE-Recife,2020-03-20,11,3,18,6,12,1
-PE-Recife,2020-03-21,13,4,20,7,14,1
-PE-Recife,2020-03-22,15,5,24,9,16,1
-PE-Recife,2020-03-23,18,8,29,12,20,1
-PE-Recife,2020-03-24,21,11,33,16,24,1
-PE-Recife,2020-03-25,25,11,36,18,28,1
-PE-Recife,2020-03-26,30,17,44,23,34,1
-PE-Recife,2020-03-27,35,19,49,26,38,1
-PE-Recife,2020-03-28,42,25,58,34,47,1
-PE-Recife,2020-03-29,47,31,66,39,51,1
-PE-Recife,2020-03-30,55,34,72,44,58,1
-PE-Recife,2020-03-31,62,42,81,52,67,1
-PE-Recife,2020-04-01,70,51,92,61,77,1
-PE-Recife,2020-04-02,79,56,99,66,83,1
-PE-Recife,2020-04-03,87,66,110,79,96,1
-PE-Recife,2020-04-04,96,71,118,85,102,1
-PE-Recife,2020-04-05,105,80,128,90,110,1
-PE-Recife,2020-04-06,113.5,85,137,97,118,1
-PE-Recife,2020-04-07,122,96,145,109,129,1
-PE-Recife,2020-04-08,133,103,160,116,139,1
-PE-Recife,2020-04-09,142,109,167,125,149,1
-PE-Recife,2020-04-10,153,121,179,139,162,1
-PE-Recife,2020-04-11,163,131,193,146,171,1
-PE-Recife,2020-04-12,175.5,144,205,157,183,1
-PE-Recife,2020-04-13,187,154,220,171,197,1
-PE-Recife,2020-04-14,200,164,231,181,209,1
-PE-Recife,2020-04-15,213,179,243,197,224,1
-PE-Recife,2020-04-16,228,188,257,213,242,1
-PE-Recife,2020-04-17,241,205,274,222,250,1
-PE-Recife,2020-04-18,255,216,286,242,270,1
-PE-Recife,2020-04-19,269,228,298,251,279,1
-PE-Recife,2020-04-20,281,249,313,262,289,1
-PE-Recife,2020-04-21,289,259,318,272,296,1
-PE-Recife,2020-04-22,296,262,322,277,302,1
-PE-Recife,2020-04-23,296,267,327,281,306,1
-PE-Recife,2020-04-24,291,258,321,270,297,1
-PE-Recife,2020-04-25,287,249,320,271,298,1
-PE-Recife,2020-04-26,289,255,326,273,303,1
-PE-Recife,2020-04-27,294,254,330,275,306,1
-PE-Recife,2020-04-28,300.5,265,343,286,319,1
-PE-Recife,2020-04-29,311,271,353,292,326,1
-PE-Recife,2020-04-30,324,277,363,304,338,1
-PE-Recife,2020-05-01,339,298,385,322,356,1
-PE-Recife,2020-05-02,361,317,401,339,374,1
-PE-Recife,2020-05-03,379,341,420,362,394,1
-PE-Recife,2020-05-04,391,347,423,373,402,1
-PE-Recife,2020-05-05,393,358,429,373,403,1
-PE-Recife,2020-05-06,395,355,431,373,404,1
-PE-Recife,2020-05-07,400,363,438,386,417,1
-PE-Recife,2020-05-08,406,365,441,385,416,1
-PE-Recife,2020-05-09,412,377,452,393,424,1
-PE-Recife,2020-05-10,426,386,460,406,437,1
-PE-Recife,2020-05-11,432,392,470,414,446,1
-PE-Recife,2020-05-12,433,396,472,417,448,1
-PE-Recife,2020-05-13,427,392,469,409,440,1
-PE-Recife,2020-05-14,415,377,453,394,424,1
-PE-Recife,2020-05-15,398,356,437,383,416,1
-PE-Recife,2020-05-16,385,344,424,373,405,1
-PE-Recife,2020-05-17,366,328,404,345,377,1
-PE-Recife,2020-05-18,344,307,383,328,358,1
-PE-Recife,2020-05-19,317,280,350,299,328,1
-PE-Recife,2020-05-20,290,259,319,276,301,1
-PE-Recife,2020-05-21,270,241,297,254,278,1
-PE-Recife,2020-05-22,257,228,283,243,265,1
-PE-Recife,2020-05-23,251,220,275,240,262,1
-PE-Recife,2020-05-24,243,213,265,227,249,1
-PE-Recife,2020-05-25,234,207,261,224,245,1
-PE-Recife,2020-05-26,222,194,245,208,229,1
-PE-Recife,2020-05-27,210,182,232,195,215,1
-PE-Recife,2020-05-28,200.5,174,221,187,206,1
-PE-Recife,2020-05-29,195,169,216,185,203,1
-PE-Recife,2020-05-30,191,168,213,179,197,1
-PE-Recife,2020-05-31,190,168,214,179,197,1
-PE-Recife,2020-06-01,188,165,209,175,193,1
-PE-Recife,2020-06-02,184,162,206,171,189,1
-PE-Recife,2020-06-03,180,157,202,167,185,1
-PE-Recife,2020-06-04,180,155,200,169,187,1
-PE-Recife,2020-06-05,179,156,199,169,187,1
-PE-Recife,2020-06-06,179,156,202,170,188,1
-PE-Recife,2020-06-07,178,159,203,165,183,1
-PE-Recife,2020-06-08,176,151,196,163,181,1
-PE-Recife,2020-06-09,172,150,192,159,177,1
-PE-Recife,2020-06-10,168,144,188,157,174,1
-PE-Recife,2020-06-11,165,145,186,155,172,1
-PE-Recife,2020-06-12,164,143,184,158,174,1
-PE-Recife,2020-06-13,161,139,181,155,172,1
-PE-Recife,2020-06-14,159,136,179,147,164,1
-PE-Recife,2020-06-15,154,134,174,143,159,1
-PE-Recife,2020-06-16,148,129,166,141,156,1
-PE-Recife,2020-06-17,144,124,164,133,149,1
-PE-Recife,2020-06-18,142,119,160,134,149,1
-PE-Recife,2020-06-19,142,122,161,132,148,1
-PE-Recife,2020-06-20,143,122,162,133,149,1
-PE-Recife,2020-06-21,144,124,165,129,147,1
-PE-Recife,2020-06-22,144,125,166,129,147,1
-PE-Recife,2020-06-23,145,122,165,135,153,1
-PE-Recife,2020-06-24,147,123,168,133,151,1
-PE-Recife,2020-06-25,152,129,173,142,159,1
-PE-Recife,2020-06-26,156,131,177,142,160,1
-PE-Recife,2020-06-27,162,136,182,151,169,1
-PE-Recife,2020-06-28,167,143,188,152,171,1
-PE-Recife,2020-06-29,170,146,192,158,177,1
-PE-Recife,2020-06-30,172,148,195,161,180,1
-PE-Recife,2020-07-01,173,151,194,163,180,1
-PE-Recife,2020-07-02,175,153,199,164,182,1
-PE-Recife,2020-07-03,177,155,200,164,182,1
-PE-Recife,2020-07-04,180,155,200,170,188,1
-PE-Recife,2020-07-05,181,156,200,173,190,1
-PE-Recife,2020-07-06,181,156,202,169,188,1
-PE-Recife,2020-07-07,179,159,205,168,186,1
-PE-Recife,2020-07-08,176,154,200,167,185,1
-PE-Recife,2020-07-09,176,150,197,164,183,1
-PE-Recife,2020-07-10,178,155,201,166,185,1
-PE-Recife,2020-07-11,180,156,205,166,186,1
-PE-Recife,2020-07-12,183,157,206,173,192,1
-PE-Recife,2020-07-13,187,161,211,174,194,1
-PE-Recife,2020-07-14,190,161,212,181,201,1
-PE-Recife,2020-07-15,194,168,219,180,200,0.99
-PE-Recife,2020-07-16,198,172,222,187,207,0.99
-PE-Recife,2020-07-17,204,178,228,190,210,0.99
-PE-Recife,2020-07-18,210,182,232,199,218,0.99
-PE-Recife,2020-07-19,213,187,236,197,218,0.98
-PE-Recife,2020-07-20,213,186,236,200,220,0.98
-PE-Recife,2020-07-21,208,184,231,197,216,0.97
-PE-Recife,2020-07-22,201,175,223,188,207,0.97
-PE-Recife,2020-07-23,195,173,218,185,203,0.96
-PE-Recife,2020-07-24,190,164,212,178,197,0.95
-PE-Recife,2020-07-25,186,159,207,175,194,0.93
-PE-Recife,2020-07-26,182,157,202,170,188,0.91
-PE-Recife,2020-07-27,177,153,199,166,184,0.89
-PE-Recife,2020-07-28,170,147,191,164,182,0.85
-PE-Recife,2020-07-29,162,134,183,150,169,0.81
+PE-Recife,2020-03-14,4,0,8,2,5,1
+PE-Recife,2020-03-15,5,2,10,2,5,1
+PE-Recife,2020-03-16,6,2,11,3,6,1
+PE-Recife,2020-03-17,7,1,12,3,7,1
+PE-Recife,2020-03-18,8,2,14,5,9,1
+PE-Recife,2020-03-19,9,3,17,5,10,1
+PE-Recife,2020-03-20,11,4,19,5,11,1
+PE-Recife,2020-03-21,13,4,21,8,14,1
+PE-Recife,2020-03-22,16,6,25,10,17,1
+PE-Recife,2020-03-23,19,7,28,11,20,1
+PE-Recife,2020-03-24,22,10,33,15,24,1
+PE-Recife,2020-03-25,26,12,38,18,28,1
+PE-Recife,2020-03-26,30,16,45,21,32,1
+PE-Recife,2020-03-27,35,20,50,28,39,1
+PE-Recife,2020-03-28,41,26,58,34,46,1
+PE-Recife,2020-03-29,48,29,64,37,51,1
+PE-Recife,2020-03-30,55,36,73,45,59,1
+PE-Recife,2020-03-31,63,44,83,51,66,1
+PE-Recife,2020-04-01,70,51,92,60,75,1
+PE-Recife,2020-04-02,79,55,100,70,87,1
+PE-Recife,2020-04-03,88,63,108,73,92,1
+PE-Recife,2020-04-04,97,72,118,84,103,1
+PE-Recife,2020-04-05,104,76,125,91,111,1
+PE-Recife,2020-04-06,113,88,138,100,120,1
+PE-Recife,2020-04-07,122,94,147,111,132,1
+PE-Recife,2020-04-08,132,103,157,117,138,1
+PE-Recife,2020-04-09,141.5,113,169,125,147,1
+PE-Recife,2020-04-10,151,125,183,135,159,1
+PE-Recife,2020-04-11,163,135,194,146,170,1
+PE-Recife,2020-04-12,176,147,210,157,183,1
+PE-Recife,2020-04-13,187,154,219,170,195,1
+PE-Recife,2020-04-14,200,164,231,187,213,1
+PE-Recife,2020-04-15,213,175,243,202,229,1
+PE-Recife,2020-04-16,226,191,259,208,235,1
+PE-Recife,2020-04-17,240,205,275,220,248,1
+PE-Recife,2020-04-18,255,222,289,242,268,1
+PE-Recife,2020-04-19,269,237,301,256,283,1
+PE-Recife,2020-04-20,283,251,314,273,298,1
+PE-Recife,2020-04-21,292,257,320,278,303,1
+PE-Recife,2020-04-22,296,267,326,280,304,1
+PE-Recife,2020-04-23,297,263,324,284,308,1
+PE-Recife,2020-04-24,291,261,323,275,301,1
+PE-Recife,2020-04-25,288,254,322,272,300,1
+PE-Recife,2020-04-26,289,252,324,267,297,1
+PE-Recife,2020-04-27,294,262,338,279,311,1
+PE-Recife,2020-04-28,302,263,342,280,312,1
+PE-Recife,2020-04-29,311,269,353,295,328,1
+PE-Recife,2020-04-30,324,277,360,307,342,1
+PE-Recife,2020-05-01,341,297,383,315,353,1
+PE-Recife,2020-05-02,362,317,401,348,381,1
+PE-Recife,2020-05-03,378.5,344,423,356,388,1
+PE-Recife,2020-05-04,392,350,425,374,403,1
+PE-Recife,2020-05-05,396,356,430,382,412,1
+PE-Recife,2020-05-06,395,354,428,376,405,1
+PE-Recife,2020-05-07,398,357,432,381,410,1
+PE-Recife,2020-05-08,403,364,439,393,423,1
+PE-Recife,2020-05-09,415,380,457,395,426,1
+PE-Recife,2020-05-10,427,383,463,406,439,1
+PE-Recife,2020-05-11,433,393,472,413,443,1
+PE-Recife,2020-05-12,433,389,467,411,444,1
+PE-Recife,2020-05-13,427,384,462,407,439,1
+PE-Recife,2020-05-14,415,373,454,390,423,1
+PE-Recife,2020-05-15,398,359,441,380,411,1
+PE-Recife,2020-05-16,383,342,421,360,392,1
+PE-Recife,2020-05-17,364,321,401,346,376,1
+PE-Recife,2020-05-18,341,301,380,320,352,1
+PE-Recife,2020-05-19,315,279,351,296,325,1
+PE-Recife,2020-05-20,291,259,325,275,301,1
+PE-Recife,2020-05-21,271,240,300,253,278,1
+PE-Recife,2020-05-22,257,230,284,244,267,1
+PE-Recife,2020-05-23,250,220,275,234,257,1
+PE-Recife,2020-05-24,242,214,269,228,250,1
+PE-Recife,2020-05-25,233,203,255,221,241,1
+PE-Recife,2020-05-26,222,194,245,213,232,1
+PE-Recife,2020-05-27,209,184,233,200,220,1
+PE-Recife,2020-05-28,200,175,221,189,208,1
+PE-Recife,2020-05-29,194,172,219,180,200,1
+PE-Recife,2020-05-30,192,168,215,181,199,1
+PE-Recife,2020-05-31,191,165,212,176,195,1
+PE-Recife,2020-06-01,188,165,209,179,196,1
+PE-Recife,2020-06-02,182,159,205,170,188,1
+PE-Recife,2020-06-03,181,157,203,169,189,1
+PE-Recife,2020-06-04,179,156,200,168,187,1
+PE-Recife,2020-06-05,179,155,203,167,185,1
+PE-Recife,2020-06-06,179,157,204,165,184,1
+PE-Recife,2020-06-07,178,154,199,167,186,1
+PE-Recife,2020-06-08,175,151,195,167,184,1
+PE-Recife,2020-06-09,172,151,193,158,176,1
+PE-Recife,2020-06-10,167,147,189,156,173,1
+PE-Recife,2020-06-11,165,142,186,153,171,1
+PE-Recife,2020-06-12,163,142,182,155,170,1
+PE-Recife,2020-06-13,162,141,183,151,169,1
+PE-Recife,2020-06-14,159.5,136,178,150,167,1
+PE-Recife,2020-06-15,154,133,174,144,160,1
+PE-Recife,2020-06-16,149,129,168,141,156,1
+PE-Recife,2020-06-17,145,123,164,134,150,1
+PE-Recife,2020-06-18,143,120,163,133,150,1
+PE-Recife,2020-06-19,141,117,159,130,145,1
+PE-Recife,2020-06-20,143,121,163,134,150,1
+PE-Recife,2020-06-21,143,121,162,132,148,1
+PE-Recife,2020-06-22,145,123,167,137,153,1
+PE-Recife,2020-06-23,145,124,167,134,151,1
+PE-Recife,2020-06-24,147,123,168,140,157,1
+PE-Recife,2020-06-25,151,129,176,138,157,1
+PE-Recife,2020-06-26,156,134,180,146,164,1
+PE-Recife,2020-06-27,162,139,185,152,170,1
+PE-Recife,2020-06-28,167,142,188,159,176,1
+PE-Recife,2020-06-29,170,148,192,156,175,1
+PE-Recife,2020-06-30,172,151,193,160,177,1
+PE-Recife,2020-07-01,173,148,194,160,178,1
+PE-Recife,2020-07-02,176,150,195,166,184,1
+PE-Recife,2020-07-03,177,152,199,165,184,1
+PE-Recife,2020-07-04,181,157,201,170,189,1
+PE-Recife,2020-07-05,180,156,201,169,187,1
+PE-Recife,2020-07-06,181,155,200,170,188,1
+PE-Recife,2020-07-07,179,159,202,166,184,1
+PE-Recife,2020-07-08,177,152,196,167,185,1
+PE-Recife,2020-07-09,175,150,197,164,183,1
+PE-Recife,2020-07-10,178,151,199,165,185,1
+PE-Recife,2020-07-11,179,154,201,168,188,1
+PE-Recife,2020-07-12,183,157,204,169,188,1
+PE-Recife,2020-07-13,186,161,210,173,193,1
+PE-Recife,2020-07-14,191,162,213,178,199,1
+PE-Recife,2020-07-15,193,167,219,178,199,1
+PE-Recife,2020-07-16,199,173,221,187,206,0.99
+PE-Recife,2020-07-17,204,177,227,191,211,0.99
+PE-Recife,2020-07-18,209,181,232,194,216,0.99
+PE-Recife,2020-07-19,213,189,237,200,219,0.99
+PE-Recife,2020-07-20,212,187,235,203,222,0.98
+PE-Recife,2020-07-21,207,184,229,192,212,0.98
+PE-Recife,2020-07-22,200,175,222,189,207,0.97
+PE-Recife,2020-07-23,195,168,217,185,204,0.97
+PE-Recife,2020-07-24,189,165,210,182,200,0.96
+PE-Recife,2020-07-25,185,162,210,173,191,0.95
+PE-Recife,2020-07-26,183,159,205,173,191,0.93
+PE-Recife,2020-07-27,177,156,201,168,186,0.91
+PE-Recife,2020-07-28,172,147,194,163,181,0.89
+PE-Recife,2020-07-29,164,141,186,152,170,0.85
+PE-Recife,2020-07-30,158,134,183,144,163,0.81
 PE-Salgueiro,2020-02-26,1,1,1,1,1,1
 PE-Salgueiro,2020-02-27,0,0,0,0,0,1
 PE-Salgueiro,2020-02-28,0,0,0,0,0,1
@@ -4527,15 +4511,15 @@ PE-Sanharó,2020-07-18,11,4,15,7,11,0.87
 PE-Sanharó,2020-07-19,11,5,16,8,12,0.83
 PE-Sanharó,2020-07-20,12,5,18,7,12,0.78
 PE-Santa Cruz do Capibaribe,2020-03-07,1,1,1,1,1,1
-PE-Santa Cruz do Capibaribe,2020-03-08,1,0,1,1,1,1
-PE-Santa Cruz do Capibaribe,2020-03-09,0,0,1,0,0,1
-PE-Santa Cruz do Capibaribe,2020-03-10,0,0,1,0,0,1
-PE-Santa Cruz do Capibaribe,2020-03-11,0,0,1,0,0,1
-PE-Santa Cruz do Capibaribe,2020-03-12,0,0,0,0,0,1
+PE-Santa Cruz do Capibaribe,2020-03-08,0,0,0,0,0,1
+PE-Santa Cruz do Capibaribe,2020-03-09,0.5,0,1,0,1,1
+PE-Santa Cruz do Capibaribe,2020-03-10,0,0,0,0,0,1
+PE-Santa Cruz do Capibaribe,2020-03-11,0.5,0,1,0,1,1
+PE-Santa Cruz do Capibaribe,2020-03-12,0,0,1,0,0,1
 PE-Santa Cruz do Capibaribe,2020-03-13,0,0,1,0,0,1
-PE-Santa Cruz do Capibaribe,2020-03-14,0,0,1,0,0,1
-PE-Santa Cruz do Capibaribe,2020-03-15,0,0,0,0,0,1
-PE-Santa Cruz do Capibaribe,2020-03-16,0,0,1,0,0,1
+PE-Santa Cruz do Capibaribe,2020-03-14,1,0,1,1,1,1
+PE-Santa Cruz do Capibaribe,2020-03-15,0,0,1,0,0,1
+PE-Santa Cruz do Capibaribe,2020-03-16,1,0,1,1,1,1
 PE-Santa Cruz do Capibaribe,2020-03-17,0,0,1,0,0,1
 PE-Santa Cruz do Capibaribe,2020-03-18,0,0,1,0,0,1
 PE-Santa Cruz do Capibaribe,2020-03-19,0,0,1,0,0,1
@@ -4579,14 +4563,14 @@ PE-Santa Cruz do Capibaribe,2020-04-25,0,0,1,0,0,1
 PE-Santa Cruz do Capibaribe,2020-04-26,0,0,1,0,0,1
 PE-Santa Cruz do Capibaribe,2020-04-27,0,0,2,0,0,1
 PE-Santa Cruz do Capibaribe,2020-04-28,0,0,2,0,0,1
-PE-Santa Cruz do Capibaribe,2020-04-29,1,0,2,0,1,1
+PE-Santa Cruz do Capibaribe,2020-04-29,0,0,2,0,0,1
 PE-Santa Cruz do Capibaribe,2020-04-30,1,0,2,0,1,1
 PE-Santa Cruz do Capibaribe,2020-05-01,1,0,2,0,1,1
 PE-Santa Cruz do Capibaribe,2020-05-02,1,0,2,0,1,1
 PE-Santa Cruz do Capibaribe,2020-05-03,1,0,2,0,1,1
 PE-Santa Cruz do Capibaribe,2020-05-04,1,0,2,0,1,1
 PE-Santa Cruz do Capibaribe,2020-05-05,1,0,2,0,1,1
-PE-Santa Cruz do Capibaribe,2020-05-06,1,0,2,0,1,1
+PE-Santa Cruz do Capibaribe,2020-05-06,0,0,2,0,0,1
 PE-Santa Cruz do Capibaribe,2020-05-07,1,0,2,0,1,1
 PE-Santa Cruz do Capibaribe,2020-05-08,1,0,2,0,1,1
 PE-Santa Cruz do Capibaribe,2020-05-09,1,0,2,0,1,1
@@ -4602,74 +4586,75 @@ PE-Santa Cruz do Capibaribe,2020-05-18,1,0,2,0,1,1
 PE-Santa Cruz do Capibaribe,2020-05-19,1,0,2,0,1,1
 PE-Santa Cruz do Capibaribe,2020-05-20,1,0,3,0,1,1
 PE-Santa Cruz do Capibaribe,2020-05-21,1,0,3,0,1,1
-PE-Santa Cruz do Capibaribe,2020-05-22,1,0,4,0,1,1
+PE-Santa Cruz do Capibaribe,2020-05-22,1,0,3,0,1,1
 PE-Santa Cruz do Capibaribe,2020-05-23,2,0,4,1,2,1
-PE-Santa Cruz do Capibaribe,2020-05-24,2,0,5,0,2,1
+PE-Santa Cruz do Capibaribe,2020-05-24,2,0,4,0,2,1
 PE-Santa Cruz do Capibaribe,2020-05-25,3,0,5,1,3,1
 PE-Santa Cruz do Capibaribe,2020-05-26,3,1,6,1,3,1
-PE-Santa Cruz do Capibaribe,2020-05-27,4,0,6,2,4,1
+PE-Santa Cruz do Capibaribe,2020-05-27,3,0,6,2,4,1
 PE-Santa Cruz do Capibaribe,2020-05-28,4,1,7,3,5,1
 PE-Santa Cruz do Capibaribe,2020-05-29,5,1,8,3,5,1
-PE-Santa Cruz do Capibaribe,2020-05-30,5,2,9,2,5,1
-PE-Santa Cruz do Capibaribe,2020-05-31,6,1,9,3,6,1
+PE-Santa Cruz do Capibaribe,2020-05-30,5,1,8,2,5,1
+PE-Santa Cruz do Capibaribe,2020-05-31,6,2,9,3,6,1
 PE-Santa Cruz do Capibaribe,2020-06-01,6,2,10,4,7,1
-PE-Santa Cruz do Capibaribe,2020-06-02,7,2,11,4,7,1
-PE-Santa Cruz do Capibaribe,2020-06-03,8,3,12,5,8,1
-PE-Santa Cruz do Capibaribe,2020-06-04,8,3,13,5,9,1
-PE-Santa Cruz do Capibaribe,2020-06-05,9,4,14,8,11,1
-PE-Santa Cruz do Capibaribe,2020-06-06,10,6,16,7,11,1
-PE-Santa Cruz do Capibaribe,2020-06-07,12,6,17,9,13,1
-PE-Santa Cruz do Capibaribe,2020-06-08,12,6,19,8,13,1
-PE-Santa Cruz do Capibaribe,2020-06-09,14,6,19,9,14,1
-PE-Santa Cruz do Capibaribe,2020-06-10,15,8,21,11,16,1
-PE-Santa Cruz do Capibaribe,2020-06-11,17,9,23,14,19,1
-PE-Santa Cruz do Capibaribe,2020-06-12,19,10,26,14,20,1
+PE-Santa Cruz do Capibaribe,2020-06-02,7,1,10,4,7,1
+PE-Santa Cruz do Capibaribe,2020-06-03,8,3,12,6,9,1
+PE-Santa Cruz do Capibaribe,2020-06-04,8,4,13,5,9,1
+PE-Santa Cruz do Capibaribe,2020-06-05,9,3,14,6,10,1
+PE-Santa Cruz do Capibaribe,2020-06-06,10,5,16,7,11,1
+PE-Santa Cruz do Capibaribe,2020-06-07,12,5,17,7,12,1
+PE-Santa Cruz do Capibaribe,2020-06-08,13,6,18,8,13,1
+PE-Santa Cruz do Capibaribe,2020-06-09,14,8,20,10,15,1
+PE-Santa Cruz do Capibaribe,2020-06-10,16,9,22,12,17,1
+PE-Santa Cruz do Capibaribe,2020-06-11,17,9,24,12,18,1
+PE-Santa Cruz do Capibaribe,2020-06-12,19,11,26,14,20,1
 PE-Santa Cruz do Capibaribe,2020-06-13,21,12,28,16,22,1
-PE-Santa Cruz do Capibaribe,2020-06-14,23,14,31,18,25,1
-PE-Santa Cruz do Capibaribe,2020-06-15,26,15,34,20,27,1
-PE-Santa Cruz do Capibaribe,2020-06-16,29,20,38,24,31,1
-PE-Santa Cruz do Capibaribe,2020-06-17,32,20,40,28,35,1
-PE-Santa Cruz do Capibaribe,2020-06-18,35,24,44,29,37,1
-PE-Santa Cruz do Capibaribe,2020-06-19,38,28,48,32,40,1
-PE-Santa Cruz do Capibaribe,2020-06-20,41,32,51,34,42,1
-PE-Santa Cruz do Capibaribe,2020-06-21,43,33,52,39,46,1
-PE-Santa Cruz do Capibaribe,2020-06-22,43,33,54,37,45,1
-PE-Santa Cruz do Capibaribe,2020-06-23,44,33,53,40,48,1
-PE-Santa Cruz do Capibaribe,2020-06-24,44,33,53,37,45,1
+PE-Santa Cruz do Capibaribe,2020-06-14,23,16,33,20,26,1
+PE-Santa Cruz do Capibaribe,2020-06-15,26,17,35,20,27,1
+PE-Santa Cruz do Capibaribe,2020-06-16,29,17,37,22,30,1
+PE-Santa Cruz do Capibaribe,2020-06-17,32,21,41,26,34,1
+PE-Santa Cruz do Capibaribe,2020-06-18,35,25,45,29,37,1
+PE-Santa Cruz do Capibaribe,2020-06-19,38,28,47,35,42,1
+PE-Santa Cruz do Capibaribe,2020-06-20,40,30,50,34,42,1
+PE-Santa Cruz do Capibaribe,2020-06-21,43,33,53,36,44,1
+PE-Santa Cruz do Capibaribe,2020-06-22,43,34,53,37,45,1
+PE-Santa Cruz do Capibaribe,2020-06-23,44,32,53,41,49,1
+PE-Santa Cruz do Capibaribe,2020-06-24,43,31,52,37,45,1
 PE-Santa Cruz do Capibaribe,2020-06-25,44,33,53,38,46,1
-PE-Santa Cruz do Capibaribe,2020-06-26,45,34,55,38,47,1
-PE-Santa Cruz do Capibaribe,2020-06-27,46,35,57,42,50,1
-PE-Santa Cruz do Capibaribe,2020-06-28,47,36,57,40,49,1
-PE-Santa Cruz do Capibaribe,2020-06-29,47,36,57,43,51,1
-PE-Santa Cruz do Capibaribe,2020-06-30,47,37,57,41,49,1
-PE-Santa Cruz do Capibaribe,2020-07-01,46,34,56,39,48,1
-PE-Santa Cruz do Capibaribe,2020-07-02,45,33,54,41,49,1
-PE-Santa Cruz do Capibaribe,2020-07-03,44,33,54,40,48,1
-PE-Santa Cruz do Capibaribe,2020-07-04,43,34,54,38,46,1
-PE-Santa Cruz do Capibaribe,2020-07-05,43,32,52,37,45,1
-PE-Santa Cruz do Capibaribe,2020-07-06,43,31,51,36,44,1
-PE-Santa Cruz do Capibaribe,2020-07-07,42,32,52,36,44,1
-PE-Santa Cruz do Capibaribe,2020-07-08,41,31,51,36,44,1
-PE-Santa Cruz do Capibaribe,2020-07-09,42,30,51,37,45,1
-PE-Santa Cruz do Capibaribe,2020-07-10,42,31,52,36,44,1
-PE-Santa Cruz do Capibaribe,2020-07-11,43,32,52,38,46,1
-PE-Santa Cruz do Capibaribe,2020-07-12,43,33,54,37,45,1
-PE-Santa Cruz do Capibaribe,2020-07-13,44,32,54,38,46,1
-PE-Santa Cruz do Capibaribe,2020-07-14,45,34,55,38,47,0.99
-PE-Santa Cruz do Capibaribe,2020-07-15,46,35,57,40,49,0.99
-PE-Santa Cruz do Capibaribe,2020-07-16,48,38,60,42,51,0.99
-PE-Santa Cruz do Capibaribe,2020-07-17,51,40,63,44,53,0.99
-PE-Santa Cruz do Capibaribe,2020-07-18,52,41,63,45,54,0.98
-PE-Santa Cruz do Capibaribe,2020-07-19,52,42,64,47,56,0.98
-PE-Santa Cruz do Capibaribe,2020-07-20,51.5,39,63,43,53,0.97
-PE-Santa Cruz do Capibaribe,2020-07-21,49,35,58,43,52,0.97
-PE-Santa Cruz do Capibaribe,2020-07-22,47,36,57,42,50,0.96
-PE-Santa Cruz do Capibaribe,2020-07-23,45,35,56,40,48,0.94
-PE-Santa Cruz do Capibaribe,2020-07-24,44,34,56,37,46,0.93
-PE-Santa Cruz do Capibaribe,2020-07-25,44,32,54,40,48,0.91
-PE-Santa Cruz do Capibaribe,2020-07-26,43,32,54,36,45,0.88
-PE-Santa Cruz do Capibaribe,2020-07-27,41,30,52,37,45,0.85
-PE-Santa Cruz do Capibaribe,2020-07-28,40,26,51,33,42,0.8
+PE-Santa Cruz do Capibaribe,2020-06-26,45,32,53,39,47,1
+PE-Santa Cruz do Capibaribe,2020-06-27,46,34,56,42,50,1
+PE-Santa Cruz do Capibaribe,2020-06-28,47,36,58,41,50,1
+PE-Santa Cruz do Capibaribe,2020-06-29,48,37,59,41,50,1
+PE-Santa Cruz do Capibaribe,2020-06-30,46,34,56,40,49,1
+PE-Santa Cruz do Capibaribe,2020-07-01,45.5,35,56,42,50,1
+PE-Santa Cruz do Capibaribe,2020-07-02,45,33,54,36,45,1
+PE-Santa Cruz do Capibaribe,2020-07-03,44,32,53,39,47,1
+PE-Santa Cruz do Capibaribe,2020-07-04,44,31,52,37,45,1
+PE-Santa Cruz do Capibaribe,2020-07-05,43,33,53,37,45,1
+PE-Santa Cruz do Capibaribe,2020-07-06,43,31,51,37,45,1
+PE-Santa Cruz do Capibaribe,2020-07-07,42,31,51,36,44,1
+PE-Santa Cruz do Capibaribe,2020-07-08,42,31,52,37,45,1
+PE-Santa Cruz do Capibaribe,2020-07-09,42,32,52,36,44,1
+PE-Santa Cruz do Capibaribe,2020-07-10,42,31,51,36,44,1
+PE-Santa Cruz do Capibaribe,2020-07-11,43,32,52,37,45,1
+PE-Santa Cruz do Capibaribe,2020-07-12,44,31,53,40,48,1
+PE-Santa Cruz do Capibaribe,2020-07-13,44,31,53,39,47,1
+PE-Santa Cruz do Capibaribe,2020-07-14,45,33,54,38,47,1
+PE-Santa Cruz do Capibaribe,2020-07-15,46,34,55,42,50,0.99
+PE-Santa Cruz do Capibaribe,2020-07-16,49,38,59,42,51,0.99
+PE-Santa Cruz do Capibaribe,2020-07-17,50,38,61,45,53,0.99
+PE-Santa Cruz do Capibaribe,2020-07-18,52,40,62,47,56,0.99
+PE-Santa Cruz do Capibaribe,2020-07-19,52,38,62,47,56,0.98
+PE-Santa Cruz do Capibaribe,2020-07-20,51,39,62,45,54,0.98
+PE-Santa Cruz do Capibaribe,2020-07-21,49,39,60,42,51,0.97
+PE-Santa Cruz do Capibaribe,2020-07-22,47,35,57,40,49,0.97
+PE-Santa Cruz do Capibaribe,2020-07-23,46,36,57,39,48,0.96
+PE-Santa Cruz do Capibaribe,2020-07-24,46,34,55,41,49,0.94
+PE-Santa Cruz do Capibaribe,2020-07-25,45,33,54,39,47,0.93
+PE-Santa Cruz do Capibaribe,2020-07-26,45,33,55,40,48,0.91
+PE-Santa Cruz do Capibaribe,2020-07-27,44,33,55,37,46,0.88
+PE-Santa Cruz do Capibaribe,2020-07-28,44,32,55,37,46,0.85
+PE-Santa Cruz do Capibaribe,2020-07-29,44,32,56,39,48,0.81
 PE-São Bento do Una,2020-03-10,1,1,1,1,1,1
 PE-São Bento do Una,2020-03-11,0,0,0,0,0,1
 PE-São Bento do Una,2020-03-12,1,1,1,1,1,1
@@ -4956,13 +4941,19 @@ PE-São Caitano,2020-07-20,11.5,5,16,8,12,0.88
 PE-São Caitano,2020-07-21,12,6,18,10,14,0.85
 PE-São Caitano,2020-07-22,13,5,19,9,14,0.81
 PE-São Caitano,2020-07-23,14,7,22,9,15,0.75
-PE-Serra Talhada,2020-03-04,1,1,1,1,1,1
+PE-Serra Talhada,2020-02-27,1,1,1,1,1,1
+PE-Serra Talhada,2020-02-28,0,0,0,0,0,1
+PE-Serra Talhada,2020-02-29,0,0,0,0,0,1
+PE-Serra Talhada,2020-03-01,0,0,0,0,0,1
+PE-Serra Talhada,2020-03-02,0,0,0,0,0,1
+PE-Serra Talhada,2020-03-03,0,0,0,0,0,1
+PE-Serra Talhada,2020-03-04,0.5,0,1,0,1,1
 PE-Serra Talhada,2020-03-05,0,0,0,0,0,1
-PE-Serra Talhada,2020-03-06,0,0,0,0,0,1
-PE-Serra Talhada,2020-03-07,0,0,0,0,0,1
+PE-Serra Talhada,2020-03-06,0.5,0,1,0,1,1
+PE-Serra Talhada,2020-03-07,0,0,1,0,0,1
 PE-Serra Talhada,2020-03-08,0,0,0,0,0,1
-PE-Serra Talhada,2020-03-09,0.5,0,1,0,1,1
-PE-Serra Talhada,2020-03-10,1,0,1,1,1,1
+PE-Serra Talhada,2020-03-09,0,0,1,0,0,1
+PE-Serra Talhada,2020-03-10,0,0,1,0,0,1
 PE-Serra Talhada,2020-03-11,0,0,1,0,0,1
 PE-Serra Talhada,2020-03-12,0,0,1,0,0,1
 PE-Serra Talhada,2020-03-13,0,0,1,0,0,1
@@ -4997,7 +4988,7 @@ PE-Serra Talhada,2020-04-10,0,0,1,0,0,1
 PE-Serra Talhada,2020-04-11,0,0,1,0,0,1
 PE-Serra Talhada,2020-04-12,0,0,1,0,0,1
 PE-Serra Talhada,2020-04-13,0,0,1,0,0,1
-PE-Serra Talhada,2020-04-14,0,0,1,0,0,1
+PE-Serra Talhada,2020-04-14,0,0,2,0,0,1
 PE-Serra Talhada,2020-04-15,0,0,2,0,0,1
 PE-Serra Talhada,2020-04-16,0,0,2,0,0,1
 PE-Serra Talhada,2020-04-17,1,0,2,0,1,1
@@ -5010,99 +5001,100 @@ PE-Serra Talhada,2020-04-23,1,0,2,0,1,1
 PE-Serra Talhada,2020-04-24,1,0,2,0,1,1
 PE-Serra Talhada,2020-04-25,1,0,2,0,1,1
 PE-Serra Talhada,2020-04-26,1,0,2,0,1,1
-PE-Serra Talhada,2020-04-27,1,0,3,0,1,1
+PE-Serra Talhada,2020-04-27,1,0,2,0,1,1
 PE-Serra Talhada,2020-04-28,1,0,3,0,1,1
 PE-Serra Talhada,2020-04-29,1,0,3,0,1,1
 PE-Serra Talhada,2020-04-30,1,0,3,0,1,1
-PE-Serra Talhada,2020-05-01,2,0,4,1,2,1
+PE-Serra Talhada,2020-05-01,2,0,3,1,2,1
 PE-Serra Talhada,2020-05-02,2,0,4,1,2,1
 PE-Serra Talhada,2020-05-03,2,0,4,1,2,1
 PE-Serra Talhada,2020-05-04,2,0,4,0,2,1
-PE-Serra Talhada,2020-05-05,2,0,5,0,2,1
+PE-Serra Talhada,2020-05-05,3,0,5,1,3,1
 PE-Serra Talhada,2020-05-06,3,0,5,1,3,1
-PE-Serra Talhada,2020-05-07,3,1,6,1,3,1
-PE-Serra Talhada,2020-05-08,4,1,7,2,4,1
+PE-Serra Talhada,2020-05-07,3,0,6,1,3,1
+PE-Serra Talhada,2020-05-08,4,0,6,2,4,1
 PE-Serra Talhada,2020-05-09,4,1,7,3,5,1
-PE-Serra Talhada,2020-05-10,5,0,7,3,5,1
+PE-Serra Talhada,2020-05-10,5,1,8,3,5,1
 PE-Serra Talhada,2020-05-11,5,1,8,2,5,1
 PE-Serra Talhada,2020-05-12,6,2,9,3,6,1
-PE-Serra Talhada,2020-05-13,6,3,10,3,6,1
+PE-Serra Talhada,2020-05-13,6,2,10,3,6,1
 PE-Serra Talhada,2020-05-14,7,2,10,4,7,1
 PE-Serra Talhada,2020-05-15,7,2,10,4,7,1
 PE-Serra Talhada,2020-05-16,7,2,10,4,7,1
-PE-Serra Talhada,2020-05-17,7,3,10,4,7,1
-PE-Serra Talhada,2020-05-18,7,3,11,4,7,1
+PE-Serra Talhada,2020-05-17,7,2,10,4,7,1
+PE-Serra Talhada,2020-05-18,7,2,10,4,7,1
 PE-Serra Talhada,2020-05-19,7,2,10,4,7,1
 PE-Serra Talhada,2020-05-20,7,2,10,4,7,1
-PE-Serra Talhada,2020-05-21,7,2,10,4,7,1
-PE-Serra Talhada,2020-05-22,7,3,11,5,8,1
-PE-Serra Talhada,2020-05-23,8,4,12,5,8,1
-PE-Serra Talhada,2020-05-24,8,4,12,5,8,1
-PE-Serra Talhada,2020-05-25,8,4,12,6,9,1
-PE-Serra Talhada,2020-05-26,8,3,12,6,9,1
-PE-Serra Talhada,2020-05-27,8,4,13,6,9,1
+PE-Serra Talhada,2020-05-21,7,3,11,4,7,1
+PE-Serra Talhada,2020-05-22,7,2,10,4,7,1
+PE-Serra Talhada,2020-05-23,7,3,11,5,8,1
+PE-Serra Talhada,2020-05-24,8,3,12,6,9,1
+PE-Serra Talhada,2020-05-25,8,3,12,6,9,1
+PE-Serra Talhada,2020-05-26,8.5,3,12,7,10,1
+PE-Serra Talhada,2020-05-27,9,4,13,5,9,1
 PE-Serra Talhada,2020-05-28,9,4,13,7,10,1
-PE-Serra Talhada,2020-05-29,9,5,14,7,10,1
-PE-Serra Talhada,2020-05-30,9,4,14,7,10,1
-PE-Serra Talhada,2020-05-31,10,5,14,8,11,1
-PE-Serra Talhada,2020-06-01,10,4,14,6,10,1
-PE-Serra Talhada,2020-06-02,10,5,15,6,10,1
+PE-Serra Talhada,2020-05-29,9,5,14,5,9,1
+PE-Serra Talhada,2020-05-30,10,5,14,8,11,1
+PE-Serra Talhada,2020-05-31,10,4,14,6,10,1
+PE-Serra Talhada,2020-06-01,10,5,14,8,11,1
+PE-Serra Talhada,2020-06-02,10,4,14,6,10,1
 PE-Serra Talhada,2020-06-03,10,5,15,7,11,1
-PE-Serra Talhada,2020-06-04,11,6,16,7,11,1
-PE-Serra Talhada,2020-06-05,12,5,16,8,12,1
-PE-Serra Talhada,2020-06-06,12,7,17,9,13,1
-PE-Serra Talhada,2020-06-07,13,7,18,11,15,1
+PE-Serra Talhada,2020-06-04,11,5,16,8,12,1
+PE-Serra Talhada,2020-06-05,12,6,17,8,12,1
+PE-Serra Talhada,2020-06-06,12,5,17,10,14,1
+PE-Serra Talhada,2020-06-07,13,7,19,9,14,1
 PE-Serra Talhada,2020-06-08,14,7,19,10,15,1
-PE-Serra Talhada,2020-06-09,15,8,21,11,16,1
-PE-Serra Talhada,2020-06-10,17,10,23,13,18,1
-PE-Serra Talhada,2020-06-11,18,11,24,14,19,1
-PE-Serra Talhada,2020-06-12,19,11,25,16,21,1
+PE-Serra Talhada,2020-06-09,15,9,21,11,16,1
+PE-Serra Talhada,2020-06-10,17,11,23,13,18,1
+PE-Serra Talhada,2020-06-11,18,10,24,13,18,1
+PE-Serra Talhada,2020-06-12,19,10,24,15,20,1
 PE-Serra Talhada,2020-06-13,19,11,25,16,21,1
-PE-Serra Talhada,2020-06-14,19,13,26,15,20,1
-PE-Serra Talhada,2020-06-15,19,11,25,16,21,1
-PE-Serra Talhada,2020-06-16,19,12,26,16,21,1
-PE-Serra Talhada,2020-06-17,20,12,26,17,22,1
-PE-Serra Talhada,2020-06-18,21,13,27,17,22,1
-PE-Serra Talhada,2020-06-19,22,14,29,17,23,1
-PE-Serra Talhada,2020-06-20,23,16,31,18,24,1
-PE-Serra Talhada,2020-06-21,24,17,31,19,25,1
-PE-Serra Talhada,2020-06-22,25,17,33,21,27,1
-PE-Serra Talhada,2020-06-23,26,19,34,21,27,1
-PE-Serra Talhada,2020-06-24,27,18,34,22,28,1
-PE-Serra Talhada,2020-06-25,27,19,35,22,28,1
-PE-Serra Talhada,2020-06-26,28,19,35,22,29,1
-PE-Serra Talhada,2020-06-27,28,19,35,25,31,1
-PE-Serra Talhada,2020-06-28,27,18,34,23,29,1
-PE-Serra Talhada,2020-06-29,26,18,34,22,28,1
-PE-Serra Talhada,2020-06-30,26,18,34,23,29,1
-PE-Serra Talhada,2020-07-01,25,16,33,19,26,1
-PE-Serra Talhada,2020-07-02,25,17,33,21,27,1
-PE-Serra Talhada,2020-07-03,26,18,33,22,28,1
-PE-Serra Talhada,2020-07-04,25,18,33,21,27,1
-PE-Serra Talhada,2020-07-05,25,17,33,21,27,1
-PE-Serra Talhada,2020-07-06,25,16,33,22,28,1
-PE-Serra Talhada,2020-07-07,25,15,32,19,26,1
-PE-Serra Talhada,2020-07-08,26,15,34,19,27,1
-PE-Serra Talhada,2020-07-09,28,18,38,22,30,1
-PE-Serra Talhada,2020-07-10,31,20,41,25,33,1
-PE-Serra Talhada,2020-07-11,35,23,45,29,38,1
-PE-Serra Talhada,2020-07-12,39,26,49,32,41,1
-PE-Serra Talhada,2020-07-13,43,32,55,38,47,1
-PE-Serra Talhada,2020-07-14,48,34,59,40,50,0.99
-PE-Serra Talhada,2020-07-15,53,40,65,48,58,0.99
-PE-Serra Talhada,2020-07-16,58,45,69,53,62,0.99
-PE-Serra Talhada,2020-07-17,63,49,76,56,67,0.99
-PE-Serra Talhada,2020-07-18,67,52,79,62,72,0.98
-PE-Serra Talhada,2020-07-19,71,57,84,67,77,0.98
-PE-Serra Talhada,2020-07-20,74,61,87,67,78,0.97
-PE-Serra Talhada,2020-07-21,74,60,87,69,79,0.97
-PE-Serra Talhada,2020-07-22,74,58,85,66,77,0.96
-PE-Serra Talhada,2020-07-23,74,59,87,65,77,0.94
-PE-Serra Talhada,2020-07-24,74,60,88,69,80,0.93
-PE-Serra Talhada,2020-07-25,74,59,88,65,77,0.91
-PE-Serra Talhada,2020-07-26,73,57,86,64,75,0.88
-PE-Serra Talhada,2020-07-27,69,55,85,60,72,0.85
-PE-Serra Talhada,2020-07-28,65,50,79,56,67,0.81
+PE-Serra Talhada,2020-06-14,19,13,26,17,22,1
+PE-Serra Talhada,2020-06-15,19,11,25,14,20,1
+PE-Serra Talhada,2020-06-16,19,11,25,16,21,1
+PE-Serra Talhada,2020-06-17,20,13,27,17,22,1
+PE-Serra Talhada,2020-06-18,21,13,28,16,22,1
+PE-Serra Talhada,2020-06-19,22,13,28,16,22,1
+PE-Serra Talhada,2020-06-20,23,16,30,18,24,1
+PE-Serra Talhada,2020-06-21,24,16,31,20,26,1
+PE-Serra Talhada,2020-06-22,25,17,32,21,27,1
+PE-Serra Talhada,2020-06-23,26,18,34,22,28,1
+PE-Serra Talhada,2020-06-24,27,18,34,23,29,1
+PE-Serra Talhada,2020-06-25,27,19,36,22,29,1
+PE-Serra Talhada,2020-06-26,28,19,35,24,30,1
+PE-Serra Talhada,2020-06-27,27,19,35,23,29,1
+PE-Serra Talhada,2020-06-28,28,18,35,23,29,1
+PE-Serra Talhada,2020-06-29,27,18,34,23,29,1
+PE-Serra Talhada,2020-06-30,26,17,33,23,29,1
+PE-Serra Talhada,2020-07-01,25,18,33,20,26,1
+PE-Serra Talhada,2020-07-02,25,17,33,22,28,1
+PE-Serra Talhada,2020-07-03,25,17,32,21,27,1
+PE-Serra Talhada,2020-07-04,25,16,32,21,27,1
+PE-Serra Talhada,2020-07-05,25,17,33,19,26,1
+PE-Serra Talhada,2020-07-06,24,16,33,19,26,1
+PE-Serra Talhada,2020-07-07,25,16,34,21,28,1
+PE-Serra Talhada,2020-07-08,26,16,34,21,28,1
+PE-Serra Talhada,2020-07-09,28,17,38,21,30,1
+PE-Serra Talhada,2020-07-10,31,19,41,27,35,1
+PE-Serra Talhada,2020-07-11,35,23,47,28,38,1
+PE-Serra Talhada,2020-07-12,39,28,52,34,43,1
+PE-Serra Talhada,2020-07-13,44,33,57,37,47,1
+PE-Serra Talhada,2020-07-14,48,35,60,44,54,1
+PE-Serra Talhada,2020-07-15,53,39,65,49,59,0.99
+PE-Serra Talhada,2020-07-16,58,43,71,52,63,0.99
+PE-Serra Talhada,2020-07-17,63.5,49,76,56,67,0.99
+PE-Serra Talhada,2020-07-18,68,54,80,64,74,0.99
+PE-Serra Talhada,2020-07-19,71,59,85,62,73,0.98
+PE-Serra Talhada,2020-07-20,74,59,86,68,78,0.98
+PE-Serra Talhada,2020-07-21,76,61,88,70,81,0.97
+PE-Serra Talhada,2020-07-22,75,60,87,69,79,0.97
+PE-Serra Talhada,2020-07-23,75,59,86,68,79,0.96
+PE-Serra Talhada,2020-07-24,74,59,86,67,78,0.94
+PE-Serra Talhada,2020-07-25,74,60,88,66,78,0.93
+PE-Serra Talhada,2020-07-26,73,56,86,65,77,0.91
+PE-Serra Talhada,2020-07-27,70,55,84,61,73,0.88
+PE-Serra Talhada,2020-07-28,67,52,81,60,71,0.85
+PE-Serra Talhada,2020-07-29,64,48,77,56,67,0.81
 PE-Surubim,2020-03-14,1,1,1,1,1,1
 PE-Surubim,2020-03-15,0,0,0,0,0,1
 PE-Surubim,2020-03-16,1,0,1,1,1,1
