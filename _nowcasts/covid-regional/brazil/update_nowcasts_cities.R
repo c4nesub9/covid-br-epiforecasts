@@ -13,23 +13,31 @@ argv <- commandArgs(TRUE)
 
 results_dir <- ifelse(length(argv) >= 1, argv[1], "brazil/cities")
 results_dir <- gsub("/$", "", results_dir) # remove trailing slash
+city_list_file <- ifelse(length(argv) >= 2, argv[2], "data/ne-capitais.csv")
+min_forecast_cases <- ifelse(length(argv) >= 3, argv[3], 100)
+case_limit <- ifelse(length(argv) >= 4, argv[4], 20)
 
 # Get cases ---------------------------------------------------------------
-
-min_total_cases <- 2000
-regions_filt <- c("Nordeste")
+filter_cities <- read.csv(city_list_file) %>%
+	mutate(name = paste(UF, city, sep = "-")
 
 NCoVUtils::reset_cache()
-
 cases <- NCoVUtils::get_brazil_regional_cases(geography = "municipalities") %>%
   dplyr::group_by(city_name) %>%
-  dplyr::mutate(total_cases = sum(cases, na.rm = TRUE),
-                cases = ifelse(cases < 0, 0, cases)) %>%
+  dplyr::mutate(
+    cases = ifelse(cases < 0, 0, cases),
+    total_cases = sum(cases, na.rm = TRUE),
+    cases_last_week = sum(cases[date >= max(date) - lubridate::days(7)],
+                          na.rm = TRUE),
+    max_daily_cases = max(cases, na.rm = TRUE)
+  ) %>%
   dplyr::ungroup() %>%
   dplyr::mutate(city_name = sapply(str_split(city_name, pattern = "/"),
                                    function(x) paste(x[2:1], collapse = "-"))) %>%
   dplyr::rename(region = city_name, region_code = state_code) %>%
-  dplyr::filter(total_cases >= min_total_cases, region_name %in% regions_filt,
+  dplyr::filter(cases_last_week >= min_forecast_cases,
+                max_daily_cases >= case_limit,
+                region_code %in% state,
                 !str_detect(region, "CASO SEM LOCALIZAÇÃO DEFINIDA"))
 
 state_codes <- sort(unique(cases$region_code))
