@@ -13,13 +13,14 @@ argv <- commandArgs(TRUE)
 
 results_dir <- ifelse(length(argv) >= 1, argv[1], "brazil/cities")
 results_dir <- gsub("/$", "", results_dir) # remove trailing slash
-city_list_file <- ifelse(length(argv) >= 2, argv[2], "data/ne-capitais.csv")
+city_list_file <- ifelse(length(argv) >= 2, argv[2], "brazil/data/ne-capitais.csv")
 min_forecast_cases <- ifelse(length(argv) >= 3, argv[3], 100)
 case_limit <- ifelse(length(argv) >= 4, argv[4], 20)
+ncores <- ifelse(length(argv) >= 5, as.integer(argv[5]), future::availableCores())
 
 # Get cases ---------------------------------------------------------------
 filter_cities <- read.csv(city_list_file) %>%
-	mutate(name = paste(UF, city, sep = "-")
+	mutate(name = paste(UF, city, sep = "-"))
 
 NCoVUtils::reset_cache()
 cases <- NCoVUtils::get_brazil_regional_cases(geography = "municipalities") %>%
@@ -37,7 +38,7 @@ cases <- NCoVUtils::get_brazil_regional_cases(geography = "municipalities") %>%
   dplyr::rename(region = city_name, region_code = state_code) %>%
   dplyr::filter(cases_last_week >= min_forecast_cases,
                 max_daily_cases >= case_limit,
-                region_code %in% state,
+                toupper(region) %in% toupper(filter_cities$name),
                 !str_detect(region, "CASO SEM LOCALIZAÇÃO DEFINIDA"))
 
 state_codes <- sort(unique(cases$region_code))
@@ -65,7 +66,7 @@ if (!interactive()){
   options(future.fork.enable = TRUE)
 }
 
-future::plan("multiprocess", workers = round(future::availableCores()))
+future::plan("multiprocess", workers = ncores)
 
 #for (state_code in state_codes) {
 #  cases_state <- filter(cases, region_code == state_code)
@@ -76,8 +77,8 @@ EpiNow::regional_rt_pipeline(
   cases = cases,
   delay_defs = delay_defs,
   target_folder = results_dir,
-  case_limit = 40,
-  min_forecast_cases = 200,
+  case_limit = case_limit,
+  min_forecast_cases = min_forecast_cases,
   horizon = 14,
   nowcast_lag = 10,
   approx_delay = TRUE,
