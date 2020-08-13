@@ -1,0 +1,2146 @@
+"region","date","type","bottom","top","lower","upper","median","mean"
+"AL-Canapi",2020-04-01,"nowcast",1,1,1,1,1,1
+"AL-Canapi",2020-04-02,"nowcast",0,1,0,1,0.5,0.5
+"AL-Canapi",2020-04-03,"nowcast",0,1,0,1,0.5,0.5
+"AL-Canapi",2020-04-04,"nowcast",0,0,0,0,0,0
+"AL-Canapi",2020-04-05,"nowcast",0,1,0,0,0,0.333333333333333
+"AL-Canapi",2020-04-06,"nowcast",0,0,0,0,0,0
+"AL-Canapi",2020-04-07,"nowcast",0,1,0,0,0,0.333333333333333
+"AL-Canapi",2020-04-08,"nowcast",0,0,0,0,0,0
+"AL-Canapi",2020-04-09,"nowcast",0,1,0,0,0,0.4
+"AL-Canapi",2020-04-10,"nowcast",0,1,0,0,0,0.428571428571429
+"AL-Canapi",2020-04-11,"nowcast",0,1,0,0,0,0.333333333333333
+"AL-Canapi",2020-04-12,"nowcast",0,1,0,0,0,0.272727272727273
+"AL-Canapi",2020-04-13,"nowcast",0,0,0,0,0,0.0833333333333333
+"AL-Canapi",2020-04-14,"nowcast",0,1,0,0,0,0.2
+"AL-Canapi",2020-04-15,"nowcast",0,1,0,0,0,0.25
+"AL-Canapi",2020-04-16,"nowcast",0,1,0,0,0,0.413793103448276
+"AL-Canapi",2020-04-17,"nowcast",0,1,0,0,0,0.282051282051282
+"AL-Canapi",2020-04-18,"nowcast",0,1,0,0,0,0.25531914893617
+"AL-Canapi",2020-04-19,"nowcast",0,1,0,0,0,0.263157894736842
+"AL-Canapi",2020-04-20,"nowcast",0,1,0,0,0,0.263888888888889
+"AL-Canapi",2020-04-21,"nowcast",0,1,0,0,0,0.261363636363636
+"AL-Canapi",2020-04-22,"nowcast",0,1,0,0,0,0.275229357798165
+"AL-Canapi",2020-04-23,"nowcast",0,1,0,0,0,0.2265625
+"AL-Canapi",2020-04-24,"nowcast",0,1,0,0,0,0.272727272727273
+"AL-Canapi",2020-04-25,"nowcast",0,1,0,0,0,0.262135922330097
+"AL-Canapi",2020-04-26,"nowcast",0,1,0,0,0,0.228915662650602
+"AL-Canapi",2020-04-27,"nowcast",0,1,0,0,0,0.243506493506494
+"AL-Canapi",2020-04-28,"nowcast",0,1,0,0,0,0.180790960451977
+"AL-Canapi",2020-04-29,"nowcast",0,1,0,0,0,0.18546365914787
+"AL-Canapi",2020-04-30,"nowcast",0,1,0,0,0,0.175166297117517
+"AL-Canapi",2020-05-01,"nowcast",0,1,0,0,0,0.193548387096774
+"AL-Canapi",2020-05-02,"nowcast",0,1,0,0,0,0.15807560137457
+"AL-Canapi",2020-05-03,"nowcast",0,1,0,0,0,0.152866242038217
+"AL-Canapi",2020-05-04,"nowcast",0,1,0,0,0,0.113808801213961
+"AL-Canapi",2020-05-05,"nowcast",0,0,0,0,0,0.0719530102790015
+"AL-Canapi",2020-05-06,"nowcast",0,0,0,0,0,0.0601719197707736
+"AL-Canapi",2020-05-07,"nowcast",0,0,0,0,0,0.0409604519774011
+"AL-Canapi",2020-05-08,"nowcast",0,0,0,0,0,0.0557880055788006
+"AL-Canapi",2020-05-09,"nowcast",0,0,0,0,0,0.0710382513661202
+"AL-Canapi",2020-05-10,"nowcast",0,0,0,0,0,0.060893098782138
+"AL-Canapi",2020-05-11,"nowcast",0,0,0,0,0,0.0836653386454183
+"AL-Canapi",2020-05-12,"nowcast",0,0,0,0,0,0.0899608865710561
+"AL-Canapi",2020-05-13,"nowcast",0,1,0,0,0,0.13722998729352
+"AL-Canapi",2020-05-14,"nowcast",0,1,0,0,0,0.109159347553325
+"AL-Canapi",2020-05-15,"nowcast",0,1,0,0,0,0.154034229828851
+"AL-Canapi",2020-05-16,"nowcast",0,1,0,0,0,0.157957244655582
+"AL-Canapi",2020-05-17,"nowcast",0,1,0,0,0,0.164746543778802
+"AL-Canapi",2020-05-18,"nowcast",0,1,0,0,0,0.188275084554679
+"AL-Canapi",2020-05-19,"nowcast",0,1,0,0,0,0.206820682068207
+"AL-Canapi",2020-05-20,"nowcast",0,1,0,0,0,0.195253505933118
+"AL-Canapi",2020-05-21,"nowcast",0,1,0,0,0,0.18384697130712
+"AL-Canapi",2020-05-22,"nowcast",0,1,0,0,0,0.158562367864693
+"AL-Canapi",2020-05-23,"nowcast",0,1,0,0,0,0.152241918665276
+"AL-Canapi",2020-05-24,"nowcast",0,1,0,0,0,0.115625
+"AL-Canapi",2020-05-25,"nowcast",0,1,0,0,0,0.118257261410788
+"AL-Canapi",2020-05-26,"nowcast",0,1,0,0,0,0.12111801242236
+"AL-Canapi",2020-05-27,"nowcast",0,1,0,0,0,0.117768595041322
+"AL-Canapi",2020-05-28,"nowcast",0,1,0,0,0,0.111111111111111
+"AL-Canapi",2020-05-29,"nowcast",0,1,0,0,0,0.142710472279261
+"AL-Canapi",2020-05-30,"nowcast",0,1,0,0,0,0.145342886386899
+"AL-Canapi",2020-05-31,"nowcast",0,1,0,0,0,0.195097037793667
+"AL-Canapi",2020-06-01,"nowcast",0,1,0,0,0,0.220977596741344
+"AL-Canapi",2020-06-02,"nowcast",0,1,0,0,0,0.272357723577236
+"AL-Canapi",2020-06-03,"nowcast",0,1,0,0,0,0.294236602628918
+"AL-Canapi",2020-06-04,"nowcast",0,1,0,0,0,0.301715438950555
+"AL-Canapi",2020-06-05,"nowcast",0,1,0,0,0,0.338368580060423
+"AL-Canapi",2020-06-06,"nowcast",0,1,0,0,0,0.394974874371859
+"AL-Canapi",2020-06-07,"nowcast",0,1,0,0,0,0.374122367101304
+"AL-Canapi",2020-06-08,"nowcast",0,1,0,0,0,0.389167502507523
+"AL-Canapi",2020-06-09,"nowcast",0,1,0,0,0,0.340020060180542
+"AL-Canapi",2020-06-10,"nowcast",0,1,0,0,0,0.359077231695085
+"AL-Canapi",2020-06-11,"nowcast",0,1,0,0,0,0.374749498997996
+"AL-Canapi",2020-06-12,"nowcast",0,1,0,0,0,0.374749498997996
+"AL-Canapi",2020-06-13,"nowcast",0,1,0,0,0,0.410821643286573
+"AL-Canapi",2020-06-14,"nowcast",0,1,0,0,0,0.401803607214429
+"AL-Canapi",2020-06-15,"nowcast",0,1,0,0,0,0.452
+"AL-Canapi",2020-06-16,"nowcast",0,1,0,0,0,0.439
+"AL-Canapi",2020-06-17,"nowcast",0,1,0,0,0,0.45
+"AL-Canapi",2020-06-18,"nowcast",0,1,0,0,0,0.414
+"AL-Canapi",2020-06-19,"nowcast",0,1,0,0,0,0.423
+"AL-Canapi",2020-06-20,"nowcast",0,1,0,0,0,0.397
+"AL-Canapi",2020-06-21,"nowcast",0,1,0,0,0,0.353
+"AL-Canapi",2020-06-22,"nowcast",0,1,0,0,0,0.296
+"AL-Canapi",2020-06-23,"nowcast",0,1,0,0,0,0.289
+"AL-Canapi",2020-06-24,"nowcast",0,1,0,0,0,0.292
+"AL-Canapi",2020-06-25,"nowcast",0,1,0,0,0,0.327
+"AL-Canapi",2020-06-26,"nowcast",0,1,0,0,0,0.352
+"AL-Canapi",2020-06-27,"nowcast",0,1,0,0,0,0.395
+"AL-Canapi",2020-06-28,"nowcast",0,1,0,0,0,0.483
+"AL-Canapi",2020-06-29,"nowcast",0,1,0,0,0,0.482
+"AL-Canapi",2020-06-30,"nowcast",0,1,0,0,0,0.538
+"AL-Canapi",2020-07-01,"nowcast",0,2,0,0,0,0.54
+"AL-Canapi",2020-07-02,"nowcast",0,1,0,0,0,0.495
+"AL-Canapi",2020-07-03,"nowcast",0,2,0,0,0,0.533
+"AL-Canapi",2020-07-04,"nowcast",0,1,0,0,0,0.532
+"AL-Canapi",2020-07-05,"nowcast",0,2,0,0,0,0.572
+"AL-Canapi",2020-07-06,"nowcast",0,2,0,0,0,0.666
+"AL-Canapi",2020-07-07,"nowcast",0,2,0,1,1,0.764
+"AL-Canapi",2020-07-08,"nowcast",0,2,0,1,1,0.828
+"AL-Canapi",2020-07-09,"nowcast",0,2,0,1,1,0.952
+"AL-Canapi",2020-07-10,"nowcast",0,3,0,1,1,1.112
+"AL-Canapi",2020-07-11,"nowcast",0,3,0,1,1,1.286
+"AL-Canapi",2020-07-12,"nowcast",0,3,0,1,1,1.336
+"AL-Canapi",2020-07-13,"nowcast",0,3,0,1,1,1.461
+"AL-Canapi",2020-07-14,"nowcast",0,3,1,2,1.5,1.667
+"AL-Canapi",2020-07-15,"nowcast",0,4,1,2,2,1.773
+"AL-Canapi",2020-07-16,"nowcast",0,4,1,2,2,1.865
+"AL-Canapi",2020-07-17,"nowcast",0,4,1,2,2,1.834
+"AL-Canapi",2020-07-18,"nowcast",0,4,1,2,2,1.872
+"AL-Canapi",2020-07-19,"nowcast",0,4,1,2,2,1.913
+"AL-Canapi",2020-07-20,"nowcast",0,4,1,2,2,1.831
+"AL-Canapi",2020-07-21,"nowcast",0,4,1,2,2,1.839
+"AL-Canapi",2020-07-22,"nowcast",0,4,1,2,2,1.801
+"AL-Canapi",2020-07-23,"nowcast",0,4,1,2,2,2.089
+"AL-Canapi",2020-07-24,"nowcast",0,5,0,2,2,2.447
+"AL-Canapi",2020-07-25,"nowcast",0,5,0,2,2,2.721
+"AL-Canapi",2020-07-26,"nowcast",0,5,1,3,3,2.929
+"AL-Canapi",2020-07-27,"nowcast",0,6,1,3,3,3.411
+"AL-Canapi",2020-07-28,"nowcast",0,7,1,4,4,4.063
+"AL-Canapi",2020-07-29,"nowcast",0,9,1,4,4,4.912
+"AL-Canapi",2020-07-30,"nowcast",0,11,1,5,5,5.977
+"AL-Canapi",2020-05-08,"observed",NA,NA,NA,NA,1,NA
+"AL-Canapi",2020-05-09,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-05-10,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-05-11,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-05-12,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-05-13,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-05-14,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-05-15,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-05-16,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-05-17,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-05-18,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-05-19,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-05-20,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-05-21,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-05-22,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-05-23,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-05-24,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-05-25,"observed",NA,NA,NA,NA,1,NA
+"AL-Canapi",2020-05-26,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-05-27,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-05-28,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-05-29,"observed",NA,NA,NA,NA,1,NA
+"AL-Canapi",2020-05-30,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-05-31,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-06-01,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-06-02,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-06-03,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-06-04,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-06-05,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-06-06,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-06-07,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-06-08,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-06-09,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-06-10,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-06-11,"observed",NA,NA,NA,NA,1,NA
+"AL-Canapi",2020-06-12,"observed",NA,NA,NA,NA,1,NA
+"AL-Canapi",2020-06-13,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-06-14,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-06-15,"observed",NA,NA,NA,NA,1,NA
+"AL-Canapi",2020-06-16,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-06-17,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-06-18,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-06-19,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-06-20,"observed",NA,NA,NA,NA,1,NA
+"AL-Canapi",2020-06-21,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-06-22,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-06-23,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-06-24,"observed",NA,NA,NA,NA,3,NA
+"AL-Canapi",2020-06-25,"observed",NA,NA,NA,NA,1,NA
+"AL-Canapi",2020-06-26,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-06-27,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-06-28,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-06-29,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-06-30,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-07-01,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-07-02,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-07-03,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-07-04,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-07-05,"observed",NA,NA,NA,NA,2,NA
+"AL-Canapi",2020-07-06,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-07-07,"observed",NA,NA,NA,NA,2,NA
+"AL-Canapi",2020-07-08,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-07-09,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-07-10,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-07-11,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-07-12,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-07-13,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-07-14,"observed",NA,NA,NA,NA,1,NA
+"AL-Canapi",2020-07-15,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-07-16,"observed",NA,NA,NA,NA,1,NA
+"AL-Canapi",2020-07-17,"observed",NA,NA,NA,NA,1,NA
+"AL-Canapi",2020-07-18,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-07-19,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-07-20,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-07-21,"observed",NA,NA,NA,NA,3,NA
+"AL-Canapi",2020-07-22,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-07-23,"observed",NA,NA,NA,NA,6,NA
+"AL-Canapi",2020-07-24,"observed",NA,NA,NA,NA,5,NA
+"AL-Canapi",2020-07-25,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-07-26,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-07-27,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-07-28,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-07-29,"observed",NA,NA,NA,NA,5,NA
+"AL-Canapi",2020-07-30,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-07-31,"observed",NA,NA,NA,NA,3,NA
+"AL-Canapi",2020-08-01,"observed",NA,NA,NA,NA,1,NA
+"AL-Canapi",2020-08-02,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-08-03,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-08-04,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-08-05,"observed",NA,NA,NA,NA,7,NA
+"AL-Canapi",2020-08-06,"observed",NA,NA,NA,NA,1,NA
+"AL-Canapi",2020-08-07,"observed",NA,NA,NA,NA,5,NA
+"AL-Canapi",2020-08-08,"observed",NA,NA,NA,NA,1,NA
+"AL-Canapi",2020-08-09,"observed",NA,NA,NA,NA,1,NA
+"AL-Canapi",2020-08-10,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-08-11,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-08-12,"observed",NA,NA,NA,NA,0,NA
+"AL-Canapi",2020-07-31,"forecast",0,15,0,5,5,7.0224
+"AL-Canapi",2020-08-01,"forecast",0,19,0,6,6,8.7018
+"AL-Canapi",2020-08-02,"forecast",0,24,0,7,7,10.8976
+"AL-Canapi",2020-08-03,"forecast",0,32,0,7,7,13.6046
+"AL-Canapi",2020-08-04,"forecast",0,40,0,9,9,17.9986
+"AL-Canapi",2020-08-05,"forecast",0,49,0,9,9,23.7698
+"AL-Canapi",2020-08-06,"forecast",0,65,0,10,10,35.432
+"AL-Canapi",2020-08-07,"forecast",0,84,0,11,11,57.8868
+"AL-Canapi",2020-08-08,"forecast",0,106,0,13,13,90.4474
+"AL-Canapi",2020-08-09,"forecast",0,133,0,14,14,200.2582
+"AL-Canapi",2020-08-10,"forecast",0,176,0,15,15,370.173
+"AL-Canapi",2020-08-11,"forecast",0,235,0,17,17,1081.5306
+"AL-Canapi",2020-08-12,"forecast",0,322,0,19,19,2450.9556
+"AL-Canapi",2020-08-13,"forecast",0,403,0,21,21,6324.2956
+"AL-Lagoa da Canoa",2020-03-24,"nowcast",1,1,1,1,1,1
+"AL-Lagoa da Canoa",2020-03-25,"nowcast",0,1,0,1,0.5,0.5
+"AL-Lagoa da Canoa",2020-03-26,"nowcast",0,1,0,0,0,0.333333333333333
+"AL-Lagoa da Canoa",2020-03-27,"nowcast",0,1,0,0,0,0.25
+"AL-Lagoa da Canoa",2020-03-28,"nowcast",0,0,0,0,0,0
+"AL-Lagoa da Canoa",2020-03-29,"nowcast",0,1,0,0,0,0.333333333333333
+"AL-Lagoa da Canoa",2020-03-30,"nowcast",0,0,0,0,0,0
+"AL-Lagoa da Canoa",2020-03-31,"nowcast",0,1,0,0,0,0.444444444444444
+"AL-Lagoa da Canoa",2020-04-01,"nowcast",0,1,0,0,0,0.363636363636364
+"AL-Lagoa da Canoa",2020-04-02,"nowcast",0,1,0,0,0,0.214285714285714
+"AL-Lagoa da Canoa",2020-04-03,"nowcast",0,1,0,0,0,0.294117647058824
+"AL-Lagoa da Canoa",2020-04-04,"nowcast",0,1,0,0,0,0.15
+"AL-Lagoa da Canoa",2020-04-05,"nowcast",0,1,0,0,0,0.344827586206897
+"AL-Lagoa da Canoa",2020-04-06,"nowcast",0,1,0,0,0,0.205882352941176
+"AL-Lagoa da Canoa",2020-04-07,"nowcast",0,0,0,0,0,0.0810810810810811
+"AL-Lagoa da Canoa",2020-04-08,"nowcast",0,1,0,0,0,0.222222222222222
+"AL-Lagoa da Canoa",2020-04-09,"nowcast",0,1,0,0,0,0.214285714285714
+"AL-Lagoa da Canoa",2020-04-10,"nowcast",0,1,0,0,0,0.215384615384615
+"AL-Lagoa da Canoa",2020-04-11,"nowcast",0,1,0,0,0,0.259259259259259
+"AL-Lagoa da Canoa",2020-04-12,"nowcast",0,1,0,0,0,0.242424242424242
+"AL-Lagoa da Canoa",2020-04-13,"nowcast",0,1,0,0,0,0.21551724137931
+"AL-Lagoa da Canoa",2020-04-14,"nowcast",0,1,0,0,0,0.251748251748252
+"AL-Lagoa da Canoa",2020-04-15,"nowcast",0,1,0,0,0,0.304347826086957
+"AL-Lagoa da Canoa",2020-04-16,"nowcast",0,1,0,0,0,0.20627802690583
+"AL-Lagoa da Canoa",2020-04-17,"nowcast",0,1,0,0,0,0.203065134099617
+"AL-Lagoa da Canoa",2020-04-18,"nowcast",0,1,0,0,0,0.238095238095238
+"AL-Lagoa da Canoa",2020-04-19,"nowcast",0,1,0,0,0,0.201101928374656
+"AL-Lagoa da Canoa",2020-04-20,"nowcast",0,1,0,0,0,0.206730769230769
+"AL-Lagoa da Canoa",2020-04-21,"nowcast",0,1,0,0,0,0.18895966029724
+"AL-Lagoa da Canoa",2020-04-22,"nowcast",0,1,0,0,0,0.170498084291188
+"AL-Lagoa da Canoa",2020-04-23,"nowcast",0,1,0,0,0,0.171821305841924
+"AL-Lagoa da Canoa",2020-04-24,"nowcast",0,1,0,0,0,0.13322632423756
+"AL-Lagoa da Canoa",2020-04-25,"nowcast",0,1,0,0,0,0.10381679389313
+"AL-Lagoa da Canoa",2020-04-26,"nowcast",0,0,0,0,0,0.0766961651917404
+"AL-Lagoa da Canoa",2020-04-27,"nowcast",0,0,0,0,0,0.0576368876080692
+"AL-Lagoa da Canoa",2020-04-28,"nowcast",0,0,0,0,0,0.0440340909090909
+"AL-Lagoa da Canoa",2020-04-29,"nowcast",0,0,0,0,0,0.047752808988764
+"AL-Lagoa da Canoa",2020-04-30,"nowcast",0,0,0,0,0,0.0461538461538462
+"AL-Lagoa da Canoa",2020-05-01,"nowcast",0,0,0,0,0,0.065843621399177
+"AL-Lagoa da Canoa",2020-05-02,"nowcast",0,0,0,0,0,0.0928667563930013
+"AL-Lagoa da Canoa",2020-05-03,"nowcast",0,1,0,0,0,0.107284768211921
+"AL-Lagoa da Canoa",2020-05-04,"nowcast",0,1,0,0,0,0.148771021992238
+"AL-Lagoa da Canoa",2020-05-05,"nowcast",0,1,0,0,0,0.182389937106918
+"AL-Lagoa da Canoa",2020-05-06,"nowcast",0,1,0,0,0,0.199513381995134
+"AL-Lagoa da Canoa",2020-05-07,"nowcast",0,1,0,0,0,0.181168057210965
+"AL-Lagoa da Canoa",2020-05-08,"nowcast",0,1,0,0,0,0.259515570934256
+"AL-Lagoa da Canoa",2020-05-09,"nowcast",0,1,0,0,0,0.330011074197121
+"AL-Lagoa da Canoa",2020-05-10,"nowcast",0,1,0,0,0,0.415318230852211
+"AL-Lagoa da Canoa",2020-05-11,"nowcast",0,1,0,0,0,0.490506329113924
+"AL-Lagoa da Canoa",2020-05-12,"nowcast",0,2,0,0,0,0.53160621761658
+"AL-Lagoa da Canoa",2020-05-13,"nowcast",0,2,0,0,0,0.624360286591607
+"AL-Lagoa da Canoa",2020-05-14,"nowcast",0,2,0,1,1,0.755825734549139
+"AL-Lagoa da Canoa",2020-05-15,"nowcast",0,2,0,1,1,0.829979879275654
+"AL-Lagoa da Canoa",2020-05-16,"nowcast",0,2,0,1,1,0.903711133400201
+"AL-Lagoa da Canoa",2020-05-17,"nowcast",0,2,0,1,1,1.06112224448898
+"AL-Lagoa da Canoa",2020-05-18,"nowcast",0,3,0,1,1,1.14914914914915
+"AL-Lagoa da Canoa",2020-05-19,"nowcast",0,3,0,1,1,1.27627627627628
+"AL-Lagoa da Canoa",2020-05-20,"nowcast",0,3,0,1,1,1.29229229229229
+"AL-Lagoa da Canoa",2020-05-21,"nowcast",0,3,0,1,1,1.497
+"AL-Lagoa da Canoa",2020-05-22,"nowcast",0,3,0,1,1,1.609
+"AL-Lagoa da Canoa",2020-05-23,"nowcast",0,4,1,2,2,1.856
+"AL-Lagoa da Canoa",2020-05-24,"nowcast",0,4,1,2,2,2.097
+"AL-Lagoa da Canoa",2020-05-25,"nowcast",0,4,0,2,2,2.325
+"AL-Lagoa da Canoa",2020-05-26,"nowcast",0,5,0,2,2,2.608
+"AL-Lagoa da Canoa",2020-05-27,"nowcast",0,5,1,3,3,2.859
+"AL-Lagoa da Canoa",2020-05-28,"nowcast",1,6,1,3,3,3.396
+"AL-Lagoa da Canoa",2020-05-29,"nowcast",1,6,2,4,4,3.657
+"AL-Lagoa da Canoa",2020-05-30,"nowcast",1,7,2,4,4,4.026
+"AL-Lagoa da Canoa",2020-05-31,"nowcast",1,7,2,4,4,4.257
+"AL-Lagoa da Canoa",2020-06-01,"nowcast",1,7,3,5,4,4.55
+"AL-Lagoa da Canoa",2020-06-02,"nowcast",2,8,3,5,4,4.571
+"AL-Lagoa da Canoa",2020-06-03,"nowcast",1,7,3,5,5,4.708
+"AL-Lagoa da Canoa",2020-06-04,"nowcast",1,7,3,5,4,4.521
+"AL-Lagoa da Canoa",2020-06-05,"nowcast",1,7,3,5,4,4.347
+"AL-Lagoa da Canoa",2020-06-06,"nowcast",1,7,3,5,4,4.34
+"AL-Lagoa da Canoa",2020-06-07,"nowcast",1,7,3,5,4,4.467
+"AL-Lagoa da Canoa",2020-06-08,"nowcast",1,7,3,5,4,4.595
+"AL-Lagoa da Canoa",2020-06-09,"nowcast",1,7,3,5,4.5,4.642
+"AL-Lagoa da Canoa",2020-06-10,"nowcast",1,7,3,5,4,4.437
+"AL-Lagoa da Canoa",2020-06-11,"nowcast",1,7,2,4,4,4.107
+"AL-Lagoa da Canoa",2020-06-12,"nowcast",0,6,2,4,4,3.739
+"AL-Lagoa da Canoa",2020-06-13,"nowcast",1,6,1,3,3,3.207
+"AL-Lagoa da Canoa",2020-06-14,"nowcast",0,5,1,3,3,2.986
+"AL-Lagoa da Canoa",2020-06-15,"nowcast",0,5,1,3,3,2.768
+"AL-Lagoa da Canoa",2020-06-16,"nowcast",0,5,1,3,3,2.684
+"AL-Lagoa da Canoa",2020-06-17,"nowcast",0,5,1,3,3,2.703
+"AL-Lagoa da Canoa",2020-06-18,"nowcast",0,5,1,3,3,2.897
+"AL-Lagoa da Canoa",2020-06-19,"nowcast",0,5,1,3,3,2.88
+"AL-Lagoa da Canoa",2020-06-20,"nowcast",0,5,1,3,3,2.929
+"AL-Lagoa da Canoa",2020-06-21,"nowcast",0,5,1,3,3,3.058
+"AL-Lagoa da Canoa",2020-06-22,"nowcast",0,5,1,3,3,3.097
+"AL-Lagoa da Canoa",2020-06-23,"nowcast",0,5,1,3,3,2.949
+"AL-Lagoa da Canoa",2020-06-24,"nowcast",0,5,1,3,3,3.015
+"AL-Lagoa da Canoa",2020-06-25,"nowcast",0,5,1,3,3,3.131
+"AL-Lagoa da Canoa",2020-06-26,"nowcast",1,6,1,3,3,3.365
+"AL-Lagoa da Canoa",2020-06-27,"nowcast",1,6,1,3,3,3.469
+"AL-Lagoa da Canoa",2020-06-28,"nowcast",0,6,2,4,4,3.892
+"AL-Lagoa da Canoa",2020-06-29,"nowcast",1,7,2,4,4,4.221
+"AL-Lagoa da Canoa",2020-06-30,"nowcast",0,7,3,5,4,4.492
+"AL-Lagoa da Canoa",2020-07-01,"nowcast",2,8,3,5,5,4.897
+"AL-Lagoa da Canoa",2020-07-02,"nowcast",2,9,4,6,5,5.546
+"AL-Lagoa da Canoa",2020-07-03,"nowcast",2,9,3,6,6,6.011
+"AL-Lagoa da Canoa",2020-07-04,"nowcast",3,10,4,7,6,6.39
+"AL-Lagoa da Canoa",2020-07-05,"nowcast",2,10,4,7,7,6.689
+"AL-Lagoa da Canoa",2020-07-06,"nowcast",3,10,4,7,6,6.631
+"AL-Lagoa da Canoa",2020-07-07,"nowcast",3,10,3,6,6,6.376
+"AL-Lagoa da Canoa",2020-07-08,"nowcast",2,9,3,6,6,5.897
+"AL-Lagoa da Canoa",2020-07-09,"nowcast",1,8,4,6,5,5.194
+"AL-Lagoa da Canoa",2020-07-10,"nowcast",0,7,3,5,4,4.612
+"AL-Lagoa da Canoa",2020-07-11,"nowcast",1,7,2,4,4,4.172
+"AL-Lagoa da Canoa",2020-07-12,"nowcast",1,7,2,4,4,4.053
+"AL-Lagoa da Canoa",2020-07-13,"nowcast",1,7,2,4,4,4.175
+"AL-Lagoa da Canoa",2020-07-14,"nowcast",1,7,3,5,4,4.515
+"AL-Lagoa da Canoa",2020-07-15,"nowcast",0,7,3,5,5,4.71
+"AL-Lagoa da Canoa",2020-07-16,"nowcast",2,8,4,6,5,5.081
+"AL-Lagoa da Canoa",2020-07-17,"nowcast",1,8,4,6,5,5.219
+"AL-Lagoa da Canoa",2020-07-18,"nowcast",1,8,2,5,5,5.411
+"AL-Lagoa da Canoa",2020-07-19,"nowcast",1,8,4,6,5,5.236
+"AL-Lagoa da Canoa",2020-07-20,"nowcast",1,8,2,5,5,5.043
+"AL-Lagoa da Canoa",2020-07-21,"nowcast",1,7,3,5,4,4.336
+"AL-Lagoa da Canoa",2020-07-22,"nowcast",0,6,2,4,3,3.705
+"AL-Lagoa da Canoa",2020-07-23,"nowcast",0,6,1,3,3,3.218
+"AL-Lagoa da Canoa",2020-07-24,"nowcast",0,6,1,3,3,3.02
+"AL-Lagoa da Canoa",2020-07-25,"nowcast",0,6,1,3,3,3.053
+"AL-Lagoa da Canoa",2020-07-26,"nowcast",0,7,1,3,3,3.266
+"AL-Lagoa da Canoa",2020-07-27,"nowcast",0,7,1,3,3,3.669
+"AL-Lagoa da Canoa",2020-07-28,"nowcast",0,9,0,3,3,4.261
+"AL-Lagoa da Canoa",2020-07-29,"nowcast",0,12,0,3,3,4.939
+"AL-Lagoa da Canoa",2020-07-30,"nowcast",0,14,0,3,3,5.56656656656657
+"AL-Lagoa da Canoa",2020-07-31,"nowcast",0,18,0,4,4,6.60420841683367
+"AL-Lagoa da Canoa",2020-08-01,"nowcast",0,18,1,5,5,7.11256281407035
+"AL-Lagoa da Canoa",2020-04-29,"observed",NA,NA,NA,NA,1,NA
+"AL-Lagoa da Canoa",2020-04-30,"observed",NA,NA,NA,NA,0,NA
+"AL-Lagoa da Canoa",2020-05-01,"observed",NA,NA,NA,NA,0,NA
+"AL-Lagoa da Canoa",2020-05-02,"observed",NA,NA,NA,NA,0,NA
+"AL-Lagoa da Canoa",2020-05-03,"observed",NA,NA,NA,NA,0,NA
+"AL-Lagoa da Canoa",2020-05-04,"observed",NA,NA,NA,NA,0,NA
+"AL-Lagoa da Canoa",2020-05-05,"observed",NA,NA,NA,NA,0,NA
+"AL-Lagoa da Canoa",2020-05-06,"observed",NA,NA,NA,NA,0,NA
+"AL-Lagoa da Canoa",2020-05-07,"observed",NA,NA,NA,NA,0,NA
+"AL-Lagoa da Canoa",2020-05-08,"observed",NA,NA,NA,NA,0,NA
+"AL-Lagoa da Canoa",2020-05-09,"observed",NA,NA,NA,NA,0,NA
+"AL-Lagoa da Canoa",2020-05-10,"observed",NA,NA,NA,NA,0,NA
+"AL-Lagoa da Canoa",2020-05-11,"observed",NA,NA,NA,NA,0,NA
+"AL-Lagoa da Canoa",2020-05-12,"observed",NA,NA,NA,NA,0,NA
+"AL-Lagoa da Canoa",2020-05-13,"observed",NA,NA,NA,NA,0,NA
+"AL-Lagoa da Canoa",2020-05-14,"observed",NA,NA,NA,NA,0,NA
+"AL-Lagoa da Canoa",2020-05-15,"observed",NA,NA,NA,NA,0,NA
+"AL-Lagoa da Canoa",2020-05-16,"observed",NA,NA,NA,NA,0,NA
+"AL-Lagoa da Canoa",2020-05-17,"observed",NA,NA,NA,NA,0,NA
+"AL-Lagoa da Canoa",2020-05-18,"observed",NA,NA,NA,NA,0,NA
+"AL-Lagoa da Canoa",2020-05-19,"observed",NA,NA,NA,NA,0,NA
+"AL-Lagoa da Canoa",2020-05-20,"observed",NA,NA,NA,NA,0,NA
+"AL-Lagoa da Canoa",2020-05-21,"observed",NA,NA,NA,NA,0,NA
+"AL-Lagoa da Canoa",2020-05-22,"observed",NA,NA,NA,NA,0,NA
+"AL-Lagoa da Canoa",2020-05-23,"observed",NA,NA,NA,NA,4,NA
+"AL-Lagoa da Canoa",2020-05-24,"observed",NA,NA,NA,NA,0,NA
+"AL-Lagoa da Canoa",2020-05-25,"observed",NA,NA,NA,NA,0,NA
+"AL-Lagoa da Canoa",2020-05-26,"observed",NA,NA,NA,NA,0,NA
+"AL-Lagoa da Canoa",2020-05-27,"observed",NA,NA,NA,NA,1,NA
+"AL-Lagoa da Canoa",2020-05-28,"observed",NA,NA,NA,NA,0,NA
+"AL-Lagoa da Canoa",2020-05-29,"observed",NA,NA,NA,NA,0,NA
+"AL-Lagoa da Canoa",2020-05-30,"observed",NA,NA,NA,NA,5,NA
+"AL-Lagoa da Canoa",2020-05-31,"observed",NA,NA,NA,NA,0,NA
+"AL-Lagoa da Canoa",2020-06-01,"observed",NA,NA,NA,NA,0,NA
+"AL-Lagoa da Canoa",2020-06-02,"observed",NA,NA,NA,NA,0,NA
+"AL-Lagoa da Canoa",2020-06-03,"observed",NA,NA,NA,NA,0,NA
+"AL-Lagoa da Canoa",2020-06-04,"observed",NA,NA,NA,NA,0,NA
+"AL-Lagoa da Canoa",2020-06-05,"observed",NA,NA,NA,NA,0,NA
+"AL-Lagoa da Canoa",2020-06-06,"observed",NA,NA,NA,NA,1,NA
+"AL-Lagoa da Canoa",2020-06-07,"observed",NA,NA,NA,NA,27,NA
+"AL-Lagoa da Canoa",2020-06-08,"observed",NA,NA,NA,NA,1,NA
+"AL-Lagoa da Canoa",2020-06-09,"observed",NA,NA,NA,NA,0,NA
+"AL-Lagoa da Canoa",2020-06-10,"observed",NA,NA,NA,NA,1,NA
+"AL-Lagoa da Canoa",2020-06-11,"observed",NA,NA,NA,NA,3,NA
+"AL-Lagoa da Canoa",2020-06-12,"observed",NA,NA,NA,NA,0,NA
+"AL-Lagoa da Canoa",2020-06-13,"observed",NA,NA,NA,NA,0,NA
+"AL-Lagoa da Canoa",2020-06-14,"observed",NA,NA,NA,NA,17,NA
+"AL-Lagoa da Canoa",2020-06-15,"observed",NA,NA,NA,NA,7,NA
+"AL-Lagoa da Canoa",2020-06-16,"observed",NA,NA,NA,NA,0,NA
+"AL-Lagoa da Canoa",2020-06-17,"observed",NA,NA,NA,NA,18,NA
+"AL-Lagoa da Canoa",2020-06-18,"observed",NA,NA,NA,NA,0,NA
+"AL-Lagoa da Canoa",2020-06-19,"observed",NA,NA,NA,NA,0,NA
+"AL-Lagoa da Canoa",2020-06-20,"observed",NA,NA,NA,NA,7,NA
+"AL-Lagoa da Canoa",2020-06-21,"observed",NA,NA,NA,NA,0,NA
+"AL-Lagoa da Canoa",2020-06-22,"observed",NA,NA,NA,NA,2,NA
+"AL-Lagoa da Canoa",2020-06-23,"observed",NA,NA,NA,NA,1,NA
+"AL-Lagoa da Canoa",2020-06-24,"observed",NA,NA,NA,NA,0,NA
+"AL-Lagoa da Canoa",2020-06-25,"observed",NA,NA,NA,NA,6,NA
+"AL-Lagoa da Canoa",2020-06-26,"observed",NA,NA,NA,NA,7,NA
+"AL-Lagoa da Canoa",2020-06-27,"observed",NA,NA,NA,NA,0,NA
+"AL-Lagoa da Canoa",2020-06-28,"observed",NA,NA,NA,NA,3,NA
+"AL-Lagoa da Canoa",2020-06-29,"observed",NA,NA,NA,NA,3,NA
+"AL-Lagoa da Canoa",2020-06-30,"observed",NA,NA,NA,NA,1,NA
+"AL-Lagoa da Canoa",2020-07-01,"observed",NA,NA,NA,NA,1,NA
+"AL-Lagoa da Canoa",2020-07-02,"observed",NA,NA,NA,NA,7,NA
+"AL-Lagoa da Canoa",2020-07-03,"observed",NA,NA,NA,NA,2,NA
+"AL-Lagoa da Canoa",2020-07-04,"observed",NA,NA,NA,NA,2,NA
+"AL-Lagoa da Canoa",2020-07-05,"observed",NA,NA,NA,NA,0,NA
+"AL-Lagoa da Canoa",2020-07-06,"observed",NA,NA,NA,NA,0,NA
+"AL-Lagoa da Canoa",2020-07-07,"observed",NA,NA,NA,NA,1,NA
+"AL-Lagoa da Canoa",2020-07-08,"observed",NA,NA,NA,NA,2,NA
+"AL-Lagoa da Canoa",2020-07-09,"observed",NA,NA,NA,NA,3,NA
+"AL-Lagoa da Canoa",2020-07-10,"observed",NA,NA,NA,NA,1,NA
+"AL-Lagoa da Canoa",2020-07-11,"observed",NA,NA,NA,NA,3,NA
+"AL-Lagoa da Canoa",2020-07-12,"observed",NA,NA,NA,NA,33,NA
+"AL-Lagoa da Canoa",2020-07-13,"observed",NA,NA,NA,NA,18,NA
+"AL-Lagoa da Canoa",2020-07-14,"observed",NA,NA,NA,NA,1,NA
+"AL-Lagoa da Canoa",2020-07-15,"observed",NA,NA,NA,NA,1,NA
+"AL-Lagoa da Canoa",2020-07-16,"observed",NA,NA,NA,NA,6,NA
+"AL-Lagoa da Canoa",2020-07-17,"observed",NA,NA,NA,NA,4,NA
+"AL-Lagoa da Canoa",2020-07-18,"observed",NA,NA,NA,NA,1,NA
+"AL-Lagoa da Canoa",2020-07-19,"observed",NA,NA,NA,NA,1,NA
+"AL-Lagoa da Canoa",2020-07-20,"observed",NA,NA,NA,NA,0,NA
+"AL-Lagoa da Canoa",2020-07-21,"observed",NA,NA,NA,NA,2,NA
+"AL-Lagoa da Canoa",2020-07-22,"observed",NA,NA,NA,NA,1,NA
+"AL-Lagoa da Canoa",2020-07-23,"observed",NA,NA,NA,NA,0,NA
+"AL-Lagoa da Canoa",2020-07-24,"observed",NA,NA,NA,NA,34,NA
+"AL-Lagoa da Canoa",2020-07-25,"observed",NA,NA,NA,NA,0,NA
+"AL-Lagoa da Canoa",2020-07-26,"observed",NA,NA,NA,NA,1,NA
+"AL-Lagoa da Canoa",2020-07-27,"observed",NA,NA,NA,NA,16,NA
+"AL-Lagoa da Canoa",2020-07-28,"observed",NA,NA,NA,NA,0,NA
+"AL-Lagoa da Canoa",2020-07-29,"observed",NA,NA,NA,NA,1,NA
+"AL-Lagoa da Canoa",2020-07-30,"observed",NA,NA,NA,NA,2,NA
+"AL-Lagoa da Canoa",2020-07-31,"observed",NA,NA,NA,NA,0,NA
+"AL-Lagoa da Canoa",2020-08-01,"observed",NA,NA,NA,NA,3,NA
+"AL-Lagoa da Canoa",2020-08-02,"observed",NA,NA,NA,NA,5,NA
+"AL-Lagoa da Canoa",2020-08-03,"observed",NA,NA,NA,NA,2,NA
+"AL-Lagoa da Canoa",2020-08-04,"observed",NA,NA,NA,NA,1,NA
+"AL-Lagoa da Canoa",2020-08-05,"observed",NA,NA,NA,NA,2,NA
+"AL-Lagoa da Canoa",2020-08-06,"observed",NA,NA,NA,NA,0,NA
+"AL-Lagoa da Canoa",2020-08-07,"observed",NA,NA,NA,NA,0,NA
+"AL-Lagoa da Canoa",2020-08-08,"observed",NA,NA,NA,NA,0,NA
+"AL-Lagoa da Canoa",2020-08-09,"observed",NA,NA,NA,NA,0,NA
+"AL-Lagoa da Canoa",2020-08-10,"observed",NA,NA,NA,NA,0,NA
+"AL-Lagoa da Canoa",2020-08-11,"observed",NA,NA,NA,NA,1,NA
+"AL-Lagoa da Canoa",2020-08-12,"observed",NA,NA,NA,NA,0,NA
+"AL-Lagoa da Canoa",2020-07-30,"forecast",8,21,14,17,16,15.2
+"AL-Lagoa da Canoa",2020-07-31,"forecast",4,23,4,8,8,11.3
+"AL-Lagoa da Canoa",2020-08-01,"forecast",0,17,0,7,7,9.52
+"AL-Lagoa da Canoa",2020-08-02,"forecast",0,22,0,4,4,8.571
+"AL-Lagoa da Canoa",2020-08-03,"forecast",0,27,0,4,4,10.421
+"AL-Lagoa da Canoa",2020-08-04,"forecast",0,34,0,4,4,13.3804
+"AL-Lagoa da Canoa",2020-08-05,"forecast",0,41,0,5,5,17.4672
+"AL-Lagoa da Canoa",2020-08-06,"forecast",0,50,0,4,4,25.7354
+"AL-Lagoa da Canoa",2020-08-07,"forecast",0,58,0,4,4,41.7936
+"AL-Lagoa da Canoa",2020-08-08,"forecast",0,74,0,4,4,69.7854
+"AL-Lagoa da Canoa",2020-08-09,"forecast",0,87,0,4,4,612.0392
+"AL-Lagoa da Canoa",2020-08-10,"forecast",0,113,0,4,4,288.563
+"AL-Lagoa da Canoa",2020-08-11,"forecast",0,135,0,4,4,55556.2082
+"AL-Lagoa da Canoa",2020-08-12,"forecast",0,158,0,4,4,65477.8613722745
+"AL-Lagoa da Canoa",2020-08-13,"forecast",0,196,0,4,4,12661.6147376852
+"AL-Lagoa da Canoa",2020-08-14,"forecast",0,242,0,4,4,53954.9318227391
+"AL-Lagoa da Canoa",2020-08-15,"forecast",0,292,0,4,4,39581.757996379
+"AL-Major Isidoro",2020-04-04,"nowcast",1,1,1,1,1,1
+"AL-Major Isidoro",2020-04-05,"nowcast",0,1,0,0,0,0.333333333333333
+"AL-Major Isidoro",2020-04-06,"nowcast",0,1,0,1,0.5,0.5
+"AL-Major Isidoro",2020-04-07,"nowcast",0,1,0,0,0,0.2
+"AL-Major Isidoro",2020-04-08,"nowcast",0,1,0,0,0,0.166666666666667
+"AL-Major Isidoro",2020-04-09,"nowcast",0,1,0,0,0,0.375
+"AL-Major Isidoro",2020-04-10,"nowcast",0,2,0,0,0,0.3
+"AL-Major Isidoro",2020-04-11,"nowcast",0,1,0,1,0.5,0.5
+"AL-Major Isidoro",2020-04-12,"nowcast",0,1,0,0,0,0.272727272727273
+"AL-Major Isidoro",2020-04-13,"nowcast",0,1,0,0,0,0.259259259259259
+"AL-Major Isidoro",2020-04-14,"nowcast",0,1,0,0,0,0.342105263157895
+"AL-Major Isidoro",2020-04-15,"nowcast",0,1,0,0,0,0.136363636363636
+"AL-Major Isidoro",2020-04-16,"nowcast",0,1,0,0,0,0.339285714285714
+"AL-Major Isidoro",2020-04-17,"nowcast",0,1,0,0,0,0.338235294117647
+"AL-Major Isidoro",2020-04-18,"nowcast",0,1,0,0,0,0.293478260869565
+"AL-Major Isidoro",2020-04-19,"nowcast",0,1,0,0,0,0.377952755905512
+"AL-Major Isidoro",2020-04-20,"nowcast",0,1,0,0,0,0.316455696202532
+"AL-Major Isidoro",2020-04-21,"nowcast",0,1,0,0,0,0.331578947368421
+"AL-Major Isidoro",2020-04-22,"nowcast",0,1,0,0,0,0.338582677165354
+"AL-Major Isidoro",2020-04-23,"nowcast",0,1,0,0,0,0.259868421052632
+"AL-Major Isidoro",2020-04-24,"nowcast",0,1,0,0,0,0.285714285714286
+"AL-Major Isidoro",2020-04-25,"nowcast",0,1,0,0,0,0.319711538461538
+"AL-Major Isidoro",2020-04-26,"nowcast",0,1,0,0,0,0.349173553719008
+"AL-Major Isidoro",2020-04-27,"nowcast",0,1,0,0,0,0.356363636363636
+"AL-Major Isidoro",2020-04-28,"nowcast",0,1,0,0,0,0.386837881219904
+"AL-Major Isidoro",2020-04-29,"nowcast",0,1,0,0,0,0.382267441860465
+"AL-Major Isidoro",2020-04-30,"nowcast",0,1,0,0,0,0.399470899470899
+"AL-Major Isidoro",2020-05-01,"nowcast",0,1,0,0,0,0.48444976076555
+"AL-Major Isidoro",2020-05-02,"nowcast",0,1,0,0,0,0.513483146067416
+"AL-Major Isidoro",2020-05-03,"nowcast",0,2,0,0,0,0.573118279569892
+"AL-Major Isidoro",2020-05-04,"nowcast",0,2,0,0,0,0.654885654885655
+"AL-Major Isidoro",2020-05-05,"nowcast",0,2,0,0,0,0.614913176710929
+"AL-Major Isidoro",2020-05-06,"nowcast",0,2,0,1,1,0.688888888888889
+"AL-Major Isidoro",2020-05-07,"nowcast",0,2,0,1,1,0.750753768844221
+"AL-Major Isidoro",2020-05-08,"nowcast",0,2,0,1,1,0.74749498997996
+"AL-Major Isidoro",2020-05-09,"nowcast",0,2,0,1,1,0.756
+"AL-Major Isidoro",2020-05-10,"nowcast",0,2,0,1,1,0.81
+"AL-Major Isidoro",2020-05-11,"nowcast",0,2,0,1,1,0.794
+"AL-Major Isidoro",2020-05-12,"nowcast",0,2,0,1,1,0.795
+"AL-Major Isidoro",2020-05-13,"nowcast",0,2,0,1,1,0.834
+"AL-Major Isidoro",2020-05-14,"nowcast",0,2,0,1,1,0.948
+"AL-Major Isidoro",2020-05-15,"nowcast",0,2,0,1,1,1.079
+"AL-Major Isidoro",2020-05-16,"nowcast",0,3,0,1,1,1.182
+"AL-Major Isidoro",2020-05-17,"nowcast",0,3,0,1,1,1.313
+"AL-Major Isidoro",2020-05-18,"nowcast",0,3,0,1,1,1.465
+"AL-Major Isidoro",2020-05-19,"nowcast",0,3,0,1,1,1.588
+"AL-Major Isidoro",2020-05-20,"nowcast",0,4,1,2,2,1.805
+"AL-Major Isidoro",2020-05-21,"nowcast",0,4,1,2,2,1.947
+"AL-Major Isidoro",2020-05-22,"nowcast",0,4,1,2,2,2.013
+"AL-Major Isidoro",2020-05-23,"nowcast",0,4,1,2,2,1.98
+"AL-Major Isidoro",2020-05-24,"nowcast",0,4,1,2,2,2.061
+"AL-Major Isidoro",2020-05-25,"nowcast",0,4,1,2,2,1.988
+"AL-Major Isidoro",2020-05-26,"nowcast",0,4,1,2,2,2.114
+"AL-Major Isidoro",2020-05-27,"nowcast",0,4,1,2,2,2.191
+"AL-Major Isidoro",2020-05-28,"nowcast",0,4,1,2,2,2.317
+"AL-Major Isidoro",2020-05-29,"nowcast",0,5,0,2,2,2.574
+"AL-Major Isidoro",2020-05-30,"nowcast",0,5,1,3,3,2.815
+"AL-Major Isidoro",2020-05-31,"nowcast",0,5,1,3,3,2.942
+"AL-Major Isidoro",2020-06-01,"nowcast",1,6,1,3,3,3.248
+"AL-Major Isidoro",2020-06-02,"nowcast",1,6,1,3,3,3.436
+"AL-Major Isidoro",2020-06-03,"nowcast",1,7,2,4,4,3.88
+"AL-Major Isidoro",2020-06-04,"nowcast",1,7,2,4,4,4.065
+"AL-Major Isidoro",2020-06-05,"nowcast",1,7,2,4,4,4.309
+"AL-Major Isidoro",2020-06-06,"nowcast",1,7,3,5,4,4.571
+"AL-Major Isidoro",2020-06-07,"nowcast",1,8,4,6,5,5.052
+"AL-Major Isidoro",2020-06-08,"nowcast",2,9,3,6,5,5.671
+"AL-Major Isidoro",2020-06-09,"nowcast",2,9,3,6,6,6.064
+"AL-Major Isidoro",2020-06-10,"nowcast",3,10,4,7,7,6.698
+"AL-Major Isidoro",2020-06-11,"nowcast",3,11,4,7,7,7.119
+"AL-Major Isidoro",2020-06-12,"nowcast",3,11,5,8,7,7.41
+"AL-Major Isidoro",2020-06-13,"nowcast",3,11,5,8,7,7.613
+"AL-Major Isidoro",2020-06-14,"nowcast",3,11,5,8,8,7.661
+"AL-Major Isidoro",2020-06-15,"nowcast",3,11,5,8,8,7.65
+"AL-Major Isidoro",2020-06-16,"nowcast",4,12,5,8,8,7.945
+"AL-Major Isidoro",2020-06-17,"nowcast",3,11,5,8,7.5,7.675
+"AL-Major Isidoro",2020-06-18,"nowcast",4,12,5,8,7,7.505
+"AL-Major Isidoro",2020-06-19,"nowcast",3,11,5,8,7,7.331
+"AL-Major Isidoro",2020-06-20,"nowcast",2,10,4,7,7,6.721
+"AL-Major Isidoro",2020-06-21,"nowcast",2,10,4,7,6,6.472
+"AL-Major Isidoro",2020-06-22,"nowcast",1,9,3,6,6,6.22
+"AL-Major Isidoro",2020-06-23,"nowcast",2,9,3,6,6,5.795
+"AL-Major Isidoro",2020-06-24,"nowcast",2,9,2,5,5,5.555
+"AL-Major Isidoro",2020-06-25,"nowcast",1,8,4,6,5,5.373
+"AL-Major Isidoro",2020-06-26,"nowcast",1,8,2,5,5,5.497
+"AL-Major Isidoro",2020-06-27,"nowcast",2,9,3,6,5,5.553
+"AL-Major Isidoro",2020-06-28,"nowcast",2,9,3,6,5.5,5.632
+"AL-Major Isidoro",2020-06-29,"nowcast",2,9,3,6,6,5.628
+"AL-Major Isidoro",2020-06-30,"nowcast",2,9,3,6,5,5.645
+"AL-Major Isidoro",2020-07-01,"nowcast",2,9,3,6,5,5.508
+"AL-Major Isidoro",2020-07-02,"nowcast",2,9,4,6,5,5.57
+"AL-Major Isidoro",2020-07-03,"nowcast",1,8,2,5,5,5.342
+"AL-Major Isidoro",2020-07-04,"nowcast",2,8,2,5,5,5.172
+"AL-Major Isidoro",2020-07-05,"nowcast",1,8,3,5,5,4.82
+"AL-Major Isidoro",2020-07-06,"nowcast",1,7,2,4,4,4.29
+"AL-Major Isidoro",2020-07-07,"nowcast",0,6,2,4,4,3.837
+"AL-Major Isidoro",2020-07-08,"nowcast",1,6,1,3,3,3.544
+"AL-Major Isidoro",2020-07-09,"nowcast",1,6,1,3,3,3.303
+"AL-Major Isidoro",2020-07-10,"nowcast",1,6,1,3,3,3.277
+"AL-Major Isidoro",2020-07-11,"nowcast",0,5,1,3,3,3.19
+"AL-Major Isidoro",2020-07-12,"nowcast",0,5,1,3,3,3.081
+"AL-Major Isidoro",2020-07-13,"nowcast",0,5,1,3,3,2.969
+"AL-Major Isidoro",2020-07-14,"nowcast",0,5,1,3,3,2.951
+"AL-Major Isidoro",2020-07-15,"nowcast",1,6,1,3,3,3.153
+"AL-Major Isidoro",2020-07-16,"nowcast",1,6,1,3,3,3.32
+"AL-Major Isidoro",2020-07-17,"nowcast",1,6,1,3,3,3.367
+"AL-Major Isidoro",2020-07-18,"nowcast",1,6,2,4,3,3.561
+"AL-Major Isidoro",2020-07-19,"nowcast",1,6,1,3,3,3.422
+"AL-Major Isidoro",2020-07-20,"nowcast",1,6,1,3,3,3.243
+"AL-Major Isidoro",2020-07-21,"nowcast",0,5,1,3,3,3.046
+"AL-Major Isidoro",2020-07-22,"nowcast",0,5,1,3,3,2.873
+"AL-Major Isidoro",2020-07-23,"nowcast",0,5,0,2,2,2.661
+"AL-Major Isidoro",2020-07-24,"nowcast",0,5,1,3,3,2.864
+"AL-Major Isidoro",2020-07-25,"nowcast",0,6,1,3,3,3.119
+"AL-Major Isidoro",2020-07-26,"nowcast",0,6,2,4,3,3.52
+"AL-Major Isidoro",2020-07-27,"nowcast",0,7,2,4,4,4.268
+"AL-Major Isidoro",2020-07-28,"nowcast",0,9,2,5,5,5.142
+"AL-Major Isidoro",2020-07-29,"nowcast",0,10,3,6,5,6.024
+"AL-Major Isidoro",2020-05-09,"observed",NA,NA,NA,NA,1,NA
+"AL-Major Isidoro",2020-05-10,"observed",NA,NA,NA,NA,0,NA
+"AL-Major Isidoro",2020-05-11,"observed",NA,NA,NA,NA,0,NA
+"AL-Major Isidoro",2020-05-12,"observed",NA,NA,NA,NA,1,NA
+"AL-Major Isidoro",2020-05-13,"observed",NA,NA,NA,NA,0,NA
+"AL-Major Isidoro",2020-05-14,"observed",NA,NA,NA,NA,2,NA
+"AL-Major Isidoro",2020-05-15,"observed",NA,NA,NA,NA,0,NA
+"AL-Major Isidoro",2020-05-16,"observed",NA,NA,NA,NA,2,NA
+"AL-Major Isidoro",2020-05-17,"observed",NA,NA,NA,NA,0,NA
+"AL-Major Isidoro",2020-05-18,"observed",NA,NA,NA,NA,0,NA
+"AL-Major Isidoro",2020-05-19,"observed",NA,NA,NA,NA,0,NA
+"AL-Major Isidoro",2020-05-20,"observed",NA,NA,NA,NA,2,NA
+"AL-Major Isidoro",2020-05-21,"observed",NA,NA,NA,NA,0,NA
+"AL-Major Isidoro",2020-05-22,"observed",NA,NA,NA,NA,0,NA
+"AL-Major Isidoro",2020-05-23,"observed",NA,NA,NA,NA,0,NA
+"AL-Major Isidoro",2020-05-24,"observed",NA,NA,NA,NA,0,NA
+"AL-Major Isidoro",2020-05-25,"observed",NA,NA,NA,NA,1,NA
+"AL-Major Isidoro",2020-05-26,"observed",NA,NA,NA,NA,0,NA
+"AL-Major Isidoro",2020-05-27,"observed",NA,NA,NA,NA,7,NA
+"AL-Major Isidoro",2020-05-28,"observed",NA,NA,NA,NA,1,NA
+"AL-Major Isidoro",2020-05-29,"observed",NA,NA,NA,NA,0,NA
+"AL-Major Isidoro",2020-05-30,"observed",NA,NA,NA,NA,6,NA
+"AL-Major Isidoro",2020-05-31,"observed",NA,NA,NA,NA,0,NA
+"AL-Major Isidoro",2020-06-01,"observed",NA,NA,NA,NA,0,NA
+"AL-Major Isidoro",2020-06-02,"observed",NA,NA,NA,NA,1,NA
+"AL-Major Isidoro",2020-06-03,"observed",NA,NA,NA,NA,3,NA
+"AL-Major Isidoro",2020-06-04,"observed",NA,NA,NA,NA,0,NA
+"AL-Major Isidoro",2020-06-05,"observed",NA,NA,NA,NA,0,NA
+"AL-Major Isidoro",2020-06-06,"observed",NA,NA,NA,NA,0,NA
+"AL-Major Isidoro",2020-06-07,"observed",NA,NA,NA,NA,9,NA
+"AL-Major Isidoro",2020-06-08,"observed",NA,NA,NA,NA,4,NA
+"AL-Major Isidoro",2020-06-09,"observed",NA,NA,NA,NA,0,NA
+"AL-Major Isidoro",2020-06-10,"observed",NA,NA,NA,NA,0,NA
+"AL-Major Isidoro",2020-06-11,"observed",NA,NA,NA,NA,7,NA
+"AL-Major Isidoro",2020-06-12,"observed",NA,NA,NA,NA,0,NA
+"AL-Major Isidoro",2020-06-13,"observed",NA,NA,NA,NA,1,NA
+"AL-Major Isidoro",2020-06-14,"observed",NA,NA,NA,NA,0,NA
+"AL-Major Isidoro",2020-06-15,"observed",NA,NA,NA,NA,5,NA
+"AL-Major Isidoro",2020-06-16,"observed",NA,NA,NA,NA,8,NA
+"AL-Major Isidoro",2020-06-17,"observed",NA,NA,NA,NA,2,NA
+"AL-Major Isidoro",2020-06-18,"observed",NA,NA,NA,NA,15,NA
+"AL-Major Isidoro",2020-06-19,"observed",NA,NA,NA,NA,1,NA
+"AL-Major Isidoro",2020-06-20,"observed",NA,NA,NA,NA,2,NA
+"AL-Major Isidoro",2020-06-21,"observed",NA,NA,NA,NA,26,NA
+"AL-Major Isidoro",2020-06-22,"observed",NA,NA,NA,NA,1,NA
+"AL-Major Isidoro",2020-06-23,"observed",NA,NA,NA,NA,3,NA
+"AL-Major Isidoro",2020-06-24,"observed",NA,NA,NA,NA,2,NA
+"AL-Major Isidoro",2020-06-25,"observed",NA,NA,NA,NA,27,NA
+"AL-Major Isidoro",2020-06-26,"observed",NA,NA,NA,NA,3,NA
+"AL-Major Isidoro",2020-06-27,"observed",NA,NA,NA,NA,17,NA
+"AL-Major Isidoro",2020-06-28,"observed",NA,NA,NA,NA,1,NA
+"AL-Major Isidoro",2020-06-29,"observed",NA,NA,NA,NA,2,NA
+"AL-Major Isidoro",2020-06-30,"observed",NA,NA,NA,NA,1,NA
+"AL-Major Isidoro",2020-07-01,"observed",NA,NA,NA,NA,3,NA
+"AL-Major Isidoro",2020-07-02,"observed",NA,NA,NA,NA,17,NA
+"AL-Major Isidoro",2020-07-03,"observed",NA,NA,NA,NA,3,NA
+"AL-Major Isidoro",2020-07-04,"observed",NA,NA,NA,NA,6,NA
+"AL-Major Isidoro",2020-07-05,"observed",NA,NA,NA,NA,1,NA
+"AL-Major Isidoro",2020-07-06,"observed",NA,NA,NA,NA,0,NA
+"AL-Major Isidoro",2020-07-07,"observed",NA,NA,NA,NA,5,NA
+"AL-Major Isidoro",2020-07-08,"observed",NA,NA,NA,NA,12,NA
+"AL-Major Isidoro",2020-07-09,"observed",NA,NA,NA,NA,19,NA
+"AL-Major Isidoro",2020-07-10,"observed",NA,NA,NA,NA,0,NA
+"AL-Major Isidoro",2020-07-11,"observed",NA,NA,NA,NA,9,NA
+"AL-Major Isidoro",2020-07-12,"observed",NA,NA,NA,NA,5,NA
+"AL-Major Isidoro",2020-07-13,"observed",NA,NA,NA,NA,1,NA
+"AL-Major Isidoro",2020-07-14,"observed",NA,NA,NA,NA,0,NA
+"AL-Major Isidoro",2020-07-15,"observed",NA,NA,NA,NA,2,NA
+"AL-Major Isidoro",2020-07-16,"observed",NA,NA,NA,NA,17,NA
+"AL-Major Isidoro",2020-07-17,"observed",NA,NA,NA,NA,0,NA
+"AL-Major Isidoro",2020-07-18,"observed",NA,NA,NA,NA,1,NA
+"AL-Major Isidoro",2020-07-19,"observed",NA,NA,NA,NA,1,NA
+"AL-Major Isidoro",2020-07-20,"observed",NA,NA,NA,NA,0,NA
+"AL-Major Isidoro",2020-07-21,"observed",NA,NA,NA,NA,1,NA
+"AL-Major Isidoro",2020-07-22,"observed",NA,NA,NA,NA,1,NA
+"AL-Major Isidoro",2020-07-23,"observed",NA,NA,NA,NA,1,NA
+"AL-Major Isidoro",2020-07-24,"observed",NA,NA,NA,NA,18,NA
+"AL-Major Isidoro",2020-07-25,"observed",NA,NA,NA,NA,3,NA
+"AL-Major Isidoro",2020-07-26,"observed",NA,NA,NA,NA,1,NA
+"AL-Major Isidoro",2020-07-27,"observed",NA,NA,NA,NA,7,NA
+"AL-Major Isidoro",2020-07-28,"observed",NA,NA,NA,NA,0,NA
+"AL-Major Isidoro",2020-07-29,"observed",NA,NA,NA,NA,2,NA
+"AL-Major Isidoro",2020-07-30,"observed",NA,NA,NA,NA,0,NA
+"AL-Major Isidoro",2020-07-31,"observed",NA,NA,NA,NA,0,NA
+"AL-Major Isidoro",2020-08-01,"observed",NA,NA,NA,NA,2,NA
+"AL-Major Isidoro",2020-08-02,"observed",NA,NA,NA,NA,0,NA
+"AL-Major Isidoro",2020-08-03,"observed",NA,NA,NA,NA,0,NA
+"AL-Major Isidoro",2020-08-04,"observed",NA,NA,NA,NA,10,NA
+"AL-Major Isidoro",2020-08-05,"observed",NA,NA,NA,NA,2,NA
+"AL-Major Isidoro",2020-08-06,"observed",NA,NA,NA,NA,0,NA
+"AL-Major Isidoro",2020-08-07,"observed",NA,NA,NA,NA,9,NA
+"AL-Major Isidoro",2020-08-08,"observed",NA,NA,NA,NA,2,NA
+"AL-Major Isidoro",2020-08-09,"observed",NA,NA,NA,NA,0,NA
+"AL-Major Isidoro",2020-08-10,"observed",NA,NA,NA,NA,0,NA
+"AL-Major Isidoro",2020-08-11,"observed",NA,NA,NA,NA,0,NA
+"AL-Major Isidoro",2020-08-12,"observed",NA,NA,NA,NA,0,NA
+"AL-Major Isidoro",2020-07-30,"forecast",0,13,0,5,5,6.2938
+"AL-Major Isidoro",2020-07-31,"forecast",0,15,0,5,5,7.1988
+"AL-Major Isidoro",2020-08-01,"forecast",0,18,0,6,6,8.355
+"AL-Major Isidoro",2020-08-02,"forecast",0,22,0,6,6,9.801
+"AL-Major Isidoro",2020-08-03,"forecast",0,25,0,7,7,11.3814
+"AL-Major Isidoro",2020-08-04,"forecast",0,31,0,7,7,14.036
+"AL-Major Isidoro",2020-08-05,"forecast",0,36,0,7,7,16.599
+"AL-Major Isidoro",2020-08-06,"forecast",0,47,0,8,8,21.563
+"AL-Major Isidoro",2020-08-07,"forecast",0,53,0,8,8,27.5686
+"AL-Major Isidoro",2020-08-08,"forecast",0,67,0,8,8,35.7602
+"AL-Major Isidoro",2020-08-09,"forecast",0,83,0,9,9,45.065
+"AL-Major Isidoro",2020-08-10,"forecast",0,96,0,10,10,62.8922
+"AL-Major Isidoro",2020-08-11,"forecast",0,119,0,10,10,91.507
+"AL-Major Isidoro",2020-08-12,"forecast",0,138,0,11,11,152.3768
+"AL-Piranhas",2020-04-04,"nowcast",1,1,1,1,1,1
+"AL-Piranhas",2020-04-05,"nowcast",0,0,0,0,0,0
+"AL-Piranhas",2020-04-06,"nowcast",0,0,0,0,0,0
+"AL-Piranhas",2020-04-07,"nowcast",0,0,0,0,0,0
+"AL-Piranhas",2020-04-08,"nowcast",1,1,1,1,1,1
+"AL-Piranhas",2020-04-09,"nowcast",0,0,0,0,0,0
+"AL-Piranhas",2020-04-10,"nowcast",0,1,0,0,0,0.333333333333333
+"AL-Piranhas",2020-04-11,"nowcast",0,1,0,0,0,0.333333333333333
+"AL-Piranhas",2020-04-12,"nowcast",0,0,0,0,0,0
+"AL-Piranhas",2020-04-13,"nowcast",0,0,0,0,0,0
+"AL-Piranhas",2020-04-14,"nowcast",0,1,0,0,0,0.25
+"AL-Piranhas",2020-04-15,"nowcast",0,1,0,0,0,0.4
+"AL-Piranhas",2020-04-16,"nowcast",0,1,0,0,0,0.166666666666667
+"AL-Piranhas",2020-04-17,"nowcast",0,1,0,0,0,0.4
+"AL-Piranhas",2020-04-18,"nowcast",0,1,0,0,0,0.470588235294118
+"AL-Piranhas",2020-04-19,"nowcast",0,1,0,0,0,0.166666666666667
+"AL-Piranhas",2020-04-20,"nowcast",0,1,0,0,0,0.363636363636364
+"AL-Piranhas",2020-04-21,"nowcast",0,1,0,0,0,0.344827586206897
+"AL-Piranhas",2020-04-22,"nowcast",0,1,0,0,0,0.27027027027027
+"AL-Piranhas",2020-04-23,"nowcast",0,1,0,0,0,0.142857142857143
+"AL-Piranhas",2020-04-24,"nowcast",0,1,0,0,0,0.344827586206897
+"AL-Piranhas",2020-04-25,"nowcast",0,1,0,0,0,0.365853658536585
+"AL-Piranhas",2020-04-26,"nowcast",0,1,0,0,0,0.236559139784946
+"AL-Piranhas",2020-04-27,"nowcast",0,1,0,0,0,0.318965517241379
+"AL-Piranhas",2020-04-28,"nowcast",0,1,0,0,0,0.339869281045752
+"AL-Piranhas",2020-04-29,"nowcast",0,1,0,0,0,0.348484848484849
+"AL-Piranhas",2020-04-30,"nowcast",0,1,0,0,0,0.321428571428571
+"AL-Piranhas",2020-05-01,"nowcast",0,1,0,0,0,0.325878594249201
+"AL-Piranhas",2020-05-02,"nowcast",0,1,0,0,0,0.349869451697128
+"AL-Piranhas",2020-05-03,"nowcast",0,1,0,0,0,0.324503311258278
+"AL-Piranhas",2020-05-04,"nowcast",0,1,0,0,0,0.35239852398524
+"AL-Piranhas",2020-05-05,"nowcast",0,1,0,0,0,0.317275747508306
+"AL-Piranhas",2020-05-06,"nowcast",0,1,0,0,0,0.342898134863702
+"AL-Piranhas",2020-05-07,"nowcast",0,1,0,0,0,0.370273794002608
+"AL-Piranhas",2020-05-08,"nowcast",0,1,0,0,0,0.341463414634146
+"AL-Piranhas",2020-05-09,"nowcast",0,1,0,0,0,0.375288683602771
+"AL-Piranhas",2020-05-10,"nowcast",0,1,0,0,0,0.369517543859649
+"AL-Piranhas",2020-05-11,"nowcast",0,1,0,0,0,0.354497354497354
+"AL-Piranhas",2020-05-12,"nowcast",0,1,0,0,0,0.361835245046924
+"AL-Piranhas",2020-05-13,"nowcast",0,1,0,0,0,0.364669421487603
+"AL-Piranhas",2020-05-14,"nowcast",0,1,0,0,0,0.358239508700102
+"AL-Piranhas",2020-05-15,"nowcast",0,1,0,0,0,0.405268490374873
+"AL-Piranhas",2020-05-16,"nowcast",0,1,0,0,0,0.440283400809717
+"AL-Piranhas",2020-05-17,"nowcast",0,1,0,0,0,0.477295660948537
+"AL-Piranhas",2020-05-18,"nowcast",0,1,0,0,0,0.516582914572864
+"AL-Piranhas",2020-05-19,"nowcast",0,1,0,0,0,0.492985971943888
+"AL-Piranhas",2020-05-20,"nowcast",0,2,0,0,0,0.58
+"AL-Piranhas",2020-05-21,"nowcast",0,2,0,0,0,0.577
+"AL-Piranhas",2020-05-22,"nowcast",0,2,0,0,0,0.61
+"AL-Piranhas",2020-05-23,"nowcast",0,2,0,0,0,0.638
+"AL-Piranhas",2020-05-24,"nowcast",0,2,0,0,0,0.629
+"AL-Piranhas",2020-05-25,"nowcast",0,1,0,0,0,0.554
+"AL-Piranhas",2020-05-26,"nowcast",0,1,0,0,0,0.553
+"AL-Piranhas",2020-05-27,"nowcast",0,1,0,0,0,0.467
+"AL-Piranhas",2020-05-28,"nowcast",0,1,0,0,0,0.438
+"AL-Piranhas",2020-05-29,"nowcast",0,1,0,0,0,0.386
+"AL-Piranhas",2020-05-30,"nowcast",0,1,0,0,0,0.406
+"AL-Piranhas",2020-05-31,"nowcast",0,1,0,0,0,0.441
+"AL-Piranhas",2020-06-01,"nowcast",0,1,0,0,0,0.479
+"AL-Piranhas",2020-06-02,"nowcast",0,1,0,0,0,0.53
+"AL-Piranhas",2020-06-03,"nowcast",0,2,0,0,0,0.56
+"AL-Piranhas",2020-06-04,"nowcast",0,2,0,0,0,0.566
+"AL-Piranhas",2020-06-05,"nowcast",0,2,0,0,0,0.562
+"AL-Piranhas",2020-06-06,"nowcast",0,2,0,0,0,0.61
+"AL-Piranhas",2020-06-07,"nowcast",0,2,0,0,0,0.633
+"AL-Piranhas",2020-06-08,"nowcast",0,2,0,1,1,0.666
+"AL-Piranhas",2020-06-09,"nowcast",0,2,0,1,1,0.777
+"AL-Piranhas",2020-06-10,"nowcast",0,2,0,1,1,0.915
+"AL-Piranhas",2020-06-11,"nowcast",0,2,0,1,1,1.029
+"AL-Piranhas",2020-06-12,"nowcast",0,2,0,1,1,1.087
+"AL-Piranhas",2020-06-13,"nowcast",0,3,0,1,1,1.159
+"AL-Piranhas",2020-06-14,"nowcast",0,3,0,1,1,1.311
+"AL-Piranhas",2020-06-15,"nowcast",0,3,0,1,1,1.356
+"AL-Piranhas",2020-06-16,"nowcast",0,3,0,1,1,1.336
+"AL-Piranhas",2020-06-17,"nowcast",0,3,0,1,1,1.433
+"AL-Piranhas",2020-06-18,"nowcast",0,3,0,1,1,1.448
+"AL-Piranhas",2020-06-19,"nowcast",0,3,0,1,1,1.474
+"AL-Piranhas",2020-06-20,"nowcast",0,3,0,1,1,1.495
+"AL-Piranhas",2020-06-21,"nowcast",0,3,0,1,1,1.448
+"AL-Piranhas",2020-06-22,"nowcast",0,3,0,1,1,1.414
+"AL-Piranhas",2020-06-23,"nowcast",0,3,0,1,1,1.307
+"AL-Piranhas",2020-06-24,"nowcast",0,3,0,1,1,1.503
+"AL-Piranhas",2020-06-25,"nowcast",0,3,0,1,1,1.686
+"AL-Piranhas",2020-06-26,"nowcast",0,4,1,2,2,1.783
+"AL-Piranhas",2020-06-27,"nowcast",0,4,1,2,2,1.962
+"AL-Piranhas",2020-06-28,"nowcast",0,4,1,2,2,1.998
+"AL-Piranhas",2020-06-29,"nowcast",0,4,1,2,2,2.14
+"AL-Piranhas",2020-06-30,"nowcast",0,4,1,2,2,2.107
+"AL-Piranhas",2020-07-01,"nowcast",0,4,1,2,2,2.154
+"AL-Piranhas",2020-07-02,"nowcast",0,4,1,2,2,2.198
+"AL-Piranhas",2020-07-03,"nowcast",0,4,1,2,2,2.286
+"AL-Piranhas",2020-07-04,"nowcast",0,4,0,2,2,2.438
+"AL-Piranhas",2020-07-05,"nowcast",0,5,0,2,2,2.583
+"AL-Piranhas",2020-07-06,"nowcast",0,5,1,3,3,2.811
+"AL-Piranhas",2020-07-07,"nowcast",0,5,1,3,3,3.015
+"AL-Piranhas",2020-07-08,"nowcast",0,6,1,3,3,3.397
+"AL-Piranhas",2020-07-09,"nowcast",1,6,1,3,3,3.567
+"AL-Piranhas",2020-07-10,"nowcast",1,7,2,4,4,3.97
+"AL-Piranhas",2020-07-11,"nowcast",1,7,2,4,4,4.144
+"AL-Piranhas",2020-07-12,"nowcast",1,7,2,4,4,4.409
+"AL-Piranhas",2020-07-13,"nowcast",1,7,3,5,4,4.41
+"AL-Piranhas",2020-07-14,"nowcast",2,8,3,5,5,4.767
+"AL-Piranhas",2020-07-15,"nowcast",1,8,3,5,5,4.755
+"AL-Piranhas",2020-07-16,"nowcast",2,8,4,6,5,4.811
+"AL-Piranhas",2020-07-17,"nowcast",2,8,3,5,4,4.649
+"AL-Piranhas",2020-07-18,"nowcast",1,7,2,4,4,4.342
+"AL-Piranhas",2020-07-19,"nowcast",0,6,2,4,3,3.687
+"AL-Piranhas",2020-07-20,"nowcast",1,6,1,3,3,3.17
+"AL-Piranhas",2020-07-21,"nowcast",0,5,1,3,3,2.837
+"AL-Piranhas",2020-07-22,"nowcast",0,5,0,2,2,2.622
+"AL-Piranhas",2020-07-23,"nowcast",0,5,0,2,2,2.43
+"AL-Piranhas",2020-07-24,"nowcast",0,5,0,2,2,2.418
+"AL-Piranhas",2020-07-25,"nowcast",0,5,1,2,2,2.439
+"AL-Piranhas",2020-07-26,"nowcast",0,5,0,2,2,2.65
+"AL-Piranhas",2020-07-27,"nowcast",0,7,0,2,2,3.076
+"AL-Piranhas",2020-07-28,"nowcast",0,8,0,2,2,3.651
+"AL-Piranhas",2020-07-29,"nowcast",0,9,0,3,3,4.295
+"AL-Piranhas",2020-07-30,"nowcast",0,12,0,3,3,5.33099297893681
+"AL-Piranhas",2020-05-16,"observed",NA,NA,NA,NA,2,NA
+"AL-Piranhas",2020-05-17,"observed",NA,NA,NA,NA,0,NA
+"AL-Piranhas",2020-05-18,"observed",NA,NA,NA,NA,0,NA
+"AL-Piranhas",2020-05-19,"observed",NA,NA,NA,NA,0,NA
+"AL-Piranhas",2020-05-20,"observed",NA,NA,NA,NA,0,NA
+"AL-Piranhas",2020-05-21,"observed",NA,NA,NA,NA,1,NA
+"AL-Piranhas",2020-05-22,"observed",NA,NA,NA,NA,0,NA
+"AL-Piranhas",2020-05-23,"observed",NA,NA,NA,NA,0,NA
+"AL-Piranhas",2020-05-24,"observed",NA,NA,NA,NA,0,NA
+"AL-Piranhas",2020-05-25,"observed",NA,NA,NA,NA,0,NA
+"AL-Piranhas",2020-05-26,"observed",NA,NA,NA,NA,1,NA
+"AL-Piranhas",2020-05-27,"observed",NA,NA,NA,NA,0,NA
+"AL-Piranhas",2020-05-28,"observed",NA,NA,NA,NA,0,NA
+"AL-Piranhas",2020-05-29,"observed",NA,NA,NA,NA,2,NA
+"AL-Piranhas",2020-05-30,"observed",NA,NA,NA,NA,1,NA
+"AL-Piranhas",2020-05-31,"observed",NA,NA,NA,NA,2,NA
+"AL-Piranhas",2020-06-01,"observed",NA,NA,NA,NA,0,NA
+"AL-Piranhas",2020-06-02,"observed",NA,NA,NA,NA,1,NA
+"AL-Piranhas",2020-06-03,"observed",NA,NA,NA,NA,0,NA
+"AL-Piranhas",2020-06-04,"observed",NA,NA,NA,NA,0,NA
+"AL-Piranhas",2020-06-05,"observed",NA,NA,NA,NA,0,NA
+"AL-Piranhas",2020-06-06,"observed",NA,NA,NA,NA,0,NA
+"AL-Piranhas",2020-06-07,"observed",NA,NA,NA,NA,0,NA
+"AL-Piranhas",2020-06-08,"observed",NA,NA,NA,NA,0,NA
+"AL-Piranhas",2020-06-09,"observed",NA,NA,NA,NA,3,NA
+"AL-Piranhas",2020-06-10,"observed",NA,NA,NA,NA,0,NA
+"AL-Piranhas",2020-06-11,"observed",NA,NA,NA,NA,0,NA
+"AL-Piranhas",2020-06-12,"observed",NA,NA,NA,NA,0,NA
+"AL-Piranhas",2020-06-13,"observed",NA,NA,NA,NA,0,NA
+"AL-Piranhas",2020-06-14,"observed",NA,NA,NA,NA,1,NA
+"AL-Piranhas",2020-06-15,"observed",NA,NA,NA,NA,0,NA
+"AL-Piranhas",2020-06-16,"observed",NA,NA,NA,NA,0,NA
+"AL-Piranhas",2020-06-17,"observed",NA,NA,NA,NA,0,NA
+"AL-Piranhas",2020-06-18,"observed",NA,NA,NA,NA,0,NA
+"AL-Piranhas",2020-06-19,"observed",NA,NA,NA,NA,3,NA
+"AL-Piranhas",2020-06-20,"observed",NA,NA,NA,NA,1,NA
+"AL-Piranhas",2020-06-21,"observed",NA,NA,NA,NA,0,NA
+"AL-Piranhas",2020-06-22,"observed",NA,NA,NA,NA,0,NA
+"AL-Piranhas",2020-06-23,"observed",NA,NA,NA,NA,0,NA
+"AL-Piranhas",2020-06-24,"observed",NA,NA,NA,NA,7,NA
+"AL-Piranhas",2020-06-25,"observed",NA,NA,NA,NA,0,NA
+"AL-Piranhas",2020-06-26,"observed",NA,NA,NA,NA,3,NA
+"AL-Piranhas",2020-06-27,"observed",NA,NA,NA,NA,1,NA
+"AL-Piranhas",2020-06-28,"observed",NA,NA,NA,NA,0,NA
+"AL-Piranhas",2020-06-29,"observed",NA,NA,NA,NA,0,NA
+"AL-Piranhas",2020-06-30,"observed",NA,NA,NA,NA,0,NA
+"AL-Piranhas",2020-07-01,"observed",NA,NA,NA,NA,1,NA
+"AL-Piranhas",2020-07-02,"observed",NA,NA,NA,NA,0,NA
+"AL-Piranhas",2020-07-03,"observed",NA,NA,NA,NA,6,NA
+"AL-Piranhas",2020-07-04,"observed",NA,NA,NA,NA,1,NA
+"AL-Piranhas",2020-07-05,"observed",NA,NA,NA,NA,0,NA
+"AL-Piranhas",2020-07-06,"observed",NA,NA,NA,NA,2,NA
+"AL-Piranhas",2020-07-07,"observed",NA,NA,NA,NA,4,NA
+"AL-Piranhas",2020-07-08,"observed",NA,NA,NA,NA,3,NA
+"AL-Piranhas",2020-07-09,"observed",NA,NA,NA,NA,1,NA
+"AL-Piranhas",2020-07-10,"observed",NA,NA,NA,NA,0,NA
+"AL-Piranhas",2020-07-11,"observed",NA,NA,NA,NA,1,NA
+"AL-Piranhas",2020-07-12,"observed",NA,NA,NA,NA,0,NA
+"AL-Piranhas",2020-07-13,"observed",NA,NA,NA,NA,4,NA
+"AL-Piranhas",2020-07-14,"observed",NA,NA,NA,NA,0,NA
+"AL-Piranhas",2020-07-15,"observed",NA,NA,NA,NA,2,NA
+"AL-Piranhas",2020-07-16,"observed",NA,NA,NA,NA,9,NA
+"AL-Piranhas",2020-07-17,"observed",NA,NA,NA,NA,0,NA
+"AL-Piranhas",2020-07-18,"observed",NA,NA,NA,NA,0,NA
+"AL-Piranhas",2020-07-19,"observed",NA,NA,NA,NA,1,NA
+"AL-Piranhas",2020-07-20,"observed",NA,NA,NA,NA,0,NA
+"AL-Piranhas",2020-07-21,"observed",NA,NA,NA,NA,13,NA
+"AL-Piranhas",2020-07-22,"observed",NA,NA,NA,NA,17,NA
+"AL-Piranhas",2020-07-23,"observed",NA,NA,NA,NA,1,NA
+"AL-Piranhas",2020-07-24,"observed",NA,NA,NA,NA,6,NA
+"AL-Piranhas",2020-07-25,"observed",NA,NA,NA,NA,6,NA
+"AL-Piranhas",2020-07-26,"observed",NA,NA,NA,NA,5,NA
+"AL-Piranhas",2020-07-27,"observed",NA,NA,NA,NA,3,NA
+"AL-Piranhas",2020-07-28,"observed",NA,NA,NA,NA,4,NA
+"AL-Piranhas",2020-07-29,"observed",NA,NA,NA,NA,0,NA
+"AL-Piranhas",2020-07-30,"observed",NA,NA,NA,NA,0,NA
+"AL-Piranhas",2020-07-31,"observed",NA,NA,NA,NA,2,NA
+"AL-Piranhas",2020-08-01,"observed",NA,NA,NA,NA,2,NA
+"AL-Piranhas",2020-08-02,"observed",NA,NA,NA,NA,3,NA
+"AL-Piranhas",2020-08-03,"observed",NA,NA,NA,NA,1,NA
+"AL-Piranhas",2020-08-04,"observed",NA,NA,NA,NA,0,NA
+"AL-Piranhas",2020-08-05,"observed",NA,NA,NA,NA,0,NA
+"AL-Piranhas",2020-08-06,"observed",NA,NA,NA,NA,1,NA
+"AL-Piranhas",2020-08-07,"observed",NA,NA,NA,NA,0,NA
+"AL-Piranhas",2020-08-08,"observed",NA,NA,NA,NA,0,NA
+"AL-Piranhas",2020-08-09,"observed",NA,NA,NA,NA,2,NA
+"AL-Piranhas",2020-08-10,"observed",NA,NA,NA,NA,0,NA
+"AL-Piranhas",2020-08-11,"observed",NA,NA,NA,NA,0,NA
+"AL-Piranhas",2020-08-12,"observed",NA,NA,NA,NA,0,NA
+"AL-Piranhas",2020-07-30,"forecast",5,26,5,11,11,14.8666666666667
+"AL-Piranhas",2020-07-31,"forecast",0,14,0,3,3,5.8232
+"AL-Piranhas",2020-08-01,"forecast",0,17,0,3,3,7.077
+"AL-Piranhas",2020-08-02,"forecast",0,20,0,3,3,8.431
+"AL-Piranhas",2020-08-03,"forecast",0,25,0,3,3,10.5192
+"AL-Piranhas",2020-08-04,"forecast",0,29,0,3,3,13.2674
+"AL-Piranhas",2020-08-05,"forecast",0,36,0,3,3,21.3066
+"AL-Piranhas",2020-08-06,"forecast",0,41,0,3,3,32.4228
+"AL-Piranhas",2020-08-07,"forecast",0,50,0,3,3,59.2426
+"AL-Piranhas",2020-08-08,"forecast",0,61,0,3,3,1385.2414
+"AL-Piranhas",2020-08-09,"forecast",0,73,0,3,3,232.672
+"AL-Piranhas",2020-08-10,"forecast",0,80,0,3,3,5219.1532
+"AL-Piranhas",2020-08-11,"forecast",0,92,0,3,3,234656.93
+"AL-Piranhas",2020-08-12,"forecast",0,114,0,3,3,29154.4111644658
+"AL-Piranhas",2020-08-13,"forecast",0,129,0,3,3,381006.929317269
+"BA-Novo Triunfo",2020-04-16,"nowcast",1,1,1,1,1,1
+"BA-Novo Triunfo",2020-04-17,"nowcast",0,0,0,0,0,0
+"BA-Novo Triunfo",2020-04-18,"nowcast",0,0,0,0,0,0
+"BA-Novo Triunfo",2020-04-19,"nowcast",0,0,0,0,0,0
+"BA-Novo Triunfo",2020-04-20,"nowcast",0,0,0,0,0,0
+"BA-Novo Triunfo",2020-04-21,"nowcast",0,0,0,0,0,0
+"BA-Novo Triunfo",2020-04-22,"nowcast",0,0,0,0,0,0
+"BA-Novo Triunfo",2020-04-23,"nowcast",0,0,0,0,0,0
+"BA-Novo Triunfo",2020-04-24,"nowcast",0,0,0,0,0,0
+"BA-Novo Triunfo",2020-04-25,"nowcast",0,1,1,1,1,0.666666666666667
+"BA-Novo Triunfo",2020-04-26,"nowcast",0,1,0,0,0,0.25
+"BA-Novo Triunfo",2020-04-27,"nowcast",0,0,0,0,0,0
+"BA-Novo Triunfo",2020-04-28,"nowcast",0,0,0,0,0,0
+"BA-Novo Triunfo",2020-04-29,"nowcast",0,1,0,0,0,0.333333333333333
+"BA-Novo Triunfo",2020-04-30,"nowcast",0,1,1,1,1,0.545454545454545
+"BA-Novo Triunfo",2020-05-01,"nowcast",0,1,0,0,0,0.285714285714286
+"BA-Novo Triunfo",2020-05-02,"nowcast",0,1,0,0,0,0.4
+"BA-Novo Triunfo",2020-05-03,"nowcast",0,1,0,0,0,0.333333333333333
+"BA-Novo Triunfo",2020-05-04,"nowcast",0,1,0,0,0,0.333333333333333
+"BA-Novo Triunfo",2020-05-05,"nowcast",0,1,0,0,0,0.369565217391304
+"BA-Novo Triunfo",2020-05-06,"nowcast",0,1,0,0,0,0.359375
+"BA-Novo Triunfo",2020-05-07,"nowcast",0,1,0,0,0,0.166666666666667
+"BA-Novo Triunfo",2020-05-08,"nowcast",0,1,0,0,0,0.294117647058824
+"BA-Novo Triunfo",2020-05-09,"nowcast",0,1,0,0,0,0.268518518518519
+"BA-Novo Triunfo",2020-05-10,"nowcast",0,1,0,0,0,0.281481481481481
+"BA-Novo Triunfo",2020-05-11,"nowcast",0,1,0,0,0,0.283132530120482
+"BA-Novo Triunfo",2020-05-12,"nowcast",0,1,0,0,0,0.229591836734694
+"BA-Novo Triunfo",2020-05-13,"nowcast",0,1,0,0,0,0.278969957081545
+"BA-Novo Triunfo",2020-05-14,"nowcast",0,1,0,0,0,0.256944444444444
+"BA-Novo Triunfo",2020-05-15,"nowcast",0,1,0,0,0,0.263768115942029
+"BA-Novo Triunfo",2020-05-16,"nowcast",0,1,0,0,0,0.221374045801527
+"BA-Novo Triunfo",2020-05-17,"nowcast",0,1,0,0,0,0.285398230088496
+"BA-Novo Triunfo",2020-05-18,"nowcast",0,1,0,0,0,0.25763358778626
+"BA-Novo Triunfo",2020-05-19,"nowcast",0,1,0,0,0,0.274220032840722
+"BA-Novo Triunfo",2020-05-20,"nowcast",0,1,0,0,0,0.282127031019202
+"BA-Novo Triunfo",2020-05-21,"nowcast",0,1,0,0,0,0.280958721704394
+"BA-Novo Triunfo",2020-05-22,"nowcast",0,1,0,0,0,0.253117206982544
+"BA-Novo Triunfo",2020-05-23,"nowcast",0,1,0,0,0,0.249408983451537
+"BA-Novo Triunfo",2020-05-24,"nowcast",0,1,0,0,0,0.224744608399546
+"BA-Novo Triunfo",2020-05-25,"nowcast",0,1,0,0,0,0.20417124039517
+"BA-Novo Triunfo",2020-05-26,"nowcast",0,1,0,0,0,0.162513542795233
+"BA-Novo Triunfo",2020-05-27,"nowcast",0,1,0,0,0,0.144539614561028
+"BA-Novo Triunfo",2020-05-28,"nowcast",0,1,0,0,0,0.11957671957672
+"BA-Novo Triunfo",2020-05-29,"nowcast",0,1,0,0,0,0.141350210970464
+"BA-Novo Triunfo",2020-05-30,"nowcast",0,1,0,0,0,0.143006263048017
+"BA-Novo Triunfo",2020-05-31,"nowcast",0,1,0,0,0,0.162525879917184
+"BA-Novo Triunfo",2020-06-01,"nowcast",0,1,0,0,0,0.18014329580348
+"BA-Novo Triunfo",2020-06-02,"nowcast",0,1,0,0,0,0.168870803662258
+"BA-Novo Triunfo",2020-06-03,"nowcast",0,1,0,0,0,0.186802030456853
+"BA-Novo Triunfo",2020-06-04,"nowcast",0,1,0,0,0,0.187436676798379
+"BA-Novo Triunfo",2020-06-05,"nowcast",0,1,0,0,0,0.210739614994934
+"BA-Novo Triunfo",2020-06-06,"nowcast",0,1,0,0,0,0.231781376518219
+"BA-Novo Triunfo",2020-06-07,"nowcast",0,1,0,0,0,0.255555555555556
+"BA-Novo Triunfo",2020-06-08,"nowcast",0,1,0,0,0,0.329292929292929
+"BA-Novo Triunfo",2020-06-09,"nowcast",0,1,0,0,0,0.425832492431887
+"BA-Novo Triunfo",2020-06-10,"nowcast",0,1,0,0,0,0.505020080321285
+"BA-Novo Triunfo",2020-06-11,"nowcast",0,2,0,0,0,0.598796389167503
+"BA-Novo Triunfo",2020-06-12,"nowcast",0,2,0,0,0,0.661661661661662
+"BA-Novo Triunfo",2020-06-13,"nowcast",0,2,0,1,1,0.828828828828829
+"BA-Novo Triunfo",2020-06-14,"nowcast",0,2,0,1,1,0.916916916916917
+"BA-Novo Triunfo",2020-06-15,"nowcast",0,3,0,1,1,1.09209209209209
+"BA-Novo Triunfo",2020-06-16,"nowcast",0,2,0,1,1,1.129
+"BA-Novo Triunfo",2020-06-17,"nowcast",0,3,0,1,1,1.329
+"BA-Novo Triunfo",2020-06-18,"nowcast",0,3,0,1,1,1.409
+"BA-Novo Triunfo",2020-06-19,"nowcast",0,3,0,1,1,1.483
+"BA-Novo Triunfo",2020-06-20,"nowcast",0,3,0,1,1,1.491
+"BA-Novo Triunfo",2020-06-21,"nowcast",0,3,0,1,1,1.455
+"BA-Novo Triunfo",2020-06-22,"nowcast",0,3,0,1,1,1.489
+"BA-Novo Triunfo",2020-06-23,"nowcast",0,3,0,1,1,1.437
+"BA-Novo Triunfo",2020-06-24,"nowcast",0,3,0,1,1,1.52
+"BA-Novo Triunfo",2020-06-25,"nowcast",0,3,0,1,1,1.598
+"BA-Novo Triunfo",2020-06-26,"nowcast",0,3,0,1,1,1.547
+"BA-Novo Triunfo",2020-06-27,"nowcast",0,3,0,1,1,1.539
+"BA-Novo Triunfo",2020-06-28,"nowcast",0,3,0,1,1,1.47
+"BA-Novo Triunfo",2020-06-29,"nowcast",0,3,0,1,1,1.353
+"BA-Novo Triunfo",2020-06-30,"nowcast",0,3,0,1,1,1.269
+"BA-Novo Triunfo",2020-07-01,"nowcast",0,2,0,1,1,1.136
+"BA-Novo Triunfo",2020-07-02,"nowcast",0,2,0,1,1,0.995
+"BA-Novo Triunfo",2020-07-03,"nowcast",0,2,0,1,1,0.828
+"BA-Novo Triunfo",2020-07-04,"nowcast",0,2,0,1,1,0.807
+"BA-Novo Triunfo",2020-07-05,"nowcast",0,2,0,1,1,0.783
+"BA-Novo Triunfo",2020-07-06,"nowcast",0,2,0,1,1,0.801
+"BA-Novo Triunfo",2020-07-07,"nowcast",0,2,0,1,1,0.794
+"BA-Novo Triunfo",2020-07-08,"nowcast",0,2,0,1,1,0.851
+"BA-Novo Triunfo",2020-07-09,"nowcast",0,2,0,1,1,0.992
+"BA-Novo Triunfo",2020-07-10,"nowcast",0,3,0,1,1,1.1
+"BA-Novo Triunfo",2020-07-11,"nowcast",0,3,0,1,1,1.213
+"BA-Novo Triunfo",2020-07-12,"nowcast",0,3,0,1,1,1.359
+"BA-Novo Triunfo",2020-07-13,"nowcast",0,3,0,1,1,1.497
+"BA-Novo Triunfo",2020-07-14,"nowcast",0,3,1,2,2,1.707
+"BA-Novo Triunfo",2020-07-15,"nowcast",0,4,1,2,2,1.905
+"BA-Novo Triunfo",2020-07-16,"nowcast",0,4,1,2,2,2.191
+"BA-Novo Triunfo",2020-07-17,"nowcast",0,5,0,2,2,2.58
+"BA-Novo Triunfo",2020-07-18,"nowcast",0,5,1,3,3,2.98
+"BA-Novo Triunfo",2020-07-19,"nowcast",1,6,1,3,3,3.273
+"BA-Novo Triunfo",2020-07-20,"nowcast",0,6,2,4,4,3.782
+"BA-Novo Triunfo",2020-07-21,"nowcast",1,7,2,4,4,4.122
+"BA-Novo Triunfo",2020-07-22,"nowcast",1,7,3,5,4,4.481
+"BA-Novo Triunfo",2020-07-23,"nowcast",1,8,3,5,5,4.744
+"BA-Novo Triunfo",2020-07-24,"nowcast",1,8,3,5,5,4.832
+"BA-Novo Triunfo",2020-07-25,"nowcast",1,8,3,5,5,4.816
+"BA-Novo Triunfo",2020-07-26,"nowcast",2,8,3,5,5,4.771
+"BA-Novo Triunfo",2020-07-27,"nowcast",1,8,1,4,4,4.621
+"BA-Novo Triunfo",2020-07-28,"nowcast",1,8,2,5,5,4.841
+"BA-Novo Triunfo",2020-07-29,"nowcast",1,9,2,5,5,5.351
+"BA-Novo Triunfo",2020-07-30,"nowcast",1,10,3,6,6,6.119
+"BA-Novo Triunfo",2020-07-31,"nowcast",2,12,3,7,7,7.152
+"BA-Novo Triunfo",2020-08-01,"nowcast",1,14,5,9,8,8.369
+"BA-Novo Triunfo",2020-08-02,"nowcast",1,16,6,11,9,9.726
+"BA-Novo Triunfo",2020-05-29,"observed",NA,NA,NA,NA,2,NA
+"BA-Novo Triunfo",2020-05-30,"observed",NA,NA,NA,NA,0,NA
+"BA-Novo Triunfo",2020-05-31,"observed",NA,NA,NA,NA,0,NA
+"BA-Novo Triunfo",2020-06-01,"observed",NA,NA,NA,NA,0,NA
+"BA-Novo Triunfo",2020-06-02,"observed",NA,NA,NA,NA,0,NA
+"BA-Novo Triunfo",2020-06-03,"observed",NA,NA,NA,NA,0,NA
+"BA-Novo Triunfo",2020-06-04,"observed",NA,NA,NA,NA,0,NA
+"BA-Novo Triunfo",2020-06-05,"observed",NA,NA,NA,NA,0,NA
+"BA-Novo Triunfo",2020-06-06,"observed",NA,NA,NA,NA,0,NA
+"BA-Novo Triunfo",2020-06-07,"observed",NA,NA,NA,NA,1,NA
+"BA-Novo Triunfo",2020-06-08,"observed",NA,NA,NA,NA,0,NA
+"BA-Novo Triunfo",2020-06-09,"observed",NA,NA,NA,NA,0,NA
+"BA-Novo Triunfo",2020-06-10,"observed",NA,NA,NA,NA,0,NA
+"BA-Novo Triunfo",2020-06-11,"observed",NA,NA,NA,NA,0,NA
+"BA-Novo Triunfo",2020-06-12,"observed",NA,NA,NA,NA,0,NA
+"BA-Novo Triunfo",2020-06-13,"observed",NA,NA,NA,NA,0,NA
+"BA-Novo Triunfo",2020-06-14,"observed",NA,NA,NA,NA,0,NA
+"BA-Novo Triunfo",2020-06-15,"observed",NA,NA,NA,NA,0,NA
+"BA-Novo Triunfo",2020-06-16,"observed",NA,NA,NA,NA,0,NA
+"BA-Novo Triunfo",2020-06-17,"observed",NA,NA,NA,NA,0,NA
+"BA-Novo Triunfo",2020-06-18,"observed",NA,NA,NA,NA,0,NA
+"BA-Novo Triunfo",2020-06-19,"observed",NA,NA,NA,NA,0,NA
+"BA-Novo Triunfo",2020-06-20,"observed",NA,NA,NA,NA,1,NA
+"BA-Novo Triunfo",2020-06-21,"observed",NA,NA,NA,NA,0,NA
+"BA-Novo Triunfo",2020-06-22,"observed",NA,NA,NA,NA,0,NA
+"BA-Novo Triunfo",2020-06-23,"observed",NA,NA,NA,NA,0,NA
+"BA-Novo Triunfo",2020-06-24,"observed",NA,NA,NA,NA,2,NA
+"BA-Novo Triunfo",2020-06-25,"observed",NA,NA,NA,NA,5,NA
+"BA-Novo Triunfo",2020-06-26,"observed",NA,NA,NA,NA,1,NA
+"BA-Novo Triunfo",2020-06-27,"observed",NA,NA,NA,NA,1,NA
+"BA-Novo Triunfo",2020-06-28,"observed",NA,NA,NA,NA,0,NA
+"BA-Novo Triunfo",2020-06-29,"observed",NA,NA,NA,NA,0,NA
+"BA-Novo Triunfo",2020-06-30,"observed",NA,NA,NA,NA,0,NA
+"BA-Novo Triunfo",2020-07-01,"observed",NA,NA,NA,NA,7,NA
+"BA-Novo Triunfo",2020-07-02,"observed",NA,NA,NA,NA,0,NA
+"BA-Novo Triunfo",2020-07-03,"observed",NA,NA,NA,NA,0,NA
+"BA-Novo Triunfo",2020-07-04,"observed",NA,NA,NA,NA,0,NA
+"BA-Novo Triunfo",2020-07-05,"observed",NA,NA,NA,NA,8,NA
+"BA-Novo Triunfo",2020-07-06,"observed",NA,NA,NA,NA,1,NA
+"BA-Novo Triunfo",2020-07-07,"observed",NA,NA,NA,NA,1,NA
+"BA-Novo Triunfo",2020-07-08,"observed",NA,NA,NA,NA,1,NA
+"BA-Novo Triunfo",2020-07-09,"observed",NA,NA,NA,NA,0,NA
+"BA-Novo Triunfo",2020-07-10,"observed",NA,NA,NA,NA,2,NA
+"BA-Novo Triunfo",2020-07-11,"observed",NA,NA,NA,NA,0,NA
+"BA-Novo Triunfo",2020-07-12,"observed",NA,NA,NA,NA,0,NA
+"BA-Novo Triunfo",2020-07-13,"observed",NA,NA,NA,NA,0,NA
+"BA-Novo Triunfo",2020-07-14,"observed",NA,NA,NA,NA,0,NA
+"BA-Novo Triunfo",2020-07-15,"observed",NA,NA,NA,NA,1,NA
+"BA-Novo Triunfo",2020-07-16,"observed",NA,NA,NA,NA,3,NA
+"BA-Novo Triunfo",2020-07-17,"observed",NA,NA,NA,NA,0,NA
+"BA-Novo Triunfo",2020-07-18,"observed",NA,NA,NA,NA,0,NA
+"BA-Novo Triunfo",2020-07-19,"observed",NA,NA,NA,NA,0,NA
+"BA-Novo Triunfo",2020-07-20,"observed",NA,NA,NA,NA,1,NA
+"BA-Novo Triunfo",2020-07-21,"observed",NA,NA,NA,NA,1,NA
+"BA-Novo Triunfo",2020-07-22,"observed",NA,NA,NA,NA,1,NA
+"BA-Novo Triunfo",2020-07-23,"observed",NA,NA,NA,NA,0,NA
+"BA-Novo Triunfo",2020-07-24,"observed",NA,NA,NA,NA,0,NA
+"BA-Novo Triunfo",2020-07-25,"observed",NA,NA,NA,NA,0,NA
+"BA-Novo Triunfo",2020-07-26,"observed",NA,NA,NA,NA,0,NA
+"BA-Novo Triunfo",2020-07-27,"observed",NA,NA,NA,NA,1,NA
+"BA-Novo Triunfo",2020-07-28,"observed",NA,NA,NA,NA,4,NA
+"BA-Novo Triunfo",2020-07-29,"observed",NA,NA,NA,NA,15,NA
+"BA-Novo Triunfo",2020-07-30,"observed",NA,NA,NA,NA,10,NA
+"BA-Novo Triunfo",2020-07-31,"observed",NA,NA,NA,NA,3,NA
+"BA-Novo Triunfo",2020-08-01,"observed",NA,NA,NA,NA,2,NA
+"BA-Novo Triunfo",2020-08-02,"observed",NA,NA,NA,NA,2,NA
+"BA-Novo Triunfo",2020-08-03,"observed",NA,NA,NA,NA,2,NA
+"BA-Novo Triunfo",2020-08-04,"observed",NA,NA,NA,NA,0,NA
+"BA-Novo Triunfo",2020-08-05,"observed",NA,NA,NA,NA,1,NA
+"BA-Novo Triunfo",2020-08-06,"observed",NA,NA,NA,NA,2,NA
+"BA-Novo Triunfo",2020-08-07,"observed",NA,NA,NA,NA,10,NA
+"BA-Novo Triunfo",2020-08-08,"observed",NA,NA,NA,NA,2,NA
+"BA-Novo Triunfo",2020-08-09,"observed",NA,NA,NA,NA,13,NA
+"BA-Novo Triunfo",2020-08-10,"observed",NA,NA,NA,NA,8,NA
+"BA-Novo Triunfo",2020-08-11,"observed",NA,NA,NA,NA,0,NA
+"BA-Novo Triunfo",2020-08-12,"observed",NA,NA,NA,NA,2,NA
+"BA-Novo Triunfo",2020-08-03,"forecast",0,20,1,9,9,10.5524
+"BA-Novo Triunfo",2020-08-04,"forecast",0,24,2,11,10,12.1608
+"BA-Novo Triunfo",2020-08-05,"forecast",0,29,0,10,10,13.9288
+"BA-Novo Triunfo",2020-08-06,"forecast",0,35,0,11,11,16.1124
+"BA-Novo Triunfo",2020-08-07,"forecast",0,40,0,12,12,18.6272
+"BA-Novo Triunfo",2020-08-08,"forecast",0,47,0,13,13,22.0948
+"BA-Novo Triunfo",2020-08-09,"forecast",0,57,0,14,14,26.6622
+"BA-Novo Triunfo",2020-08-10,"forecast",0,66,0,15,15,32.8474
+"BA-Novo Triunfo",2020-08-11,"forecast",0,79,0,15,15,38.3502
+"BA-Novo Triunfo",2020-08-12,"forecast",0,96,0,16,16,50.9432
+"BA-Novo Triunfo",2020-08-13,"forecast",0,108,0,18,18,71.032
+"BA-Novo Triunfo",2020-08-14,"forecast",0,123,0,18,18,86.6946
+"BA-Novo Triunfo",2020-08-15,"forecast",0,152,0,19,19,123.216
+"BA-Novo Triunfo",2020-08-16,"forecast",0,181,0,22,22,251.1684
+"CE-Jucás",2020-03-05,"nowcast",1,1,1,1,1,1
+"CE-Jucás",2020-03-06,"nowcast",0,1,0,1,0.5,0.5
+"CE-Jucás",2020-03-07,"nowcast",0,0,0,0,0,0
+"CE-Jucás",2020-03-08,"nowcast",0,0,0,0,0,0
+"CE-Jucás",2020-03-09,"nowcast",0,1,0,1,0.5,0.5
+"CE-Jucás",2020-03-10,"nowcast",0,1,0,0,0,0.2
+"CE-Jucás",2020-03-11,"nowcast",0,1,0,0,0,0.166666666666667
+"CE-Jucás",2020-03-12,"nowcast",0,1,0,0,0,0.142857142857143
+"CE-Jucás",2020-03-13,"nowcast",0,1,0,0,0,0.333333333333333
+"CE-Jucás",2020-03-14,"nowcast",0,1,0,0,0,0.181818181818182
+"CE-Jucás",2020-03-15,"nowcast",0,0,0,0,0,0.0833333333333333
+"CE-Jucás",2020-03-16,"nowcast",0,1,0,0,0,0.3125
+"CE-Jucás",2020-03-17,"nowcast",0,1,0,0,0,0.363636363636364
+"CE-Jucás",2020-03-18,"nowcast",0,1,0,0,0,0.393939393939394
+"CE-Jucás",2020-03-19,"nowcast",0,1,0,0,0,0.205128205128205
+"CE-Jucás",2020-03-20,"nowcast",0,1,0,0,0,0.291666666666667
+"CE-Jucás",2020-03-21,"nowcast",0,1,0,0,0,0.4
+"CE-Jucás",2020-03-22,"nowcast",0,1,0,0,0,0.226190476190476
+"CE-Jucás",2020-03-23,"nowcast",0,1,0,0,0,0.304761904761905
+"CE-Jucás",2020-03-24,"nowcast",0,1,0,0,0,0.276923076923077
+"CE-Jucás",2020-03-25,"nowcast",0,1,0,0,0,0.262820512820513
+"CE-Jucás",2020-03-26,"nowcast",0,1,0,0,0,0.346341463414634
+"CE-Jucás",2020-03-27,"nowcast",0,1,0,0,0,0.301960784313725
+"CE-Jucás",2020-03-28,"nowcast",0,1,0,0,0,0.352409638554217
+"CE-Jucás",2020-03-29,"nowcast",0,1,0,0,0,0.283544303797468
+"CE-Jucás",2020-03-30,"nowcast",0,1,0,0,0,0.310344827586207
+"CE-Jucás",2020-03-31,"nowcast",0,1,0,0,0,0.349907918968692
+"CE-Jucás",2020-04-01,"nowcast",0,1,0,0,0,0.351395730706076
+"CE-Jucás",2020-04-02,"nowcast",0,1,0,0,0,0.41534008683068
+"CE-Jucás",2020-04-03,"nowcast",0,1,0,0,0,0.396574440052701
+"CE-Jucás",2020-04-04,"nowcast",0,1,0,0,0,0.406060606060606
+"CE-Jucás",2020-04-05,"nowcast",0,1,0,0,0,0.441309255079007
+"CE-Jucás",2020-04-06,"nowcast",0,1,0,0,0,0.497320471596999
+"CE-Jucás",2020-04-07,"nowcast",0,1,0,0,0,0.517708333333333
+"CE-Jucás",2020-04-08,"nowcast",0,1,0,0,0,0.496417604912999
+"CE-Jucás",2020-04-09,"nowcast",0,2,0,0,0,0.577935222672065
+"CE-Jucás",2020-04-10,"nowcast",0,1,0,0,0,0.556338028169014
+"CE-Jucás",2020-04-11,"nowcast",0,2,0,0,0,0.528112449799197
+"CE-Jucás",2020-04-12,"nowcast",0,1,0,0,0,0.492985971943888
+"CE-Jucás",2020-04-13,"nowcast",0,1,0,0,0,0.449449449449449
+"CE-Jucás",2020-04-14,"nowcast",0,1,0,0,0,0.431431431431431
+"CE-Jucás",2020-04-15,"nowcast",0,1,0,0,0,0.391391391391391
+"CE-Jucás",2020-04-16,"nowcast",0,1,0,0,0,0.409
+"CE-Jucás",2020-04-17,"nowcast",0,1,0,0,0,0.408
+"CE-Jucás",2020-04-18,"nowcast",0,1,0,0,0,0.348
+"CE-Jucás",2020-04-19,"nowcast",0,1,0,0,0,0.281
+"CE-Jucás",2020-04-20,"nowcast",0,1,0,0,0,0.233
+"CE-Jucás",2020-04-21,"nowcast",0,1,0,0,0,0.198
+"CE-Jucás",2020-04-22,"nowcast",0,1,0,0,0,0.182
+"CE-Jucás",2020-04-23,"nowcast",0,1,0,0,0,0.159
+"CE-Jucás",2020-04-24,"nowcast",0,1,0,0,0,0.177
+"CE-Jucás",2020-04-25,"nowcast",0,1,0,0,0,0.166
+"CE-Jucás",2020-04-26,"nowcast",0,1,0,0,0,0.177
+"CE-Jucás",2020-04-27,"nowcast",0,1,0,0,0,0.209
+"CE-Jucás",2020-04-28,"nowcast",0,1,0,0,0,0.223
+"CE-Jucás",2020-04-29,"nowcast",0,1,0,0,0,0.214
+"CE-Jucás",2020-04-30,"nowcast",0,1,0,0,0,0.219
+"CE-Jucás",2020-05-01,"nowcast",0,1,0,0,0,0.192
+"CE-Jucás",2020-05-02,"nowcast",0,1,0,0,0,0.198
+"CE-Jucás",2020-05-03,"nowcast",0,1,0,0,0,0.182
+"CE-Jucás",2020-05-04,"nowcast",0,1,0,0,0,0.172
+"CE-Jucás",2020-05-05,"nowcast",0,1,0,0,0,0.153
+"CE-Jucás",2020-05-06,"nowcast",0,1,0,0,0,0.199
+"CE-Jucás",2020-05-07,"nowcast",0,1,0,0,0,0.21
+"CE-Jucás",2020-05-08,"nowcast",0,1,0,0,0,0.255
+"CE-Jucás",2020-05-09,"nowcast",0,1,0,0,0,0.282
+"CE-Jucás",2020-05-10,"nowcast",0,1,0,0,0,0.326
+"CE-Jucás",2020-05-11,"nowcast",0,1,0,0,0,0.382
+"CE-Jucás",2020-05-12,"nowcast",0,1,0,0,0,0.411
+"CE-Jucás",2020-05-13,"nowcast",0,1,0,0,0,0.444
+"CE-Jucás",2020-05-14,"nowcast",0,1,0,0,0,0.462
+"CE-Jucás",2020-05-15,"nowcast",0,1,0,0,0,0.508
+"CE-Jucás",2020-05-16,"nowcast",0,1,0,0,0,0.502
+"CE-Jucás",2020-05-17,"nowcast",0,2,0,0,0,0.586
+"CE-Jucás",2020-05-18,"nowcast",0,2,0,0,0,0.58
+"CE-Jucás",2020-05-19,"nowcast",0,2,0,0,0,0.592
+"CE-Jucás",2020-05-20,"nowcast",0,2,0,0,0,0.635
+"CE-Jucás",2020-05-21,"nowcast",0,2,0,1,1,0.705
+"CE-Jucás",2020-05-22,"nowcast",0,2,0,1,1,0.761
+"CE-Jucás",2020-05-23,"nowcast",0,2,0,1,1,0.856
+"CE-Jucás",2020-05-24,"nowcast",0,2,0,1,1,0.977
+"CE-Jucás",2020-05-25,"nowcast",0,2,0,1,1,1.021
+"CE-Jucás",2020-05-26,"nowcast",0,3,0,1,1,1.111
+"CE-Jucás",2020-05-27,"nowcast",0,3,0,1,1,1.169
+"CE-Jucás",2020-05-28,"nowcast",0,2,0,1,1,1.124
+"CE-Jucás",2020-05-29,"nowcast",0,3,0,1,1,1.188
+"CE-Jucás",2020-05-30,"nowcast",0,3,0,1,1,1.193
+"CE-Jucás",2020-05-31,"nowcast",0,3,0,1,1,1.187
+"CE-Jucás",2020-06-01,"nowcast",0,2,0,1,1,1.165
+"CE-Jucás",2020-06-02,"nowcast",0,3,0,1,1,1.157
+"CE-Jucás",2020-06-03,"nowcast",0,3,0,1,1,1.197
+"CE-Jucás",2020-06-04,"nowcast",0,3,0,1,1,1.322
+"CE-Jucás",2020-06-05,"nowcast",0,3,0,1,1,1.375
+"CE-Jucás",2020-06-06,"nowcast",0,3,0,1,1,1.456
+"CE-Jucás",2020-06-07,"nowcast",0,3,0,1,1,1.517
+"CE-Jucás",2020-06-08,"nowcast",0,3,0,1,1,1.595
+"CE-Jucás",2020-06-09,"nowcast",0,3,1,2,2,1.676
+"CE-Jucás",2020-06-10,"nowcast",0,4,1,2,2,1.839
+"CE-Jucás",2020-06-11,"nowcast",0,4,1,2,2,1.922
+"CE-Jucás",2020-06-12,"nowcast",0,4,1,2,2,2.117
+"CE-Jucás",2020-06-13,"nowcast",0,4,1,2,2,2.194
+"CE-Jucás",2020-06-14,"nowcast",0,5,0,2,2,2.399
+"CE-Jucás",2020-06-15,"nowcast",0,5,0,2,2,2.587
+"CE-Jucás",2020-06-16,"nowcast",0,5,1,3,3,2.785
+"CE-Jucás",2020-06-17,"nowcast",0,5,1,3,3,3.007
+"CE-Jucás",2020-06-18,"nowcast",0,5,1,3,3,3.207
+"CE-Jucás",2020-06-19,"nowcast",1,6,1,3,3,3.395
+"CE-Jucás",2020-06-20,"nowcast",1,6,2,4,4,3.65
+"CE-Jucás",2020-06-21,"nowcast",0,6,2,4,4,3.911
+"CE-Jucás",2020-06-22,"nowcast",1,7,2,4,4,4.117
+"CE-Jucás",2020-06-23,"nowcast",1,7,3,5,4,4.378
+"CE-Jucás",2020-06-24,"nowcast",2,8,3,5,4,4.565
+"CE-Jucás",2020-06-25,"nowcast",2,8,2,5,5,4.889
+"CE-Jucás",2020-06-26,"nowcast",2,9,2,5,5,5.453
+"CE-Jucás",2020-06-27,"nowcast",1,8,2,5,5,5.404
+"CE-Jucás",2020-06-28,"nowcast",2,9,3,6,5,5.616
+"CE-Jucás",2020-06-29,"nowcast",2,9,3,6,5,5.672
+"CE-Jucás",2020-06-30,"nowcast",2,9,3,6,5,5.646
+"CE-Jucás",2020-07-01,"nowcast",1,8,4,6,5,5.398
+"CE-Jucás",2020-07-02,"nowcast",1,8,4,6,5,5.379
+"CE-Jucás",2020-07-03,"nowcast",1,8,2,5,5,5.346
+"CE-Jucás",2020-07-04,"nowcast",2,9,2,5,5,5.489
+"CE-Jucás",2020-07-05,"nowcast",2,9,4,6,5,5.491
+"CE-Jucás",2020-07-06,"nowcast",2,9,3,6,5,5.63
+"CE-Jucás",2020-07-07,"nowcast",3,10,3,6,6,5.987
+"CE-Jucás",2020-07-08,"nowcast",2,10,3,6,6,6.403
+"CE-Jucás",2020-07-09,"nowcast",2,10,4,7,6,6.68
+"CE-Jucás",2020-07-10,"nowcast",3,11,4,7,7,7.107
+"CE-Jucás",2020-07-11,"nowcast",3,11,5,8,7,7.581
+"CE-Jucás",2020-07-12,"nowcast",3,12,6,9,8,7.933
+"CE-Jucás",2020-07-13,"nowcast",4,12,6,9,8,8.262
+"CE-Jucás",2020-07-14,"nowcast",3,12,6,9,8,8.322
+"CE-Jucás",2020-07-15,"nowcast",5,13,6,9,9,8.594
+"CE-Jucás",2020-07-16,"nowcast",3,12,4,8,8,8.494
+"CE-Jucás",2020-07-17,"nowcast",4,12,5,8,8,8.156
+"CE-Jucás",2020-07-18,"nowcast",3,12,6,9,8,7.937
+"CE-Jucás",2020-07-19,"nowcast",3,11,5,8,7,7.459
+"CE-Jucás",2020-07-20,"nowcast",3,11,5,8,7,7.381
+"CE-Jucás",2020-07-21,"nowcast",3,11,5,8,7,7.307
+"CE-Jucás",2020-07-22,"nowcast",3,11,5,8,7,7.247
+"CE-Jucás",2020-07-23,"nowcast",3,11,4,7,7,7.257
+"CE-Jucás",2020-07-24,"nowcast",2,10,5,8,7,7.205
+"CE-Jucás",2020-07-25,"nowcast",3,11,5,8,7,7.328
+"CE-Jucás",2020-07-26,"nowcast",2,10,4,7,7,7.071
+"CE-Jucás",2020-07-27,"nowcast",2,10,4,7,7,6.774
+"CE-Jucás",2020-07-28,"nowcast",2,10,4,7,6,6.639
+"CE-Jucás",2020-07-29,"nowcast",2,10,3,6,6,6.355
+"CE-Jucás",2020-07-30,"nowcast",2,11,4,7,6,6.676
+"CE-Jucás",2020-07-31,"nowcast",2,11,3,7,7,7.04
+"CE-Jucás",2020-08-01,"nowcast",2,12,3,7,7,7.614
+"CE-Jucás",2020-08-02,"nowcast",2,13,4,8,8,8.047
+"CE-Jucás",2020-04-15,"observed",NA,NA,NA,NA,4,NA
+"CE-Jucás",2020-04-16,"observed",NA,NA,NA,NA,0,NA
+"CE-Jucás",2020-04-17,"observed",NA,NA,NA,NA,0,NA
+"CE-Jucás",2020-04-18,"observed",NA,NA,NA,NA,0,NA
+"CE-Jucás",2020-04-19,"observed",NA,NA,NA,NA,0,NA
+"CE-Jucás",2020-04-20,"observed",NA,NA,NA,NA,0,NA
+"CE-Jucás",2020-04-21,"observed",NA,NA,NA,NA,0,NA
+"CE-Jucás",2020-04-22,"observed",NA,NA,NA,NA,4,NA
+"CE-Jucás",2020-04-23,"observed",NA,NA,NA,NA,0,NA
+"CE-Jucás",2020-04-24,"observed",NA,NA,NA,NA,0,NA
+"CE-Jucás",2020-04-25,"observed",NA,NA,NA,NA,0,NA
+"CE-Jucás",2020-04-26,"observed",NA,NA,NA,NA,0,NA
+"CE-Jucás",2020-04-27,"observed",NA,NA,NA,NA,1,NA
+"CE-Jucás",2020-04-28,"observed",NA,NA,NA,NA,0,NA
+"CE-Jucás",2020-04-29,"observed",NA,NA,NA,NA,0,NA
+"CE-Jucás",2020-04-30,"observed",NA,NA,NA,NA,0,NA
+"CE-Jucás",2020-05-01,"observed",NA,NA,NA,NA,0,NA
+"CE-Jucás",2020-05-02,"observed",NA,NA,NA,NA,0,NA
+"CE-Jucás",2020-05-03,"observed",NA,NA,NA,NA,0,NA
+"CE-Jucás",2020-05-04,"observed",NA,NA,NA,NA,0,NA
+"CE-Jucás",2020-05-05,"observed",NA,NA,NA,NA,0,NA
+"CE-Jucás",2020-05-06,"observed",NA,NA,NA,NA,2,NA
+"CE-Jucás",2020-05-07,"observed",NA,NA,NA,NA,0,NA
+"CE-Jucás",2020-05-08,"observed",NA,NA,NA,NA,0,NA
+"CE-Jucás",2020-05-09,"observed",NA,NA,NA,NA,0,NA
+"CE-Jucás",2020-05-10,"observed",NA,NA,NA,NA,0,NA
+"CE-Jucás",2020-05-11,"observed",NA,NA,NA,NA,0,NA
+"CE-Jucás",2020-05-12,"observed",NA,NA,NA,NA,0,NA
+"CE-Jucás",2020-05-13,"observed",NA,NA,NA,NA,0,NA
+"CE-Jucás",2020-05-14,"observed",NA,NA,NA,NA,0,NA
+"CE-Jucás",2020-05-15,"observed",NA,NA,NA,NA,0,NA
+"CE-Jucás",2020-05-16,"observed",NA,NA,NA,NA,1,NA
+"CE-Jucás",2020-05-17,"observed",NA,NA,NA,NA,0,NA
+"CE-Jucás",2020-05-18,"observed",NA,NA,NA,NA,0,NA
+"CE-Jucás",2020-05-19,"observed",NA,NA,NA,NA,0,NA
+"CE-Jucás",2020-05-20,"observed",NA,NA,NA,NA,0,NA
+"CE-Jucás",2020-05-21,"observed",NA,NA,NA,NA,1,NA
+"CE-Jucás",2020-05-22,"observed",NA,NA,NA,NA,1,NA
+"CE-Jucás",2020-05-23,"observed",NA,NA,NA,NA,0,NA
+"CE-Jucás",2020-05-24,"observed",NA,NA,NA,NA,0,NA
+"CE-Jucás",2020-05-25,"observed",NA,NA,NA,NA,1,NA
+"CE-Jucás",2020-05-26,"observed",NA,NA,NA,NA,0,NA
+"CE-Jucás",2020-05-27,"observed",NA,NA,NA,NA,0,NA
+"CE-Jucás",2020-05-28,"observed",NA,NA,NA,NA,0,NA
+"CE-Jucás",2020-05-29,"observed",NA,NA,NA,NA,0,NA
+"CE-Jucás",2020-05-30,"observed",NA,NA,NA,NA,2,NA
+"CE-Jucás",2020-05-31,"observed",NA,NA,NA,NA,0,NA
+"CE-Jucás",2020-06-01,"observed",NA,NA,NA,NA,1,NA
+"CE-Jucás",2020-06-02,"observed",NA,NA,NA,NA,2,NA
+"CE-Jucás",2020-06-03,"observed",NA,NA,NA,NA,1,NA
+"CE-Jucás",2020-06-04,"observed",NA,NA,NA,NA,1,NA
+"CE-Jucás",2020-06-05,"observed",NA,NA,NA,NA,3,NA
+"CE-Jucás",2020-06-06,"observed",NA,NA,NA,NA,0,NA
+"CE-Jucás",2020-06-07,"observed",NA,NA,NA,NA,1,NA
+"CE-Jucás",2020-06-08,"observed",NA,NA,NA,NA,0,NA
+"CE-Jucás",2020-06-09,"observed",NA,NA,NA,NA,0,NA
+"CE-Jucás",2020-06-10,"observed",NA,NA,NA,NA,3,NA
+"CE-Jucás",2020-06-11,"observed",NA,NA,NA,NA,1,NA
+"CE-Jucás",2020-06-12,"observed",NA,NA,NA,NA,1,NA
+"CE-Jucás",2020-06-13,"observed",NA,NA,NA,NA,0,NA
+"CE-Jucás",2020-06-14,"observed",NA,NA,NA,NA,1,NA
+"CE-Jucás",2020-06-15,"observed",NA,NA,NA,NA,2,NA
+"CE-Jucás",2020-06-16,"observed",NA,NA,NA,NA,2,NA
+"CE-Jucás",2020-06-17,"observed",NA,NA,NA,NA,2,NA
+"CE-Jucás",2020-06-18,"observed",NA,NA,NA,NA,1,NA
+"CE-Jucás",2020-06-19,"observed",NA,NA,NA,NA,0,NA
+"CE-Jucás",2020-06-20,"observed",NA,NA,NA,NA,3,NA
+"CE-Jucás",2020-06-21,"observed",NA,NA,NA,NA,0,NA
+"CE-Jucás",2020-06-22,"observed",NA,NA,NA,NA,0,NA
+"CE-Jucás",2020-06-23,"observed",NA,NA,NA,NA,3,NA
+"CE-Jucás",2020-06-24,"observed",NA,NA,NA,NA,0,NA
+"CE-Jucás",2020-06-25,"observed",NA,NA,NA,NA,9,NA
+"CE-Jucás",2020-06-26,"observed",NA,NA,NA,NA,4,NA
+"CE-Jucás",2020-06-27,"observed",NA,NA,NA,NA,2,NA
+"CE-Jucás",2020-06-28,"observed",NA,NA,NA,NA,0,NA
+"CE-Jucás",2020-06-29,"observed",NA,NA,NA,NA,0,NA
+"CE-Jucás",2020-06-30,"observed",NA,NA,NA,NA,3,NA
+"CE-Jucás",2020-07-01,"observed",NA,NA,NA,NA,4,NA
+"CE-Jucás",2020-07-02,"observed",NA,NA,NA,NA,6,NA
+"CE-Jucás",2020-07-03,"observed",NA,NA,NA,NA,3,NA
+"CE-Jucás",2020-07-04,"observed",NA,NA,NA,NA,11,NA
+"CE-Jucás",2020-07-05,"observed",NA,NA,NA,NA,8,NA
+"CE-Jucás",2020-07-06,"observed",NA,NA,NA,NA,6,NA
+"CE-Jucás",2020-07-07,"observed",NA,NA,NA,NA,4,NA
+"CE-Jucás",2020-07-08,"observed",NA,NA,NA,NA,5,NA
+"CE-Jucás",2020-07-09,"observed",NA,NA,NA,NA,3,NA
+"CE-Jucás",2020-07-10,"observed",NA,NA,NA,NA,8,NA
+"CE-Jucás",2020-07-11,"observed",NA,NA,NA,NA,6,NA
+"CE-Jucás",2020-07-12,"observed",NA,NA,NA,NA,1,NA
+"CE-Jucás",2020-07-13,"observed",NA,NA,NA,NA,0,NA
+"CE-Jucás",2020-07-14,"observed",NA,NA,NA,NA,8,NA
+"CE-Jucás",2020-07-15,"observed",NA,NA,NA,NA,4,NA
+"CE-Jucás",2020-07-16,"observed",NA,NA,NA,NA,8,NA
+"CE-Jucás",2020-07-17,"observed",NA,NA,NA,NA,0,NA
+"CE-Jucás",2020-07-18,"observed",NA,NA,NA,NA,0,NA
+"CE-Jucás",2020-07-19,"observed",NA,NA,NA,NA,22,NA
+"CE-Jucás",2020-07-20,"observed",NA,NA,NA,NA,4,NA
+"CE-Jucás",2020-07-21,"observed",NA,NA,NA,NA,15,NA
+"CE-Jucás",2020-07-22,"observed",NA,NA,NA,NA,11,NA
+"CE-Jucás",2020-07-23,"observed",NA,NA,NA,NA,2,NA
+"CE-Jucás",2020-07-24,"observed",NA,NA,NA,NA,21,NA
+"CE-Jucás",2020-07-25,"observed",NA,NA,NA,NA,3,NA
+"CE-Jucás",2020-07-26,"observed",NA,NA,NA,NA,2,NA
+"CE-Jucás",2020-07-27,"observed",NA,NA,NA,NA,2,NA
+"CE-Jucás",2020-07-28,"observed",NA,NA,NA,NA,10,NA
+"CE-Jucás",2020-07-29,"observed",NA,NA,NA,NA,7,NA
+"CE-Jucás",2020-07-30,"observed",NA,NA,NA,NA,18,NA
+"CE-Jucás",2020-07-31,"observed",NA,NA,NA,NA,6,NA
+"CE-Jucás",2020-08-01,"observed",NA,NA,NA,NA,12,NA
+"CE-Jucás",2020-08-02,"observed",NA,NA,NA,NA,2,NA
+"CE-Jucás",2020-08-03,"observed",NA,NA,NA,NA,0,NA
+"CE-Jucás",2020-08-04,"observed",NA,NA,NA,NA,6,NA
+"CE-Jucás",2020-08-05,"observed",NA,NA,NA,NA,12,NA
+"CE-Jucás",2020-08-06,"observed",NA,NA,NA,NA,6,NA
+"CE-Jucás",2020-08-07,"observed",NA,NA,NA,NA,6,NA
+"CE-Jucás",2020-08-08,"observed",NA,NA,NA,NA,4,NA
+"CE-Jucás",2020-08-09,"observed",NA,NA,NA,NA,0,NA
+"CE-Jucás",2020-08-10,"observed",NA,NA,NA,NA,1,NA
+"CE-Jucás",2020-08-11,"observed",NA,NA,NA,NA,16,NA
+"CE-Jucás",2020-08-12,"observed",NA,NA,NA,NA,2,NA
+"CE-Jucás",2020-08-03,"forecast",0,14,3,8,7,7.9348
+"CE-Jucás",2020-08-04,"forecast",0,15,1,7,7,8.2208
+"CE-Jucás",2020-08-05,"forecast",0,16,2,8,7,8.4954
+"CE-Jucás",2020-08-06,"forecast",0,18,2,8,7,8.8964
+"CE-Jucás",2020-08-07,"forecast",0,18,2,8,7,9.2222
+"CE-Jucás",2020-08-08,"forecast",0,20,0,7,7,9.6838
+"CE-Jucás",2020-08-09,"forecast",0,22,0,7,7,10.1742
+"CE-Jucás",2020-08-10,"forecast",0,22,0,7,7,10.8718
+"CE-Jucás",2020-08-11,"forecast",0,23,0,7,7,11.2608
+"CE-Jucás",2020-08-12,"forecast",0,25,0,7,7,12.3722
+"CE-Jucás",2020-08-13,"forecast",0,27,0,7,7,13.1686
+"CE-Jucás",2020-08-14,"forecast",0,29,0,7,7,13.9402
+"CE-Jucás",2020-08-15,"forecast",0,31,0,7,7,16.0952
+"CE-Jucás",2020-08-16,"forecast",0,33,0,7,7,16.8364
+"PE-Lagoa do Ouro",2020-03-25,"nowcast",1,1,1,1,1,1
+"PE-Lagoa do Ouro",2020-03-26,"nowcast",0,1,0,1,0.5,0.5
+"PE-Lagoa do Ouro",2020-03-27,"nowcast",0,1,0,0,0,0.2
+"PE-Lagoa do Ouro",2020-03-28,"nowcast",0,1,0,0,0,0.166666666666667
+"PE-Lagoa do Ouro",2020-03-29,"nowcast",0,0,0,0,0,0
+"PE-Lagoa do Ouro",2020-03-30,"nowcast",0,0,0,0,0,0
+"PE-Lagoa do Ouro",2020-03-31,"nowcast",0,1,0,1,0.5,0.5
+"PE-Lagoa do Ouro",2020-04-01,"nowcast",0,1,0,0,0,0.266666666666667
+"PE-Lagoa do Ouro",2020-04-02,"nowcast",0,1,0,0,0,0.315789473684211
+"PE-Lagoa do Ouro",2020-04-03,"nowcast",0,1,0,0,0,0.413793103448276
+"PE-Lagoa do Ouro",2020-04-04,"nowcast",0,1,0,0,0,0.305555555555556
+"PE-Lagoa do Ouro",2020-04-05,"nowcast",0,1,0,0,0,0.238095238095238
+"PE-Lagoa do Ouro",2020-04-06,"nowcast",0,1,0,0,0,0.309090909090909
+"PE-Lagoa do Ouro",2020-04-07,"nowcast",0,1,0,0,0,0.222222222222222
+"PE-Lagoa do Ouro",2020-04-08,"nowcast",0,1,0,0,0,0.275
+"PE-Lagoa do Ouro",2020-04-09,"nowcast",0,1,0,0,0,0.274509803921569
+"PE-Lagoa do Ouro",2020-04-10,"nowcast",0,1,0,0,0,0.278688524590164
+"PE-Lagoa do Ouro",2020-04-11,"nowcast",0,1,0,0,0,0.26
+"PE-Lagoa do Ouro",2020-04-12,"nowcast",0,1,0,0,0,0.225274725274725
+"PE-Lagoa do Ouro",2020-04-13,"nowcast",0,1,0,0,0,0.238532110091743
+"PE-Lagoa do Ouro",2020-04-14,"nowcast",0,1,0,0,0,0.288888888888889
+"PE-Lagoa do Ouro",2020-04-15,"nowcast",0,1,0,0,0,0.21656050955414
+"PE-Lagoa do Ouro",2020-04-16,"nowcast",0,1,0,0,0,0.232620320855615
+"PE-Lagoa do Ouro",2020-04-17,"nowcast",0,1,0,0,0,0.196682464454976
+"PE-Lagoa do Ouro",2020-04-18,"nowcast",0,1,0,0,0,0.187242798353909
+"PE-Lagoa do Ouro",2020-04-19,"nowcast",0,1,0,0,0,0.159259259259259
+"PE-Lagoa do Ouro",2020-04-20,"nowcast",0,1,0,0,0,0.173044925124792
+"PE-Lagoa do Ouro",2020-04-21,"nowcast",0,1,0,0,0,0.11937984496124
+"PE-Lagoa do Ouro",2020-04-22,"nowcast",0,0,0,0,0,0.0891530460624071
+"PE-Lagoa do Ouro",2020-04-23,"nowcast",0,0,0,0,0,0.0553935860058309
+"PE-Lagoa do Ouro",2020-04-24,"nowcast",0,0,0,0,0,0.0442857142857143
+"PE-Lagoa do Ouro",2020-04-25,"nowcast",0,0,0,0,0,0.0241477272727273
+"PE-Lagoa do Ouro",2020-04-26,"nowcast",0,0,0,0,0,0.0212164073550212
+"PE-Lagoa do Ouro",2020-04-27,"nowcast",0,0,0,0,0,0.019690576652602
+"PE-Lagoa do Ouro",2020-04-28,"nowcast",0,0,0,0,0,0.0237430167597765
+"PE-Lagoa do Ouro",2020-04-29,"nowcast",0,0,0,0,0,0.0250696378830084
+"PE-Lagoa do Ouro",2020-04-30,"nowcast",0,0,0,0,0,0.0248618784530387
+"PE-Lagoa do Ouro",2020-05-01,"nowcast",0,0,0,0,0,0.0370879120879121
+"PE-Lagoa do Ouro",2020-05-02,"nowcast",0,0,0,0,0,0.0515603799185889
+"PE-Lagoa do Ouro",2020-05-03,"nowcast",0,0,0,0,0,0.0642570281124498
+"PE-Lagoa do Ouro",2020-05-04,"nowcast",0,0,0,0,0,0.0672823218997362
+"PE-Lagoa do Ouro",2020-05-05,"nowcast",0,0,0,0,0,0.0718954248366013
+"PE-Lagoa do Ouro",2020-05-06,"nowcast",0,0,0,0,0,0.0973111395646607
+"PE-Lagoa do Ouro",2020-05-07,"nowcast",0,1,0,0,0,0.103879849812265
+"PE-Lagoa do Ouro",2020-05-08,"nowcast",0,1,0,0,0,0.123170731707317
+"PE-Lagoa do Ouro",2020-05-09,"nowcast",0,1,0,0,0,0.140119760479042
+"PE-Lagoa do Ouro",2020-05-10,"nowcast",0,1,0,0,0,0.162790697674419
+"PE-Lagoa do Ouro",2020-05-11,"nowcast",0,1,0,0,0,0.171981776765376
+"PE-Lagoa do Ouro",2020-05-12,"nowcast",0,1,0,0,0,0.1834451901566
+"PE-Lagoa do Ouro",2020-05-13,"nowcast",0,1,0,0,0,0.190371991247265
+"PE-Lagoa do Ouro",2020-05-14,"nowcast",0,1,0,0,0,0.183476394849785
+"PE-Lagoa do Ouro",2020-05-15,"nowcast",0,1,0,0,0,0.192144373673036
+"PE-Lagoa do Ouro",2020-05-16,"nowcast",0,1,0,0,0,0.16405433646813
+"PE-Lagoa do Ouro",2020-05-17,"nowcast",0,1,0,0,0,0.181912681912682
+"PE-Lagoa do Ouro",2020-05-18,"nowcast",0,1,0,0,0,0.136363636363636
+"PE-Lagoa do Ouro",2020-05-19,"nowcast",0,1,0,0,0,0.118434603501545
+"PE-Lagoa do Ouro",2020-05-20,"nowcast",0,0,0,0,0,0.0964102564102564
+"PE-Lagoa do Ouro",2020-05-21,"nowcast",0,0,0,0,0,0.0931422722620266
+"PE-Lagoa do Ouro",2020-05-22,"nowcast",0,1,0,0,0,0.109406952965235
+"PE-Lagoa do Ouro",2020-05-23,"nowcast",0,1,0,0,0,0.125766871165644
+"PE-Lagoa do Ouro",2020-05-24,"nowcast",0,1,0,0,0,0.143149284253579
+"PE-Lagoa do Ouro",2020-05-25,"nowcast",0,1,0,0,0,0.1617497456765
+"PE-Lagoa do Ouro",2020-05-26,"nowcast",0,1,0,0,0,0.16919959473151
+"PE-Lagoa do Ouro",2020-05-27,"nowcast",0,1,0,0,0,0.188259109311741
+"PE-Lagoa do Ouro",2020-05-28,"nowcast",0,1,0,0,0,0.16497975708502
+"PE-Lagoa do Ouro",2020-05-29,"nowcast",0,1,0,0,0,0.2
+"PE-Lagoa do Ouro",2020-05-30,"nowcast",0,1,0,0,0,0.164824120603015
+"PE-Lagoa do Ouro",2020-05-31,"nowcast",0,1,0,0,0,0.150451354062187
+"PE-Lagoa do Ouro",2020-06-01,"nowcast",0,1,0,0,0,0.136409227683049
+"PE-Lagoa do Ouro",2020-06-02,"nowcast",0,1,0,0,0,0.152457372116349
+"PE-Lagoa do Ouro",2020-06-03,"nowcast",0,1,0,0,0,0.1312625250501
+"PE-Lagoa do Ouro",2020-06-04,"nowcast",0,1,0,0,0,0.13627254509018
+"PE-Lagoa do Ouro",2020-06-05,"nowcast",0,1,0,0,0,0.149298597194389
+"PE-Lagoa do Ouro",2020-06-06,"nowcast",0,1,0,0,0,0.178356713426854
+"PE-Lagoa do Ouro",2020-06-07,"nowcast",0,1,0,0,0,0.215430861723447
+"PE-Lagoa do Ouro",2020-06-08,"nowcast",0,1,0,0,0,0.24248496993988
+"PE-Lagoa do Ouro",2020-06-09,"nowcast",0,1,0,0,0,0.269539078156313
+"PE-Lagoa do Ouro",2020-06-10,"nowcast",0,1,0,0,0,0.356356356356356
+"PE-Lagoa do Ouro",2020-06-11,"nowcast",0,1,0,0,0,0.38038038038038
+"PE-Lagoa do Ouro",2020-06-12,"nowcast",0,1,0,0,0,0.465465465465465
+"PE-Lagoa do Ouro",2020-06-13,"nowcast",0,2,0,0,0,0.558558558558559
+"PE-Lagoa do Ouro",2020-06-14,"nowcast",0,2,0,0,0,0.567567567567568
+"PE-Lagoa do Ouro",2020-06-15,"nowcast",0,2,0,0,0,0.651
+"PE-Lagoa do Ouro",2020-06-16,"nowcast",0,2,0,1,1,0.709
+"PE-Lagoa do Ouro",2020-06-17,"nowcast",0,2,0,1,1,0.765
+"PE-Lagoa do Ouro",2020-06-18,"nowcast",0,2,0,1,1,0.788
+"PE-Lagoa do Ouro",2020-06-19,"nowcast",0,2,0,1,1,0.891
+"PE-Lagoa do Ouro",2020-06-20,"nowcast",0,2,0,1,1,0.986
+"PE-Lagoa do Ouro",2020-06-21,"nowcast",0,2,0,1,1,1.013
+"PE-Lagoa do Ouro",2020-06-22,"nowcast",0,2,0,1,1,1.02
+"PE-Lagoa do Ouro",2020-06-23,"nowcast",0,2,0,1,1,0.999
+"PE-Lagoa do Ouro",2020-06-24,"nowcast",0,2,0,1,1,0.994
+"PE-Lagoa do Ouro",2020-06-25,"nowcast",0,2,0,1,1,1.046
+"PE-Lagoa do Ouro",2020-06-26,"nowcast",0,2,0,1,1,1.049
+"PE-Lagoa do Ouro",2020-06-27,"nowcast",0,2,0,1,1,1.033
+"PE-Lagoa do Ouro",2020-06-28,"nowcast",0,2,0,1,1,1.029
+"PE-Lagoa do Ouro",2020-06-29,"nowcast",0,2,0,1,1,1.004
+"PE-Lagoa do Ouro",2020-06-30,"nowcast",0,2,0,1,1,0.989
+"PE-Lagoa do Ouro",2020-07-01,"nowcast",0,2,0,1,1,0.841
+"PE-Lagoa do Ouro",2020-07-02,"nowcast",0,2,0,1,1,0.715
+"PE-Lagoa do Ouro",2020-07-03,"nowcast",0,2,0,0,0,0.589
+"PE-Lagoa do Ouro",2020-07-04,"nowcast",0,1,0,0,0,0.54
+"PE-Lagoa do Ouro",2020-07-05,"nowcast",0,1,0,0,0,0.492
+"PE-Lagoa do Ouro",2020-07-06,"nowcast",0,1,0,0,0,0.496
+"PE-Lagoa do Ouro",2020-07-07,"nowcast",0,2,0,0,0,0.569
+"PE-Lagoa do Ouro",2020-07-08,"nowcast",0,2,0,0,0,0.622
+"PE-Lagoa do Ouro",2020-07-09,"nowcast",0,2,0,0,0,0.677
+"PE-Lagoa do Ouro",2020-07-10,"nowcast",0,2,0,1,1,0.796
+"PE-Lagoa do Ouro",2020-07-11,"nowcast",0,2,0,1,1,0.86
+"PE-Lagoa do Ouro",2020-07-12,"nowcast",0,2,0,1,1,0.956
+"PE-Lagoa do Ouro",2020-07-13,"nowcast",0,2,0,1,1,1.085
+"PE-Lagoa do Ouro",2020-07-14,"nowcast",0,3,0,1,1,1.205
+"PE-Lagoa do Ouro",2020-07-15,"nowcast",0,3,0,1,1,1.247
+"PE-Lagoa do Ouro",2020-07-16,"nowcast",0,3,0,1,1,1.396
+"PE-Lagoa do Ouro",2020-07-17,"nowcast",0,3,0,1,1,1.549
+"PE-Lagoa do Ouro",2020-07-18,"nowcast",0,3,0,1,1,1.639
+"PE-Lagoa do Ouro",2020-07-19,"nowcast",0,4,1,2,2,1.815
+"PE-Lagoa do Ouro",2020-07-20,"nowcast",0,4,1,2,2,1.778
+"PE-Lagoa do Ouro",2020-07-21,"nowcast",0,4,1,2,2,1.849
+"PE-Lagoa do Ouro",2020-07-22,"nowcast",0,4,0,1,1,1.867
+"PE-Lagoa do Ouro",2020-07-23,"nowcast",0,4,0,1,1,1.864
+"PE-Lagoa do Ouro",2020-07-24,"nowcast",0,4,0,1,1,1.962
+"PE-Lagoa do Ouro",2020-07-25,"nowcast",0,4,0,1,1,2.181
+"PE-Lagoa do Ouro",2020-07-26,"nowcast",0,6,0,2,2,2.564
+"PE-Lagoa do Ouro",2020-07-27,"nowcast",0,7,0,2,2,3.13768844221106
+"PE-Lagoa do Ouro",2020-07-28,"nowcast",0,9,0,2,2,3.91229838709677
+"PE-Lagoa do Ouro",2020-04-26,"observed",NA,NA,NA,NA,1,NA
+"PE-Lagoa do Ouro",2020-04-27,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-04-28,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-04-29,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-04-30,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-05-01,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-05-02,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-05-03,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-05-04,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-05-05,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-05-06,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-05-07,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-05-08,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-05-09,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-05-10,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-05-11,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-05-12,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-05-13,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-05-14,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-05-15,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-05-16,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-05-17,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-05-18,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-05-19,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-05-20,"observed",NA,NA,NA,NA,1,NA
+"PE-Lagoa do Ouro",2020-05-21,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-05-22,"observed",NA,NA,NA,NA,1,NA
+"PE-Lagoa do Ouro",2020-05-23,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-05-24,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-05-25,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-05-26,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-05-27,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-05-28,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-05-29,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-05-30,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-05-31,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-06-01,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-06-02,"observed",NA,NA,NA,NA,1,NA
+"PE-Lagoa do Ouro",2020-06-03,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-06-04,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-06-05,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-06-06,"observed",NA,NA,NA,NA,1,NA
+"PE-Lagoa do Ouro",2020-06-07,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-06-08,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-06-09,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-06-10,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-06-11,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-06-12,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-06-13,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-06-14,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-06-15,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-06-16,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-06-17,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-06-18,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-06-19,"observed",NA,NA,NA,NA,1,NA
+"PE-Lagoa do Ouro",2020-06-20,"observed",NA,NA,NA,NA,1,NA
+"PE-Lagoa do Ouro",2020-06-21,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-06-22,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-06-23,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-06-24,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-06-25,"observed",NA,NA,NA,NA,1,NA
+"PE-Lagoa do Ouro",2020-06-26,"observed",NA,NA,NA,NA,1,NA
+"PE-Lagoa do Ouro",2020-06-27,"observed",NA,NA,NA,NA,2,NA
+"PE-Lagoa do Ouro",2020-06-28,"observed",NA,NA,NA,NA,2,NA
+"PE-Lagoa do Ouro",2020-06-29,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-06-30,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-07-01,"observed",NA,NA,NA,NA,1,NA
+"PE-Lagoa do Ouro",2020-07-02,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-07-03,"observed",NA,NA,NA,NA,1,NA
+"PE-Lagoa do Ouro",2020-07-04,"observed",NA,NA,NA,NA,4,NA
+"PE-Lagoa do Ouro",2020-07-05,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-07-06,"observed",NA,NA,NA,NA,2,NA
+"PE-Lagoa do Ouro",2020-07-07,"observed",NA,NA,NA,NA,4,NA
+"PE-Lagoa do Ouro",2020-07-08,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-07-09,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-07-10,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-07-11,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-07-12,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-07-13,"observed",NA,NA,NA,NA,1,NA
+"PE-Lagoa do Ouro",2020-07-14,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-07-15,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-07-16,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-07-17,"observed",NA,NA,NA,NA,1,NA
+"PE-Lagoa do Ouro",2020-07-18,"observed",NA,NA,NA,NA,1,NA
+"PE-Lagoa do Ouro",2020-07-19,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-07-20,"observed",NA,NA,NA,NA,1,NA
+"PE-Lagoa do Ouro",2020-07-21,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-07-22,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-07-23,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-07-24,"observed",NA,NA,NA,NA,4,NA
+"PE-Lagoa do Ouro",2020-07-25,"observed",NA,NA,NA,NA,1,NA
+"PE-Lagoa do Ouro",2020-07-26,"observed",NA,NA,NA,NA,6,NA
+"PE-Lagoa do Ouro",2020-07-27,"observed",NA,NA,NA,NA,1,NA
+"PE-Lagoa do Ouro",2020-07-28,"observed",NA,NA,NA,NA,1,NA
+"PE-Lagoa do Ouro",2020-07-29,"observed",NA,NA,NA,NA,1,NA
+"PE-Lagoa do Ouro",2020-07-30,"observed",NA,NA,NA,NA,1,NA
+"PE-Lagoa do Ouro",2020-07-31,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-08-01,"observed",NA,NA,NA,NA,1,NA
+"PE-Lagoa do Ouro",2020-08-02,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-08-03,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-08-04,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-08-05,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-08-06,"observed",NA,NA,NA,NA,1,NA
+"PE-Lagoa do Ouro",2020-08-07,"observed",NA,NA,NA,NA,2,NA
+"PE-Lagoa do Ouro",2020-08-08,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-08-09,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-08-10,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-08-11,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-08-12,"observed",NA,NA,NA,NA,0,NA
+"PE-Lagoa do Ouro",2020-07-29,"forecast",0,12,0,2,2,4.37724550898204
+"PE-Lagoa do Ouro",2020-07-30,"forecast",0,15,0,2,2,5.66546906187625
+"PE-Lagoa do Ouro",2020-07-31,"forecast",0,21,0,2,2,8.00239520958084
+"PE-Lagoa do Ouro",2020-08-01,"forecast",0,25,0,2,2,11.9552894211577
+"PE-Lagoa do Ouro",2020-08-02,"forecast",0,39,0,3,3,19.886626746507
+"PE-Lagoa do Ouro",2020-08-03,"forecast",0,57,0,2,2,35.3105788423154
+"PE-Lagoa do Ouro",2020-08-04,"forecast",0,89,0,3,3,68.1956087824351
+"PE-Lagoa do Ouro",2020-08-05,"forecast",0,115,0,2,2,153.851097804391
+"PE-Lagoa do Ouro",2020-08-06,"forecast",0,192,0,2,2,365.566866267465
+"PE-Lagoa do Ouro",2020-08-07,"forecast",0,264,0,3,3,913.350898203593
+"PE-Lagoa do Ouro",2020-08-08,"forecast",0,420,0,3,3,2726.78043912176
+"PE-Lagoa do Ouro",2020-08-09,"forecast",0,787,0,3,3,7701.9880239521
+"PE-Lagoa do Ouro",2020-08-10,"forecast",0,1240,0,3,3,25415.0003992016
+"PE-Lagoa do Ouro",2020-08-11,"forecast",0,2180,0,3,3,101137.238722555
+"SE-Poço Verde",2020-04-05,"nowcast",1,1,1,1,1,1
+"SE-Poço Verde",2020-04-06,"nowcast",0,1,1,1,1,0.666666666666667
+"SE-Poço Verde",2020-04-07,"nowcast",0,1,1,1,1,0.666666666666667
+"SE-Poço Verde",2020-04-08,"nowcast",0,1,0,1,0.5,0.5
+"SE-Poço Verde",2020-04-09,"nowcast",0,1,0,0,0,0.4
+"SE-Poço Verde",2020-04-10,"nowcast",0,1,0,0,0,0.277777777777778
+"SE-Poço Verde",2020-04-11,"nowcast",0,1,0,0,0,0.19047619047619
+"SE-Poço Verde",2020-04-12,"nowcast",0,1,0,0,0,0.222222222222222
+"SE-Poço Verde",2020-04-13,"nowcast",0,1,0,0,0,0.264705882352941
+"SE-Poço Verde",2020-04-14,"nowcast",0,1,0,0,0,0.276595744680851
+"SE-Poço Verde",2020-04-15,"nowcast",0,1,0,0,0,0.214285714285714
+"SE-Poço Verde",2020-04-16,"nowcast",0,1,0,0,0,0.309859154929577
+"SE-Poço Verde",2020-04-17,"nowcast",0,1,0,0,0,0.275862068965517
+"SE-Poço Verde",2020-04-18,"nowcast",0,1,0,0,0,0.271844660194175
+"SE-Poço Verde",2020-04-19,"nowcast",0,1,0,0,0,0.341085271317829
+"SE-Poço Verde",2020-04-20,"nowcast",0,1,0,0,0,0.287425149700599
+"SE-Poço Verde",2020-04-21,"nowcast",0,1,0,0,0,0.331730769230769
+"SE-Poço Verde",2020-04-22,"nowcast",0,1,0,0,0,0.366037735849057
+"SE-Poço Verde",2020-04-23,"nowcast",0,1,0,0,0,0.328125
+"SE-Poço Verde",2020-04-24,"nowcast",0,1,0,0,0,0.269754768392371
+"SE-Poço Verde",2020-04-25,"nowcast",0,1,0,0,0,0.325740318906606
+"SE-Poço Verde",2020-04-26,"nowcast",0,1,0,0,0,0.326171875
+"SE-Poço Verde",2020-04-27,"nowcast",0,1,0,0,0,0.320338983050847
+"SE-Poço Verde",2020-04-28,"nowcast",0,1,0,0,0,0.314674735249622
+"SE-Poço Verde",2020-04-29,"nowcast",0,1,0,0,0,0.369655172413793
+"SE-Poço Verde",2020-04-30,"nowcast",0,1,0,0,0,0.389312977099237
+"SE-Poço Verde",2020-05-01,"nowcast",0,1,0,0,0,0.425683709869203
+"SE-Poço Verde",2020-05-02,"nowcast",0,1,0,0,0,0.470982142857143
+"SE-Poço Verde",2020-05-03,"nowcast",0,1,0,0,0,0.467309753483387
+"SE-Poço Verde",2020-05-04,"nowcast",0,1,0,0,0,0.482866043613707
+"SE-Poço Verde",2020-05-05,"nowcast",0,1,0,0,0,0.488229273285568
+"SE-Poço Verde",2020-05-06,"nowcast",0,1,0,0,0,0.519269776876268
+"SE-Poço Verde",2020-05-07,"nowcast",0,2,0,0,0,0.57979797979798
+"SE-Poço Verde",2020-05-08,"nowcast",0,1,0,0,0,0.566532258064516
+"SE-Poço Verde",2020-05-09,"nowcast",0,1,0,0,0,0.531062124248497
+"SE-Poço Verde",2020-05-10,"nowcast",0,2,0,0,0,0.625625625625626
+"SE-Poço Verde",2020-05-11,"nowcast",0,2,0,1,1,0.718718718718719
+"SE-Poço Verde",2020-05-12,"nowcast",0,2,0,1,1,0.743
+"SE-Poço Verde",2020-05-13,"nowcast",0,2,0,1,1,0.741
+"SE-Poço Verde",2020-05-14,"nowcast",0,2,0,1,1,0.803
+"SE-Poço Verde",2020-05-15,"nowcast",0,2,0,1,1,0.795
+"SE-Poço Verde",2020-05-16,"nowcast",0,2,0,1,1,0.855
+"SE-Poço Verde",2020-05-17,"nowcast",0,2,0,1,1,0.882
+"SE-Poço Verde",2020-05-18,"nowcast",0,2,0,1,1,0.844
+"SE-Poço Verde",2020-05-19,"nowcast",0,2,0,1,1,0.827
+"SE-Poço Verde",2020-05-20,"nowcast",0,2,0,1,1,0.936
+"SE-Poço Verde",2020-05-21,"nowcast",0,2,0,1,1,1.055
+"SE-Poço Verde",2020-05-22,"nowcast",0,3,0,1,1,1.152
+"SE-Poço Verde",2020-05-23,"nowcast",0,3,0,1,1,1.239
+"SE-Poço Verde",2020-05-24,"nowcast",0,3,0,1,1,1.37
+"SE-Poço Verde",2020-05-25,"nowcast",0,3,0,1,1,1.55
+"SE-Poço Verde",2020-05-26,"nowcast",0,3,0,1,1,1.606
+"SE-Poço Verde",2020-05-27,"nowcast",0,3,1,2,2,1.707
+"SE-Poço Verde",2020-05-28,"nowcast",0,4,1,2,2,1.9
+"SE-Poço Verde",2020-05-29,"nowcast",0,4,1,2,2,1.871
+"SE-Poço Verde",2020-05-30,"nowcast",0,4,1,2,2,1.872
+"SE-Poço Verde",2020-05-31,"nowcast",0,4,1,2,2,1.884
+"SE-Poço Verde",2020-06-01,"nowcast",0,4,1,2,2,1.933
+"SE-Poço Verde",2020-06-02,"nowcast",0,4,1,2,2,2.003
+"SE-Poço Verde",2020-06-03,"nowcast",0,4,0,2,2,2.072
+"SE-Poço Verde",2020-06-04,"nowcast",0,4,1,2,2,2.151
+"SE-Poço Verde",2020-06-05,"nowcast",0,4,0,2,2,2.369
+"SE-Poço Verde",2020-06-06,"nowcast",0,4,1,2,2,2.396
+"SE-Poço Verde",2020-06-07,"nowcast",0,4,0,2,2,2.534
+"SE-Poço Verde",2020-06-08,"nowcast",0,4,2,3,2,2.567
+"SE-Poço Verde",2020-06-09,"nowcast",0,5,0,2,2,2.601
+"SE-Poço Verde",2020-06-10,"nowcast",0,4,0,2,2,2.464
+"SE-Poço Verde",2020-06-11,"nowcast",0,4,1,2,2,2.251
+"SE-Poço Verde",2020-06-12,"nowcast",0,4,1,2,2,2.181
+"SE-Poço Verde",2020-06-13,"nowcast",0,4,1,2,2,2.092
+"SE-Poço Verde",2020-06-14,"nowcast",0,4,1,2,2,2.058
+"SE-Poço Verde",2020-06-15,"nowcast",0,4,1,2,2,2.077
+"SE-Poço Verde",2020-06-16,"nowcast",0,4,1,2,2,1.962
+"SE-Poço Verde",2020-06-17,"nowcast",0,4,1,2,2,2.067
+"SE-Poço Verde",2020-06-18,"nowcast",0,4,1,2,2,1.976
+"SE-Poço Verde",2020-06-19,"nowcast",0,4,1,2,2,1.974
+"SE-Poço Verde",2020-06-20,"nowcast",0,4,1,2,2,2.212
+"SE-Poço Verde",2020-06-21,"nowcast",0,4,0,2,2,2.274
+"SE-Poço Verde",2020-06-22,"nowcast",0,4,1,2,2,2.188
+"SE-Poço Verde",2020-06-23,"nowcast",0,4,0,2,2,2.343
+"SE-Poço Verde",2020-06-24,"nowcast",0,4,0,2,2,2.475
+"SE-Poço Verde",2020-06-25,"nowcast",0,5,0,2,2,2.529
+"SE-Poço Verde",2020-06-26,"nowcast",0,5,1,3,3,2.927
+"SE-Poço Verde",2020-06-27,"nowcast",0,5,1,3,3,3
+"SE-Poço Verde",2020-06-28,"nowcast",0,5,1,3,3,3.159
+"SE-Poço Verde",2020-06-29,"nowcast",0,6,1,3,3,3.299
+"SE-Poço Verde",2020-06-30,"nowcast",1,6,2,4,3,3.549
+"SE-Poço Verde",2020-07-01,"nowcast",1,7,2,4,4,3.867
+"SE-Poço Verde",2020-07-02,"nowcast",0,6,2,4,4,3.935
+"SE-Poço Verde",2020-07-03,"nowcast",1,7,2,4,4,4.281
+"SE-Poço Verde",2020-07-04,"nowcast",0,7,3,5,5,4.637
+"SE-Poço Verde",2020-07-05,"nowcast",1,8,4,6,5,5.087
+"SE-Poço Verde",2020-07-06,"nowcast",2,9,2,5,5,5.295
+"SE-Poço Verde",2020-07-07,"nowcast",1,8,4,6,5,5.422
+"SE-Poço Verde",2020-07-08,"nowcast",2,9,3,6,6,5.732
+"SE-Poço Verde",2020-07-09,"nowcast",2,9,4,6,6,5.748
+"SE-Poço Verde",2020-07-10,"nowcast",2,9,3,6,6,5.89
+"SE-Poço Verde",2020-07-11,"nowcast",1,9,3,6,6,6.027
+"SE-Poço Verde",2020-07-12,"nowcast",1,9,5,7,6,6.372
+"SE-Poço Verde",2020-07-13,"nowcast",3,10,4,7,6,6.504
+"SE-Poço Verde",2020-07-14,"nowcast",3,10,4,7,6,6.645
+"SE-Poço Verde",2020-07-15,"nowcast",2,10,5,8,7,6.917
+"SE-Poço Verde",2020-07-16,"nowcast",2,10,4,7,7,7.085
+"SE-Poço Verde",2020-07-17,"nowcast",2,10,4,7,7,6.7
+"SE-Poço Verde",2020-07-18,"nowcast",2,10,4,7,7,6.764
+"SE-Poço Verde",2020-07-19,"nowcast",2,10,4,7,7,6.59
+"SE-Poço Verde",2020-07-20,"nowcast",2,10,3,6,6,6.27
+"SE-Poço Verde",2020-07-21,"nowcast",1,9,3,6,6,6.031
+"SE-Poço Verde",2020-07-22,"nowcast",2,9,3,6,6,5.79
+"SE-Poço Verde",2020-07-23,"nowcast",1,8,4,6,5,5.535
+"SE-Poço Verde",2020-07-24,"nowcast",2,9,2,5,5,5.207
+"SE-Poço Verde",2020-07-25,"nowcast",2,8,3,5,5,4.943
+"SE-Poço Verde",2020-07-26,"nowcast",2,8,3,5,5,4.748
+"SE-Poço Verde",2020-07-27,"nowcast",1,7,3,5,5,4.652
+"SE-Poço Verde",2020-07-28,"nowcast",0,7,1,4,4,4.49
+"SE-Poço Verde",2020-07-29,"nowcast",1,8,3,5,4,4.546
+"SE-Poço Verde",2020-07-30,"nowcast",1,8,2,5,5,4.872
+"SE-Poço Verde",2020-07-31,"nowcast",1,9,2,5,5,5.213
+"SE-Poço Verde",2020-08-01,"nowcast",1,10,3,6,5,5.962
+"SE-Poço Verde",2020-05-09,"observed",NA,NA,NA,NA,2,NA
+"SE-Poço Verde",2020-05-10,"observed",NA,NA,NA,NA,0,NA
+"SE-Poço Verde",2020-05-11,"observed",NA,NA,NA,NA,0,NA
+"SE-Poço Verde",2020-05-12,"observed",NA,NA,NA,NA,0,NA
+"SE-Poço Verde",2020-05-13,"observed",NA,NA,NA,NA,0,NA
+"SE-Poço Verde",2020-05-14,"observed",NA,NA,NA,NA,1,NA
+"SE-Poço Verde",2020-05-15,"observed",NA,NA,NA,NA,1,NA
+"SE-Poço Verde",2020-05-16,"observed",NA,NA,NA,NA,0,NA
+"SE-Poço Verde",2020-05-17,"observed",NA,NA,NA,NA,0,NA
+"SE-Poço Verde",2020-05-18,"observed",NA,NA,NA,NA,0,NA
+"SE-Poço Verde",2020-05-19,"observed",NA,NA,NA,NA,0,NA
+"SE-Poço Verde",2020-05-20,"observed",NA,NA,NA,NA,4,NA
+"SE-Poço Verde",2020-05-21,"observed",NA,NA,NA,NA,0,NA
+"SE-Poço Verde",2020-05-22,"observed",NA,NA,NA,NA,0,NA
+"SE-Poço Verde",2020-05-23,"observed",NA,NA,NA,NA,1,NA
+"SE-Poço Verde",2020-05-24,"observed",NA,NA,NA,NA,0,NA
+"SE-Poço Verde",2020-05-25,"observed",NA,NA,NA,NA,2,NA
+"SE-Poço Verde",2020-05-26,"observed",NA,NA,NA,NA,0,NA
+"SE-Poço Verde",2020-05-27,"observed",NA,NA,NA,NA,0,NA
+"SE-Poço Verde",2020-05-28,"observed",NA,NA,NA,NA,0,NA
+"SE-Poço Verde",2020-05-29,"observed",NA,NA,NA,NA,0,NA
+"SE-Poço Verde",2020-05-30,"observed",NA,NA,NA,NA,0,NA
+"SE-Poço Verde",2020-05-31,"observed",NA,NA,NA,NA,2,NA
+"SE-Poço Verde",2020-06-01,"observed",NA,NA,NA,NA,0,NA
+"SE-Poço Verde",2020-06-02,"observed",NA,NA,NA,NA,6,NA
+"SE-Poço Verde",2020-06-03,"observed",NA,NA,NA,NA,0,NA
+"SE-Poço Verde",2020-06-04,"observed",NA,NA,NA,NA,3,NA
+"SE-Poço Verde",2020-06-05,"observed",NA,NA,NA,NA,0,NA
+"SE-Poço Verde",2020-06-06,"observed",NA,NA,NA,NA,2,NA
+"SE-Poço Verde",2020-06-07,"observed",NA,NA,NA,NA,1,NA
+"SE-Poço Verde",2020-06-08,"observed",NA,NA,NA,NA,4,NA
+"SE-Poço Verde",2020-06-09,"observed",NA,NA,NA,NA,0,NA
+"SE-Poço Verde",2020-06-10,"observed",NA,NA,NA,NA,0,NA
+"SE-Poço Verde",2020-06-11,"observed",NA,NA,NA,NA,0,NA
+"SE-Poço Verde",2020-06-12,"observed",NA,NA,NA,NA,1,NA
+"SE-Poço Verde",2020-06-13,"observed",NA,NA,NA,NA,3,NA
+"SE-Poço Verde",2020-06-14,"observed",NA,NA,NA,NA,8,NA
+"SE-Poço Verde",2020-06-15,"observed",NA,NA,NA,NA,7,NA
+"SE-Poço Verde",2020-06-16,"observed",NA,NA,NA,NA,0,NA
+"SE-Poço Verde",2020-06-17,"observed",NA,NA,NA,NA,0,NA
+"SE-Poço Verde",2020-06-18,"observed",NA,NA,NA,NA,1,NA
+"SE-Poço Verde",2020-06-19,"observed",NA,NA,NA,NA,5,NA
+"SE-Poço Verde",2020-06-20,"observed",NA,NA,NA,NA,3,NA
+"SE-Poço Verde",2020-06-21,"observed",NA,NA,NA,NA,3,NA
+"SE-Poço Verde",2020-06-22,"observed",NA,NA,NA,NA,0,NA
+"SE-Poço Verde",2020-06-23,"observed",NA,NA,NA,NA,0,NA
+"SE-Poço Verde",2020-06-24,"observed",NA,NA,NA,NA,4,NA
+"SE-Poço Verde",2020-06-25,"observed",NA,NA,NA,NA,0,NA
+"SE-Poço Verde",2020-06-26,"observed",NA,NA,NA,NA,2,NA
+"SE-Poço Verde",2020-06-27,"observed",NA,NA,NA,NA,3,NA
+"SE-Poço Verde",2020-06-28,"observed",NA,NA,NA,NA,3,NA
+"SE-Poço Verde",2020-06-29,"observed",NA,NA,NA,NA,0,NA
+"SE-Poço Verde",2020-06-30,"observed",NA,NA,NA,NA,1,NA
+"SE-Poço Verde",2020-07-01,"observed",NA,NA,NA,NA,1,NA
+"SE-Poço Verde",2020-07-02,"observed",NA,NA,NA,NA,0,NA
+"SE-Poço Verde",2020-07-03,"observed",NA,NA,NA,NA,11,NA
+"SE-Poço Verde",2020-07-04,"observed",NA,NA,NA,NA,0,NA
+"SE-Poço Verde",2020-07-05,"observed",NA,NA,NA,NA,1,NA
+"SE-Poço Verde",2020-07-06,"observed",NA,NA,NA,NA,0,NA
+"SE-Poço Verde",2020-07-07,"observed",NA,NA,NA,NA,4,NA
+"SE-Poço Verde",2020-07-08,"observed",NA,NA,NA,NA,1,NA
+"SE-Poço Verde",2020-07-09,"observed",NA,NA,NA,NA,3,NA
+"SE-Poço Verde",2020-07-10,"observed",NA,NA,NA,NA,2,NA
+"SE-Poço Verde",2020-07-11,"observed",NA,NA,NA,NA,3,NA
+"SE-Poço Verde",2020-07-12,"observed",NA,NA,NA,NA,8,NA
+"SE-Poço Verde",2020-07-13,"observed",NA,NA,NA,NA,9,NA
+"SE-Poço Verde",2020-07-14,"observed",NA,NA,NA,NA,5,NA
+"SE-Poço Verde",2020-07-15,"observed",NA,NA,NA,NA,3,NA
+"SE-Poço Verde",2020-07-16,"observed",NA,NA,NA,NA,1,NA
+"SE-Poço Verde",2020-07-17,"observed",NA,NA,NA,NA,1,NA
+"SE-Poço Verde",2020-07-18,"observed",NA,NA,NA,NA,9,NA
+"SE-Poço Verde",2020-07-19,"observed",NA,NA,NA,NA,11,NA
+"SE-Poço Verde",2020-07-20,"observed",NA,NA,NA,NA,0,NA
+"SE-Poço Verde",2020-07-21,"observed",NA,NA,NA,NA,4,NA
+"SE-Poço Verde",2020-07-22,"observed",NA,NA,NA,NA,16,NA
+"SE-Poço Verde",2020-07-23,"observed",NA,NA,NA,NA,12,NA
+"SE-Poço Verde",2020-07-24,"observed",NA,NA,NA,NA,0,NA
+"SE-Poço Verde",2020-07-25,"observed",NA,NA,NA,NA,0,NA
+"SE-Poço Verde",2020-07-26,"observed",NA,NA,NA,NA,24,NA
+"SE-Poço Verde",2020-07-27,"observed",NA,NA,NA,NA,0,NA
+"SE-Poço Verde",2020-07-28,"observed",NA,NA,NA,NA,9,NA
+"SE-Poço Verde",2020-07-29,"observed",NA,NA,NA,NA,0,NA
+"SE-Poço Verde",2020-07-30,"observed",NA,NA,NA,NA,17,NA
+"SE-Poço Verde",2020-07-31,"observed",NA,NA,NA,NA,0,NA
+"SE-Poço Verde",2020-08-01,"observed",NA,NA,NA,NA,10,NA
+"SE-Poço Verde",2020-08-02,"observed",NA,NA,NA,NA,1,NA
+"SE-Poço Verde",2020-08-03,"observed",NA,NA,NA,NA,2,NA
+"SE-Poço Verde",2020-08-04,"observed",NA,NA,NA,NA,6,NA
+"SE-Poço Verde",2020-08-05,"observed",NA,NA,NA,NA,1,NA
+"SE-Poço Verde",2020-08-06,"observed",NA,NA,NA,NA,2,NA
+"SE-Poço Verde",2020-08-07,"observed",NA,NA,NA,NA,5,NA
+"SE-Poço Verde",2020-08-08,"observed",NA,NA,NA,NA,7,NA
+"SE-Poço Verde",2020-08-09,"observed",NA,NA,NA,NA,0,NA
+"SE-Poço Verde",2020-08-10,"observed",NA,NA,NA,NA,0,NA
+"SE-Poço Verde",2020-08-11,"observed",NA,NA,NA,NA,9,NA
+"SE-Poço Verde",2020-08-12,"observed",NA,NA,NA,NA,0,NA
+"SE-Poço Verde",2020-08-02,"forecast",0,11,1,5,5,5.692
+"SE-Poço Verde",2020-08-03,"forecast",0,12,1,5,5,5.9612
+"SE-Poço Verde",2020-08-04,"forecast",0,13,1,5,5,6.2742
+"SE-Poço Verde",2020-08-05,"forecast",0,14,1,5,5,6.5418
+"SE-Poço Verde",2020-08-06,"forecast",0,14,0,5,5,6.9698
+"SE-Poço Verde",2020-08-07,"forecast",0,15,0,4,4,7.5512
+"SE-Poço Verde",2020-08-08,"forecast",0,17,0,5,5,8.3272
+"SE-Poço Verde",2020-08-09,"forecast",0,18,0,4,4,8.7648
+"SE-Poço Verde",2020-08-10,"forecast",0,19,0,4,4,9.4396
+"SE-Poço Verde",2020-08-11,"forecast",0,19,0,4,4,10.6742
+"SE-Poço Verde",2020-08-12,"forecast",0,21,0,4,4,12.7616
+"SE-Poço Verde",2020-08-13,"forecast",0,23,0,4,4,13.6792
+"SE-Poço Verde",2020-08-14,"forecast",0,24,0,4,4,17.44
+"SE-Poço Verde",2020-08-15,"forecast",0,25,0,4,4,25.6366
+"SE-Salgado",2020-03-23,"nowcast",1,1,1,1,1,1
+"SE-Salgado",2020-03-24,"nowcast",0,0,0,0,0,0
+"SE-Salgado",2020-03-25,"nowcast",0,0,0,0,0,0
+"SE-Salgado",2020-03-26,"nowcast",0,0,0,0,0,0
+"SE-Salgado",2020-03-27,"nowcast",0,0,0,0,0,0
+"SE-Salgado",2020-03-28,"nowcast",0,0,0,0,0,0
+"SE-Salgado",2020-03-29,"nowcast",0,0,0,0,0,0
+"SE-Salgado",2020-03-30,"nowcast",0,1,0,1,0.5,0.5
+"SE-Salgado",2020-03-31,"nowcast",0,1,0,1,0.5,0.5
+"SE-Salgado",2020-04-01,"nowcast",0,1,1,1,1,0.8
+"SE-Salgado",2020-04-02,"nowcast",0,1,0,0,0,0.285714285714286
+"SE-Salgado",2020-04-03,"nowcast",0,1,0,0,0,0.25
+"SE-Salgado",2020-04-04,"nowcast",0,1,1,1,1,0.545454545454545
+"SE-Salgado",2020-04-05,"nowcast",0,1,0,0,0,0.214285714285714
+"SE-Salgado",2020-04-06,"nowcast",0,1,0,0,0,0.176470588235294
+"SE-Salgado",2020-04-07,"nowcast",0,1,0,0,0,0.423076923076923
+"SE-Salgado",2020-04-08,"nowcast",0,1,0,0,0,0.225806451612903
+"SE-Salgado",2020-04-09,"nowcast",0,1,0,0,0,0.228571428571429
+"SE-Salgado",2020-04-10,"nowcast",0,1,0,0,0,0.302325581395349
+"SE-Salgado",2020-04-11,"nowcast",0,1,0,0,0,0.26530612244898
+"SE-Salgado",2020-04-12,"nowcast",0,1,0,0,0,0.258620689655172
+"SE-Salgado",2020-04-13,"nowcast",0,1,0,0,0,0.257142857142857
+"SE-Salgado",2020-04-14,"nowcast",0,1,0,0,0,0.383838383838384
+"SE-Salgado",2020-04-15,"nowcast",0,1,0,0,0,0.232758620689655
+"SE-Salgado",2020-04-16,"nowcast",0,1,0,0,0,0.268965517241379
+"SE-Salgado",2020-04-17,"nowcast",0,1,0,0,0,0.344444444444444
+"SE-Salgado",2020-04-18,"nowcast",0,1,0,0,0,0.295652173913043
+"SE-Salgado",2020-04-19,"nowcast",0,1,0,0,0,0.297202797202797
+"SE-Salgado",2020-04-20,"nowcast",0,1,0,0,0,0.328651685393258
+"SE-Salgado",2020-04-21,"nowcast",0,1,0,0,0,0.330254041570439
+"SE-Salgado",2020-04-22,"nowcast",0,1,0,0,0,0.325252525252525
+"SE-Salgado",2020-04-23,"nowcast",0,1,0,0,0,0.388415672913118
+"SE-Salgado",2020-04-24,"nowcast",0,1,0,0,0,0.374810318664643
+"SE-Salgado",2020-04-25,"nowcast",0,1,0,0,0,0.420485175202156
+"SE-Salgado",2020-04-26,"nowcast",0,1,0,0,0,0.42274412855377
+"SE-Salgado",2020-04-27,"nowcast",0,1,0,0,0,0.403002309468822
+"SE-Salgado",2020-04-28,"nowcast",0,1,0,0,0,0.450221238938053
+"SE-Salgado",2020-04-29,"nowcast",0,2,0,0,0,0.514925373134328
+"SE-Salgado",2020-04-30,"nowcast",0,2,0,0,0,0.553590010405827
+"SE-Salgado",2020-05-01,"nowcast",0,2,0,0,0,0.591606960081883
+"SE-Salgado",2020-05-02,"nowcast",0,2,0,0,0,0.663617886178862
+"SE-Salgado",2020-05-03,"nowcast",0,2,0,1,1,0.730110775427996
+"SE-Salgado",2020-05-04,"nowcast",0,2,0,1,1,0.835175879396985
+"SE-Salgado",2020-05-05,"nowcast",0,2,0,1,1,0.881881881881882
+"SE-Salgado",2020-05-06,"nowcast",0,2,0,1,1,0.947
+"SE-Salgado",2020-05-07,"nowcast",0,2,0,1,1,0.926
+"SE-Salgado",2020-05-08,"nowcast",0,2,0,1,1,0.961
+"SE-Salgado",2020-05-09,"nowcast",0,2,0,1,1,0.991
+"SE-Salgado",2020-05-10,"nowcast",0,2,0,1,1,1.024
+"SE-Salgado",2020-05-11,"nowcast",0,3,0,1,1,1.143
+"SE-Salgado",2020-05-12,"nowcast",0,3,0,1,1,1.208
+"SE-Salgado",2020-05-13,"nowcast",0,3,0,1,1,1.4
+"SE-Salgado",2020-05-14,"nowcast",0,3,0,1,1,1.408
+"SE-Salgado",2020-05-15,"nowcast",0,3,0,1,1,1.44
+"SE-Salgado",2020-05-16,"nowcast",0,3,0,1,1,1.449
+"SE-Salgado",2020-05-17,"nowcast",0,3,0,1,1,1.412
+"SE-Salgado",2020-05-18,"nowcast",0,3,0,1,1,1.333
+"SE-Salgado",2020-05-19,"nowcast",0,3,0,1,1,1.193
+"SE-Salgado",2020-05-20,"nowcast",0,3,0,1,1,1.115
+"SE-Salgado",2020-05-21,"nowcast",0,2,0,1,1,1.019
+"SE-Salgado",2020-05-22,"nowcast",0,2,0,1,1,1.097
+"SE-Salgado",2020-05-23,"nowcast",0,3,0,1,1,1.094
+"SE-Salgado",2020-05-24,"nowcast",0,3,0,1,1,1.213
+"SE-Salgado",2020-05-25,"nowcast",0,3,0,1,1,1.383
+"SE-Salgado",2020-05-26,"nowcast",0,3,0,1,1,1.519
+"SE-Salgado",2020-05-27,"nowcast",0,3,0,1,1,1.636
+"SE-Salgado",2020-05-28,"nowcast",0,4,1,2,2,1.786
+"SE-Salgado",2020-05-29,"nowcast",0,4,1,2,2,2.093
+"SE-Salgado",2020-05-30,"nowcast",0,4,1,2,2,2.139
+"SE-Salgado",2020-05-31,"nowcast",0,4,1,2,2,2.169
+"SE-Salgado",2020-06-01,"nowcast",0,4,1,2,2,2.162
+"SE-Salgado",2020-06-02,"nowcast",0,4,1,2,2,2.022
+"SE-Salgado",2020-06-03,"nowcast",0,4,1,2,2,1.857
+"SE-Salgado",2020-06-04,"nowcast",0,3,0,1,1,1.534
+"SE-Salgado",2020-06-05,"nowcast",0,3,0,1,1,1.393
+"SE-Salgado",2020-06-06,"nowcast",0,3,0,1,1,1.203
+"SE-Salgado",2020-06-07,"nowcast",0,3,0,1,1,1.129
+"SE-Salgado",2020-06-08,"nowcast",0,2,0,1,1,1.069
+"SE-Salgado",2020-06-09,"nowcast",0,2,0,1,1,1.091
+"SE-Salgado",2020-06-10,"nowcast",0,2,0,1,1,1.095
+"SE-Salgado",2020-06-11,"nowcast",0,2,0,1,1,1.141
+"SE-Salgado",2020-06-12,"nowcast",0,3,0,1,1,1.119
+"SE-Salgado",2020-06-13,"nowcast",0,3,0,1,1,1.085
+"SE-Salgado",2020-06-14,"nowcast",0,2,0,1,1,1.078
+"SE-Salgado",2020-06-15,"nowcast",0,3,0,1,1,1.129
+"SE-Salgado",2020-06-16,"nowcast",0,3,0,1,1,1.155
+"SE-Salgado",2020-06-17,"nowcast",0,3,0,1,1,1.227
+"SE-Salgado",2020-06-18,"nowcast",0,3,0,1,1,1.184
+"SE-Salgado",2020-06-19,"nowcast",0,3,0,1,1,1.336
+"SE-Salgado",2020-06-20,"nowcast",0,3,0,1,1,1.473
+"SE-Salgado",2020-06-21,"nowcast",0,3,0,1,1,1.547
+"SE-Salgado",2020-06-22,"nowcast",0,3,0,1,1,1.603
+"SE-Salgado",2020-06-23,"nowcast",0,4,0,1,1,1.715
+"SE-Salgado",2020-06-24,"nowcast",0,4,1,2,2,1.719
+"SE-Salgado",2020-06-25,"nowcast",0,4,1,2,2,1.811
+"SE-Salgado",2020-06-26,"nowcast",0,4,1,2,2,1.913
+"SE-Salgado",2020-06-27,"nowcast",0,4,1,2,2,2.054
+"SE-Salgado",2020-06-28,"nowcast",0,4,1,2,2,2.201
+"SE-Salgado",2020-06-29,"nowcast",0,4,1,2,2,2.176
+"SE-Salgado",2020-06-30,"nowcast",0,4,0,2,2,2.247
+"SE-Salgado",2020-07-01,"nowcast",0,4,1,2,2,2.181
+"SE-Salgado",2020-07-02,"nowcast",0,4,1,2,2,2.215
+"SE-Salgado",2020-07-03,"nowcast",0,4,1,2,2,2.228
+"SE-Salgado",2020-07-04,"nowcast",0,4,1,2,2,2.263
+"SE-Salgado",2020-07-05,"nowcast",0,4,0,2,2,2.303
+"SE-Salgado",2020-07-06,"nowcast",0,4,2,3,2,2.354
+"SE-Salgado",2020-07-07,"nowcast",0,4,0,2,2,2.344
+"SE-Salgado",2020-07-08,"nowcast",0,4,1,2,2,2.272
+"SE-Salgado",2020-07-09,"nowcast",0,4,1,2,2,2.302
+"SE-Salgado",2020-07-10,"nowcast",0,4,1,2,2,2.21
+"SE-Salgado",2020-07-11,"nowcast",0,4,1,2,2,2.233
+"SE-Salgado",2020-07-12,"nowcast",0,4,1,2,2,2.258
+"SE-Salgado",2020-07-13,"nowcast",0,4,1,2,2,2.229
+"SE-Salgado",2020-07-14,"nowcast",0,4,1,2,2,2.194
+"SE-Salgado",2020-07-15,"nowcast",0,4,1,2,2,2.145
+"SE-Salgado",2020-07-16,"nowcast",0,4,1,2,2,2.07
+"SE-Salgado",2020-07-17,"nowcast",0,4,1,2,2,1.975
+"SE-Salgado",2020-07-18,"nowcast",0,4,1,2,2,1.931
+"SE-Salgado",2020-07-19,"nowcast",0,4,1,2,2,1.867
+"SE-Salgado",2020-07-20,"nowcast",0,4,1,2,2,1.863
+"SE-Salgado",2020-07-21,"nowcast",0,4,1,2,2,1.877
+"SE-Salgado",2020-07-22,"nowcast",0,4,1,2,2,1.875
+"SE-Salgado",2020-07-23,"nowcast",0,4,1,2,2,1.896
+"SE-Salgado",2020-07-24,"nowcast",0,3,1,2,2,1.793
+"SE-Salgado",2020-07-25,"nowcast",0,3,0,1,1,1.704
+"SE-Salgado",2020-07-26,"nowcast",0,3,1,2,1.5,1.674
+"SE-Salgado",2020-07-27,"nowcast",0,3,0,1,1,1.691
+"SE-Salgado",2020-07-28,"nowcast",0,4,0,1,1,1.673
+"SE-Salgado",2020-07-29,"nowcast",0,4,1,2,2,1.938
+"SE-Salgado",2020-07-30,"nowcast",0,5,0,2,2,2.375
+"SE-Salgado",2020-07-31,"nowcast",0,6,0,2,2,2.784
+"SE-Salgado",2020-08-01,"nowcast",0,7,1,3,3,3.616
+"SE-Salgado",2020-05-03,"observed",NA,NA,NA,NA,1,NA
+"SE-Salgado",2020-05-04,"observed",NA,NA,NA,NA,0,NA
+"SE-Salgado",2020-05-05,"observed",NA,NA,NA,NA,0,NA
+"SE-Salgado",2020-05-06,"observed",NA,NA,NA,NA,0,NA
+"SE-Salgado",2020-05-07,"observed",NA,NA,NA,NA,0,NA
+"SE-Salgado",2020-05-08,"observed",NA,NA,NA,NA,0,NA
+"SE-Salgado",2020-05-09,"observed",NA,NA,NA,NA,0,NA
+"SE-Salgado",2020-05-10,"observed",NA,NA,NA,NA,1,NA
+"SE-Salgado",2020-05-11,"observed",NA,NA,NA,NA,2,NA
+"SE-Salgado",2020-05-12,"observed",NA,NA,NA,NA,2,NA
+"SE-Salgado",2020-05-13,"observed",NA,NA,NA,NA,0,NA
+"SE-Salgado",2020-05-14,"observed",NA,NA,NA,NA,0,NA
+"SE-Salgado",2020-05-15,"observed",NA,NA,NA,NA,1,NA
+"SE-Salgado",2020-05-16,"observed",NA,NA,NA,NA,0,NA
+"SE-Salgado",2020-05-17,"observed",NA,NA,NA,NA,0,NA
+"SE-Salgado",2020-05-18,"observed",NA,NA,NA,NA,1,NA
+"SE-Salgado",2020-05-19,"observed",NA,NA,NA,NA,0,NA
+"SE-Salgado",2020-05-20,"observed",NA,NA,NA,NA,2,NA
+"SE-Salgado",2020-05-21,"observed",NA,NA,NA,NA,0,NA
+"SE-Salgado",2020-05-22,"observed",NA,NA,NA,NA,8,NA
+"SE-Salgado",2020-05-23,"observed",NA,NA,NA,NA,0,NA
+"SE-Salgado",2020-05-24,"observed",NA,NA,NA,NA,2,NA
+"SE-Salgado",2020-05-25,"observed",NA,NA,NA,NA,0,NA
+"SE-Salgado",2020-05-26,"observed",NA,NA,NA,NA,2,NA
+"SE-Salgado",2020-05-27,"observed",NA,NA,NA,NA,1,NA
+"SE-Salgado",2020-05-28,"observed",NA,NA,NA,NA,1,NA
+"SE-Salgado",2020-05-29,"observed",NA,NA,NA,NA,0,NA
+"SE-Salgado",2020-05-30,"observed",NA,NA,NA,NA,0,NA
+"SE-Salgado",2020-05-31,"observed",NA,NA,NA,NA,0,NA
+"SE-Salgado",2020-06-01,"observed",NA,NA,NA,NA,0,NA
+"SE-Salgado",2020-06-02,"observed",NA,NA,NA,NA,0,NA
+"SE-Salgado",2020-06-03,"observed",NA,NA,NA,NA,1,NA
+"SE-Salgado",2020-06-04,"observed",NA,NA,NA,NA,1,NA
+"SE-Salgado",2020-06-05,"observed",NA,NA,NA,NA,0,NA
+"SE-Salgado",2020-06-06,"observed",NA,NA,NA,NA,11,NA
+"SE-Salgado",2020-06-07,"observed",NA,NA,NA,NA,2,NA
+"SE-Salgado",2020-06-08,"observed",NA,NA,NA,NA,1,NA
+"SE-Salgado",2020-06-09,"observed",NA,NA,NA,NA,6,NA
+"SE-Salgado",2020-06-10,"observed",NA,NA,NA,NA,1,NA
+"SE-Salgado",2020-06-11,"observed",NA,NA,NA,NA,0,NA
+"SE-Salgado",2020-06-12,"observed",NA,NA,NA,NA,0,NA
+"SE-Salgado",2020-06-13,"observed",NA,NA,NA,NA,2,NA
+"SE-Salgado",2020-06-14,"observed",NA,NA,NA,NA,2,NA
+"SE-Salgado",2020-06-15,"observed",NA,NA,NA,NA,1,NA
+"SE-Salgado",2020-06-16,"observed",NA,NA,NA,NA,0,NA
+"SE-Salgado",2020-06-17,"observed",NA,NA,NA,NA,2,NA
+"SE-Salgado",2020-06-18,"observed",NA,NA,NA,NA,2,NA
+"SE-Salgado",2020-06-19,"observed",NA,NA,NA,NA,1,NA
+"SE-Salgado",2020-06-20,"observed",NA,NA,NA,NA,1,NA
+"SE-Salgado",2020-06-21,"observed",NA,NA,NA,NA,0,NA
+"SE-Salgado",2020-06-22,"observed",NA,NA,NA,NA,0,NA
+"SE-Salgado",2020-06-23,"observed",NA,NA,NA,NA,0,NA
+"SE-Salgado",2020-06-24,"observed",NA,NA,NA,NA,3,NA
+"SE-Salgado",2020-06-25,"observed",NA,NA,NA,NA,1,NA
+"SE-Salgado",2020-06-26,"observed",NA,NA,NA,NA,0,NA
+"SE-Salgado",2020-06-27,"observed",NA,NA,NA,NA,3,NA
+"SE-Salgado",2020-06-28,"observed",NA,NA,NA,NA,1,NA
+"SE-Salgado",2020-06-29,"observed",NA,NA,NA,NA,0,NA
+"SE-Salgado",2020-06-30,"observed",NA,NA,NA,NA,2,NA
+"SE-Salgado",2020-07-01,"observed",NA,NA,NA,NA,0,NA
+"SE-Salgado",2020-07-02,"observed",NA,NA,NA,NA,1,NA
+"SE-Salgado",2020-07-03,"observed",NA,NA,NA,NA,0,NA
+"SE-Salgado",2020-07-04,"observed",NA,NA,NA,NA,9,NA
+"SE-Salgado",2020-07-05,"observed",NA,NA,NA,NA,1,NA
+"SE-Salgado",2020-07-06,"observed",NA,NA,NA,NA,0,NA
+"SE-Salgado",2020-07-07,"observed",NA,NA,NA,NA,1,NA
+"SE-Salgado",2020-07-08,"observed",NA,NA,NA,NA,0,NA
+"SE-Salgado",2020-07-09,"observed",NA,NA,NA,NA,4,NA
+"SE-Salgado",2020-07-10,"observed",NA,NA,NA,NA,5,NA
+"SE-Salgado",2020-07-11,"observed",NA,NA,NA,NA,0,NA
+"SE-Salgado",2020-07-12,"observed",NA,NA,NA,NA,5,NA
+"SE-Salgado",2020-07-13,"observed",NA,NA,NA,NA,2,NA
+"SE-Salgado",2020-07-14,"observed",NA,NA,NA,NA,0,NA
+"SE-Salgado",2020-07-15,"observed",NA,NA,NA,NA,0,NA
+"SE-Salgado",2020-07-16,"observed",NA,NA,NA,NA,6,NA
+"SE-Salgado",2020-07-17,"observed",NA,NA,NA,NA,2,NA
+"SE-Salgado",2020-07-18,"observed",NA,NA,NA,NA,4,NA
+"SE-Salgado",2020-07-19,"observed",NA,NA,NA,NA,1,NA
+"SE-Salgado",2020-07-20,"observed",NA,NA,NA,NA,1,NA
+"SE-Salgado",2020-07-21,"observed",NA,NA,NA,NA,6,NA
+"SE-Salgado",2020-07-22,"observed",NA,NA,NA,NA,1,NA
+"SE-Salgado",2020-07-23,"observed",NA,NA,NA,NA,2,NA
+"SE-Salgado",2020-07-24,"observed",NA,NA,NA,NA,0,NA
+"SE-Salgado",2020-07-25,"observed",NA,NA,NA,NA,0,NA
+"SE-Salgado",2020-07-26,"observed",NA,NA,NA,NA,5,NA
+"SE-Salgado",2020-07-27,"observed",NA,NA,NA,NA,0,NA
+"SE-Salgado",2020-07-28,"observed",NA,NA,NA,NA,3,NA
+"SE-Salgado",2020-07-29,"observed",NA,NA,NA,NA,3,NA
+"SE-Salgado",2020-07-30,"observed",NA,NA,NA,NA,7,NA
+"SE-Salgado",2020-07-31,"observed",NA,NA,NA,NA,0,NA
+"SE-Salgado",2020-08-01,"observed",NA,NA,NA,NA,0,NA
+"SE-Salgado",2020-08-02,"observed",NA,NA,NA,NA,0,NA
+"SE-Salgado",2020-08-03,"observed",NA,NA,NA,NA,1,NA
+"SE-Salgado",2020-08-04,"observed",NA,NA,NA,NA,2,NA
+"SE-Salgado",2020-08-05,"observed",NA,NA,NA,NA,0,NA
+"SE-Salgado",2020-08-06,"observed",NA,NA,NA,NA,1,NA
+"SE-Salgado",2020-08-07,"observed",NA,NA,NA,NA,1,NA
+"SE-Salgado",2020-08-08,"observed",NA,NA,NA,NA,0,NA
+"SE-Salgado",2020-08-09,"observed",NA,NA,NA,NA,0,NA
+"SE-Salgado",2020-08-10,"observed",NA,NA,NA,NA,0,NA
+"SE-Salgado",2020-08-11,"observed",NA,NA,NA,NA,5,NA
+"SE-Salgado",2020-08-12,"observed",NA,NA,NA,NA,0,NA
+"SE-Salgado",2020-08-02,"forecast",0,9,0,2,2,3.7902
+"SE-Salgado",2020-08-03,"forecast",0,10,0,2,2,4.4722
+"SE-Salgado",2020-08-04,"forecast",0,12,0,2,2,5.43
+"SE-Salgado",2020-08-05,"forecast",0,14,0,3,3,6.9336
+"SE-Salgado",2020-08-06,"forecast",0,17,0,3,3,8.8886
+"SE-Salgado",2020-08-07,"forecast",0,20,0,3,3,10.8382
+"SE-Salgado",2020-08-08,"forecast",0,24,0,3,3,16.639
+"SE-Salgado",2020-08-09,"forecast",0,28,0,3,3,20.7938
+"SE-Salgado",2020-08-10,"forecast",0,34,0,3,3,27.646
+"SE-Salgado",2020-08-11,"forecast",0,37,0,3,3,45.368
+"SE-Salgado",2020-08-12,"forecast",0,48,0,3,3,77.5146
+"SE-Salgado",2020-08-13,"forecast",0,58,0,3,3,100.1612
+"SE-Salgado",2020-08-14,"forecast",0,67,0,3,3,146.208
+"SE-Salgado",2020-08-15,"forecast",0,81,0,3,3,226.1436
