@@ -15,5 +15,6 @@ cp -r _posts/national/cities-rn/cities-rn.html posts/cities-rn/index.html
 cp -r _posts/national/cities-se/cities-se.html posts/cities-se/index.html
 cp -r _posts/national/deaths-brazil/deaths-brazil.html posts/deaths-states/index.html
 cp -r _posts/national/deaths-ne-cities/deaths-ne-cities.html posts/deaths-ne-cities/index.html
+cp -r _posts/national/cidades-rna/cidades-rna.html posts/cidades-rna/index.html
 
 bin/update_github.sh

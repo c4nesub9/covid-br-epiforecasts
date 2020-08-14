@@ -20,7 +20,8 @@ ncores <- ifelse(length(argv) >= 5, as.integer(argv[5]), future::availableCores(
 
 # Get cases ---------------------------------------------------------------
 filter_cities <- read.csv(city_list_file) %>%
-	mutate(name = paste(UF, city, sep = "-"))
+	mutate(name = paste(UF, MUNICIPIO, sep = "-"))
+print(filter_cities$name)
 
 NCoVUtils::reset_cache()
 cases <- NCoVUtils::get_brazil_regional_cases(geography = "municipalities") %>%
@@ -92,8 +93,8 @@ EpiNow::regional_rt_pipeline(
 
 # Summarise results -------------------------------------------------------
 
-EpiNow::regional_summary(results_dir = results_dir,
-                         summary_dir = paste0(results_dir, "-summary"),
-                         target_date = "latest",
-                         region_scale = "Region")
+#EpiNow::regional_summary(results_dir = results_dir,
+#                         summary_dir = paste0(results_dir, "-summary"),
+#                         target_date = "latest",
+#                         region_scale = "Region")
 #}
