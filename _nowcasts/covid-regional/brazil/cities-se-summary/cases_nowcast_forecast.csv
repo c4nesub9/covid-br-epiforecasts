@@ -234,190 +234,188 @@
 "SE-Aquidabã",2020-08-03,"forecast",0,60,0,14,14,33.0018
 "SE-Aquidabã",2020-08-04,"forecast",0,67,0,15,15,38.2378
 "SE-Aquidabã",2020-08-05,"forecast",0,76,0,15,15,43.8494
-"SE-Aracaju",2020-02-02,"nowcast",1,1,1,1,1,1
-"SE-Aracaju",2020-02-03,"nowcast",0,0,0,0,0,0
-"SE-Aracaju",2020-02-04,"nowcast",0,0,0,0,0,0
-"SE-Aracaju",2020-02-05,"nowcast",0,1,1,1,1,0.666666666666667
-"SE-Aracaju",2020-02-06,"nowcast",0,1,0,0,0,0.25
-"SE-Aracaju",2020-02-07,"nowcast",0,0,0,0,0,0
-"SE-Aracaju",2020-02-08,"nowcast",0,1,0,0,0,0.333333333333333
-"SE-Aracaju",2020-02-09,"nowcast",0,1,0,0,0,0.142857142857143
-"SE-Aracaju",2020-02-10,"nowcast",0,1,0,0,0,0.125
-"SE-Aracaju",2020-02-11,"nowcast",0,1,0,0,0,0.272727272727273
-"SE-Aracaju",2020-02-12,"nowcast",0,1,0,0,0,0.214285714285714
-"SE-Aracaju",2020-02-13,"nowcast",0,1,0,0,0,0.125
-"SE-Aracaju",2020-02-14,"nowcast",0,1,0,0,0,0.2
-"SE-Aracaju",2020-02-15,"nowcast",0,1,0,0,0,0.166666666666667
-"SE-Aracaju",2020-02-16,"nowcast",0,1,0,0,0,0.192307692307692
-"SE-Aracaju",2020-02-17,"nowcast",0,1,0,0,0,0.378378378378378
-"SE-Aracaju",2020-02-18,"nowcast",0,1,0,0,0,0.25
-"SE-Aracaju",2020-02-19,"nowcast",0,1,0,0,0,0.303571428571429
-"SE-Aracaju",2020-02-20,"nowcast",0,1,0,0,0,0.279411764705882
-"SE-Aracaju",2020-02-21,"nowcast",0,1,0,0,0,0.275
-"SE-Aracaju",2020-02-22,"nowcast",0,1,0,0,0,0.398373983739837
-"SE-Aracaju",2020-02-23,"nowcast",0,1,0,0,0,0.322368421052632
-"SE-Aracaju",2020-02-24,"nowcast",0,1,0,0,0,0.291891891891892
-"SE-Aracaju",2020-02-25,"nowcast",0,1,0,0,0,0.349137931034483
-"SE-Aracaju",2020-02-26,"nowcast",0,1,0,0,0,0.335689045936396
-"SE-Aracaju",2020-02-27,"nowcast",0,1,0,0,0,0.310650887573964
-"SE-Aracaju",2020-02-28,"nowcast",0,1,0,0,0,0.35264483627204
-"SE-Aracaju",2020-02-29,"nowcast",0,1,0,0,0,0.320796460176991
-"SE-Aracaju",2020-03-01,"nowcast",0,1,0,0,0,0.413084112149533
-"SE-Aracaju",2020-03-02,"nowcast",0,1,0,0,0,0.419249592169657
-"SE-Aracaju",2020-03-03,"nowcast",0,1,0,0,0,0.44640234948605
-"SE-Aracaju",2020-03-04,"nowcast",0,1,0,0,0,0.489445910290237
-"SE-Aracaju",2020-03-05,"nowcast",0,1,0,0,0,0.509779951100245
-"SE-Aracaju",2020-03-06,"nowcast",0,2,0,0,0,0.572916666666667
-"SE-Aracaju",2020-03-07,"nowcast",0,2,0,0,0,0.651162790697674
-"SE-Aracaju",2020-03-08,"nowcast",0,2,0,1,1,0.728237791932059
-"SE-Aracaju",2020-03-09,"nowcast",0,2,0,1,1,0.806451612903226
-"SE-Aracaju",2020-03-10,"nowcast",0,2,0,1,1,0.85030549898167
-"SE-Aracaju",2020-03-11,"nowcast",0,2,0,1,1,0.862626262626263
-"SE-Aracaju",2020-03-12,"nowcast",0,2,0,1,1,0.883417085427136
-"SE-Aracaju",2020-03-13,"nowcast",0,2,0,1,1,0.88988988988989
-"SE-Aracaju",2020-03-14,"nowcast",0,2,0,1,1,0.846
-"SE-Aracaju",2020-03-15,"nowcast",0,2,0,1,1,0.912
-"SE-Aracaju",2020-03-16,"nowcast",0,2,0,1,1,0.969
+"SE-Aracaju",2020-02-05,"nowcast",1,1,1,1,1,1
+"SE-Aracaju",2020-02-06,"nowcast",1,1,1,1,1,1
+"SE-Aracaju",2020-02-07,"nowcast",0,1,0,0,0,0.333333333333333
+"SE-Aracaju",2020-02-08,"nowcast",0,1,0,1,0.5,0.5
+"SE-Aracaju",2020-02-09,"nowcast",0,1,0,0,0,0.2
+"SE-Aracaju",2020-02-10,"nowcast",0,1,0,1,0.5,0.5
+"SE-Aracaju",2020-02-11,"nowcast",0,1,0,0,0,0.444444444444444
+"SE-Aracaju",2020-02-12,"nowcast",0,1,0,0,0,0.1
+"SE-Aracaju",2020-02-13,"nowcast",0,0,0,0,0,0.0909090909090909
+"SE-Aracaju",2020-02-14,"nowcast",0,1,0,0,0,0.352941176470588
+"SE-Aracaju",2020-02-15,"nowcast",0,1,0,0,0,0.291666666666667
+"SE-Aracaju",2020-02-16,"nowcast",0,1,0,0,0,0.25
+"SE-Aracaju",2020-02-17,"nowcast",0,1,0,0,0,0.333333333333333
+"SE-Aracaju",2020-02-18,"nowcast",0,1,0,0,0,0.285714285714286
+"SE-Aracaju",2020-02-19,"nowcast",0,1,0,0,0,0.388888888888889
+"SE-Aracaju",2020-02-20,"nowcast",0,1,0,0,0,0.224719101123595
+"SE-Aracaju",2020-02-21,"nowcast",0,1,0,0,0,0.304347826086957
+"SE-Aracaju",2020-02-22,"nowcast",0,1,0,0,0,0.281481481481481
+"SE-Aracaju",2020-02-23,"nowcast",0,1,0,0,0,0.304878048780488
+"SE-Aracaju",2020-02-24,"nowcast",0,1,0,0,0,0.302439024390244
+"SE-Aracaju",2020-02-25,"nowcast",0,1,0,0,0,0.285123966942149
+"SE-Aracaju",2020-02-26,"nowcast",0,1,0,0,0,0.258181818181818
+"SE-Aracaju",2020-02-27,"nowcast",0,1,0,0,0,0.311728395061728
+"SE-Aracaju",2020-02-28,"nowcast",0,1,0,0,0,0.383838383838384
+"SE-Aracaju",2020-02-29,"nowcast",0,1,0,0,0,0.334754797441365
+"SE-Aracaju",2020-03-01,"nowcast",0,1,0,0,0,0.458259325044405
+"SE-Aracaju",2020-03-02,"nowcast",0,1,0,0,0,0.475
+"SE-Aracaju",2020-03-03,"nowcast",0,1,0,0,0,0.441666666666667
+"SE-Aracaju",2020-03-04,"nowcast",0,1,0,0,0,0.486381322957198
+"SE-Aracaju",2020-03-05,"nowcast",0,1,0,0,0,0.496314496314496
+"SE-Aracaju",2020-03-06,"nowcast",0,2,0,0,0,0.623138602520046
+"SE-Aracaju",2020-03-07,"nowcast",0,2,0,0,0,0.623503808487486
+"SE-Aracaju",2020-03-08,"nowcast",0,2,0,1,1,0.716684155299056
+"SE-Aracaju",2020-03-09,"nowcast",0,2,0,1,1,0.824074074074074
+"SE-Aracaju",2020-03-10,"nowcast",0,2,0,1,1,0.879837067209776
+"SE-Aracaju",2020-03-11,"nowcast",0,2,0,1,1,0.903420523138833
+"SE-Aracaju",2020-03-12,"nowcast",0,2,0,1,1,0.893467336683417
+"SE-Aracaju",2020-03-13,"nowcast",0,2,0,1,1,0.844533600802407
+"SE-Aracaju",2020-03-14,"nowcast",0,2,0,1,1,0.889
+"SE-Aracaju",2020-03-15,"nowcast",0,2,0,1,1,0.909
+"SE-Aracaju",2020-03-16,"nowcast",0,2,0,1,1,0.982
 "SE-Aracaju",2020-03-17,"nowcast",0,2,0,1,1,1.046
-"SE-Aracaju",2020-03-18,"nowcast",0,3,0,1,1,1.156
-"SE-Aracaju",2020-03-19,"nowcast",0,3,0,1,1,1.162
-"SE-Aracaju",2020-03-20,"nowcast",0,3,0,1,1,1.19
-"SE-Aracaju",2020-03-21,"nowcast",0,3,0,1,1,1.242
-"SE-Aracaju",2020-03-22,"nowcast",0,3,0,1,1,1.205
-"SE-Aracaju",2020-03-23,"nowcast",0,3,0,1,1,1.357
-"SE-Aracaju",2020-03-24,"nowcast",0,3,0,1,1,1.41
-"SE-Aracaju",2020-03-25,"nowcast",0,3,0,1,1,1.586
-"SE-Aracaju",2020-03-26,"nowcast",0,3,0,1,1,1.65
-"SE-Aracaju",2020-03-27,"nowcast",0,4,1,2,2,1.974
-"SE-Aracaju",2020-03-28,"nowcast",0,4,1,2,2,1.963
-"SE-Aracaju",2020-03-29,"nowcast",0,4,1,2,2,1.995
-"SE-Aracaju",2020-03-30,"nowcast",0,4,1,2,2,2.16
-"SE-Aracaju",2020-03-31,"nowcast",0,4,1,2,2,2.246
-"SE-Aracaju",2020-04-01,"nowcast",0,5,0,2,2,2.419
-"SE-Aracaju",2020-04-02,"nowcast",0,5,0,2,2,2.594
-"SE-Aracaju",2020-04-03,"nowcast",0,6,1,3,3,3.015
-"SE-Aracaju",2020-04-04,"nowcast",0,6,2,4,3,3.487
-"SE-Aracaju",2020-04-05,"nowcast",0,7,2,4,4,3.94
-"SE-Aracaju",2020-04-06,"nowcast",0,8,2,5,4,4.774
-"SE-Aracaju",2020-04-07,"nowcast",1,10,3,6,5,5.622
-"SE-Aracaju",2020-04-08,"nowcast",1,11,3,7,6,6.729
-"SE-Aracaju",2020-04-09,"nowcast",2,13,4,8,8,8
-"SE-Aracaju",2020-04-10,"nowcast",3,15,5,9,9,9.422
-"SE-Aracaju",2020-04-11,"nowcast",4,18,7,12,11,11.123
-"SE-Aracaju",2020-04-12,"nowcast",5,20,8,14,13,13.165
-"SE-Aracaju",2020-04-13,"nowcast",8,24,11,17,15,15.53
-"SE-Aracaju",2020-04-14,"nowcast",8,26,13,20,17,17.997
-"SE-Aracaju",2020-04-15,"nowcast",9,30,15,23,20,20.732
-"SE-Aracaju",2020-04-16,"nowcast",12,35,16,25,24,24.285
-"SE-Aracaju",2020-04-17,"nowcast",15,39,22,32,27,27.792
-"SE-Aracaju",2020-04-18,"nowcast",18,45,24,35,32,32.459
-"SE-Aracaju",2020-04-19,"nowcast",23,51,29,41,37,37.562
-"SE-Aracaju",2020-04-20,"nowcast",27,57,34,46,43,43.091
-"SE-Aracaju",2020-04-21,"nowcast",32,63,40,53,48.5,49.144
-"SE-Aracaju",2020-04-22,"nowcast",37,72,49,62,55,55.736
-"SE-Aracaju",2020-04-23,"nowcast",43,79,51,66,62,62.691
-"SE-Aracaju",2020-04-24,"nowcast",50,86,63,77,70,69.73
-"SE-Aracaju",2020-04-25,"nowcast",58,93,65,79,75,75.821
-"SE-Aracaju",2020-04-26,"nowcast",62,100,72,87,82.5,82.83
-"SE-Aracaju",2020-04-27,"nowcast",71,108,81,96,89,89.668
-"SE-Aracaju",2020-04-28,"nowcast",75,112,85,100,95,95.317
-"SE-Aracaju",2020-04-29,"nowcast",79,119,91,106,102,101.617
-"SE-Aracaju",2020-04-30,"nowcast",89,127,98,114,108,107.871
-"SE-Aracaju",2020-05-01,"nowcast",92,130,107,121,113,113.464
-"SE-Aracaju",2020-05-02,"nowcast",100,139,106,122,119,119.003
-"SE-Aracaju",2020-05-03,"nowcast",103,142,115,129,123,123.026
-"SE-Aracaju",2020-05-04,"nowcast",104,143,114,129,125,125.188
-"SE-Aracaju",2020-05-05,"nowcast",109,147,116,133,127,127.216
-"SE-Aracaju",2020-05-06,"nowcast",108,147,118,133,128.5,128.186
-"SE-Aracaju",2020-05-07,"nowcast",109,148,122,138,131,131.233
-"SE-Aracaju",2020-05-08,"nowcast",115,153,124,140,134,134.68
-"SE-Aracaju",2020-05-09,"nowcast",117,155,127,142,137,137.507
-"SE-Aracaju",2020-05-10,"nowcast",119,158,131,147,140,139.584
-"SE-Aracaju",2020-05-11,"nowcast",123,161,133,149,141,141.204
-"SE-Aracaju",2020-05-12,"nowcast",118,160,129,145,141,140.331
-"SE-Aracaju",2020-05-13,"nowcast",121,161,128,144,140,140.555
-"SE-Aracaju",2020-05-14,"nowcast",121,162,128,145,140,140.247
-"SE-Aracaju",2020-05-15,"nowcast",120,162,130,145,139,139.726
-"SE-Aracaju",2020-05-16,"nowcast",114,157,128,144,139,138.737
-"SE-Aracaju",2020-05-17,"nowcast",116,160,127,144,137,138.235
-"SE-Aracaju",2020-05-18,"nowcast",114,161,125,144,137,137.713
-"SE-Aracaju",2020-05-19,"nowcast",112,163,126,146,138,139.065
-"SE-Aracaju",2020-05-20,"nowcast",118,173,128,150,143,144.015
-"SE-Aracaju",2020-05-21,"nowcast",122,179,137,161,151,151.451
-"SE-Aracaju",2020-05-22,"nowcast",129,193,142,167,159,160.565
-"SE-Aracaju",2020-05-23,"nowcast",136,202,158,184,169,170.941
-"SE-Aracaju",2020-05-24,"nowcast",145,216,165,193,181.5,182.28
-"SE-Aracaju",2020-05-25,"nowcast",153,229,172,203,193,193.797
-"SE-Aracaju",2020-05-26,"nowcast",165,241,191,223,206,206.713
-"SE-Aracaju",2020-05-27,"nowcast",180,261,202,237,220,220.027
-"SE-Aracaju",2020-05-28,"nowcast",189,278,215,252,235.5,236.338
-"SE-Aracaju",2020-05-29,"nowcast",209,296,234,271,253,252.898
-"SE-Aracaju",2020-05-30,"nowcast",220,316,245,284,271,271.477
-"SE-Aracaju",2020-05-31,"nowcast",246,344,271,310,293,293.826
-"SE-Aracaju",2020-06-01,"nowcast",262,361,292,335,315,316.733
-"SE-Aracaju",2020-06-02,"nowcast",290,385,318,358,341,340.699
-"SE-Aracaju",2020-06-03,"nowcast",314,410,341,381,367,365.884
-"SE-Aracaju",2020-06-04,"nowcast",349,437,374,409,392,390.344
-"SE-Aracaju",2020-06-05,"nowcast",370,456,397,429,416,414.25
-"SE-Aracaju",2020-06-06,"nowcast",393,473,411,446,435,434.353
-"SE-Aracaju",2020-06-07,"nowcast",407,486,432,465,448,448.022
-"SE-Aracaju",2020-06-08,"nowcast",413,491,433,465,453.5,455.011
-"SE-Aracaju",2020-06-09,"nowcast",415,495,429,462,451,452.171
-"SE-Aracaju",2020-06-10,"nowcast",400,479,414,447,438,437.468
-"SE-Aracaju",2020-06-11,"nowcast",374,445,389,419,411,411.192
-"SE-Aracaju",2020-06-12,"nowcast",343,411,364,393,379,379.262
-"SE-Aracaju",2020-06-13,"nowcast",318,391,334,364,353,352.516
-"SE-Aracaju",2020-06-14,"nowcast",295,372,322,352,337,336.428
-"SE-Aracaju",2020-06-15,"nowcast",290,375,316,349,336,336.363
-"SE-Aracaju",2020-06-16,"nowcast",304,388,324,359,347,346.867
-"SE-Aracaju",2020-06-17,"nowcast",318,403,342,378,361,360.483
-"SE-Aracaju",2020-06-18,"nowcast",328,414,349,384,374,374.42
-"SE-Aracaju",2020-06-19,"nowcast",344,428,372,406,391,390.696
-"SE-Aracaju",2020-06-20,"nowcast",364,446,393,424,406,406.963
-"SE-Aracaju",2020-06-21,"nowcast",380,452,404,433,417.5,417.75
-"SE-Aracaju",2020-06-22,"nowcast",389,461,413,443,426,426.232
-"SE-Aracaju",2020-06-23,"nowcast",387,460,405,435,427,426.837
-"SE-Aracaju",2020-06-24,"nowcast",387,457,408,437,422,421.721
-"SE-Aracaju",2020-06-25,"nowcast",379,453,394,425,414,414.498
-"SE-Aracaju",2020-06-26,"nowcast",367,446,396,426,412,411.261
-"SE-Aracaju",2020-06-27,"nowcast",372,451,398,428,416,415.166
-"SE-Aracaju",2020-06-28,"nowcast",383,459,397,428,421,421.035
-"SE-Aracaju",2020-06-29,"nowcast",388,463,408,438,428,428.201
-"SE-Aracaju",2020-06-30,"nowcast",392,468,414,445,432,431.817
-"SE-Aracaju",2020-07-01,"nowcast",392,470,408,441,432,431.975
-"SE-Aracaju",2020-07-02,"nowcast",393,476,413,446,435,434.357
-"SE-Aracaju",2020-07-03,"nowcast",399,481,421,453,438.5,437.629
-"SE-Aracaju",2020-07-04,"nowcast",407,488,427,458,447,446.97
-"SE-Aracaju",2020-07-05,"nowcast",419,496,441,471,459,458.891
-"SE-Aracaju",2020-07-06,"nowcast",424,498,445,476,463,463.242
-"SE-Aracaju",2020-07-07,"nowcast",424,497,445,473,463,462.323
-"SE-Aracaju",2020-07-08,"nowcast",416,489,436,464,452,452.118
-"SE-Aracaju",2020-07-09,"nowcast",404,477,419,450,440,441.333
-"SE-Aracaju",2020-07-10,"nowcast",395,467,417,445,431,430.499
-"SE-Aracaju",2020-07-11,"nowcast",390,462,404,434,426,425.524
-"SE-Aracaju",2020-07-12,"nowcast",387,463,404,434,424,425.221
-"SE-Aracaju",2020-07-13,"nowcast",389,463,405,436,426,425.764
-"SE-Aracaju",2020-07-14,"nowcast",380,456,406,438,422,421.708
-"SE-Aracaju",2020-07-15,"nowcast",375,453,391,422,409,409.051
-"SE-Aracaju",2020-07-16,"nowcast",351,426,368,398,390,390.35
-"SE-Aracaju",2020-07-17,"nowcast",331,402,355,383,368,367.063
-"SE-Aracaju",2020-07-18,"nowcast",318,382,337,363,350,349.786
-"SE-Aracaju",2020-07-19,"nowcast",305,373,326,354,342,342.608
-"SE-Aracaju",2020-07-20,"nowcast",308,377,324,352,343,342.679
-"SE-Aracaju",2020-07-21,"nowcast",304,374,322,350,340,341.209
-"SE-Aracaju",2020-07-22,"nowcast",298,376,318,349,337,337.622
-"SE-Aracaju",2020-07-23,"nowcast",282,359,309,340,326,325.715
-"SE-Aracaju",2020-07-24,"nowcast",269,342,286,315,304,304.656
-"SE-Aracaju",2020-07-25,"nowcast",242,311,263,291,277,277.445
-"SE-Aracaju",2020-07-26,"nowcast",223,286,238,264,251,252.085
-"SE-Aracaju",2020-07-27,"nowcast",202,261,213,236,229,230.2
-"SE-Aracaju",2020-07-28,"nowcast",176,234,194,217,208,208.362
-"SE-Aracaju",2020-07-29,"nowcast",161,212,172,193,187,187.324
-"SE-Aracaju",2020-07-30,"nowcast",146,191,158,177,169,168.956
-"SE-Aracaju",2020-07-31,"nowcast",130,173,141,158,153,152.491
-"SE-Aracaju",2020-08-01,"nowcast",123,163,130,146,140,140.354
-"SE-Aracaju",2020-08-02,"nowcast",112,152,123,139,132,132.605
-"SE-Aracaju",2020-08-03,"nowcast",102,144,115,131,126,125.302
+"SE-Aracaju",2020-03-18,"nowcast",0,3,0,1,1,1.135
+"SE-Aracaju",2020-03-19,"nowcast",0,3,0,1,1,1.177
+"SE-Aracaju",2020-03-20,"nowcast",0,3,0,1,1,1.211
+"SE-Aracaju",2020-03-21,"nowcast",0,3,0,1,1,1.229
+"SE-Aracaju",2020-03-22,"nowcast",0,3,0,1,1,1.235
+"SE-Aracaju",2020-03-23,"nowcast",0,3,0,1,1,1.266
+"SE-Aracaju",2020-03-24,"nowcast",0,3,0,1,1,1.452
+"SE-Aracaju",2020-03-25,"nowcast",0,3,0,1,1,1.604
+"SE-Aracaju",2020-03-26,"nowcast",0,4,0,1,1,1.692
+"SE-Aracaju",2020-03-27,"nowcast",0,4,1,2,2,1.886
+"SE-Aracaju",2020-03-28,"nowcast",0,4,1,2,2,1.986
+"SE-Aracaju",2020-03-29,"nowcast",0,4,1,2,2,2.07
+"SE-Aracaju",2020-03-30,"nowcast",0,5,0,2,2,2.242
+"SE-Aracaju",2020-03-31,"nowcast",0,4,0,2,2,2.28
+"SE-Aracaju",2020-04-01,"nowcast",0,5,0,2,2,2.376
+"SE-Aracaju",2020-04-02,"nowcast",0,5,0,2,2,2.72
+"SE-Aracaju",2020-04-03,"nowcast",0,5,1,3,3,2.941
+"SE-Aracaju",2020-04-04,"nowcast",0,7,2,4,3,3.481
+"SE-Aracaju",2020-04-05,"nowcast",0,7,1,4,4,4.006
+"SE-Aracaju",2020-04-06,"nowcast",1,9,2,5,4.5,4.852
+"SE-Aracaju",2020-04-07,"nowcast",0,9,3,6,5,5.605
+"SE-Aracaju",2020-04-08,"nowcast",1,11,2,6,6,6.696
+"SE-Aracaju",2020-04-09,"nowcast",2,13,4,8,8,7.959
+"SE-Aracaju",2020-04-10,"nowcast",3,15,5,10,9,9.473
+"SE-Aracaju",2020-04-11,"nowcast",4,18,7,12,11,11.354
+"SE-Aracaju",2020-04-12,"nowcast",4,20,7,13,13,13.143
+"SE-Aracaju",2020-04-13,"nowcast",7,24,9,16,15,15.846
+"SE-Aracaju",2020-04-14,"nowcast",7,26,12,19,17,18.043
+"SE-Aracaju",2020-04-15,"nowcast",10,30,15,23,20,20.994
+"SE-Aracaju",2020-04-16,"nowcast",11,34,16,25,24,24.41
+"SE-Aracaju",2020-04-17,"nowcast",14,39,20,30,27,27.972
+"SE-Aracaju",2020-04-18,"nowcast",17,44,23,34,32,32.4
+"SE-Aracaju",2020-04-19,"nowcast",21,50,30,41,38,37.729
+"SE-Aracaju",2020-04-20,"nowcast",27,58,34,46,43,43.328
+"SE-Aracaju",2020-04-21,"nowcast",32,64,41,53,49,49.507
+"SE-Aracaju",2020-04-22,"nowcast",37,71,48,61,56,55.904
+"SE-Aracaju",2020-04-23,"nowcast",43,78,53,67,62,62.518
+"SE-Aracaju",2020-04-24,"nowcast",50,84,60,74,69,69.135
+"SE-Aracaju",2020-04-25,"nowcast",58,93,67,81,75,75.773
+"SE-Aracaju",2020-04-26,"nowcast",63,101,74,88,82,82.908
+"SE-Aracaju",2020-04-27,"nowcast",70,108,79,94,89,89.095
+"SE-Aracaju",2020-04-28,"nowcast",74,113,86,101,95,95.235
+"SE-Aracaju",2020-04-29,"nowcast",81,120,92,108,101,100.662
+"SE-Aracaju",2020-04-30,"nowcast",86,127,97,113,107,107.411
+"SE-Aracaju",2020-05-01,"nowcast",94,135,98,115,112,113.113
+"SE-Aracaju",2020-05-02,"nowcast",99,139,109,124,118,118.619
+"SE-Aracaju",2020-05-03,"nowcast",104,143,111,127,123,123.036
+"SE-Aracaju",2020-05-04,"nowcast",105,143,118,133,126,125.52
+"SE-Aracaju",2020-05-05,"nowcast",104,144,118,134,127,126.994
+"SE-Aracaju",2020-05-06,"nowcast",108,147,121,137,129,128.862
+"SE-Aracaju",2020-05-07,"nowcast",108,149,119,135,130,130.722
+"SE-Aracaju",2020-05-08,"nowcast",113,152,124,140,134,133.703
+"SE-Aracaju",2020-05-09,"nowcast",118,157,126,142,137,137.476
+"SE-Aracaju",2020-05-10,"nowcast",117,156,129,145,139,139.069
+"SE-Aracaju",2020-05-11,"nowcast",121,161,128,144,140,140.379
+"SE-Aracaju",2020-05-12,"nowcast",119,159,129,145,139,139.658
+"SE-Aracaju",2020-05-13,"nowcast",119,159,134,150,140,139.961
+"SE-Aracaju",2020-05-14,"nowcast",121,160,130,145,140,140.206
+"SE-Aracaju",2020-05-15,"nowcast",119,158,127,144,140,140.423
+"SE-Aracaju",2020-05-16,"nowcast",114,157,126,143,138,138.815
+"SE-Aracaju",2020-05-17,"nowcast",115,160,125,143,139,138.891
+"SE-Aracaju",2020-05-18,"nowcast",112,160,130,149,137.5,138.331
+"SE-Aracaju",2020-05-19,"nowcast",112,163,127,146,138,139.361
+"SE-Aracaju",2020-05-20,"nowcast",114,169,132,154,145,144.991
+"SE-Aracaju",2020-05-21,"nowcast",122,180,138,160,152,152.775
+"SE-Aracaju",2020-05-22,"nowcast",126,188,152,176,160,160.923
+"SE-Aracaju",2020-05-23,"nowcast",136,203,151,178,169,171.018
+"SE-Aracaju",2020-05-24,"nowcast",148,216,159,187,179,181.468
+"SE-Aracaju",2020-05-25,"nowcast",158,234,171,204,193,193.9
+"SE-Aracaju",2020-05-26,"nowcast",167,246,182,214,205,206.1
+"SE-Aracaju",2020-05-27,"nowcast",176,262,201,236,220,220.453
+"SE-Aracaju",2020-05-28,"nowcast",188,278,214,250,235.5,235.909
+"SE-Aracaju",2020-05-29,"nowcast",210,301,234,272,253,254.352
+"SE-Aracaju",2020-05-30,"nowcast",225,319,256,295,274,273.528
+"SE-Aracaju",2020-05-31,"nowcast",243,343,274,314,293.5,293.773
+"SE-Aracaju",2020-06-01,"nowcast",268,369,287,327,315,316.412
+"SE-Aracaju",2020-06-02,"nowcast",293,394,322,361,342,340.982
+"SE-Aracaju",2020-06-03,"nowcast",314,411,341,382,368,365.691
+"SE-Aracaju",2020-06-04,"nowcast",341,432,375,411,391,389.982
+"SE-Aracaju",2020-06-05,"nowcast",372,459,389,428,413,413.306
+"SE-Aracaju",2020-06-06,"nowcast",393,474,414,448,436,435.181
+"SE-Aracaju",2020-06-07,"nowcast",404,484,428,460,448.5,449.453
+"SE-Aracaju",2020-06-08,"nowcast",417,498,442,473,458,456.458
+"SE-Aracaju",2020-06-09,"nowcast",411,493,430,464,453,453.078
+"SE-Aracaju",2020-06-10,"nowcast",392,472,416,448,437,437.372
+"SE-Aracaju",2020-06-11,"nowcast",375,448,393,422,411,411.549
+"SE-Aracaju",2020-06-12,"nowcast",342,414,366,395,380,379.963
+"SE-Aracaju",2020-06-13,"nowcast",315,386,334,362,351,351.7
+"SE-Aracaju",2020-06-14,"nowcast",302,378,319,351,337,337.892
+"SE-Aracaju",2020-06-15,"nowcast",295,373,317,349,337,336.306
+"SE-Aracaju",2020-06-16,"nowcast",301,387,332,365,345,345.822
+"SE-Aracaju",2020-06-17,"nowcast",309,396,343,376,360,359.757
+"SE-Aracaju",2020-06-18,"nowcast",333,415,357,392,375,374.595
+"SE-Aracaju",2020-06-19,"nowcast",347,431,374,407,391,390.512
+"SE-Aracaju",2020-06-20,"nowcast",365,441,388,419,407,405.89
+"SE-Aracaju",2020-06-21,"nowcast",381,457,404,435,419,418.944
+"SE-Aracaju",2020-06-22,"nowcast",388,465,410,441,426,425.908
+"SE-Aracaju",2020-06-23,"nowcast",389,458,406,436,425,425.584
+"SE-Aracaju",2020-06-24,"nowcast",388,460,409,437,422,421.188
+"SE-Aracaju",2020-06-25,"nowcast",379,453,402,433,416,415.678
+"SE-Aracaju",2020-06-26,"nowcast",371,451,391,422,412,412.52
+"SE-Aracaju",2020-06-27,"nowcast",374,451,394,427,415,414.771
+"SE-Aracaju",2020-06-28,"nowcast",387,462,407,438,423,422.628
+"SE-Aracaju",2020-06-29,"nowcast",386,462,413,443,429,428.704
+"SE-Aracaju",2020-06-30,"nowcast",394,468,413,443,433,432.556
+"SE-Aracaju",2020-07-01,"nowcast",388,466,412,442,432,432.037
+"SE-Aracaju",2020-07-02,"nowcast",391,470,417,449,433,432.998
+"SE-Aracaju",2020-07-03,"nowcast",396,475,419,450,440,438.669
+"SE-Aracaju",2020-07-04,"nowcast",404,485,430,462,448.5,448.2
+"SE-Aracaju",2020-07-05,"nowcast",419,501,443,476,459,458.382
+"SE-Aracaju",2020-07-06,"nowcast",422,498,450,479,464,463.98
+"SE-Aracaju",2020-07-07,"nowcast",426,498,445,475,464,463.226
+"SE-Aracaju",2020-07-08,"nowcast",416,489,437,467,454,453.987
+"SE-Aracaju",2020-07-09,"nowcast",402,479,425,457,440,440.412
+"SE-Aracaju",2020-07-10,"nowcast",391,463,411,441,429,428.488
+"SE-Aracaju",2020-07-11,"nowcast",389,462,407,435,423.5,424.023
+"SE-Aracaju",2020-07-12,"nowcast",385,460,405,434,424,425.104
+"SE-Aracaju",2020-07-13,"nowcast",390,464,405,436,425,427.333
+"SE-Aracaju",2020-07-14,"nowcast",379,459,398,429,420,420.905
+"SE-Aracaju",2020-07-15,"nowcast",371,447,394,424,409,408.699
+"SE-Aracaju",2020-07-16,"nowcast",351,423,369,398,388,389.372
+"SE-Aracaju",2020-07-17,"nowcast",331,400,351,378,367,367.519
+"SE-Aracaju",2020-07-18,"nowcast",317,382,335,360,348,349.039
+"SE-Aracaju",2020-07-19,"nowcast",308,374,332,358,344,343.017
+"SE-Aracaju",2020-07-20,"nowcast",308,376,327,354,341,341.717
+"SE-Aracaju",2020-07-21,"nowcast",305,379,326,354,341,341.583
+"SE-Aracaju",2020-07-22,"nowcast",295,372,319,349,335.5,336.483
+"SE-Aracaju",2020-07-23,"nowcast",288,366,309,339,324,324.908
+"SE-Aracaju",2020-07-24,"nowcast",265,341,291,322,303.5,303.58
+"SE-Aracaju",2020-07-25,"nowcast",236,313,265,294,278,277.896
+"SE-Aracaju",2020-07-26,"nowcast",220,285,237,264,253,253.451
+"SE-Aracaju",2020-07-27,"nowcast",197,258,215,240,230,230.291
+"SE-Aracaju",2020-07-28,"nowcast",176,234,195,218,209,208.679
+"SE-Aracaju",2020-07-29,"nowcast",161,213,176,196,190,189.983
+"SE-Aracaju",2020-07-30,"nowcast",150,197,164,183,173,173.13
+"SE-Aracaju",2020-07-31,"nowcast",135,178,147,164,158,157.812
+"SE-Aracaju",2020-08-01,"nowcast",126,168,138,155,148,148.265
+"SE-Aracaju",2020-08-02,"nowcast",123,164,132,149,143,143.031
+"SE-Aracaju",2020-08-03,"nowcast",118,159,130,147,139,138.655
+"SE-Aracaju",2020-08-04,"nowcast",112,157,129,146,137,136.487
 "SE-Aracaju",2020-03-14,"observed",NA,NA,NA,NA,1,NA
 "SE-Aracaju",2020-03-15,"observed",NA,NA,NA,NA,0,NA
 "SE-Aracaju",2020-03-16,"observed",NA,NA,NA,NA,4,NA
@@ -570,21 +568,22 @@
 "SE-Aracaju",2020-08-10,"observed",NA,NA,NA,NA,0,NA
 "SE-Aracaju",2020-08-11,"observed",NA,NA,NA,NA,242,NA
 "SE-Aracaju",2020-08-12,"observed",NA,NA,NA,NA,106,NA
-"SE-Aracaju",2020-08-13,"observed",NA,NA,NA,NA,0,NA
-"SE-Aracaju",2020-08-04,"forecast",85,139,101,122,112,112.5316
-"SE-Aracaju",2020-08-05,"forecast",73,130,87,110,103,103.4112
-"SE-Aracaju",2020-08-06,"forecast",62,122,77,101,94,94.916
-"SE-Aracaju",2020-08-07,"forecast",54,116,69,93,86,86.843
-"SE-Aracaju",2020-08-08,"forecast",46,109,60,85,79,79.4672
-"SE-Aracaju",2020-08-09,"forecast",39,102,52,77,71,72.3276
-"SE-Aracaju",2020-08-10,"forecast",34,95,48,72,65,66.2766
-"SE-Aracaju",2020-08-11,"forecast",26,87,45,68,58,60.1922
-"SE-Aracaju",2020-08-12,"forecast",24,82,37,60,53,55.0464
-"SE-Aracaju",2020-08-13,"forecast",19,76,32,54,48,50.155
-"SE-Aracaju",2020-08-14,"forecast",17,72,26,48,43,45.3188
-"SE-Aracaju",2020-08-15,"forecast",12,65,22,43,39,41.4618
-"SE-Aracaju",2020-08-16,"forecast",12,62,22,41,36,37.5412
-"SE-Aracaju",2020-08-17,"forecast",8,57,18,37,32,34.2806
+"SE-Aracaju",2020-08-13,"observed",NA,NA,NA,NA,238,NA
+"SE-Aracaju",2020-08-14,"observed",NA,NA,NA,NA,0,NA
+"SE-Aracaju",2020-08-05,"forecast",90,153,109,134,123,123.4374
+"SE-Aracaju",2020-08-06,"forecast",79,147,94,122,114,115.38
+"SE-Aracaju",2020-08-07,"forecast",73,144,88,116,107,108.6056
+"SE-Aracaju",2020-08-08,"forecast",60,135,76,106,100,101.7372
+"SE-Aracaju",2020-08-09,"forecast",53,130,74,104,93,95.5422
+"SE-Aracaju",2020-08-10,"forecast",48,127,64,95,87,89.7516
+"SE-Aracaju",2020-08-11,"forecast",40,121,58,89,80,83.6698
+"SE-Aracaju",2020-08-12,"forecast",36,117,51,83,75,78.7074
+"SE-Aracaju",2020-08-13,"forecast",33,114,45,77,70,73.4422
+"SE-Aracaju",2020-08-14,"forecast",30,109,38,69,65,69.0312
+"SE-Aracaju",2020-08-15,"forecast",22,100,38,68,60,64.4328
+"SE-Aracaju",2020-08-16,"forecast",21,98,34,63,56,60.1706
+"SE-Aracaju",2020-08-17,"forecast",17,94,32,61,52.5,56.9852
+"SE-Aracaju",2020-08-18,"forecast",13,88,28,56,48,53.0398
 "SE-Areia Branca",2020-03-20,"nowcast",1,1,1,1,1,1
 "SE-Areia Branca",2020-03-21,"nowcast",0,0,0,0,0,0
 "SE-Areia Branca",2020-03-22,"nowcast",0,1,0,1,0.5,0.5
@@ -1306,126 +1305,137 @@
 "SE-Boquim",2020-08-03,"forecast",0,30,0,9,9,14.2808
 "SE-Boquim",2020-08-04,"forecast",0,33,0,9,9,15.2258
 "SE-Boquim",2020-08-05,"forecast",0,35,0,9,9,16.0308
-"SE-Campo do Brito",2020-03-25,"nowcast",1,1,1,1,1,1
-"SE-Campo do Brito",2020-03-26,"nowcast",0,0,0,0,0,0
-"SE-Campo do Brito",2020-03-27,"nowcast",0,0,0,0,0,0
-"SE-Campo do Brito",2020-03-28,"nowcast",0,1,0,1,0.5,0.5
+"SE-Campo do Brito",2020-03-26,"nowcast",1,1,1,1,1,1
+"SE-Campo do Brito",2020-03-27,"nowcast",0,1,0,1,0.5,0.5
+"SE-Campo do Brito",2020-03-28,"nowcast",0,0,0,0,0,0
 "SE-Campo do Brito",2020-03-29,"nowcast",0,0,0,0,0,0
-"SE-Campo do Brito",2020-03-30,"nowcast",0,0,0,0,0,0
+"SE-Campo do Brito",2020-03-30,"nowcast",0,1,0,1,0.5,0.5
 "SE-Campo do Brito",2020-03-31,"nowcast",0,1,1,1,1,0.666666666666667
-"SE-Campo do Brito",2020-04-01,"nowcast",0,0,0,0,0,0
-"SE-Campo do Brito",2020-04-02,"nowcast",0,1,1,1,1,0.571428571428571
-"SE-Campo do Brito",2020-04-03,"nowcast",0,1,1,1,1,0.555555555555556
-"SE-Campo do Brito",2020-04-04,"nowcast",0,1,0,0,0,0.416666666666667
-"SE-Campo do Brito",2020-04-05,"nowcast",0,0,0,0,0,0
-"SE-Campo do Brito",2020-04-06,"nowcast",0,1,0,0,0,0.142857142857143
-"SE-Campo do Brito",2020-04-07,"nowcast",0,1,0,0,0,0.1875
-"SE-Campo do Brito",2020-04-08,"nowcast",0,1,0,0,0,0.272727272727273
-"SE-Campo do Brito",2020-04-09,"nowcast",0,1,0,0,0,0.354838709677419
-"SE-Campo do Brito",2020-04-10,"nowcast",0,1,0,0,0,0.2
-"SE-Campo do Brito",2020-04-11,"nowcast",0,1,0,0,0,0.291666666666667
-"SE-Campo do Brito",2020-04-12,"nowcast",0,1,0,0,0,0.3
-"SE-Campo do Brito",2020-04-13,"nowcast",0,1,0,0,0,0.379746835443038
-"SE-Campo do Brito",2020-04-14,"nowcast",0,1,0,0,0,0.299065420560748
-"SE-Campo do Brito",2020-04-15,"nowcast",0,1,0,0,0,0.276923076923077
-"SE-Campo do Brito",2020-04-16,"nowcast",0,1,0,0,0,0.304878048780488
-"SE-Campo do Brito",2020-04-17,"nowcast",0,1,0,0,0,0.338095238095238
-"SE-Campo do Brito",2020-04-18,"nowcast",0,1,0,0,0,0.207171314741036
-"SE-Campo do Brito",2020-04-19,"nowcast",0,1,0,0,0,0.237113402061856
-"SE-Campo do Brito",2020-04-20,"nowcast",0,1,0,0,0,0.305322128851541
-"SE-Campo do Brito",2020-04-21,"nowcast",0,1,0,0,0,0.23019801980198
-"SE-Campo do Brito",2020-04-22,"nowcast",0,1,0,0,0,0.224400871459695
-"SE-Campo do Brito",2020-04-23,"nowcast",0,1,0,0,0,0.271676300578035
-"SE-Campo do Brito",2020-04-24,"nowcast",0,1,0,0,0,0.241622574955908
-"SE-Campo do Brito",2020-04-25,"nowcast",0,1,0,0,0,0.271875
-"SE-Campo do Brito",2020-04-26,"nowcast",0,1,0,0,0,0.270773638968481
-"SE-Campo do Brito",2020-04-27,"nowcast",0,1,0,0,0,0.269541778975741
-"SE-Campo do Brito",2020-04-28,"nowcast",0,1,0,0,0,0.276785714285714
-"SE-Campo do Brito",2020-04-29,"nowcast",0,1,0,0,0,0.279376498800959
-"SE-Campo do Brito",2020-04-30,"nowcast",0,1,0,0,0,0.293302540415704
-"SE-Campo do Brito",2020-05-01,"nowcast",0,1,0,0,0,0.356589147286822
-"SE-Campo do Brito",2020-05-02,"nowcast",0,1,0,0,0,0.338378378378378
-"SE-Campo do Brito",2020-05-03,"nowcast",0,1,0,0,0,0.410337552742616
-"SE-Campo do Brito",2020-05-04,"nowcast",0,1,0,0,0,0.425334706488157
-"SE-Campo do Brito",2020-05-05,"nowcast",0,1,0,0,0,0.431632653061225
-"SE-Campo do Brito",2020-05-06,"nowcast",0,1,0,0,0,0.426545086119554
-"SE-Campo do Brito",2020-05-07,"nowcast",0,1,0,0,0,0.452620967741935
-"SE-Campo do Brito",2020-05-08,"nowcast",0,1,0,0,0,0.434038267875126
-"SE-Campo do Brito",2020-05-09,"nowcast",0,1,0,0,0,0.393969849246231
-"SE-Campo do Brito",2020-05-10,"nowcast",0,1,0,0,0,0.366098294884654
-"SE-Campo do Brito",2020-05-11,"nowcast",0,1,0,0,0,0.291583166332665
-"SE-Campo do Brito",2020-05-12,"nowcast",0,1,0,0,0,0.337675350701403
-"SE-Campo do Brito",2020-05-13,"nowcast",0,1,0,0,0,0.312625250501002
-"SE-Campo do Brito",2020-05-14,"nowcast",0,1,0,0,0,0.350701402805611
-"SE-Campo do Brito",2020-05-15,"nowcast",0,1,0,0,0,0.356713426853707
-"SE-Campo do Brito",2020-05-16,"nowcast",0,1,0,0,0,0.361361361361361
-"SE-Campo do Brito",2020-05-17,"nowcast",0,1,0,0,0,0.322
-"SE-Campo do Brito",2020-05-18,"nowcast",0,1,0,0,0,0.346
-"SE-Campo do Brito",2020-05-19,"nowcast",0,1,0,0,0,0.383
-"SE-Campo do Brito",2020-05-20,"nowcast",0,1,0,0,0,0.412
-"SE-Campo do Brito",2020-05-21,"nowcast",0,1,0,0,0,0.378
-"SE-Campo do Brito",2020-05-22,"nowcast",0,1,0,0,0,0.481
-"SE-Campo do Brito",2020-05-23,"nowcast",0,1,0,0,0,0.491
-"SE-Campo do Brito",2020-05-24,"nowcast",0,2,0,0,0,0.596
-"SE-Campo do Brito",2020-05-25,"nowcast",0,2,0,0,0,0.638
-"SE-Campo do Brito",2020-05-26,"nowcast",0,2,0,1,1,0.716
-"SE-Campo do Brito",2020-05-27,"nowcast",0,2,0,1,1,0.724
-"SE-Campo do Brito",2020-05-28,"nowcast",0,2,0,1,1,0.822
-"SE-Campo do Brito",2020-05-29,"nowcast",0,2,0,1,1,0.854
-"SE-Campo do Brito",2020-05-30,"nowcast",0,2,0,1,1,0.912
+"SE-Campo do Brito",2020-04-01,"nowcast",0,1,0,0,0,0.333333333333333
+"SE-Campo do Brito",2020-04-02,"nowcast",0,1,0,0,0,0.25
+"SE-Campo do Brito",2020-04-03,"nowcast",0,1,0,0,0,0.2
+"SE-Campo do Brito",2020-04-04,"nowcast",0,1,0,0,0,0.375
+"SE-Campo do Brito",2020-04-05,"nowcast",0,1,0,0,0,0.111111111111111
+"SE-Campo do Brito",2020-04-06,"nowcast",0,1,0,0,0,0.461538461538462
+"SE-Campo do Brito",2020-04-07,"nowcast",0,1,0,0,0,0.352941176470588
+"SE-Campo do Brito",2020-04-08,"nowcast",0,1,0,0,0,0.2
+"SE-Campo do Brito",2020-04-09,"nowcast",0,1,0,0,0,0.285714285714286
+"SE-Campo do Brito",2020-04-10,"nowcast",0,1,0,0,0,0.176470588235294
+"SE-Campo do Brito",2020-04-11,"nowcast",0,1,0,0,0,0.272727272727273
+"SE-Campo do Brito",2020-04-12,"nowcast",0,1,0,0,0,0.240740740740741
+"SE-Campo do Brito",2020-04-13,"nowcast",0,1,0,0,0,0.285714285714286
+"SE-Campo do Brito",2020-04-14,"nowcast",0,1,0,0,0,0.322916666666667
+"SE-Campo do Brito",2020-04-15,"nowcast",0,1,0,0,0,0.285714285714286
+"SE-Campo do Brito",2020-04-16,"nowcast",0,1,0,0,0,0.253424657534247
+"SE-Campo do Brito",2020-04-17,"nowcast",0,1,0,0,0,0.289617486338798
+"SE-Campo do Brito",2020-04-18,"nowcast",0,1,0,0,0,0.294117647058824
+"SE-Campo do Brito",2020-04-19,"nowcast",0,1,0,0,0,0.284671532846715
+"SE-Campo do Brito",2020-04-20,"nowcast",0,1,0,0,0,0.26791277258567
+"SE-Campo do Brito",2020-04-21,"nowcast",0,1,0,0,0,0.253369272237197
+"SE-Campo do Brito",2020-04-22,"nowcast",0,1,0,0,0,0.286343612334802
+"SE-Campo do Brito",2020-04-23,"nowcast",0,1,0,0,0,0.263565891472868
+"SE-Campo do Brito",2020-04-24,"nowcast",0,1,0,0,0,0.287375415282392
+"SE-Campo do Brito",2020-04-25,"nowcast",0,1,0,0,0,0.250759878419453
+"SE-Campo do Brito",2020-04-26,"nowcast",0,1,0,0,0,0.292817679558011
+"SE-Campo do Brito",2020-04-27,"nowcast",0,1,0,0,0,0.266922094508301
+"SE-Campo do Brito",2020-04-28,"nowcast",0,1,0,0,0,0.269879518072289
+"SE-Campo do Brito",2020-04-29,"nowcast",0,1,0,0,0,0.278935185185185
+"SE-Campo do Brito",2020-04-30,"nowcast",0,1,0,0,0,0.274266365688488
+"SE-Campo do Brito",2020-05-01,"nowcast",0,1,0,0,0,0.314631463146315
+"SE-Campo do Brito",2020-05-02,"nowcast",0,1,0,0,0,0.33692142088267
+"SE-Campo do Brito",2020-05-03,"nowcast",0,1,0,0,0,0.345225603357817
+"SE-Campo do Brito",2020-05-04,"nowcast",0,1,0,0,0,0.419917864476386
+"SE-Campo do Brito",2020-05-05,"nowcast",0,1,0,0,0,0.431771894093686
+"SE-Campo do Brito",2020-05-06,"nowcast",0,1,0,0,0,0.449290060851927
+"SE-Campo do Brito",2020-05-07,"nowcast",0,1,0,0,0,0.470824949698189
+"SE-Campo do Brito",2020-05-08,"nowcast",0,1,0,0,0,0.449246231155779
+"SE-Campo do Brito",2020-05-09,"nowcast",0,1,0,0,0,0.423847695390782
+"SE-Campo do Brito",2020-05-10,"nowcast",0,1,0,0,0,0.321321321321321
+"SE-Campo do Brito",2020-05-11,"nowcast",0,1,0,0,0,0.299299299299299
+"SE-Campo do Brito",2020-05-12,"nowcast",0,1,0,0,0,0.269269269269269
+"SE-Campo do Brito",2020-05-13,"nowcast",0,1,0,0,0,0.303303303303303
+"SE-Campo do Brito",2020-05-14,"nowcast",0,1,0,0,0,0.322322322322322
+"SE-Campo do Brito",2020-05-15,"nowcast",0,1,0,0,0,0.354354354354354
+"SE-Campo do Brito",2020-05-16,"nowcast",0,1,0,0,0,0.386386386386386
+"SE-Campo do Brito",2020-05-17,"nowcast",0,1,0,0,0,0.329329329329329
+"SE-Campo do Brito",2020-05-18,"nowcast",0,1,0,0,0,0.384384384384384
+"SE-Campo do Brito",2020-05-19,"nowcast",0,1,0,0,0,0.332332332332332
+"SE-Campo do Brito",2020-05-20,"nowcast",0,1,0,0,0,0.389
+"SE-Campo do Brito",2020-05-21,"nowcast",0,1,0,0,0,0.442
+"SE-Campo do Brito",2020-05-22,"nowcast",0,1,0,0,0,0.473
+"SE-Campo do Brito",2020-05-23,"nowcast",0,2,0,0,0,0.537
+"SE-Campo do Brito",2020-05-24,"nowcast",0,2,0,0,0,0.576
+"SE-Campo do Brito",2020-05-25,"nowcast",0,2,0,0,0,0.667
+"SE-Campo do Brito",2020-05-26,"nowcast",0,2,0,1,1,0.738
+"SE-Campo do Brito",2020-05-27,"nowcast",0,2,0,1,1,0.751
+"SE-Campo do Brito",2020-05-28,"nowcast",0,2,0,1,1,0.829
+"SE-Campo do Brito",2020-05-29,"nowcast",0,2,0,1,1,0.92
+"SE-Campo do Brito",2020-05-30,"nowcast",0,2,0,1,1,0.949
 "SE-Campo do Brito",2020-05-31,"nowcast",0,2,0,1,1,0.971
-"SE-Campo do Brito",2020-06-01,"nowcast",0,2,0,1,1,1.037
-"SE-Campo do Brito",2020-06-02,"nowcast",0,2,0,1,1,1.101
-"SE-Campo do Brito",2020-06-03,"nowcast",0,3,0,1,1,1.125
-"SE-Campo do Brito",2020-06-04,"nowcast",0,3,0,1,1,1.194
-"SE-Campo do Brito",2020-06-05,"nowcast",0,3,0,1,1,1.305
-"SE-Campo do Brito",2020-06-06,"nowcast",0,3,0,1,1,1.393
-"SE-Campo do Brito",2020-06-07,"nowcast",0,3,0,1,1,1.409
-"SE-Campo do Brito",2020-06-08,"nowcast",0,3,0,1,1,1.447
-"SE-Campo do Brito",2020-06-09,"nowcast",0,3,0,1,1,1.502
-"SE-Campo do Brito",2020-06-10,"nowcast",0,3,0,1,1,1.524
-"SE-Campo do Brito",2020-06-11,"nowcast",0,3,0,1,1,1.617
-"SE-Campo do Brito",2020-06-12,"nowcast",0,3,0,1,1,1.629
-"SE-Campo do Brito",2020-06-13,"nowcast",0,4,1,2,2,1.72
-"SE-Campo do Brito",2020-06-14,"nowcast",0,4,1,2,2,1.849
-"SE-Campo do Brito",2020-06-15,"nowcast",0,4,1,2,2,2.022
-"SE-Campo do Brito",2020-06-16,"nowcast",0,4,1,2,2,2.146
-"SE-Campo do Brito",2020-06-17,"nowcast",0,4,0,2,2,2.419
-"SE-Campo do Brito",2020-06-18,"nowcast",0,5,0,2,2,2.621
-"SE-Campo do Brito",2020-06-19,"nowcast",0,5,1,3,3,2.834
-"SE-Campo do Brito",2020-06-20,"nowcast",0,5,1,3,3,3.043
-"SE-Campo do Brito",2020-06-21,"nowcast",1,6,1,3,3,3.286
-"SE-Campo do Brito",2020-06-22,"nowcast",1,6,1,3,3,3.582
-"SE-Campo do Brito",2020-06-23,"nowcast",1,7,2,4,4,3.86
-"SE-Campo do Brito",2020-06-24,"nowcast",1,7,2,4,4,4.28
-"SE-Campo do Brito",2020-06-25,"nowcast",0,7,3,5,4,4.588
-"SE-Campo do Brito",2020-06-26,"nowcast",2,8,3,5,5,4.935
-"SE-Campo do Brito",2020-06-27,"nowcast",2,9,3,6,5,5.544
-"SE-Campo do Brito",2020-06-28,"nowcast",1,9,3,6,6,6.059
-"SE-Campo do Brito",2020-06-29,"nowcast",2,10,4,7,7,6.59
-"SE-Campo do Brito",2020-06-30,"nowcast",3,11,5,8,7,7.249
-"SE-Campo do Brito",2020-07-01,"nowcast",4,12,5,8,8,7.866
-"SE-Campo do Brito",2020-07-02,"nowcast",3,12,6,9,8,8.156
-"SE-Campo do Brito",2020-07-03,"nowcast",4,13,5,9,9,8.861
-"SE-Campo do Brito",2020-07-04,"nowcast",4,13,7,10,9,8.807
-"SE-Campo do Brito",2020-07-05,"nowcast",4,13,5,9,9,8.915
-"SE-Campo do Brito",2020-07-06,"nowcast",4,13,6,9,8,8.44
-"SE-Campo do Brito",2020-07-07,"nowcast",3,12,6,9,8,8.208
-"SE-Campo do Brito",2020-07-08,"nowcast",4,12,4,8,8,8.083
-"SE-Campo do Brito",2020-07-09,"nowcast",3,12,6,9,8,7.987
-"SE-Campo do Brito",2020-07-10,"nowcast",4,13,7,10,8,8.405
-"SE-Campo do Brito",2020-07-11,"nowcast",4,13,5,9,9,8.826
-"SE-Campo do Brito",2020-07-12,"nowcast",4,14,6,10,9,9.411
-"SE-Campo do Brito",2020-07-13,"nowcast",5,15,7,11,10,10.363
-"SE-Campo do Brito",2020-07-14,"nowcast",6,17,9,13,11,11.697
-"SE-Campo do Brito",2020-07-15,"nowcast",6,18,8,13,13,13.027
-"SE-Campo do Brito",2020-07-16,"nowcast",8,20,9,14,14,14.23
-"SE-Campo do Brito",2020-07-17,"nowcast",9,22,12,17,16,15.871
-"SE-Campo do Brito",2020-07-18,"nowcast",10,23,11,17,17,17.133
-"SE-Campo do Brito",2020-07-19,"nowcast",10,24,13,19,18,18.109
-"SE-Campo do Brito",2020-07-20,"nowcast",11,26,14,20,19,18.879
-"SE-Campo do Brito",2020-07-21,"nowcast",11,26,14,20,19,19.266
-"SE-Campo do Brito",2020-07-22,"nowcast",11,27,15,21,19,19.402
+"SE-Campo do Brito",2020-06-01,"nowcast",0,2,0,1,1,1.005
+"SE-Campo do Brito",2020-06-02,"nowcast",0,2,0,1,1,1.063
+"SE-Campo do Brito",2020-06-03,"nowcast",0,2,0,1,1,1.158
+"SE-Campo do Brito",2020-06-04,"nowcast",0,3,0,1,1,1.186
+"SE-Campo do Brito",2020-06-05,"nowcast",0,3,0,1,1,1.272
+"SE-Campo do Brito",2020-06-06,"nowcast",0,3,0,1,1,1.305
+"SE-Campo do Brito",2020-06-07,"nowcast",0,3,0,1,1,1.448
+"SE-Campo do Brito",2020-06-08,"nowcast",0,3,0,1,1,1.543
+"SE-Campo do Brito",2020-06-09,"nowcast",0,3,0,1,1,1.527
+"SE-Campo do Brito",2020-06-10,"nowcast",0,3,0,1,1,1.563
+"SE-Campo do Brito",2020-06-11,"nowcast",0,3,0,1,1,1.643
+"SE-Campo do Brito",2020-06-12,"nowcast",0,3,0,1,1,1.595
+"SE-Campo do Brito",2020-06-13,"nowcast",0,4,1,2,2,1.808
+"SE-Campo do Brito",2020-06-14,"nowcast",0,4,1,2,2,1.868
+"SE-Campo do Brito",2020-06-15,"nowcast",0,4,1,2,2,2.009
+"SE-Campo do Brito",2020-06-16,"nowcast",0,4,0,2,2,2.202
+"SE-Campo do Brito",2020-06-17,"nowcast",0,4,1,2,2,2.355
+"SE-Campo do Brito",2020-06-18,"nowcast",0,5,0,2,2,2.612
+"SE-Campo do Brito",2020-06-19,"nowcast",0,5,1,3,3,2.806
+"SE-Campo do Brito",2020-06-20,"nowcast",0,5,1,3,3,3.061
+"SE-Campo do Brito",2020-06-21,"nowcast",1,6,1,3,3,3.349
+"SE-Campo do Brito",2020-06-22,"nowcast",1,6,1,3,3,3.41
+"SE-Campo do Brito",2020-06-23,"nowcast",1,7,2,4,4,3.836
+"SE-Campo do Brito",2020-06-24,"nowcast",1,7,2,4,4,4.229
+"SE-Campo do Brito",2020-06-25,"nowcast",0,7,3,5,4,4.515
+"SE-Campo do Brito",2020-06-26,"nowcast",1,8,2,5,5,5.174
+"SE-Campo do Brito",2020-06-27,"nowcast",1,8,3,6,5,5.526
+"SE-Campo do Brito",2020-06-28,"nowcast",3,10,3,6,6,6.155
+"SE-Campo do Brito",2020-06-29,"nowcast",2,10,4,7,7,6.704
+"SE-Campo do Brito",2020-06-30,"nowcast",3,11,5,8,7,7.126
+"SE-Campo do Brito",2020-07-01,"nowcast",3,12,5,8,8,7.783
+"SE-Campo do Brito",2020-07-02,"nowcast",3,12,6,9,8,8.176
+"SE-Campo do Brito",2020-07-03,"nowcast",3,12,6,9,8,8.609
+"SE-Campo do Brito",2020-07-04,"nowcast",4,13,7,10,9,8.825
+"SE-Campo do Brito",2020-07-05,"nowcast",4,13,7,10,9,8.691
+"SE-Campo do Brito",2020-07-06,"nowcast",3,12,6,9,8,8.371
+"SE-Campo do Brito",2020-07-07,"nowcast",3,12,5,8,8,8.116
+"SE-Campo do Brito",2020-07-08,"nowcast",4,12,6,9,8,7.91
+"SE-Campo do Brito",2020-07-09,"nowcast",3,12,5,8,8,7.89
+"SE-Campo do Brito",2020-07-10,"nowcast",3,12,6,9,8,8.174
+"SE-Campo do Brito",2020-07-11,"nowcast",4,13,6,9,8,8.646
+"SE-Campo do Brito",2020-07-12,"nowcast",5,14,5,9,9,9.276
+"SE-Campo do Brito",2020-07-13,"nowcast",4,14,6,10,10,9.869
+"SE-Campo do Brito",2020-07-14,"nowcast",4,15,7,11,11,10.823
+"SE-Campo do Brito",2020-07-15,"nowcast",7,17,9,13,12,11.943
+"SE-Campo do Brito",2020-07-16,"nowcast",6,18,11,15,13,13.251
+"SE-Campo do Brito",2020-07-17,"nowcast",7,19,12,16,14,14.139
+"SE-Campo do Brito",2020-07-18,"nowcast",8,20,11,16,15,14.807
+"SE-Campo do Brito",2020-07-19,"nowcast",10,21,11,16,15,14.961
+"SE-Campo do Brito",2020-07-20,"nowcast",8,20,12,16,15,14.995
+"SE-Campo do Brito",2020-07-21,"nowcast",8,20,13,17,15,14.743
+"SE-Campo do Brito",2020-07-22,"nowcast",7,19,11,15,14,13.913
+"SE-Campo do Brito",2020-07-23,"nowcast",7,18,10,14,13,12.995
+"SE-Campo do Brito",2020-07-24,"nowcast",7,17,9,13,12,12.101
+"SE-Campo do Brito",2020-07-25,"nowcast",6,16,9,13,11,11.342
+"SE-Campo do Brito",2020-07-26,"nowcast",6,16,7,11,11,10.96
+"SE-Campo do Brito",2020-07-27,"nowcast",5,15,7,11,11,10.803
+"SE-Campo do Brito",2020-07-28,"nowcast",5,16,7,11,11,11.058
+"SE-Campo do Brito",2020-07-29,"nowcast",5,16,8,12,11,11.304
+"SE-Campo do Brito",2020-07-30,"nowcast",6,17,9,13,12,11.884
+"SE-Campo do Brito",2020-07-31,"nowcast",7,18,10,14,12,12.452
+"SE-Campo do Brito",2020-08-01,"nowcast",7,19,11,15,13,13.306
+"SE-Campo do Brito",2020-08-02,"nowcast",7,20,9,14,14,14.052
+"SE-Campo do Brito",2020-08-03,"nowcast",7,21,11,16,14,14.584
 "SE-Campo do Brito",2020-05-02,"observed",NA,NA,NA,NA,1,NA
 "SE-Campo do Brito",2020-05-03,"observed",NA,NA,NA,NA,0,NA
 "SE-Campo do Brito",2020-05-04,"observed",NA,NA,NA,NA,0,NA
@@ -1518,21 +1528,33 @@
 "SE-Campo do Brito",2020-07-30,"observed",NA,NA,NA,NA,18,NA
 "SE-Campo do Brito",2020-07-31,"observed",NA,NA,NA,NA,0,NA
 "SE-Campo do Brito",2020-08-01,"observed",NA,NA,NA,NA,24,NA
-"SE-Campo do Brito",2020-08-02,"observed",NA,NA,NA,NA,0,NA
-"SE-Campo do Brito",2020-07-23,"forecast",7,34,14,24,21,22.1236
-"SE-Campo do Brito",2020-07-24,"forecast",6,38,13,25,22,23.545
-"SE-Campo do Brito",2020-07-25,"forecast",5,41,12,26,24,25.0924
-"SE-Campo do Brito",2020-07-26,"forecast",3,46,12,28,25,27.0788
-"SE-Campo do Brito",2020-07-27,"forecast",3,51,11,29,26,29.133
-"SE-Campo do Brito",2020-07-28,"forecast",4,59,12,32,28,31.3152
-"SE-Campo do Brito",2020-07-29,"forecast",0,61,14,36,30,33.9648
-"SE-Campo do Brito",2020-07-30,"forecast",0,66,12,36,31,36.334
-"SE-Campo do Brito",2020-07-31,"forecast",0,75,10,37,33,39.3674
-"SE-Campo do Brito",2020-08-01,"forecast",0,82,7,37,34,42.3118
-"SE-Campo do Brito",2020-08-02,"forecast",0,90,9,42,36,46.4902
-"SE-Campo do Brito",2020-08-03,"forecast",0,100,11,46,38,49.8862
-"SE-Campo do Brito",2020-08-04,"forecast",0,112,6,45,41,54.4684
-"SE-Campo do Brito",2020-08-05,"forecast",0,124,0,41,41,59.113
+"SE-Campo do Brito",2020-08-02,"observed",NA,NA,NA,NA,4,NA
+"SE-Campo do Brito",2020-08-03,"observed",NA,NA,NA,NA,1,NA
+"SE-Campo do Brito",2020-08-04,"observed",NA,NA,NA,NA,0,NA
+"SE-Campo do Brito",2020-08-05,"observed",NA,NA,NA,NA,19,NA
+"SE-Campo do Brito",2020-08-06,"observed",NA,NA,NA,NA,1,NA
+"SE-Campo do Brito",2020-08-07,"observed",NA,NA,NA,NA,31,NA
+"SE-Campo do Brito",2020-08-08,"observed",NA,NA,NA,NA,21,NA
+"SE-Campo do Brito",2020-08-09,"observed",NA,NA,NA,NA,1,NA
+"SE-Campo do Brito",2020-08-10,"observed",NA,NA,NA,NA,0,NA
+"SE-Campo do Brito",2020-08-11,"observed",NA,NA,NA,NA,13,NA
+"SE-Campo do Brito",2020-08-12,"observed",NA,NA,NA,NA,0,NA
+"SE-Campo do Brito",2020-08-13,"observed",NA,NA,NA,NA,37,NA
+"SE-Campo do Brito",2020-08-14,"observed",NA,NA,NA,NA,0,NA
+"SE-Campo do Brito",2020-08-04,"forecast",5,25,7,15,14,14.9212
+"SE-Campo do Brito",2020-08-05,"forecast",3,26,6,15,14,15.5558
+"SE-Campo do Brito",2020-08-06,"forecast",3,29,6,16,15,16.2104
+"SE-Campo do Brito",2020-08-07,"forecast",2,31,5,16,15,17.0044
+"SE-Campo do Brito",2020-08-08,"forecast",0,32,4,16,15,17.5334
+"SE-Campo do Brito",2020-08-09,"forecast",0,35,5,17,15,18.2718
+"SE-Campo do Brito",2020-08-10,"forecast",0,38,4,17,15,19.4136
+"SE-Campo do Brito",2020-08-11,"forecast",0,40,3,17,15,20.0162
+"SE-Campo do Brito",2020-08-12,"forecast",0,43,4,18,16,21.1472
+"SE-Campo do Brito",2020-08-13,"forecast",0,47,0,15,15,22.5946
+"SE-Campo do Brito",2020-08-14,"forecast",0,49,0,15,15,23.2518
+"SE-Campo do Brito",2020-08-15,"forecast",0,54,0,16,16,25.6282
+"SE-Campo do Brito",2020-08-16,"forecast",0,54,0,16,16,26.3778
+"SE-Campo do Brito",2020-08-17,"forecast",0,58,0,16,16,28.2828
 "SE-Capela",2020-02-24,"nowcast",1,1,1,1,1,1
 "SE-Capela",2020-02-25,"nowcast",1,1,1,1,1,1
 "SE-Capela",2020-02-26,"nowcast",1,1,1,1,1,1
@@ -2298,152 +2320,161 @@
 "SE-Cedro de São João",2020-08-03,"forecast",0,51,0,17,17,24.2988
 "SE-Cedro de São João",2020-08-04,"forecast",0,54,0,17,17,25.6308
 "SE-Cedro de São João",2020-08-05,"forecast",0,59,0,17,17,26.9412
-"SE-Estância",2020-03-10,"nowcast",1,1,1,1,1,1
-"SE-Estância",2020-03-11,"nowcast",0,0,0,0,0,0
-"SE-Estância",2020-03-12,"nowcast",0,1,0,1,0.5,0.5
-"SE-Estância",2020-03-13,"nowcast",0,1,0,0,0,0.333333333333333
-"SE-Estância",2020-03-14,"nowcast",0,1,0,0,0,0.25
-"SE-Estância",2020-03-15,"nowcast",0,1,1,1,1,0.666666666666667
-"SE-Estância",2020-03-16,"nowcast",0,1,0,0,0,0.307692307692308
-"SE-Estância",2020-03-17,"nowcast",0,1,0,0,0,0.368421052631579
-"SE-Estância",2020-03-18,"nowcast",0,1,0,0,0,0.321428571428571
-"SE-Estância",2020-03-19,"nowcast",0,1,0,0,0,0.384615384615385
-"SE-Estância",2020-03-20,"nowcast",0,1,0,0,0,0.327272727272727
-"SE-Estância",2020-03-21,"nowcast",0,1,0,0,0,0.382716049382716
-"SE-Estância",2020-03-22,"nowcast",0,1,0,0,0,0.27
-"SE-Estância",2020-03-23,"nowcast",0,1,0,0,0,0.234782608695652
-"SE-Estância",2020-03-24,"nowcast",0,1,0,0,0,0.294964028776978
-"SE-Estância",2020-03-25,"nowcast",0,1,0,0,0,0.285714285714286
-"SE-Estância",2020-03-26,"nowcast",0,1,0,0,0,0.34841628959276
-"SE-Estância",2020-03-27,"nowcast",0,1,0,0,0,0.305454545454545
-"SE-Estância",2020-03-28,"nowcast",0,1,0,0,0,0.329305135951662
-"SE-Estância",2020-03-29,"nowcast",0,1,0,0,0,0.369620253164557
-"SE-Estância",2020-03-30,"nowcast",0,1,0,0,0,0.325327510917031
-"SE-Estância",2020-03-31,"nowcast",0,1,0,0,0,0.384761904761905
-"SE-Estância",2020-04-01,"nowcast",0,1,0,0,0,0.410385259631491
-"SE-Estância",2020-04-02,"nowcast",0,1,0,0,0,0.439349112426036
-"SE-Estância",2020-04-03,"nowcast",0,1,0,0,0,0.501333333333333
-"SE-Estância",2020-04-04,"nowcast",0,2,0,0,0,0.593865030674847
-"SE-Estância",2020-04-05,"nowcast",0,2,0,0,0,0.614678899082569
-"SE-Estância",2020-04-06,"nowcast",0,2,0,1,1,0.766486486486487
-"SE-Estância",2020-04-07,"nowcast",0,2,0,1,1,0.848390446521288
-"SE-Estância",2020-04-08,"nowcast",0,2,0,1,1,0.965412004069176
-"SE-Estância",2020-04-09,"nowcast",0,2,0,1,1,1.12236710130391
-"SE-Estância",2020-04-10,"nowcast",0,3,0,1,1,1.421
-"SE-Estância",2020-04-11,"nowcast",0,3,0,1,1,1.544
-"SE-Estância",2020-04-12,"nowcast",0,3,1,2,2,1.711
-"SE-Estância",2020-04-13,"nowcast",0,4,1,2,2,1.828
-"SE-Estância",2020-04-14,"nowcast",0,4,1,2,2,2.008
-"SE-Estância",2020-04-15,"nowcast",0,4,1,2,2,2.079
-"SE-Estância",2020-04-16,"nowcast",0,4,1,2,2,2.132
-"SE-Estância",2020-04-17,"nowcast",0,4,1,2,2,2.168
-"SE-Estância",2020-04-18,"nowcast",0,4,1,2,2,2.157
-"SE-Estância",2020-04-19,"nowcast",0,4,0,2,2,2.355
-"SE-Estância",2020-04-20,"nowcast",0,4,0,2,2,2.474
-"SE-Estância",2020-04-21,"nowcast",0,5,1,3,3,2.739
-"SE-Estância",2020-04-22,"nowcast",0,5,1,3,3,2.953
-"SE-Estância",2020-04-23,"nowcast",0,5,1,3,3,3.086
-"SE-Estância",2020-04-24,"nowcast",1,6,1,3,3,3.319
-"SE-Estância",2020-04-25,"nowcast",1,6,1,3,3,3.428
-"SE-Estância",2020-04-26,"nowcast",1,6,1,3,3,3.437
-"SE-Estância",2020-04-27,"nowcast",1,6,1,3,3,3.391
-"SE-Estância",2020-04-28,"nowcast",1,6,1,3,3,3.451
-"SE-Estância",2020-04-29,"nowcast",1,6,2,4,4,3.675
-"SE-Estância",2020-04-30,"nowcast",0,6,2,4,4,3.679
-"SE-Estância",2020-05-01,"nowcast",0,6,2,4,4,3.883
-"SE-Estância",2020-05-02,"nowcast",0,6,2,4,4,3.948
-"SE-Estância",2020-05-03,"nowcast",1,7,2,4,4,4.137
-"SE-Estância",2020-05-04,"nowcast",1,7,2,4,4,4.199
-"SE-Estância",2020-05-05,"nowcast",1,7,3,5,4,4.21
-"SE-Estância",2020-05-06,"nowcast",1,7,3,5,4,4.316
-"SE-Estância",2020-05-07,"nowcast",1,7,3,5,4,4.316
-"SE-Estância",2020-05-08,"nowcast",1,7,3,5,4,4.371
-"SE-Estância",2020-05-09,"nowcast",1,7,3,5,4,4.406
-"SE-Estância",2020-05-10,"nowcast",1,7,3,5,4,4.526
-"SE-Estância",2020-05-11,"nowcast",0,7,3,5,4,4.58
-"SE-Estância",2020-05-12,"nowcast",2,8,3,5,5,4.81
-"SE-Estância",2020-05-13,"nowcast",1,8,4,6,5,5.071
-"SE-Estância",2020-05-14,"nowcast",1,8,2,5,5,5.322
-"SE-Estância",2020-05-15,"nowcast",2,9,3,6,6,5.833
-"SE-Estância",2020-05-16,"nowcast",2,9,3,6,6,6.195
-"SE-Estância",2020-05-17,"nowcast",2,10,4,7,6,6.609
-"SE-Estância",2020-05-18,"nowcast",2,10,4,7,7,6.975
-"SE-Estância",2020-05-19,"nowcast",4,12,5,8,7,7.631
-"SE-Estância",2020-05-20,"nowcast",2,11,5,8,7,7.596
-"SE-Estância",2020-05-21,"nowcast",4,12,5,8,8,7.969
-"SE-Estância",2020-05-22,"nowcast",3,12,6,9,8,8.096
-"SE-Estância",2020-05-23,"nowcast",4,13,6,9,8,8.469
-"SE-Estância",2020-05-24,"nowcast",3,12,7,10,8,8.474
-"SE-Estância",2020-05-25,"nowcast",4,13,6,9,8,8.645
-"SE-Estância",2020-05-26,"nowcast",3,13,5,9,9,8.981
-"SE-Estância",2020-05-27,"nowcast",4,14,5,9,9,9.333
-"SE-Estância",2020-05-28,"nowcast",4,15,7,11,10,10.321
-"SE-Estância",2020-05-29,"nowcast",5,16,9,13,11,11.49
+"SE-Estância",2020-03-02,"nowcast",1,1,1,1,1,1
+"SE-Estância",2020-03-03,"nowcast",0,0,0,0,0,0
+"SE-Estância",2020-03-04,"nowcast",0,0,0,0,0,0
+"SE-Estância",2020-03-05,"nowcast",0,0,0,0,0,0
+"SE-Estância",2020-03-06,"nowcast",0,0,0,0,0,0
+"SE-Estância",2020-03-07,"nowcast",0,1,0,1,0.5,0.5
+"SE-Estância",2020-03-08,"nowcast",0,0,0,0,0,0
+"SE-Estância",2020-03-09,"nowcast",0,1,0,0,0,0.333333333333333
+"SE-Estância",2020-03-10,"nowcast",0,1,0,0,0,0.333333333333333
+"SE-Estância",2020-03-11,"nowcast",0,1,0,0,0,0.333333333333333
+"SE-Estância",2020-03-12,"nowcast",0,1,0,0,0,0.4
+"SE-Estância",2020-03-13,"nowcast",0,1,0,0,0,0.285714285714286
+"SE-Estância",2020-03-14,"nowcast",0,1,0,0,0,0.375
+"SE-Estância",2020-03-15,"nowcast",0,1,0,0,0,0.111111111111111
+"SE-Estância",2020-03-16,"nowcast",0,1,0,0,0,0.181818181818182
+"SE-Estância",2020-03-17,"nowcast",0,1,0,0,0,0.333333333333333
+"SE-Estância",2020-03-18,"nowcast",0,1,0,0,0,0.409090909090909
+"SE-Estância",2020-03-19,"nowcast",0,1,0,0,0,0.366666666666667
+"SE-Estância",2020-03-20,"nowcast",0,1,0,1,0.5,0.5
+"SE-Estância",2020-03-21,"nowcast",0,1,0,0,0,0.196428571428571
+"SE-Estância",2020-03-22,"nowcast",0,1,0,0,0,0.3
+"SE-Estância",2020-03-23,"nowcast",0,1,0,0,0,0.373737373737374
+"SE-Estância",2020-03-24,"nowcast",0,1,0,0,0,0.365079365079365
+"SE-Estância",2020-03-25,"nowcast",0,1,0,0,0,0.331325301204819
+"SE-Estância",2020-03-26,"nowcast",0,1,0,0,0,0.360576923076923
+"SE-Estância",2020-03-27,"nowcast",0,1,0,0,0,0.301587301587302
+"SE-Estância",2020-03-28,"nowcast",0,1,0,0,0,0.330097087378641
+"SE-Estância",2020-03-29,"nowcast",0,1,0,0,0,0.335149863760218
+"SE-Estância",2020-03-30,"nowcast",0,1,0,0,0,0.347319347319347
+"SE-Estância",2020-03-31,"nowcast",0,1,0,0,0,0.410714285714286
+"SE-Estância",2020-04-01,"nowcast",0,1,0,0,0,0.422945205479452
+"SE-Estância",2020-04-02,"nowcast",0,1,0,0,0,0.458841463414634
+"SE-Estância",2020-04-03,"nowcast",0,1,0,0,0,0.528688524590164
+"SE-Estância",2020-04-04,"nowcast",0,1,0,0,0,0.601242236024845
+"SE-Estância",2020-04-05,"nowcast",0,2,0,1,1,0.675990675990676
+"SE-Estância",2020-04-06,"nowcast",0,2,0,1,1,0.759647188533627
+"SE-Estância",2020-04-07,"nowcast",0,2,0,1,1,0.853347502656748
+"SE-Estância",2020-04-08,"nowcast",0,2,0,1,1,1.05263157894737
+"SE-Estância",2020-04-09,"nowcast",0,3,0,1,1,1.22267206477733
+"SE-Estância",2020-04-10,"nowcast",0,3,0,1,1,1.35105315947844
+"SE-Estância",2020-04-11,"nowcast",0,3,0,1,1,1.531
+"SE-Estância",2020-04-12,"nowcast",0,3,1,2,2,1.7
+"SE-Estância",2020-04-13,"nowcast",0,4,1,2,2,1.876
+"SE-Estância",2020-04-14,"nowcast",0,4,1,2,2,1.957
+"SE-Estância",2020-04-15,"nowcast",0,4,1,2,2,2.102
+"SE-Estância",2020-04-16,"nowcast",0,4,1,2,2,2.117
+"SE-Estância",2020-04-17,"nowcast",0,4,1,2,2,2.186
+"SE-Estância",2020-04-18,"nowcast",0,4,1,2,2,2.147
+"SE-Estância",2020-04-19,"nowcast",0,4,1,2,2,2.168
+"SE-Estância",2020-04-20,"nowcast",0,5,0,2,2,2.459
+"SE-Estância",2020-04-21,"nowcast",0,5,0,2,2,2.632
+"SE-Estância",2020-04-22,"nowcast",0,5,1,3,3,2.942
+"SE-Estância",2020-04-23,"nowcast",0,5,1,3,3,3.1
+"SE-Estância",2020-04-24,"nowcast",1,6,1,3,3,3.289
+"SE-Estância",2020-04-25,"nowcast",1,6,1,3,3,3.443
+"SE-Estância",2020-04-26,"nowcast",1,6,1,3,3,3.365
+"SE-Estância",2020-04-27,"nowcast",1,6,1,3,3,3.338
+"SE-Estância",2020-04-28,"nowcast",1,6,2,4,3,3.466
+"SE-Estância",2020-04-29,"nowcast",0,6,2,4,3,3.457
+"SE-Estância",2020-04-30,"nowcast",0,6,2,4,4,3.713
+"SE-Estância",2020-05-01,"nowcast",1,7,2,4,4,3.967
+"SE-Estância",2020-05-02,"nowcast",0,6,2,4,4,3.962
+"SE-Estância",2020-05-03,"nowcast",1,7,2,4,4,4.103
+"SE-Estância",2020-05-04,"nowcast",1,7,2,4,4,4.324
+"SE-Estância",2020-05-05,"nowcast",1,7,2,4,4,4.3
+"SE-Estância",2020-05-06,"nowcast",1,7,2,4,4,4.259
+"SE-Estância",2020-05-07,"nowcast",1,7,2,4,4,4.231
+"SE-Estância",2020-05-08,"nowcast",1,7,3,5,4,4.417
+"SE-Estância",2020-05-09,"nowcast",1,7,2,4,4,4.252
+"SE-Estância",2020-05-10,"nowcast",2,8,3,5,4,4.632
+"SE-Estância",2020-05-11,"nowcast",0,7,3,5,4,4.544
+"SE-Estância",2020-05-12,"nowcast",2,8,3,5,5,4.759
+"SE-Estância",2020-05-13,"nowcast",2,8,4,6,5,5.116
+"SE-Estância",2020-05-14,"nowcast",2,9,2,5,5,5.529
+"SE-Estância",2020-05-15,"nowcast",2,9,3,6,6,5.92
+"SE-Estância",2020-05-16,"nowcast",2,9,3,6,6,6.222
+"SE-Estância",2020-05-17,"nowcast",3,10,4,7,7,6.75
+"SE-Estância",2020-05-18,"nowcast",3,11,5,8,7,7.18
+"SE-Estância",2020-05-19,"nowcast",3,11,5,8,7,7.503
+"SE-Estância",2020-05-20,"nowcast",3,12,5,8,8,7.9
+"SE-Estância",2020-05-21,"nowcast",4,12,6,9,8,8.008
+"SE-Estância",2020-05-22,"nowcast",3,12,6,9,8,8.31
+"SE-Estância",2020-05-23,"nowcast",3,12,6,9,8,8.432
+"SE-Estância",2020-05-24,"nowcast",4,13,6,9,8,8.549
+"SE-Estância",2020-05-25,"nowcast",4,13,7,10,9,8.838
+"SE-Estância",2020-05-26,"nowcast",3,13,6,9,9,8.771
+"SE-Estância",2020-05-27,"nowcast",4,14,6,10,9,9.546
+"SE-Estância",2020-05-28,"nowcast",5,15,7,11,10,10.384
+"SE-Estância",2020-05-29,"nowcast",6,17,8,12,11,11.316
 "SE-Estância",2020-05-30,"nowcast",7,18,8,13,12,12.476
-"SE-Estância",2020-05-31,"nowcast",7,19,12,16,14,13.691
-"SE-Estância",2020-06-01,"nowcast",8,21,10,15,15,15.205
-"SE-Estância",2020-06-02,"nowcast",9,22,12,17,16,16.722
-"SE-Estância",2020-06-03,"nowcast",12,25,13,19,18,18.384
-"SE-Estância",2020-06-04,"nowcast",12,26,17,22,20,19.826
-"SE-Estância",2020-06-05,"nowcast",12,27,17,23,21,21.136
-"SE-Estância",2020-06-06,"nowcast",14,29,19,24,22,22.234
-"SE-Estância",2020-06-07,"nowcast",16,31,18,24,23,22.983
-"SE-Estância",2020-06-08,"nowcast",15,30,19,25,23,23.031
-"SE-Estância",2020-06-09,"nowcast",14,29,17,23,22,22.473
-"SE-Estância",2020-06-10,"nowcast",14,28,19,24,21,21.153
-"SE-Estância",2020-06-11,"nowcast",13,27,16,21,20,20.178
-"SE-Estância",2020-06-12,"nowcast",12,26,16,21,20,19.496
-"SE-Estância",2020-06-13,"nowcast",13,26,14,20,20,19.483
-"SE-Estância",2020-06-14,"nowcast",11,26,14,20,20,20.014
-"SE-Estância",2020-06-15,"nowcast",13,27,18,23,21,20.782
-"SE-Estância",2020-06-16,"nowcast",13,28,17,23,22,22.083
-"SE-Estância",2020-06-17,"nowcast",14,30,19,25,23,23.09
-"SE-Estância",2020-06-18,"nowcast",16,32,20,26,25,24.695
-"SE-Estância",2020-06-19,"nowcast",17,34,21,28,26,26.568
-"SE-Estância",2020-06-20,"nowcast",18,36,24,31,28,28.614
-"SE-Estância",2020-06-21,"nowcast",21,39,25,32,30,30.661
-"SE-Estância",2020-06-22,"nowcast",23,41,28,35,33,33.026
-"SE-Estância",2020-06-23,"nowcast",25,43,28,36,35,34.94
-"SE-Estância",2020-06-24,"nowcast",27,45,29,37,36,36.524
-"SE-Estância",2020-06-25,"nowcast",28,47,31,39,38,37.873
-"SE-Estância",2020-06-26,"nowcast",30,50,35,43,39,39.812
-"SE-Estância",2020-06-27,"nowcast",30,50,35,43,41,41.245
-"SE-Estância",2020-06-28,"nowcast",31,51,35,43,42,41.979
-"SE-Estância",2020-06-29,"nowcast",30,51,37,45,42.5,42.65
-"SE-Estância",2020-06-30,"nowcast",31,52,37,45,43,42.627
-"SE-Estância",2020-07-01,"nowcast",32,52,37,45,42,42.501
-"SE-Estância",2020-07-02,"nowcast",32,53,38,46,43,43.042
-"SE-Estância",2020-07-03,"nowcast",31,53,40,48,44,44.217
-"SE-Estância",2020-07-04,"nowcast",34,56,39,48,46,46.23
-"SE-Estância",2020-07-05,"nowcast",37,59,41,50,48,47.765
-"SE-Estância",2020-07-06,"nowcast",38,59,46,54,49,48.898
-"SE-Estância",2020-07-07,"nowcast",38,60,43,52,50,50.136
-"SE-Estância",2020-07-08,"nowcast",39,61,44,53,51,51.124
-"SE-Estância",2020-07-09,"nowcast",39,62,45,54,52,51.769
-"SE-Estância",2020-07-10,"nowcast",40,63,47,56,52,52.401
-"SE-Estância",2020-07-11,"nowcast",41,64,46,55,52,52.476
-"SE-Estância",2020-07-12,"nowcast",41,64,47,56,52,52.253
-"SE-Estância",2020-07-13,"nowcast",38,61,47,55,50.5,50.532
-"SE-Estância",2020-07-14,"nowcast",37,60,44,53,48,48.327
-"SE-Estância",2020-07-15,"nowcast",34,57,40,49,45,45.433
-"SE-Estância",2020-07-16,"nowcast",31,52,37,45,42,42.124
-"SE-Estância",2020-07-17,"nowcast",30,50,34,42,40,40.238
-"SE-Estância",2020-07-18,"nowcast",28,48,33,41,39,38.837
-"SE-Estância",2020-07-19,"nowcast",28,47,32,40,38,38.495
-"SE-Estância",2020-07-20,"nowcast",29,48,33,40,39,38.912
-"SE-Estância",2020-07-21,"nowcast",29,48,35,42,39,39.4
-"SE-Estância",2020-07-22,"nowcast",29,49,34,42,39,39.483
-"SE-Estância",2020-07-23,"nowcast",27,47,33,41,39,39.048
-"SE-Estância",2020-07-24,"nowcast",25,46,31,39,38,37.575
-"SE-Estância",2020-07-25,"nowcast",24,43,30,37,35,35.073
-"SE-Estância",2020-07-26,"nowcast",23,41,29,36,32,32.529
-"SE-Estância",2020-07-27,"nowcast",20,38,25,32,30,30.306
-"SE-Estância",2020-07-28,"nowcast",20,37,23,30,29,29.102
-"SE-Estância",2020-07-29,"nowcast",20,37,23,30,28,28.315
-"SE-Estância",2020-07-30,"nowcast",18,37,23,30,28,28.593
-"SE-Estância",2020-07-31,"nowcast",18,37,24,31,29,29.542
-"SE-Estância",2020-08-01,"nowcast",21,41,24,32,31,31.496
-"SE-Estância",2020-08-02,"nowcast",23,45,28,36,34,34.254
+"SE-Estância",2020-05-31,"nowcast",7,19,9,14,14,13.839
+"SE-Estância",2020-06-01,"nowcast",9,22,11,16,15,15.349
+"SE-Estância",2020-06-02,"nowcast",9,22,13,18,16,16.622
+"SE-Estância",2020-06-03,"nowcast",10,24,15,20,18,18.17
+"SE-Estância",2020-06-04,"nowcast",12,26,17,22,20,19.706
+"SE-Estância",2020-06-05,"nowcast",14,28,16,22,21,21.201
+"SE-Estância",2020-06-06,"nowcast",14,29,17,23,22,22.277
+"SE-Estância",2020-06-07,"nowcast",15,30,18,24,23,22.809
+"SE-Estância",2020-06-08,"nowcast",14,29,18,24,23,22.946
+"SE-Estância",2020-06-09,"nowcast",15,29,18,24,22,22.444
+"SE-Estância",2020-06-10,"nowcast",14,28,16,22,21,21.263
+"SE-Estância",2020-06-11,"nowcast",12,26,16,21,20,20.001
+"SE-Estância",2020-06-12,"nowcast",11,25,16,21,19,19.399
+"SE-Estância",2020-06-13,"nowcast",12,26,14,20,19,19.457
+"SE-Estância",2020-06-14,"nowcast",12,26,14,20,19,19.556
+"SE-Estância",2020-06-15,"nowcast",13,28,15,21,20,20.768
+"SE-Estância",2020-06-16,"nowcast",14,29,17,23,22,22.17
+"SE-Estância",2020-06-17,"nowcast",15,31,19,25,23,23.314
+"SE-Estância",2020-06-18,"nowcast",16,32,19,26,25,25.008
+"SE-Estância",2020-06-19,"nowcast",17,34,21,28,26,26.371
+"SE-Estância",2020-06-20,"nowcast",19,36,22,29,28,28.323
+"SE-Estância",2020-06-21,"nowcast",22,40,26,33,31,30.604
+"SE-Estância",2020-06-22,"nowcast",23,42,28,35,33,33.093
+"SE-Estância",2020-06-23,"nowcast",25,44,31,38,35,35.049
+"SE-Estância",2020-06-24,"nowcast",26,45,32,39,36,36.351
+"SE-Estância",2020-06-25,"nowcast",28,47,32,40,38,38.348
+"SE-Estância",2020-06-26,"nowcast",28,48,34,42,40,40.06
+"SE-Estância",2020-06-27,"nowcast",30,50,38,45,41,41.479
+"SE-Estância",2020-06-28,"nowcast",30,51,37,45,42,42.372
+"SE-Estância",2020-06-29,"nowcast",31,52,38,46,43,42.919
+"SE-Estância",2020-06-30,"nowcast",32,52,38,46,43,42.714
+"SE-Estância",2020-07-01,"nowcast",32,53,37,45,42,42.594
+"SE-Estância",2020-07-02,"nowcast",32,53,39,47,44,43.486
+"SE-Estância",2020-07-03,"nowcast",33,55,39,47,44,44.564
+"SE-Estância",2020-07-04,"nowcast",33,56,40,49,46,46.341
+"SE-Estância",2020-07-05,"nowcast",37,58,40,49,47,47.444
+"SE-Estância",2020-07-06,"nowcast",37,59,44,52,49,49.098
+"SE-Estância",2020-07-07,"nowcast",39,60,45,53,50,49.995
+"SE-Estância",2020-07-08,"nowcast",39,61,46,54,51,51.115
+"SE-Estância",2020-07-09,"nowcast",40,63,46,55,51,51.908
+"SE-Estância",2020-07-10,"nowcast",41,63,48,56,52,52.478
+"SE-Estância",2020-07-11,"nowcast",41,64,46,55,52,52.348
+"SE-Estância",2020-07-12,"nowcast",40,64,45,54,52,52.223
+"SE-Estância",2020-07-13,"nowcast",38,61,45,54,51,50.936
+"SE-Estância",2020-07-14,"nowcast",35,58,41,50,48,48.095
+"SE-Estância",2020-07-15,"nowcast",34,55,39,47,45,45.068
+"SE-Estância",2020-07-16,"nowcast",31,51,36,44,42,42.121
+"SE-Estância",2020-07-17,"nowcast",28,49,33,42,40,39.907
+"SE-Estância",2020-07-18,"nowcast",28,48,34,42,38,38.68
+"SE-Estância",2020-07-19,"nowcast",29,48,36,43,39,38.657
+"SE-Estância",2020-07-20,"nowcast",28,48,32,40,39,38.781
+"SE-Estância",2020-07-21,"nowcast",29,48,33,41,39,39.479
+"SE-Estância",2020-07-22,"nowcast",30,49,33,41,39,39.566
+"SE-Estância",2020-07-23,"nowcast",29,49,33,41,39,39.625
+"SE-Estância",2020-07-24,"nowcast",26,46,31,39,37,37.207
+"SE-Estância",2020-07-25,"nowcast",25,44,30,37,35,34.893
+"SE-Estância",2020-07-26,"nowcast",23,41,28,35,32,32.662
+"SE-Estância",2020-07-27,"nowcast",21,39,25,32,31,30.724
+"SE-Estância",2020-07-28,"nowcast",19,37,26,32,29,29.38
+"SE-Estância",2020-07-29,"nowcast",20,37,23,30,29,28.737
+"SE-Estância",2020-07-30,"nowcast",19,37,24,31,29,28.761
+"SE-Estância",2020-07-31,"nowcast",19,38,24,31,30,29.77
+"SE-Estância",2020-08-01,"nowcast",21,42,26,34,32,31.916
+"SE-Estância",2020-08-02,"nowcast",23,45,27,35,33,33.733
+"SE-Estância",2020-08-03,"nowcast",23,48,30,39,36,37.126
 "SE-Estância",2020-04-19,"observed",NA,NA,NA,NA,4,NA
 "SE-Estância",2020-04-20,"observed",NA,NA,NA,NA,2,NA
 "SE-Estância",2020-04-21,"observed",NA,NA,NA,NA,6,NA
@@ -2560,21 +2591,22 @@
 "SE-Estância",2020-08-10,"observed",NA,NA,NA,NA,0,NA
 "SE-Estância",2020-08-11,"observed",NA,NA,NA,NA,80,NA
 "SE-Estância",2020-08-12,"observed",NA,NA,NA,NA,52,NA
-"SE-Estância",2020-08-13,"observed",NA,NA,NA,NA,0,NA
-"SE-Estância",2020-08-03,"forecast",14,44,23,34,30,31.362
-"SE-Estância",2020-08-04,"forecast",15,47,20,32,30,31.4126
-"SE-Estância",2020-08-05,"forecast",12,47,19,32,30,31.49
-"SE-Estância",2020-08-06,"forecast",11,49,18,32,29,31.5522
-"SE-Estância",2020-08-07,"forecast",10,50,16,31,29,31.525
-"SE-Estância",2020-08-08,"forecast",8,52,16,31,28,31.6688
-"SE-Estância",2020-08-09,"forecast",6,53,14,30,28,31.7924
-"SE-Estância",2020-08-10,"forecast",6,53,14,31,28,32.0872
-"SE-Estância",2020-08-11,"forecast",6,56,13,30,27,32.2992
-"SE-Estância",2020-08-12,"forecast",6,57,13,30,27,32.6852
-"SE-Estância",2020-08-13,"forecast",3,58,10,28,27,32.8048
-"SE-Estância",2020-08-14,"forecast",3,60,11,29,26,33.6386
-"SE-Estância",2020-08-15,"forecast",3,61,10,29,26,34.1652
-"SE-Estância",2020-08-16,"forecast",0,61,10,29,26,34.6386
+"SE-Estância",2020-08-13,"observed",NA,NA,NA,NA,35,NA
+"SE-Estância",2020-08-14,"observed",NA,NA,NA,NA,0,NA
+"SE-Estância",2020-08-04,"forecast",18,51,22,35,33,34.5254
+"SE-Estância",2020-08-05,"forecast",17,54,22,36,33,35.1266
+"SE-Estância",2020-08-06,"forecast",14,55,22,37,33,35.6596
+"SE-Estância",2020-08-07,"forecast",14,58,20,36,33,36.0154
+"SE-Estância",2020-08-08,"forecast",11,60,20,37,34,36.929
+"SE-Estância",2020-08-09,"forecast",11,64,19,37,33,37.689
+"SE-Estância",2020-08-10,"forecast",10,66,17,36,33,37.9912
+"SE-Estância",2020-08-11,"forecast",7,69,16,36,33,39.2208
+"SE-Estância",2020-08-12,"forecast",6,73,14,35,33,40.0522
+"SE-Estância",2020-08-13,"forecast",6,77,14,36,33,41.2688
+"SE-Estância",2020-08-14,"forecast",6,80,14,36,33,42.4394
+"SE-Estância",2020-08-15,"forecast",4,84,16,39,33,43.5734
+"SE-Estância",2020-08-16,"forecast",4,89,14,37,33,45.323
+"SE-Estância",2020-08-17,"forecast",4,92,11,35,32,46.349
 "SE-Frei Paulo",2020-03-27,"nowcast",1,1,1,1,1,1
 "SE-Frei Paulo",2020-03-28,"nowcast",0,1,0,1,0.5,0.5
 "SE-Frei Paulo",2020-03-29,"nowcast",0,1,0,0,0,0.333333333333333
@@ -2801,164 +2833,164 @@
 "SE-Frei Paulo",2020-08-03,"forecast",0,84,0,23,23,41.3832
 "SE-Frei Paulo",2020-08-04,"forecast",0,96,0,24,24,46.5124
 "SE-Frei Paulo",2020-08-05,"forecast",0,110,0,26,26,51.3858
-"SE-Itabaiana",2020-02-26,"nowcast",1,1,1,1,1,1
-"SE-Itabaiana",2020-02-27,"nowcast",0,1,0,0,0,0.333333333333333
-"SE-Itabaiana",2020-02-28,"nowcast",0,1,0,0,0,0.25
-"SE-Itabaiana",2020-02-29,"nowcast",0,1,0,0,0,0.25
-"SE-Itabaiana",2020-03-01,"nowcast",0,0,0,0,0,0
-"SE-Itabaiana",2020-03-02,"nowcast",0,1,0,0,0,0.4
-"SE-Itabaiana",2020-03-03,"nowcast",0,0,0,0,0,0
-"SE-Itabaiana",2020-03-04,"nowcast",0,1,0,0,0,0.375
+"SE-Itabaiana",2020-02-28,"nowcast",1,1,1,1,1,1
+"SE-Itabaiana",2020-02-29,"nowcast",0,0,0,0,0,0
+"SE-Itabaiana",2020-03-01,"nowcast",0,1,0,1,0.5,0.5
+"SE-Itabaiana",2020-03-02,"nowcast",0,1,0,0,0,0.333333333333333
+"SE-Itabaiana",2020-03-03,"nowcast",0,1,0,0,0,0.25
+"SE-Itabaiana",2020-03-04,"nowcast",0,0,0,0,0,0
 "SE-Itabaiana",2020-03-05,"nowcast",0,0,0,0,0,0
-"SE-Itabaiana",2020-03-06,"nowcast",0,1,0,0,0,0.3
-"SE-Itabaiana",2020-03-07,"nowcast",0,1,0,0,0,0.166666666666667
-"SE-Itabaiana",2020-03-08,"nowcast",0,0,0,0,0,0.0769230769230769
-"SE-Itabaiana",2020-03-09,"nowcast",0,1,0,0,0,0.25
-"SE-Itabaiana",2020-03-10,"nowcast",0,1,0,0,0,0.3
-"SE-Itabaiana",2020-03-11,"nowcast",0,1,0,0,0,0.173913043478261
-"SE-Itabaiana",2020-03-12,"nowcast",0,1,0,0,0,0.333333333333333
-"SE-Itabaiana",2020-03-13,"nowcast",0,1,0,0,0,0.261904761904762
-"SE-Itabaiana",2020-03-14,"nowcast",0,1,0,0,0,0.283018867924528
-"SE-Itabaiana",2020-03-15,"nowcast",0,1,0,0,0,0.346666666666667
-"SE-Itabaiana",2020-03-16,"nowcast",0,1,0,0,0,0.211111111111111
-"SE-Itabaiana",2020-03-17,"nowcast",0,1,0,0,0,0.2
-"SE-Itabaiana",2020-03-18,"nowcast",0,1,0,0,0,0.190082644628099
-"SE-Itabaiana",2020-03-19,"nowcast",0,1,0,0,0,0.224489795918367
-"SE-Itabaiana",2020-03-20,"nowcast",0,1,0,0,0,0.230337078651685
-"SE-Itabaiana",2020-03-21,"nowcast",0,1,0,0,0,0.235849056603774
-"SE-Itabaiana",2020-03-22,"nowcast",0,1,0,0,0,0.268199233716475
-"SE-Itabaiana",2020-03-23,"nowcast",0,1,0,0,0,0.221854304635762
-"SE-Itabaiana",2020-03-24,"nowcast",0,1,0,0,0,0.193452380952381
-"SE-Itabaiana",2020-03-25,"nowcast",0,1,0,0,0,0.236641221374046
-"SE-Itabaiana",2020-03-26,"nowcast",0,1,0,0,0,0.270152505446623
-"SE-Itabaiana",2020-03-27,"nowcast",0,1,0,0,0,0.219281663516068
-"SE-Itabaiana",2020-03-28,"nowcast",0,1,0,0,0,0.222591362126246
-"SE-Itabaiana",2020-03-29,"nowcast",0,1,0,0,0,0.189312977099237
-"SE-Itabaiana",2020-03-30,"nowcast",0,1,0,0,0,0.198855507868383
-"SE-Itabaiana",2020-03-31,"nowcast",0,1,0,0,0,0.190026954177898
-"SE-Itabaiana",2020-04-01,"nowcast",0,1,0,0,0,0.171428571428571
-"SE-Itabaiana",2020-04-02,"nowcast",0,1,0,0,0,0.178707224334601
-"SE-Itabaiana",2020-04-03,"nowcast",0,1,0,0,0,0.23030303030303
-"SE-Itabaiana",2020-04-04,"nowcast",0,1,0,0,0,0.251748251748252
-"SE-Itabaiana",2020-04-05,"nowcast",0,1,0,0,0,0.292517006802721
-"SE-Itabaiana",2020-04-06,"nowcast",0,1,0,0,0,0.332965821389195
-"SE-Itabaiana",2020-04-07,"nowcast",0,1,0,0,0,0.394623655913979
-"SE-Itabaiana",2020-04-08,"nowcast",0,1,0,0,0,0.44831223628692
-"SE-Itabaiana",2020-04-09,"nowcast",0,2,0,0,0,0.584710743801653
-"SE-Itabaiana",2020-04-10,"nowcast",0,2,0,1,1,0.676200204290092
-"SE-Itabaiana",2020-04-11,"nowcast",0,2,0,1,1,0.787878787878788
-"SE-Itabaiana",2020-04-12,"nowcast",0,2,0,1,1,0.876506024096386
-"SE-Itabaiana",2020-04-13,"nowcast",0,3,0,1,1,1.08324974924774
-"SE-Itabaiana",2020-04-14,"nowcast",0,3,0,1,1,1.174
-"SE-Itabaiana",2020-04-15,"nowcast",0,3,0,1,1,1.374
-"SE-Itabaiana",2020-04-16,"nowcast",0,3,0,1,1,1.581
-"SE-Itabaiana",2020-04-17,"nowcast",0,4,1,2,2,1.779
-"SE-Itabaiana",2020-04-18,"nowcast",0,4,1,2,2,2.026
-"SE-Itabaiana",2020-04-19,"nowcast",0,4,0,2,2,2.345
-"SE-Itabaiana",2020-04-20,"nowcast",0,5,0,2,2,2.64
-"SE-Itabaiana",2020-04-21,"nowcast",0,5,1,3,3,2.968
-"SE-Itabaiana",2020-04-22,"nowcast",1,6,1,3,3,3.324
-"SE-Itabaiana",2020-04-23,"nowcast",0,6,2,4,4,3.707
-"SE-Itabaiana",2020-04-24,"nowcast",1,7,2,4,4,4.036
-"SE-Itabaiana",2020-04-25,"nowcast",1,7,3,5,4,4.388
-"SE-Itabaiana",2020-04-26,"nowcast",1,8,4,6,5,4.882
-"SE-Itabaiana",2020-04-27,"nowcast",1,8,2,5,5,5.29
-"SE-Itabaiana",2020-04-28,"nowcast",1,9,3,6,6,5.847
-"SE-Itabaiana",2020-04-29,"nowcast",2,10,4,7,6,6.459
-"SE-Itabaiana",2020-04-30,"nowcast",2,11,5,8,7,7.175
-"SE-Itabaiana",2020-05-01,"nowcast",3,12,4,8,8,8.084
-"SE-Itabaiana",2020-05-02,"nowcast",5,14,7,10,9,8.754
-"SE-Itabaiana",2020-05-03,"nowcast",5,15,6,10,10,10.101
-"SE-Itabaiana",2020-05-04,"nowcast",6,16,8,12,11,11.47
-"SE-Itabaiana",2020-05-05,"nowcast",6,17,9,13,12,12.606
-"SE-Itabaiana",2020-05-06,"nowcast",8,19,11,15,14,13.74
-"SE-Itabaiana",2020-05-07,"nowcast",8,20,12,16,15,14.82
-"SE-Itabaiana",2020-05-08,"nowcast",8,21,11,16,16,15.504
-"SE-Itabaiana",2020-05-09,"nowcast",10,22,11,16,15,15.756
-"SE-Itabaiana",2020-05-10,"nowcast",9,21,11,16,15,15.134
-"SE-Itabaiana",2020-05-11,"nowcast",8,19,11,15,14,13.839
-"SE-Itabaiana",2020-05-12,"nowcast",6,17,9,13,12,12.401
-"SE-Itabaiana",2020-05-13,"nowcast",6,16,8,12,11,11.084
-"SE-Itabaiana",2020-05-14,"nowcast",5,15,6,10,10,10.324
-"SE-Itabaiana",2020-05-15,"nowcast",5,15,7,11,10,10.187
-"SE-Itabaiana",2020-05-16,"nowcast",5,15,6,10,10,10.454
-"SE-Itabaiana",2020-05-17,"nowcast",5,15,7,11,10.5,10.655
-"SE-Itabaiana",2020-05-18,"nowcast",5,15,7,11,10.5,10.656
-"SE-Itabaiana",2020-05-19,"nowcast",6,16,7,11,11,11.083
-"SE-Itabaiana",2020-05-20,"nowcast",6,17,9,13,11,11.655
-"SE-Itabaiana",2020-05-21,"nowcast",6,18,8,13,12,12.748
-"SE-Itabaiana",2020-05-22,"nowcast",6,18,9,14,13,13.455
-"SE-Itabaiana",2020-05-23,"nowcast",8,20,11,16,15,14.762
-"SE-Itabaiana",2020-05-24,"nowcast",9,22,12,17,16,15.904
-"SE-Itabaiana",2020-05-25,"nowcast",11,24,13,18,17,17.21
-"SE-Itabaiana",2020-05-26,"nowcast",11,25,15,20,18,18.672
-"SE-Itabaiana",2020-05-27,"nowcast",12,26,15,21,20,19.888
-"SE-Itabaiana",2020-05-28,"nowcast",12,27,15,21,20,20.723
-"SE-Itabaiana",2020-05-29,"nowcast",14,28,19,24,22,21.893
-"SE-Itabaiana",2020-05-30,"nowcast",13,29,18,24,22,22.598
-"SE-Itabaiana",2020-05-31,"nowcast",15,30,19,25,23,23.387
-"SE-Itabaiana",2020-06-01,"nowcast",15,31,20,26,24,24.243
-"SE-Itabaiana",2020-06-02,"nowcast",17,33,21,27,25,25.139
-"SE-Itabaiana",2020-06-03,"nowcast",15,33,22,28,26,26.127
-"SE-Itabaiana",2020-06-04,"nowcast",19,35,23,29,27,27.261
-"SE-Itabaiana",2020-06-05,"nowcast",19,36,24,30,28,28.378
-"SE-Itabaiana",2020-06-06,"nowcast",20,36,23,30,29,29.404
-"SE-Itabaiana",2020-06-07,"nowcast",21,38,27,33,30,30.187
-"SE-Itabaiana",2020-06-08,"nowcast",22,39,26,33,31,31.271
-"SE-Itabaiana",2020-06-09,"nowcast",23,40,26,33,32,31.781
-"SE-Itabaiana",2020-06-10,"nowcast",22,40,28,35,32,32.48
-"SE-Itabaiana",2020-06-11,"nowcast",24,42,27,34,33,33.052
-"SE-Itabaiana",2020-06-12,"nowcast",24,42,28,35,33,33.514
-"SE-Itabaiana",2020-06-13,"nowcast",27,45,28,36,35,35.166
-"SE-Itabaiana",2020-06-14,"nowcast",27,46,31,38,36,36.617
-"SE-Itabaiana",2020-06-15,"nowcast",28,47,31,39,38,37.858
-"SE-Itabaiana",2020-06-16,"nowcast",27,48,34,42,39,39.14
-"SE-Itabaiana",2020-06-17,"nowcast",30,51,35,43,41,41.176
-"SE-Itabaiana",2020-06-18,"nowcast",32,52,36,44,42,42.554
-"SE-Itabaiana",2020-06-19,"nowcast",32,53,36,45,43,43.806
-"SE-Itabaiana",2020-06-20,"nowcast",35,57,38,47,46,46.047
-"SE-Itabaiana",2020-06-21,"nowcast",35,58,41,50,47,47.577
-"SE-Itabaiana",2020-06-22,"nowcast",37,60,42,51,49,49.634
-"SE-Itabaiana",2020-06-23,"nowcast",40,63,47,56,52,51.858
-"SE-Itabaiana",2020-06-24,"nowcast",41,64,47,57,54,53.973
-"SE-Itabaiana",2020-06-25,"nowcast",44,67,49,59,57,56.762
-"SE-Itabaiana",2020-06-26,"nowcast",44,69,51,61,58,58.083
-"SE-Itabaiana",2020-06-27,"nowcast",45,69,54,63,59,59.128
-"SE-Itabaiana",2020-06-28,"nowcast",48,71,53,62,60,59.549
-"SE-Itabaiana",2020-06-29,"nowcast",46,71,52,62,59,58.781
-"SE-Itabaiana",2020-06-30,"nowcast",43,68,49,59,57,56.69
-"SE-Itabaiana",2020-07-01,"nowcast",43,67,49,58,55,55.403
-"SE-Itabaiana",2020-07-02,"nowcast",44,67,48,57,54,54.219
-"SE-Itabaiana",2020-07-03,"nowcast",41,64,49,58,53,53.518
-"SE-Itabaiana",2020-07-04,"nowcast",42,65,51,60,55,55.123
-"SE-Itabaiana",2020-07-05,"nowcast",42,66,49,58,55,55.182
-"SE-Itabaiana",2020-07-06,"nowcast",40,65,47,57,55,55.056
-"SE-Itabaiana",2020-07-07,"nowcast",43,67,47,57,54,54.749
-"SE-Itabaiana",2020-07-08,"nowcast",41,65,50,59,55,55.177
-"SE-Itabaiana",2020-07-09,"nowcast",44,69,49,59,56.5,56.775
-"SE-Itabaiana",2020-07-10,"nowcast",47,71,52,62,59,58.825
-"SE-Itabaiana",2020-07-11,"nowcast",45,71,55,65,60,60.687
-"SE-Itabaiana",2020-07-12,"nowcast",51,76,57,67,64,63.57
-"SE-Itabaiana",2020-07-13,"nowcast",52,78,59,69,65,65.654
-"SE-Itabaiana",2020-07-14,"nowcast",55,81,61,71,67,67.571
-"SE-Itabaiana",2020-07-15,"nowcast",55,82,62,73,70,69.719
-"SE-Itabaiana",2020-07-16,"nowcast",56,85,66,77,72,72.32
-"SE-Itabaiana",2020-07-17,"nowcast",60,89,67,79,76,75.551
-"SE-Itabaiana",2020-07-18,"nowcast",63,92,71,83,79,78.981
-"SE-Itabaiana",2020-07-19,"nowcast",68,97,77,88,83,82.996
-"SE-Itabaiana",2020-07-20,"nowcast",69,100,78,90,86,86.209
-"SE-Itabaiana",2020-07-21,"nowcast",74,104,84,96,89,89.432
-"SE-Itabaiana",2020-07-22,"nowcast",72,104,79,92,89,89.119
-"SE-Itabaiana",2020-07-23,"nowcast",72,101,79,91,88,88.018
-"SE-Itabaiana",2020-07-24,"nowcast",69,99,78,89,85,84.76
-"SE-Itabaiana",2020-07-25,"nowcast",65,94,73,85,81,81.188
-"SE-Itabaiana",2020-07-26,"nowcast",62,91,71,82,77,77.215
-"SE-Itabaiana",2020-07-27,"nowcast",59,89,68,79,74,74.753
-"SE-Itabaiana",2020-07-28,"nowcast",57,87,66,77,73,73.53
-"SE-Itabaiana",2020-07-29,"nowcast",55,88,63,76,73,73.88
-"SE-Itabaiana",2020-07-30,"nowcast",56,91,68,81,74,74.665
-"SE-Itabaiana",2020-07-31,"nowcast",54,91,65,78,73,73.419
-"SE-Itabaiana",2020-08-01,"nowcast",49,88,58,73,68.5,69.066
+"SE-Itabaiana",2020-03-06,"nowcast",0,1,0,0,0,0.2
+"SE-Itabaiana",2020-03-07,"nowcast",0,1,1,1,1,0.571428571428571
+"SE-Itabaiana",2020-03-08,"nowcast",0,1,0,0,0,0.4
+"SE-Itabaiana",2020-03-09,"nowcast",0,1,0,0,0,0.307692307692308
+"SE-Itabaiana",2020-03-10,"nowcast",0,1,0,0,0,0.1875
+"SE-Itabaiana",2020-03-11,"nowcast",0,1,0,0,0,0.3
+"SE-Itabaiana",2020-03-12,"nowcast",0,1,0,0,0,0.269230769230769
+"SE-Itabaiana",2020-03-13,"nowcast",0,1,0,0,0,0.342105263157895
+"SE-Itabaiana",2020-03-14,"nowcast",0,1,0,0,0,0.239130434782609
+"SE-Itabaiana",2020-03-15,"nowcast",0,1,0,0,0,0.271186440677966
+"SE-Itabaiana",2020-03-16,"nowcast",0,1,0,0,0,0.285714285714286
+"SE-Itabaiana",2020-03-17,"nowcast",0,1,0,0,0,0.339805825242718
+"SE-Itabaiana",2020-03-18,"nowcast",0,1,0,0,0,0.231404958677686
+"SE-Itabaiana",2020-03-19,"nowcast",0,1,0,0,0,0.165413533834586
+"SE-Itabaiana",2020-03-20,"nowcast",0,1,0,0,0,0.189542483660131
+"SE-Itabaiana",2020-03-21,"nowcast",0,1,0,0,0,0.266666666666667
+"SE-Itabaiana",2020-03-22,"nowcast",0,1,0,0,0,0.253112033195021
+"SE-Itabaiana",2020-03-23,"nowcast",0,1,0,0,0,0.254237288135593
+"SE-Itabaiana",2020-03-24,"nowcast",0,1,0,0,0,0.239884393063584
+"SE-Itabaiana",2020-03-25,"nowcast",0,1,0,0,0,0.241293532338308
+"SE-Itabaiana",2020-03-26,"nowcast",0,1,0,0,0,0.246808510638298
+"SE-Itabaiana",2020-03-27,"nowcast",0,1,0,0,0,0.228519195612431
+"SE-Itabaiana",2020-03-28,"nowcast",0,1,0,0,0,0.212978369384359
+"SE-Itabaiana",2020-03-29,"nowcast",0,1,0,0,0,0.182795698924731
+"SE-Itabaiana",2020-03-30,"nowcast",0,1,0,0,0,0.174603174603175
+"SE-Itabaiana",2020-03-31,"nowcast",0,1,0,0,0,0.19047619047619
+"SE-Itabaiana",2020-04-01,"nowcast",0,1,0,0,0,0.182654402102497
+"SE-Itabaiana",2020-04-02,"nowcast",0,1,0,0,0,0.19309462915601
+"SE-Itabaiana",2020-04-03,"nowcast",0,1,0,0,0,0.255555555555556
+"SE-Itabaiana",2020-04-04,"nowcast",0,1,0,0,0,0.264600715137068
+"SE-Itabaiana",2020-04-05,"nowcast",0,1,0,0,0,0.28953488372093
+"SE-Itabaiana",2020-04-06,"nowcast",0,1,0,0,0,0.333711691259932
+"SE-Itabaiana",2020-04-07,"nowcast",0,1,0,0,0,0.363636363636364
+"SE-Itabaiana",2020-04-08,"nowcast",0,1,0,0,0,0.468817204301075
+"SE-Itabaiana",2020-04-09,"nowcast",0,2,0,0,0,0.59286463798531
+"SE-Itabaiana",2020-04-10,"nowcast",0,2,0,0,0,0.653964984552008
+"SE-Itabaiana",2020-04-11,"nowcast",0,2,0,1,1,0.735353535353535
+"SE-Itabaiana",2020-04-12,"nowcast",0,2,0,1,1,0.911557788944724
+"SE-Itabaiana",2020-04-13,"nowcast",0,2,0,1,1,1.02002002002002
+"SE-Itabaiana",2020-04-14,"nowcast",0,2,0,1,1,1.16516516516517
+"SE-Itabaiana",2020-04-15,"nowcast",0,3,0,1,1,1.35635635635636
+"SE-Itabaiana",2020-04-16,"nowcast",0,3,0,1,1,1.559
+"SE-Itabaiana",2020-04-17,"nowcast",0,3,1,2,2,1.697
+"SE-Itabaiana",2020-04-18,"nowcast",0,4,1,2,2,2.023
+"SE-Itabaiana",2020-04-19,"nowcast",0,4,0,2,2,2.323
+"SE-Itabaiana",2020-04-20,"nowcast",0,5,0,2,2,2.636
+"SE-Itabaiana",2020-04-21,"nowcast",0,6,1,3,3,3.097
+"SE-Itabaiana",2020-04-22,"nowcast",1,6,1,3,3,3.325
+"SE-Itabaiana",2020-04-23,"nowcast",0,6,2,4,4,3.748
+"SE-Itabaiana",2020-04-24,"nowcast",1,7,2,4,4,4.111
+"SE-Itabaiana",2020-04-25,"nowcast",1,8,3,5,4,4.473
+"SE-Itabaiana",2020-04-26,"nowcast",1,8,3,5,5,4.847
+"SE-Itabaiana",2020-04-27,"nowcast",2,9,2,5,5,5.464
+"SE-Itabaiana",2020-04-28,"nowcast",2,9,3,6,6,6.016
+"SE-Itabaiana",2020-04-29,"nowcast",2,10,4,7,6,6.475
+"SE-Itabaiana",2020-04-30,"nowcast",3,11,4,7,7,7.105
+"SE-Itabaiana",2020-05-01,"nowcast",4,12,5,8,8,8.002
+"SE-Itabaiana",2020-05-02,"nowcast",5,14,7,10,9,9.075
+"SE-Itabaiana",2020-05-03,"nowcast",5,15,6,10,10,10.07
+"SE-Itabaiana",2020-05-04,"nowcast",6,16,8,12,11,11.235
+"SE-Itabaiana",2020-05-05,"nowcast",7,18,9,13,12,12.424
+"SE-Itabaiana",2020-05-06,"nowcast",8,19,11,15,13,13.613
+"SE-Itabaiana",2020-05-07,"nowcast",8,20,10,15,15,14.608
+"SE-Itabaiana",2020-05-08,"nowcast",10,22,11,16,15,15.362
+"SE-Itabaiana",2020-05-09,"nowcast",8,21,11,16,15,15.533
+"SE-Itabaiana",2020-05-10,"nowcast",7,20,10,15,15,14.985
+"SE-Itabaiana",2020-05-11,"nowcast",8,19,11,15,13,13.681
+"SE-Itabaiana",2020-05-12,"nowcast",7,17,9,13,12,12.362
+"SE-Itabaiana",2020-05-13,"nowcast",6,16,7,11,11,11.08
+"SE-Itabaiana",2020-05-14,"nowcast",5,14,6,10,10,10.238
+"SE-Itabaiana",2020-05-15,"nowcast",5,15,7,11,10,10.247
+"SE-Itabaiana",2020-05-16,"nowcast",4,14,7,11,10,10.33
+"SE-Itabaiana",2020-05-17,"nowcast",5,15,7,11,10,10.621
+"SE-Itabaiana",2020-05-18,"nowcast",5,15,7,11,11,10.706
+"SE-Itabaiana",2020-05-19,"nowcast",5,16,7,11,11,11.151
+"SE-Itabaiana",2020-05-20,"nowcast",5,16,8,12,11,11.636
+"SE-Itabaiana",2020-05-21,"nowcast",7,18,9,13,12,12.484
+"SE-Itabaiana",2020-05-22,"nowcast",6,19,9,14,13,13.612
+"SE-Itabaiana",2020-05-23,"nowcast",8,21,10,15,14,14.674
+"SE-Itabaiana",2020-05-24,"nowcast",8,21,14,18,16,15.832
+"SE-Itabaiana",2020-05-25,"nowcast",9,23,14,19,17,17.249
+"SE-Itabaiana",2020-05-26,"nowcast",12,25,14,19,18,18.358
+"SE-Itabaiana",2020-05-27,"nowcast",13,27,16,21,19,19.843
+"SE-Itabaiana",2020-05-28,"nowcast",14,28,18,23,21,20.97
+"SE-Itabaiana",2020-05-29,"nowcast",14,28,16,22,21,21.715
+"SE-Itabaiana",2020-05-30,"nowcast",15,30,17,23,22,22.762
+"SE-Itabaiana",2020-05-31,"nowcast",16,31,19,25,23,23.672
+"SE-Itabaiana",2020-06-01,"nowcast",16,31,20,26,24,24.275
+"SE-Itabaiana",2020-06-02,"nowcast",18,33,21,27,25,25.163
+"SE-Itabaiana",2020-06-03,"nowcast",19,34,22,28,26,26.219
+"SE-Itabaiana",2020-06-04,"nowcast",18,35,21,28,27,27.226
+"SE-Itabaiana",2020-06-05,"nowcast",19,36,22,29,28,28.435
+"SE-Itabaiana",2020-06-06,"nowcast",19,36,23,30,29,29.026
+"SE-Itabaiana",2020-06-07,"nowcast",20,37,25,32,30,30.207
+"SE-Itabaiana",2020-06-08,"nowcast",22,39,27,33,31,31.354
+"SE-Itabaiana",2020-06-09,"nowcast",23,40,27,34,32,32.109
+"SE-Itabaiana",2020-06-10,"nowcast",23,41,28,35,32,32.538
+"SE-Itabaiana",2020-06-11,"nowcast",25,42,28,35,33,33.037
+"SE-Itabaiana",2020-06-12,"nowcast",24,42,27,35,34,33.758
+"SE-Itabaiana",2020-06-13,"nowcast",25,44,28,36,35,34.856
+"SE-Itabaiana",2020-06-14,"nowcast",27,46,30,38,36,36.505
+"SE-Itabaiana",2020-06-15,"nowcast",26,46,32,40,38,38.28
+"SE-Itabaiana",2020-06-16,"nowcast",27,49,35,43,39,39.452
+"SE-Itabaiana",2020-06-17,"nowcast",31,51,35,43,41,41.128
+"SE-Itabaiana",2020-06-18,"nowcast",31,52,36,44,42,42.454
+"SE-Itabaiana",2020-06-19,"nowcast",32,53,38,46,43,43.495
+"SE-Itabaiana",2020-06-20,"nowcast",34,56,39,48,46,45.943
+"SE-Itabaiana",2020-06-21,"nowcast",36,59,41,50,47,47.663
+"SE-Itabaiana",2020-06-22,"nowcast",38,60,44,53,50,50.042
+"SE-Itabaiana",2020-06-23,"nowcast",39,63,44,54,52,51.887
+"SE-Itabaiana",2020-06-24,"nowcast",42,65,46,56,54,54.258
+"SE-Itabaiana",2020-06-25,"nowcast",43,67,50,59,56,56.211
+"SE-Itabaiana",2020-06-26,"nowcast",46,69,52,61,58,58.108
+"SE-Itabaiana",2020-06-27,"nowcast",45,69,53,62,59,59.124
+"SE-Itabaiana",2020-06-28,"nowcast",47,71,53,62,59,59.304
+"SE-Itabaiana",2020-06-29,"nowcast",46,69,55,64,59,58.857
+"SE-Itabaiana",2020-06-30,"nowcast",45,69,52,61,57,57.615
+"SE-Itabaiana",2020-07-01,"nowcast",43,66,47,57,55,55.287
+"SE-Itabaiana",2020-07-02,"nowcast",43,66,45,55,54,53.963
+"SE-Itabaiana",2020-07-03,"nowcast",41,65,49,58,54,54.637
+"SE-Itabaiana",2020-07-04,"nowcast",44,66,48,57,55,55.124
+"SE-Itabaiana",2020-07-05,"nowcast",42,65,48,57,54,54.841
+"SE-Itabaiana",2020-07-06,"nowcast",43,67,50,59,55,54.839
+"SE-Itabaiana",2020-07-07,"nowcast",42,65,49,58,54,54.416
+"SE-Itabaiana",2020-07-08,"nowcast",43,67,48,58,55,55.024
+"SE-Itabaiana",2020-07-09,"nowcast",43,68,48,58,56,56.151
+"SE-Itabaiana",2020-07-10,"nowcast",47,72,51,61,59,58.841
+"SE-Itabaiana",2020-07-11,"nowcast",49,74,53,63,61,60.793
+"SE-Itabaiana",2020-07-12,"nowcast",49,75,56,67,63,63.148
+"SE-Itabaiana",2020-07-13,"nowcast",51,77,56,67,64,64.965
+"SE-Itabaiana",2020-07-14,"nowcast",53,80,60,71,68,67.727
+"SE-Itabaiana",2020-07-15,"nowcast",56,82,61,72,70,69.904
+"SE-Itabaiana",2020-07-16,"nowcast",56,84,66,77,72,72.118
+"SE-Itabaiana",2020-07-17,"nowcast",60,89,67,79,75,75.251
+"SE-Itabaiana",2020-07-18,"nowcast",64,92,72,83,79,78.675
+"SE-Itabaiana",2020-07-19,"nowcast",66,95,75,86,82,81.796
+"SE-Itabaiana",2020-07-20,"nowcast",70,99,78,89,85,85.419
+"SE-Itabaiana",2020-07-21,"nowcast",73,102,79,91,87,87.707
+"SE-Itabaiana",2020-07-22,"nowcast",72,102,78,91,88,88.064
+"SE-Itabaiana",2020-07-23,"nowcast",72,103,76,89,86,86.195
+"SE-Itabaiana",2020-07-24,"nowcast",68,97,74,86,82,82.514
+"SE-Itabaiana",2020-07-25,"nowcast",62,91,69,81,78,78.55
+"SE-Itabaiana",2020-07-26,"nowcast",59,88,65,77,74,74.448
+"SE-Itabaiana",2020-07-27,"nowcast",57,83,65,75,70,70.733
+"SE-Itabaiana",2020-07-28,"nowcast",53,80,61,71,68,68.252
+"SE-Itabaiana",2020-07-29,"nowcast",54,80,59,70,68,67.831
+"SE-Itabaiana",2020-07-30,"nowcast",52,81,60,71,67,67.596
+"SE-Itabaiana",2020-07-31,"nowcast",49,79,60,71,66,65.818
+"SE-Itabaiana",2020-08-01,"nowcast",45,75,52,64,61,61.312
+"SE-Itabaiana",2020-08-02,"nowcast",37,67,45,57,54,54.067
+"SE-Itabaiana",2020-08-03,"nowcast",32,58,40,50,45,45.279
 "SE-Itabaiana",2020-04-04,"observed",NA,NA,NA,NA,1,NA
 "SE-Itabaiana",2020-04-05,"observed",NA,NA,NA,NA,0,NA
 "SE-Itabaiana",2020-04-06,"observed",NA,NA,NA,NA,0,NA
@@ -3090,21 +3122,22 @@
 "SE-Itabaiana",2020-08-10,"observed",NA,NA,NA,NA,0,NA
 "SE-Itabaiana",2020-08-11,"observed",NA,NA,NA,NA,17,NA
 "SE-Itabaiana",2020-08-12,"observed",NA,NA,NA,NA,0,NA
-"SE-Itabaiana",2020-08-13,"observed",NA,NA,NA,NA,0,NA
-"SE-Itabaiana",2020-08-02,"forecast",44,96,53,74,69,70.2204
-"SE-Itabaiana",2020-08-03,"forecast",38,96,53,75,67,68.7782
-"SE-Itabaiana",2020-08-04,"forecast",34,98,48,73,66,68.0552
-"SE-Itabaiana",2020-08-05,"forecast",31,99,45,72,65,67.101
-"SE-Itabaiana",2020-08-06,"forecast",25,99,46,74,64,66.2306
-"SE-Itabaiana",2020-08-07,"forecast",24,101,40,70,62,65.2546
-"SE-Itabaiana",2020-08-08,"forecast",20,101,39,69,60.5,64.4434
-"SE-Itabaiana",2020-08-09,"forecast",18,102,36,68,60,63.6886
-"SE-Itabaiana",2020-08-10,"forecast",11,101,36,69,58,62.0992
-"SE-Itabaiana",2020-08-11,"forecast",14,105,29,64,57,62.0336
-"SE-Itabaiana",2020-08-12,"forecast",10,105,29,65,55,60.7396
-"SE-Itabaiana",2020-08-13,"forecast",6,103,29,64,54,59.9948
-"SE-Itabaiana",2020-08-14,"forecast",9,108,27,64,53,59.7388
-"SE-Itabaiana",2020-08-15,"forecast",4,106,23,60,52,58.923
+"SE-Itabaiana",2020-08-13,"observed",NA,NA,NA,NA,95,NA
+"SE-Itabaiana",2020-08-14,"observed",NA,NA,NA,NA,0,NA
+"SE-Itabaiana",2020-08-04,"forecast",29,68,37,53,47,47.7768
+"SE-Itabaiana",2020-08-05,"forecast",23,66,34,51,44,45.1082
+"SE-Itabaiana",2020-08-06,"forecast",17,63,29,47,41,42.2658
+"SE-Itabaiana",2020-08-07,"forecast",14,61,24,43,39,39.9428
+"SE-Itabaiana",2020-08-08,"forecast",11,60,22,42,37,37.8698
+"SE-Itabaiana",2020-08-09,"forecast",8,57,20,39,34,35.4046
+"SE-Itabaiana",2020-08-10,"forecast",10,59,17,37,32,34.055
+"SE-Itabaiana",2020-08-11,"forecast",5,55,14,34,30,31.9968
+"SE-Itabaiana",2020-08-12,"forecast",3,53,13,33,28,30.1726
+"SE-Itabaiana",2020-08-13,"forecast",0,50,10,30,26,28.3778
+"SE-Itabaiana",2020-08-14,"forecast",0,48,9,28,24,26.922
+"SE-Itabaiana",2020-08-15,"forecast",0,47,8,27,23,25.4498
+"SE-Itabaiana",2020-08-16,"forecast",0,45,7,25,21,24.0052
+"SE-Itabaiana",2020-08-17,"forecast",0,44,7,24,19,22.541
 "SE-Itabaianinha",2020-03-09,"nowcast",1,1,1,1,1,1
 "SE-Itabaianinha",2020-03-10,"nowcast",0,1,0,1,0.5,0.5
 "SE-Itabaianinha",2020-03-11,"nowcast",0,1,0,1,0.5,0.5
@@ -3652,161 +3685,168 @@
 "SE-Itaporanga d'Ajuda",2020-08-10,"forecast",0,48,0,18,18,23.3634
 "SE-Itaporanga d'Ajuda",2020-08-11,"forecast",0,50,0,18,18,23.6042
 "SE-Itaporanga d'Ajuda",2020-08-12,"forecast",0,53,0,18,18,24.3398
-"SE-Lagarto",2020-03-01,"nowcast",1,1,1,1,1,1
+"SE-Lagarto",2020-02-24,"nowcast",1,1,1,1,1,1
+"SE-Lagarto",2020-02-25,"nowcast",0,0,0,0,0,0
+"SE-Lagarto",2020-02-26,"nowcast",0,0,0,0,0,0
+"SE-Lagarto",2020-02-27,"nowcast",0,0,0,0,0,0
+"SE-Lagarto",2020-02-28,"nowcast",0,0,0,0,0,0
+"SE-Lagarto",2020-02-29,"nowcast",0,0,0,0,0,0
+"SE-Lagarto",2020-03-01,"nowcast",0,0,0,0,0,0
 "SE-Lagarto",2020-03-02,"nowcast",0,0,0,0,0,0
-"SE-Lagarto",2020-03-03,"nowcast",1,1,1,1,1,1
+"SE-Lagarto",2020-03-03,"nowcast",0,0,0,0,0,0
 "SE-Lagarto",2020-03-04,"nowcast",0,0,0,0,0,0
 "SE-Lagarto",2020-03-05,"nowcast",0,0,0,0,0,0
-"SE-Lagarto",2020-03-06,"nowcast",1,1,1,1,1,1
+"SE-Lagarto",2020-03-06,"nowcast",0,0,0,0,0,0
 "SE-Lagarto",2020-03-07,"nowcast",0,0,0,0,0,0
 "SE-Lagarto",2020-03-08,"nowcast",0,0,0,0,0,0
-"SE-Lagarto",2020-03-09,"nowcast",0,1,0,1,0.5,0.5
+"SE-Lagarto",2020-03-09,"nowcast",0,0,0,0,0,0
 "SE-Lagarto",2020-03-10,"nowcast",0,0,0,0,0,0
-"SE-Lagarto",2020-03-11,"nowcast",0,0,0,0,0,0
+"SE-Lagarto",2020-03-11,"nowcast",0,1,0,1,0.5,0.5
 "SE-Lagarto",2020-03-12,"nowcast",0,0,0,0,0,0
-"SE-Lagarto",2020-03-13,"nowcast",0,1,0,0,0,0.333333333333333
-"SE-Lagarto",2020-03-14,"nowcast",0,1,0,0,0,0.25
-"SE-Lagarto",2020-03-15,"nowcast",0,1,0,0,0,0.25
-"SE-Lagarto",2020-03-16,"nowcast",0,1,0,0,0,0.428571428571429
-"SE-Lagarto",2020-03-17,"nowcast",0,0,0,0,0,0
-"SE-Lagarto",2020-03-18,"nowcast",0,1,0,0,0,0.222222222222222
-"SE-Lagarto",2020-03-19,"nowcast",0,1,0,0,0,0.307692307692308
-"SE-Lagarto",2020-03-20,"nowcast",0,0,0,0,0,0.0714285714285714
-"SE-Lagarto",2020-03-21,"nowcast",0,1,0,0,0,0.277777777777778
-"SE-Lagarto",2020-03-22,"nowcast",0,1,0,0,0,0.392857142857143
-"SE-Lagarto",2020-03-23,"nowcast",0,1,0,0,0,0.133333333333333
-"SE-Lagarto",2020-03-24,"nowcast",0,1,0,0,0,0.222222222222222
-"SE-Lagarto",2020-03-25,"nowcast",0,1,0,0,0,0.34
-"SE-Lagarto",2020-03-26,"nowcast",0,1,0,0,0,0.234375
-"SE-Lagarto",2020-03-27,"nowcast",0,1,0,0,0,0.293333333333333
-"SE-Lagarto",2020-03-28,"nowcast",0,1,0,0,0,0.37962962962963
-"SE-Lagarto",2020-03-29,"nowcast",0,1,0,0,0,0.174603174603175
-"SE-Lagarto",2020-03-30,"nowcast",0,1,0,0,0,0.305732484076433
-"SE-Lagarto",2020-03-31,"nowcast",0,1,0,0,0,0.27319587628866
-"SE-Lagarto",2020-04-01,"nowcast",0,1,0,0,0,0.226666666666667
-"SE-Lagarto",2020-04-02,"nowcast",0,1,0,0,0,0.276752767527675
-"SE-Lagarto",2020-04-03,"nowcast",0,1,0,0,0,0.286585365853659
-"SE-Lagarto",2020-04-04,"nowcast",0,1,0,0,0,0.297979797979798
-"SE-Lagarto",2020-04-05,"nowcast",0,1,0,0,0,0.282608695652174
-"SE-Lagarto",2020-04-06,"nowcast",0,1,0,0,0,0.333333333333333
-"SE-Lagarto",2020-04-07,"nowcast",0,1,0,0,0,0.304838709677419
-"SE-Lagarto",2020-04-08,"nowcast",0,1,0,0,0,0.31548480463097
-"SE-Lagarto",2020-04-09,"nowcast",0,1,0,0,0,0.365435356200528
-"SE-Lagarto",2020-04-10,"nowcast",0,1,0,0,0,0.374083129584352
-"SE-Lagarto",2020-04-11,"nowcast",0,1,0,0,0,0.40418118466899
-"SE-Lagarto",2020-04-12,"nowcast",0,1,0,0,0,0.412946428571429
-"SE-Lagarto",2020-04-13,"nowcast",0,1,0,0,0,0.463362068965517
-"SE-Lagarto",2020-04-14,"nowcast",0,1,0,0,0,0.484177215189873
-"SE-Lagarto",2020-04-15,"nowcast",0,2,0,0,0,0.582815734989648
-"SE-Lagarto",2020-04-16,"nowcast",0,2,0,0,0,0.633673469387755
-"SE-Lagarto",2020-04-17,"nowcast",0,2,0,1,1,0.749746707193516
-"SE-Lagarto",2020-04-18,"nowcast",0,2,0,1,1,0.910552763819095
-"SE-Lagarto",2020-04-19,"nowcast",0,2,0,1,1,0.966933867735471
-"SE-Lagarto",2020-04-20,"nowcast",0,3,0,1,1,1.21221221221221
-"SE-Lagarto",2020-04-21,"nowcast",0,3,0,1,1,1.323
-"SE-Lagarto",2020-04-22,"nowcast",0,3,0,1,1,1.39
-"SE-Lagarto",2020-04-23,"nowcast",0,3,0,1,1,1.551
-"SE-Lagarto",2020-04-24,"nowcast",0,3,1,2,2,1.74
-"SE-Lagarto",2020-04-25,"nowcast",0,4,1,2,2,1.884
-"SE-Lagarto",2020-04-26,"nowcast",0,4,1,2,2,1.931
-"SE-Lagarto",2020-04-27,"nowcast",0,4,1,2,2,1.933
-"SE-Lagarto",2020-04-28,"nowcast",0,4,1,2,2,1.902
-"SE-Lagarto",2020-04-29,"nowcast",0,4,1,2,2,2.049
-"SE-Lagarto",2020-04-30,"nowcast",0,4,1,2,2,2.044
-"SE-Lagarto",2020-05-01,"nowcast",0,4,0,2,2,2.382
-"SE-Lagarto",2020-05-02,"nowcast",0,5,1,3,3,2.678
-"SE-Lagarto",2020-05-03,"nowcast",0,5,1,3,3,2.914
-"SE-Lagarto",2020-05-04,"nowcast",1,6,1,3,3,3.364
-"SE-Lagarto",2020-05-05,"nowcast",1,6,2,4,4,3.701
-"SE-Lagarto",2020-05-06,"nowcast",1,7,2,4,4,4.198
-"SE-Lagarto",2020-05-07,"nowcast",1,8,3,5,4,4.576
-"SE-Lagarto",2020-05-08,"nowcast",1,8,2,5,5,5.239
-"SE-Lagarto",2020-05-09,"nowcast",1,9,3,6,6,5.818
-"SE-Lagarto",2020-05-10,"nowcast",2,10,4,7,6,6.564
-"SE-Lagarto",2020-05-11,"nowcast",3,11,5,8,7,7.373
-"SE-Lagarto",2020-05-12,"nowcast",4,12,6,9,8,8.058
-"SE-Lagarto",2020-05-13,"nowcast",4,13,7,10,9,8.772
-"SE-Lagarto",2020-05-14,"nowcast",5,14,8,11,9,9.404
-"SE-Lagarto",2020-05-15,"nowcast",5,14,8,11,9,9.38
-"SE-Lagarto",2020-05-16,"nowcast",3,13,5,9,9,9.065
-"SE-Lagarto",2020-05-17,"nowcast",3,12,6,9,8,8.373
-"SE-Lagarto",2020-05-18,"nowcast",4,12,5,8,7,7.545
-"SE-Lagarto",2020-05-19,"nowcast",2,10,4,7,6,6.71
-"SE-Lagarto",2020-05-20,"nowcast",2,10,3,6,6,6.275
-"SE-Lagarto",2020-05-21,"nowcast",3,10,3,6,6,6.076
-"SE-Lagarto",2020-05-22,"nowcast",3,10,3,6,6,6.342
-"SE-Lagarto",2020-05-23,"nowcast",2,10,4,7,6,6.61
-"SE-Lagarto",2020-05-24,"nowcast",3,11,5,8,7,7.267
-"SE-Lagarto",2020-05-25,"nowcast",3,11,5,8,7,7.415
-"SE-Lagarto",2020-05-26,"nowcast",4,12,6,9,8,7.925
-"SE-Lagarto",2020-05-27,"nowcast",3,12,6,9,8,8.176
-"SE-Lagarto",2020-05-28,"nowcast",4,13,7,10,9,8.832
-"SE-Lagarto",2020-05-29,"nowcast",5,14,6,10,9,9.394
-"SE-Lagarto",2020-05-30,"nowcast",5,15,6,10,10,10.279
-"SE-Lagarto",2020-05-31,"nowcast",6,16,7,11,11,11.046
-"SE-Lagarto",2020-06-01,"nowcast",5,16,8,12,12,11.825
-"SE-Lagarto",2020-06-02,"nowcast",6,17,9,13,12,12.523
-"SE-Lagarto",2020-06-03,"nowcast",8,19,8,13,13,13.18
-"SE-Lagarto",2020-06-04,"nowcast",8,19,9,14,14,13.887
-"SE-Lagarto",2020-06-05,"nowcast",8,20,10,15,14,14.627
-"SE-Lagarto",2020-06-06,"nowcast",9,21,10,15,15,14.981
-"SE-Lagarto",2020-06-07,"nowcast",8,21,11,16,15,15.453
-"SE-Lagarto",2020-06-08,"nowcast",9,21,12,17,16,15.811
-"SE-Lagarto",2020-06-09,"nowcast",8,21,12,17,16,15.702
-"SE-Lagarto",2020-06-10,"nowcast",10,22,12,17,16,15.88
-"SE-Lagarto",2020-06-11,"nowcast",9,21,11,16,16,16.032
-"SE-Lagarto",2020-06-12,"nowcast",9,22,12,17,16,16.349
-"SE-Lagarto",2020-06-13,"nowcast",9,22,12,17,17,16.85
-"SE-Lagarto",2020-06-14,"nowcast",11,24,14,19,18,17.645
-"SE-Lagarto",2020-06-15,"nowcast",12,25,15,20,18,18.26
-"SE-Lagarto",2020-06-16,"nowcast",12,25,15,20,19,18.92
-"SE-Lagarto",2020-06-17,"nowcast",12,26,17,22,20,19.878
-"SE-Lagarto",2020-06-18,"nowcast",14,28,16,22,21,20.946
-"SE-Lagarto",2020-06-19,"nowcast",15,29,16,22,22,21.866
-"SE-Lagarto",2020-06-20,"nowcast",15,30,18,24,23,22.885
-"SE-Lagarto",2020-06-21,"nowcast",15,30,19,25,24,23.875
-"SE-Lagarto",2020-06-22,"nowcast",18,32,20,26,24,24.772
-"SE-Lagarto",2020-06-23,"nowcast",17,33,21,27,25,25.492
-"SE-Lagarto",2020-06-24,"nowcast",19,34,21,27,26,26.202
-"SE-Lagarto",2020-06-25,"nowcast",17,34,21,28,27,27.407
-"SE-Lagarto",2020-06-26,"nowcast",20,36,25,31,28,28.695
-"SE-Lagarto",2020-06-27,"nowcast",20,37,26,32,30,29.55
-"SE-Lagarto",2020-06-28,"nowcast",22,38,25,32,30,30.457
-"SE-Lagarto",2020-06-29,"nowcast",22,39,29,35,31,31.3
-"SE-Lagarto",2020-06-30,"nowcast",23,41,26,33,32,31.867
-"SE-Lagarto",2020-07-01,"nowcast",23,40,26,33,32,32.123
-"SE-Lagarto",2020-07-02,"nowcast",22,40,27,34,33,32.692
-"SE-Lagarto",2020-07-03,"nowcast",24,41,29,36,33,33.377
-"SE-Lagarto",2020-07-04,"nowcast",24,42,29,36,34,33.761
-"SE-Lagarto",2020-07-05,"nowcast",25,43,29,36,34,34.273
-"SE-Lagarto",2020-07-06,"nowcast",25,43,28,36,35,34.976
-"SE-Lagarto",2020-07-07,"nowcast",25,44,31,38,35,35.283
-"SE-Lagarto",2020-07-08,"nowcast",25,44,33,40,36,35.864
-"SE-Lagarto",2020-07-09,"nowcast",28,48,33,40,37,37.092
-"SE-Lagarto",2020-07-10,"nowcast",28,48,33,41,38,38.366
-"SE-Lagarto",2020-07-11,"nowcast",31,50,34,42,40,40.276
-"SE-Lagarto",2020-07-12,"nowcast",32,53,36,44,42,42.499
-"SE-Lagarto",2020-07-13,"nowcast",33,53,38,46,44,43.983
-"SE-Lagarto",2020-07-14,"nowcast",34,55,40,48,45,45.235
-"SE-Lagarto",2020-07-15,"nowcast",36,57,40,48,45,45.662
-"SE-Lagarto",2020-07-16,"nowcast",33,55,38,47,45,45.131
-"SE-Lagarto",2020-07-17,"nowcast",33,54,39,47,44,44.423
-"SE-Lagarto",2020-07-18,"nowcast",34,54,37,45,43,43.236
-"SE-Lagarto",2020-07-19,"nowcast",33,53,38,46,43,43.167
-"SE-Lagarto",2020-07-20,"nowcast",31,51,37,45,43,42.629
-"SE-Lagarto",2020-07-21,"nowcast",31,52,37,45,43,43.064
-"SE-Lagarto",2020-07-22,"nowcast",33,54,39,47,43,43.687
-"SE-Lagarto",2020-07-23,"nowcast",31,52,37,45,42,42.242
-"SE-Lagarto",2020-07-24,"nowcast",30,51,36,44,41,41.388
-"SE-Lagarto",2020-07-25,"nowcast",31,50,37,44,41,41.063
-"SE-Lagarto",2020-07-26,"nowcast",31,50,34,42,40,40.457
-"SE-Lagarto",2020-07-27,"nowcast",29,48,34,42,40,39.928
-"SE-Lagarto",2020-07-28,"nowcast",30,50,35,43,40,40.245
-"SE-Lagarto",2020-07-29,"nowcast",28,48,34,42,40,39.88
-"SE-Lagarto",2020-07-30,"nowcast",28,50,35,43,40,40.527
-"SE-Lagarto",2020-07-31,"nowcast",30,52,34,43,41,41.332
-"SE-Lagarto",2020-08-01,"nowcast",28,53,37,46,42,42.494
-"SE-Lagarto",2020-08-02,"nowcast",31,54,37,46,43,43.364
+"SE-Lagarto",2020-03-13,"nowcast",0,1,0,1,0.5,0.5
+"SE-Lagarto",2020-03-14,"nowcast",0,0,0,0,0,0
+"SE-Lagarto",2020-03-15,"nowcast",0,0,0,0,0,0
+"SE-Lagarto",2020-03-16,"nowcast",0,1,0,1,0.5,0.5
+"SE-Lagarto",2020-03-17,"nowcast",0,1,0,0,0,0.2
+"SE-Lagarto",2020-03-18,"nowcast",0,1,1,1,1,0.545454545454545
+"SE-Lagarto",2020-03-19,"nowcast",0,1,0,0,0,0.230769230769231
+"SE-Lagarto",2020-03-20,"nowcast",0,1,0,0,0,0.352941176470588
+"SE-Lagarto",2020-03-21,"nowcast",0,1,0,0,0,0.105263157894737
+"SE-Lagarto",2020-03-22,"nowcast",0,1,0,0,0,0.357142857142857
+"SE-Lagarto",2020-03-23,"nowcast",0,1,0,0,0,0.1875
+"SE-Lagarto",2020-03-24,"nowcast",0,1,0,0,0,0.210526315789474
+"SE-Lagarto",2020-03-25,"nowcast",0,1,0,0,0,0.320754716981132
+"SE-Lagarto",2020-03-26,"nowcast",0,1,0,0,0,0.283582089552239
+"SE-Lagarto",2020-03-27,"nowcast",0,1,0,0,0,0.288888888888889
+"SE-Lagarto",2020-03-28,"nowcast",0,1,0,0,0,0.284403669724771
+"SE-Lagarto",2020-03-29,"nowcast",0,1,0,0,0,0.308823529411765
+"SE-Lagarto",2020-03-30,"nowcast",0,1,0,0,0,0.284023668639053
+"SE-Lagarto",2020-03-31,"nowcast",0,1,0,0,0,0.221649484536082
+"SE-Lagarto",2020-04-01,"nowcast",0,1,0,0,0,0.318548387096774
+"SE-Lagarto",2020-04-02,"nowcast",0,1,0,0,0,0.301694915254237
+"SE-Lagarto",2020-04-03,"nowcast",0,1,0,0,0,0.307262569832402
+"SE-Lagarto",2020-04-04,"nowcast",0,1,0,0,0,0.308411214953271
+"SE-Lagarto",2020-04-05,"nowcast",0,1,0,0,0,0.316733067729084
+"SE-Lagarto",2020-04-06,"nowcast",0,1,0,0,0,0.245989304812834
+"SE-Lagarto",2020-04-07,"nowcast",0,1,0,0,0,0.280701754385965
+"SE-Lagarto",2020-04-08,"nowcast",0,1,0,0,0,0.348441926345609
+"SE-Lagarto",2020-04-09,"nowcast",0,1,0,0,0,0.345052083333333
+"SE-Lagarto",2020-04-10,"nowcast",0,1,0,0,0,0.351941747572816
+"SE-Lagarto",2020-04-11,"nowcast",0,1,0,0,0,0.390660592255125
+"SE-Lagarto",2020-04-12,"nowcast",0,1,0,0,0,0.436205016357688
+"SE-Lagarto",2020-04-13,"nowcast",0,1,0,0,0,0.491578947368421
+"SE-Lagarto",2020-04-14,"nowcast",0,1,0,0,0,0.509824198552223
+"SE-Lagarto",2020-04-15,"nowcast",0,1,0,0,0,0.509146341463415
+"SE-Lagarto",2020-04-16,"nowcast",0,2,0,0,0,0.610717896865521
+"SE-Lagarto",2020-04-17,"nowcast",0,2,0,1,1,0.770854271356784
+"SE-Lagarto",2020-04-18,"nowcast",0,2,0,1,1,0.85456369107322
+"SE-Lagarto",2020-04-19,"nowcast",0,2,0,1,1,1.002002002002
+"SE-Lagarto",2020-04-20,"nowcast",0,3,0,1,1,1.12
+"SE-Lagarto",2020-04-21,"nowcast",0,3,0,1,1,1.404
+"SE-Lagarto",2020-04-22,"nowcast",0,3,0,1,1,1.453
+"SE-Lagarto",2020-04-23,"nowcast",0,3,1,2,2,1.647
+"SE-Lagarto",2020-04-24,"nowcast",0,3,1,2,2,1.788
+"SE-Lagarto",2020-04-25,"nowcast",0,3,1,2,2,1.799
+"SE-Lagarto",2020-04-26,"nowcast",0,4,1,2,2,1.836
+"SE-Lagarto",2020-04-27,"nowcast",0,4,1,2,2,1.917
+"SE-Lagarto",2020-04-28,"nowcast",0,4,1,2,2,1.917
+"SE-Lagarto",2020-04-29,"nowcast",0,4,1,2,2,1.971
+"SE-Lagarto",2020-04-30,"nowcast",0,4,1,2,2,2.131
+"SE-Lagarto",2020-05-01,"nowcast",0,4,0,2,2,2.388
+"SE-Lagarto",2020-05-02,"nowcast",0,5,0,2,2,2.638
+"SE-Lagarto",2020-05-03,"nowcast",0,5,1,3,3,2.943
+"SE-Lagarto",2020-05-04,"nowcast",1,6,1,3,3,3.284
+"SE-Lagarto",2020-05-05,"nowcast",0,6,2,4,4,3.726
+"SE-Lagarto",2020-05-06,"nowcast",1,7,2,4,4,4.017
+"SE-Lagarto",2020-05-07,"nowcast",0,7,3,5,4,4.592
+"SE-Lagarto",2020-05-08,"nowcast",1,8,4,6,5,5.178
+"SE-Lagarto",2020-05-09,"nowcast",2,9,3,6,6,5.832
+"SE-Lagarto",2020-05-10,"nowcast",2,10,4,7,6,6.453
+"SE-Lagarto",2020-05-11,"nowcast",3,11,5,8,7,7.267
+"SE-Lagarto",2020-05-12,"nowcast",4,12,6,9,8,8.142
+"SE-Lagarto",2020-05-13,"nowcast",4,13,7,10,9,8.844
+"SE-Lagarto",2020-05-14,"nowcast",4,13,6,10,9,9.372
+"SE-Lagarto",2020-05-15,"nowcast",5,14,6,10,9,9.404
+"SE-Lagarto",2020-05-16,"nowcast",4,13,5,9,9,9.358
+"SE-Lagarto",2020-05-17,"nowcast",4,13,6,9,8,8.566
+"SE-Lagarto",2020-05-18,"nowcast",3,11,5,8,7,7.574
+"SE-Lagarto",2020-05-19,"nowcast",3,11,4,7,7,6.797
+"SE-Lagarto",2020-05-20,"nowcast",2,9,3,6,6,6.143
+"SE-Lagarto",2020-05-21,"nowcast",2,9,3,6,6,6.07
+"SE-Lagarto",2020-05-22,"nowcast",2,10,4,7,6,6.384
+"SE-Lagarto",2020-05-23,"nowcast",2,10,4,7,7,6.766
+"SE-Lagarto",2020-05-24,"nowcast",3,11,4,7,7,7.163
+"SE-Lagarto",2020-05-25,"nowcast",2,11,5,8,7,7.519
+"SE-Lagarto",2020-05-26,"nowcast",3,12,5,8,8,7.791
+"SE-Lagarto",2020-05-27,"nowcast",3,12,4,8,8,8.219
+"SE-Lagarto",2020-05-28,"nowcast",4,13,7,10,9,8.856
+"SE-Lagarto",2020-05-29,"nowcast",4,14,6,10,9,9.465
+"SE-Lagarto",2020-05-30,"nowcast",5,15,6,10,10,10.138
+"SE-Lagarto",2020-05-31,"nowcast",6,16,7,11,11,11.01
+"SE-Lagarto",2020-06-01,"nowcast",6,16,8,12,12,11.741
+"SE-Lagarto",2020-06-02,"nowcast",6,17,9,13,12,12.547
+"SE-Lagarto",2020-06-03,"nowcast",6,18,11,15,13,13.49
+"SE-Lagarto",2020-06-04,"nowcast",8,19,11,15,14,14.011
+"SE-Lagarto",2020-06-05,"nowcast",8,20,10,15,14,14.578
+"SE-Lagarto",2020-06-06,"nowcast",9,21,11,16,15,15.46
+"SE-Lagarto",2020-06-07,"nowcast",10,21,11,16,15,15.579
+"SE-Lagarto",2020-06-08,"nowcast",9,21,13,17,16,15.943
+"SE-Lagarto",2020-06-09,"nowcast",9,21,12,17,16,15.712
+"SE-Lagarto",2020-06-10,"nowcast",8,21,12,17,16,15.948
+"SE-Lagarto",2020-06-11,"nowcast",9,21,12,17,16,15.962
+"SE-Lagarto",2020-06-12,"nowcast",10,22,12,17,16,16.501
+"SE-Lagarto",2020-06-13,"nowcast",11,24,14,19,17,16.981
+"SE-Lagarto",2020-06-14,"nowcast",11,23,14,19,17,17.537
+"SE-Lagarto",2020-06-15,"nowcast",11,24,14,19,18,17.984
+"SE-Lagarto",2020-06-16,"nowcast",12,26,15,20,19,18.94
+"SE-Lagarto",2020-06-17,"nowcast",13,27,15,21,20,19.897
+"SE-Lagarto",2020-06-18,"nowcast",13,27,16,22,21,20.834
+"SE-Lagarto",2020-06-19,"nowcast",15,29,17,23,22,21.999
+"SE-Lagarto",2020-06-20,"nowcast",14,29,18,24,23,22.956
+"SE-Lagarto",2020-06-21,"nowcast",16,31,18,24,23,23.673
+"SE-Lagarto",2020-06-22,"nowcast",17,32,21,27,25,24.843
+"SE-Lagarto",2020-06-23,"nowcast",17,33,21,27,25,25.235
+"SE-Lagarto",2020-06-24,"nowcast",19,35,22,28,26,26.301
+"SE-Lagarto",2020-06-25,"nowcast",19,35,23,29,27,27.326
+"SE-Lagarto",2020-06-26,"nowcast",19,36,23,30,28,28.539
+"SE-Lagarto",2020-06-27,"nowcast",21,38,27,33,30,29.94
+"SE-Lagarto",2020-06-28,"nowcast",22,39,25,32,30,30.453
+"SE-Lagarto",2020-06-29,"nowcast",21,39,26,33,32,31.9
+"SE-Lagarto",2020-06-30,"nowcast",22,40,27,34,32,32.121
+"SE-Lagarto",2020-07-01,"nowcast",23,40,27,34,32,31.911
+"SE-Lagarto",2020-07-02,"nowcast",22,40,26,33,32,32.458
+"SE-Lagarto",2020-07-03,"nowcast",24,42,27,34,33,32.971
+"SE-Lagarto",2020-07-04,"nowcast",24,42,28,35,33,33.617
+"SE-Lagarto",2020-07-05,"nowcast",25,44,29,36,34,34.118
+"SE-Lagarto",2020-07-06,"nowcast",25,44,30,37,35,35.008
+"SE-Lagarto",2020-07-07,"nowcast",25,44,29,37,35,35.475
+"SE-Lagarto",2020-07-08,"nowcast",26,44,32,39,36,36.044
+"SE-Lagarto",2020-07-09,"nowcast",27,46,30,38,37,36.882
+"SE-Lagarto",2020-07-10,"nowcast",27,47,32,40,38,38.338
+"SE-Lagarto",2020-07-11,"nowcast",30,50,34,42,40,40.468
+"SE-Lagarto",2020-07-12,"nowcast",32,53,38,46,43,42.785
+"SE-Lagarto",2020-07-13,"nowcast",33,53,40,48,44,44.121
+"SE-Lagarto",2020-07-14,"nowcast",35,56,39,47,45,45.172
+"SE-Lagarto",2020-07-15,"nowcast",35,56,40,48,45,45.656
+"SE-Lagarto",2020-07-16,"nowcast",35,56,41,49,45,45.62
+"SE-Lagarto",2020-07-17,"nowcast",32,54,40,48,45,44.87
+"SE-Lagarto",2020-07-18,"nowcast",32,53,38,46,43.5,43.536
+"SE-Lagarto",2020-07-19,"nowcast",32,52,37,45,43,43.066
+"SE-Lagarto",2020-07-20,"nowcast",33,53,37,45,43,43.143
+"SE-Lagarto",2020-07-21,"nowcast",31,52,36,44,42,42.911
+"SE-Lagarto",2020-07-22,"nowcast",32,52,38,46,43,43.553
+"SE-Lagarto",2020-07-23,"nowcast",33,53,36,44,43,42.802
+"SE-Lagarto",2020-07-24,"nowcast",31,51,35,43,42,42.076
+"SE-Lagarto",2020-07-25,"nowcast",29,49,34,42,40,40.522
+"SE-Lagarto",2020-07-26,"nowcast",31,51,37,44,40,40.565
+"SE-Lagarto",2020-07-27,"nowcast",29,49,33,41,40,40.267
+"SE-Lagarto",2020-07-28,"nowcast",29,49,33,41,39,39.796
+"SE-Lagarto",2020-07-29,"nowcast",29,49,33,41,40,39.984
+"SE-Lagarto",2020-07-30,"nowcast",31,51,35,43,41,40.602
+"SE-Lagarto",2020-07-31,"nowcast",30,51,33,42,41,41.302
+"SE-Lagarto",2020-08-01,"nowcast",29,52,34,43,42,42.456
+"SE-Lagarto",2020-08-02,"nowcast",29,53,36,45,42,42.795
+"SE-Lagarto",2020-08-03,"nowcast",30,55,38,48,43,43.712
 "SE-Lagarto",2020-04-16,"observed",NA,NA,NA,NA,1,NA
 "SE-Lagarto",2020-04-17,"observed",NA,NA,NA,NA,0,NA
 "SE-Lagarto",2020-04-18,"observed",NA,NA,NA,NA,0,NA
@@ -3926,21 +3966,22 @@
 "SE-Lagarto",2020-08-10,"observed",NA,NA,NA,NA,0,NA
 "SE-Lagarto",2020-08-11,"observed",NA,NA,NA,NA,76,NA
 "SE-Lagarto",2020-08-12,"observed",NA,NA,NA,NA,46,NA
-"SE-Lagarto",2020-08-13,"observed",NA,NA,NA,NA,0,NA
-"SE-Lagarto",2020-08-03,"forecast",24,58,35,48,42,42.8934
-"SE-Lagarto",2020-08-04,"forecast",24,61,31,46,42,43.3186
-"SE-Lagarto",2020-08-05,"forecast",22,62,30,46,42,43.3452
-"SE-Lagarto",2020-08-06,"forecast",20,65,30,47,43,44.301
-"SE-Lagarto",2020-08-07,"forecast",20,68,26,45,42,44.3456
-"SE-Lagarto",2020-08-08,"forecast",17,68,27,46,42,44.5478
-"SE-Lagarto",2020-08-09,"forecast",17,72,29,49,42,45.1596
-"SE-Lagarto",2020-08-10,"forecast",14,72,25,47,43,45.4984
-"SE-Lagarto",2020-08-11,"forecast",11,74,24,47,42,46.1504
-"SE-Lagarto",2020-08-12,"forecast",12,78,24,48,43,47.0816
-"SE-Lagarto",2020-08-13,"forecast",12,80,20,46,43,47.4314
-"SE-Lagarto",2020-08-14,"forecast",11,82,21,47,42,48.1086
-"SE-Lagarto",2020-08-15,"forecast",10,84,22,49,42,49.1008
-"SE-Lagarto",2020-08-16,"forecast",6,85,18,47,43,50.462
+"SE-Lagarto",2020-08-13,"observed",NA,NA,NA,NA,47,NA
+"SE-Lagarto",2020-08-14,"observed",NA,NA,NA,NA,0,NA
+"SE-Lagarto",2020-08-04,"forecast",26,60,31,45,43,43.4482
+"SE-Lagarto",2020-08-05,"forecast",23,61,31,46,43,44.041
+"SE-Lagarto",2020-08-06,"forecast",21,63,31,47,43,44.5594
+"SE-Lagarto",2020-08-07,"forecast",20,65,28,46,43,44.7678
+"SE-Lagarto",2020-08-08,"forecast",19,67,32,50,43,45.151
+"SE-Lagarto",2020-08-09,"forecast",18,70,28,48,44,45.7904
+"SE-Lagarto",2020-08-10,"forecast",17,72,28,49,44,46.3302
+"SE-Lagarto",2020-08-11,"forecast",17,76,25,48,44,46.798
+"SE-Lagarto",2020-08-12,"forecast",14,77,25,49,44,47.352
+"SE-Lagarto",2020-08-13,"forecast",12,78,23,48,44,47.7584
+"SE-Lagarto",2020-08-14,"forecast",13,81,24,49,44,48.187
+"SE-Lagarto",2020-08-15,"forecast",9,82,25,51,43,48.8872
+"SE-Lagarto",2020-08-16,"forecast",8,84,24,51,43,49.6598
+"SE-Lagarto",2020-08-17,"forecast",9,89,21,50,44,50.299
 "SE-Malhador",2020-03-20,"nowcast",1,1,1,1,1,1
 "SE-Malhador",2020-03-21,"nowcast",0,0,0,0,0,0
 "SE-Malhador",2020-03-22,"nowcast",0,0,0,0,0,0
@@ -5146,156 +5187,154 @@
 "SE-Nossa Senhora das Dores",2020-08-07,"forecast",0,42,3,19,17,21.2786
 "SE-Nossa Senhora das Dores",2020-08-08,"forecast",0,44,0,17,17,21.9462
 "SE-Nossa Senhora das Dores",2020-08-09,"forecast",0,46,0,17,17,22.2576
-"SE-Nossa Senhora do Socorro",2020-03-06,"nowcast",1,1,1,1,1,1
-"SE-Nossa Senhora do Socorro",2020-03-07,"nowcast",0,0,0,0,0,0
-"SE-Nossa Senhora do Socorro",2020-03-08,"nowcast",0,1,0,1,0.5,0.5
-"SE-Nossa Senhora do Socorro",2020-03-09,"nowcast",0,0,0,0,0,0
-"SE-Nossa Senhora do Socorro",2020-03-10,"nowcast",0,1,0,1,0.5,0.5
-"SE-Nossa Senhora do Socorro",2020-03-11,"nowcast",0,1,0,1,0.5,0.5
-"SE-Nossa Senhora do Socorro",2020-03-12,"nowcast",0,0,0,0,0,0
-"SE-Nossa Senhora do Socorro",2020-03-13,"nowcast",0,1,0,0,0,0.2
-"SE-Nossa Senhora do Socorro",2020-03-14,"nowcast",0,1,0,0,0,0.166666666666667
-"SE-Nossa Senhora do Socorro",2020-03-15,"nowcast",0,1,0,0,0,0.25
-"SE-Nossa Senhora do Socorro",2020-03-16,"nowcast",0,1,0,0,0,0.272727272727273
-"SE-Nossa Senhora do Socorro",2020-03-17,"nowcast",0,1,0,0,0,0.153846153846154
-"SE-Nossa Senhora do Socorro",2020-03-18,"nowcast",0,1,0,0,0,0.294117647058824
-"SE-Nossa Senhora do Socorro",2020-03-19,"nowcast",0,1,0,0,0,0.19047619047619
-"SE-Nossa Senhora do Socorro",2020-03-20,"nowcast",0,1,0,0,0,0.366666666666667
-"SE-Nossa Senhora do Socorro",2020-03-21,"nowcast",0,1,0,0,0,0.277777777777778
-"SE-Nossa Senhora do Socorro",2020-03-22,"nowcast",0,1,0,0,0,0.333333333333333
-"SE-Nossa Senhora do Socorro",2020-03-23,"nowcast",0,1,0,0,0,0.290322580645161
-"SE-Nossa Senhora do Socorro",2020-03-24,"nowcast",0,1,0,0,0,0.25
-"SE-Nossa Senhora do Socorro",2020-03-25,"nowcast",0,1,0,0,0,0.340425531914894
-"SE-Nossa Senhora do Socorro",2020-03-26,"nowcast",0,1,0,0,0,0.336
-"SE-Nossa Senhora do Socorro",2020-03-27,"nowcast",0,1,0,0,0,0.293333333333333
-"SE-Nossa Senhora do Socorro",2020-03-28,"nowcast",0,1,0,0,0,0.313513513513514
-"SE-Nossa Senhora do Socorro",2020-03-29,"nowcast",0,1,0,0,0,0.367521367521368
-"SE-Nossa Senhora do Socorro",2020-03-30,"nowcast",0,1,0,0,0,0.36518771331058
-"SE-Nossa Senhora do Socorro",2020-03-31,"nowcast",0,1,0,0,0,0.303468208092486
-"SE-Nossa Senhora do Socorro",2020-04-01,"nowcast",0,1,0,0,0,0.351351351351351
-"SE-Nossa Senhora do Socorro",2020-04-02,"nowcast",0,1,0,0,0,0.390041493775934
-"SE-Nossa Senhora do Socorro",2020-04-03,"nowcast",0,1,0,0,0,0.444444444444444
-"SE-Nossa Senhora do Socorro",2020-04-04,"nowcast",0,1,0,0,0,0.446708463949843
-"SE-Nossa Senhora do Socorro",2020-04-05,"nowcast",0,1,0,0,0,0.480337078651685
-"SE-Nossa Senhora do Socorro",2020-04-06,"nowcast",0,1,0,0,0,0.559796437659033
-"SE-Nossa Senhora do Socorro",2020-04-07,"nowcast",0,2,0,1,1,0.653755868544601
-"SE-Nossa Senhora do Socorro",2020-04-08,"nowcast",0,2,0,1,1,0.774694783573807
-"SE-Nossa Senhora do Socorro",2020-04-09,"nowcast",0,2,0,1,1,0.840717299578059
-"SE-Nossa Senhora do Socorro",2020-04-10,"nowcast",0,2,0,1,1,0.988717948717949
-"SE-Nossa Senhora do Socorro",2020-04-11,"nowcast",0,3,0,1,1,1.16481294236603
-"SE-Nossa Senhora do Socorro",2020-04-12,"nowcast",0,3,0,1,1,1.4070351758794
-"SE-Nossa Senhora do Socorro",2020-04-13,"nowcast",0,4,0,1,1,1.67034068136273
-"SE-Nossa Senhora do Socorro",2020-04-14,"nowcast",0,4,1,2,2,2.001001001001
-"SE-Nossa Senhora do Socorro",2020-04-15,"nowcast",0,5,0,2,2,2.44
-"SE-Nossa Senhora do Socorro",2020-04-16,"nowcast",0,5,1,3,3,2.951
-"SE-Nossa Senhora do Socorro",2020-04-17,"nowcast",0,6,1,3,3,3.493
-"SE-Nossa Senhora do Socorro",2020-04-18,"nowcast",1,7,2,4,4,4.017
-"SE-Nossa Senhora do Socorro",2020-04-19,"nowcast",1,8,2,5,5,4.789
-"SE-Nossa Senhora do Socorro",2020-04-20,"nowcast",2,9,2,5,5,5.431
-"SE-Nossa Senhora do Socorro",2020-04-21,"nowcast",2,10,4,7,6,6.316
-"SE-Nossa Senhora do Socorro",2020-04-22,"nowcast",3,11,4,7,7,7.017
-"SE-Nossa Senhora do Socorro",2020-04-23,"nowcast",3,11,5,8,7,7.622
-"SE-Nossa Senhora do Socorro",2020-04-24,"nowcast",3,13,7,10,8,8.561
-"SE-Nossa Senhora do Socorro",2020-04-25,"nowcast",4,14,5,9,9,9.382
-"SE-Nossa Senhora do Socorro",2020-04-26,"nowcast",4,14,7,11,10,10.197
-"SE-Nossa Senhora do Socorro",2020-04-27,"nowcast",5,15,8,12,11,10.866
-"SE-Nossa Senhora do Socorro",2020-04-28,"nowcast",5,16,8,12,11,11.513
-"SE-Nossa Senhora do Socorro",2020-04-29,"nowcast",6,17,9,13,12,12.044
-"SE-Nossa Senhora do Socorro",2020-04-30,"nowcast",7,18,8,13,13,13.039
-"SE-Nossa Senhora do Socorro",2020-05-01,"nowcast",7,19,9,14,14,14.035
-"SE-Nossa Senhora do Socorro",2020-05-02,"nowcast",8,20,12,16,15,14.964
-"SE-Nossa Senhora do Socorro",2020-05-03,"nowcast",9,21,11,16,16,15.642
-"SE-Nossa Senhora do Socorro",2020-05-04,"nowcast",10,22,12,17,16,16.597
-"SE-Nossa Senhora do Socorro",2020-05-05,"nowcast",10,23,14,19,17,17.7
-"SE-Nossa Senhora do Socorro",2020-05-06,"nowcast",12,25,14,19,18,18.305
-"SE-Nossa Senhora do Socorro",2020-05-07,"nowcast",13,26,15,20,19,19.17
-"SE-Nossa Senhora do Socorro",2020-05-08,"nowcast",12,27,15,21,20,20.514
-"SE-Nossa Senhora do Socorro",2020-05-09,"nowcast",14,28,16,22,21,21.532
-"SE-Nossa Senhora do Socorro",2020-05-10,"nowcast",15,29,20,25,22,22.442
-"SE-Nossa Senhora do Socorro",2020-05-11,"nowcast",14,30,18,24,23,23.243
-"SE-Nossa Senhora do Socorro",2020-05-12,"nowcast",15,31,19,25,24,23.933
-"SE-Nossa Senhora do Socorro",2020-05-13,"nowcast",17,32,20,26,24,24.377
-"SE-Nossa Senhora do Socorro",2020-05-14,"nowcast",18,32,20,26,25,24.824
-"SE-Nossa Senhora do Socorro",2020-05-15,"nowcast",17,32,19,25,25,24.913
-"SE-Nossa Senhora do Socorro",2020-05-16,"nowcast",16,32,20,26,24,24.775
-"SE-Nossa Senhora do Socorro",2020-05-17,"nowcast",15,31,19,25,24,24.2
-"SE-Nossa Senhora do Socorro",2020-05-18,"nowcast",15,30,19,25,23.5,23.522
-"SE-Nossa Senhora do Socorro",2020-05-19,"nowcast",15,30,18,24,23,23.173
-"SE-Nossa Senhora do Socorro",2020-05-20,"nowcast",15,30,19,25,23,23.598
-"SE-Nossa Senhora do Socorro",2020-05-21,"nowcast",16,32,20,26,24,24.42
-"SE-Nossa Senhora do Socorro",2020-05-22,"nowcast",17,33,22,28,26,25.683
-"SE-Nossa Senhora do Socorro",2020-05-23,"nowcast",19,35,23,29,27,26.989
-"SE-Nossa Senhora do Socorro",2020-05-24,"nowcast",18,35,24,30,27,27.524
-"SE-Nossa Senhora do Socorro",2020-05-25,"nowcast",19,36,23,30,28.5,28.498
-"SE-Nossa Senhora do Socorro",2020-05-26,"nowcast",20,37,25,31,29,29.312
-"SE-Nossa Senhora do Socorro",2020-05-27,"nowcast",19,37,25,32,29,29.734
-"SE-Nossa Senhora do Socorro",2020-05-28,"nowcast",22,39,24,31,30,30.088
-"SE-Nossa Senhora do Socorro",2020-05-29,"nowcast",21,39,26,33,31,31.273
-"SE-Nossa Senhora do Socorro",2020-05-30,"nowcast",22,41,25,33,33,32.82
-"SE-Nossa Senhora do Socorro",2020-05-31,"nowcast",24,43,28,36,35,34.621
-"SE-Nossa Senhora do Socorro",2020-06-01,"nowcast",25,45,31,39,36,36.375
-"SE-Nossa Senhora do Socorro",2020-06-02,"nowcast",29,48,35,42,38,38.51
-"SE-Nossa Senhora do Socorro",2020-06-03,"nowcast",29,49,35,43,41,40.675
-"SE-Nossa Senhora do Socorro",2020-06-04,"nowcast",32,52,38,45,42,42.462
-"SE-Nossa Senhora do Socorro",2020-06-05,"nowcast",32,53,41,49,44,44.222
-"SE-Nossa Senhora do Socorro",2020-06-06,"nowcast",34,55,38,47,45,45.458
-"SE-Nossa Senhora do Socorro",2020-06-07,"nowcast",34,55,41,49,46,45.886
-"SE-Nossa Senhora do Socorro",2020-06-08,"nowcast",34,55,38,47,45,44.901
-"SE-Nossa Senhora do Socorro",2020-06-09,"nowcast",33,54,36,45,43,43.419
-"SE-Nossa Senhora do Socorro",2020-06-10,"nowcast",29,50,36,44,41,40.96
-"SE-Nossa Senhora do Socorro",2020-06-11,"nowcast",27,47,31,39,37,37.802
-"SE-Nossa Senhora do Socorro",2020-06-12,"nowcast",24,43,31,38,35,35.376
-"SE-Nossa Senhora do Socorro",2020-06-13,"nowcast",24,41,28,35,33,32.926
-"SE-Nossa Senhora do Socorro",2020-06-14,"nowcast",22,40,27,34,32,32.425
-"SE-Nossa Senhora do Socorro",2020-06-15,"nowcast",24,42,29,36,33,33.369
-"SE-Nossa Senhora do Socorro",2020-06-16,"nowcast",25,43,29,36,34,33.936
-"SE-Nossa Senhora do Socorro",2020-06-17,"nowcast",26,44,30,37,35,34.911
-"SE-Nossa Senhora do Socorro",2020-06-18,"nowcast",25,44,29,37,36,35.7
-"SE-Nossa Senhora do Socorro",2020-06-19,"nowcast",27,46,30,38,37,36.938
-"SE-Nossa Senhora do Socorro",2020-06-20,"nowcast",27,46,34,41,38,38.061
-"SE-Nossa Senhora do Socorro",2020-06-21,"nowcast",30,49,34,41,38,38.418
-"SE-Nossa Senhora do Socorro",2020-06-22,"nowcast",27,47,34,41,38,38.6
-"SE-Nossa Senhora do Socorro",2020-06-23,"nowcast",28,48,32,40,39,38.643
-"SE-Nossa Senhora do Socorro",2020-06-24,"nowcast",28,46,35,42,37,37.348
-"SE-Nossa Senhora do Socorro",2020-06-25,"nowcast",26,45,32,39,37,36.833
-"SE-Nossa Senhora do Socorro",2020-06-26,"nowcast",28,46,31,38,36,36.556
-"SE-Nossa Senhora do Socorro",2020-06-27,"nowcast",26,45,30,38,36,36.137
-"SE-Nossa Senhora do Socorro",2020-06-28,"nowcast",27,46,30,38,36,36.437
-"SE-Nossa Senhora do Socorro",2020-06-29,"nowcast",26,44,31,38,36,35.91
-"SE-Nossa Senhora do Socorro",2020-06-30,"nowcast",27,44,30,37,35,35.188
-"SE-Nossa Senhora do Socorro",2020-07-01,"nowcast",24,42,30,37,34,33.963
-"SE-Nossa Senhora do Socorro",2020-07-02,"nowcast",24,41,28,35,33.5,33.397
-"SE-Nossa Senhora do Socorro",2020-07-03,"nowcast",22,40,27,34,33,32.804
-"SE-Nossa Senhora do Socorro",2020-07-04,"nowcast",22,40,29,35,32,32.209
-"SE-Nossa Senhora do Socorro",2020-07-05,"nowcast",23,40,26,33,32,31.896
-"SE-Nossa Senhora do Socorro",2020-07-06,"nowcast",21,38,24,31,30,30.55
-"SE-Nossa Senhora do Socorro",2020-07-07,"nowcast",22,39,24,31,30,30.003
-"SE-Nossa Senhora do Socorro",2020-07-08,"nowcast",20,36,25,31,29,28.91
-"SE-Nossa Senhora do Socorro",2020-07-09,"nowcast",20,36,26,32,28,28.295
-"SE-Nossa Senhora do Socorro",2020-07-10,"nowcast",20,36,24,30,28,28.196
-"SE-Nossa Senhora do Socorro",2020-07-11,"nowcast",20,36,25,31,28,28.598
-"SE-Nossa Senhora do Socorro",2020-07-12,"nowcast",20,36,24,30,29,28.573
-"SE-Nossa Senhora do Socorro",2020-07-13,"nowcast",19,35,24,30,28,28.425
-"SE-Nossa Senhora do Socorro",2020-07-14,"nowcast",20,36,26,32,28,28.408
-"SE-Nossa Senhora do Socorro",2020-07-15,"nowcast",19,35,22,29,28,27.903
-"SE-Nossa Senhora do Socorro",2020-07-16,"nowcast",19,35,24,30,27,27.484
-"SE-Nossa Senhora do Socorro",2020-07-17,"nowcast",18,34,22,28,27,26.754
-"SE-Nossa Senhora do Socorro",2020-07-18,"nowcast",18,34,23,29,27,26.764
-"SE-Nossa Senhora do Socorro",2020-07-19,"nowcast",20,36,23,29,27,27.688
-"SE-Nossa Senhora do Socorro",2020-07-20,"nowcast",19,36,23,30,28,28.522
-"SE-Nossa Senhora do Socorro",2020-07-21,"nowcast",20,37,25,31,29,29.068
-"SE-Nossa Senhora do Socorro",2020-07-22,"nowcast",19,37,23,30,28,28.573
-"SE-Nossa Senhora do Socorro",2020-07-23,"nowcast",17,34,21,28,27,26.774
-"SE-Nossa Senhora do Socorro",2020-07-24,"nowcast",15,31,17,24,23,23.829
-"SE-Nossa Senhora do Socorro",2020-07-25,"nowcast",11,27,16,22,21,20.73
-"SE-Nossa Senhora do Socorro",2020-07-26,"nowcast",11,24,15,20,18,17.601
-"SE-Nossa Senhora do Socorro",2020-07-27,"nowcast",9,22,11,16,15,15.563
-"SE-Nossa Senhora do Socorro",2020-07-28,"nowcast",8,20,10,15,14,14.448
-"SE-Nossa Senhora do Socorro",2020-07-29,"nowcast",7,19,12,16,14,14.063
-"SE-Nossa Senhora do Socorro",2020-07-30,"nowcast",7,20,10,15,14,14.425
-"SE-Nossa Senhora do Socorro",2020-07-31,"nowcast",8,22,10,16,15,15.412
-"SE-Nossa Senhora do Socorro",2020-08-01,"nowcast",9,25,12,18,17,17.198
-"SE-Nossa Senhora do Socorro",2020-08-02,"nowcast",9,27,15,21,19,19.489
+"SE-Nossa Senhora do Socorro",2020-03-09,"nowcast",1,1,1,1,1,1
+"SE-Nossa Senhora do Socorro",2020-03-10,"nowcast",1,1,1,1,1,1
+"SE-Nossa Senhora do Socorro",2020-03-11,"nowcast",0,0,0,0,0,0
+"SE-Nossa Senhora do Socorro",2020-03-12,"nowcast",0,1,0,1,0.5,0.5
+"SE-Nossa Senhora do Socorro",2020-03-13,"nowcast",0,1,0,0,0,0.333333333333333
+"SE-Nossa Senhora do Socorro",2020-03-14,"nowcast",0,1,0,1,0.5,0.5
+"SE-Nossa Senhora do Socorro",2020-03-15,"nowcast",0,0,0,0,0,0
+"SE-Nossa Senhora do Socorro",2020-03-16,"nowcast",0,0,0,0,0,0
+"SE-Nossa Senhora do Socorro",2020-03-17,"nowcast",0,1,0,0,0,0.142857142857143
+"SE-Nossa Senhora do Socorro",2020-03-18,"nowcast",0,1,0,0,0,0.416666666666667
+"SE-Nossa Senhora do Socorro",2020-03-19,"nowcast",0,1,0,0,0,0.352941176470588
+"SE-Nossa Senhora do Socorro",2020-03-20,"nowcast",0,1,0,0,0,0.423076923076923
+"SE-Nossa Senhora do Socorro",2020-03-21,"nowcast",0,1,0,0,0,0.342105263157895
+"SE-Nossa Senhora do Socorro",2020-03-22,"nowcast",0,1,0,0,0,0.352941176470588
+"SE-Nossa Senhora do Socorro",2020-03-23,"nowcast",0,1,0,0,0,0.276923076923077
+"SE-Nossa Senhora do Socorro",2020-03-24,"nowcast",0,1,0,0,0,0.25974025974026
+"SE-Nossa Senhora do Socorro",2020-03-25,"nowcast",0,1,0,0,0,0.392523364485981
+"SE-Nossa Senhora do Socorro",2020-03-26,"nowcast",0,1,0,0,0,0.282442748091603
+"SE-Nossa Senhora do Socorro",2020-03-27,"nowcast",0,1,0,0,0,0.290123456790123
+"SE-Nossa Senhora do Socorro",2020-03-28,"nowcast",0,1,0,0,0,0.246073298429319
+"SE-Nossa Senhora do Socorro",2020-03-29,"nowcast",0,1,0,0,0,0.331896551724138
+"SE-Nossa Senhora do Socorro",2020-03-30,"nowcast",0,1,0,0,0,0.396666666666667
+"SE-Nossa Senhora do Socorro",2020-03-31,"nowcast",0,1,0,0,0,0.338842975206612
+"SE-Nossa Senhora do Socorro",2020-04-01,"nowcast",0,1,0,0,0,0.372685185185185
+"SE-Nossa Senhora do Socorro",2020-04-02,"nowcast",0,1,0,0,0,0.44950495049505
+"SE-Nossa Senhora do Socorro",2020-04-03,"nowcast",0,1,0,0,0,0.383680555555556
+"SE-Nossa Senhora do Socorro",2020-04-04,"nowcast",0,1,0,0,0,0.458715596330275
+"SE-Nossa Senhora do Socorro",2020-04-05,"nowcast",0,1,0,0,0,0.529411764705882
+"SE-Nossa Senhora do Socorro",2020-04-06,"nowcast",0,1,0,0,0,0.6
+"SE-Nossa Senhora do Socorro",2020-04-07,"nowcast",0,2,0,0,0,0.625
+"SE-Nossa Senhora do Socorro",2020-04-08,"nowcast",0,2,0,1,1,0.758433079434168
+"SE-Nossa Senhora do Socorro",2020-04-09,"nowcast",0,2,0,1,1,0.849416755037116
+"SE-Nossa Senhora do Socorro",2020-04-10,"nowcast",0,2,0,1,1,0.997940267765191
+"SE-Nossa Senhora do Socorro",2020-04-11,"nowcast",0,3,0,1,1,1.15329949238579
+"SE-Nossa Senhora do Socorro",2020-04-12,"nowcast",0,3,0,1,1,1.40886203423968
+"SE-Nossa Senhora do Socorro",2020-04-13,"nowcast",0,4,0,1,1,1.69207622868606
+"SE-Nossa Senhora do Socorro",2020-04-14,"nowcast",0,4,1,2,2,1.97397397397397
+"SE-Nossa Senhora do Socorro",2020-04-15,"nowcast",0,5,0,2,2,2.349
+"SE-Nossa Senhora do Socorro",2020-04-16,"nowcast",0,5,1,3,3,2.876
+"SE-Nossa Senhora do Socorro",2020-04-17,"nowcast",0,6,1,3,3,3.367
+"SE-Nossa Senhora do Socorro",2020-04-18,"nowcast",1,7,2,4,4,4.097
+"SE-Nossa Senhora do Socorro",2020-04-19,"nowcast",2,8,3,5,5,4.764
+"SE-Nossa Senhora do Socorro",2020-04-20,"nowcast",2,9,2,5,5,5.504
+"SE-Nossa Senhora do Socorro",2020-04-21,"nowcast",1,9,3,6,6,6.127
+"SE-Nossa Senhora do Socorro",2020-04-22,"nowcast",3,11,4,7,7,7.021
+"SE-Nossa Senhora do Socorro",2020-04-23,"nowcast",2,11,5,8,8,7.769
+"SE-Nossa Senhora do Socorro",2020-04-24,"nowcast",4,13,7,10,8,8.567
+"SE-Nossa Senhora do Socorro",2020-04-25,"nowcast",5,14,5,9,9,9.296
+"SE-Nossa Senhora do Socorro",2020-04-26,"nowcast",4,14,6,10,10,10.117
+"SE-Nossa Senhora do Socorro",2020-04-27,"nowcast",5,16,7,11,10,10.735
+"SE-Nossa Senhora do Socorro",2020-04-28,"nowcast",5,16,8,12,11,11.497
+"SE-Nossa Senhora do Socorro",2020-04-29,"nowcast",6,17,9,13,12,12.258
+"SE-Nossa Senhora do Socorro",2020-04-30,"nowcast",6,18,11,15,13,13.247
+"SE-Nossa Senhora do Socorro",2020-05-01,"nowcast",8,19,9,14,14,14.032
+"SE-Nossa Senhora do Socorro",2020-05-02,"nowcast",7,20,11,16,15,15.03
+"SE-Nossa Senhora do Socorro",2020-05-03,"nowcast",10,22,12,17,16,16.06
+"SE-Nossa Senhora do Socorro",2020-05-04,"nowcast",8,22,13,18,17,16.815
+"SE-Nossa Senhora do Socorro",2020-05-05,"nowcast",11,24,13,18,17,17.5
+"SE-Nossa Senhora do Socorro",2020-05-06,"nowcast",11,24,15,20,18,18.354
+"SE-Nossa Senhora do Socorro",2020-05-07,"nowcast",12,26,14,20,19,19.459
+"SE-Nossa Senhora do Socorro",2020-05-08,"nowcast",14,27,17,22,20,20.2
+"SE-Nossa Senhora do Socorro",2020-05-09,"nowcast",14,28,19,24,21,21.18
+"SE-Nossa Senhora do Socorro",2020-05-10,"nowcast",15,29,17,23,22,22.416
+"SE-Nossa Senhora do Socorro",2020-05-11,"nowcast",16,30,20,25,23,23.106
+"SE-Nossa Senhora do Socorro",2020-05-12,"nowcast",15,30,19,25,24,23.968
+"SE-Nossa Senhora do Socorro",2020-05-13,"nowcast",15,31,19,25,24,24.554
+"SE-Nossa Senhora do Socorro",2020-05-14,"nowcast",18,32,20,26,24,24.696
+"SE-Nossa Senhora do Socorro",2020-05-15,"nowcast",17,32,20,26,25,24.681
+"SE-Nossa Senhora do Socorro",2020-05-16,"nowcast",16,31,19,25,24,24.46
+"SE-Nossa Senhora do Socorro",2020-05-17,"nowcast",15,30,20,26,24,23.917
+"SE-Nossa Senhora do Socorro",2020-05-18,"nowcast",15,30,19,25,23,23.471
+"SE-Nossa Senhora do Socorro",2020-05-19,"nowcast",15,30,19,25,23,23.227
+"SE-Nossa Senhora do Socorro",2020-05-20,"nowcast",17,32,18,24,23,23.55
+"SE-Nossa Senhora do Socorro",2020-05-21,"nowcast",15,31,21,27,25,24.633
+"SE-Nossa Senhora do Socorro",2020-05-22,"nowcast",17,33,20,26,25,25.463
+"SE-Nossa Senhora do Socorro",2020-05-23,"nowcast",18,34,21,28,27,26.847
+"SE-Nossa Senhora do Socorro",2020-05-24,"nowcast",19,35,23,29,28,27.731
+"SE-Nossa Senhora do Socorro",2020-05-25,"nowcast",19,35,23,30,28,28.301
+"SE-Nossa Senhora do Socorro",2020-05-26,"nowcast",20,37,24,30,28,28.811
+"SE-Nossa Senhora do Socorro",2020-05-27,"nowcast",21,37,25,31,29.5,29.471
+"SE-Nossa Senhora do Socorro",2020-05-28,"nowcast",19,37,25,32,30,30.026
+"SE-Nossa Senhora do Socorro",2020-05-29,"nowcast",20,39,28,35,31,31.29
+"SE-Nossa Senhora do Socorro",2020-05-30,"nowcast",24,42,28,35,33,32.853
+"SE-Nossa Senhora do Socorro",2020-05-31,"nowcast",24,43,30,37,34,34.63
+"SE-Nossa Senhora do Socorro",2020-06-01,"nowcast",25,45,30,38,36,36.14
+"SE-Nossa Senhora do Socorro",2020-06-02,"nowcast",28,47,32,40,39,38.526
+"SE-Nossa Senhora do Socorro",2020-06-03,"nowcast",29,49,35,43,41,40.96
+"SE-Nossa Senhora do Socorro",2020-06-04,"nowcast",32,54,37,45,42.5,42.86
+"SE-Nossa Senhora do Socorro",2020-06-05,"nowcast",32,53,40,48,44,44.473
+"SE-Nossa Senhora do Socorro",2020-06-06,"nowcast",34,55,39,47,45,45.46
+"SE-Nossa Senhora do Socorro",2020-06-07,"nowcast",36,57,38,47,46,45.878
+"SE-Nossa Senhora do Socorro",2020-06-08,"nowcast",33,55,38,47,45,45.118
+"SE-Nossa Senhora do Socorro",2020-06-09,"nowcast",32,53,39,47,43,43.499
+"SE-Nossa Senhora do Socorro",2020-06-10,"nowcast",29,51,35,43,41,40.974
+"SE-Nossa Senhora do Socorro",2020-06-11,"nowcast",28,48,31,39,37,37.61
+"SE-Nossa Senhora do Socorro",2020-06-12,"nowcast",24,43,29,37,35,34.899
+"SE-Nossa Senhora do Socorro",2020-06-13,"nowcast",23,41,28,35,33,32.882
+"SE-Nossa Senhora do Socorro",2020-06-14,"nowcast",23,41,28,35,33,32.65
+"SE-Nossa Senhora do Socorro",2020-06-15,"nowcast",24,41,27,34,33,33.084
+"SE-Nossa Senhora do Socorro",2020-06-16,"nowcast",25,43,31,38,34,34.407
+"SE-Nossa Senhora do Socorro",2020-06-17,"nowcast",24,43,31,38,35,35.047
+"SE-Nossa Senhora do Socorro",2020-06-18,"nowcast",26,44,32,39,36,36.028
+"SE-Nossa Senhora do Socorro",2020-06-19,"nowcast",26,45,30,38,36,36.475
+"SE-Nossa Senhora do Socorro",2020-06-20,"nowcast",28,48,33,40,38,38.077
+"SE-Nossa Senhora do Socorro",2020-06-21,"nowcast",29,48,35,42,38,38.601
+"SE-Nossa Senhora do Socorro",2020-06-22,"nowcast",30,48,34,41,39,38.919
+"SE-Nossa Senhora do Socorro",2020-06-23,"nowcast",29,47,34,41,39,38.767
+"SE-Nossa Senhora do Socorro",2020-06-24,"nowcast",26,46,31,39,37,37.273
+"SE-Nossa Senhora do Socorro",2020-06-25,"nowcast",27,46,31,39,37,37.012
+"SE-Nossa Senhora do Socorro",2020-06-26,"nowcast",26,45,31,39,36,36.421
+"SE-Nossa Senhora do Socorro",2020-06-27,"nowcast",25,44,31,38,36,36.261
+"SE-Nossa Senhora do Socorro",2020-06-28,"nowcast",25,45,31,39,36.5,36.55
+"SE-Nossa Senhora do Socorro",2020-06-29,"nowcast",26,44,31,38,36,35.915
+"SE-Nossa Senhora do Socorro",2020-06-30,"nowcast",26,44,30,37,35,35.011
+"SE-Nossa Senhora do Socorro",2020-07-01,"nowcast",24,42,29,36,34,34.02
+"SE-Nossa Senhora do Socorro",2020-07-02,"nowcast",23,41,28,35,33,33.337
+"SE-Nossa Senhora do Socorro",2020-07-03,"nowcast",23,41,28,35,32,32.594
+"SE-Nossa Senhora do Socorro",2020-07-04,"nowcast",24,41,28,34,32,32.409
+"SE-Nossa Senhora do Socorro",2020-07-05,"nowcast",23,40,27,34,32,31.611
+"SE-Nossa Senhora do Socorro",2020-07-06,"nowcast",21,39,25,32,30,30.594
+"SE-Nossa Senhora do Socorro",2020-07-07,"nowcast",21,38,26,32,30,29.862
+"SE-Nossa Senhora do Socorro",2020-07-08,"nowcast",19,36,26,32,29,29.075
+"SE-Nossa Senhora do Socorro",2020-07-09,"nowcast",18,35,25,31,29,28.489
+"SE-Nossa Senhora do Socorro",2020-07-10,"nowcast",18,35,24,30,28.5,28.387
+"SE-Nossa Senhora do Socorro",2020-07-11,"nowcast",20,36,24,30,28,28.341
+"SE-Nossa Senhora do Socorro",2020-07-12,"nowcast",20,36,22,29,28,28.381
+"SE-Nossa Senhora do Socorro",2020-07-13,"nowcast",20,37,24,30,28,28.401
+"SE-Nossa Senhora do Socorro",2020-07-14,"nowcast",18,35,24,30,28,28.224
+"SE-Nossa Senhora do Socorro",2020-07-15,"nowcast",20,36,23,29,28,27.834
+"SE-Nossa Senhora do Socorro",2020-07-16,"nowcast",18,35,22,29,27,27.111
+"SE-Nossa Senhora do Socorro",2020-07-17,"nowcast",17,33,22,28,27,26.671
+"SE-Nossa Senhora do Socorro",2020-07-18,"nowcast",18,34,22,28,27,26.683
+"SE-Nossa Senhora do Socorro",2020-07-19,"nowcast",19,35,23,29,27,27.811
+"SE-Nossa Senhora do Socorro",2020-07-20,"nowcast",20,36,22,29,28,28.365
+"SE-Nossa Senhora do Socorro",2020-07-21,"nowcast",21,38,24,31,29,28.887
+"SE-Nossa Senhora do Socorro",2020-07-22,"nowcast",19,36,22,29,28,28.199
+"SE-Nossa Senhora do Socorro",2020-07-23,"nowcast",17,34,21,28,26,26.477
+"SE-Nossa Senhora do Socorro",2020-07-24,"nowcast",13,31,19,25,23,23.281
+"SE-Nossa Senhora do Socorro",2020-07-25,"nowcast",12,27,16,22,20,20.347
+"SE-Nossa Senhora do Socorro",2020-07-26,"nowcast",9,23,13,18,17,17.263
+"SE-Nossa Senhora do Socorro",2020-07-27,"nowcast",9,21,11,16,15,15.2
+"SE-Nossa Senhora do Socorro",2020-07-28,"nowcast",8,20,9,14,14,14.053
+"SE-Nossa Senhora do Socorro",2020-07-29,"nowcast",7,19,9,14,14,13.738
+"SE-Nossa Senhora do Socorro",2020-07-30,"nowcast",7,20,9,14,14,14.124
+"SE-Nossa Senhora do Socorro",2020-07-31,"nowcast",7,21,11,16,14,14.759
+"SE-Nossa Senhora do Socorro",2020-08-01,"nowcast",8,23,11,17,16,16.233
+"SE-Nossa Senhora do Socorro",2020-08-02,"nowcast",8,25,11,18,18,17.972
+"SE-Nossa Senhora do Socorro",2020-08-03,"nowcast",10,29,13,20,19,20.127
 "SE-Nossa Senhora do Socorro",2020-04-15,"observed",NA,NA,NA,NA,1,NA
 "SE-Nossa Senhora do Socorro",2020-04-16,"observed",NA,NA,NA,NA,0,NA
 "SE-Nossa Senhora do Socorro",2020-04-17,"observed",NA,NA,NA,NA,0,NA
@@ -5416,21 +5455,22 @@
 "SE-Nossa Senhora do Socorro",2020-08-10,"observed",NA,NA,NA,NA,0,NA
 "SE-Nossa Senhora do Socorro",2020-08-11,"observed",NA,NA,NA,NA,61,NA
 "SE-Nossa Senhora do Socorro",2020-08-12,"observed",NA,NA,NA,NA,6,NA
-"SE-Nossa Senhora do Socorro",2020-08-13,"observed",NA,NA,NA,NA,0,NA
-"SE-Nossa Senhora do Socorro",2020-08-03,"forecast",6,28,9,18,16,17.3902
-"SE-Nossa Senhora do Socorro",2020-08-04,"forecast",4,29,10,19,16,17.5746
-"SE-Nossa Senhora do Socorro",2020-08-05,"forecast",3,31,7,17,16,17.6726
-"SE-Nossa Senhora do Socorro",2020-08-06,"forecast",3,32,6,17,16,17.7964
-"SE-Nossa Senhora do Socorro",2020-08-07,"forecast",0,33,7,18,15,18.0924
-"SE-Nossa Senhora do Socorro",2020-08-08,"forecast",0,35,4,16,15,18.5456
-"SE-Nossa Senhora do Socorro",2020-08-09,"forecast",0,38,4,16,15,18.9558
-"SE-Nossa Senhora do Socorro",2020-08-10,"forecast",0,39,2,15,15,19.4202
-"SE-Nossa Senhora do Socorro",2020-08-11,"forecast",0,41,2,15,14,19.6966
-"SE-Nossa Senhora do Socorro",2020-08-12,"forecast",0,43,2,15,14,20.5776
-"SE-Nossa Senhora do Socorro",2020-08-13,"forecast",0,46,2,15,14,21.2382
-"SE-Nossa Senhora do Socorro",2020-08-14,"forecast",0,48,0,13,13,22.0252
-"SE-Nossa Senhora do Socorro",2020-08-15,"forecast",0,49,0,13,13,22.8288
-"SE-Nossa Senhora do Socorro",2020-08-16,"forecast",0,51,0,13,13,24.3738
+"SE-Nossa Senhora do Socorro",2020-08-13,"observed",NA,NA,NA,NA,10,NA
+"SE-Nossa Senhora do Socorro",2020-08-14,"observed",NA,NA,NA,NA,0,NA
+"SE-Nossa Senhora do Socorro",2020-08-04,"forecast",5,30,11,20,17,18.693
+"SE-Nossa Senhora do Socorro",2020-08-05,"forecast",4,32,10,20,18,19.2274
+"SE-Nossa Senhora do Socorro",2020-08-06,"forecast",3,35,8,19,18,19.9386
+"SE-Nossa Senhora do Socorro",2020-08-07,"forecast",2,38,7,19,17,20.4736
+"SE-Nossa Senhora do Socorro",2020-08-08,"forecast",1,39,6,19,18,21.1646
+"SE-Nossa Senhora do Socorro",2020-08-09,"forecast",0,41,5,19,18,21.6534
+"SE-Nossa Senhora do Socorro",2020-08-10,"forecast",0,46,6,20,17,22.841
+"SE-Nossa Senhora do Socorro",2020-08-11,"forecast",0,48,3,18,17,23.6692
+"SE-Nossa Senhora do Socorro",2020-08-12,"forecast",0,50,3,18,17,24.7986
+"SE-Nossa Senhora do Socorro",2020-08-13,"forecast",0,55,2,18,17,26.8184
+"SE-Nossa Senhora do Socorro",2020-08-14,"forecast",0,58,2,18,17,28.3468
+"SE-Nossa Senhora do Socorro",2020-08-15,"forecast",0,61,0,17,17,30.4144
+"SE-Nossa Senhora do Socorro",2020-08-16,"forecast",0,68,0,17,17,33.4056
+"SE-Nossa Senhora do Socorro",2020-08-17,"forecast",0,73,0,17,17,34.6774
 "SE-Porto da Folha",2020-03-15,"nowcast",1,1,1,1,1,1
 "SE-Porto da Folha",2020-03-16,"nowcast",0,0,0,0,0,0
 "SE-Porto da Folha",2020-03-17,"nowcast",0,1,0,1,0.5,0.5
@@ -6791,133 +6831,143 @@
 "SE-Simão Dias",2020-08-13,"forecast",0,25,0,8,8,11.683
 "SE-Simão Dias",2020-08-14,"forecast",0,25,0,8,8,11.6404
 "SE-Simão Dias",2020-08-15,"forecast",0,25,0,7,7,11.4396
-"SE-Tobias Barreto",2020-03-28,"nowcast",1,1,1,1,1,1
+"SE-Tobias Barreto",2020-03-20,"nowcast",1,1,1,1,1,1
+"SE-Tobias Barreto",2020-03-21,"nowcast",0,0,0,0,0,0
+"SE-Tobias Barreto",2020-03-22,"nowcast",0,1,0,1,0.5,0.5
+"SE-Tobias Barreto",2020-03-23,"nowcast",0,0,0,0,0,0
+"SE-Tobias Barreto",2020-03-24,"nowcast",0,1,0,0,0,0.333333333333333
+"SE-Tobias Barreto",2020-03-25,"nowcast",0,0,0,0,0,0
+"SE-Tobias Barreto",2020-03-26,"nowcast",0,1,0,1,0.5,0.5
+"SE-Tobias Barreto",2020-03-27,"nowcast",0,0,0,0,0,0
+"SE-Tobias Barreto",2020-03-28,"nowcast",0,1,0,0,0,0.2
 "SE-Tobias Barreto",2020-03-29,"nowcast",0,0,0,0,0,0
-"SE-Tobias Barreto",2020-03-30,"nowcast",0,1,0,1,0.5,0.5
-"SE-Tobias Barreto",2020-03-31,"nowcast",0,1,1,1,1,0.6
-"SE-Tobias Barreto",2020-04-01,"nowcast",0,1,0,0,0,0.428571428571429
-"SE-Tobias Barreto",2020-04-02,"nowcast",0,1,0,0,0,0.461538461538462
-"SE-Tobias Barreto",2020-04-03,"nowcast",0,1,0,0,0,0.2
-"SE-Tobias Barreto",2020-04-04,"nowcast",0,1,0,0,0,0.391304347826087
-"SE-Tobias Barreto",2020-04-05,"nowcast",0,1,0,0,0,0.185185185185185
-"SE-Tobias Barreto",2020-04-06,"nowcast",0,1,0,0,0,0.333333333333333
-"SE-Tobias Barreto",2020-04-07,"nowcast",0,1,0,0,0,0.392156862745098
-"SE-Tobias Barreto",2020-04-08,"nowcast",0,1,0,0,0,0.216666666666667
-"SE-Tobias Barreto",2020-04-09,"nowcast",0,1,0,0,0,0.325
-"SE-Tobias Barreto",2020-04-10,"nowcast",0,1,0,0,0,0.287128712871287
-"SE-Tobias Barreto",2020-04-11,"nowcast",0,1,0,0,0,0.330769230769231
-"SE-Tobias Barreto",2020-04-12,"nowcast",0,1,0,0,0,0.3
-"SE-Tobias Barreto",2020-04-13,"nowcast",0,1,0,0,0,0.289340101522843
-"SE-Tobias Barreto",2020-04-14,"nowcast",0,1,0,0,0,0.240506329113924
-"SE-Tobias Barreto",2020-04-15,"nowcast",0,1,0,0,0,0.346278317152104
-"SE-Tobias Barreto",2020-04-16,"nowcast",0,1,0,0,0,0.278378378378378
-"SE-Tobias Barreto",2020-04-17,"nowcast",0,1,0,0,0,0.342528735632184
-"SE-Tobias Barreto",2020-04-18,"nowcast",0,1,0,0,0,0.346456692913386
-"SE-Tobias Barreto",2020-04-19,"nowcast",0,1,0,0,0,0.34315424610052
-"SE-Tobias Barreto",2020-04-20,"nowcast",0,1,0,0,0,0.382005899705015
-"SE-Tobias Barreto",2020-04-21,"nowcast",0,1,0,0,0,0.355140186915888
-"SE-Tobias Barreto",2020-04-22,"nowcast",0,1,0,0,0,0.392638036809816
-"SE-Tobias Barreto",2020-04-23,"nowcast",0,1,0,0,0,0.460227272727273
-"SE-Tobias Barreto",2020-04-24,"nowcast",0,1,0,0,0,0.425764192139738
-"SE-Tobias Barreto",2020-04-25,"nowcast",0,1,0,0,0,0.529968454258675
-"SE-Tobias Barreto",2020-04-26,"nowcast",0,1,0,0,0,0.52218782249742
-"SE-Tobias Barreto",2020-04-27,"nowcast",0,2,0,0,0,0.596757852077001
-"SE-Tobias Barreto",2020-04-28,"nowcast",0,2,0,0,0,0.623612512613522
-"SE-Tobias Barreto",2020-04-29,"nowcast",0,2,0,1,1,0.708124373119358
-"SE-Tobias Barreto",2020-04-30,"nowcast",0,2,0,1,1,0.763527054108216
-"SE-Tobias Barreto",2020-05-01,"nowcast",0,2,0,1,1,0.83983983983984
-"SE-Tobias Barreto",2020-05-02,"nowcast",0,2,0,1,1,0.925
-"SE-Tobias Barreto",2020-05-03,"nowcast",0,2,0,1,1,1.012
-"SE-Tobias Barreto",2020-05-04,"nowcast",0,3,0,1,1,1.272
-"SE-Tobias Barreto",2020-05-05,"nowcast",0,3,0,1,1,1.394
-"SE-Tobias Barreto",2020-05-06,"nowcast",0,3,0,1,1,1.644
-"SE-Tobias Barreto",2020-05-07,"nowcast",0,4,1,2,2,1.88
-"SE-Tobias Barreto",2020-05-08,"nowcast",0,4,1,2,2,2.116
-"SE-Tobias Barreto",2020-05-09,"nowcast",0,4,2,3,2,2.477
-"SE-Tobias Barreto",2020-05-10,"nowcast",0,5,2,3,3,2.901
-"SE-Tobias Barreto",2020-05-11,"nowcast",1,6,1,3,3,3.244
-"SE-Tobias Barreto",2020-05-12,"nowcast",1,6,1,3,3,3.45
-"SE-Tobias Barreto",2020-05-13,"nowcast",1,6,2,4,3,3.556
-"SE-Tobias Barreto",2020-05-14,"nowcast",0,6,2,4,4,3.82
-"SE-Tobias Barreto",2020-05-15,"nowcast",0,6,2,4,4,3.803
-"SE-Tobias Barreto",2020-05-16,"nowcast",1,6,1,3,3,3.44
-"SE-Tobias Barreto",2020-05-17,"nowcast",0,5,1,3,3,2.872
-"SE-Tobias Barreto",2020-05-18,"nowcast",0,4,0,2,2,2.279
-"SE-Tobias Barreto",2020-05-19,"nowcast",0,3,0,1,1,1.657
-"SE-Tobias Barreto",2020-05-20,"nowcast",0,3,0,1,1,1.215
-"SE-Tobias Barreto",2020-05-21,"nowcast",0,2,0,1,1,1.04
-"SE-Tobias Barreto",2020-05-22,"nowcast",0,2,0,1,1,0.994
-"SE-Tobias Barreto",2020-05-23,"nowcast",0,2,0,1,1,1.078
-"SE-Tobias Barreto",2020-05-24,"nowcast",0,2,0,1,1,1.101
-"SE-Tobias Barreto",2020-05-25,"nowcast",0,2,0,1,1,1.077
-"SE-Tobias Barreto",2020-05-26,"nowcast",0,3,0,1,1,1.154
-"SE-Tobias Barreto",2020-05-27,"nowcast",0,3,0,1,1,1.219
-"SE-Tobias Barreto",2020-05-28,"nowcast",0,3,0,1,1,1.352
-"SE-Tobias Barreto",2020-05-29,"nowcast",0,3,0,1,1,1.564
-"SE-Tobias Barreto",2020-05-30,"nowcast",0,3,0,1,1,1.568
-"SE-Tobias Barreto",2020-05-31,"nowcast",0,4,1,2,2,1.796
-"SE-Tobias Barreto",2020-06-01,"nowcast",0,4,1,2,2,1.829
-"SE-Tobias Barreto",2020-06-02,"nowcast",0,4,1,2,2,1.957
-"SE-Tobias Barreto",2020-06-03,"nowcast",0,4,1,2,2,2.117
+"SE-Tobias Barreto",2020-03-30,"nowcast",0,1,0,0,0,0.166666666666667
+"SE-Tobias Barreto",2020-03-31,"nowcast",0,1,0,0,0,0.333333333333333
+"SE-Tobias Barreto",2020-04-01,"nowcast",0,1,0,0,0,0.1
+"SE-Tobias Barreto",2020-04-02,"nowcast",0,0,0,0,0,0.0909090909090909
+"SE-Tobias Barreto",2020-04-03,"nowcast",0,1,0,0,0,0.266666666666667
+"SE-Tobias Barreto",2020-04-04,"nowcast",0,1,0,0,0,0.285714285714286
+"SE-Tobias Barreto",2020-04-05,"nowcast",0,1,0,0,0,0.285714285714286
+"SE-Tobias Barreto",2020-04-06,"nowcast",0,1,0,0,0,0.307692307692308
+"SE-Tobias Barreto",2020-04-07,"nowcast",0,1,0,0,0,0.307692307692308
+"SE-Tobias Barreto",2020-04-08,"nowcast",0,1,0,0,0,0.264705882352941
+"SE-Tobias Barreto",2020-04-09,"nowcast",0,1,0,0,0,0.298850574712644
+"SE-Tobias Barreto",2020-04-10,"nowcast",0,1,0,0,0,0.364406779661017
+"SE-Tobias Barreto",2020-04-11,"nowcast",0,1,0,0,0,0.292517006802721
+"SE-Tobias Barreto",2020-04-12,"nowcast",0,1,0,0,0,0.272727272727273
+"SE-Tobias Barreto",2020-04-13,"nowcast",0,1,0,0,0,0.231884057971014
+"SE-Tobias Barreto",2020-04-14,"nowcast",0,1,0,0,0,0.276859504132231
+"SE-Tobias Barreto",2020-04-15,"nowcast",0,1,0,0,0,0.296296296296296
+"SE-Tobias Barreto",2020-04-16,"nowcast",0,1,0,0,0,0.315789473684211
+"SE-Tobias Barreto",2020-04-17,"nowcast",0,1,0,0,0,0.377314814814815
+"SE-Tobias Barreto",2020-04-18,"nowcast",0,1,0,0,0,0.333333333333333
+"SE-Tobias Barreto",2020-04-19,"nowcast",0,1,0,0,0,0.353140916808149
+"SE-Tobias Barreto",2020-04-20,"nowcast",0,1,0,0,0,0.390718562874251
+"SE-Tobias Barreto",2020-04-21,"nowcast",0,1,0,0,0,0.356652949245542
+"SE-Tobias Barreto",2020-04-22,"nowcast",0,1,0,0,0,0.383561643835616
+"SE-Tobias Barreto",2020-04-23,"nowcast",0,1,0,0,0,0.440658049353702
+"SE-Tobias Barreto",2020-04-24,"nowcast",0,1,0,0,0,0.516411378555799
+"SE-Tobias Barreto",2020-04-25,"nowcast",0,1,0,0,0,0.53305351521511
+"SE-Tobias Barreto",2020-04-26,"nowcast",0,1,0,0,0,0.519091847265222
+"SE-Tobias Barreto",2020-04-27,"nowcast",0,2,0,0,0,0.6
+"SE-Tobias Barreto",2020-04-28,"nowcast",0,2,0,0,0,0.614300100704935
+"SE-Tobias Barreto",2020-04-29,"nowcast",0,2,0,1,1,0.716148445336008
+"SE-Tobias Barreto",2020-04-30,"nowcast",0,2,0,1,1,0.798597194388778
+"SE-Tobias Barreto",2020-05-01,"nowcast",0,2,0,1,1,0.853707414829659
+"SE-Tobias Barreto",2020-05-02,"nowcast",0,2,0,1,1,0.894894894894895
+"SE-Tobias Barreto",2020-05-03,"nowcast",0,3,0,1,1,1.12312312312312
+"SE-Tobias Barreto",2020-05-04,"nowcast",0,3,0,1,1,1.20820820820821
+"SE-Tobias Barreto",2020-05-05,"nowcast",0,3,0,1,1,1.31131131131131
+"SE-Tobias Barreto",2020-05-06,"nowcast",0,3,0,1,1,1.646
+"SE-Tobias Barreto",2020-05-07,"nowcast",0,4,1,2,2,1.924
+"SE-Tobias Barreto",2020-05-08,"nowcast",0,4,0,2,2,2.206
+"SE-Tobias Barreto",2020-05-09,"nowcast",0,5,0,2,2,2.536
+"SE-Tobias Barreto",2020-05-10,"nowcast",0,5,1,3,3,2.734
+"SE-Tobias Barreto",2020-05-11,"nowcast",0,5,1,3,3,3.154
+"SE-Tobias Barreto",2020-05-12,"nowcast",1,6,2,4,3,3.524
+"SE-Tobias Barreto",2020-05-13,"nowcast",1,6,2,4,3,3.639
+"SE-Tobias Barreto",2020-05-14,"nowcast",1,6,2,4,3.5,3.68
+"SE-Tobias Barreto",2020-05-15,"nowcast",0,6,2,4,3,3.751
+"SE-Tobias Barreto",2020-05-16,"nowcast",1,6,1,3,3,3.264
+"SE-Tobias Barreto",2020-05-17,"nowcast",0,5,1,3,3,2.916
+"SE-Tobias Barreto",2020-05-18,"nowcast",0,4,1,2,2,2.166
+"SE-Tobias Barreto",2020-05-19,"nowcast",0,3,0,1,1,1.579
+"SE-Tobias Barreto",2020-05-20,"nowcast",0,3,0,1,1,1.229
+"SE-Tobias Barreto",2020-05-21,"nowcast",0,2,0,1,1,0.976
+"SE-Tobias Barreto",2020-05-22,"nowcast",0,2,0,1,1,1.039
+"SE-Tobias Barreto",2020-05-23,"nowcast",0,2,0,1,1,1.018
+"SE-Tobias Barreto",2020-05-24,"nowcast",0,2,0,1,1,1.005
+"SE-Tobias Barreto",2020-05-25,"nowcast",0,3,0,1,1,1.139
+"SE-Tobias Barreto",2020-05-26,"nowcast",0,2,0,1,1,1.134
+"SE-Tobias Barreto",2020-05-27,"nowcast",0,3,0,1,1,1.295
+"SE-Tobias Barreto",2020-05-28,"nowcast",0,3,0,1,1,1.344
+"SE-Tobias Barreto",2020-05-29,"nowcast",0,3,0,1,1,1.426
+"SE-Tobias Barreto",2020-05-30,"nowcast",0,3,1,2,2,1.679
+"SE-Tobias Barreto",2020-05-31,"nowcast",0,3,1,2,2,1.793
+"SE-Tobias Barreto",2020-06-01,"nowcast",0,4,1,2,2,1.789
+"SE-Tobias Barreto",2020-06-02,"nowcast",0,4,1,2,2,2.009
+"SE-Tobias Barreto",2020-06-03,"nowcast",0,4,1,2,2,2.036
 "SE-Tobias Barreto",2020-06-04,"nowcast",0,4,1,2,2,2.24
-"SE-Tobias Barreto",2020-06-05,"nowcast",0,4,1,2,2,2.321
-"SE-Tobias Barreto",2020-06-06,"nowcast",0,4,0,2,2,2.401
-"SE-Tobias Barreto",2020-06-07,"nowcast",0,4,2,3,2,2.518
-"SE-Tobias Barreto",2020-06-08,"nowcast",0,5,0,2,2,2.685
-"SE-Tobias Barreto",2020-06-09,"nowcast",0,5,1,3,3,2.745
-"SE-Tobias Barreto",2020-06-10,"nowcast",0,5,1,3,3,2.886
-"SE-Tobias Barreto",2020-06-11,"nowcast",0,5,1,3,3,3.099
-"SE-Tobias Barreto",2020-06-12,"nowcast",0,5,1,3,3,3.196
-"SE-Tobias Barreto",2020-06-13,"nowcast",1,6,1,3,3,3.394
-"SE-Tobias Barreto",2020-06-14,"nowcast",1,6,2,4,3,3.521
-"SE-Tobias Barreto",2020-06-15,"nowcast",0,6,2,4,3,3.588
-"SE-Tobias Barreto",2020-06-16,"nowcast",0,6,2,4,4,3.76
-"SE-Tobias Barreto",2020-06-17,"nowcast",0,6,2,4,4,3.77
-"SE-Tobias Barreto",2020-06-18,"nowcast",0,6,2,4,4,3.877
-"SE-Tobias Barreto",2020-06-19,"nowcast",1,7,2,4,4,4.262
-"SE-Tobias Barreto",2020-06-20,"nowcast",1,7,3,5,4,4.492
-"SE-Tobias Barreto",2020-06-21,"nowcast",2,8,3,5,5,4.811
-"SE-Tobias Barreto",2020-06-22,"nowcast",2,8,3,5,5,4.761
-"SE-Tobias Barreto",2020-06-23,"nowcast",2,8,2,5,5,4.813
-"SE-Tobias Barreto",2020-06-24,"nowcast",1,8,2,5,5,4.973
-"SE-Tobias Barreto",2020-06-25,"nowcast",1,8,2,5,5,5.311
-"SE-Tobias Barreto",2020-06-26,"nowcast",1,9,3,6,5,5.773
-"SE-Tobias Barreto",2020-06-27,"nowcast",2,11,4,7,6,6.626
-"SE-Tobias Barreto",2020-06-28,"nowcast",2,12,4,8,7,7.523
-"SE-Tobias Barreto",2020-06-29,"nowcast",3,13,5,9,8,8.52
-"SE-Tobias Barreto",2020-06-30,"nowcast",4,14,6,10,10,9.757
-"SE-Tobias Barreto",2020-07-01,"nowcast",5,16,8,12,11,11.172
-"SE-Tobias Barreto",2020-07-02,"nowcast",7,18,8,13,12,12.429
-"SE-Tobias Barreto",2020-07-03,"nowcast",8,20,10,15,14,14.12
-"SE-Tobias Barreto",2020-07-04,"nowcast",8,21,12,17,15,15.453
-"SE-Tobias Barreto",2020-07-05,"nowcast",9,23,14,19,17,16.882
-"SE-Tobias Barreto",2020-07-06,"nowcast",10,25,14,20,19,18.747
-"SE-Tobias Barreto",2020-07-07,"nowcast",12,27,15,21,20,20.205
-"SE-Tobias Barreto",2020-07-08,"nowcast",14,29,17,23,22,22.207
-"SE-Tobias Barreto",2020-07-09,"nowcast",13,30,17,24,23,23.454
-"SE-Tobias Barreto",2020-07-10,"nowcast",17,33,21,27,25,25.045
-"SE-Tobias Barreto",2020-07-11,"nowcast",17,34,21,28,26,26.101
-"SE-Tobias Barreto",2020-07-12,"nowcast",18,36,23,30,27,27.228
-"SE-Tobias Barreto",2020-07-13,"nowcast",19,38,24,31,29,28.963
-"SE-Tobias Barreto",2020-07-14,"nowcast",20,41,24,32,31,31.275
-"SE-Tobias Barreto",2020-07-15,"nowcast",24,45,27,36,35,34.77
-"SE-Tobias Barreto",2020-07-16,"nowcast",26,49,33,42,39,38.796
-"SE-Tobias Barreto",2020-07-17,"nowcast",32,54,38,47,43,43.365
-"SE-Tobias Barreto",2020-07-18,"nowcast",34,57,41,50,47,47.624
-"SE-Tobias Barreto",2020-07-19,"nowcast",39,62,46,55,52,51.808
-"SE-Tobias Barreto",2020-07-20,"nowcast",42,66,51,60,54,54.866
-"SE-Tobias Barreto",2020-07-21,"nowcast",45,69,53,62,57.5,57.349
-"SE-Tobias Barreto",2020-07-22,"nowcast",44,70,53,63,59,58.386
-"SE-Tobias Barreto",2020-07-23,"nowcast",43,69,50,60,57,56.986
-"SE-Tobias Barreto",2020-07-24,"nowcast",40,65,47,57,54,53.8
-"SE-Tobias Barreto",2020-07-25,"nowcast",37,61,41,51,49,49.005
-"SE-Tobias Barreto",2020-07-26,"nowcast",31,54,37,46,44,44.166
-"SE-Tobias Barreto",2020-07-27,"nowcast",30,51,33,42,40,40.203
-"SE-Tobias Barreto",2020-07-28,"nowcast",28,48,33,41,39,38.946
-"SE-Tobias Barreto",2020-07-29,"nowcast",26,47,33,41,38,38.361
-"SE-Tobias Barreto",2020-07-30,"nowcast",25,48,31,39,37,38.017
-"SE-Tobias Barreto",2020-07-31,"nowcast",25,49,30,39,36,36.482
-"SE-Tobias Barreto",2020-08-01,"nowcast",20,44,23,33,32,33.123
+"SE-Tobias Barreto",2020-06-05,"nowcast",0,4,0,2,2,2.34
+"SE-Tobias Barreto",2020-06-06,"nowcast",0,4,1,2,2,2.311
+"SE-Tobias Barreto",2020-06-07,"nowcast",0,5,0,2,2,2.651
+"SE-Tobias Barreto",2020-06-08,"nowcast",0,5,0,2,2,2.656
+"SE-Tobias Barreto",2020-06-09,"nowcast",0,5,1,3,3,2.786
+"SE-Tobias Barreto",2020-06-10,"nowcast",0,5,1,3,3,3.02
+"SE-Tobias Barreto",2020-06-11,"nowcast",0,5,1,3,3,3.096
+"SE-Tobias Barreto",2020-06-12,"nowcast",0,5,1,3,3,3.168
+"SE-Tobias Barreto",2020-06-13,"nowcast",1,6,1,3,3,3.316
+"SE-Tobias Barreto",2020-06-14,"nowcast",1,6,1,3,3,3.5
+"SE-Tobias Barreto",2020-06-15,"nowcast",1,6,1,3,3,3.542
+"SE-Tobias Barreto",2020-06-16,"nowcast",0,6,2,4,4,3.71
+"SE-Tobias Barreto",2020-06-17,"nowcast",0,6,2,4,4,3.758
+"SE-Tobias Barreto",2020-06-18,"nowcast",1,7,2,4,4,4.005
+"SE-Tobias Barreto",2020-06-19,"nowcast",1,7,2,4,4,4.209
+"SE-Tobias Barreto",2020-06-20,"nowcast",0,7,3,5,4,4.533
+"SE-Tobias Barreto",2020-06-21,"nowcast",1,8,3,5,5,4.712
+"SE-Tobias Barreto",2020-06-22,"nowcast",1,8,3,5,5,4.946
+"SE-Tobias Barreto",2020-06-23,"nowcast",1,8,2,5,5,4.916
+"SE-Tobias Barreto",2020-06-24,"nowcast",1,8,2,5,5,5.053
+"SE-Tobias Barreto",2020-06-25,"nowcast",1,8,2,5,5,5.272
+"SE-Tobias Barreto",2020-06-26,"nowcast",1,9,3,6,5,5.647
+"SE-Tobias Barreto",2020-06-27,"nowcast",2,10,4,7,6,6.528
+"SE-Tobias Barreto",2020-06-28,"nowcast",2,11,5,8,7,7.37
+"SE-Tobias Barreto",2020-06-29,"nowcast",3,13,5,9,8.5,8.713
+"SE-Tobias Barreto",2020-06-30,"nowcast",4,15,6,10,10,9.965
+"SE-Tobias Barreto",2020-07-01,"nowcast",5,17,8,12,11,11.202
+"SE-Tobias Barreto",2020-07-02,"nowcast",6,18,10,14,12,12.616
+"SE-Tobias Barreto",2020-07-03,"nowcast",6,19,10,15,14,13.97
+"SE-Tobias Barreto",2020-07-04,"nowcast",9,22,12,17,15,15.538
+"SE-Tobias Barreto",2020-07-05,"nowcast",9,23,13,18,17,17.04
+"SE-Tobias Barreto",2020-07-06,"nowcast",11,25,15,20,18,18.519
+"SE-Tobias Barreto",2020-07-07,"nowcast",12,27,15,21,20,20.262
+"SE-Tobias Barreto",2020-07-08,"nowcast",13,29,17,23,22,22.157
+"SE-Tobias Barreto",2020-07-09,"nowcast",14,31,19,25,23,23.503
+"SE-Tobias Barreto",2020-07-10,"nowcast",16,32,19,26,25,24.657
+"SE-Tobias Barreto",2020-07-11,"nowcast",18,35,21,28,26,26.178
+"SE-Tobias Barreto",2020-07-12,"nowcast",17,35,22,29,27,27.359
+"SE-Tobias Barreto",2020-07-13,"nowcast",18,37,23,31,29,29.193
+"SE-Tobias Barreto",2020-07-14,"nowcast",20,40,25,33,31,31.182
+"SE-Tobias Barreto",2020-07-15,"nowcast",25,46,30,38,35,34.836
+"SE-Tobias Barreto",2020-07-16,"nowcast",28,49,31,40,39,38.854
+"SE-Tobias Barreto",2020-07-17,"nowcast",31,53,36,45,43,42.797
+"SE-Tobias Barreto",2020-07-18,"nowcast",36,58,41,50,47,47.23
+"SE-Tobias Barreto",2020-07-19,"nowcast",37,60,46,55,50.5,50.859
+"SE-Tobias Barreto",2020-07-20,"nowcast",42,65,48,57,54,53.952
+"SE-Tobias Barreto",2020-07-21,"nowcast",44,68,51,60,56,56.318
+"SE-Tobias Barreto",2020-07-22,"nowcast",44,68,50,60,57,56.944
+"SE-Tobias Barreto",2020-07-23,"nowcast",41,67,50,60,56,56.236
+"SE-Tobias Barreto",2020-07-24,"nowcast",40,65,47,57,52,52.586
+"SE-Tobias Barreto",2020-07-25,"nowcast",36,60,40,50,48,47.906
+"SE-Tobias Barreto",2020-07-26,"nowcast",32,52,36,44,42,42.282
+"SE-Tobias Barreto",2020-07-27,"nowcast",27,48,33,41,39,38.704
+"SE-Tobias Barreto",2020-07-28,"nowcast",27,46,30,38,37,36.76
+"SE-Tobias Barreto",2020-07-29,"nowcast",27,45,30,38,36,36.361
+"SE-Tobias Barreto",2020-07-30,"nowcast",27,46,29,37,36,36.023
+"SE-Tobias Barreto",2020-07-31,"nowcast",23,43,28,36,34,34.32
+"SE-Tobias Barreto",2020-08-01,"nowcast",20,40,25,33,31,31.332
+"SE-Tobias Barreto",2020-08-02,"nowcast",18,36,22,29,28,27.982
+"SE-Tobias Barreto",2020-08-03,"nowcast",15,33,19,26,25,25.181
 "SE-Tobias Barreto",2020-04-30,"observed",NA,NA,NA,NA,1,NA
 "SE-Tobias Barreto",2020-05-01,"observed",NA,NA,NA,NA,0,NA
 "SE-Tobias Barreto",2020-05-02,"observed",NA,NA,NA,NA,0,NA
@@ -7023,21 +7073,22 @@
 "SE-Tobias Barreto",2020-08-10,"observed",NA,NA,NA,NA,0,NA
 "SE-Tobias Barreto",2020-08-11,"observed",NA,NA,NA,NA,18,NA
 "SE-Tobias Barreto",2020-08-12,"observed",NA,NA,NA,NA,0,NA
-"SE-Tobias Barreto",2020-08-13,"observed",NA,NA,NA,NA,0,NA
-"SE-Tobias Barreto",2020-08-02,"forecast",14,48,23,36,32,32.7482
-"SE-Tobias Barreto",2020-08-03,"forecast",10,48,21,35,30,31.216
-"SE-Tobias Barreto",2020-08-04,"forecast",8,48,18,33,28,29.8092
-"SE-Tobias Barreto",2020-08-05,"forecast",6,49,14,30,27,28.6124
-"SE-Tobias Barreto",2020-08-06,"forecast",5,50,10,27,25,27.4222
-"SE-Tobias Barreto",2020-08-07,"forecast",0,46,10,27,23,26.4796
-"SE-Tobias Barreto",2020-08-08,"forecast",0,46,8,25,22,25.3028
-"SE-Tobias Barreto",2020-08-09,"forecast",0,46,7,24,21,24.4802
-"SE-Tobias Barreto",2020-08-10,"forecast",0,45,5,22,19,23.362
-"SE-Tobias Barreto",2020-08-11,"forecast",0,44,4,21,18,22.657
-"SE-Tobias Barreto",2020-08-12,"forecast",0,43,0,16,16,21.277
-"SE-Tobias Barreto",2020-08-13,"forecast",0,43,0,16,15.5,20.6644
-"SE-Tobias Barreto",2020-08-14,"forecast",0,41,0,14,14,19.4368
-"SE-Tobias Barreto",2020-08-15,"forecast",0,42,0,13,13,19.1696
+"SE-Tobias Barreto",2020-08-13,"observed",NA,NA,NA,NA,68,NA
+"SE-Tobias Barreto",2020-08-14,"observed",NA,NA,NA,NA,0,NA
+"SE-Tobias Barreto",2020-08-04,"forecast",10,37,18,28,24,25.0178
+"SE-Tobias Barreto",2020-08-05,"forecast",7,36,15,26,23,23.416
+"SE-Tobias Barreto",2020-08-06,"forecast",6,37,12,24,21,22.2912
+"SE-Tobias Barreto",2020-08-07,"forecast",2,35,8,21,19,20.4894
+"SE-Tobias Barreto",2020-08-08,"forecast",0,33,9,21,18,19.2522
+"SE-Tobias Barreto",2020-08-09,"forecast",0,32,5,18,16,17.9918
+"SE-Tobias Barreto",2020-08-10,"forecast",0,32,4,17,15,16.8688
+"SE-Tobias Barreto",2020-08-11,"forecast",0,30,2,15,14,15.8438
+"SE-Tobias Barreto",2020-08-12,"forecast",0,30,2,14,13,14.902
+"SE-Tobias Barreto",2020-08-13,"forecast",0,28,0,11,11,13.7102
+"SE-Tobias Barreto",2020-08-14,"forecast",0,27,0,10,10,13.0438
+"SE-Tobias Barreto",2020-08-15,"forecast",0,26,0,9,9,12.1136
+"SE-Tobias Barreto",2020-08-16,"forecast",0,25,0,9,9,11.3974
+"SE-Tobias Barreto",2020-08-17,"forecast",0,25,0,8,8,10.7148
 "SE-Umbaúba",2020-03-14,"nowcast",1,1,1,1,1,1
 "SE-Umbaúba",2020-03-15,"nowcast",0,1,0,1,0.5,0.5
 "SE-Umbaúba",2020-03-16,"nowcast",0,0,0,0,0,0
