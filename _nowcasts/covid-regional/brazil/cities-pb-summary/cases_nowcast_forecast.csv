@@ -1173,162 +1173,160 @@
 "PB-Baía da Traição",2020-08-02,"forecast",0,39,0,13,13,23.5874
 "PB-Baía da Traição",2020-08-03,"forecast",0,41,0,12,12,28.4658
 "PB-Baía da Traição",2020-08-04,"forecast",0,45,0,12,12,43.0074
-"PB-Bayeux",2020-03-02,"nowcast",1,1,1,1,1,1
-"PB-Bayeux",2020-03-03,"nowcast",0,1,0,1,0.5,0.5
-"PB-Bayeux",2020-03-04,"nowcast",0,0,0,0,0,0
-"PB-Bayeux",2020-03-05,"nowcast",0,1,0,0,0,0.333333333333333
-"PB-Bayeux",2020-03-06,"nowcast",0,1,0,0,0,0.25
-"PB-Bayeux",2020-03-07,"nowcast",0,0,0,0,0,0
-"PB-Bayeux",2020-03-08,"nowcast",0,1,1,1,1,0.6
-"PB-Bayeux",2020-03-09,"nowcast",0,1,0,0,0,0.285714285714286
-"PB-Bayeux",2020-03-10,"nowcast",0,1,0,0,0,0.444444444444444
-"PB-Bayeux",2020-03-11,"nowcast",0,1,1,1,1,0.526315789473684
-"PB-Bayeux",2020-03-12,"nowcast",0,1,0,0,0,0.304347826086957
-"PB-Bayeux",2020-03-13,"nowcast",0,1,0,0,0,0.470588235294118
-"PB-Bayeux",2020-03-14,"nowcast",0,1,0,0,0,0.304347826086957
-"PB-Bayeux",2020-03-15,"nowcast",0,1,0,0,0,0.293103448275862
-"PB-Bayeux",2020-03-16,"nowcast",0,1,0,0,0,0.164179104477612
-"PB-Bayeux",2020-03-17,"nowcast",0,1,0,0,0,0.325301204819277
-"PB-Bayeux",2020-03-18,"nowcast",0,1,0,0,0,0.324074074074074
-"PB-Bayeux",2020-03-19,"nowcast",0,1,0,0,0,0.297872340425532
-"PB-Bayeux",2020-03-20,"nowcast",0,1,0,0,0,0.280701754385965
-"PB-Bayeux",2020-03-21,"nowcast",0,1,0,0,0,0.281553398058252
-"PB-Bayeux",2020-03-22,"nowcast",0,1,0,0,0,0.29296875
-"PB-Bayeux",2020-03-23,"nowcast",0,1,0,0,0,0.310897435897436
-"PB-Bayeux",2020-03-24,"nowcast",0,1,0,0,0,0.353562005277045
-"PB-Bayeux",2020-03-25,"nowcast",0,1,0,0,0,0.355555555555556
-"PB-Bayeux",2020-03-26,"nowcast",0,1,0,0,0,0.353281853281853
-"PB-Bayeux",2020-03-27,"nowcast",0,1,0,0,0,0.42668863261944
-"PB-Bayeux",2020-03-28,"nowcast",0,1,0,0,0,0.403202328966521
-"PB-Bayeux",2020-03-29,"nowcast",0,1,0,0,0,0.426701570680628
-"PB-Bayeux",2020-03-30,"nowcast",0,1,0,0,0,0.495747266099635
-"PB-Bayeux",2020-03-31,"nowcast",0,1,0,0,0,0.541002277904328
-"PB-Bayeux",2020-04-01,"nowcast",0,2,0,0,0,0.612729234088457
-"PB-Bayeux",2020-04-02,"nowcast",0,2,0,0,0,0.654774396642183
-"PB-Bayeux",2020-04-03,"nowcast",0,2,0,1,1,0.774590163934426
-"PB-Bayeux",2020-04-04,"nowcast",0,2,0,1,1,0.816056910569106
-"PB-Bayeux",2020-04-05,"nowcast",0,2,0,1,1,0.909274193548387
-"PB-Bayeux",2020-04-06,"nowcast",0,2,0,1,1,1.02409638554217
-"PB-Bayeux",2020-04-07,"nowcast",0,2,0,1,1,1.00100200400802
-"PB-Bayeux",2020-04-08,"nowcast",0,2,0,1,1,1.129
-"PB-Bayeux",2020-04-09,"nowcast",0,3,0,1,1,1.213
-"PB-Bayeux",2020-04-10,"nowcast",0,3,0,1,1,1.255
-"PB-Bayeux",2020-04-11,"nowcast",0,3,0,1,1,1.306
-"PB-Bayeux",2020-04-12,"nowcast",0,3,0,1,1,1.469
-"PB-Bayeux",2020-04-13,"nowcast",0,3,1,2,2,1.682
-"PB-Bayeux",2020-04-14,"nowcast",0,3,1,2,2,1.693
-"PB-Bayeux",2020-04-15,"nowcast",0,4,1,2,2,2
-"PB-Bayeux",2020-04-16,"nowcast",0,4,1,2,2,2.147
-"PB-Bayeux",2020-04-17,"nowcast",0,4,0,2,2,2.378
-"PB-Bayeux",2020-04-18,"nowcast",0,5,1,3,3,2.805
-"PB-Bayeux",2020-04-19,"nowcast",0,5,1,3,3,3.136
-"PB-Bayeux",2020-04-20,"nowcast",1,6,1,3,3,3.24
-"PB-Bayeux",2020-04-21,"nowcast",1,6,2,4,3,3.653
-"PB-Bayeux",2020-04-22,"nowcast",0,6,2,4,4,3.824
-"PB-Bayeux",2020-04-23,"nowcast",0,6,2,4,4,3.895
-"PB-Bayeux",2020-04-24,"nowcast",0,6,2,4,4,4.033
-"PB-Bayeux",2020-04-25,"nowcast",1,7,2,4,4,4.226
-"PB-Bayeux",2020-04-26,"nowcast",1,7,2,4,4,4.296
-"PB-Bayeux",2020-04-27,"nowcast",1,7,3,5,4,4.334
-"PB-Bayeux",2020-04-28,"nowcast",1,7,3,5,4,4.392
-"PB-Bayeux",2020-04-29,"nowcast",1,8,3,5,4.5,4.703
-"PB-Bayeux",2020-04-30,"nowcast",1,8,3,5,5,4.959
-"PB-Bayeux",2020-05-01,"nowcast",2,9,2,5,5,5.351
-"PB-Bayeux",2020-05-02,"nowcast",2,9,3,6,6,5.798
-"PB-Bayeux",2020-05-03,"nowcast",2,10,4,7,6,6.429
-"PB-Bayeux",2020-05-04,"nowcast",3,11,5,8,7,6.955
-"PB-Bayeux",2020-05-05,"nowcast",3,12,5,8,7,7.718
-"PB-Bayeux",2020-05-06,"nowcast",4,13,5,9,8,8.495
-"PB-Bayeux",2020-05-07,"nowcast",4,14,6,10,9,9.547
-"PB-Bayeux",2020-05-08,"nowcast",5,15,7,11,10,10.531
-"PB-Bayeux",2020-05-09,"nowcast",5,16,8,12,11,11.578
-"PB-Bayeux",2020-05-10,"nowcast",7,18,9,13,12,12.616
-"PB-Bayeux",2020-05-11,"nowcast",7,18,10,14,13,13.253
-"PB-Bayeux",2020-05-12,"nowcast",8,19,11,15,14,13.678
-"PB-Bayeux",2020-05-13,"nowcast",7,19,11,15,14,14.06
-"PB-Bayeux",2020-05-14,"nowcast",7,18,10,14,13,13.523
-"PB-Bayeux",2020-05-15,"nowcast",7,18,11,15,13,13.059
-"PB-Bayeux",2020-05-16,"nowcast",7,18,9,13,12,12.615
-"PB-Bayeux",2020-05-17,"nowcast",7,18,10,14,13,12.663
-"PB-Bayeux",2020-05-18,"nowcast",8,20,9,14,14,13.732
-"PB-Bayeux",2020-05-19,"nowcast",9,21,11,16,15,15.11
-"PB-Bayeux",2020-05-20,"nowcast",10,23,14,19,17,16.993
-"PB-Bayeux",2020-05-21,"nowcast",11,25,13,19,19,18.814
-"PB-Bayeux",2020-05-22,"nowcast",14,27,16,21,20,20.188
-"PB-Bayeux",2020-05-23,"nowcast",13,27,18,23,21,20.997
-"PB-Bayeux",2020-05-24,"nowcast",14,28,17,22,21,21.18
-"PB-Bayeux",2020-05-25,"nowcast",13,27,16,22,21,21.143
-"PB-Bayeux",2020-05-26,"nowcast",13,27,17,22,20,20.49
-"PB-Bayeux",2020-05-27,"nowcast",13,26,14,20,20,19.926
-"PB-Bayeux",2020-05-28,"nowcast",13,27,18,23,20,20.187
-"PB-Bayeux",2020-05-29,"nowcast",14,27,14,20,20,20.101
-"PB-Bayeux",2020-05-30,"nowcast",12,26,14,20,20,19.625
-"PB-Bayeux",2020-05-31,"nowcast",11,24,15,20,18,18.77
-"PB-Bayeux",2020-06-01,"nowcast",10,23,14,19,17,17.732
-"PB-Bayeux",2020-06-02,"nowcast",10,23,13,18,17,16.883
-"PB-Bayeux",2020-06-03,"nowcast",10,22,12,17,16,16.638
-"PB-Bayeux",2020-06-04,"nowcast",10,22,12,17,16,16.595
-"PB-Bayeux",2020-06-05,"nowcast",9,22,12,17,17,16.596
-"PB-Bayeux",2020-06-06,"nowcast",11,23,13,18,17,16.934
-"PB-Bayeux",2020-06-07,"nowcast",10,23,13,18,17,17.134
-"PB-Bayeux",2020-06-08,"nowcast",11,23,13,18,17,17.299
-"PB-Bayeux",2020-06-09,"nowcast",10,23,13,18,18,17.771
-"PB-Bayeux",2020-06-10,"nowcast",12,25,15,20,18,18.438
-"PB-Bayeux",2020-06-11,"nowcast",12,25,16,21,19,18.933
-"PB-Bayeux",2020-06-12,"nowcast",13,26,15,20,19,19.384
-"PB-Bayeux",2020-06-13,"nowcast",13,26,15,20,19,19.684
-"PB-Bayeux",2020-06-14,"nowcast",12,25,15,20,19,19.194
-"PB-Bayeux",2020-06-15,"nowcast",13,26,15,20,19,18.929
-"PB-Bayeux",2020-06-16,"nowcast",12,25,14,19,18,18.315
-"PB-Bayeux",2020-06-17,"nowcast",11,24,15,20,18,18.373
-"PB-Bayeux",2020-06-18,"nowcast",11,24,14,19,18,18.136
-"PB-Bayeux",2020-06-19,"nowcast",11,24,15,20,18,18.067
-"PB-Bayeux",2020-06-20,"nowcast",10,23,14,19,18,17.81
-"PB-Bayeux",2020-06-21,"nowcast",11,24,14,19,18,17.858
-"PB-Bayeux",2020-06-22,"nowcast",10,23,14,19,18,17.967
-"PB-Bayeux",2020-06-23,"nowcast",10,23,13,18,17,17.647
-"PB-Bayeux",2020-06-24,"nowcast",11,23,13,18,17,16.929
-"PB-Bayeux",2020-06-25,"nowcast",9,22,12,17,16,16.395
-"PB-Bayeux",2020-06-26,"nowcast",9,21,11,16,15,15.703
-"PB-Bayeux",2020-06-27,"nowcast",9,21,11,16,15,15.499
-"PB-Bayeux",2020-06-28,"nowcast",8,20,13,17,15,15.058
-"PB-Bayeux",2020-06-29,"nowcast",9,21,14,18,16,15.744
-"PB-Bayeux",2020-06-30,"nowcast",10,22,12,17,16,16.398
-"PB-Bayeux",2020-07-01,"nowcast",10,23,13,18,17,17.29
-"PB-Bayeux",2020-07-02,"nowcast",11,24,13,19,18,18.1
-"PB-Bayeux",2020-07-03,"nowcast",11,24,14,19,18,17.809
-"PB-Bayeux",2020-07-04,"nowcast",10,23,13,18,17,17.499
-"PB-Bayeux",2020-07-05,"nowcast",9,22,12,17,17,16.837
-"PB-Bayeux",2020-07-06,"nowcast",9,21,11,16,16,15.622
-"PB-Bayeux",2020-07-07,"nowcast",8,20,10,15,15,15.009
-"PB-Bayeux",2020-07-08,"nowcast",9,21,11,16,15,15.292
-"PB-Bayeux",2020-07-09,"nowcast",9,21,13,17,15,15.524
-"PB-Bayeux",2020-07-10,"nowcast",11,23,14,18,16,16.099
-"PB-Bayeux",2020-07-11,"nowcast",9,22,13,18,16,16.612
-"PB-Bayeux",2020-07-12,"nowcast",10,23,13,18,17,17.081
-"PB-Bayeux",2020-07-13,"nowcast",11,24,14,19,18,17.697
-"PB-Bayeux",2020-07-14,"nowcast",10,24,14,19,18,18.467
-"PB-Bayeux",2020-07-15,"nowcast",12,25,15,20,19,19.106
-"PB-Bayeux",2020-07-16,"nowcast",11,25,14,20,19,19.511
-"PB-Bayeux",2020-07-17,"nowcast",12,26,16,21,19,19.484
-"PB-Bayeux",2020-07-18,"nowcast",11,25,16,21,19,19.337
-"PB-Bayeux",2020-07-19,"nowcast",11,24,14,19,18,18
-"PB-Bayeux",2020-07-20,"nowcast",10,23,13,18,17,17.29
-"PB-Bayeux",2020-07-21,"nowcast",11,24,13,18,17,17.228
-"PB-Bayeux",2020-07-22,"nowcast",9,23,14,19,18,17.739
-"PB-Bayeux",2020-07-23,"nowcast",12,26,16,21,19,19.315
-"PB-Bayeux",2020-07-24,"nowcast",13,26,15,21,20,20.324
-"PB-Bayeux",2020-07-25,"nowcast",13,28,16,22,21,21.472
-"PB-Bayeux",2020-07-26,"nowcast",15,30,19,24,22,22.474
-"PB-Bayeux",2020-07-27,"nowcast",15,31,19,25,23,23.588
-"PB-Bayeux",2020-07-28,"nowcast",15,31,19,25,24,23.995
-"PB-Bayeux",2020-07-29,"nowcast",16,32,21,27,24,24.47
-"PB-Bayeux",2020-07-30,"nowcast",17,33,20,26,24,24.413
-"PB-Bayeux",2020-07-31,"nowcast",15,31,18,25,24,23.727
-"PB-Bayeux",2020-08-01,"nowcast",14,30,18,24,22,22.679
-"PB-Bayeux",2020-08-02,"nowcast",12,28,16,22,21,21.333
-"PB-Bayeux",2020-08-03,"nowcast",13,29,16,22,20,20.648
-"PB-Bayeux",2020-08-04,"nowcast",12,30,15,22,21,21.036
+"PB-Bayeux",2020-03-04,"nowcast",1,1,1,1,1,1
+"PB-Bayeux",2020-03-05,"nowcast",0,1,0,1,0.5,0.5
+"PB-Bayeux",2020-03-06,"nowcast",0,1,0,1,0.5,0.5
+"PB-Bayeux",2020-03-07,"nowcast",0,1,0,0,0,0.333333333333333
+"PB-Bayeux",2020-03-08,"nowcast",0,1,0,1,0.5,0.5
+"PB-Bayeux",2020-03-09,"nowcast",0,1,0,0,0,0.181818181818182
+"PB-Bayeux",2020-03-10,"nowcast",0,1,0,0,0,0.333333333333333
+"PB-Bayeux",2020-03-11,"nowcast",0,1,0,0,0,0.176470588235294
+"PB-Bayeux",2020-03-12,"nowcast",0,1,0,0,0,0.464285714285714
+"PB-Bayeux",2020-03-13,"nowcast",0,1,0,0,0,0.212121212121212
+"PB-Bayeux",2020-03-14,"nowcast",0,1,0,0,0,0.24390243902439
+"PB-Bayeux",2020-03-15,"nowcast",0,1,0,0,0,0.215686274509804
+"PB-Bayeux",2020-03-16,"nowcast",0,1,0,0,0,0.290322580645161
+"PB-Bayeux",2020-03-17,"nowcast",0,1,0,0,0,0.269230769230769
+"PB-Bayeux",2020-03-18,"nowcast",0,1,0,0,0,0.333333333333333
+"PB-Bayeux",2020-03-19,"nowcast",0,1,0,0,0,0.291044776119403
+"PB-Bayeux",2020-03-20,"nowcast",0,1,0,0,0,0.298245614035088
+"PB-Bayeux",2020-03-21,"nowcast",0,1,0,0,0,0.327188940092166
+"PB-Bayeux",2020-03-22,"nowcast",0,1,0,0,0,0.333333333333333
+"PB-Bayeux",2020-03-23,"nowcast",0,1,0,0,0,0.351851851851852
+"PB-Bayeux",2020-03-24,"nowcast",0,1,0,0,0,0.345
+"PB-Bayeux",2020-03-25,"nowcast",0,1,0,0,0,0.380753138075314
+"PB-Bayeux",2020-03-26,"nowcast",0,1,0,0,0,0.347272727272727
+"PB-Bayeux",2020-03-27,"nowcast",0,1,0,0,0,0.394695787831513
+"PB-Bayeux",2020-03-28,"nowcast",0,1,0,0,0,0.41029207232267
+"PB-Bayeux",2020-03-29,"nowcast",0,1,0,0,0,0.475222363405337
+"PB-Bayeux",2020-03-30,"nowcast",0,1,0,0,0,0.484098939929329
+"PB-Bayeux",2020-03-31,"nowcast",0,2,0,0,0,0.566184649610678
+"PB-Bayeux",2020-04-01,"nowcast",0,2,0,0,0,0.614316239316239
+"PB-Bayeux",2020-04-02,"nowcast",0,2,0,0,0,0.670442842430484
+"PB-Bayeux",2020-04-03,"nowcast",0,2,0,1,1,0.727456940222898
+"PB-Bayeux",2020-04-04,"nowcast",0,2,0,1,1,0.79718875502008
+"PB-Bayeux",2020-04-05,"nowcast",0,2,0,1,1,0.875626880641926
+"PB-Bayeux",2020-04-06,"nowcast",0,2,0,1,1,1.001001001001
+"PB-Bayeux",2020-04-07,"nowcast",0,2,0,1,1,1.09109109109109
+"PB-Bayeux",2020-04-08,"nowcast",0,3,0,1,1,1.11511511511512
+"PB-Bayeux",2020-04-09,"nowcast",0,3,0,1,1,1.216
+"PB-Bayeux",2020-04-10,"nowcast",0,3,0,1,1,1.306
+"PB-Bayeux",2020-04-11,"nowcast",0,3,0,1,1,1.312
+"PB-Bayeux",2020-04-12,"nowcast",0,3,0,1,1,1.49
+"PB-Bayeux",2020-04-13,"nowcast",0,3,1,2,1.5,1.615
+"PB-Bayeux",2020-04-14,"nowcast",0,4,1,2,2,1.799
+"PB-Bayeux",2020-04-15,"nowcast",0,4,1,2,2,1.964
+"PB-Bayeux",2020-04-16,"nowcast",0,4,0,2,2,2.249
+"PB-Bayeux",2020-04-17,"nowcast",0,4,0,2,2,2.442
+"PB-Bayeux",2020-04-18,"nowcast",0,5,1,3,3,2.756
+"PB-Bayeux",2020-04-19,"nowcast",0,5,1,3,3,3.041
+"PB-Bayeux",2020-04-20,"nowcast",1,6,1,3,3,3.266
+"PB-Bayeux",2020-04-21,"nowcast",1,6,2,4,4,3.644
+"PB-Bayeux",2020-04-22,"nowcast",0,6,2,4,4,3.882
+"PB-Bayeux",2020-04-23,"nowcast",1,7,2,4,4,4.042
+"PB-Bayeux",2020-04-24,"nowcast",1,7,2,4,4,4.192
+"PB-Bayeux",2020-04-25,"nowcast",1,7,2,4,4,4.185
+"PB-Bayeux",2020-04-26,"nowcast",1,7,2,4,4,4.239
+"PB-Bayeux",2020-04-27,"nowcast",1,7,2,4,4,4.255
+"PB-Bayeux",2020-04-28,"nowcast",1,7,2,4,4,4.446
+"PB-Bayeux",2020-04-29,"nowcast",1,8,3,5,5,4.741
+"PB-Bayeux",2020-04-30,"nowcast",1,8,2,5,5,5.111
+"PB-Bayeux",2020-05-01,"nowcast",2,9,2,5,5,5.323
+"PB-Bayeux",2020-05-02,"nowcast",2,9,3,6,6,5.908
+"PB-Bayeux",2020-05-03,"nowcast",2,10,4,7,6,6.332
+"PB-Bayeux",2020-05-04,"nowcast",3,11,4,7,7,6.988
+"PB-Bayeux",2020-05-05,"nowcast",2,11,5,8,8,7.652
+"PB-Bayeux",2020-05-06,"nowcast",4,13,6,9,8,8.491
+"PB-Bayeux",2020-05-07,"nowcast",5,14,8,11,9,9.606
+"PB-Bayeux",2020-05-08,"nowcast",5,15,7,11,11,10.617
+"PB-Bayeux",2020-05-09,"nowcast",7,17,8,12,11,11.483
+"PB-Bayeux",2020-05-10,"nowcast",6,17,9,13,12,12.572
+"PB-Bayeux",2020-05-11,"nowcast",7,18,10,14,13,13.2
+"PB-Bayeux",2020-05-12,"nowcast",7,19,11,15,14,13.705
+"PB-Bayeux",2020-05-13,"nowcast",8,19,11,15,14,13.75
+"PB-Bayeux",2020-05-14,"nowcast",8,19,11,15,13,13.654
+"PB-Bayeux",2020-05-15,"nowcast",7,18,10,14,13,12.981
+"PB-Bayeux",2020-05-16,"nowcast",6,18,10,14,12,12.678
+"PB-Bayeux",2020-05-17,"nowcast",6,17,10,14,12,12.648
+"PB-Bayeux",2020-05-18,"nowcast",7,18,9,14,14,13.608
+"PB-Bayeux",2020-05-19,"nowcast",9,21,11,16,15,15.124
+"PB-Bayeux",2020-05-20,"nowcast",10,23,13,18,17,16.95
+"PB-Bayeux",2020-05-21,"nowcast",10,24,15,20,18,18.422
+"PB-Bayeux",2020-05-22,"nowcast",12,26,17,22,20,20.1
+"PB-Bayeux",2020-05-23,"nowcast",14,27,17,22,21,20.987
+"PB-Bayeux",2020-05-24,"nowcast",14,28,16,22,21,21.445
+"PB-Bayeux",2020-05-25,"nowcast",13,27,18,23,21,21.069
+"PB-Bayeux",2020-05-26,"nowcast",13,27,18,23,20,20.615
+"PB-Bayeux",2020-05-27,"nowcast",12,26,15,21,20,20.049
+"PB-Bayeux",2020-05-28,"nowcast",13,27,17,22,20,20.183
+"PB-Bayeux",2020-05-29,"nowcast",12,26,15,21,20,19.983
+"PB-Bayeux",2020-05-30,"nowcast",12,26,16,21,19,19.508
+"PB-Bayeux",2020-05-31,"nowcast",11,25,16,21,19,18.874
+"PB-Bayeux",2020-06-01,"nowcast",11,24,14,19,18,17.79
+"PB-Bayeux",2020-06-02,"nowcast",11,23,13,18,17,17.099
+"PB-Bayeux",2020-06-03,"nowcast",9,22,12,17,16,16.45
+"PB-Bayeux",2020-06-04,"nowcast",10,22,12,17,16,16.253
+"PB-Bayeux",2020-06-05,"nowcast",9,22,12,17,16,16.412
+"PB-Bayeux",2020-06-06,"nowcast",10,22,12,17,16,16.625
+"PB-Bayeux",2020-06-07,"nowcast",11,23,13,18,17,16.919
+"PB-Bayeux",2020-06-08,"nowcast",10,23,14,19,17,17.317
+"PB-Bayeux",2020-06-09,"nowcast",11,24,14,19,18,17.784
+"PB-Bayeux",2020-06-10,"nowcast",11,24,14,19,18,18.264
+"PB-Bayeux",2020-06-11,"nowcast",12,25,15,20,19,18.724
+"PB-Bayeux",2020-06-12,"nowcast",12,25,15,20,19,19.14
+"PB-Bayeux",2020-06-13,"nowcast",12,25,16,21,19,19.415
+"PB-Bayeux",2020-06-14,"nowcast",13,26,16,21,19,19.385
+"PB-Bayeux",2020-06-15,"nowcast",11,25,15,20,19,19.022
+"PB-Bayeux",2020-06-16,"nowcast",10,24,16,21,19,18.865
+"PB-Bayeux",2020-06-17,"nowcast",12,25,15,20,18,18.424
+"PB-Bayeux",2020-06-18,"nowcast",11,24,14,19,18,18.133
+"PB-Bayeux",2020-06-19,"nowcast",10,24,13,19,18,18.453
+"PB-Bayeux",2020-06-20,"nowcast",11,24,15,20,18,18.053
+"PB-Bayeux",2020-06-21,"nowcast",11,24,14,19,18,18.004
+"PB-Bayeux",2020-06-22,"nowcast",10,23,13,18,18,17.74
+"PB-Bayeux",2020-06-23,"nowcast",10,23,13,18,17,17.46
+"PB-Bayeux",2020-06-24,"nowcast",10,23,14,19,17,17.008
+"PB-Bayeux",2020-06-25,"nowcast",10,22,12,17,16,16.089
+"PB-Bayeux",2020-06-26,"nowcast",9,21,11,16,15,15.491
+"PB-Bayeux",2020-06-27,"nowcast",9,21,11,16,15,15.169
+"PB-Bayeux",2020-06-28,"nowcast",8,20,10,15,15,15
+"PB-Bayeux",2020-06-29,"nowcast",9,21,11,16,15,15.576
+"PB-Bayeux",2020-06-30,"nowcast",9,22,12,17,16,16.294
+"PB-Bayeux",2020-07-01,"nowcast",11,24,13,18,17,17.544
+"PB-Bayeux",2020-07-02,"nowcast",11,24,14,19,18,17.94
+"PB-Bayeux",2020-07-03,"nowcast",11,24,14,19,18,18.08
+"PB-Bayeux",2020-07-04,"nowcast",10,23,13,18,17,17.383
+"PB-Bayeux",2020-07-05,"nowcast",9,22,12,17,16,16.542
+"PB-Bayeux",2020-07-06,"nowcast",9,21,12,17,16,15.715
+"PB-Bayeux",2020-07-07,"nowcast",7,20,11,16,15,15.23
+"PB-Bayeux",2020-07-08,"nowcast",10,21,11,16,15,15.187
+"PB-Bayeux",2020-07-09,"nowcast",9,21,11,16,15,15.359
+"PB-Bayeux",2020-07-10,"nowcast",10,22,11,16,16,15.899
+"PB-Bayeux",2020-07-11,"nowcast",10,22,15,19,16,16.466
+"PB-Bayeux",2020-07-12,"nowcast",10,23,13,18,17,17.017
+"PB-Bayeux",2020-07-13,"nowcast",11,24,14,19,18,17.716
+"PB-Bayeux",2020-07-14,"nowcast",12,24,14,19,18,18.322
+"PB-Bayeux",2020-07-15,"nowcast",12,25,15,20,19,19.046
+"PB-Bayeux",2020-07-16,"nowcast",12,26,16,21,20,19.77
+"PB-Bayeux",2020-07-17,"nowcast",11,25,17,22,19,19.5
+"PB-Bayeux",2020-07-18,"nowcast",11,25,15,20,19,18.955
+"PB-Bayeux",2020-07-19,"nowcast",11,24,15,20,18,18.208
+"PB-Bayeux",2020-07-20,"nowcast",9,24,14,19,17,17.245
+"PB-Bayeux",2020-07-21,"nowcast",10,23,13,18,17,17.173
+"PB-Bayeux",2020-07-22,"nowcast",10,24,14,19,18,17.833
+"PB-Bayeux",2020-07-23,"nowcast",11,25,14,20,19,19.081
+"PB-Bayeux",2020-07-24,"nowcast",13,27,15,21,20,20.268
+"PB-Bayeux",2020-07-25,"nowcast",14,28,18,23,21,21.547
+"PB-Bayeux",2020-07-26,"nowcast",14,29,18,24,22,22.645
+"PB-Bayeux",2020-07-27,"nowcast",16,31,19,25,24,23.57
+"PB-Bayeux",2020-07-28,"nowcast",15,30,19,25,24,24.113
+"PB-Bayeux",2020-07-29,"nowcast",16,32,20,26,24,24.671
+"PB-Bayeux",2020-07-30,"nowcast",15,31,20,26,24,24.443
+"PB-Bayeux",2020-07-31,"nowcast",16,31,19,25,24,23.971
+"PB-Bayeux",2020-08-01,"nowcast",14,30,18,24,23,22.672
+"PB-Bayeux",2020-08-02,"nowcast",13,29,16,22,21,21.189
+"PB-Bayeux",2020-08-03,"nowcast",11,28,14,21,20,20.575
+"PB-Bayeux",2020-08-04,"nowcast",11,30,16,23,21,21.426
 "PB-Bayeux",2020-04-08,"observed",NA,NA,NA,NA,1,NA
 "PB-Bayeux",2020-04-09,"observed",NA,NA,NA,NA,0,NA
 "PB-Bayeux",2020-04-10,"observed",NA,NA,NA,NA,0,NA
@@ -1459,20 +1457,21 @@
 "PB-Bayeux",2020-08-13,"observed",NA,NA,NA,NA,15,NA
 "PB-Bayeux",2020-08-14,"observed",NA,NA,NA,NA,16,NA
 "PB-Bayeux",2020-08-15,"observed",NA,NA,NA,NA,0,NA
-"PB-Bayeux",2020-08-05,"forecast",9,33,15,24,21,21.987
-"PB-Bayeux",2020-08-06,"forecast",7,34,14,24,21,21.9706
-"PB-Bayeux",2020-08-07,"forecast",7,36,12,23,21,22.145
-"PB-Bayeux",2020-08-08,"forecast",6,36,11,23,21,22.0228
-"PB-Bayeux",2020-08-09,"forecast",6,38,10,23,21,22.1774
-"PB-Bayeux",2020-08-10,"forecast",3,38,12,25,21,22.367
-"PB-Bayeux",2020-08-11,"forecast",2,39,9,23,21,22.6046
-"PB-Bayeux",2020-08-12,"forecast",2,40,8,23,21,22.7758
-"PB-Bayeux",2020-08-13,"forecast",2,42,9,24,20,22.9354
-"PB-Bayeux",2020-08-14,"forecast",0,41,7,23,21,23.0474
-"PB-Bayeux",2020-08-15,"forecast",0,42,9,25,20,23.2704
-"PB-Bayeux",2020-08-16,"forecast",0,44,5,22,20,23.5832
-"PB-Bayeux",2020-08-17,"forecast",0,44,6,23,20,23.6872
-"PB-Bayeux",2020-08-18,"forecast",0,45,4,22,20,23.7886
+"PB-Bayeux",2020-08-16,"observed",NA,NA,NA,NA,0,NA
+"PB-Bayeux",2020-08-05,"forecast",8,33,13,23,21,22.0678
+"PB-Bayeux",2020-08-06,"forecast",9,36,15,25,21,22.2906
+"PB-Bayeux",2020-08-07,"forecast",7,36,13,24,21,22.3686
+"PB-Bayeux",2020-08-08,"forecast",5,37,12,24,21,22.589
+"PB-Bayeux",2020-08-09,"forecast",5,38,11,24,21,22.6464
+"PB-Bayeux",2020-08-10,"forecast",4,40,13,26,21,22.7698
+"PB-Bayeux",2020-08-11,"forecast",3,41,11,25,21,23.1386
+"PB-Bayeux",2020-08-12,"forecast",2,41,7,23,21,23.3222
+"PB-Bayeux",2020-08-13,"forecast",2,43,8,24,21,23.532
+"PB-Bayeux",2020-08-14,"forecast",0,44,6,23,21,23.959
+"PB-Bayeux",2020-08-15,"forecast",0,45,8,25,21,24.1642
+"PB-Bayeux",2020-08-16,"forecast",0,46,5,23,21,24.3686
+"PB-Bayeux",2020-08-17,"forecast",0,48,5,23,20,24.5624
+"PB-Bayeux",2020-08-18,"forecast",0,48,4,23,21,24.8704
 "PB-Belém",2020-04-05,"nowcast",1,1,1,1,1,1
 "PB-Belém",2020-04-06,"nowcast",0,1,0,1,0.5,0.5
 "PB-Belém",2020-04-07,"nowcast",0,0,0,0,0,0
@@ -2286,166 +2285,178 @@
 "PB-Cajazeiras",2020-08-15,"forecast",0,32,3,14,13,17.1658
 "PB-Cajazeiras",2020-08-16,"forecast",0,33,2,13,13,17.243
 "PB-Cajazeiras",2020-08-17,"forecast",0,34,2,13,12,17.6396
-"PB-Campina Grande",2020-02-28,"nowcast",1,1,1,1,1,1
-"PB-Campina Grande",2020-02-29,"nowcast",0,1,0,0,0,0.333333333333333
-"PB-Campina Grande",2020-03-01,"nowcast",0,1,1,1,1,0.666666666666667
-"PB-Campina Grande",2020-03-02,"nowcast",0,1,1,1,1,0.533333333333333
-"PB-Campina Grande",2020-03-03,"nowcast",0,1,0,0,0,0.428571428571429
-"PB-Campina Grande",2020-03-04,"nowcast",0,1,0,0,0,0.441176470588235
-"PB-Campina Grande",2020-03-05,"nowcast",0,1,0,0,0,0.395833333333333
-"PB-Campina Grande",2020-03-06,"nowcast",0,1,0,0,0,0.344262295081967
-"PB-Campina Grande",2020-03-07,"nowcast",0,1,0,0,0,0.28
-"PB-Campina Grande",2020-03-08,"nowcast",0,1,0,0,0,0.284090909090909
-"PB-Campina Grande",2020-03-09,"nowcast",0,1,0,0,0,0.279279279279279
-"PB-Campina Grande",2020-03-10,"nowcast",0,1,0,0,0,0.295774647887324
-"PB-Campina Grande",2020-03-11,"nowcast",0,1,0,0,0,0.276470588235294
-"PB-Campina Grande",2020-03-12,"nowcast",0,1,0,0,0,0.330316742081448
-"PB-Campina Grande",2020-03-13,"nowcast",0,1,0,0,0,0.282527881040892
-"PB-Campina Grande",2020-03-14,"nowcast",0,1,0,0,0,0.285714285714286
-"PB-Campina Grande",2020-03-15,"nowcast",0,1,0,0,0,0.28125
-"PB-Campina Grande",2020-03-16,"nowcast",0,1,0,0,0,0.320293398533007
-"PB-Campina Grande",2020-03-17,"nowcast",0,1,0,0,0,0.267391304347826
-"PB-Campina Grande",2020-03-18,"nowcast",0,1,0,0,0,0.323135755258126
-"PB-Campina Grande",2020-03-19,"nowcast",0,1,0,0,0,0.330522765598651
-"PB-Campina Grande",2020-03-20,"nowcast",0,1,0,0,0,0.303680981595092
-"PB-Campina Grande",2020-03-21,"nowcast",0,1,0,0,0,0.344632768361582
-"PB-Campina Grande",2020-03-22,"nowcast",0,1,0,0,0,0.363754889178618
-"PB-Campina Grande",2020-03-23,"nowcast",0,1,0,0,0,0.297397769516729
-"PB-Campina Grande",2020-03-24,"nowcast",0,1,0,0,0,0.287410926365796
-"PB-Campina Grande",2020-03-25,"nowcast",0,1,0,0,0,0.244266055045872
-"PB-Campina Grande",2020-03-26,"nowcast",0,1,0,0,0,0.25364758698092
-"PB-Campina Grande",2020-03-27,"nowcast",0,1,0,0,0,0.274834437086093
-"PB-Campina Grande",2020-03-28,"nowcast",0,1,0,0,0,0.312026002166847
-"PB-Campina Grande",2020-03-29,"nowcast",0,1,0,0,0,0.353191489361702
-"PB-Campina Grande",2020-03-30,"nowcast",0,1,0,0,0,0.40398740818468
-"PB-Campina Grande",2020-03-31,"nowcast",0,1,0,0,0,0.45681581685744
-"PB-Campina Grande",2020-04-01,"nowcast",0,2,0,0,0,0.580412371134021
-"PB-Campina Grande",2020-04-02,"nowcast",0,2,0,0,0,0.642566191446029
-"PB-Campina Grande",2020-04-03,"nowcast",0,2,0,1,1,0.807302231237322
-"PB-Campina Grande",2020-04-04,"nowcast",0,2,0,1,1,0.928355196770938
-"PB-Campina Grande",2020-04-05,"nowcast",0,3,0,1,1,1.12789526686808
-"PB-Campina Grande",2020-04-06,"nowcast",0,3,0,1,1,1.27537688442211
-"PB-Campina Grande",2020-04-07,"nowcast",0,3,0,1,1,1.56
-"PB-Campina Grande",2020-04-08,"nowcast",0,4,1,2,2,1.832
-"PB-Campina Grande",2020-04-09,"nowcast",0,4,1,2,2,2.051
-"PB-Campina Grande",2020-04-10,"nowcast",0,4,0,2,2,2.38
-"PB-Campina Grande",2020-04-11,"nowcast",0,5,1,3,3,2.721
-"PB-Campina Grande",2020-04-12,"nowcast",0,5,1,3,3,2.924
-"PB-Campina Grande",2020-04-13,"nowcast",1,6,1,3,3,3.165
-"PB-Campina Grande",2020-04-14,"nowcast",0,6,2,4,3,3.541
-"PB-Campina Grande",2020-04-15,"nowcast",0,6,2,4,4,3.746
-"PB-Campina Grande",2020-04-16,"nowcast",1,7,2,4,4,3.961
-"PB-Campina Grande",2020-04-17,"nowcast",1,7,2,4,4,4.225
-"PB-Campina Grande",2020-04-18,"nowcast",1,7,3,5,4,4.432
-"PB-Campina Grande",2020-04-19,"nowcast",1,8,2,5,5,4.668
-"PB-Campina Grande",2020-04-20,"nowcast",1,8,2,5,5,4.975
-"PB-Campina Grande",2020-04-21,"nowcast",1,8,2,5,5,4.963
-"PB-Campina Grande",2020-04-22,"nowcast",1,9,3,6,5,5.44
-"PB-Campina Grande",2020-04-23,"nowcast",2,10,3,6,5.5,5.871
-"PB-Campina Grande",2020-04-24,"nowcast",2,11,4,7,6,6.688
-"PB-Campina Grande",2020-04-25,"nowcast",2,12,3,7,7,7.599
-"PB-Campina Grande",2020-04-26,"nowcast",3,14,5,9,8,8.769
-"PB-Campina Grande",2020-04-27,"nowcast",3,15,5,10,10,9.993
-"PB-Campina Grande",2020-04-28,"nowcast",4,17,6,11,11,11.162
-"PB-Campina Grande",2020-04-29,"nowcast",4,19,8,13,12,12.836
-"PB-Campina Grande",2020-04-30,"nowcast",6,22,10,16,15,15.005
-"PB-Campina Grande",2020-05-01,"nowcast",7,24,10,17,16,16.987
-"PB-Campina Grande",2020-05-02,"nowcast",9,28,14,21,19,19.638
-"PB-Campina Grande",2020-05-03,"nowcast",12,32,15,23,22,22.547
-"PB-Campina Grande",2020-05-04,"nowcast",14,36,20,28,25,25.645
-"PB-Campina Grande",2020-05-05,"nowcast",17,41,21,31,29,29.272
-"PB-Campina Grande",2020-05-06,"nowcast",20,45,24,34,33,33.557
-"PB-Campina Grande",2020-05-07,"nowcast",23,50,30,41,38,38.147
-"PB-Campina Grande",2020-05-08,"nowcast",26,55,33,45,42,42.189
-"PB-Campina Grande",2020-05-09,"nowcast",31,61,40,51,47,47.444
-"PB-Campina Grande",2020-05-10,"nowcast",37,68,47,59,52,52.639
-"PB-Campina Grande",2020-05-11,"nowcast",41,74,48,61,58,58.051
-"PB-Campina Grande",2020-05-12,"nowcast",46,81,55,69,63,63.905
-"PB-Campina Grande",2020-05-13,"nowcast",49,86,62,76,69,69.937
-"PB-Campina Grande",2020-05-14,"nowcast",58,95,68,83,77,77.286
-"PB-Campina Grande",2020-05-15,"nowcast",65,102,75,89,85,84.795
-"PB-Campina Grande",2020-05-16,"nowcast",74,111,83,98,92,92.564
-"PB-Campina Grande",2020-05-17,"nowcast",81,119,91,106,99,100.009
-"PB-Campina Grande",2020-05-18,"nowcast",87,126,97,112,106,106.159
-"PB-Campina Grande",2020-05-19,"nowcast",90,128,98,113,109,109.53
-"PB-Campina Grande",2020-05-20,"nowcast",92,131,103,118,111,111.631
-"PB-Campina Grande",2020-05-21,"nowcast",93,136,104,121,115,115.793
-"PB-Campina Grande",2020-05-22,"nowcast",94,138,105,123,119,119.644
-"PB-Campina Grande",2020-05-23,"nowcast",101,147,110,129,125,124.819
-"PB-Campina Grande",2020-05-24,"nowcast",108,154,120,138,131,131.577
-"PB-Campina Grande",2020-05-25,"nowcast",113,162,124,144,138,138.769
-"PB-Campina Grande",2020-05-26,"nowcast",118,168,133,152,144,144.158
-"PB-Campina Grande",2020-05-27,"nowcast",125,177,142,162,151,151.248
-"PB-Campina Grande",2020-05-28,"nowcast",132,183,146,166,159,159.389
-"PB-Campina Grande",2020-05-29,"nowcast",142,195,159,180,169,169.301
-"PB-Campina Grande",2020-05-30,"nowcast",153,204,165,185,180,179.486
-"PB-Campina Grande",2020-05-31,"nowcast",164,213,180,200,189,188.553
-"PB-Campina Grande",2020-06-01,"nowcast",172,222,184,204,195,195.73
-"PB-Campina Grande",2020-06-02,"nowcast",178,225,190,208,201,201.28
-"PB-Campina Grande",2020-06-03,"nowcast",179,227,196,215,205,204.959
-"PB-Campina Grande",2020-06-04,"nowcast",179,227,194,213,206,205.851
-"PB-Campina Grande",2020-06-05,"nowcast",180,229,196,216,205,205.122
-"PB-Campina Grande",2020-06-06,"nowcast",180,230,190,209,201,201.002
-"PB-Campina Grande",2020-06-07,"nowcast",170,217,182,200,193,193.501
-"PB-Campina Grande",2020-06-08,"nowcast",161,205,172,190,183,183.077
-"PB-Campina Grande",2020-06-09,"nowcast",153,195,161,178,173,173.689
-"PB-Campina Grande",2020-06-10,"nowcast",140,185,155,172,165,165.543
-"PB-Campina Grande",2020-06-11,"nowcast",135,177,149,166,159,159.194
-"PB-Campina Grande",2020-06-12,"nowcast",134,176,145,161,155,155.548
-"PB-Campina Grande",2020-06-13,"nowcast",131,173,141,158,152,151.86
-"PB-Campina Grande",2020-06-14,"nowcast",126,165,134,150,145,144.924
-"PB-Campina Grande",2020-06-15,"nowcast",117,155,126,141,136,135.994
-"PB-Campina Grande",2020-06-16,"nowcast",108,146,118,133,128,128.192
-"PB-Campina Grande",2020-06-17,"nowcast",104,138,113,126,122,121.856
-"PB-Campina Grande",2020-06-18,"nowcast",100,136,108,122,118,118.322
-"PB-Campina Grande",2020-06-19,"nowcast",98,134,113,127,118,118.384
-"PB-Campina Grande",2020-06-20,"nowcast",99,135,113,128,120,120.073
-"PB-Campina Grande",2020-06-21,"nowcast",101,138,110,125,120,120.462
-"PB-Campina Grande",2020-06-22,"nowcast",97,135,105,120,117,116.547
-"PB-Campina Grande",2020-06-23,"nowcast",94,128,102,117,112,112.12
-"PB-Campina Grande",2020-06-24,"nowcast",88,125,99,115,108,108.404
-"PB-Campina Grande",2020-06-25,"nowcast",90,127,100,115,109,109.158
-"PB-Campina Grande",2020-06-26,"nowcast",93,132,104,119,113,112.58
-"PB-Campina Grande",2020-06-27,"nowcast",97,138,108,123,117,117.775
-"PB-Campina Grande",2020-06-28,"nowcast",103,142,114,131,123,122.89
-"PB-Campina Grande",2020-06-29,"nowcast",106,146,120,135,128,128.306
-"PB-Campina Grande",2020-06-30,"nowcast",113,152,121,136,132,132.016
-"PB-Campina Grande",2020-07-01,"nowcast",112,153,124,140,134,134.281
-"PB-Campina Grande",2020-07-02,"nowcast",116,153,126,141,135,134.696
-"PB-Campina Grande",2020-07-03,"nowcast",117,154,124,139,135,135.726
-"PB-Campina Grande",2020-07-04,"nowcast",115,153,124,138,134,134.676
-"PB-Campina Grande",2020-07-05,"nowcast",114,153,119,134,131,131.006
-"PB-Campina Grande",2020-07-06,"nowcast",107,143,116,131,126,126.587
-"PB-Campina Grande",2020-07-07,"nowcast",104,141,114,128,123,123.032
-"PB-Campina Grande",2020-07-08,"nowcast",103,140,113,127,121,121.493
-"PB-Campina Grande",2020-07-09,"nowcast",102,139,111,126,122,121.738
-"PB-Campina Grande",2020-07-10,"nowcast",103,140,117,131,124,123.985
-"PB-Campina Grande",2020-07-11,"nowcast",107,144,116,131,126,126.269
-"PB-Campina Grande",2020-07-12,"nowcast",105,143,116,131,126,126.17
-"PB-Campina Grande",2020-07-13,"nowcast",107,143,114,128,124,124.583
-"PB-Campina Grande",2020-07-14,"nowcast",105,140,112,126,121,121.905
-"PB-Campina Grande",2020-07-15,"nowcast",102,136,111,126,119,118.967
-"PB-Campina Grande",2020-07-16,"nowcast",99,134,109,123,118,118.155
-"PB-Campina Grande",2020-07-17,"nowcast",99,135,106,120,117,117.182
-"PB-Campina Grande",2020-07-18,"nowcast",96,133,106,122,116,116.634
-"PB-Campina Grande",2020-07-19,"nowcast",94,131,107,121,113,113.651
-"PB-Campina Grande",2020-07-20,"nowcast",89,126,97,112,107,107.376
-"PB-Campina Grande",2020-07-21,"nowcast",83,117,91,105,99,99.256
-"PB-Campina Grande",2020-07-22,"nowcast",74,106,82,95,92,91.811
-"PB-Campina Grande",2020-07-23,"nowcast",73,104,80,92,88,88.06
-"PB-Campina Grande",2020-07-24,"nowcast",69,100,78,90,86,86.414
-"PB-Campina Grande",2020-07-25,"nowcast",68,98,75,87,84,83.757
-"PB-Campina Grande",2020-07-26,"nowcast",65,94,71,83,80,80.297
-"PB-Campina Grande",2020-07-27,"nowcast",62,89,67,78,75,75.57
-"PB-Campina Grande",2020-07-28,"nowcast",57,85,63,74,71,71.047
-"PB-Campina Grande",2020-07-29,"nowcast",52,79,60,71,69,68.922
-"PB-Campina Grande",2020-07-30,"nowcast",53,81,61,71,68,68.223
-"PB-Campina Grande",2020-07-31,"nowcast",53,80,62,73,68,67.769
-"PB-Campina Grande",2020-08-01,"nowcast",54,82,63,73,69,68.884
-"PB-Campina Grande",2020-08-02,"nowcast",52,80,61,72,68,68.349
-"PB-Campina Grande",2020-08-03,"nowcast",51,82,61,73,68,68.25
-"PB-Campina Grande",2020-08-04,"nowcast",53,83,60,72,69,68.658
-"PB-Campina Grande",2020-08-05,"nowcast",57,86,60,73,70,70.308
+"PB-Campina Grande",2020-02-17,"nowcast",1,1,1,1,1,1
+"PB-Campina Grande",2020-02-18,"nowcast",1,1,1,1,1,1
+"PB-Campina Grande",2020-02-19,"nowcast",0,0,0,0,0,0
+"PB-Campina Grande",2020-02-20,"nowcast",0,0,0,0,0,0
+"PB-Campina Grande",2020-02-21,"nowcast",0,1,1,1,1,0.666666666666667
+"PB-Campina Grande",2020-02-22,"nowcast",0,1,0,0,0,0.333333333333333
+"PB-Campina Grande",2020-02-23,"nowcast",0,1,0,0,0,0.25
+"PB-Campina Grande",2020-02-24,"nowcast",0,1,0,0,0,0.2
+"PB-Campina Grande",2020-02-25,"nowcast",0,1,0,0,0,0.2
+"PB-Campina Grande",2020-02-26,"nowcast",0,1,0,1,0.5,0.5
+"PB-Campina Grande",2020-02-27,"nowcast",0,1,0,0,0,0.1
+"PB-Campina Grande",2020-02-28,"nowcast",0,1,0,0,0,0.166666666666667
+"PB-Campina Grande",2020-02-29,"nowcast",0,1,0,0,0,0.153846153846154
+"PB-Campina Grande",2020-03-01,"nowcast",0,1,0,0,0,0.333333333333333
+"PB-Campina Grande",2020-03-02,"nowcast",0,1,0,0,0,0.384615384615385
+"PB-Campina Grande",2020-03-03,"nowcast",0,1,0,0,0,0.166666666666667
+"PB-Campina Grande",2020-03-04,"nowcast",0,1,0,0,0,0.348837209302326
+"PB-Campina Grande",2020-03-05,"nowcast",0,1,0,0,0,0.321428571428571
+"PB-Campina Grande",2020-03-06,"nowcast",0,1,0,0,0,0.231884057971014
+"PB-Campina Grande",2020-03-07,"nowcast",0,1,0,0,0,0.2375
+"PB-Campina Grande",2020-03-08,"nowcast",0,1,0,0,0,0.159090909090909
+"PB-Campina Grande",2020-03-09,"nowcast",0,1,0,0,0,0.287037037037037
+"PB-Campina Grande",2020-03-10,"nowcast",0,1,0,0,0,0.311111111111111
+"PB-Campina Grande",2020-03-11,"nowcast",0,1,0,0,0,0.25609756097561
+"PB-Campina Grande",2020-03-12,"nowcast",0,1,0,0,0,0.323671497584541
+"PB-Campina Grande",2020-03-13,"nowcast",0,1,0,0,0,0.321138211382114
+"PB-Campina Grande",2020-03-14,"nowcast",0,1,0,0,0,0.3
+"PB-Campina Grande",2020-03-15,"nowcast",0,1,0,0,0,0.31044776119403
+"PB-Campina Grande",2020-03-16,"nowcast",0,1,0,0,0,0.341645885286783
+"PB-Campina Grande",2020-03-17,"nowcast",0,1,0,0,0,0.316702819956616
+"PB-Campina Grande",2020-03-18,"nowcast",0,1,0,0,0,0.314671814671815
+"PB-Campina Grande",2020-03-19,"nowcast",0,1,0,0,0,0.363793103448276
+"PB-Campina Grande",2020-03-20,"nowcast",0,1,0,0,0,0.360759493670886
+"PB-Campina Grande",2020-03-21,"nowcast",0,1,0,0,0,0.337719298245614
+"PB-Campina Grande",2020-03-22,"nowcast",0,1,0,0,0,0.357142857142857
+"PB-Campina Grande",2020-03-23,"nowcast",0,1,0,0,0,0.324742268041237
+"PB-Campina Grande",2020-03-24,"nowcast",0,1,0,0,0,0.299504950495049
+"PB-Campina Grande",2020-03-25,"nowcast",0,1,0,0,0,0.245487364620939
+"PB-Campina Grande",2020-03-26,"nowcast",0,1,0,0,0,0.258519388954172
+"PB-Campina Grande",2020-03-27,"nowcast",0,1,0,0,0,0.264739884393064
+"PB-Campina Grande",2020-03-28,"nowcast",0,1,0,0,0,0.284116331096197
+"PB-Campina Grande",2020-03-29,"nowcast",0,1,0,0,0,0.368995633187773
+"PB-Campina Grande",2020-03-30,"nowcast",0,1,0,0,0,0.427194860813705
+"PB-Campina Grande",2020-03-31,"nowcast",0,2,0,0,0,0.484752891692955
+"PB-Campina Grande",2020-04-01,"nowcast",0,1,0,0,0,0.531055900621118
+"PB-Campina Grande",2020-04-02,"nowcast",0,2,0,0,0,0.650972364380757
+"PB-Campina Grande",2020-04-03,"nowcast",0,2,0,1,1,0.781281790437436
+"PB-Campina Grande",2020-04-04,"nowcast",0,2,0,1,1,0.897979797979798
+"PB-Campina Grande",2020-04-05,"nowcast",0,3,0,1,1,1.04221105527638
+"PB-Campina Grande",2020-04-06,"nowcast",0,3,0,1,1,1.21664994984955
+"PB-Campina Grande",2020-04-07,"nowcast",0,3,0,1,1,1.518
+"PB-Campina Grande",2020-04-08,"nowcast",0,4,1,2,2,1.836
+"PB-Campina Grande",2020-04-09,"nowcast",0,4,1,2,2,2.034
+"PB-Campina Grande",2020-04-10,"nowcast",0,4,0,2,2,2.32
+"PB-Campina Grande",2020-04-11,"nowcast",0,5,0,2,2,2.679
+"PB-Campina Grande",2020-04-12,"nowcast",0,5,1,3,3,2.964
+"PB-Campina Grande",2020-04-13,"nowcast",1,6,1,3,3,3.278
+"PB-Campina Grande",2020-04-14,"nowcast",0,6,2,4,3,3.536
+"PB-Campina Grande",2020-04-15,"nowcast",1,7,2,4,4,3.849
+"PB-Campina Grande",2020-04-16,"nowcast",1,7,2,4,4,3.997
+"PB-Campina Grande",2020-04-17,"nowcast",1,7,2,4,4,4.206
+"PB-Campina Grande",2020-04-18,"nowcast",1,7,3,5,4,4.429
+"PB-Campina Grande",2020-04-19,"nowcast",1,8,3,5,4,4.572
+"PB-Campina Grande",2020-04-20,"nowcast",1,8,2,5,4,4.711
+"PB-Campina Grande",2020-04-21,"nowcast",0,8,2,5,5,5.077
+"PB-Campina Grande",2020-04-22,"nowcast",1,9,2,5,5,5.372
+"PB-Campina Grande",2020-04-23,"nowcast",2,10,4,7,6,6.06
+"PB-Campina Grande",2020-04-24,"nowcast",2,11,4,7,6,6.701
+"PB-Campina Grande",2020-04-25,"nowcast",3,12,5,8,7,7.394
+"PB-Campina Grande",2020-04-26,"nowcast",3,13,4,8,8,8.479
+"PB-Campina Grande",2020-04-27,"nowcast",3,15,6,10,9,9.771
+"PB-Campina Grande",2020-04-28,"nowcast",4,17,6,11,11,11.094
+"PB-Campina Grande",2020-04-29,"nowcast",5,19,8,13,12,12.892
+"PB-Campina Grande",2020-04-30,"nowcast",6,21,9,15,14,14.684
+"PB-Campina Grande",2020-05-01,"nowcast",7,24,13,19,16,16.802
+"PB-Campina Grande",2020-05-02,"nowcast",9,28,14,21,19,19.675
+"PB-Campina Grande",2020-05-03,"nowcast",11,31,15,23,22,22.271
+"PB-Campina Grande",2020-05-04,"nowcast",14,36,19,27,25,25.519
+"PB-Campina Grande",2020-05-05,"nowcast",16,40,22,31,29,29.144
+"PB-Campina Grande",2020-05-06,"nowcast",21,47,25,35,33,33.44
+"PB-Campina Grande",2020-05-07,"nowcast",24,51,31,41,37,37.673
+"PB-Campina Grande",2020-05-08,"nowcast",26,55,33,45,42,42.099
+"PB-Campina Grande",2020-05-09,"nowcast",30,61,38,50,47,47.39
+"PB-Campina Grande",2020-05-10,"nowcast",36,68,43,56,52,52.8
+"PB-Campina Grande",2020-05-11,"nowcast",40,72,48,61,58,58.176
+"PB-Campina Grande",2020-05-12,"nowcast",45,79,54,68,64,64.171
+"PB-Campina Grande",2020-05-13,"nowcast",53,88,62,76,70,70.289
+"PB-Campina Grande",2020-05-14,"nowcast",58,95,66,81,77,77.374
+"PB-Campina Grande",2020-05-15,"nowcast",63,103,75,91,85,85.228
+"PB-Campina Grande",2020-05-16,"nowcast",72,109,82,97,92,92.512
+"PB-Campina Grande",2020-05-17,"nowcast",80,118,90,105,100,100.2
+"PB-Campina Grande",2020-05-18,"nowcast",84,123,94,109,105,105.336
+"PB-Campina Grande",2020-05-19,"nowcast",88,126,97,113,108.5,109.244
+"PB-Campina Grande",2020-05-20,"nowcast",91,133,101,116,111,112.167
+"PB-Campina Grande",2020-05-21,"nowcast",92,132,108,124,115,114.484
+"PB-Campina Grande",2020-05-22,"nowcast",96,142,112,130,120,119.731
+"PB-Campina Grande",2020-05-23,"nowcast",101,146,111,130,125,125.701
+"PB-Campina Grande",2020-05-24,"nowcast",107,153,117,136,132,131.946
+"PB-Campina Grande",2020-05-25,"nowcast",111,159,126,145,138,138.295
+"PB-Campina Grande",2020-05-26,"nowcast",117,167,134,154,144,144.348
+"PB-Campina Grande",2020-05-27,"nowcast",122,175,140,160,150,150.913
+"PB-Campina Grande",2020-05-28,"nowcast",128,181,147,168,159,158.66
+"PB-Campina Grande",2020-05-29,"nowcast",144,197,155,178,170,169.325
+"PB-Campina Grande",2020-05-30,"nowcast",153,205,164,185,179,178.654
+"PB-Campina Grande",2020-05-31,"nowcast",166,216,177,197,189,188.764
+"PB-Campina Grande",2020-06-01,"nowcast",172,222,183,204,196,195.526
+"PB-Campina Grande",2020-06-02,"nowcast",177,227,188,207,200,200.826
+"PB-Campina Grande",2020-06-03,"nowcast",176,225,194,213,204,204.308
+"PB-Campina Grande",2020-06-04,"nowcast",178,226,194,214,206,205.626
+"PB-Campina Grande",2020-06-05,"nowcast",177,227,194,213,204,204.354
+"PB-Campina Grande",2020-06-06,"nowcast",174,224,189,208,199,200.48
+"PB-Campina Grande",2020-06-07,"nowcast",164,214,182,202,194,193.185
+"PB-Campina Grande",2020-06-08,"nowcast",157,205,170,190,183,183.349
+"PB-Campina Grande",2020-06-09,"nowcast",150,195,163,181,174,173.83
+"PB-Campina Grande",2020-06-10,"nowcast",145,187,157,174,165,165.309
+"PB-Campina Grande",2020-06-11,"nowcast",134,178,147,164,159,159.254
+"PB-Campina Grande",2020-06-12,"nowcast",135,177,144,161,155,155.429
+"PB-Campina Grande",2020-06-13,"nowcast",129,170,139,155,150,150.907
+"PB-Campina Grande",2020-06-14,"nowcast",122,165,134,151,145,145.044
+"PB-Campina Grande",2020-06-15,"nowcast",115,155,124,140,135.5,135.984
+"PB-Campina Grande",2020-06-16,"nowcast",110,146,117,132,129,128.934
+"PB-Campina Grande",2020-06-17,"nowcast",103,140,110,125,122,122.138
+"PB-Campina Grande",2020-06-18,"nowcast",102,138,110,124,117,117.748
+"PB-Campina Grande",2020-06-19,"nowcast",101,135,110,124,118,118.195
+"PB-Campina Grande",2020-06-20,"nowcast",102,137,112,126,120,119.767
+"PB-Campina Grande",2020-06-21,"nowcast",100,137,109,124,120,119.881
+"PB-Campina Grande",2020-06-22,"nowcast",100,135,109,123,117,117.045
+"PB-Campina Grande",2020-06-23,"nowcast",94,129,104,118,112,112.386
+"PB-Campina Grande",2020-06-24,"nowcast",91,127,98,113,108,108.836
+"PB-Campina Grande",2020-06-25,"nowcast",89,126,99,114,108,108.973
+"PB-Campina Grande",2020-06-26,"nowcast",92,130,103,118,112,112.257
+"PB-Campina Grande",2020-06-27,"nowcast",97,136,107,123,117,117.129
+"PB-Campina Grande",2020-06-28,"nowcast",101,141,112,127,123,123.518
+"PB-Campina Grande",2020-06-29,"nowcast",108,146,118,134,128,128.457
+"PB-Campina Grande",2020-06-30,"nowcast",108,150,120,137,131.5,131.391
+"PB-Campina Grande",2020-07-01,"nowcast",114,153,128,143,134,134.216
+"PB-Campina Grande",2020-07-02,"nowcast",117,156,125,141,135,135.3
+"PB-Campina Grande",2020-07-03,"nowcast",116,154,124,140,134,134.809
+"PB-Campina Grande",2020-07-04,"nowcast",114,153,125,141,134,133.987
+"PB-Campina Grande",2020-07-05,"nowcast",112,150,121,136,131,131.25
+"PB-Campina Grande",2020-07-06,"nowcast",106,142,119,133,126,126.357
+"PB-Campina Grande",2020-07-07,"nowcast",105,140,114,129,123,122.702
+"PB-Campina Grande",2020-07-08,"nowcast",101,138,112,126,121,121.462
+"PB-Campina Grande",2020-07-09,"nowcast",102,139,114,129,122,121.716
+"PB-Campina Grande",2020-07-10,"nowcast",103,142,112,128,124,123.97
+"PB-Campina Grande",2020-07-11,"nowcast",107,143,118,132,125,125.526
+"PB-Campina Grande",2020-07-12,"nowcast",108,144,116,131,126,125.91
+"PB-Campina Grande",2020-07-13,"nowcast",106,143,117,131,124,124.193
+"PB-Campina Grande",2020-07-14,"nowcast",102,138,109,124,121,121.78
+"PB-Campina Grande",2020-07-15,"nowcast",101,137,106,122,119,119.009
+"PB-Campina Grande",2020-07-16,"nowcast",101,136,107,122,118,118.173
+"PB-Campina Grande",2020-07-17,"nowcast",96,134,110,124,117,117.241
+"PB-Campina Grande",2020-07-18,"nowcast",100,136,107,121,116,116.083
+"PB-Campina Grande",2020-07-19,"nowcast",93,131,103,117,112.5,113.224
+"PB-Campina Grande",2020-07-20,"nowcast",88,124,98,112,107,107.388
+"PB-Campina Grande",2020-07-21,"nowcast",82,114,88,101,98,98.429
+"PB-Campina Grande",2020-07-22,"nowcast",74,106,84,97,92,92.196
+"PB-Campina Grande",2020-07-23,"nowcast",70,101,83,95,88,87.854
+"PB-Campina Grande",2020-07-24,"nowcast",67,98,77,89,85,85.488
+"PB-Campina Grande",2020-07-25,"nowcast",65,96,74,86,82,82.524
+"PB-Campina Grande",2020-07-26,"nowcast",62,93,72,84,79,79.167
+"PB-Campina Grande",2020-07-27,"nowcast",59,88,67,78,75,74.574
+"PB-Campina Grande",2020-07-28,"nowcast",55,83,61,72,69,69.581
+"PB-Campina Grande",2020-07-29,"nowcast",53,80,61,72,67,67.168
+"PB-Campina Grande",2020-07-30,"nowcast",52,78,57,68,66,65.871
+"PB-Campina Grande",2020-07-31,"nowcast",53,79,57,68,66,65.85
+"PB-Campina Grande",2020-08-01,"nowcast",53,79,57,68,65,65.387
+"PB-Campina Grande",2020-08-02,"nowcast",48,76,57,68,64,63.917
+"PB-Campina Grande",2020-08-03,"nowcast",47,74,55,66,63,62.762
+"PB-Campina Grande",2020-08-04,"nowcast",49,77,55,66,62,61.806
+"PB-Campina Grande",2020-08-05,"nowcast",48,74,56,66,61,61.733
+"PB-Campina Grande",2020-08-06,"nowcast",45,74,53,64,61,61.534
 "PB-Campina Grande",2020-03-27,"observed",NA,NA,NA,NA,1,NA
 "PB-Campina Grande",2020-03-28,"observed",NA,NA,NA,NA,1,NA
 "PB-Campina Grande",2020-03-29,"observed",NA,NA,NA,NA,0,NA
@@ -2588,20 +2599,21 @@
 "PB-Campina Grande",2020-08-13,"observed",NA,NA,NA,NA,77,NA
 "PB-Campina Grande",2020-08-14,"observed",NA,NA,NA,NA,73,NA
 "PB-Campina Grande",2020-08-15,"observed",NA,NA,NA,NA,0,NA
-"PB-Campina Grande",2020-08-06,"forecast",44,87,57,74,67,67.644
-"PB-Campina Grande",2020-08-07,"forecast",40,87,51,70,66,66.5344
-"PB-Campina Grande",2020-08-08,"forecast",41,91,50,70,65,66.231
-"PB-Campina Grande",2020-08-09,"forecast",36,89,48,69,64,65.9698
-"PB-Campina Grande",2020-08-10,"forecast",35,92,47,69,63,64.9508
-"PB-Campina Grande",2020-08-11,"forecast",32,94,45,68,62,64.6556
-"PB-Campina Grande",2020-08-12,"forecast",30,93,42,66,61,63.933
-"PB-Campina Grande",2020-08-13,"forecast",28,96,44,69,60,63.7446
-"PB-Campina Grande",2020-08-14,"forecast",27,96,38,64,59,63.099
-"PB-Campina Grande",2020-08-15,"forecast",25,98,39,66,58,62.809
-"PB-Campina Grande",2020-08-16,"forecast",20,96,38,65,58,62.2662
-"PB-Campina Grande",2020-08-17,"forecast",19,99,34,62,56,62.093
-"PB-Campina Grande",2020-08-18,"forecast",17,97,33,62,55,61.8288
-"PB-Campina Grande",2020-08-19,"forecast",18,102,31,60,54,61.6476
+"PB-Campina Grande",2020-08-16,"observed",NA,NA,NA,NA,0,NA
+"PB-Campina Grande",2020-08-07,"forecast",38,77,47,62,58,59.1032
+"PB-Campina Grande",2020-08-08,"forecast",35,77,45,61,57,58.1964
+"PB-Campina Grande",2020-08-09,"forecast",36,79,42,59,56,56.9664
+"PB-Campina Grande",2020-08-10,"forecast",31,77,45,62,55,56.0732
+"PB-Campina Grande",2020-08-11,"forecast",30,79,39,58,54,55.1056
+"PB-Campina Grande",2020-08-12,"forecast",28,78,39,58,52,53.9732
+"PB-Campina Grande",2020-08-13,"forecast",25,78,36,56,51,53.1312
+"PB-Campina Grande",2020-08-14,"forecast",23,77,32,53,50,51.9972
+"PB-Campina Grande",2020-08-15,"forecast",20,77,33,54,48,51.5638
+"PB-Campina Grande",2020-08-16,"forecast",18,78,33,54,47,50.8
+"PB-Campina Grande",2020-08-17,"forecast",19,79,30,52,46,50.1452
+"PB-Campina Grande",2020-08-18,"forecast",16,79,29,51,45,49.3848
+"PB-Campina Grande",2020-08-19,"forecast",14,78,25,48,44,48.6194
+"PB-Campina Grande",2020-08-20,"forecast",14,77,24,47,43,47.7356
 "PB-Conceição",2020-04-03,"nowcast",1,1,1,1,1,1
 "PB-Conceição",2020-04-04,"nowcast",0,0,0,0,0,0
 "PB-Conceição",2020-04-05,"nowcast",0,1,0,1,0.5,0.5
@@ -3288,155 +3300,152 @@
 "PB-Cuitegi",2020-08-02,"forecast",0,66,0,17,17,31.5088
 "PB-Cuitegi",2020-08-03,"forecast",0,71,0,18,18,33.9988
 "PB-Cuitegi",2020-08-04,"forecast",0,78,0,19,19,40.1518
-"PB-Guarabira",2020-03-09,"nowcast",1,1,1,1,1,1
-"PB-Guarabira",2020-03-10,"nowcast",0,0,0,0,0,0
-"PB-Guarabira",2020-03-11,"nowcast",0,0,0,0,0,0
-"PB-Guarabira",2020-03-12,"nowcast",0,0,0,0,0,0
-"PB-Guarabira",2020-03-13,"nowcast",0,1,0,1,0.5,0.5
+"PB-Guarabira",2020-03-12,"nowcast",1,1,1,1,1,1
+"PB-Guarabira",2020-03-13,"nowcast",0,0,0,0,0,0
 "PB-Guarabira",2020-03-14,"nowcast",0,0,0,0,0,0
-"PB-Guarabira",2020-03-15,"nowcast",0,1,0,0,0,0.333333333333333
-"PB-Guarabira",2020-03-16,"nowcast",0,0,0,0,0,0
-"PB-Guarabira",2020-03-17,"nowcast",0,1,0,1,0.5,0.5
-"PB-Guarabira",2020-03-18,"nowcast",0,1,0,0,0,0.142857142857143
-"PB-Guarabira",2020-03-19,"nowcast",0,1,0,0,0,0.3
-"PB-Guarabira",2020-03-20,"nowcast",0,1,0,0,0,0.230769230769231
-"PB-Guarabira",2020-03-21,"nowcast",0,1,0,0,0,0.277777777777778
-"PB-Guarabira",2020-03-22,"nowcast",0,1,0,0,0,0.105263157894737
-"PB-Guarabira",2020-03-23,"nowcast",0,1,0,0,0,0.32
-"PB-Guarabira",2020-03-24,"nowcast",0,1,0,0,0,0.375
-"PB-Guarabira",2020-03-25,"nowcast",0,1,0,0,0,0.347826086956522
-"PB-Guarabira",2020-03-26,"nowcast",0,1,0,0,0,0.280701754385965
-"PB-Guarabira",2020-03-27,"nowcast",0,1,0,0,0,0.169230769230769
-"PB-Guarabira",2020-03-28,"nowcast",0,1,0,0,0,0.2875
-"PB-Guarabira",2020-03-29,"nowcast",0,1,0,0,0,0.366336633663366
-"PB-Guarabira",2020-03-30,"nowcast",0,1,0,0,0,0.271186440677966
-"PB-Guarabira",2020-03-31,"nowcast",0,1,0,0,0,0.335483870967742
-"PB-Guarabira",2020-04-01,"nowcast",0,1,0,0,0,0.363157894736842
-"PB-Guarabira",2020-04-02,"nowcast",0,1,0,0,0,0.302631578947368
-"PB-Guarabira",2020-04-03,"nowcast",0,1,0,0,0,0.401433691756272
-"PB-Guarabira",2020-04-04,"nowcast",0,1,0,0,0,0.431372549019608
-"PB-Guarabira",2020-04-05,"nowcast",0,1,0,0,0,0.422988505747126
-"PB-Guarabira",2020-04-06,"nowcast",0,1,0,0,0,0.433925049309665
-"PB-Guarabira",2020-04-07,"nowcast",0,1,0,0,0,0.471283783783784
-"PB-Guarabira",2020-04-08,"nowcast",0,1,0,0,0,0.498520710059172
-"PB-Guarabira",2020-04-09,"nowcast",0,1,0,0,0,0.539597315436242
-"PB-Guarabira",2020-04-10,"nowcast",0,2,0,0,0,0.597758405977584
-"PB-Guarabira",2020-04-11,"nowcast",0,2,0,1,1,0.768082663605052
-"PB-Guarabira",2020-04-12,"nowcast",0,2,0,1,1,0.827133479212254
-"PB-Guarabira",2020-04-13,"nowcast",0,2,0,1,1,1.0440251572327
-"PB-Guarabira",2020-04-14,"nowcast",0,3,0,1,1,1.18685831622177
-"PB-Guarabira",2020-04-15,"nowcast",0,3,0,1,1,1.45711402623613
-"PB-Guarabira",2020-04-16,"nowcast",0,3,0,1,1,1.66499498495486
-"PB-Guarabira",2020-04-17,"nowcast",0,4,1,2,2,1.987
-"PB-Guarabira",2020-04-18,"nowcast",0,4,0,2,2,2.263
-"PB-Guarabira",2020-04-19,"nowcast",0,5,0,2,2,2.678
-"PB-Guarabira",2020-04-20,"nowcast",0,6,1,3,3,3.224
-"PB-Guarabira",2020-04-21,"nowcast",1,7,2,4,3,3.718
-"PB-Guarabira",2020-04-22,"nowcast",1,8,3,5,4,4.482
-"PB-Guarabira",2020-04-23,"nowcast",1,9,2,5,5,5.161
-"PB-Guarabira",2020-04-24,"nowcast",1,9,3,6,6,5.915
-"PB-Guarabira",2020-04-25,"nowcast",3,11,4,7,7,6.958
-"PB-Guarabira",2020-04-26,"nowcast",2,11,5,8,7,7.579
-"PB-Guarabira",2020-04-27,"nowcast",4,13,5,9,8,8.633
-"PB-Guarabira",2020-04-28,"nowcast",4,14,6,10,9,9.568
-"PB-Guarabira",2020-04-29,"nowcast",5,15,7,11,10,10.295
-"PB-Guarabira",2020-04-30,"nowcast",5,16,8,12,11,11.227
-"PB-Guarabira",2020-05-01,"nowcast",5,17,10,14,12,12.374
-"PB-Guarabira",2020-05-02,"nowcast",6,18,10,14,13,13.313
-"PB-Guarabira",2020-05-03,"nowcast",8,20,10,15,14,14.342
-"PB-Guarabira",2020-05-04,"nowcast",8,22,12,17,15,15.567
-"PB-Guarabira",2020-05-05,"nowcast",9,22,13,18,17,16.66
-"PB-Guarabira",2020-05-06,"nowcast",11,25,15,20,18,17.816
-"PB-Guarabira",2020-05-07,"nowcast",13,27,14,20,19,19.471
-"PB-Guarabira",2020-05-08,"nowcast",14,29,17,23,22,21.696
-"PB-Guarabira",2020-05-09,"nowcast",16,32,19,25,23,23.555
-"PB-Guarabira",2020-05-10,"nowcast",16,33,20,27,25,25.396
-"PB-Guarabira",2020-05-11,"nowcast",18,36,22,29,28,27.974
-"PB-Guarabira",2020-05-12,"nowcast",20,38,24,31,30,29.994
-"PB-Guarabira",2020-05-13,"nowcast",22,40,27,34,32,31.833
-"PB-Guarabira",2020-05-14,"nowcast",24,42,29,36,33,33.568
-"PB-Guarabira",2020-05-15,"nowcast",26,44,31,38,35,35.095
-"PB-Guarabira",2020-05-16,"nowcast",28,47,30,38,36,36.442
-"PB-Guarabira",2020-05-17,"nowcast",28,47,30,38,37,36.716
-"PB-Guarabira",2020-05-18,"nowcast",26,45,32,39,37,36.753
-"PB-Guarabira",2020-05-19,"nowcast",26,45,33,40,37,36.783
-"PB-Guarabira",2020-05-20,"nowcast",26,45,32,39,36,36.07
-"PB-Guarabira",2020-05-21,"nowcast",26,45,32,39,36,36.654
-"PB-Guarabira",2020-05-22,"nowcast",27,46,34,41,38,38.232
-"PB-Guarabira",2020-05-23,"nowcast",29,49,33,41,39,39.122
-"PB-Guarabira",2020-05-24,"nowcast",29,49,36,43,40,39.839
-"PB-Guarabira",2020-05-25,"nowcast",29,50,35,43,41,41.221
-"PB-Guarabira",2020-05-26,"nowcast",33,53,36,45,43,43.255
-"PB-Guarabira",2020-05-27,"nowcast",33,54,40,48,45,45.064
-"PB-Guarabira",2020-05-28,"nowcast",35,57,39,48,47,46.933
-"PB-Guarabira",2020-05-29,"nowcast",37,58,41,50,48,48.661
-"PB-Guarabira",2020-05-30,"nowcast",38,60,44,52,50,49.58
-"PB-Guarabira",2020-05-31,"nowcast",40,61,43,52,50,50.08
-"PB-Guarabira",2020-06-01,"nowcast",39,62,44,53,50,50.521
-"PB-Guarabira",2020-06-02,"nowcast",39,62,44,53,51,50.921
-"PB-Guarabira",2020-06-03,"nowcast",41,64,49,58,53,52.697
-"PB-Guarabira",2020-06-04,"nowcast",44,66,48,57,55,55.037
-"PB-Guarabira",2020-06-05,"nowcast",43,67,51,60,57,56.927
-"PB-Guarabira",2020-06-06,"nowcast",45,68,50,60,58,58.017
-"PB-Guarabira",2020-06-07,"nowcast",45,68,52,61,58,57.872
-"PB-Guarabira",2020-06-08,"nowcast",44,68,52,61,58,57.773
-"PB-Guarabira",2020-06-09,"nowcast",43,68,50,60,57,57.729
-"PB-Guarabira",2020-06-10,"nowcast",45,69,51,60,58,58.624
-"PB-Guarabira",2020-06-11,"nowcast",47,71,51,61,59,59.431
-"PB-Guarabira",2020-06-12,"nowcast",48,72,53,63,60,60.672
-"PB-Guarabira",2020-06-13,"nowcast",49,73,53,63,61,61.172
-"PB-Guarabira",2020-06-14,"nowcast",46,71,55,65,60,60.092
-"PB-Guarabira",2020-06-15,"nowcast",46,70,51,61,59,58.628
-"PB-Guarabira",2020-06-16,"nowcast",45,69,51,60,57,56.769
-"PB-Guarabira",2020-06-17,"nowcast",42,66,47,57,55,55.347
-"PB-Guarabira",2020-06-18,"nowcast",40,64,48,57,54,53.878
-"PB-Guarabira",2020-06-19,"nowcast",39,63,46,55,52.5,52.645
-"PB-Guarabira",2020-06-20,"nowcast",40,62,44,53,51,51.497
-"PB-Guarabira",2020-06-21,"nowcast",38,62,44,53,50,50.49
-"PB-Guarabira",2020-06-22,"nowcast",37,59,43,52,50,49.567
-"PB-Guarabira",2020-06-23,"nowcast",35,57,43,51,48,48.331
-"PB-Guarabira",2020-06-24,"nowcast",36,57,43,51,47,47.355
-"PB-Guarabira",2020-06-25,"nowcast",34,55,39,48,45,45.685
-"PB-Guarabira",2020-06-26,"nowcast",32,53,39,47,44,44.101
-"PB-Guarabira",2020-06-27,"nowcast",31,52,36,44,42,41.832
-"PB-Guarabira",2020-06-28,"nowcast",28,48,33,41,39,39.302
-"PB-Guarabira",2020-06-29,"nowcast",27,46,31,39,37,36.617
-"PB-Guarabira",2020-06-30,"nowcast",26,44,30,37,35,35.347
-"PB-Guarabira",2020-07-01,"nowcast",25,43,28,36,35,35.107
-"PB-Guarabira",2020-07-02,"nowcast",27,45,31,38,35,35.39
-"PB-Guarabira",2020-07-03,"nowcast",26,45,30,38,36,35.863
-"PB-Guarabira",2020-07-04,"nowcast",26,45,32,39,36,36.459
-"PB-Guarabira",2020-07-05,"nowcast",26,45,29,37,36,36.175
-"PB-Guarabira",2020-07-06,"nowcast",25,44,31,38,35,35.363
-"PB-Guarabira",2020-07-07,"nowcast",27,44,30,37,35,35.021
-"PB-Guarabira",2020-07-08,"nowcast",25,43,31,38,35,35.166
-"PB-Guarabira",2020-07-09,"nowcast",26,44,31,38,35,34.776
-"PB-Guarabira",2020-07-10,"nowcast",25,44,31,38,36,35.72
-"PB-Guarabira",2020-07-11,"nowcast",25,44,32,39,36,36.064
-"PB-Guarabira",2020-07-12,"nowcast",25,44,32,39,36,36.266
-"PB-Guarabira",2020-07-13,"nowcast",27,46,31,39,37,37.203
-"PB-Guarabira",2020-07-14,"nowcast",29,47,34,41,38,37.938
-"PB-Guarabira",2020-07-15,"nowcast",30,49,36,43,39,39.168
-"PB-Guarabira",2020-07-16,"nowcast",29,49,35,43,40,39.836
-"PB-Guarabira",2020-07-17,"nowcast",29,49,35,43,40,39.753
-"PB-Guarabira",2020-07-18,"nowcast",27,48,33,41,38,38.278
-"PB-Guarabira",2020-07-19,"nowcast",24,44,29,37,36,35.625
-"PB-Guarabira",2020-07-20,"nowcast",23,41,28,35,32,32.523
-"PB-Guarabira",2020-07-21,"nowcast",20,37,24,31,30,30.104
-"PB-Guarabira",2020-07-22,"nowcast",21,37,24,30,28,28.658
-"PB-Guarabira",2020-07-23,"nowcast",21,36,24,30,28,28.305
-"PB-Guarabira",2020-07-24,"nowcast",19,35,24,30,28,28.111
-"PB-Guarabira",2020-07-25,"nowcast",19,35,24,30,28,28.022
-"PB-Guarabira",2020-07-26,"nowcast",17,35,24,30,27,27.069
-"PB-Guarabira",2020-07-27,"nowcast",17,33,19,26,26,26.136
-"PB-Guarabira",2020-07-28,"nowcast",17,32,20,26,25,24.832
-"PB-Guarabira",2020-07-29,"nowcast",16,31,19,25,24,24.236
-"PB-Guarabira",2020-07-30,"nowcast",17,33,20,26,24,24.706
-"PB-Guarabira",2020-07-31,"nowcast",16,32,20,26,24,24.512
-"PB-Guarabira",2020-08-01,"nowcast",15,31,20,26,24,24.224
-"PB-Guarabira",2020-08-02,"nowcast",16,32,20,26,23,23.554
-"PB-Guarabira",2020-08-03,"nowcast",13,30,19,25,23,23.073
-"PB-Guarabira",2020-08-04,"nowcast",14,31,17,24,23,23.036
+"PB-Guarabira",2020-03-15,"nowcast",0,0,0,0,0,0
+"PB-Guarabira",2020-03-16,"nowcast",0,1,0,1,0.5,0.5
+"PB-Guarabira",2020-03-17,"nowcast",0,0,0,0,0,0
+"PB-Guarabira",2020-03-18,"nowcast",0,1,0,0,0,0.333333333333333
+"PB-Guarabira",2020-03-19,"nowcast",0,0,0,0,0,0
+"PB-Guarabira",2020-03-20,"nowcast",0,1,0,1,0.5,0.5
+"PB-Guarabira",2020-03-21,"nowcast",0,1,0,0,0,0.333333333333333
+"PB-Guarabira",2020-03-22,"nowcast",0,1,0,1,0.5,0.5
+"PB-Guarabira",2020-03-23,"nowcast",0,1,1,1,1,0.571428571428571
+"PB-Guarabira",2020-03-24,"nowcast",0,1,0,0,0,0.310344827586207
+"PB-Guarabira",2020-03-25,"nowcast",0,1,0,0,0,0.361111111111111
+"PB-Guarabira",2020-03-26,"nowcast",0,1,0,0,0,0.326086956521739
+"PB-Guarabira",2020-03-27,"nowcast",0,1,0,0,0,0.285714285714286
+"PB-Guarabira",2020-03-28,"nowcast",0,1,0,0,0,0.338028169014085
+"PB-Guarabira",2020-03-29,"nowcast",0,1,0,0,0,0.266666666666667
+"PB-Guarabira",2020-03-30,"nowcast",0,1,0,0,0,0.310344827586207
+"PB-Guarabira",2020-03-31,"nowcast",0,1,0,0,0,0.344370860927152
+"PB-Guarabira",2020-04-01,"nowcast",0,1,0,0,0,0.352941176470588
+"PB-Guarabira",2020-04-02,"nowcast",0,1,0,0,0,0.397540983606557
+"PB-Guarabira",2020-04-03,"nowcast",0,1,0,0,0,0.378737541528239
+"PB-Guarabira",2020-04-04,"nowcast",0,1,0,0,0,0.37466307277628
+"PB-Guarabira",2020-04-05,"nowcast",0,1,0,0,0,0.390728476821192
+"PB-Guarabira",2020-04-06,"nowcast",0,1,0,0,0,0.404214559386973
+"PB-Guarabira",2020-04-07,"nowcast",0,1,0,0,0,0.499170812603648
+"PB-Guarabira",2020-04-08,"nowcast",0,1,0,0,0,0.529325513196481
+"PB-Guarabira",2020-04-09,"nowcast",0,1,0,0,0,0.556291390728477
+"PB-Guarabira",2020-04-10,"nowcast",0,2,0,0,0,0.653186274509804
+"PB-Guarabira",2020-04-11,"nowcast",0,2,0,1,1,0.751141552511416
+"PB-Guarabira",2020-04-12,"nowcast",0,2,0,1,1,0.838394793926247
+"PB-Guarabira",2020-04-13,"nowcast",0,2,0,1,1,1.025
+"PB-Guarabira",2020-04-14,"nowcast",0,3,0,1,1,1.17791411042945
+"PB-Guarabira",2020-04-15,"nowcast",0,3,0,1,1,1.41188318227593
+"PB-Guarabira",2020-04-16,"nowcast",0,3,0,1,1,1.69338677354709
+"PB-Guarabira",2020-04-17,"nowcast",0,4,1,2,2,2.02902902902903
+"PB-Guarabira",2020-04-18,"nowcast",0,4,0,2,2,2.301
+"PB-Guarabira",2020-04-19,"nowcast",0,5,0,2,2,2.733
+"PB-Guarabira",2020-04-20,"nowcast",0,6,1,3,3,3.189
+"PB-Guarabira",2020-04-21,"nowcast",0,6,2,4,4,3.715
+"PB-Guarabira",2020-04-22,"nowcast",0,7,3,5,4,4.427
+"PB-Guarabira",2020-04-23,"nowcast",2,9,2,5,5,5.2
+"PB-Guarabira",2020-04-24,"nowcast",2,10,3,6,6,6.007
+"PB-Guarabira",2020-04-25,"nowcast",2,10,4,7,7,6.852
+"PB-Guarabira",2020-04-26,"nowcast",3,12,5,8,7,7.687
+"PB-Guarabira",2020-04-27,"nowcast",4,13,5,9,8,8.572
+"PB-Guarabira",2020-04-28,"nowcast",5,14,6,10,9,9.508
+"PB-Guarabira",2020-04-29,"nowcast",4,15,7,11,10,10.461
+"PB-Guarabira",2020-04-30,"nowcast",5,16,8,12,11,11.384
+"PB-Guarabira",2020-05-01,"nowcast",7,18,9,13,12,12.247
+"PB-Guarabira",2020-05-02,"nowcast",7,19,9,14,13,13.355
+"PB-Guarabira",2020-05-03,"nowcast",7,20,11,16,15,14.597
+"PB-Guarabira",2020-05-04,"nowcast",8,21,11,16,15,15.448
+"PB-Guarabira",2020-05-05,"nowcast",9,23,13,18,17,16.781
+"PB-Guarabira",2020-05-06,"nowcast",11,25,13,19,18,18.197
+"PB-Guarabira",2020-05-07,"nowcast",11,26,14,20,19,19.434
+"PB-Guarabira",2020-05-08,"nowcast",14,29,17,23,21,21.584
+"PB-Guarabira",2020-05-09,"nowcast",14,31,19,25,23,23.397
+"PB-Guarabira",2020-05-10,"nowcast",17,33,20,27,25,25.41
+"PB-Guarabira",2020-05-11,"nowcast",18,35,24,30,27,27.404
+"PB-Guarabira",2020-05-12,"nowcast",20,37,24,31,30,29.738
+"PB-Guarabira",2020-05-13,"nowcast",21,40,27,34,32,31.911
+"PB-Guarabira",2020-05-14,"nowcast",24,42,28,35,33,33.542
+"PB-Guarabira",2020-05-15,"nowcast",26,44,28,36,35,35.14
+"PB-Guarabira",2020-05-16,"nowcast",25,45,30,38,36,36.389
+"PB-Guarabira",2020-05-17,"nowcast",26,45,32,39,37,37.03
+"PB-Guarabira",2020-05-18,"nowcast",26,45,30,38,37,36.701
+"PB-Guarabira",2020-05-19,"nowcast",26,45,32,39,36,36.543
+"PB-Guarabira",2020-05-20,"nowcast",27,45,31,38,36,36.5
+"PB-Guarabira",2020-05-21,"nowcast",26,46,30,38,36,36.796
+"PB-Guarabira",2020-05-22,"nowcast",27,47,31,39,38,37.76
+"PB-Guarabira",2020-05-23,"nowcast",28,48,33,41,39,39.262
+"PB-Guarabira",2020-05-24,"nowcast",30,50,34,42,40,40.216
+"PB-Guarabira",2020-05-25,"nowcast",31,52,36,44,42,41.576
+"PB-Guarabira",2020-05-26,"nowcast",32,53,39,47,43,43.436
+"PB-Guarabira",2020-05-27,"nowcast",34,55,40,48,45,45.471
+"PB-Guarabira",2020-05-28,"nowcast",34,57,41,50,47,47.247
+"PB-Guarabira",2020-05-29,"nowcast",37,59,41,50,48,48.756
+"PB-Guarabira",2020-05-30,"nowcast",38,60,44,53,49,49.716
+"PB-Guarabira",2020-05-31,"nowcast",37,60,44,53,50,50.216
+"PB-Guarabira",2020-06-01,"nowcast",39,61,43,52,50,50.623
+"PB-Guarabira",2020-06-02,"nowcast",38,62,44,53,51,51.387
+"PB-Guarabira",2020-06-03,"nowcast",41,64,48,57,53,52.827
+"PB-Guarabira",2020-06-04,"nowcast",43,66,49,58,55,55.189
+"PB-Guarabira",2020-06-05,"nowcast",46,68,50,59,57,57.015
+"PB-Guarabira",2020-06-06,"nowcast",46,70,53,62,57,57.568
+"PB-Guarabira",2020-06-07,"nowcast",45,68,52,61,58,57.984
+"PB-Guarabira",2020-06-08,"nowcast",46,69,52,61,58,57.871
+"PB-Guarabira",2020-06-09,"nowcast",44,68,51,61,58,58.096
+"PB-Guarabira",2020-06-10,"nowcast",45,70,52,61,59,58.939
+"PB-Guarabira",2020-06-11,"nowcast",45,70,51,61,59,59.31
+"PB-Guarabira",2020-06-12,"nowcast",48,72,56,65,60,60.488
+"PB-Guarabira",2020-06-13,"nowcast",47,72,53,63,60,60.565
+"PB-Guarabira",2020-06-14,"nowcast",45,71,54,64,60,60.393
+"PB-Guarabira",2020-06-15,"nowcast",46,70,51,61,59,58.539
+"PB-Guarabira",2020-06-16,"nowcast",44,67,51,60,56,56.58
+"PB-Guarabira",2020-06-17,"nowcast",41,65,47,57,55,54.908
+"PB-Guarabira",2020-06-18,"nowcast",41,64,46,56,54,53.838
+"PB-Guarabira",2020-06-19,"nowcast",40,62,46,55,53,52.808
+"PB-Guarabira",2020-06-20,"nowcast",37,61,45,54,51,51.601
+"PB-Guarabira",2020-06-21,"nowcast",39,61,44,53,51,50.817
+"PB-Guarabira",2020-06-22,"nowcast",38,60,42,51,49,49.506
+"PB-Guarabira",2020-06-23,"nowcast",37,60,40,50,48,48.208
+"PB-Guarabira",2020-06-24,"nowcast",35,57,39,48,47,47.317
+"PB-Guarabira",2020-06-25,"nowcast",34,55,41,49,45,45.614
+"PB-Guarabira",2020-06-26,"nowcast",33,54,40,48,45,44.208
+"PB-Guarabira",2020-06-27,"nowcast",31,51,37,45,41,41.372
+"PB-Guarabira",2020-06-28,"nowcast",30,49,33,41,39,39.194
+"PB-Guarabira",2020-06-29,"nowcast",27,46,31,39,37,37.15
+"PB-Guarabira",2020-06-30,"nowcast",27,45,32,39,36,35.937
+"PB-Guarabira",2020-07-01,"nowcast",24,43,29,37,35,35.287
+"PB-Guarabira",2020-07-02,"nowcast",26,44,30,37,35,35.39
+"PB-Guarabira",2020-07-03,"nowcast",27,45,31,38,36,35.841
+"PB-Guarabira",2020-07-04,"nowcast",25,45,33,40,36,36.401
+"PB-Guarabira",2020-07-05,"nowcast",27,45,31,38,36,35.978
+"PB-Guarabira",2020-07-06,"nowcast",26,44,31,38,35,35.373
+"PB-Guarabira",2020-07-07,"nowcast",25,43,30,37,35,35.063
+"PB-Guarabira",2020-07-08,"nowcast",24,43,30,37,35,34.846
+"PB-Guarabira",2020-07-09,"nowcast",25,43,31,38,35,35.079
+"PB-Guarabira",2020-07-10,"nowcast",25,43,30,37,35,35.418
+"PB-Guarabira",2020-07-11,"nowcast",26,44,32,39,36,35.84
+"PB-Guarabira",2020-07-12,"nowcast",27,46,33,40,36,36.556
+"PB-Guarabira",2020-07-13,"nowcast",27,46,33,40,37,37.145
+"PB-Guarabira",2020-07-14,"nowcast",28,47,34,42,38,38.06
+"PB-Guarabira",2020-07-15,"nowcast",28,48,33,41,39,39.398
+"PB-Guarabira",2020-07-16,"nowcast",29,49,34,42,40,39.871
+"PB-Guarabira",2020-07-17,"nowcast",27,48,34,42,40,39.869
+"PB-Guarabira",2020-07-18,"nowcast",27,48,31,40,38,38.301
+"PB-Guarabira",2020-07-19,"nowcast",26,45,31,38,36,35.692
+"PB-Guarabira",2020-07-20,"nowcast",23,41,28,35,33,32.616
+"PB-Guarabira",2020-07-21,"nowcast",22,38,26,32,30,30.104
+"PB-Guarabira",2020-07-22,"nowcast",19,36,25,31,29,28.662
+"PB-Guarabira",2020-07-23,"nowcast",20,36,24,30,28,28.121
+"PB-Guarabira",2020-07-24,"nowcast",19,36,22,29,28,28.287
+"PB-Guarabira",2020-07-25,"nowcast",18,35,24,30,28,27.852
+"PB-Guarabira",2020-07-26,"nowcast",19,35,21,28,27,27.195
+"PB-Guarabira",2020-07-27,"nowcast",18,34,23,29,26,26.401
+"PB-Guarabira",2020-07-28,"nowcast",17,33,21,27,25,24.861
+"PB-Guarabira",2020-07-29,"nowcast",17,31,19,25,24,24.259
+"PB-Guarabira",2020-07-30,"nowcast",16,31,19,25,24,24.308
+"PB-Guarabira",2020-07-31,"nowcast",17,32,19,25,24,24.457
+"PB-Guarabira",2020-08-01,"nowcast",17,32,20,26,24,24.455
+"PB-Guarabira",2020-08-02,"nowcast",16,31,19,25,23,23.621
+"PB-Guarabira",2020-08-03,"nowcast",14,31,18,24,23,23.081
+"PB-Guarabira",2020-08-04,"nowcast",12,30,16,23,22,22.747
 "PB-Guarabira",2020-04-23,"observed",NA,NA,NA,NA,3,NA
 "PB-Guarabira",2020-04-24,"observed",NA,NA,NA,NA,0,NA
 "PB-Guarabira",2020-04-25,"observed",NA,NA,NA,NA,0,NA
@@ -3552,20 +3561,21 @@
 "PB-Guarabira",2020-08-13,"observed",NA,NA,NA,NA,15,NA
 "PB-Guarabira",2020-08-14,"observed",NA,NA,NA,NA,29,NA
 "PB-Guarabira",2020-08-15,"observed",NA,NA,NA,NA,0,NA
-"PB-Guarabira",2020-08-05,"forecast",10,33,15,24,22,22.7636
-"PB-Guarabira",2020-08-06,"forecast",8,33,14,24,22,22.5174
-"PB-Guarabira",2020-08-07,"forecast",9,35,14,24,21,22.0914
-"PB-Guarabira",2020-08-08,"forecast",6,34,12,23,21,21.7524
-"PB-Guarabira",2020-08-09,"forecast",7,36,12,23,20,21.5806
-"PB-Guarabira",2020-08-10,"forecast",5,35,11,22,20,21.288
-"PB-Guarabira",2020-08-11,"forecast",4,35,9,21,19,20.9508
-"PB-Guarabira",2020-08-12,"forecast",2,35,10,22,19,20.7436
-"PB-Guarabira",2020-08-13,"forecast",2,36,7,20,19,20.676
-"PB-Guarabira",2020-08-14,"forecast",2,37,7,20,18,20.6392
-"PB-Guarabira",2020-08-15,"forecast",3,38,6,19,18,20.318
-"PB-Guarabira",2020-08-16,"forecast",0,37,6,19,17,20.1766
-"PB-Guarabira",2020-08-17,"forecast",0,37,5,18,17,19.8326
-"PB-Guarabira",2020-08-18,"forecast",0,38,5,18,16,19.8604
+"PB-Guarabira",2020-08-16,"observed",NA,NA,NA,NA,0,NA
+"PB-Guarabira",2020-08-05,"forecast",11,33,14,23,22,22.5634
+"PB-Guarabira",2020-08-06,"forecast",8,33,16,25,22,22.3992
+"PB-Guarabira",2020-08-07,"forecast",10,35,12,22,21,21.9868
+"PB-Guarabira",2020-08-08,"forecast",7,35,12,22,21,21.8156
+"PB-Guarabira",2020-08-09,"forecast",5,34,11,22,20,21.4714
+"PB-Guarabira",2020-08-10,"forecast",5,35,9,21,20,21.4
+"PB-Guarabira",2020-08-11,"forecast",4,35,8,20,19,21.0114
+"PB-Guarabira",2020-08-12,"forecast",4,37,9,21,19,21.0034
+"PB-Guarabira",2020-08-13,"forecast",3,36,8,20,18,20.5566
+"PB-Guarabira",2020-08-14,"forecast",0,35,6,19,18,20.5438
+"PB-Guarabira",2020-08-15,"forecast",0,36,8,20,17,20.3304
+"PB-Guarabira",2020-08-16,"forecast",0,36,5,18,17,20.0194
+"PB-Guarabira",2020-08-17,"forecast",0,36,5,18,17,20.0476
+"PB-Guarabira",2020-08-18,"forecast",0,37,5,18,16,20.1602
 "PB-Gurinhém",2020-03-18,"nowcast",1,1,1,1,1,1
 "PB-Gurinhém",2020-03-19,"nowcast",0,0,0,0,0,0
 "PB-Gurinhém",2020-03-20,"nowcast",0,0,0,0,0,0
@@ -4508,188 +4518,183 @@
 "PB-Itapororoca",2020-08-12,"forecast",0,81,5,28,26,40.8974
 "PB-Itapororoca",2020-08-13,"forecast",0,91,5,29,27,45.4662
 "PB-Itapororoca",2020-08-14,"forecast",0,98,3,29,27,48.453
-"PB-João Pessoa",2020-02-06,"nowcast",1,1,1,1,1,1
-"PB-João Pessoa",2020-02-07,"nowcast",0,1,0,1,0.5,0.5
-"PB-João Pessoa",2020-02-08,"nowcast",0,0,0,0,0,0
-"PB-João Pessoa",2020-02-09,"nowcast",0,0,0,0,0,0
-"PB-João Pessoa",2020-02-10,"nowcast",0,1,0,1,0.5,0.5
-"PB-João Pessoa",2020-02-11,"nowcast",0,1,0,0,0,0.2
-"PB-João Pessoa",2020-02-12,"nowcast",0,0,0,0,0,0
-"PB-João Pessoa",2020-02-13,"nowcast",0,0,0,0,0,0
-"PB-João Pessoa",2020-02-14,"nowcast",0,1,0,0,0,0.166666666666667
-"PB-João Pessoa",2020-02-15,"nowcast",0,1,0,0,0,0.25
-"PB-João Pessoa",2020-02-16,"nowcast",0,1,0,0,0,0.4
-"PB-João Pessoa",2020-02-17,"nowcast",0,1,0,0,0,0.166666666666667
-"PB-João Pessoa",2020-02-18,"nowcast",0,0,0,0,0,0.0833333333333333
+"PB-João Pessoa",2020-02-12,"nowcast",1,1,1,1,1,1
+"PB-João Pessoa",2020-02-13,"nowcast",0,1,1,1,1,0.666666666666667
+"PB-João Pessoa",2020-02-14,"nowcast",0,1,1,1,1,0.75
+"PB-João Pessoa",2020-02-15,"nowcast",0,0,0,0,0,0
+"PB-João Pessoa",2020-02-16,"nowcast",0,1,0,0,0,0.333333333333333
+"PB-João Pessoa",2020-02-17,"nowcast",0,1,0,0,0,0.333333333333333
+"PB-João Pessoa",2020-02-18,"nowcast",0,1,0,0,0,0.333333333333333
 "PB-João Pessoa",2020-02-19,"nowcast",0,1,0,0,0,0.266666666666667
-"PB-João Pessoa",2020-02-20,"nowcast",0,1,0,0,0,0.166666666666667
-"PB-João Pessoa",2020-02-21,"nowcast",0,1,0,0,0,0.217391304347826
-"PB-João Pessoa",2020-02-22,"nowcast",0,1,0,0,0,0.266666666666667
-"PB-João Pessoa",2020-02-23,"nowcast",0,1,0,0,0,0.277777777777778
-"PB-João Pessoa",2020-02-24,"nowcast",0,1,0,0,0,0.295454545454545
-"PB-João Pessoa",2020-02-25,"nowcast",0,1,0,0,0,0.327586206896552
-"PB-João Pessoa",2020-02-26,"nowcast",0,1,0,0,0,0.276315789473684
-"PB-João Pessoa",2020-02-27,"nowcast",0,1,0,0,0,0.373737373737374
-"PB-João Pessoa",2020-02-28,"nowcast",0,1,0,0,0,0.310606060606061
-"PB-João Pessoa",2020-02-29,"nowcast",0,1,0,0,0,0.309090909090909
-"PB-João Pessoa",2020-03-01,"nowcast",0,1,0,0,0,0.302439024390244
-"PB-João Pessoa",2020-03-02,"nowcast",0,1,0,0,0,0.31404958677686
-"PB-João Pessoa",2020-03-03,"nowcast",0,1,0,0,0,0.325259515570934
-"PB-João Pessoa",2020-03-04,"nowcast",0,1,0,0,0,0.378299120234604
-"PB-João Pessoa",2020-03-05,"nowcast",0,1,0,0,0,0.404411764705882
-"PB-João Pessoa",2020-03-06,"nowcast",0,1,0,0,0,0.486761710794297
-"PB-João Pessoa",2020-03-07,"nowcast",0,1,0,0,0,0.464664310954064
-"PB-João Pessoa",2020-03-08,"nowcast",0,1,0,0,0,0.477657935285054
-"PB-João Pessoa",2020-03-09,"nowcast",0,1,0,0,0,0.534153005464481
-"PB-João Pessoa",2020-03-10,"nowcast",0,1,0,0,0,0.561811505507956
-"PB-João Pessoa",2020-03-11,"nowcast",0,2,0,1,1,0.691428571428571
-"PB-João Pessoa",2020-03-12,"nowcast",0,2,0,1,1,0.716483516483516
-"PB-João Pessoa",2020-03-13,"nowcast",0,2,0,1,1,0.805291005291005
-"PB-João Pessoa",2020-03-14,"nowcast",0,2,0,1,1,0.976239669421488
-"PB-João Pessoa",2020-03-15,"nowcast",0,3,0,1,1,1.16751787538304
-"PB-João Pessoa",2020-03-16,"nowcast",0,3,0,1,1,1.31790744466801
-"PB-João Pessoa",2020-03-17,"nowcast",0,3,0,1,1,1.49849548645938
-"PB-João Pessoa",2020-03-18,"nowcast",0,3,0,1,1,1.61723446893788
-"PB-João Pessoa",2020-03-19,"nowcast",0,4,1,2,2,2.05405405405405
-"PB-João Pessoa",2020-03-20,"nowcast",0,4,0,2,2,2.362
-"PB-João Pessoa",2020-03-21,"nowcast",0,5,0,2,2,2.55
-"PB-João Pessoa",2020-03-22,"nowcast",0,5,1,3,3,2.85
-"PB-João Pessoa",2020-03-23,"nowcast",1,6,1,3,3,3.185
-"PB-João Pessoa",2020-03-24,"nowcast",0,6,2,4,3,3.605
-"PB-João Pessoa",2020-03-25,"nowcast",1,7,2,4,4,4.132
-"PB-João Pessoa",2020-03-26,"nowcast",0,7,3,5,4,4.449
-"PB-João Pessoa",2020-03-27,"nowcast",1,8,2,5,5,5.126
-"PB-João Pessoa",2020-03-28,"nowcast",1,9,3,6,6,5.815
-"PB-João Pessoa",2020-03-29,"nowcast",1,10,4,7,6,6.577
-"PB-João Pessoa",2020-03-30,"nowcast",2,11,5,8,7,7.392
-"PB-João Pessoa",2020-03-31,"nowcast",3,13,4,8,8,8.314
-"PB-João Pessoa",2020-04-01,"nowcast",4,14,6,10,9,9.198
-"PB-João Pessoa",2020-04-02,"nowcast",4,15,7,11,10,10.345
-"PB-João Pessoa",2020-04-03,"nowcast",6,17,6,11,11,11.345
-"PB-João Pessoa",2020-04-04,"nowcast",6,18,8,13,12,12.487
-"PB-João Pessoa",2020-04-05,"nowcast",7,19,9,14,14,13.699
-"PB-João Pessoa",2020-04-06,"nowcast",7,20,10,15,14,14.555
-"PB-João Pessoa",2020-04-07,"nowcast",8,21,12,17,15,15.526
-"PB-João Pessoa",2020-04-08,"nowcast",9,23,13,18,16,16.436
-"PB-João Pessoa",2020-04-09,"nowcast",11,26,12,18,17,17.652
-"PB-João Pessoa",2020-04-10,"nowcast",12,27,14,20,19,19.176
-"PB-João Pessoa",2020-04-11,"nowcast",11,28,15,22,21,20.807
-"PB-João Pessoa",2020-04-12,"nowcast",13,31,17,24,22,22.539
-"PB-João Pessoa",2020-04-13,"nowcast",14,33,19,26,24,24.633
-"PB-João Pessoa",2020-04-14,"nowcast",16,36,21,29,27,27.48
-"PB-João Pessoa",2020-04-15,"nowcast",19,39,23,31,30,30.201
-"PB-João Pessoa",2020-04-16,"nowcast",22,43,28,36,33,33.193
-"PB-João Pessoa",2020-04-17,"nowcast",24,47,29,38,36,36.584
-"PB-João Pessoa",2020-04-18,"nowcast",29,51,34,43,40,39.946
-"PB-João Pessoa",2020-04-19,"nowcast",30,55,36,46,43,43.499
-"PB-João Pessoa",2020-04-20,"nowcast",32,57,42,51,46,46.097
-"PB-João Pessoa",2020-04-21,"nowcast",35,60,42,52,49,49.255
-"PB-João Pessoa",2020-04-22,"nowcast",39,64,46,56,52,52.161
-"PB-João Pessoa",2020-04-23,"nowcast",43,68,48,58,55,55.034
-"PB-João Pessoa",2020-04-24,"nowcast",44,69,51,61,57,56.855
-"PB-João Pessoa",2020-04-25,"nowcast",46,71,52,62,59,59.203
-"PB-João Pessoa",2020-04-26,"nowcast",46,73,53,64,60,60.81
-"PB-João Pessoa",2020-04-27,"nowcast",47,74,54,65,62,62.312
-"PB-João Pessoa",2020-04-28,"nowcast",48,77,57,68,64,64.131
-"PB-João Pessoa",2020-04-29,"nowcast",51,80,58,69,65,65.428
-"PB-João Pessoa",2020-04-30,"nowcast",50,80,61,72,68,67.763
-"PB-João Pessoa",2020-05-01,"nowcast",53,84,61,74,70,69.918
-"PB-João Pessoa",2020-05-02,"nowcast",57,88,62,75,72,71.991
-"PB-João Pessoa",2020-05-03,"nowcast",56,90,65,79,75,75.121
-"PB-João Pessoa",2020-05-04,"nowcast",59,94,69,83,78.5,78.544
-"PB-João Pessoa",2020-05-05,"nowcast",62,101,69,84,81,81.907
-"PB-João Pessoa",2020-05-06,"nowcast",64,105,78,93,86,86.938
-"PB-João Pessoa",2020-05-07,"nowcast",68,110,81,97,92,92.48
-"PB-João Pessoa",2020-05-08,"nowcast",76,119,86,104,98,98.676
-"PB-João Pessoa",2020-05-09,"nowcast",84,130,98,116,106,106.222
-"PB-João Pessoa",2020-05-10,"nowcast",89,139,100,120,114,114.205
-"PB-João Pessoa",2020-05-11,"nowcast",96,146,112,132,123,123.465
-"PB-João Pessoa",2020-05-12,"nowcast",109,157,119,139,132,132.346
-"PB-João Pessoa",2020-05-13,"nowcast",118,169,129,150,142,142.321
-"PB-João Pessoa",2020-05-14,"nowcast",124,176,137,158,151,151.792
-"PB-João Pessoa",2020-05-15,"nowcast",130,186,144,167,160,160.57
-"PB-João Pessoa",2020-05-16,"nowcast",142,197,154,176,168,168.683
-"PB-João Pessoa",2020-05-17,"nowcast",150,206,169,191,178,178.167
-"PB-João Pessoa",2020-05-18,"nowcast",155,214,177,200,188,187.565
-"PB-João Pessoa",2020-05-19,"nowcast",169,227,183,206,197,197.444
-"PB-João Pessoa",2020-05-20,"nowcast",175,233,194,217,208,208.442
-"PB-João Pessoa",2020-05-21,"nowcast",188,248,200,225,218,217.89
-"PB-João Pessoa",2020-05-22,"nowcast",195,254,211,235,227,227.577
-"PB-João Pessoa",2020-05-23,"nowcast",204,265,223,248,235,234.961
-"PB-João Pessoa",2020-05-24,"nowcast",208,266,230,254,241,241.207
-"PB-João Pessoa",2020-05-25,"nowcast",219,278,234,257,247,247.442
-"PB-João Pessoa",2020-05-26,"nowcast",220,284,244,269,254,253.697
-"PB-João Pessoa",2020-05-27,"nowcast",224,288,246,272,260,260.838
-"PB-João Pessoa",2020-05-28,"nowcast",241,298,256,281,270,269.689
-"PB-João Pessoa",2020-05-29,"nowcast",248,308,268,291,276,276.759
-"PB-João Pessoa",2020-05-30,"nowcast",251,310,266,289,280.5,280.659
-"PB-João Pessoa",2020-05-31,"nowcast",255,313,266,289,281,281.654
-"PB-João Pessoa",2020-06-01,"nowcast",249,305,265,289,278,277.813
-"PB-João Pessoa",2020-06-02,"nowcast",246,305,268,293,276,275.644
-"PB-João Pessoa",2020-06-03,"nowcast",245,303,264,287,274,274.786
-"PB-João Pessoa",2020-06-04,"nowcast",240,306,264,290,278,278.262
-"PB-João Pessoa",2020-06-05,"nowcast",258,321,273,298,286,285.492
-"PB-João Pessoa",2020-06-06,"nowcast",259,324,282,307,293,292.488
-"PB-João Pessoa",2020-06-07,"nowcast",266,331,277,305,300,299.305
-"PB-João Pessoa",2020-06-08,"nowcast",270,336,288,314,305,304.403
-"PB-João Pessoa",2020-06-09,"nowcast",276,342,299,324,312,311.755
-"PB-João Pessoa",2020-06-10,"nowcast",286,349,300,326,319,319.369
-"PB-João Pessoa",2020-06-11,"nowcast",291,356,311,336,324,323.934
-"PB-João Pessoa",2020-06-12,"nowcast",296,357,308,333,325,325.844
-"PB-João Pessoa",2020-06-13,"nowcast",292,354,310,335,323,322.568
-"PB-João Pessoa",2020-06-14,"nowcast",287,346,303,328,316,315.937
-"PB-João Pessoa",2020-06-15,"nowcast",271,331,288,313,303,302.837
-"PB-João Pessoa",2020-06-16,"nowcast",259,318,276,298,290,290.585
-"PB-João Pessoa",2020-06-17,"nowcast",251,313,274,297,284.5,283.857
-"PB-João Pessoa",2020-06-18,"nowcast",249,312,265,291,283,283.321
-"PB-João Pessoa",2020-06-19,"nowcast",258,319,272,297,288,288.648
-"PB-João Pessoa",2020-06-20,"nowcast",265,327,284,308,295,295.772
-"PB-João Pessoa",2020-06-21,"nowcast",270,327,282,306,299,299.266
-"PB-João Pessoa",2020-06-22,"nowcast",267,330,285,310,299,299.571
-"PB-João Pessoa",2020-06-23,"nowcast",264,322,275,299,293,294.169
-"PB-João Pessoa",2020-06-24,"nowcast",257,311,276,298,287,286.199
-"PB-João Pessoa",2020-06-25,"nowcast",251,306,263,286,280,279.605
-"PB-João Pessoa",2020-06-26,"nowcast",248,306,263,285,273,273.573
-"PB-João Pessoa",2020-06-27,"nowcast",236,291,254,275,267,267.669
-"PB-João Pessoa",2020-06-28,"nowcast",232,288,247,269,260.5,260.902
-"PB-João Pessoa",2020-06-29,"nowcast",225,279,238,260,252,252.075
-"PB-João Pessoa",2020-06-30,"nowcast",212,267,231,252,243,243.385
-"PB-João Pessoa",2020-07-01,"nowcast",212,262,222,242,238,237.785
-"PB-João Pessoa",2020-07-02,"nowcast",207,258,225,245,235,234.818
-"PB-João Pessoa",2020-07-03,"nowcast",207,258,221,242,232,231.957
-"PB-João Pessoa",2020-07-04,"nowcast",204,252,217,236,227,227.514
-"PB-João Pessoa",2020-07-05,"nowcast",195,245,210,229,221,221.407
-"PB-João Pessoa",2020-07-06,"nowcast",189,238,201,221,214,214.328
-"PB-João Pessoa",2020-07-07,"nowcast",180,231,190,212,207,207.307
-"PB-João Pessoa",2020-07-08,"nowcast",177,231,187,210,204,204.126
-"PB-João Pessoa",2020-07-09,"nowcast",177,234,186,210,204,204.716
-"PB-João Pessoa",2020-07-10,"nowcast",176,236,197,220,209,208.662
-"PB-João Pessoa",2020-07-11,"nowcast",185,245,200,224,216,217.236
-"PB-João Pessoa",2020-07-12,"nowcast",193,256,212,237,226,225.974
-"PB-João Pessoa",2020-07-13,"nowcast",204,265,225,249,235,234.648
-"PB-João Pessoa",2020-07-14,"nowcast",210,272,232,256,245,243.79
-"PB-João Pessoa",2020-07-15,"nowcast",221,281,245,267,256,255.587
-"PB-João Pessoa",2020-07-16,"nowcast",235,295,254,278,267,267.746
-"PB-João Pessoa",2020-07-17,"nowcast",247,307,260,284,276,276.883
-"PB-João Pessoa",2020-07-18,"nowcast",246,306,264,289,278,278.857
-"PB-João Pessoa",2020-07-19,"nowcast",242,303,258,281,272,272.41
-"PB-João Pessoa",2020-07-20,"nowcast",229,285,241,264,257,257.816
-"PB-João Pessoa",2020-07-21,"nowcast",213,267,224,247,240,240.162
-"PB-João Pessoa",2020-07-22,"nowcast",198,249,208,229,223,224.124
-"PB-João Pessoa",2020-07-23,"nowcast",187,236,206,225,216,215.52
-"PB-João Pessoa",2020-07-24,"nowcast",186,234,198,218,212,212.461
-"PB-João Pessoa",2020-07-25,"nowcast",189,235,204,223,212,212.088
-"PB-João Pessoa",2020-07-26,"nowcast",186,232,196,214,209,208.842
-"PB-João Pessoa",2020-07-27,"nowcast",181,229,197,215,205,205.244
-"PB-João Pessoa",2020-07-28,"nowcast",174,218,180,199,196,196.877
-"PB-João Pessoa",2020-07-29,"nowcast",165,212,181,200,188,189.061
-"PB-João Pessoa",2020-07-30,"nowcast",159,205,171,190,184,184.585
-"PB-João Pessoa",2020-07-31,"nowcast",158,206,170,188,182,182.606
-"PB-João Pessoa",2020-08-01,"nowcast",156,205,170,188,183,182.787
-"PB-João Pessoa",2020-08-02,"nowcast",156,207,177,197,185,184.656
-"PB-João Pessoa",2020-08-03,"nowcast",159,211,174,194,187,186.819
-"PB-João Pessoa",2020-08-04,"nowcast",161,221,175,199,191,191.572
-"PB-João Pessoa",2020-08-05,"nowcast",167,230,185,210,201,200.541
+"PB-João Pessoa",2020-02-20,"nowcast",0,1,0,0,0,0.380952380952381
+"PB-João Pessoa",2020-02-21,"nowcast",0,1,0,0,0,0.125
+"PB-João Pessoa",2020-02-22,"nowcast",0,1,0,0,0,0.258064516129032
+"PB-João Pessoa",2020-02-23,"nowcast",0,1,0,0,0,0.282051282051282
+"PB-João Pessoa",2020-02-24,"nowcast",0,1,0,0,0,0.274509803921569
+"PB-João Pessoa",2020-02-25,"nowcast",0,1,0,0,0,0.276923076923077
+"PB-João Pessoa",2020-02-26,"nowcast",0,1,0,0,0,0.292682926829268
+"PB-João Pessoa",2020-02-27,"nowcast",0,1,0,0,0,0.284313725490196
+"PB-João Pessoa",2020-02-28,"nowcast",0,1,0,0,0,0.304
+"PB-João Pessoa",2020-02-29,"nowcast",0,1,0,0,0,0.333333333333333
+"PB-João Pessoa",2020-03-01,"nowcast",0,1,0,0,0,0.306532663316583
+"PB-João Pessoa",2020-03-02,"nowcast",0,1,0,0,0,0.348
+"PB-João Pessoa",2020-03-03,"nowcast",0,1,0,0,0,0.345161290322581
+"PB-João Pessoa",2020-03-04,"nowcast",0,1,0,0,0,0.368
+"PB-João Pessoa",2020-03-05,"nowcast",0,1,0,0,0,0.395033860045147
+"PB-João Pessoa",2020-03-06,"nowcast",0,1,0,0,0,0.415686274509804
+"PB-João Pessoa",2020-03-07,"nowcast",0,1,0,0,0,0.418965517241379
+"PB-João Pessoa",2020-03-08,"nowcast",0,1,0,0,0,0.477341389728097
+"PB-João Pessoa",2020-03-09,"nowcast",0,1,0,0,0,0.519781718963165
+"PB-João Pessoa",2020-03-10,"nowcast",0,1,0,0,0,0.571428571428571
+"PB-João Pessoa",2020-03-11,"nowcast",0,2,0,1,1,0.685121107266436
+"PB-João Pessoa",2020-03-12,"nowcast",0,2,0,1,1,0.700657894736842
+"PB-João Pessoa",2020-03-13,"nowcast",0,2,0,1,1,0.830526315789474
+"PB-João Pessoa",2020-03-14,"nowcast",0,2,0,1,1,0.932307692307692
+"PB-João Pessoa",2020-03-15,"nowcast",0,2,0,1,1,1.11280487804878
+"PB-João Pessoa",2020-03-16,"nowcast",0,3,0,1,1,1.25226130653266
+"PB-João Pessoa",2020-03-17,"nowcast",0,3,0,1,1,1.46346346346346
+"PB-João Pessoa",2020-03-18,"nowcast",0,3,1,2,2,1.718
+"PB-João Pessoa",2020-03-19,"nowcast",0,4,1,2,2,1.969
+"PB-João Pessoa",2020-03-20,"nowcast",0,4,0,2,2,2.288
+"PB-João Pessoa",2020-03-21,"nowcast",0,5,0,2,2,2.556
+"PB-João Pessoa",2020-03-22,"nowcast",0,5,1,3,3,2.959
+"PB-João Pessoa",2020-03-23,"nowcast",0,6,1,3,3,3.341
+"PB-João Pessoa",2020-03-24,"nowcast",0,6,2,4,3,3.594
+"PB-João Pessoa",2020-03-25,"nowcast",1,7,2,4,4,3.949
+"PB-João Pessoa",2020-03-26,"nowcast",0,7,3,5,4,4.543
+"PB-João Pessoa",2020-03-27,"nowcast",0,8,2,5,5,5.107
+"PB-João Pessoa",2020-03-28,"nowcast",1,9,3,6,5,5.744
+"PB-João Pessoa",2020-03-29,"nowcast",2,10,4,7,6,6.513
+"PB-João Pessoa",2020-03-30,"nowcast",2,11,5,8,7,7.277
+"PB-João Pessoa",2020-03-31,"nowcast",3,12,4,8,8,8.153
+"PB-João Pessoa",2020-04-01,"nowcast",3,13,5,9,9,9.075
+"PB-João Pessoa",2020-04-02,"nowcast",4,15,7,11,10,10.297
+"PB-João Pessoa",2020-04-03,"nowcast",5,16,8,12,11,11.299
+"PB-João Pessoa",2020-04-04,"nowcast",6,18,8,13,12,12.527
+"PB-João Pessoa",2020-04-05,"nowcast",6,19,10,15,14,13.633
+"PB-João Pessoa",2020-04-06,"nowcast",8,21,12,16,14,14.903
+"PB-João Pessoa",2020-04-07,"nowcast",8,21,11,16,15,15.33
+"PB-João Pessoa",2020-04-08,"nowcast",9,23,13,18,16,16.679
+"PB-João Pessoa",2020-04-09,"nowcast",9,24,12,18,17,17.766
+"PB-João Pessoa",2020-04-10,"nowcast",10,26,14,20,19,18.949
+"PB-João Pessoa",2020-04-11,"nowcast",12,28,17,23,20,20.654
+"PB-João Pessoa",2020-04-12,"nowcast",12,30,17,24,22,22.49
+"PB-João Pessoa",2020-04-13,"nowcast",15,33,19,26,24,24.775
+"PB-João Pessoa",2020-04-14,"nowcast",17,36,23,30,27,27.343
+"PB-João Pessoa",2020-04-15,"nowcast",17,39,24,32,30,29.988
+"PB-João Pessoa",2020-04-16,"nowcast",23,44,27,35,33,33.413
+"PB-João Pessoa",2020-04-17,"nowcast",24,47,29,38,36,36.6
+"PB-João Pessoa",2020-04-18,"nowcast",29,51,33,42,39,39.763
+"PB-João Pessoa",2020-04-19,"nowcast",29,53,37,46,43,43.141
+"PB-João Pessoa",2020-04-20,"nowcast",34,57,38,48,46,46.292
+"PB-João Pessoa",2020-04-21,"nowcast",37,61,42,52,49,49.185
+"PB-João Pessoa",2020-04-22,"nowcast",39,65,46,56,52,52.25
+"PB-João Pessoa",2020-04-23,"nowcast",40,66,47,57,54,54.58
+"PB-João Pessoa",2020-04-24,"nowcast",42,68,49,59,56,56.625
+"PB-João Pessoa",2020-04-25,"nowcast",43,70,50,61,58,58.562
+"PB-João Pessoa",2020-04-26,"nowcast",45,73,54,65,61,61.001
+"PB-João Pessoa",2020-04-27,"nowcast",49,75,54,65,62,62.388
+"PB-João Pessoa",2020-04-28,"nowcast",48,76,56,67,64,63.998
+"PB-João Pessoa",2020-04-29,"nowcast",49,78,56,68,65,65.338
+"PB-João Pessoa",2020-04-30,"nowcast",53,80,60,71,67,67.597
+"PB-João Pessoa",2020-05-01,"nowcast",55,85,61,73,70,70.075
+"PB-João Pessoa",2020-05-02,"nowcast",57,88,64,76,72,72.433
+"PB-João Pessoa",2020-05-03,"nowcast",59,92,66,79,74,74.873
+"PB-João Pessoa",2020-05-04,"nowcast",59,94,66,81,78,78.492
+"PB-João Pessoa",2020-05-05,"nowcast",62,100,73,88,82,82.41
+"PB-João Pessoa",2020-05-06,"nowcast",68,108,79,94,87,87.52
+"PB-João Pessoa",2020-05-07,"nowcast",70,113,81,97,92,92.435
+"PB-João Pessoa",2020-05-08,"nowcast",75,118,87,105,98,98.845
+"PB-João Pessoa",2020-05-09,"nowcast",82,127,94,112,107,106.745
+"PB-João Pessoa",2020-05-10,"nowcast",91,139,103,122,113,114.229
+"PB-João Pessoa",2020-05-11,"nowcast",97,147,114,134,123,123.252
+"PB-João Pessoa",2020-05-12,"nowcast",107,159,120,140,132,132.559
+"PB-João Pessoa",2020-05-13,"nowcast",114,164,125,146,141,141.918
+"PB-João Pessoa",2020-05-14,"nowcast",121,174,137,159,152,151.928
+"PB-João Pessoa",2020-05-15,"nowcast",131,185,145,167,159,159.836
+"PB-João Pessoa",2020-05-16,"nowcast",139,196,151,174,168,169.197
+"PB-João Pessoa",2020-05-17,"nowcast",151,208,161,184,177,178.068
+"PB-João Pessoa",2020-05-18,"nowcast",156,215,178,201,188,187.829
+"PB-João Pessoa",2020-05-19,"nowcast",168,227,185,210,198,198.559
+"PB-João Pessoa",2020-05-20,"nowcast",176,236,192,217,208,208.638
+"PB-João Pessoa",2020-05-21,"nowcast",188,246,204,229,219,219.088
+"PB-João Pessoa",2020-05-22,"nowcast",197,258,211,235,227,227.257
+"PB-João Pessoa",2020-05-23,"nowcast",206,264,221,244,234,234.651
+"PB-João Pessoa",2020-05-24,"nowcast",210,270,226,249,241,241.81
+"PB-João Pessoa",2020-05-25,"nowcast",219,279,232,256,247,247.361
+"PB-João Pessoa",2020-05-26,"nowcast",224,286,239,263,253,253.34
+"PB-João Pessoa",2020-05-27,"nowcast",234,290,248,272,261,260.845
+"PB-João Pessoa",2020-05-28,"nowcast",240,300,258,283,270,270.052
+"PB-João Pessoa",2020-05-29,"nowcast",243,304,261,286,276,276.728
+"PB-João Pessoa",2020-05-30,"nowcast",253,311,268,290,280,280.774
+"PB-João Pessoa",2020-05-31,"nowcast",249,308,271,293,280,280.16
+"PB-João Pessoa",2020-06-01,"nowcast",250,306,264,288,278,277.974
+"PB-João Pessoa",2020-06-02,"nowcast",238,301,261,285,274,274.502
+"PB-João Pessoa",2020-06-03,"nowcast",245,305,262,287,276,275.096
+"PB-João Pessoa",2020-06-04,"nowcast",244,307,262,287,278,277.682
+"PB-João Pessoa",2020-06-05,"nowcast",250,316,271,298,285,284.902
+"PB-João Pessoa",2020-06-06,"nowcast",254,321,281,308,292,292.204
+"PB-João Pessoa",2020-06-07,"nowcast",266,331,281,308,298,298.483
+"PB-João Pessoa",2020-06-08,"nowcast",268,336,293,318,305,304.773
+"PB-João Pessoa",2020-06-09,"nowcast",277,344,298,325,311,311.63
+"PB-João Pessoa",2020-06-10,"nowcast",283,349,309,336,319,319.04
+"PB-João Pessoa",2020-06-11,"nowcast",293,356,309,335,323,323.875
+"PB-João Pessoa",2020-06-12,"nowcast",294,358,308,335,326,326.492
+"PB-João Pessoa",2020-06-13,"nowcast",290,354,305,332,322,322.754
+"PB-João Pessoa",2020-06-14,"nowcast",282,342,298,323,315,314.896
+"PB-João Pessoa",2020-06-15,"nowcast",273,331,289,312,303,302.577
+"PB-João Pessoa",2020-06-16,"nowcast",261,321,272,296,291,291.054
+"PB-João Pessoa",2020-06-17,"nowcast",253,315,271,296,283,282.415
+"PB-João Pessoa",2020-06-18,"nowcast",254,314,269,293,284,284.485
+"PB-João Pessoa",2020-06-19,"nowcast",259,319,280,303,290,289.355
+"PB-João Pessoa",2020-06-20,"nowcast",265,326,282,306,295,295.553
+"PB-João Pessoa",2020-06-21,"nowcast",269,332,286,312,300,300.107
+"PB-João Pessoa",2020-06-22,"nowcast",272,329,287,311,299,299.439
+"PB-João Pessoa",2020-06-23,"nowcast",269,327,283,305,294,294.099
+"PB-João Pessoa",2020-06-24,"nowcast",256,313,273,296,287,287.61
+"PB-João Pessoa",2020-06-25,"nowcast",246,303,266,288,278,278.32
+"PB-João Pessoa",2020-06-26,"nowcast",244,300,260,282,275,274.105
+"PB-João Pessoa",2020-06-27,"nowcast",240,294,253,275,268,268.325
+"PB-João Pessoa",2020-06-28,"nowcast",235,287,244,267,262,261.835
+"PB-João Pessoa",2020-06-29,"nowcast",222,276,238,259,252,251.937
+"PB-João Pessoa",2020-06-30,"nowcast",211,266,234,254,244,243.905
+"PB-João Pessoa",2020-07-01,"nowcast",210,261,227,248,239,238.831
+"PB-João Pessoa",2020-07-02,"nowcast",211,258,221,242,235,234.642
+"PB-João Pessoa",2020-07-03,"nowcast",206,256,217,238,231,231.292
+"PB-João Pessoa",2020-07-04,"nowcast",202,251,219,237,228,228.327
+"PB-João Pessoa",2020-07-05,"nowcast",196,244,213,232,223,222.668
+"PB-João Pessoa",2020-07-06,"nowcast",185,235,200,220,215,214.067
+"PB-João Pessoa",2020-07-07,"nowcast",183,233,196,216,208,207.291
+"PB-João Pessoa",2020-07-08,"nowcast",179,233,192,212,204,204.632
+"PB-João Pessoa",2020-07-09,"nowcast",177,232,190,212,203,204.108
+"PB-João Pessoa",2020-07-10,"nowcast",178,236,194,217,209,208.67
+"PB-João Pessoa",2020-07-11,"nowcast",187,245,204,227,218,217.436
+"PB-João Pessoa",2020-07-12,"nowcast",193,253,213,236,226,226.124
+"PB-João Pessoa",2020-07-13,"nowcast",207,268,216,241,233,233.844
+"PB-João Pessoa",2020-07-14,"nowcast",212,275,231,256,244,243.443
+"PB-João Pessoa",2020-07-15,"nowcast",224,286,243,268,256,255.462
+"PB-João Pessoa",2020-07-16,"nowcast",233,295,258,283,268,266.699
+"PB-João Pessoa",2020-07-17,"nowcast",240,302,265,289,274,274.701
+"PB-João Pessoa",2020-07-18,"nowcast",246,305,269,293,278,277.782
+"PB-João Pessoa",2020-07-19,"nowcast",240,301,261,286,271,271.196
+"PB-João Pessoa",2020-07-20,"nowcast",227,284,241,263,256,256.608
+"PB-João Pessoa",2020-07-21,"nowcast",211,265,223,246,238,238.146
+"PB-João Pessoa",2020-07-22,"nowcast",198,248,209,229,223,222.651
+"PB-João Pessoa",2020-07-23,"nowcast",189,236,201,220,213,213.46
+"PB-João Pessoa",2020-07-24,"nowcast",185,234,200,219,211,210.434
+"PB-João Pessoa",2020-07-25,"nowcast",187,233,200,219,210,210.307
+"PB-João Pessoa",2020-07-26,"nowcast",179,229,198,218,207,207.001
+"PB-João Pessoa",2020-07-27,"nowcast",179,225,193,211,202,201.91
+"PB-João Pessoa",2020-07-28,"nowcast",167,214,183,202,194,193.591
+"PB-João Pessoa",2020-07-29,"nowcast",165,207,178,196,185,185.009
+"PB-João Pessoa",2020-07-30,"nowcast",157,199,173,190,179,178.975
+"PB-João Pessoa",2020-07-31,"nowcast",150,196,162,181,175,175.173
+"PB-João Pessoa",2020-08-01,"nowcast",152,197,162,180,173,173.979
+"PB-João Pessoa",2020-08-02,"nowcast",151,196,161,179,173,173.304
+"PB-João Pessoa",2020-08-03,"nowcast",145,194,159,178,173,172.726
+"PB-João Pessoa",2020-08-04,"nowcast",148,198,161,181,172,172.612
+"PB-João Pessoa",2020-08-05,"nowcast",150,200,163,182,175,174.899
+"PB-João Pessoa",2020-08-06,"nowcast",151,202,165,187,179,179.074
 "PB-João Pessoa",2020-03-18,"observed",NA,NA,NA,NA,1,NA
 "PB-João Pessoa",2020-03-19,"observed",NA,NA,NA,NA,0,NA
 "PB-João Pessoa",2020-03-20,"observed",NA,NA,NA,NA,0,NA
@@ -4841,20 +4846,21 @@
 "PB-João Pessoa",2020-08-13,"observed",NA,NA,NA,NA,259,NA
 "PB-João Pessoa",2020-08-14,"observed",NA,NA,NA,NA,219,NA
 "PB-João Pessoa",2020-08-15,"observed",NA,NA,NA,NA,0,NA
-"PB-João Pessoa",2020-08-06,"forecast",146,236,169,206,193,194.4572
-"PB-João Pessoa",2020-08-07,"forecast",141,245,170,211,194,195.0324
-"PB-João Pessoa",2020-08-08,"forecast",136,254,162,210,193,195.6364
-"PB-João Pessoa",2020-08-09,"forecast",130,260,161,212,194,196.6638
-"PB-João Pessoa",2020-08-10,"forecast",120,267,156,215,193,197.6604
-"PB-João Pessoa",2020-08-11,"forecast",118,274,150,211,192,197.8724
-"PB-João Pessoa",2020-08-12,"forecast",110,283,151,219,193,198.3986
-"PB-João Pessoa",2020-08-13,"forecast",106,288,142,215,192,200.0148
-"PB-João Pessoa",2020-08-14,"forecast",96,291,138,215,192,200.9764
-"PB-João Pessoa",2020-08-15,"forecast",94,301,135,217,191,201.0256
-"PB-João Pessoa",2020-08-16,"forecast",85,310,131,215,191,203.6986
-"PB-João Pessoa",2020-08-17,"forecast",80,315,128,217,190,204.4956
-"PB-João Pessoa",2020-08-18,"forecast",70,321,125,216,189,205.7584
-"PB-João Pessoa",2020-08-19,"forecast",73,334,119,213,188,207.3336
+"PB-João Pessoa",2020-08-16,"observed",NA,NA,NA,NA,0,NA
+"PB-João Pessoa",2020-08-07,"forecast",131,209,154,185,173,173.914
+"PB-João Pessoa",2020-08-08,"forecast",129,215,146,182,172,173.5332
+"PB-João Pessoa",2020-08-09,"forecast",120,220,143,182,170,172.4424
+"PB-João Pessoa",2020-08-10,"forecast",117,227,143,185,169,172.06
+"PB-João Pessoa",2020-08-11,"forecast",110,231,138,184,168,171.5594
+"PB-João Pessoa",2020-08-12,"forecast",102,233,131,181,166,171.0586
+"PB-João Pessoa",2020-08-13,"forecast",97,238,124,179,166,170.4166
+"PB-João Pessoa",2020-08-14,"forecast",92,243,124,181,164,170.8766
+"PB-João Pessoa",2020-08-15,"forecast",88,244,119,178,161,168.8958
+"PB-João Pessoa",2020-08-16,"forecast",81,251,116,179,160,168.3828
+"PB-João Pessoa",2020-08-17,"forecast",77,256,111,176,158,168.8198
+"PB-João Pessoa",2020-08-18,"forecast",67,254,104,171,154,167.3214
+"PB-João Pessoa",2020-08-19,"forecast",63,256,102,171,154,167.5744
+"PB-João Pessoa",2020-08-20,"forecast",58,263,100,173,152,167.978
 "PB-Lagoa Seca",2020-03-21,"nowcast",1,1,1,1,1,1
 "PB-Lagoa Seca",2020-03-22,"nowcast",0,1,0,1,0.5,0.5
 "PB-Lagoa Seca",2020-03-23,"nowcast",0,1,0,1,0.5,0.5
@@ -5800,171 +5806,173 @@
 "PB-Mari",2020-08-04,"forecast",0,95,6,35,33,51.4818
 "PB-Mari",2020-08-05,"forecast",0,103,4,34,33,54.8368
 "PB-Mari",2020-08-06,"forecast",0,109,2,34,34,58.8214
-"PB-Patos",2020-02-22,"nowcast",1,1,1,1,1,1
+"PB-Patos",2020-02-20,"nowcast",1,1,1,1,1,1
+"PB-Patos",2020-02-21,"nowcast",0,0,0,0,0,0
+"PB-Patos",2020-02-22,"nowcast",0,0,0,0,0,0
 "PB-Patos",2020-02-23,"nowcast",0,0,0,0,0,0
-"PB-Patos",2020-02-24,"nowcast",0,1,0,1,0.5,0.5
+"PB-Patos",2020-02-24,"nowcast",0,1,0,0,0,0.333333333333333
 "PB-Patos",2020-02-25,"nowcast",0,1,0,0,0,0.333333333333333
-"PB-Patos",2020-02-26,"nowcast",0,1,1,1,1,0.6
+"PB-Patos",2020-02-26,"nowcast",0,1,0,0,0,0.25
 "PB-Patos",2020-02-27,"nowcast",0,0,0,0,0,0
-"PB-Patos",2020-02-28,"nowcast",0,1,0,0,0,0.166666666666667
+"PB-Patos",2020-02-28,"nowcast",0,1,0,0,0,0.333333333333333
 "PB-Patos",2020-02-29,"nowcast",0,1,0,0,0,0.142857142857143
-"PB-Patos",2020-03-01,"nowcast",0,1,0,0,0,0.125
-"PB-Patos",2020-03-02,"nowcast",0,1,0,0,0,0.384615384615385
-"PB-Patos",2020-03-03,"nowcast",0,1,0,0,0,0.266666666666667
-"PB-Patos",2020-03-04,"nowcast",0,1,0,0,0,0.263157894736842
-"PB-Patos",2020-03-05,"nowcast",0,1,0,0,0,0.173913043478261
-"PB-Patos",2020-03-06,"nowcast",0,1,0,0,0,0.153846153846154
-"PB-Patos",2020-03-07,"nowcast",0,1,0,0,0,0.32258064516129
-"PB-Patos",2020-03-08,"nowcast",0,1,0,0,0,0.176470588235294
-"PB-Patos",2020-03-09,"nowcast",0,1,0,0,0,0.232558139534884
-"PB-Patos",2020-03-10,"nowcast",0,1,0,0,0,0.192307692307692
-"PB-Patos",2020-03-11,"nowcast",0,1,0,0,0,0.361111111111111
-"PB-Patos",2020-03-12,"nowcast",0,1,0,0,0,0.32258064516129
-"PB-Patos",2020-03-13,"nowcast",0,1,0,0,0,0.354838709677419
-"PB-Patos",2020-03-14,"nowcast",0,1,0,0,0,0.208333333333333
-"PB-Patos",2020-03-15,"nowcast",0,1,0,0,0,0.229411764705882
-"PB-Patos",2020-03-16,"nowcast",0,1,0,0,0,0.24390243902439
-"PB-Patos",2020-03-17,"nowcast",0,1,0,0,0,0.317647058823529
-"PB-Patos",2020-03-18,"nowcast",0,1,0,0,0,0.254071661237785
-"PB-Patos",2020-03-19,"nowcast",0,1,0,0,0,0.274509803921569
-"PB-Patos",2020-03-20,"nowcast",0,1,0,0,0,0.261083743842365
-"PB-Patos",2020-03-21,"nowcast",0,1,0,0,0,0.253138075313808
-"PB-Patos",2020-03-22,"nowcast",0,1,0,0,0,0.275045537340619
-"PB-Patos",2020-03-23,"nowcast",0,1,0,0,0,0.26813880126183
-"PB-Patos",2020-03-24,"nowcast",0,1,0,0,0,0.271284271284271
-"PB-Patos",2020-03-25,"nowcast",0,1,0,0,0,0.254421768707483
-"PB-Patos",2020-03-26,"nowcast",0,1,0,0,0,0.268694550063371
-"PB-Patos",2020-03-27,"nowcast",0,1,0,0,0,0.320958083832335
-"PB-Patos",2020-03-28,"nowcast",0,1,0,0,0,0.298265895953757
-"PB-Patos",2020-03-29,"nowcast",0,1,0,0,0,0.326599326599327
-"PB-Patos",2020-03-30,"nowcast",0,1,0,0,0,0.362946912242687
-"PB-Patos",2020-03-31,"nowcast",0,1,0,0,0,0.409282700421941
-"PB-Patos",2020-04-01,"nowcast",0,1,0,0,0,0.434647302904564
-"PB-Patos",2020-04-02,"nowcast",0,1,0,0,0,0.449795081967213
-"PB-Patos",2020-04-03,"nowcast",0,1,0,0,0,0.524439918533605
-"PB-Patos",2020-04-04,"nowcast",0,1,0,0,0,0.526315789473684
-"PB-Patos",2020-04-05,"nowcast",0,1,0,0,0,0.542253521126761
-"PB-Patos",2020-04-06,"nowcast",0,2,0,0,0,0.614844533600802
-"PB-Patos",2020-04-07,"nowcast",0,2,0,0,0,0.630260521042084
-"PB-Patos",2020-04-08,"nowcast",0,2,0,0,0,0.668668668668669
-"PB-Patos",2020-04-09,"nowcast",0,2,0,1,1,0.722
-"PB-Patos",2020-04-10,"nowcast",0,2,0,1,1,0.873
-"PB-Patos",2020-04-11,"nowcast",0,2,0,1,1,0.994
-"PB-Patos",2020-04-12,"nowcast",0,3,0,1,1,1.13
-"PB-Patos",2020-04-13,"nowcast",0,3,0,1,1,1.267
-"PB-Patos",2020-04-14,"nowcast",0,3,0,1,1,1.473
-"PB-Patos",2020-04-15,"nowcast",0,3,0,1,1,1.599
-"PB-Patos",2020-04-16,"nowcast",0,4,1,2,2,1.885
-"PB-Patos",2020-04-17,"nowcast",0,4,0,2,2,2.198
-"PB-Patos",2020-04-18,"nowcast",0,5,0,2,2,2.709
-"PB-Patos",2020-04-19,"nowcast",0,6,1,3,3,3.131
-"PB-Patos",2020-04-20,"nowcast",1,7,2,4,4,3.77
-"PB-Patos",2020-04-21,"nowcast",0,7,2,4,4,4.283
-"PB-Patos",2020-04-22,"nowcast",1,8,2,5,5,5.045
-"PB-Patos",2020-04-23,"nowcast",1,9,3,6,6,5.86
-"PB-Patos",2020-04-24,"nowcast",3,11,4,7,7,6.685
-"PB-Patos",2020-04-25,"nowcast",4,13,5,8,7,7.628
-"PB-Patos",2020-04-26,"nowcast",3,13,5,9,9,8.797
-"PB-Patos",2020-04-27,"nowcast",5,15,7,11,10,9.982
-"PB-Patos",2020-04-28,"nowcast",5,16,9,13,11,11.373
-"PB-Patos",2020-04-29,"nowcast",6,18,10,14,13,13.077
-"PB-Patos",2020-04-30,"nowcast",7,20,10,15,15,14.551
-"PB-Patos",2020-05-01,"nowcast",9,22,12,17,16,16.085
-"PB-Patos",2020-05-02,"nowcast",11,24,14,19,17,17.556
-"PB-Patos",2020-05-03,"nowcast",11,25,15,20,19,18.903
-"PB-Patos",2020-05-04,"nowcast",13,27,18,23,20,20.383
-"PB-Patos",2020-05-05,"nowcast",12,27,16,22,21,21.191
-"PB-Patos",2020-05-06,"nowcast",14,29,19,24,22,22.253
-"PB-Patos",2020-05-07,"nowcast",14,29,18,24,23,23.079
-"PB-Patos",2020-05-08,"nowcast",15,30,21,26,23,23.453
-"PB-Patos",2020-05-09,"nowcast",16,31,18,24,23,23.571
-"PB-Patos",2020-05-10,"nowcast",15,30,20,25,23,23.461
-"PB-Patos",2020-05-11,"nowcast",16,30,18,24,23,22.909
-"PB-Patos",2020-05-12,"nowcast",14,28,17,23,22,21.958
-"PB-Patos",2020-05-13,"nowcast",15,29,18,23,21,21.13
-"PB-Patos",2020-05-14,"nowcast",14,27,15,21,20,20.42
-"PB-Patos",2020-05-15,"nowcast",13,27,16,21,20,20.145
-"PB-Patos",2020-05-16,"nowcast",13,27,15,21,20,19.908
-"PB-Patos",2020-05-17,"nowcast",12,27,16,22,20,20.401
-"PB-Patos",2020-05-18,"nowcast",13,28,16,22,21,21.023
-"PB-Patos",2020-05-19,"nowcast",15,30,18,24,23,22.554
-"PB-Patos",2020-05-20,"nowcast",16,32,19,25,24,24.408
-"PB-Patos",2020-05-21,"nowcast",17,33,21,27,26,25.907
-"PB-Patos",2020-05-22,"nowcast",19,35,21,28,27,26.938
-"PB-Patos",2020-05-23,"nowcast",19,34,23,29,27,27.344
-"PB-Patos",2020-05-24,"nowcast",19,35,23,29,27,26.943
-"PB-Patos",2020-05-25,"nowcast",18,34,24,30,26,26.46
-"PB-Patos",2020-05-26,"nowcast",17,33,22,28,26,25.961
-"PB-Patos",2020-05-27,"nowcast",17,33,21,27,25,25.654
-"PB-Patos",2020-05-28,"nowcast",18,33,21,27,25,25.417
-"PB-Patos",2020-05-29,"nowcast",17,33,20,27,25.5,25.63
-"PB-Patos",2020-05-30,"nowcast",17,33,21,27,25,25.529
-"PB-Patos",2020-05-31,"nowcast",17,32,21,27,25,24.562
-"PB-Patos",2020-06-01,"nowcast",15,30,19,25,24,23.844
-"PB-Patos",2020-06-02,"nowcast",15,30,18,24,23,22.951
-"PB-Patos",2020-06-03,"nowcast",15,29,19,24,22,22.465
-"PB-Patos",2020-06-04,"nowcast",14,29,20,25,22,22.151
-"PB-Patos",2020-06-05,"nowcast",14,29,17,23,22,22.369
-"PB-Patos",2020-06-06,"nowcast",14,29,17,23,22,22.134
-"PB-Patos",2020-06-07,"nowcast",15,30,18,24,23,22.669
-"PB-Patos",2020-06-08,"nowcast",16,32,18,24,23,23.36
-"PB-Patos",2020-06-09,"nowcast",16,32,21,27,25,25.003
-"PB-Patos",2020-06-10,"nowcast",18,35,21,28,27,26.911
-"PB-Patos",2020-06-11,"nowcast",20,37,22,29,28,28.742
-"PB-Patos",2020-06-12,"nowcast",21,38,25,32,30,30.647
-"PB-Patos",2020-06-13,"nowcast",23,42,26,34,32,32.85
-"PB-Patos",2020-06-14,"nowcast",25,44,31,38,34,34.616
-"PB-Patos",2020-06-15,"nowcast",26,45,29,37,36,36.053
-"PB-Patos",2020-06-16,"nowcast",26,47,32,40,37,37.737
-"PB-Patos",2020-06-17,"nowcast",29,49,33,41,40,40.042
-"PB-Patos",2020-06-18,"nowcast",30,50,36,44,42,42.122
-"PB-Patos",2020-06-19,"nowcast",34,54,40,47,44,44.243
-"PB-Patos",2020-06-20,"nowcast",33,55,39,48,46,45.913
-"PB-Patos",2020-06-21,"nowcast",36,56,41,49,47,46.757
-"PB-Patos",2020-06-22,"nowcast",35,56,41,49,47,46.916
-"PB-Patos",2020-06-23,"nowcast",35,57,40,49,47,46.986
-"PB-Patos",2020-06-24,"nowcast",36,57,42,50,47,47.143
-"PB-Patos",2020-06-25,"nowcast",37,58,40,49,47,47.329
-"PB-Patos",2020-06-26,"nowcast",37,59,42,51,48,48.306
-"PB-Patos",2020-06-27,"nowcast",38,59,43,51,48,48.24
-"PB-Patos",2020-06-28,"nowcast",35,58,42,51,48,48.159
-"PB-Patos",2020-06-29,"nowcast",34,56,41,50,46,46.517
-"PB-Patos",2020-06-30,"nowcast",31,54,37,46,44,43.907
-"PB-Patos",2020-07-01,"nowcast",30,51,33,42,41,41.011
-"PB-Patos",2020-07-02,"nowcast",26,45,30,38,37,36.849
-"PB-Patos",2020-07-03,"nowcast",23,42,28,35,33,33.429
-"PB-Patos",2020-07-04,"nowcast",22,39,25,32,30,30.403
-"PB-Patos",2020-07-05,"nowcast",20,36,24,30,28,28.097
-"PB-Patos",2020-07-06,"nowcast",18,34,22,28,26,26.253
-"PB-Patos",2020-07-07,"nowcast",17,34,20,27,26,25.913
-"PB-Patos",2020-07-08,"nowcast",17,33,23,29,26,26.51
-"PB-Patos",2020-07-09,"nowcast",19,35,23,29,27,27.072
-"PB-Patos",2020-07-10,"nowcast",18,35,22,29,28,28.04
-"PB-Patos",2020-07-11,"nowcast",20,36,25,31,28,28.014
-"PB-Patos",2020-07-12,"nowcast",19,37,22,29,28,28.448
-"PB-Patos",2020-07-13,"nowcast",20,37,24,31,29,29.311
-"PB-Patos",2020-07-14,"nowcast",21,38,24,31,30,30.047
-"PB-Patos",2020-07-15,"nowcast",21,40,27,34,31,31.526
-"PB-Patos",2020-07-16,"nowcast",23,41,27,34,33,32.801
-"PB-Patos",2020-07-17,"nowcast",24,42,28,35,34,34.298
-"PB-Patos",2020-07-18,"nowcast",24,43,28,36,35,34.746
-"PB-Patos",2020-07-19,"nowcast",26,44,32,39,35,35.773
-"PB-Patos",2020-07-20,"nowcast",26,46,31,39,37,36.775
-"PB-Patos",2020-07-21,"nowcast",28,48,33,41,38,38.591
-"PB-Patos",2020-07-22,"nowcast",29,49,34,42,40,40.261
-"PB-Patos",2020-07-23,"nowcast",31,51,36,44,42,42.35
-"PB-Patos",2020-07-24,"nowcast",34,55,38,46,44,44.503
-"PB-Patos",2020-07-25,"nowcast",35,55,40,48,45,45.478
-"PB-Patos",2020-07-26,"nowcast",36,58,39,48,46,46.714
-"PB-Patos",2020-07-27,"nowcast",36,58,41,50,48,48.218
-"PB-Patos",2020-07-28,"nowcast",40,63,44,53,50,50.41
-"PB-Patos",2020-07-29,"nowcast",39,62,46,55,52,52.58
-"PB-Patos",2020-07-30,"nowcast",43,65,47,56,54,53.636
-"PB-Patos",2020-07-31,"nowcast",41,65,47,57,54,54.385
-"PB-Patos",2020-08-01,"nowcast",40,64,46,56,53,53.595
-"PB-Patos",2020-08-02,"nowcast",37,62,46,55,52,51.938
-"PB-Patos",2020-08-03,"nowcast",37,62,42,52,50,50.542
-"PB-Patos",2020-08-04,"nowcast",35,61,39,50,48,48.822
+"PB-Patos",2020-03-01,"nowcast",0,1,0,0,0,0.3
+"PB-Patos",2020-03-02,"nowcast",0,0,0,0,0,0.0909090909090909
+"PB-Patos",2020-03-03,"nowcast",0,1,0,0,0,0.333333333333333
+"PB-Patos",2020-03-04,"nowcast",0,1,0,0,0,0.454545454545455
+"PB-Patos",2020-03-05,"nowcast",0,1,0,0,0,0.333333333333333
+"PB-Patos",2020-03-06,"nowcast",0,1,0,0,0,0.161290322580645
+"PB-Patos",2020-03-07,"nowcast",0,1,0,0,0,0.243243243243243
+"PB-Patos",2020-03-08,"nowcast",0,1,0,0,0,0.142857142857143
+"PB-Patos",2020-03-09,"nowcast",0,1,0,0,0,0.224489795918367
+"PB-Patos",2020-03-10,"nowcast",0,1,0,0,0,0.3125
+"PB-Patos",2020-03-11,"nowcast",0,1,0,0,0,0.304878048780488
+"PB-Patos",2020-03-12,"nowcast",0,1,0,0,0,0.252336448598131
+"PB-Patos",2020-03-13,"nowcast",0,1,0,0,0,0.216
+"PB-Patos",2020-03-14,"nowcast",0,1,0,0,0,0.322981366459627
+"PB-Patos",2020-03-15,"nowcast",0,1,0,0,0,0.19672131147541
+"PB-Patos",2020-03-16,"nowcast",0,1,0,0,0,0.311688311688312
+"PB-Patos",2020-03-17,"nowcast",0,1,0,0,0,0.299651567944251
+"PB-Patos",2020-03-18,"nowcast",0,1,0,0,0,0.270348837209302
+"PB-Patos",2020-03-19,"nowcast",0,1,0,0,0,0.256281407035176
+"PB-Patos",2020-03-20,"nowcast",0,1,0,0,0,0.262820512820513
+"PB-Patos",2020-03-21,"nowcast",0,1,0,0,0,0.281767955801105
+"PB-Patos",2020-03-22,"nowcast",0,1,0,0,0,0.249581239530988
+"PB-Patos",2020-03-23,"nowcast",0,1,0,0,0,0.232980332829047
+"PB-Patos",2020-03-24,"nowcast",0,1,0,0,0,0.270344827586207
+"PB-Patos",2020-03-25,"nowcast",0,1,0,0,0,0.255813953488372
+"PB-Patos",2020-03-26,"nowcast",0,1,0,0,0,0.275151515151515
+"PB-Patos",2020-03-27,"nowcast",0,1,0,0,0,0.264434180138568
+"PB-Patos",2020-03-28,"nowcast",0,1,0,0,0,0.244668911335578
+"PB-Patos",2020-03-29,"nowcast",0,1,0,0,0,0.304585152838428
+"PB-Patos",2020-03-30,"nowcast",0,1,0,0,0,0.339019189765458
+"PB-Patos",2020-03-31,"nowcast",0,1,0,0,0,0.379853095487933
+"PB-Patos",2020-04-01,"nowcast",0,1,0,0,0,0.477272727272727
+"PB-Patos",2020-04-02,"nowcast",0,1,0,0,0,0.436863543788187
+"PB-Patos",2020-04-03,"nowcast",0,1,0,0,0,0.545362903225806
+"PB-Patos",2020-04-04,"nowcast",0,1,0,0,0,0.52112676056338
+"PB-Patos",2020-04-05,"nowcast",0,1,0,0,0,0.526104417670683
+"PB-Patos",2020-04-06,"nowcast",0,2,0,0,0,0.578578578578579
+"PB-Patos",2020-04-07,"nowcast",0,2,0,0,0,0.604604604604605
+"PB-Patos",2020-04-08,"nowcast",0,2,0,0,0,0.666666666666667
+"PB-Patos",2020-04-09,"nowcast",0,2,0,1,1,0.745
+"PB-Patos",2020-04-10,"nowcast",0,2,0,1,1,0.864
+"PB-Patos",2020-04-11,"nowcast",0,2,0,1,1,1.002
+"PB-Patos",2020-04-12,"nowcast",0,3,0,1,1,1.151
+"PB-Patos",2020-04-13,"nowcast",0,3,0,1,1,1.307
+"PB-Patos",2020-04-14,"nowcast",0,3,0,1,1,1.417
+"PB-Patos",2020-04-15,"nowcast",0,3,0,1,1,1.644
+"PB-Patos",2020-04-16,"nowcast",0,4,1,2,2,1.908
+"PB-Patos",2020-04-17,"nowcast",0,4,0,2,2,2.2
+"PB-Patos",2020-04-18,"nowcast",0,5,0,2,2,2.581
+"PB-Patos",2020-04-19,"nowcast",0,5,1,3,3,3.085
+"PB-Patos",2020-04-20,"nowcast",0,6,2,4,3,3.691
+"PB-Patos",2020-04-21,"nowcast",0,7,1,4,4,4.419
+"PB-Patos",2020-04-22,"nowcast",1,8,2,5,5,5.053
+"PB-Patos",2020-04-23,"nowcast",2,10,3,6,6,5.888
+"PB-Patos",2020-04-24,"nowcast",2,11,4,7,6,6.68
+"PB-Patos",2020-04-25,"nowcast",3,12,5,8,7,7.613
+"PB-Patos",2020-04-26,"nowcast",3,13,5,9,8.5,8.752
+"PB-Patos",2020-04-27,"nowcast",3,14,6,10,10,9.804
+"PB-Patos",2020-04-28,"nowcast",5,16,8,12,11,11.346
+"PB-Patos",2020-04-29,"nowcast",7,19,8,13,13,13.018
+"PB-Patos",2020-04-30,"nowcast",8,20,12,16,14,14.659
+"PB-Patos",2020-05-01,"nowcast",8,21,11,16,16,15.973
+"PB-Patos",2020-05-02,"nowcast",11,24,13,18,17,17.314
+"PB-Patos",2020-05-03,"nowcast",11,25,16,21,19,19.019
+"PB-Patos",2020-05-04,"nowcast",11,26,17,22,20,20.29
+"PB-Patos",2020-05-05,"nowcast",14,28,17,23,22,21.686
+"PB-Patos",2020-05-06,"nowcast",16,30,17,23,22,22.56
+"PB-Patos",2020-05-07,"nowcast",16,30,18,24,23,23.093
+"PB-Patos",2020-05-08,"nowcast",15,30,19,25,23,23.428
+"PB-Patos",2020-05-09,"nowcast",16,30,18,24,23,23.595
+"PB-Patos",2020-05-10,"nowcast",16,30,18,24,23,23.293
+"PB-Patos",2020-05-11,"nowcast",15,30,18,24,23,22.998
+"PB-Patos",2020-05-12,"nowcast",13,28,18,23,22,21.977
+"PB-Patos",2020-05-13,"nowcast",13,27,18,23,21,21.118
+"PB-Patos",2020-05-14,"nowcast",14,27,19,24,21,20.618
+"PB-Patos",2020-05-15,"nowcast",12,26,15,21,20,20.008
+"PB-Patos",2020-05-16,"nowcast",12,26,14,20,20,19.964
+"PB-Patos",2020-05-17,"nowcast",13,27,17,22,20,20.035
+"PB-Patos",2020-05-18,"nowcast",13,29,16,22,21,21.386
+"PB-Patos",2020-05-19,"nowcast",15,30,18,24,23,22.909
+"PB-Patos",2020-05-20,"nowcast",15,31,21,27,24,24.484
+"PB-Patos",2020-05-21,"nowcast",17,34,22,28,26,26.13
+"PB-Patos",2020-05-22,"nowcast",18,34,23,29,27,27.084
+"PB-Patos",2020-05-23,"nowcast",18,35,23,29,27,27.13
+"PB-Patos",2020-05-24,"nowcast",18,34,22,28,27,26.765
+"PB-Patos",2020-05-25,"nowcast",17,33,22,28,26,26.194
+"PB-Patos",2020-05-26,"nowcast",18,34,21,27,26,25.952
+"PB-Patos",2020-05-27,"nowcast",18,34,20,27,26,25.946
+"PB-Patos",2020-05-28,"nowcast",18,33,20,26,25,25.33
+"PB-Patos",2020-05-29,"nowcast",17,32,20,26,25,25.537
+"PB-Patos",2020-05-30,"nowcast",16,32,20,26,25,25.218
+"PB-Patos",2020-05-31,"nowcast",17,32,20,26,25,24.624
+"PB-Patos",2020-06-01,"nowcast",15,31,19,25,24,23.951
+"PB-Patos",2020-06-02,"nowcast",14,29,19,24,23,23.16
+"PB-Patos",2020-06-03,"nowcast",15,30,18,24,23,22.727
+"PB-Patos",2020-06-04,"nowcast",15,29,17,23,22,22.222
+"PB-Patos",2020-06-05,"nowcast",13,28,17,23,22,22.014
+"PB-Patos",2020-06-06,"nowcast",14,29,17,23,22,22.43
+"PB-Patos",2020-06-07,"nowcast",14,29,17,23,22,22.394
+"PB-Patos",2020-06-08,"nowcast",15,31,19,25,23,23.611
+"PB-Patos",2020-06-09,"nowcast",16,33,22,28,25,25.152
+"PB-Patos",2020-06-10,"nowcast",18,35,24,31,27,27.08
+"PB-Patos",2020-06-11,"nowcast",19,37,24,31,29,28.959
+"PB-Patos",2020-06-12,"nowcast",22,40,27,34,31,31.026
+"PB-Patos",2020-06-13,"nowcast",24,42,28,35,33,33.004
+"PB-Patos",2020-06-14,"nowcast",24,43,33,40,35,34.56
+"PB-Patos",2020-06-15,"nowcast",26,45,32,39,36,36.219
+"PB-Patos",2020-06-16,"nowcast",28,48,35,43,38,38.145
+"PB-Patos",2020-06-17,"nowcast",31,50,35,43,40,40.485
+"PB-Patos",2020-06-18,"nowcast",31,52,39,47,43,42.631
+"PB-Patos",2020-06-19,"nowcast",32,54,39,47,44.5,44.481
+"PB-Patos",2020-06-20,"nowcast",35,56,39,48,45,45.414
+"PB-Patos",2020-06-21,"nowcast",36,57,40,48,46,46.529
+"PB-Patos",2020-06-22,"nowcast",36,57,42,50,47,46.682
+"PB-Patos",2020-06-23,"nowcast",35,57,40,49,47,46.699
+"PB-Patos",2020-06-24,"nowcast",36,56,42,50,47,46.849
+"PB-Patos",2020-06-25,"nowcast",35,57,40,49,47,47.812
+"PB-Patos",2020-06-26,"nowcast",36,58,42,51,48,48.293
+"PB-Patos",2020-06-27,"nowcast",37,58,42,51,48,47.99
+"PB-Patos",2020-06-28,"nowcast",35,59,40,50,48,47.789
+"PB-Patos",2020-06-29,"nowcast",33,57,38,48,47,46.916
+"PB-Patos",2020-06-30,"nowcast",32,55,37,46,44,44.005
+"PB-Patos",2020-07-01,"nowcast",28,51,34,43,41,40.784
+"PB-Patos",2020-07-02,"nowcast",25,46,29,38,37,37.149
+"PB-Patos",2020-07-03,"nowcast",23,42,28,35,33,33.136
+"PB-Patos",2020-07-04,"nowcast",21,38,25,32,30,30.243
+"PB-Patos",2020-07-05,"nowcast",20,36,23,29,28,27.752
+"PB-Patos",2020-07-06,"nowcast",18,34,22,28,26,26.548
+"PB-Patos",2020-07-07,"nowcast",18,34,22,28,26,26.389
+"PB-Patos",2020-07-08,"nowcast",18,34,23,29,26,26.568
+"PB-Patos",2020-07-09,"nowcast",19,35,23,29,27,27.275
+"PB-Patos",2020-07-10,"nowcast",19,35,23,29,28,27.805
+"PB-Patos",2020-07-11,"nowcast",19,36,22,29,28,28.329
+"PB-Patos",2020-07-12,"nowcast",19,37,23,30,28,28.603
+"PB-Patos",2020-07-13,"nowcast",19,36,23,30,29,29.026
+"PB-Patos",2020-07-14,"nowcast",21,38,25,32,30,30.091
+"PB-Patos",2020-07-15,"nowcast",21,39,26,33,31,31.506
+"PB-Patos",2020-07-16,"nowcast",23,41,28,35,33,32.849
+"PB-Patos",2020-07-17,"nowcast",24,43,28,36,34,34.458
+"PB-Patos",2020-07-18,"nowcast",25,43,29,37,35,35.015
+"PB-Patos",2020-07-19,"nowcast",25,44,29,37,35,35.582
+"PB-Patos",2020-07-20,"nowcast",28,46,32,39,36,36.302
+"PB-Patos",2020-07-21,"nowcast",28,48,32,40,38,38.409
+"PB-Patos",2020-07-22,"nowcast",30,51,33,41,40,40.476
+"PB-Patos",2020-07-23,"nowcast",31,52,37,45,42,42.438
+"PB-Patos",2020-07-24,"nowcast",35,55,38,46,44,44.304
+"PB-Patos",2020-07-25,"nowcast",35,56,40,48,46,45.676
+"PB-Patos",2020-07-26,"nowcast",34,57,40,49,47,46.945
+"PB-Patos",2020-07-27,"nowcast",36,58,42,51,48,48.468
+"PB-Patos",2020-07-28,"nowcast",38,61,44,53,50,50.34
+"PB-Patos",2020-07-29,"nowcast",40,63,45,54,52,52.526
+"PB-Patos",2020-07-30,"nowcast",41,64,47,56,53.5,53.612
+"PB-Patos",2020-07-31,"nowcast",42,66,50,59,54,54.189
+"PB-Patos",2020-08-01,"nowcast",41,66,46,56,53,53.645
+"PB-Patos",2020-08-02,"nowcast",40,63,45,54,51,51.5
+"PB-Patos",2020-08-03,"nowcast",37,63,41,51,50,50.219
+"PB-Patos",2020-08-04,"nowcast",34,60,41,51,48,48.599
 "PB-Patos",2020-03-30,"observed",NA,NA,NA,NA,1,NA
 "PB-Patos",2020-03-31,"observed",NA,NA,NA,NA,0,NA
 "PB-Patos",2020-04-01,"observed",NA,NA,NA,NA,0,NA
@@ -6104,20 +6112,21 @@
 "PB-Patos",2020-08-13,"observed",NA,NA,NA,NA,29,NA
 "PB-Patos",2020-08-14,"observed",NA,NA,NA,NA,50,NA
 "PB-Patos",2020-08-15,"observed",NA,NA,NA,NA,0,NA
-"PB-Patos",2020-08-05,"forecast",31,71,41,57,52,53.0102
-"PB-Patos",2020-08-06,"forecast",30,74,42,59,53,53.5736
-"PB-Patos",2020-08-07,"forecast",31,79,39,58,54,54.1966
-"PB-Patos",2020-08-08,"forecast",27,79,39,60,54,55.0162
-"PB-Patos",2020-08-09,"forecast",25,82,41,63,55,55.6444
-"PB-Patos",2020-08-10,"forecast",24,85,39,63,55,56.4884
-"PB-Patos",2020-08-11,"forecast",23,88,40,66,56,57.5656
-"PB-Patos",2020-08-12,"forecast",21,91,40,67,56,58.1012
-"PB-Patos",2020-08-13,"forecast",18,94,37,67,57,59.3598
-"PB-Patos",2020-08-14,"forecast",21,100,37,68,57,59.9196
-"PB-Patos",2020-08-15,"forecast",20,102,34,67,58,60.9996
-"PB-Patos",2020-08-16,"forecast",16,105,33,68,58,61.6066
-"PB-Patos",2020-08-17,"forecast",14,108,29,67,59,63.2954
-"PB-Patos",2020-08-18,"forecast",9,109,28,68,60,64.1394
+"PB-Patos",2020-08-16,"observed",NA,NA,NA,NA,0,NA
+"PB-Patos",2020-08-05,"forecast",31,71,41,57,52,52.7118
+"PB-Patos",2020-08-06,"forecast",30,74,43,60,52,53.067
+"PB-Patos",2020-08-07,"forecast",27,76,38,58,53,53.6026
+"PB-Patos",2020-08-08,"forecast",25,78,39,60,53,54.2594
+"PB-Patos",2020-08-09,"forecast",24,82,37,60,54,54.9632
+"PB-Patos",2020-08-10,"forecast",23,84,42,66,54,55.7702
+"PB-Patos",2020-08-11,"forecast",22,88,38,64,55,56.7544
+"PB-Patos",2020-08-12,"forecast",20,89,37,64,55,57.311
+"PB-Patos",2020-08-13,"forecast",18,93,34,64,56,58.1782
+"PB-Patos",2020-08-14,"forecast",14,95,33,65,56,58.9346
+"PB-Patos",2020-08-15,"forecast",12,98,34,68,57,60.106
+"PB-Patos",2020-08-16,"forecast",12,103,30,66,58,61.6254
+"PB-Patos",2020-08-17,"forecast",14,108,32,69,58,62.1126
+"PB-Patos",2020-08-18,"forecast",10,113,28,68,58,63.5576
 "PB-Pedras de Fogo",2020-03-07,"nowcast",1,1,1,1,1,1
 "PB-Pedras de Fogo",2020-03-08,"nowcast",0,0,0,0,0,0
 "PB-Pedras de Fogo",2020-03-09,"nowcast",0,0,0,0,0,0
@@ -7126,165 +7135,167 @@
 "PB-Rio Tinto",2020-08-02,"forecast",0,33,3,15,14,17.2184
 "PB-Rio Tinto",2020-08-03,"forecast",0,33,3,15,14,17.3836
 "PB-Rio Tinto",2020-08-04,"forecast",0,35,3,15,14,17.922
-"PB-Santa Rita",2020-02-28,"nowcast",1,1,1,1,1,1
-"PB-Santa Rita",2020-02-29,"nowcast",1,1,1,1,1,1
-"PB-Santa Rita",2020-03-01,"nowcast",0,1,0,1,0.5,0.5
-"PB-Santa Rita",2020-03-02,"nowcast",0,1,0,1,0.5,0.5
-"PB-Santa Rita",2020-03-03,"nowcast",0,1,0,0,0,0.2
-"PB-Santa Rita",2020-03-04,"nowcast",0,1,0,0,0,0.333333333333333
-"PB-Santa Rita",2020-03-05,"nowcast",0,1,0,0,0,0.25
-"PB-Santa Rita",2020-03-06,"nowcast",0,1,0,0,0,0.2
-"PB-Santa Rita",2020-03-07,"nowcast",0,1,0,0,0,0.375
-"PB-Santa Rita",2020-03-08,"nowcast",0,1,0,0,0,0.384615384615385
-"PB-Santa Rita",2020-03-09,"nowcast",0,1,0,0,0,0.323529411764706
-"PB-Santa Rita",2020-03-10,"nowcast",0,1,0,0,0,0.415094339622642
-"PB-Santa Rita",2020-03-11,"nowcast",0,1,0,0,0,0.274193548387097
-"PB-Santa Rita",2020-03-12,"nowcast",0,1,0,0,0,0.236842105263158
-"PB-Santa Rita",2020-03-13,"nowcast",0,1,0,0,0,0.298969072164948
-"PB-Santa Rita",2020-03-14,"nowcast",0,1,0,0,0,0.230769230769231
-"PB-Santa Rita",2020-03-15,"nowcast",0,1,0,0,0,0.333333333333333
-"PB-Santa Rita",2020-03-16,"nowcast",0,1,0,0,0,0.317948717948718
-"PB-Santa Rita",2020-03-17,"nowcast",0,1,0,0,0,0.305439330543933
-"PB-Santa Rita",2020-03-18,"nowcast",0,1,0,0,0,0.342281879194631
-"PB-Santa Rita",2020-03-19,"nowcast",0,1,0,0,0,0.361878453038674
-"PB-Santa Rita",2020-03-20,"nowcast",0,1,0,0,0,0.36281179138322
-"PB-Santa Rita",2020-03-21,"nowcast",0,1,0,0,0,0.321011673151751
-"PB-Santa Rita",2020-03-22,"nowcast",0,1,0,0,0,0.446700507614213
-"PB-Santa Rita",2020-03-23,"nowcast",0,1,0,0,0,0.438152011922504
-"PB-Santa Rita",2020-03-24,"nowcast",0,1,0,0,0,0.483739837398374
-"PB-Santa Rita",2020-03-25,"nowcast",0,1,0,0,0,0.565853658536585
-"PB-Santa Rita",2020-03-26,"nowcast",0,2,0,1,1,0.638443935926774
-"PB-Santa Rita",2020-03-27,"nowcast",0,2,0,1,1,0.732824427480916
-"PB-Santa Rita",2020-03-28,"nowcast",0,2,0,1,1,0.863113897596656
-"PB-Santa Rita",2020-03-29,"nowcast",0,2,0,1,1,0.910112359550562
-"PB-Santa Rita",2020-03-30,"nowcast",0,2,0,1,1,1.11746987951807
-"PB-Santa Rita",2020-03-31,"nowcast",0,3,0,1,1,1.28328328328328
-"PB-Santa Rita",2020-04-01,"nowcast",0,3,0,1,1,1.44444444444444
-"PB-Santa Rita",2020-04-02,"nowcast",0,3,0,1,1,1.587
-"PB-Santa Rita",2020-04-03,"nowcast",0,4,1,2,2,1.747
-"PB-Santa Rita",2020-04-04,"nowcast",0,4,1,2,2,1.921
+"PB-Santa Rita",2020-02-26,"nowcast",1,1,1,1,1,1
+"PB-Santa Rita",2020-02-27,"nowcast",0,1,0,1,0.5,0.5
+"PB-Santa Rita",2020-02-28,"nowcast",0,1,0,0,0,0.333333333333333
+"PB-Santa Rita",2020-02-29,"nowcast",0,1,0,0,0,0.25
+"PB-Santa Rita",2020-03-01,"nowcast",0,1,1,1,1,0.6
+"PB-Santa Rita",2020-03-02,"nowcast",0,1,0,0,0,0.333333333333333
+"PB-Santa Rita",2020-03-03,"nowcast",0,1,0,0,0,0.25
+"PB-Santa Rita",2020-03-04,"nowcast",0,1,0,0,0,0.416666666666667
+"PB-Santa Rita",2020-03-05,"nowcast",0,1,0,0,0,0.4
+"PB-Santa Rita",2020-03-06,"nowcast",0,1,0,0,0,0.380952380952381
+"PB-Santa Rita",2020-03-07,"nowcast",0,1,0,0,0,0.2
+"PB-Santa Rita",2020-03-08,"nowcast",0,1,0,0,0,0.241379310344828
+"PB-Santa Rita",2020-03-09,"nowcast",0,1,0,0,0,0.297297297297297
+"PB-Santa Rita",2020-03-10,"nowcast",0,1,0,0,0,0.340425531914894
+"PB-Santa Rita",2020-03-11,"nowcast",0,1,0,0,0,0.322033898305085
+"PB-Santa Rita",2020-03-12,"nowcast",0,1,0,0,0,0.345679012345679
+"PB-Santa Rita",2020-03-13,"nowcast",0,1,0,0,0,0.28
+"PB-Santa Rita",2020-03-14,"nowcast",0,1,0,0,0,0.299212598425197
+"PB-Santa Rita",2020-03-15,"nowcast",0,1,0,0,0,0.25
+"PB-Santa Rita",2020-03-16,"nowcast",0,1,0,0,0,0.298913043478261
+"PB-Santa Rita",2020-03-17,"nowcast",0,1,0,0,0,0.365145228215768
+"PB-Santa Rita",2020-03-18,"nowcast",0,1,0,0,0,0.335548172757475
+"PB-Santa Rita",2020-03-19,"nowcast",0,1,0,0,0,0.350974930362117
+"PB-Santa Rita",2020-03-20,"nowcast",0,1,0,0,0,0.338983050847458
+"PB-Santa Rita",2020-03-21,"nowcast",0,1,0,0,0,0.438775510204082
+"PB-Santa Rita",2020-03-22,"nowcast",0,1,0,0,0,0.398576512455516
+"PB-Santa Rita",2020-03-23,"nowcast",0,1,0,0,0,0.506060606060606
+"PB-Santa Rita",2020-03-24,"nowcast",0,1,0,0,0,0.552523874488404
+"PB-Santa Rita",2020-03-25,"nowcast",0,1,0,0,0,0.572851805728518
+"PB-Santa Rita",2020-03-26,"nowcast",0,2,0,1,1,0.668941979522184
+"PB-Santa Rita",2020-03-27,"nowcast",0,2,0,1,1,0.759698275862069
+"PB-Santa Rita",2020-03-28,"nowcast",0,2,0,1,1,0.829853862212944
+"PB-Santa Rita",2020-03-29,"nowcast",0,2,0,1,1,0.922290388548057
+"PB-Santa Rita",2020-03-30,"nowcast",0,2,0,1,1,1.14964610717897
+"PB-Santa Rita",2020-03-31,"nowcast",0,3,0,1,1,1.25527638190955
+"PB-Santa Rita",2020-04-01,"nowcast",0,3,0,1,1,1.41141141141141
+"PB-Santa Rita",2020-04-02,"nowcast",0,3,0,1,1,1.565
+"PB-Santa Rita",2020-04-03,"nowcast",0,3,1,2,2,1.777
+"PB-Santa Rita",2020-04-04,"nowcast",0,4,1,2,2,1.926
 "PB-Santa Rita",2020-04-05,"nowcast",0,4,1,2,2,2.015
-"PB-Santa Rita",2020-04-06,"nowcast",0,4,1,2,2,2.23
-"PB-Santa Rita",2020-04-07,"nowcast",0,5,0,2,2,2.43
-"PB-Santa Rita",2020-04-08,"nowcast",0,5,0,2,2,2.662
-"PB-Santa Rita",2020-04-09,"nowcast",0,5,1,3,3,2.941
-"PB-Santa Rita",2020-04-10,"nowcast",0,5,1,3,3,3.105
-"PB-Santa Rita",2020-04-11,"nowcast",0,6,1,3,3,3.377
-"PB-Santa Rita",2020-04-12,"nowcast",0,6,2,4,4,3.682
-"PB-Santa Rita",2020-04-13,"nowcast",1,7,2,4,4,4.209
-"PB-Santa Rita",2020-04-14,"nowcast",1,8,2,5,5,4.857
-"PB-Santa Rita",2020-04-15,"nowcast",1,8,2,5,5,5.234
-"PB-Santa Rita",2020-04-16,"nowcast",2,10,3,6,6,6.114
-"PB-Santa Rita",2020-04-17,"nowcast",3,11,4,7,7,6.896
-"PB-Santa Rita",2020-04-18,"nowcast",3,11,5,8,7,7.503
-"PB-Santa Rita",2020-04-19,"nowcast",3,12,5,9,8,8.5
-"PB-Santa Rita",2020-04-20,"nowcast",4,13,7,10,9,9.175
-"PB-Santa Rita",2020-04-21,"nowcast",4,14,7,11,10,10.08
-"PB-Santa Rita",2020-04-22,"nowcast",5,15,7,11,11,10.715
-"PB-Santa Rita",2020-04-23,"nowcast",6,16,8,12,11,11.411
-"PB-Santa Rita",2020-04-24,"nowcast",6,16,8,12,11,11.672
-"PB-Santa Rita",2020-04-25,"nowcast",5,16,9,13,12,11.91
-"PB-Santa Rita",2020-04-26,"nowcast",7,17,9,13,12,12.172
-"PB-Santa Rita",2020-04-27,"nowcast",7,18,9,13,13,12.747
-"PB-Santa Rita",2020-04-28,"nowcast",7,18,10,14,13,13.01
-"PB-Santa Rita",2020-04-29,"nowcast",8,19,11,15,13,13.638
-"PB-Santa Rita",2020-04-30,"nowcast",8,19,11,15,14,13.966
-"PB-Santa Rita",2020-05-01,"nowcast",8,20,10,15,14,14.63
-"PB-Santa Rita",2020-05-02,"nowcast",9,21,10,15,15,15.117
-"PB-Santa Rita",2020-05-03,"nowcast",9,21,11,16,15,15.67
-"PB-Santa Rita",2020-05-04,"nowcast",9,21,11,16,16,15.671
-"PB-Santa Rita",2020-05-05,"nowcast",10,22,12,17,16,16.256
-"PB-Santa Rita",2020-05-06,"nowcast",10,23,13,18,17,16.92
-"PB-Santa Rita",2020-05-07,"nowcast",10,23,13,18,17,17.141
-"PB-Santa Rita",2020-05-08,"nowcast",10,23,14,19,17,17.502
-"PB-Santa Rita",2020-05-09,"nowcast",11,24,14,19,18,17.782
-"PB-Santa Rita",2020-05-10,"nowcast",11,24,14,19,18,17.944
-"PB-Santa Rita",2020-05-11,"nowcast",12,25,15,20,18,18.418
-"PB-Santa Rita",2020-05-12,"nowcast",12,26,14,20,19,19.265
-"PB-Santa Rita",2020-05-13,"nowcast",11,26,15,21,20,20.106
-"PB-Santa Rita",2020-05-14,"nowcast",14,28,17,22,21,20.941
-"PB-Santa Rita",2020-05-15,"nowcast",13,28,16,22,21,21.606
-"PB-Santa Rita",2020-05-16,"nowcast",15,30,18,24,22,22.608
-"PB-Santa Rita",2020-05-17,"nowcast",15,30,19,25,23,23.27
-"PB-Santa Rita",2020-05-18,"nowcast",16,31,20,26,24,24.049
-"PB-Santa Rita",2020-05-19,"nowcast",16,31,19,25,24,24.299
-"PB-Santa Rita",2020-05-20,"nowcast",17,32,21,27,25,24.996
-"PB-Santa Rita",2020-05-21,"nowcast",18,33,20,26,25,25.201
-"PB-Santa Rita",2020-05-22,"nowcast",16,32,23,29,25,24.965
-"PB-Santa Rita",2020-05-23,"nowcast",17,32,21,27,25,24.572
-"PB-Santa Rita",2020-05-24,"nowcast",15,30,20,25,23,23.554
-"PB-Santa Rita",2020-05-25,"nowcast",15,30,18,24,23,22.702
-"PB-Santa Rita",2020-05-26,"nowcast",15,29,19,24,22,22.308
-"PB-Santa Rita",2020-05-27,"nowcast",14,29,20,25,22,22.72
-"PB-Santa Rita",2020-05-28,"nowcast",15,30,19,25,23,23.529
-"PB-Santa Rita",2020-05-29,"nowcast",15,30,19,25,24,23.735
-"PB-Santa Rita",2020-05-30,"nowcast",17,31,20,26,24,23.928
-"PB-Santa Rita",2020-05-31,"nowcast",16,31,19,25,24,23.814
-"PB-Santa Rita",2020-06-01,"nowcast",15,31,18,24,23,23.399
-"PB-Santa Rita",2020-06-02,"nowcast",16,31,19,25,24,23.939
-"PB-Santa Rita",2020-06-03,"nowcast",17,32,19,25,24,24.382
-"PB-Santa Rita",2020-06-04,"nowcast",16,31,20,26,25,24.715
-"PB-Santa Rita",2020-06-05,"nowcast",17,33,19,26,25,25.34
-"PB-Santa Rita",2020-06-06,"nowcast",16,32,20,26,25,25.143
-"PB-Santa Rita",2020-06-07,"nowcast",17,32,20,26,24,24.466
-"PB-Santa Rita",2020-06-08,"nowcast",15,30,19,25,24,23.97
-"PB-Santa Rita",2020-06-09,"nowcast",16,31,19,25,24,23.746
-"PB-Santa Rita",2020-06-10,"nowcast",15,30,19,25,23,23.13
-"PB-Santa Rita",2020-06-11,"nowcast",16,31,18,24,23,23.171
-"PB-Santa Rita",2020-06-12,"nowcast",14,29,19,24,22,22.469
-"PB-Santa Rita",2020-06-13,"nowcast",13,28,19,24,22,21.786
-"PB-Santa Rita",2020-06-14,"nowcast",14,28,18,23,21,21.003
-"PB-Santa Rita",2020-06-15,"nowcast",12,26,17,22,20,20.087
-"PB-Santa Rita",2020-06-16,"nowcast",11,25,16,21,19,19.306
-"PB-Santa Rita",2020-06-17,"nowcast",12,25,15,20,18,18.473
-"PB-Santa Rita",2020-06-18,"nowcast",12,25,14,19,18,18.111
-"PB-Santa Rita",2020-06-19,"nowcast",10,23,13,18,17,17.588
-"PB-Santa Rita",2020-06-20,"nowcast",10,24,14,19,17,17.583
-"PB-Santa Rita",2020-06-21,"nowcast",12,25,14,19,18,18.172
-"PB-Santa Rita",2020-06-22,"nowcast",11,25,15,20,19,18.983
-"PB-Santa Rita",2020-06-23,"nowcast",12,25,15,20,19,19.26
-"PB-Santa Rita",2020-06-24,"nowcast",13,27,17,22,20,20.246
-"PB-Santa Rita",2020-06-25,"nowcast",12,26,17,22,20,20.458
-"PB-Santa Rita",2020-06-26,"nowcast",14,29,17,23,21,21.516
-"PB-Santa Rita",2020-06-27,"nowcast",14,29,17,23,22,22.238
-"PB-Santa Rita",2020-06-28,"nowcast",14,30,20,26,23,23.331
-"PB-Santa Rita",2020-06-29,"nowcast",16,32,20,26,25,24.986
-"PB-Santa Rita",2020-06-30,"nowcast",18,34,23,29,26,26.019
-"PB-Santa Rita",2020-07-01,"nowcast",19,35,23,29,27,27.566
-"PB-Santa Rita",2020-07-02,"nowcast",20,36,25,31,29,28.777
-"PB-Santa Rita",2020-07-03,"nowcast",20,37,24,31,30,29.65
-"PB-Santa Rita",2020-07-04,"nowcast",21,38,24,31,30,30.56
-"PB-Santa Rita",2020-07-05,"nowcast",21,39,25,32,31,31.325
-"PB-Santa Rita",2020-07-06,"nowcast",22,41,28,35,32,32.176
-"PB-Santa Rita",2020-07-07,"nowcast",23,41,27,34,32,32.738
-"PB-Santa Rita",2020-07-08,"nowcast",24,42,29,36,33.5,33.739
-"PB-Santa Rita",2020-07-09,"nowcast",25,43,29,36,34,34.251
-"PB-Santa Rita",2020-07-10,"nowcast",25,43,30,37,35,34.923
-"PB-Santa Rita",2020-07-11,"nowcast",23,42,28,35,34,33.999
-"PB-Santa Rita",2020-07-12,"nowcast",24,42,28,35,33,33.604
-"PB-Santa Rita",2020-07-13,"nowcast",23,41,27,34,33,32.806
-"PB-Santa Rita",2020-07-14,"nowcast",23,42,28,35,33,32.982
-"PB-Santa Rita",2020-07-15,"nowcast",24,43,28,36,34,34.274
-"PB-Santa Rita",2020-07-16,"nowcast",25,45,30,38,36,36.479
-"PB-Santa Rita",2020-07-17,"nowcast",28,48,33,41,39,39.262
-"PB-Santa Rita",2020-07-18,"nowcast",30,51,36,44,42,41.98
-"PB-Santa Rita",2020-07-19,"nowcast",35,56,38,46,44,44.62
-"PB-Santa Rita",2020-07-20,"nowcast",35,56,41,49,46,46.383
-"PB-Santa Rita",2020-07-21,"nowcast",36,57,40,49,47,47.198
-"PB-Santa Rita",2020-07-22,"nowcast",35,58,40,49,47,47.416
-"PB-Santa Rita",2020-07-23,"nowcast",35,58,40,49,47,47.277
-"PB-Santa Rita",2020-07-24,"nowcast",33,55,41,49,46,45.873
-"PB-Santa Rita",2020-07-25,"nowcast",33,55,39,47,44,44.535
-"PB-Santa Rita",2020-07-26,"nowcast",31,51,37,45,42,41.815
-"PB-Santa Rita",2020-07-27,"nowcast",28,49,34,42,39,39.164
-"PB-Santa Rita",2020-07-28,"nowcast",28,47,30,38,37,37.142
-"PB-Santa Rita",2020-07-29,"nowcast",25,44,29,37,35,35.205
-"PB-Santa Rita",2020-07-30,"nowcast",23,43,28,36,34,34.646
-"PB-Santa Rita",2020-07-31,"nowcast",24,44,27,35,34,33.975
-"PB-Santa Rita",2020-08-01,"nowcast",23,44,27,35,33,33.522
-"PB-Santa Rita",2020-08-02,"nowcast",22,45,29,37,33,33.903
-"PB-Santa Rita",2020-08-03,"nowcast",20,44,26,35,33,33.35
-"PB-Santa Rita",2020-08-04,"nowcast",20,45,28,38,33,33.455
+"PB-Santa Rita",2020-04-06,"nowcast",0,4,1,2,2,2.224
+"PB-Santa Rita",2020-04-07,"nowcast",0,4,0,2,2,2.409
+"PB-Santa Rita",2020-04-08,"nowcast",0,5,0,2,2,2.628
+"PB-Santa Rita",2020-04-09,"nowcast",0,5,1,3,3,2.963
+"PB-Santa Rita",2020-04-10,"nowcast",0,6,1,3,3,3.207
+"PB-Santa Rita",2020-04-11,"nowcast",0,6,1,3,3,3.468
+"PB-Santa Rita",2020-04-12,"nowcast",1,7,2,4,4,3.794
+"PB-Santa Rita",2020-04-13,"nowcast",1,7,3,5,4,4.331
+"PB-Santa Rita",2020-04-14,"nowcast",1,8,3,5,5,4.703
+"PB-Santa Rita",2020-04-15,"nowcast",2,9,2,5,5,5.412
+"PB-Santa Rita",2020-04-16,"nowcast",2,10,3,6,6,6.086
+"PB-Santa Rita",2020-04-17,"nowcast",3,11,4,7,7,6.864
+"PB-Santa Rita",2020-04-18,"nowcast",3,12,5,8,8,7.72
+"PB-Santa Rita",2020-04-19,"nowcast",3,12,5,9,8,8.635
+"PB-Santa Rita",2020-04-20,"nowcast",4,13,5,9,9,9.247
+"PB-Santa Rita",2020-04-21,"nowcast",4,14,8,11,10,10.12
+"PB-Santa Rita",2020-04-22,"nowcast",5,15,9,12,11,10.737
+"PB-Santa Rita",2020-04-23,"nowcast",6,16,7,11,11,11.141
+"PB-Santa Rita",2020-04-24,"nowcast",6,16,8,12,11,11.608
+"PB-Santa Rita",2020-04-25,"nowcast",7,17,9,13,12,12.163
+"PB-Santa Rita",2020-04-26,"nowcast",6,17,9,13,12,12.379
+"PB-Santa Rita",2020-04-27,"nowcast",7,18,10,14,12,12.777
+"PB-Santa Rita",2020-04-28,"nowcast",7,18,10,14,13,13.094
+"PB-Santa Rita",2020-04-29,"nowcast",7,19,11,15,13,13.604
+"PB-Santa Rita",2020-04-30,"nowcast",8,19,11,15,14,14.245
+"PB-Santa Rita",2020-05-01,"nowcast",8,20,10,15,15,14.787
+"PB-Santa Rita",2020-05-02,"nowcast",8,21,11,16,15,15.243
+"PB-Santa Rita",2020-05-03,"nowcast",9,21,13,17,15,15.513
+"PB-Santa Rita",2020-05-04,"nowcast",8,21,13,17,16,15.77
+"PB-Santa Rita",2020-05-05,"nowcast",9,22,13,18,16,16.277
+"PB-Santa Rita",2020-05-06,"nowcast",10,23,12,17,17,16.762
+"PB-Santa Rita",2020-05-07,"nowcast",10,23,13,18,17,17.308
+"PB-Santa Rita",2020-05-08,"nowcast",10,23,13,18,17,17.553
+"PB-Santa Rita",2020-05-09,"nowcast",10,23,13,18,17,17.591
+"PB-Santa Rita",2020-05-10,"nowcast",11,24,14,19,18,18.013
+"PB-Santa Rita",2020-05-11,"nowcast",12,25,15,20,18,18.557
+"PB-Santa Rita",2020-05-12,"nowcast",11,25,16,21,19,18.993
+"PB-Santa Rita",2020-05-13,"nowcast",13,26,15,20,19,19.701
+"PB-Santa Rita",2020-05-14,"nowcast",14,28,17,22,21,20.849
+"PB-Santa Rita",2020-05-15,"nowcast",14,28,16,22,21,21.557
+"PB-Santa Rita",2020-05-16,"nowcast",15,29,18,24,23,22.614
+"PB-Santa Rita",2020-05-17,"nowcast",15,30,20,26,23,23.454
+"PB-Santa Rita",2020-05-18,"nowcast",16,31,20,26,24,24.08
+"PB-Santa Rita",2020-05-19,"nowcast",17,32,19,25,24,24.578
+"PB-Santa Rita",2020-05-20,"nowcast",16,31,20,26,25,24.878
+"PB-Santa Rita",2020-05-21,"nowcast",16,32,20,26,24,24.756
+"PB-Santa Rita",2020-05-22,"nowcast",16,32,20,26,25,24.798
+"PB-Santa Rita",2020-05-23,"nowcast",15,31,19,25,24,24.046
+"PB-Santa Rita",2020-05-24,"nowcast",14,30,19,25,23,23.493
+"PB-Santa Rita",2020-05-25,"nowcast",16,30,17,23,22,22.669
+"PB-Santa Rita",2020-05-26,"nowcast",14,29,18,24,22,22.46
+"PB-Santa Rita",2020-05-27,"nowcast",15,30,18,24,23,23.173
+"PB-Santa Rita",2020-05-28,"nowcast",16,31,18,24,23,23.592
+"PB-Santa Rita",2020-05-29,"nowcast",16,31,19,25,23,23.548
+"PB-Santa Rita",2020-05-30,"nowcast",16,31,19,25,24,23.628
+"PB-Santa Rita",2020-05-31,"nowcast",16,31,19,25,24,23.889
+"PB-Santa Rita",2020-06-01,"nowcast",17,31,18,24,24,23.576
+"PB-Santa Rita",2020-06-02,"nowcast",15,30,18,24,23,23.601
+"PB-Santa Rita",2020-06-03,"nowcast",14,30,19,25,24,23.893
+"PB-Santa Rita",2020-06-04,"nowcast",16,31,19,25,24,24.51
+"PB-Santa Rita",2020-06-05,"nowcast",16,32,20,26,25,24.918
+"PB-Santa Rita",2020-06-06,"nowcast",15,31,19,26,25,24.706
+"PB-Santa Rita",2020-06-07,"nowcast",17,32,20,26,24,24.576
+"PB-Santa Rita",2020-06-08,"nowcast",15,31,19,25,24,23.948
+"PB-Santa Rita",2020-06-09,"nowcast",16,31,19,25,24,23.814
+"PB-Santa Rita",2020-06-10,"nowcast",15,30,19,25,24,23.707
+"PB-Santa Rita",2020-06-11,"nowcast",15,30,18,24,23,23.055
+"PB-Santa Rita",2020-06-12,"nowcast",14,29,18,24,22,22.522
+"PB-Santa Rita",2020-06-13,"nowcast",13,28,17,23,22,21.83
+"PB-Santa Rita",2020-06-14,"nowcast",12,27,16,22,21,20.794
+"PB-Santa Rita",2020-06-15,"nowcast",12,26,17,22,20,19.951
+"PB-Santa Rita",2020-06-16,"nowcast",12,25,15,20,19,19.043
+"PB-Santa Rita",2020-06-17,"nowcast",11,24,16,21,19,18.933
+"PB-Santa Rita",2020-06-18,"nowcast",10,24,15,20,18,18.455
+"PB-Santa Rita",2020-06-19,"nowcast",10,23,14,19,18,17.82
+"PB-Santa Rita",2020-06-20,"nowcast",11,24,14,19,18,17.754
+"PB-Santa Rita",2020-06-21,"nowcast",10,24,15,20,18,18.198
+"PB-Santa Rita",2020-06-22,"nowcast",10,24,16,21,18,18.631
+"PB-Santa Rita",2020-06-23,"nowcast",12,26,14,20,19,19.378
+"PB-Santa Rita",2020-06-24,"nowcast",12,26,15,21,20,19.863
+"PB-Santa Rita",2020-06-25,"nowcast",13,27,15,21,20,20.566
+"PB-Santa Rita",2020-06-26,"nowcast",13,28,17,23,21,21.36
+"PB-Santa Rita",2020-06-27,"nowcast",13,29,18,24,22,22.127
+"PB-Santa Rita",2020-06-28,"nowcast",14,30,18,24,23,23.398
+"PB-Santa Rita",2020-06-29,"nowcast",16,32,20,26,25,24.938
+"PB-Santa Rita",2020-06-30,"nowcast",19,35,22,28,26,26.332
+"PB-Santa Rita",2020-07-01,"nowcast",18,35,21,28,28,27.637
+"PB-Santa Rita",2020-07-02,"nowcast",20,37,23,30,29,28.955
+"PB-Santa Rita",2020-07-03,"nowcast",22,38,23,30,29,29.617
+"PB-Santa Rita",2020-07-04,"nowcast",22,39,27,33,31,31.019
+"PB-Santa Rita",2020-07-05,"nowcast",23,40,26,33,31,31.439
+"PB-Santa Rita",2020-07-06,"nowcast",23,40,27,34,32,32.123
+"PB-Santa Rita",2020-07-07,"nowcast",23,41,27,34,33,33.038
+"PB-Santa Rita",2020-07-08,"nowcast",23,41,29,36,34,33.618
+"PB-Santa Rita",2020-07-09,"nowcast",24,42,29,36,34,34.11
+"PB-Santa Rita",2020-07-10,"nowcast",24,42,27,35,34,34.64
+"PB-Santa Rita",2020-07-11,"nowcast",24,42,28,35,34,34.19
+"PB-Santa Rita",2020-07-12,"nowcast",24,42,29,36,33,33.385
+"PB-Santa Rita",2020-07-13,"nowcast",23,41,29,36,33,32.792
+"PB-Santa Rita",2020-07-14,"nowcast",23,42,30,37,33,33.228
+"PB-Santa Rita",2020-07-15,"nowcast",23,43,30,37,34,34.062
+"PB-Santa Rita",2020-07-16,"nowcast",26,45,31,39,37,36.732
+"PB-Santa Rita",2020-07-17,"nowcast",28,48,32,40,39,39.121
+"PB-Santa Rita",2020-07-18,"nowcast",33,53,36,44,42,42.012
+"PB-Santa Rita",2020-07-19,"nowcast",34,55,38,46,44,44.304
+"PB-Santa Rita",2020-07-20,"nowcast",35,56,38,47,45.5,45.719
+"PB-Santa Rita",2020-07-21,"nowcast",37,58,40,49,47,47.198
+"PB-Santa Rita",2020-07-22,"nowcast",38,60,40,49,48,47.939
+"PB-Santa Rita",2020-07-23,"nowcast",35,57,41,50,47,47.559
+"PB-Santa Rita",2020-07-24,"nowcast",34,56,42,50,46,46.307
+"PB-Santa Rita",2020-07-25,"nowcast",34,55,42,50,45,44.579
+"PB-Santa Rita",2020-07-26,"nowcast",30,51,36,44,42,41.857
+"PB-Santa Rita",2020-07-27,"nowcast",27,48,33,41,39,39.225
+"PB-Santa Rita",2020-07-28,"nowcast",25,45,31,39,37,36.968
+"PB-Santa Rita",2020-07-29,"nowcast",26,45,29,37,35,35.457
+"PB-Santa Rita",2020-07-30,"nowcast",22,42,28,36,34,34.362
+"PB-Santa Rita",2020-07-31,"nowcast",23,43,29,37,34,34.12
+"PB-Santa Rita",2020-08-01,"nowcast",22,43,28,36,34,33.85
+"PB-Santa Rita",2020-08-02,"nowcast",22,44,25,34,33,33.335
+"PB-Santa Rita",2020-08-03,"nowcast",20,45,25,35,33,33.76
+"PB-Santa Rita",2020-08-04,"nowcast",18,45,24,35,33,33.363
 "PB-Santa Rita",2020-04-07,"observed",NA,NA,NA,NA,2,NA
 "PB-Santa Rita",2020-04-08,"observed",NA,NA,NA,NA,2,NA
 "PB-Santa Rita",2020-04-09,"observed",NA,NA,NA,NA,1,NA
@@ -7416,164 +7427,167 @@
 "PB-Santa Rita",2020-08-13,"observed",NA,NA,NA,NA,7,NA
 "PB-Santa Rita",2020-08-14,"observed",NA,NA,NA,NA,4,NA
 "PB-Santa Rita",2020-08-15,"observed",NA,NA,NA,NA,0,NA
-"PB-Santa Rita",2020-08-05,"forecast",14,47,22,35,32,32.5018
-"PB-Santa Rita",2020-08-06,"forecast",13,49,20,34,31,32.004
-"PB-Santa Rita",2020-08-07,"forecast",10,49,18,33,30,31.6382
-"PB-Santa Rita",2020-08-08,"forecast",8,51,18,34,29,31.4176
-"PB-Santa Rita",2020-08-09,"forecast",7,51,15,32,29,31.194
-"PB-Santa Rita",2020-08-10,"forecast",6,53,13,31,28,31.023
-"PB-Santa Rita",2020-08-11,"forecast",5,54,14,32,27,30.3316
-"PB-Santa Rita",2020-08-12,"forecast",4,55,10,29,26,30.238
-"PB-Santa Rita",2020-08-13,"forecast",0,53,10,29,25,29.3412
-"PB-Santa Rita",2020-08-14,"forecast",0,54,10,29,24,29.0022
-"PB-Santa Rita",2020-08-15,"forecast",0,55,6,26,24,29.0842
-"PB-Santa Rita",2020-08-16,"forecast",0,56,5,25,23,28.6942
-"PB-Santa Rita",2020-08-17,"forecast",0,55,4,24,22,28.2524
-"PB-Santa Rita",2020-08-18,"forecast",0,57,5,24,21,28.4728
-"PB-São Bento",2020-03-14,"nowcast",1,1,1,1,1,1
-"PB-São Bento",2020-03-15,"nowcast",0,0,0,0,0,0
-"PB-São Bento",2020-03-16,"nowcast",0,1,0,0,0,0.333333333333333
-"PB-São Bento",2020-03-17,"nowcast",0,1,0,0,0,0.25
-"PB-São Bento",2020-03-18,"nowcast",0,1,0,0,0,0.333333333333333
-"PB-São Bento",2020-03-19,"nowcast",0,1,0,0,0,0.25
-"PB-São Bento",2020-03-20,"nowcast",0,1,0,0,0,0.3
-"PB-São Bento",2020-03-21,"nowcast",0,1,0,0,0,0.533333333333333
-"PB-São Bento",2020-03-22,"nowcast",0,1,0,0,0,0.235294117647059
-"PB-São Bento",2020-03-23,"nowcast",0,1,0,0,0,0.227272727272727
-"PB-São Bento",2020-03-24,"nowcast",0,1,0,0,0,0.285714285714286
-"PB-São Bento",2020-03-25,"nowcast",0,1,0,0,0,0.27027027027027
-"PB-São Bento",2020-03-26,"nowcast",0,1,0,0,0,0.214285714285714
-"PB-São Bento",2020-03-27,"nowcast",0,1,0,0,0,0.244897959183673
-"PB-São Bento",2020-03-28,"nowcast",0,1,0,0,0,0.23728813559322
-"PB-São Bento",2020-03-29,"nowcast",0,1,0,0,0,0.253333333333333
-"PB-São Bento",2020-03-30,"nowcast",0,1,0,0,0,0.255555555555556
-"PB-São Bento",2020-03-31,"nowcast",0,1,0,0,0,0.310924369747899
-"PB-São Bento",2020-04-01,"nowcast",0,1,0,0,0,0.210144927536232
-"PB-São Bento",2020-04-02,"nowcast",0,1,0,0,0,0.325842696629214
-"PB-São Bento",2020-04-03,"nowcast",0,1,0,0,0,0.304545454545455
-"PB-São Bento",2020-04-04,"nowcast",0,1,0,0,0,0.261538461538462
-"PB-São Bento",2020-04-05,"nowcast",0,1,0,0,0,0.325077399380805
-"PB-São Bento",2020-04-06,"nowcast",0,1,0,0,0,0.292307692307692
-"PB-São Bento",2020-04-07,"nowcast",0,1,0,0,0,0.291938997821351
-"PB-São Bento",2020-04-08,"nowcast",0,1,0,0,0,0.282771535580524
-"PB-São Bento",2020-04-09,"nowcast",0,1,0,0,0,0.274247491638796
-"PB-São Bento",2020-04-10,"nowcast",0,1,0,0,0,0.287650602409639
-"PB-São Bento",2020-04-11,"nowcast",0,1,0,0,0,0.254874651810585
-"PB-São Bento",2020-04-12,"nowcast",0,1,0,0,0,0.291348600508906
-"PB-São Bento",2020-04-13,"nowcast",0,1,0,0,0,0.266178266178266
-"PB-São Bento",2020-04-14,"nowcast",0,1,0,0,0,0.270175438596491
-"PB-São Bento",2020-04-15,"nowcast",0,1,0,0,0,0.27313769751693
-"PB-São Bento",2020-04-16,"nowcast",0,1,0,0,0,0.322295805739514
-"PB-São Bento",2020-04-17,"nowcast",0,1,0,0,0,0.37152034261242
-"PB-São Bento",2020-04-18,"nowcast",0,1,0,0,0,0.417972831765935
-"PB-São Bento",2020-04-19,"nowcast",0,1,0,0,0,0.44
-"PB-São Bento",2020-04-20,"nowcast",0,1,0,0,0,0.456211812627291
-"PB-São Bento",2020-04-21,"nowcast",0,1,0,0,0,0.502532928064843
-"PB-São Bento",2020-04-22,"nowcast",0,1,0,0,0,0.443661971830986
-"PB-São Bento",2020-04-23,"nowcast",0,1,0,0,0,0.456281407035176
-"PB-São Bento",2020-04-24,"nowcast",0,1,0,0,0,0.511044176706827
-"PB-São Bento",2020-04-25,"nowcast",0,1,0,0,0,0.522567703109328
-"PB-São Bento",2020-04-26,"nowcast",0,2,0,0,0,0.602808425275827
-"PB-São Bento",2020-04-27,"nowcast",0,2,0,0,0,0.650650650650651
-"PB-São Bento",2020-04-28,"nowcast",0,2,0,1,1,0.772772772772773
-"PB-São Bento",2020-04-29,"nowcast",0,2,0,1,1,0.933
-"PB-São Bento",2020-04-30,"nowcast",0,2,0,1,1,1.031
-"PB-São Bento",2020-05-01,"nowcast",0,3,0,1,1,1.242
-"PB-São Bento",2020-05-02,"nowcast",0,3,0,1,1,1.473
-"PB-São Bento",2020-05-03,"nowcast",0,3,0,1,1,1.664
-"PB-São Bento",2020-05-04,"nowcast",0,4,1,2,2,2.001
-"PB-São Bento",2020-05-05,"nowcast",0,4,0,2,2,2.318
-"PB-São Bento",2020-05-06,"nowcast",0,5,1,3,3,2.709
-"PB-São Bento",2020-05-07,"nowcast",1,6,1,3,3,3.102
-"PB-São Bento",2020-05-08,"nowcast",0,6,2,4,4,3.706
-"PB-São Bento",2020-05-09,"nowcast",1,7,2,4,4,4.184
-"PB-São Bento",2020-05-10,"nowcast",1,8,3,5,5,4.824
-"PB-São Bento",2020-05-11,"nowcast",2,9,3,6,5,5.559
-"PB-São Bento",2020-05-12,"nowcast",2,10,4,7,6,6.436
-"PB-São Bento",2020-05-13,"nowcast",2,11,4,7,7,7.18
-"PB-São Bento",2020-05-14,"nowcast",3,12,5,8,8,7.981
-"PB-São Bento",2020-05-15,"nowcast",4,13,6,9,9,8.878
-"PB-São Bento",2020-05-16,"nowcast",5,14,6,10,9,9.51
-"PB-São Bento",2020-05-17,"nowcast",5,15,7,11,10,10.333
-"PB-São Bento",2020-05-18,"nowcast",6,16,7,11,11,10.83
-"PB-São Bento",2020-05-19,"nowcast",6,17,8,12,12,11.689
-"PB-São Bento",2020-05-20,"nowcast",7,18,9,13,12,12.343
-"PB-São Bento",2020-05-21,"nowcast",7,18,11,15,13,12.911
-"PB-São Bento",2020-05-22,"nowcast",8,19,9,14,14,13.636
-"PB-São Bento",2020-05-23,"nowcast",9,20,12,16,14,14.505
-"PB-São Bento",2020-05-24,"nowcast",9,21,11,16,15,15.185
-"PB-São Bento",2020-05-25,"nowcast",9,22,12,17,16,15.954
-"PB-São Bento",2020-05-26,"nowcast",10,23,12,17,17,16.815
-"PB-São Bento",2020-05-27,"nowcast",11,24,14,19,17,17.67
-"PB-São Bento",2020-05-28,"nowcast",11,25,15,20,18,18.652
-"PB-São Bento",2020-05-29,"nowcast",12,26,14,20,19,19.337
-"PB-São Bento",2020-05-30,"nowcast",12,26,16,21,20,19.908
-"PB-São Bento",2020-05-31,"nowcast",13,27,17,22,20,20.08
-"PB-São Bento",2020-06-01,"nowcast",11,25,16,21,19,19.46
-"PB-São Bento",2020-06-02,"nowcast",12,26,16,21,19,19.459
-"PB-São Bento",2020-06-03,"nowcast",11,25,15,20,18,18.227
-"PB-São Bento",2020-06-04,"nowcast",10,22,12,17,16,16.611
-"PB-São Bento",2020-06-05,"nowcast",9,21,11,16,15,15.303
-"PB-São Bento",2020-06-06,"nowcast",7,19,12,16,14,14.236
-"PB-São Bento",2020-06-07,"nowcast",7,18,10,14,13,13.199
-"PB-São Bento",2020-06-08,"nowcast",6,17,9,13,13,12.666
-"PB-São Bento",2020-06-09,"nowcast",6,17,9,13,12,12.399
-"PB-São Bento",2020-06-10,"nowcast",6,17,9,13,12,12.162
-"PB-São Bento",2020-06-11,"nowcast",7,17,9,13,12,12.353
-"PB-São Bento",2020-06-12,"nowcast",7,17,9,13,12,12.073
-"PB-São Bento",2020-06-13,"nowcast",5,16,8,12,11,11.387
-"PB-São Bento",2020-06-14,"nowcast",5,15,7,11,11,10.782
-"PB-São Bento",2020-06-15,"nowcast",5,15,7,11,10,10.375
-"PB-São Bento",2020-06-16,"nowcast",5,15,6,10,10,10.199
-"PB-São Bento",2020-06-17,"nowcast",4,14,7,11,10,10.143
-"PB-São Bento",2020-06-18,"nowcast",5,15,7,11,10,10.403
-"PB-São Bento",2020-06-19,"nowcast",5,15,7,11,10,10.5
-"PB-São Bento",2020-06-20,"nowcast",5,15,7,11,11,10.784
-"PB-São Bento",2020-06-21,"nowcast",6,16,7,11,11,10.903
-"PB-São Bento",2020-06-22,"nowcast",6,16,7,11,11,11.099
-"PB-São Bento",2020-06-23,"nowcast",5,16,8,12,11,11.256
-"PB-São Bento",2020-06-24,"nowcast",6,17,8,12,12,11.854
-"PB-São Bento",2020-06-25,"nowcast",6,17,10,14,12,12.6
-"PB-São Bento",2020-06-26,"nowcast",7,19,9,14,13,13.584
-"PB-São Bento",2020-06-27,"nowcast",7,20,12,16,14,14.493
-"PB-São Bento",2020-06-28,"nowcast",9,22,11,16,15,15.578
-"PB-São Bento",2020-06-29,"nowcast",9,23,13,18,17,16.779
-"PB-São Bento",2020-06-30,"nowcast",11,24,14,19,18,18.075
-"PB-São Bento",2020-07-01,"nowcast",12,26,14,20,19,19.478
-"PB-São Bento",2020-07-02,"nowcast",14,28,16,22,21,20.97
-"PB-São Bento",2020-07-03,"nowcast",15,30,18,24,22,22.482
-"PB-São Bento",2020-07-04,"nowcast",16,31,20,26,24,23.678
-"PB-São Bento",2020-07-05,"nowcast",16,32,18,25,24,24.574
-"PB-São Bento",2020-07-06,"nowcast",16,33,20,27,26,25.731
-"PB-São Bento",2020-07-07,"nowcast",17,34,24,30,28,27.581
-"PB-São Bento",2020-07-08,"nowcast",19,37,23,30,29,29.227
-"PB-São Bento",2020-07-09,"nowcast",21,38,25,32,31,30.563
-"PB-São Bento",2020-07-10,"nowcast",22,40,27,34,32,32.036
-"PB-São Bento",2020-07-11,"nowcast",22,40,27,34,32,32.399
-"PB-São Bento",2020-07-12,"nowcast",23,41,28,35,33,32.861
-"PB-São Bento",2020-07-13,"nowcast",22,41,28,35,33,33.315
-"PB-São Bento",2020-07-14,"nowcast",24,43,27,35,34,34.107
-"PB-São Bento",2020-07-15,"nowcast",25,43,33,40,35,35.479
-"PB-São Bento",2020-07-16,"nowcast",27,45,32,39,36,36.164
-"PB-São Bento",2020-07-17,"nowcast",25,44,29,37,36,35.677
-"PB-São Bento",2020-07-18,"nowcast",24,43,28,36,34,34.464
-"PB-São Bento",2020-07-19,"nowcast",24,41,26,33,32,32.171
-"PB-São Bento",2020-07-20,"nowcast",21,38,25,32,30,30.171
-"PB-São Bento",2020-07-21,"nowcast",20,37,23,30,29,28.806
-"PB-São Bento",2020-07-22,"nowcast",19,35,22,29,28,28.037
-"PB-São Bento",2020-07-23,"nowcast",21,37,22,29,29,28.578
-"PB-São Bento",2020-07-24,"nowcast",18,35,22,29,28,28.227
-"PB-São Bento",2020-07-25,"nowcast",19,35,24,30,27,27.246
-"PB-São Bento",2020-07-26,"nowcast",16,32,21,27,25,25.559
-"PB-São Bento",2020-07-27,"nowcast",16,32,20,26,24.5,24.643
-"PB-São Bento",2020-07-28,"nowcast",15,30,18,24,23,23.336
-"PB-São Bento",2020-07-29,"nowcast",16,31,18,24,22,22.715
-"PB-São Bento",2020-07-30,"nowcast",13,29,18,24,22,22.635
-"PB-São Bento",2020-07-31,"nowcast",15,30,18,24,22,22.577
-"PB-São Bento",2020-08-01,"nowcast",14,29,18,24,23,22.465
-"PB-São Bento",2020-08-02,"nowcast",13,29,17,23,22,21.841
-"PB-São Bento",2020-08-03,"nowcast",13,30,17,23,21,21.903
-"PB-São Bento",2020-08-04,"nowcast",13,31,16,23,22,22.776
+"PB-Santa Rita",2020-08-16,"observed",NA,NA,NA,NA,0,NA
+"PB-Santa Rita",2020-08-05,"forecast",15,48,22,35,31,32.6064
+"PB-Santa Rita",2020-08-06,"forecast",13,50,20,34,31,32.1844
+"PB-Santa Rita",2020-08-07,"forecast",12,51,22,37,30,31.5842
+"PB-Santa Rita",2020-08-08,"forecast",8,51,15,32,29,31.3618
+"PB-Santa Rita",2020-08-09,"forecast",7,52,14,31,28,30.9474
+"PB-Santa Rita",2020-08-10,"forecast",7,54,12,30,27,30.4976
+"PB-Santa Rita",2020-08-11,"forecast",4,54,13,31,27,30.3566
+"PB-Santa Rita",2020-08-12,"forecast",4,56,9,28,26,30.3568
+"PB-Santa Rita",2020-08-13,"forecast",0,54,9,28,25,29.9248
+"PB-Santa Rita",2020-08-14,"forecast",0,56,6,26,24,30.0208
+"PB-Santa Rita",2020-08-15,"forecast",0,56,8,27,23,29.2662
+"PB-Santa Rita",2020-08-16,"forecast",0,55,4,24,23,29.179
+"PB-Santa Rita",2020-08-17,"forecast",0,57,4,24,22,29.0454
+"PB-Santa Rita",2020-08-18,"forecast",0,58,3,23,21,29.0642
+"PB-São Bento",2020-03-12,"nowcast",1,1,1,1,1,1
+"PB-São Bento",2020-03-13,"nowcast",0,0,0,0,0,0
+"PB-São Bento",2020-03-14,"nowcast",0,1,0,1,0.5,0.5
+"PB-São Bento",2020-03-15,"nowcast",0,1,1,1,1,0.6
+"PB-São Bento",2020-03-16,"nowcast",0,1,0,0,0,0.375
+"PB-São Bento",2020-03-17,"nowcast",0,1,0,0,0,0.3
+"PB-São Bento",2020-03-18,"nowcast",0,1,0,0,0,0.166666666666667
+"PB-São Bento",2020-03-19,"nowcast",0,1,0,0,0,0.230769230769231
+"PB-São Bento",2020-03-20,"nowcast",0,1,0,0,0,0.2
+"PB-São Bento",2020-03-21,"nowcast",0,1,0,0,0,0.285714285714286
+"PB-São Bento",2020-03-22,"nowcast",0,1,0,0,0,0.166666666666667
+"PB-São Bento",2020-03-23,"nowcast",0,1,0,0,0,0.192307692307692
+"PB-São Bento",2020-03-24,"nowcast",0,1,0,0,0,0.178571428571429
+"PB-São Bento",2020-03-25,"nowcast",0,1,0,0,0,0.181818181818182
+"PB-São Bento",2020-03-26,"nowcast",0,1,0,0,0,0.225
+"PB-São Bento",2020-03-27,"nowcast",0,1,0,0,0,0.136363636363636
+"PB-São Bento",2020-03-28,"nowcast",0,1,0,0,0,0.267857142857143
+"PB-São Bento",2020-03-29,"nowcast",0,1,0,0,0,0.231884057971014
+"PB-São Bento",2020-03-30,"nowcast",0,1,0,0,0,0.329787234042553
+"PB-São Bento",2020-03-31,"nowcast",0,1,0,0,0,0.247863247863248
+"PB-São Bento",2020-04-01,"nowcast",0,1,0,0,0,0.275167785234899
+"PB-São Bento",2020-04-02,"nowcast",0,1,0,0,0,0.295698924731183
+"PB-São Bento",2020-04-03,"nowcast",0,1,0,0,0,0.225806451612903
+"PB-São Bento",2020-04-04,"nowcast",0,1,0,0,0,0.287878787878788
+"PB-São Bento",2020-04-05,"nowcast",0,1,0,0,0,0.301829268292683
+"PB-São Bento",2020-04-06,"nowcast",0,1,0,0,0,0.249343832020997
+"PB-São Bento",2020-04-07,"nowcast",0,1,0,0,0,0.280821917808219
+"PB-São Bento",2020-04-08,"nowcast",0,1,0,0,0,0.244618395303327
+"PB-São Bento",2020-04-09,"nowcast",0,1,0,0,0,0.272413793103448
+"PB-São Bento",2020-04-10,"nowcast",0,1,0,0,0,0.26
+"PB-São Bento",2020-04-11,"nowcast",0,1,0,0,0,0.302904564315353
+"PB-São Bento",2020-04-12,"nowcast",0,1,0,0,0,0.267441860465116
+"PB-São Bento",2020-04-13,"nowcast",0,1,0,0,0,0.283600493218249
+"PB-São Bento",2020-04-14,"nowcast",0,1,0,0,0,0.27497062279671
+"PB-São Bento",2020-04-15,"nowcast",0,1,0,0,0,0.289293849658314
+"PB-São Bento",2020-04-16,"nowcast",0,1,0,0,0,0.302762430939227
+"PB-São Bento",2020-04-17,"nowcast",0,1,0,0,0,0.401929260450161
+"PB-São Bento",2020-04-18,"nowcast",0,1,0,0,0,0.406743940990516
+"PB-São Bento",2020-04-19,"nowcast",0,1,0,0,0,0.411157024793388
+"PB-São Bento",2020-04-20,"nowcast",0,1,0,0,0,0.450761421319797
+"PB-São Bento",2020-04-21,"nowcast",0,1,0,0,0,0.464646464646465
+"PB-São Bento",2020-04-22,"nowcast",0,1,0,0,0,0.485943775100402
+"PB-São Bento",2020-04-23,"nowcast",0,1,0,0,0,0.461923847695391
+"PB-São Bento",2020-04-24,"nowcast",0,1,0,0,0,0.513513513513513
+"PB-São Bento",2020-04-25,"nowcast",0,1,0,0,0,0.526526526526527
+"PB-São Bento",2020-04-26,"nowcast",0,2,0,0,0,0.556556556556557
+"PB-São Bento",2020-04-27,"nowcast",0,2,0,0,0,0.683683683683684
+"PB-São Bento",2020-04-28,"nowcast",0,2,0,1,1,0.798
+"PB-São Bento",2020-04-29,"nowcast",0,2,0,1,1,0.848
+"PB-São Bento",2020-04-30,"nowcast",0,3,0,1,1,1.106
+"PB-São Bento",2020-05-01,"nowcast",0,3,0,1,1,1.269
+"PB-São Bento",2020-05-02,"nowcast",0,3,0,1,1,1.469
+"PB-São Bento",2020-05-03,"nowcast",0,4,1,2,2,1.699
+"PB-São Bento",2020-05-04,"nowcast",0,4,1,2,2,1.938
+"PB-São Bento",2020-05-05,"nowcast",0,4,1,2,2,2.293
+"PB-São Bento",2020-05-06,"nowcast",0,5,1,3,3,2.786
+"PB-São Bento",2020-05-07,"nowcast",0,6,1,3,3,3.276
+"PB-São Bento",2020-05-08,"nowcast",0,6,2,4,3,3.645
+"PB-São Bento",2020-05-09,"nowcast",1,7,1,4,4,4.242
+"PB-São Bento",2020-05-10,"nowcast",1,8,2,5,5,4.837
+"PB-São Bento",2020-05-11,"nowcast",2,9,3,6,5,5.539
+"PB-São Bento",2020-05-12,"nowcast",2,10,4,7,6,6.364
+"PB-São Bento",2020-05-13,"nowcast",3,11,4,7,7,7.156
+"PB-São Bento",2020-05-14,"nowcast",4,12,5,8,8,7.806
+"PB-São Bento",2020-05-15,"nowcast",4,13,7,10,9,8.749
+"PB-São Bento",2020-05-16,"nowcast",4,14,6,10,9,9.6
+"PB-São Bento",2020-05-17,"nowcast",4,14,6,10,10,9.87
+"PB-São Bento",2020-05-18,"nowcast",6,16,7,11,11,10.952
+"PB-São Bento",2020-05-19,"nowcast",7,17,8,12,11,11.606
+"PB-São Bento",2020-05-20,"nowcast",6,17,9,13,12,12.24
+"PB-São Bento",2020-05-21,"nowcast",7,18,10,14,13,13.031
+"PB-São Bento",2020-05-22,"nowcast",8,19,11,15,14,13.701
+"PB-São Bento",2020-05-23,"nowcast",8,20,12,16,15,14.547
+"PB-São Bento",2020-05-24,"nowcast",8,20,11,16,15,15.183
+"PB-São Bento",2020-05-25,"nowcast",10,22,12,17,16,15.989
+"PB-São Bento",2020-05-26,"nowcast",9,22,13,18,17,16.882
+"PB-São Bento",2020-05-27,"nowcast",11,24,14,19,18,18.017
+"PB-São Bento",2020-05-28,"nowcast",12,25,15,20,18,18.583
+"PB-São Bento",2020-05-29,"nowcast",13,26,15,20,19,19.385
+"PB-São Bento",2020-05-30,"nowcast",12,26,17,22,20,20.124
+"PB-São Bento",2020-05-31,"nowcast",12,26,14,20,20,19.871
+"PB-São Bento",2020-06-01,"nowcast",12,26,17,22,19,19.897
+"PB-São Bento",2020-06-02,"nowcast",13,26,16,21,19,19.094
+"PB-São Bento",2020-06-03,"nowcast",11,24,15,20,18,18.022
+"PB-São Bento",2020-06-04,"nowcast",10,23,12,17,16,16.587
+"PB-São Bento",2020-06-05,"nowcast",10,21,11,16,15,15.553
+"PB-São Bento",2020-06-06,"nowcast",7,19,12,16,14,14.023
+"PB-São Bento",2020-06-07,"nowcast",7,18,10,14,13,13.312
+"PB-São Bento",2020-06-08,"nowcast",6,17,9,13,12,12.504
+"PB-São Bento",2020-06-09,"nowcast",7,17,9,13,12,12.362
+"PB-São Bento",2020-06-10,"nowcast",6,17,9,13,12,12.189
+"PB-São Bento",2020-06-11,"nowcast",6,17,9,13,12,12.164
+"PB-São Bento",2020-06-12,"nowcast",6,17,8,12,12,12.016
+"PB-São Bento",2020-06-13,"nowcast",6,16,8,12,12,11.752
+"PB-São Bento",2020-06-14,"nowcast",6,15,7,11,11,10.884
+"PB-São Bento",2020-06-15,"nowcast",5,15,7,11,10,10.332
+"PB-São Bento",2020-06-16,"nowcast",4,14,6,10,10,10.166
+"PB-São Bento",2020-06-17,"nowcast",6,15,6,10,10,10.192
+"PB-São Bento",2020-06-18,"nowcast",5,15,7,11,10,10.454
+"PB-São Bento",2020-06-19,"nowcast",5,15,7,11,11,10.671
+"PB-São Bento",2020-06-20,"nowcast",5,15,7,11,10,10.653
+"PB-São Bento",2020-06-21,"nowcast",6,16,7,11,11,10.91
+"PB-São Bento",2020-06-22,"nowcast",5,15,7,11,11,10.816
+"PB-São Bento",2020-06-23,"nowcast",5,16,8,12,11,11.299
+"PB-São Bento",2020-06-24,"nowcast",6,17,8,12,11,11.785
+"PB-São Bento",2020-06-25,"nowcast",6,17,10,14,12,12.397
+"PB-São Bento",2020-06-26,"nowcast",6,18,11,15,13,13.271
+"PB-São Bento",2020-06-27,"nowcast",8,20,10,15,14,14.445
+"PB-São Bento",2020-06-28,"nowcast",8,21,11,16,15,15.44
+"PB-São Bento",2020-06-29,"nowcast",9,23,13,18,17,16.941
+"PB-São Bento",2020-06-30,"nowcast",11,24,15,20,18,17.956
+"PB-São Bento",2020-07-01,"nowcast",12,26,14,20,19,19.549
+"PB-São Bento",2020-07-02,"nowcast",13,27,18,23,21,20.897
+"PB-São Bento",2020-07-03,"nowcast",15,30,17,23,22,22.201
+"PB-São Bento",2020-07-04,"nowcast",15,30,18,24,23,23.414
+"PB-São Bento",2020-07-05,"nowcast",16,32,20,26,24,24.595
+"PB-São Bento",2020-07-06,"nowcast",17,33,21,27,26,25.931
+"PB-São Bento",2020-07-07,"nowcast",17,34,21,28,27,27.201
+"PB-São Bento",2020-07-08,"nowcast",18,36,23,30,29,29.06
+"PB-São Bento",2020-07-09,"nowcast",20,38,26,33,31,30.468
+"PB-São Bento",2020-07-10,"nowcast",22,40,27,34,32,31.894
+"PB-São Bento",2020-07-11,"nowcast",23,40,28,35,32,32.269
+"PB-São Bento",2020-07-12,"nowcast",23,41,28,35,33,32.722
+"PB-São Bento",2020-07-13,"nowcast",23,41,27,35,33,33.294
+"PB-São Bento",2020-07-14,"nowcast",25,43,29,36,34,34.44
+"PB-São Bento",2020-07-15,"nowcast",27,44,30,37,35,35.205
+"PB-São Bento",2020-07-16,"nowcast",26,46,31,38,36,36.358
+"PB-São Bento",2020-07-17,"nowcast",26,45,29,37,35,35.974
+"PB-São Bento",2020-07-18,"nowcast",24,43,27,35,34,34.566
+"PB-São Bento",2020-07-19,"nowcast",22,40,26,33,32,32.117
+"PB-São Bento",2020-07-20,"nowcast",20,38,24,31,30,30.068
+"PB-São Bento",2020-07-21,"nowcast",19,36,24,31,29,29.121
+"PB-São Bento",2020-07-22,"nowcast",20,36,22,29,28,28.428
+"PB-São Bento",2020-07-23,"nowcast",20,36,25,31,28,28.647
+"PB-São Bento",2020-07-24,"nowcast",19,36,22,29,28,28.226
+"PB-São Bento",2020-07-25,"nowcast",19,35,21,28,27,27.142
+"PB-São Bento",2020-07-26,"nowcast",18,33,22,28,26,25.918
+"PB-São Bento",2020-07-27,"nowcast",16,31,19,25,24,24.337
+"PB-São Bento",2020-07-28,"nowcast",15,30,19,25,23,23.208
+"PB-São Bento",2020-07-29,"nowcast",14,29,18,24,23,22.908
+"PB-São Bento",2020-07-30,"nowcast",15,30,17,23,22,22.797
+"PB-São Bento",2020-07-31,"nowcast",15,30,18,24,23,22.727
+"PB-São Bento",2020-08-01,"nowcast",15,30,17,23,22,22.254
+"PB-São Bento",2020-08-02,"nowcast",15,30,17,23,22,21.903
+"PB-São Bento",2020-08-03,"nowcast",13,29,18,24,22,22.236
+"PB-São Bento",2020-08-04,"nowcast",12,30,17,24,22,22.614
 "PB-São Bento",2020-04-17,"observed",NA,NA,NA,NA,1,NA
 "PB-São Bento",2020-04-18,"observed",NA,NA,NA,NA,0,NA
 "PB-São Bento",2020-04-19,"observed",NA,NA,NA,NA,0,NA
@@ -7695,20 +7709,21 @@
 "PB-São Bento",2020-08-13,"observed",NA,NA,NA,NA,38,NA
 "PB-São Bento",2020-08-14,"observed",NA,NA,NA,NA,30,NA
 "PB-São Bento",2020-08-15,"observed",NA,NA,NA,NA,0,NA
-"PB-São Bento",2020-08-05,"forecast",9,32,14,23,21,21.739
-"PB-São Bento",2020-08-06,"forecast",9,34,12,22,21,21.6672
-"PB-São Bento",2020-08-07,"forecast",7,34,13,23,21,21.564
-"PB-São Bento",2020-08-08,"forecast",6,35,11,22,20,21.4884
-"PB-São Bento",2020-08-09,"forecast",4,35,9,21,19,21.0272
-"PB-São Bento",2020-08-10,"forecast",4,36,10,22,19,20.9492
-"PB-São Bento",2020-08-11,"forecast",2,36,10,22,19,20.891
-"PB-São Bento",2020-08-12,"forecast",3,38,7,20,18,20.8254
-"PB-São Bento",2020-08-13,"forecast",1,38,8,21,18,20.8452
-"PB-São Bento",2020-08-14,"forecast",0,37,7,20,17,20.4996
-"PB-São Bento",2020-08-15,"forecast",0,39,7,20,17,20.7406
-"PB-São Bento",2020-08-16,"forecast",0,39,3,17,16,20.5066
-"PB-São Bento",2020-08-17,"forecast",0,40,4,18,16,20.7604
-"PB-São Bento",2020-08-18,"forecast",0,40,2,16,16,20.7124
+"PB-São Bento",2020-08-16,"observed",NA,NA,NA,NA,0,NA
+"PB-São Bento",2020-08-05,"forecast",8,32,14,23,21,21.8456
+"PB-São Bento",2020-08-06,"forecast",7,33,12,22,21,21.828
+"PB-São Bento",2020-08-07,"forecast",7,34,13,23,20,21.6398
+"PB-São Bento",2020-08-08,"forecast",6,35,11,22,20,21.4414
+"PB-São Bento",2020-08-09,"forecast",4,35,9,21,20,21.2904
+"PB-São Bento",2020-08-10,"forecast",3,36,9,21,19,21.181
+"PB-São Bento",2020-08-11,"forecast",4,37,9,21,19,21.2036
+"PB-São Bento",2020-08-12,"forecast",2,37,7,20,18,21.0956
+"PB-São Bento",2020-08-13,"forecast",0,37,8,21,18,21.0596
+"PB-São Bento",2020-08-14,"forecast",0,39,4,18,18,21.4874
+"PB-São Bento",2020-08-15,"forecast",0,39,5,19,17,21.4306
+"PB-São Bento",2020-08-16,"forecast",0,39,4,18,17,21.3548
+"PB-São Bento",2020-08-17,"forecast",0,40,3,17,16,21.498
+"PB-São Bento",2020-08-18,"forecast",0,41,3,17,16,21.9496
 "PB-Sapé",2020-03-07,"nowcast",1,1,1,1,1,1
 "PB-Sapé",2020-03-08,"nowcast",0,1,0,1,0.5,0.5
 "PB-Sapé",2020-03-09,"nowcast",0,0,0,0,0,0
