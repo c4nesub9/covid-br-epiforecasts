@@ -10,6 +10,9 @@ if [ -z "$1" ]
     exit 1
 fi
 
+# Move latest results to "previous" dir
+./clean_latest_results.sh $RESULTS_DIR
+
 ## Update shared delay
 #Rscript update_delay.R
 
