@@ -29,6 +29,7 @@ future::plan("multiprocess", workers = round(future::availableCores()))
 # Fit the reporting delay -------------------------------------------------
 
 delay_defs <- EpiNow::get_dist_def(delays, 
-                                   bootstraps = 100, samples = 1000)
+                                   bootstraps = 100, samples = 100)
+#                                   bootstraps = 100, samples = 1000)
 
 saveRDS(delay_defs, "delays.rds")
