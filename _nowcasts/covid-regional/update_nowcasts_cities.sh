@@ -5,6 +5,9 @@ RESULTS_DIR="brazil/ne-cities"
 ## Update shared delay
 #Rscript update_delay.R
 
+# Move latest results to "previous" dir
+./clean_latest_results.sh $RESULTS_DIR
+
 ## Load shared delay from github
 Rscript load_delay.R
 
