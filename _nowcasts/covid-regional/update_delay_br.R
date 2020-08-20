@@ -48,7 +48,7 @@ linelist_br <- sg %>%
   collect() %>%
   mutate_at(vars(starts_with("data_")), as_date)
 
-write.csv(linelist_br, "linelist_br.csv", row.names = FALSE)
+write.csv(linelist_br, gzfile("linelist_br.csv.gz"), row.names = FALSE)
 
  # Get linelist ------------------------------------------------------------
 
