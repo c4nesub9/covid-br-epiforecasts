@@ -58,6 +58,7 @@ cases <- cases %>%
   tidyr::drop_na(region)
 
 n_regions <- length(unique(cases$region))
+print(paste("Number of cities:", n_regions))
 
 # Shared delay ------------------------------------------------------------
 
