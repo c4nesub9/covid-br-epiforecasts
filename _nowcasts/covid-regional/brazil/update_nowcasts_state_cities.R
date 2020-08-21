@@ -18,9 +18,10 @@ ncores <- ifelse(length(argv) >= 3, as.integer(argv[3]), future::availableCores(
 
 # Get cases ---------------------------------------------------------------
 
-min_total_cases <- 300
-min_forecast_cases <- 100 
-case_limit <- 20
+min_total_cases <- 100
+min_forecast_cases <- 50 
+case_limit <- 10
+max_regions <- 48
 
 NCoVUtils::reset_cache()
 cases <- NCoVUtils::get_brazil_regional_cases(geography = "municipalities") %>%
@@ -56,6 +57,11 @@ cases <- cases %>%
   dplyr::mutate(imported = 0) %>%
   tidyr::gather(key = "import_status", value = "confirm", local, imported) %>% 
   tidyr::drop_na(region)
+
+top_regions <- cases %>%
+  group_by(region) %>%
+  summarise(cases_last_week = max(cases_last_week)) %>%
+  slice_max(cases_last_week, n = 10)
 
 n_regions <- length(unique(cases$region))
 print(paste("Number of cities:", n_regions))
