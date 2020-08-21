@@ -46,7 +46,9 @@ linelist_br <- sg %>%
          data_teste,
          data_encerramento) %>%
   collect() %>%
-  mutate_at(vars(starts_with("data_")), as_date)
+  mutate_at(vars(starts_with("data_")), as_date) %>%
+  filter(between(data_inicio_sint, ymd("2020-03-01"), today()),
+	 between(data_encerramento, data_inicio_sint, today()))
 
 write.csv(linelist_br, gzfile("linelist_br.csv.gz"), row.names = FALSE)
 
