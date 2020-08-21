@@ -34,10 +34,10 @@ sg <- sg_tbl %>%
   left_join(regioes_tbl, by = c("regiao_id" = "id"),
             suffix = c("", "_regiao"))
 
+min_date <- ymd("2020-03-01")
+
 linelist_br <- sg %>%
-  filter(!is.na(classificacao_final),
-         classificacao_final != "Descartado",
-         classificacao_final != "Síndrome Gripal Não Especificada") %>%
+  filter(resultado_teste == "Positivo") %>%
   select(regiao = nome_regiao,
          estado = abrev,
          tipo_teste,
@@ -47,8 +47,9 @@ linelist_br <- sg %>%
          data_encerramento) %>%
   collect() %>%
   mutate_at(vars(starts_with("data_")), as_date) %>%
-  filter(between(data_inicio_sint, ymd("2020-03-01"), today()),
-	 between(data_encerramento, data_inicio_sint, today()))
+  filter(between(data_inicio_sint, min_date, today()),
+	 between(data_encerramento, min_date, today()),
+	 data_inicio_sint <= data_encerramento)
 
 write.csv(linelist_br, gzfile("linelist_br.csv.gz"), row.names = FALSE)
 

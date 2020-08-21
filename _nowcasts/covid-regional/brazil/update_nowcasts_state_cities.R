@@ -57,6 +57,7 @@ cases <- cases %>%
   tidyr::gather(key = "import_status", value = "confirm", local, imported) %>% 
   tidyr::drop_na(region)
 
+n_regions <- length(unique(cases$region))
 
 # Shared delay ------------------------------------------------------------
 
@@ -67,7 +68,14 @@ if (!interactive()){
   options(future.fork.enable = TRUE)
 }
 
-future::plan("multiprocess", workers = ncores)
+define_n_workers <- function(n_regions, n_cores) {
+  rounds <- ceiling(n_regions / n_cores)
+  n_workers <- ceiling(n_regions / rounds)
+  return(n_workers)
+}
+
+n_workers = define_n_workers(n_regions, ncores)
+future::plan("multiprocess", workers = n_workers)
 
 #for (state_code in state_codes) {
 #  cases_state <- filter(cases, region_code == state_code)
