@@ -48,8 +48,8 @@ linelist_br <- sg %>%
   collect() %>%
   mutate_at(vars(starts_with("data_")), as_date) %>%
   filter(between(data_inicio_sint, min_date, today()),
-	 between(data_encerramento, min_date, today()),
-	 data_inicio_sint <= data_encerramento)
+	 between(data_notificacao, min_date, today()),
+	 data_inicio_sint <= data_notificacao)
 
 write.csv(linelist_br, gzfile("linelist_br.csv.gz"), row.names = FALSE)
 
@@ -59,8 +59,8 @@ write.csv(linelist_br, gzfile("linelist_br.csv.gz"), row.names = FALSE)
 #  data.table::fread("https://raw.githubusercontent.com/epiforecasts/NCoVUtils/master/data-raw/linelist.csv")
 
 delays <- linelist_br %>%
-  filter(!is.na(data_encerramento)) %>%
-  transmute(report_delay = as.numeric(data_encerramento - data_inicio_sint)) %>%
+  filter(!is.na(data_notificacao)) %>%
+  transmute(report_delay = as.numeric(data_notificacao - data_inicio_sint)) %>%
   pull(report_delay)
 
 summary(delays)
