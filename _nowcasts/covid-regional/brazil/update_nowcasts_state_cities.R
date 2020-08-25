@@ -18,8 +18,8 @@ ncores <- ifelse(length(argv) >= 3, as.integer(argv[3]), future::availableCores(
 
 # Get cases ---------------------------------------------------------------
 
-min_total_cases <- 10
-min_forecast_cases <- 10
+min_total_cases <- 1
+min_forecast_cases <- 5
 case_limit <- 1
 max_regions <- 1000 
 
